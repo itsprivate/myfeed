@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T20:32:59.975Z</updated>
+    <updated>2022-02-17T20:39:43.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JSON-to-multicsv - 將分層的JSON轉換為多個CSV文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30378244</id>
+        <link href="https://news.ycombinator.com/item?id=30378244"/>
+        <updated>2022-02-17T20:31:06.000Z</updated>
+        <summary type="html"><![CDATA[JSON-to-multicsv – Convert hierarchical JSON to multiple CSV files]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Count FEFE是一款用於培養會計和金融知識的免費遊戲。]]></title>
         <id>https://news.ycombinator.com/item?id=30378063</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=30329552"/>
         <updated>2022-02-14T08:18:00.000Z</updated>
         <summary type="html"><![CDATA[The honest green guide: what ‘net zero’ will cost you (2021)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15更新後，iOS文本替換缺失（2021）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30330720</id>
-        <link href="https://news.ycombinator.com/item?id=30330720"/>
-        <updated>2022-02-14T11:23:04.000Z</updated>
-        <summary type="html"><![CDATA[iOS Text Replacement Missing after iOS 15 Update (2021)]]></summary>
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
