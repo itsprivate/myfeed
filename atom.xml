@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T22:42:12.751Z</updated>
+    <updated>2022-02-17T22:53:38.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[免揉捏的佳得乐面包]]></title>
+        <id>https://news.ycombinator.com/item?id=30379686</id>
+        <link href="https://news.ycombinator.com/item?id=30379686"/>
+        <updated>2022-02-17T22:40:54.000Z</updated>
+        <summary type="html"><![CDATA[No-Knead Gatorade Bread]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高容量彩色条码]]></title>
+        <id>https://news.ycombinator.com/item?id=30379740</id>
+        <link href="https://news.ycombinator.com/item?id=30379740"/>
+        <updated>2022-02-17T22:45:48.000Z</updated>
+        <summary type="html"><![CDATA[High Capacity Color Barcode]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的国家充满了问题，读太多的书并不是问题之一]]></title>
         <id>https://news.ycombinator.com/item?id=30379604</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>llambda</name>
             <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌班图理念]]></title>
-        <id>https://news.ycombinator.com/item?id=23980013</id>
-        <link href="https://news.ycombinator.com/item?id=23980013"/>
-        <updated>2020-07-28T19:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu Philosophy]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星上的开放源码。社区为美国国家航空航天局的创新直升机提供动力]]></title>
-        <id>https://news.ycombinator.com/item?id=26865678</id>
-        <link href="https://news.ycombinator.com/item?id=26865678"/>
-        <updated>2021-04-19T17:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Open Source on Mars: Community Powers NASA’s Ingenuity Helicopter]]></summary>
-        <author>
-            <name>davidw</name>
-            <uri>https://news.ycombinator.com/user?id=davidw</uri>
         </author>
     </entry>
 </feed>
