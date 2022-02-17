@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T21:53:40.126Z</updated>
+    <updated>2022-02-17T22:42:12.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们的国家充满了问题，读太多的书并不是问题之一]]></title>
+        <id>https://news.ycombinator.com/item?id=30379604</id>
+        <link href="https://news.ycombinator.com/item?id=30379604"/>
+        <updated>2022-02-17T22:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Our Country Is Filled with Problems; Reading Too Many Books Isn't One]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先进的计算机模拟为岩浆提供了耐人寻味的新启示]]></title>
         <id>https://news.ycombinator.com/item?id=30379113</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=26865678"/>
         <updated>2021-04-19T17:39:11.000Z</updated>
         <summary type="html"><![CDATA[Open Source on Mars: Community Powers NASA’s Ingenuity Helicopter]]></summary>
-        <author>
-            <name>davidw</name>
-            <uri>https://news.ycombinator.com/user?id=davidw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科索里智能空气炸锅存在远程代码执行漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=26868970</id>
-        <link href="https://news.ycombinator.com/item?id=26868970"/>
-        <updated>2021-04-19T23:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Remote code execution vulnerabilities in Cosori smart air fryer]]></summary>
         <author>
             <name>davidw</name>
             <uri>https://news.ycombinator.com/user?id=davidw</uri>
