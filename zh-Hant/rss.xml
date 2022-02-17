@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Feb 2022 12:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 13:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[誰在搶佔IPv4地址？]]></title>
+            <link>https://news.ycombinator.com/item?id=30372741</link>
+            <guid>https://news.ycombinator.com/item?id=30372741</guid>
+            <pubDate>Thu, 17 Feb 2022 13:21:14 GMT</pubDate>
+            <description><![CDATA[Who is squatting IPv4 addresses?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[佩羅頓的史詩般的錯誤判罰和壞運氣]]></title>
+            <link>https://news.ycombinator.com/item?id=30372711</link>
+            <guid>https://news.ycombinator.com/item?id=30372711</guid>
+            <pubDate>Thu, 17 Feb 2022 13:17:48 GMT</pubDate>
+            <description><![CDATA[Peloton’s epic run of bungled calls and bad luck]]></description>
+        </item>
         <item>
             <title><![CDATA[所以你想存儲一個文件（2021）。]]></title>
             <link>https://news.ycombinator.com/item?id=30372385</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30206824</guid>
             <pubDate>Fri, 04 Feb 2022 14:00:37 GMT</pubDate>
             <description><![CDATA[Missing Manuals – io_uring worker pool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼要引入`std::launder`而不是讓編譯器來處理？]]></title>
-            <link>https://news.ycombinator.com/item?id=30017204</link>
-            <guid>https://news.ycombinator.com/item?id=30017204</guid>
-            <pubDate>Thu, 20 Jan 2022 23:56:59 GMT</pubDate>
-            <description><![CDATA[Why introduce `std::launder` rather than have the compiler take care of it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程序員將不惜一切代價確保記者得不到報酬]]></title>
-            <link>https://news.ycombinator.com/item?id=30249304</link>
-            <guid>https://news.ycombinator.com/item?id=30249304</guid>
-            <pubDate>Mon, 07 Feb 2022 18:56:09 GMT</pubDate>
-            <description><![CDATA[Programmers will do whatever it takes to make sure journalists don't get paid]]></description>
         </item>
     </channel>
 </rss>
