@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T02:41:18.681Z</updated>
+    <updated>2022-02-17T03:52:57.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PyTorch中的实用量化]]></title>
+        <id>https://news.ycombinator.com/item?id=30369315</id>
+        <link href="https://news.ycombinator.com/item?id=30369315"/>
+        <updated>2022-02-17T03:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Practical Quantization in PyTorch]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不和谐原理》（The Principia Discordia]]></title>
         <id>https://news.ycombinator.com/item?id=30368773</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Animats</name>
             <uri>https://news.ycombinator.com/user?id=Animats</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特和脸书对《纽约邮报》亨特-拜登报道的压制]]></title>
-        <id>https://news.ycombinator.com/item?id=24784751</id>
-        <link href="https://news.ycombinator.com/item?id=24784751"/>
-        <updated>2020-10-15T03:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Twitter and Facebook’s Repression of the New York Post’s Hunter Biden Story]]></summary>
-        <author>
-            <name>rayiner</name>
-            <uri>https://news.ycombinator.com/user?id=rayiner</uri>
         </author>
     </entry>
 </feed>
