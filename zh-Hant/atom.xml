@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T22:53:38.732Z</updated>
+    <updated>2022-02-17T23:13:38.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用於BPF代碼的內存分配器]]></title>
+        <id>https://news.ycombinator.com/item?id=30379956</id>
+        <link href="https://news.ycombinator.com/item?id=30379956"/>
+        <updated>2022-02-17T23:07:11.000Z</updated>
+        <summary type="html"><![CDATA[A memory allocator for BPF code]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魯尼規則]]></title>
+        <id>https://news.ycombinator.com/item?id=30379964</id>
+        <link href="https://news.ycombinator.com/item?id=30379964"/>
+        <updated>2022-02-17T23:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Rooney Rule]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國各地近一半的禿鷹測試顯示有慢性鉛暴露的跡象]]></title>
+        <id>https://news.ycombinator.com/item?id=30379833</id>
+        <link href="https://news.ycombinator.com/item?id=30379833"/>
+        <updated>2022-02-17T22:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Nearly half of bald eagles tested across US show signs of chronic lead exposure]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在火星上的一年：美國宇航局的 "毅力 "號如何擊中地質學大獎]]></title>
+        <id>https://news.ycombinator.com/item?id=30379846</id>
+        <link href="https://news.ycombinator.com/item?id=30379846"/>
+        <updated>2022-02-17T22:56:28.000Z</updated>
+        <summary type="html"><![CDATA[A year on Mars: How NASA’s Perseverance hit a geological jackpot]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免揉捏的佳得樂麵包]]></title>
         <id>https://news.ycombinator.com/item?id=30379686</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>fogus</name>
             <uri>https://news.ycombinator.com/user?id=fogus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18XX火車遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=25539520</id>
-        <link href="https://news.ycombinator.com/item?id=25539520"/>
-        <updated>2020-12-25T22:26:03.000Z</updated>
-        <summary type="html"><![CDATA[18XX Train Games]]></summary>
-        <author>
-            <name>fogus</name>
-            <uri>https://news.ycombinator.com/user?id=fogus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure的構建是正交部分的混合體]]></title>
-        <id>https://news.ycombinator.com/item?id=27894735</id>
-        <link href="https://news.ycombinator.com/item?id=27894735"/>
-        <updated>2021-07-20T15:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Clojure builds as an amalgamation of orthogonal parts]]></summary>
-        <author>
-            <name>fogus</name>
-            <uri>https://news.ycombinator.com/user?id=fogus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[護照》。更好的衡量標準的工具（2016）。]]></title>
-        <id>https://news.ycombinator.com/item?id=20543909</id>
-        <link href="https://news.ycombinator.com/item?id=20543909"/>
-        <updated>2019-07-27T20:17:09.000Z</updated>
-        <summary type="html"><![CDATA[The Passport: A Tool for Better Metrics (2016)]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有效的氣流發展]]></title>
-        <id>https://news.ycombinator.com/item?id=21826242</id>
-        <link href="https://news.ycombinator.com/item?id=21826242"/>
-        <updated>2019-12-18T16:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Effective Airflow development]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
         </author>
     </entry>
 </feed>
