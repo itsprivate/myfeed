@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T23:13:37.984Z</updated>
+    <updated>2022-02-17T23:31:57.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Z世代不了解文件结构（第415集） - Stack Overflow博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30380003</id>
+        <link href="https://news.ycombinator.com/item?id=30380003"/>
+        <updated>2022-02-17T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Gen Z doesn’t understand file structures (Ep. 415) – Stack Overflow Blog]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个用于BPF代码的内存分配器]]></title>
         <id>https://news.ycombinator.com/item?id=30379956</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jedberg</name>
             <uri>https://news.ycombinator.com/user?id=jedberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18XX游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=25456771</id>
-        <link href="https://news.ycombinator.com/item?id=25456771"/>
-        <updated>2020-12-17T16:03:21.000Z</updated>
-        <summary type="html"><![CDATA[18XX Games]]></summary>
-        <author>
-            <name>fogus</name>
-            <uri>https://news.ycombinator.com/user?id=fogus</uri>
         </author>
     </entry>
 </feed>
