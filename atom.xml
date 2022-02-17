@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T17:06:13.868Z</updated>
+    <updated>2022-02-17T17:21:36.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开放源代码应该如何支持关键的依赖性？]]></title>
+        <id>https://news.ycombinator.com/item?id=23715134</id>
+        <link href="https://news.ycombinator.com/item?id=23715134"/>
+        <updated>2020-07-02T16:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How should open source support critical dependencies?]]></summary>
+        <author>
+            <name>hn_throwaway_99</name>
+            <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产准备就绪的eBPF，或我们如何修复BSD插座API]]></title>
+        <id>https://news.ycombinator.com/item?id=30375516</id>
+        <link href="https://news.ycombinator.com/item?id=30375516"/>
+        <updated>2022-02-17T17:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Production ready eBPF, or how we fixed the BSD socket API]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何证据表明合规性审计可以提高安全性？]]></title>
         <id>https://news.ycombinator.com/item?id=27965834</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>jerf</name>
             <uri>https://news.ycombinator.com/user?id=jerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对假性成瘾]]></title>
-        <id>https://news.ycombinator.com/item?id=20988477</id>
-        <link href="https://news.ycombinator.com/item?id=20988477"/>
-        <updated>2019-09-16T20:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Against Against Pseudoaddiction]]></summary>
-        <author>
-            <name>jerf</name>
-            <uri>https://news.ycombinator.com/user?id=jerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将到来的KOS]]></title>
-        <id>https://news.ycombinator.com/item?id=26520609</id>
-        <link href="https://news.ycombinator.com/item?id=26520609"/>
-        <updated>2021-03-20T03:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Impending KOS]]></summary>
-        <author>
-            <name>coldtea</name>
-            <uri>https://news.ycombinator.com/user?id=coldtea</uri>
         </author>
     </entry>
 </feed>

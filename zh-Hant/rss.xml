@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Feb 2022 17:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 17:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放源代碼應該如何支持關鍵的依賴性？]]></title>
+            <link>https://news.ycombinator.com/item?id=23715134</link>
+            <guid>https://news.ycombinator.com/item?id=23715134</guid>
+            <pubDate>Thu, 02 Jul 2020 16:43:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: How should open source support critical dependencies?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生產準備就緒的eBPF，或我們如何修復BSD插座API]]></title>
+            <link>https://news.ycombinator.com/item?id=30375516</link>
+            <guid>https://news.ycombinator.com/item?id=30375516</guid>
+            <pubDate>Thu, 17 Feb 2022 17:03:28 GMT</pubDate>
+            <description><![CDATA[Production ready eBPF, or how we fixed the BSD socket API]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有任何證據表明合規性審計可以提高安全性？]]></title>
             <link>https://news.ycombinator.com/item?id=27965834</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=17681997</guid>
             <pubDate>Fri, 03 Aug 2018 17:59:26 GMT</pubDate>
             <description><![CDATA[The Scutoid: did scientists discover a new shape?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反對假性成癮]]></title>
-            <link>https://news.ycombinator.com/item?id=20988477</link>
-            <guid>https://news.ycombinator.com/item?id=20988477</guid>
-            <pubDate>Mon, 16 Sep 2019 20:51:22 GMT</pubDate>
-            <description><![CDATA[Against Against Pseudoaddiction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[即將到來的KOS]]></title>
-            <link>https://news.ycombinator.com/item?id=26520609</link>
-            <guid>https://news.ycombinator.com/item?id=26520609</guid>
-            <pubDate>Sat, 20 Mar 2021 03:33:47 GMT</pubDate>
-            <description><![CDATA[Impending KOS]]></description>
         </item>
     </channel>
 </rss>
