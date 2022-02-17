@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T15:36:01.032Z</updated>
+    <updated>2022-02-17T15:47:38.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我试图发明一个新的查询语言功能，但失败了]]></title>
+        <id>https://news.ycombinator.com/item?id=30374181</id>
+        <link href="https://news.ycombinator.com/item?id=30374181"/>
+        <updated>2022-02-17T15:35:16.000Z</updated>
+        <summary type="html"><![CDATA[I tried to invent a new query language feature and failed]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们应该为数据可视化颁奖吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30374232</id>
+        <link href="https://news.ycombinator.com/item?id=30374232"/>
+        <updated>2022-02-17T15:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Should we give awards for data visualizations?]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马修-本哈姆 布伦特福德俱乐部和火柴盒所有者，又称足球中的钱球。]]></title>
         <id>https://news.ycombinator.com/item?id=30374131</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pjc50</name>
             <uri>https://news.ycombinator.com/user?id=pjc50</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个游戏设计师对QAnon的分析]]></title>
-        <id>https://news.ycombinator.com/item?id=25454141</id>
-        <link href="https://news.ycombinator.com/item?id=25454141"/>
-        <updated>2020-12-17T09:55:54.000Z</updated>
-        <summary type="html"><![CDATA[A Game Designer’s Analysis of QAnon]]></summary>
-        <author>
-            <name>pjc50</name>
-            <uri>https://news.ycombinator.com/user?id=pjc50</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedLeaf Research OS]]></title>
-        <id>https://news.ycombinator.com/item?id=30311551</id>
-        <link href="https://news.ycombinator.com/item?id=30311551"/>
-        <updated>2022-02-12T10:10:44.000Z</updated>
-        <summary type="html"><![CDATA[RedLeaf Research OS]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
         </author>
     </entry>
 </feed>
