@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T08:14:10.326Z</updated>
+    <updated>2022-02-17T09:15:14.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Haskell2020已經死亡，但所有的希望並沒有消失]]></title>
+        <id>https://news.ycombinator.com/item?id=30370703</id>
+        <link href="https://news.ycombinator.com/item?id=30370703"/>
+        <updated>2022-02-17T08:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Haskell2020 Is Dead, but All Hope Is Not Lost]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[登上NS薩瓦納號，美國第一艘（也是最後一艘）核動力商船（2017年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30370651</id>
+        <link href="https://news.ycombinator.com/item?id=30370651"/>
+        <updated>2022-02-17T08:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Aboard the NS Savannah, America’s first (and last) nuclear merchant ship (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫-肖格的設計技巧（2018）]]></title>
+        <id>https://news.ycombinator.com/item?id=30370654</id>
+        <link href="https://news.ycombinator.com/item?id=30370654"/>
+        <updated>2022-02-17T08:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Steve Schoger design tips (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PX-1000袖珍電報機中使用的NSA算法已被破解]]></title>
         <id>https://news.ycombinator.com/item?id=30370637</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>JumpCrisscross</name>
             <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[內塔尼亞胡因聲稱警方非法部署飛馬而推遲審判]]></title>
-        <id>https://news.ycombinator.com/item?id=30249243</id>
-        <link href="https://news.ycombinator.com/item?id=30249243"/>
-        <updated>2022-02-07T18:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Netanyahu trial delayed over claims police illegally deployed Pegasus]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾推出10納米節點的FPGA]]></title>
-        <id>https://news.ycombinator.com/item?id=26742821</id>
-        <link href="https://news.ycombinator.com/item?id=26742821"/>
-        <updated>2021-04-08T19:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Intel ships FPGA on 10nm node]]></summary>
-        <author>
-            <name>ChuckMcM</name>
-            <uri>https://news.ycombinator.com/user?id=ChuckMcM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿爾菲尼克重接等離子體推進器]]></title>
-        <id>https://news.ycombinator.com/item?id=27806125</id>
-        <link href="https://news.ycombinator.com/item?id=27806125"/>
-        <updated>2021-07-12T01:53:19.000Z</updated>
-        <summary type="html"><![CDATA[An Alfvenic reconnecting plasmoid thruster]]></summary>
-        <author>
-            <name>ChuckMcM</name>
-            <uri>https://news.ycombinator.com/user?id=ChuckMcM</uri>
         </author>
     </entry>
 </feed>
