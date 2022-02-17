@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T21:15:32.528Z</updated>
+    <updated>2022-02-17T21:31:51.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼'this'是一個指針而不是一個引用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30378766</id>
+        <link href="https://news.ycombinator.com/item?id=30378766"/>
+        <updated>2022-02-17T21:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Why is 'this' a pointer and not a reference?]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孩之寶股價大漲，激進分子尋求 "海岸奇才 "分拆上市]]></title>
         <id>https://news.ycombinator.com/item?id=30378536</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>davidw</name>
             <uri>https://news.ycombinator.com/user?id=davidw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科索文物]]></title>
-        <id>https://news.ycombinator.com/item?id=29732743</id>
-        <link href="https://news.ycombinator.com/item?id=29732743"/>
-        <updated>2021-12-30T02:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Coso Artifact]]></summary>
-        <author>
-            <name>userbinator</name>
-            <uri>https://news.ycombinator.com/user?id=userbinator</uri>
         </author>
     </entry>
 </feed>

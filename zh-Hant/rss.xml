@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Feb 2022 21:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼'this'是一個指針而不是一個引用？]]></title>
+            <link>https://news.ycombinator.com/item?id=30378766</link>
+            <guid>https://news.ycombinator.com/item?id=30378766</guid>
+            <pubDate>Thu, 17 Feb 2022 21:14:07 GMT</pubDate>
+            <description><![CDATA[Why is 'this' a pointer and not a reference?]]></description>
+        </item>
         <item>
             <title><![CDATA[孩之寶股價大漲，激進分子尋求 "海岸奇才 "分拆上市]]></title>
             <link>https://news.ycombinator.com/item?id=30378536</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=27359515</guid>
             <pubDate>Tue, 01 Jun 2021 18:53:48 GMT</pubDate>
             <description><![CDATA[One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科索文物]]></title>
-            <link>https://news.ycombinator.com/item?id=29732743</link>
-            <guid>https://news.ycombinator.com/item?id=29732743</guid>
-            <pubDate>Thu, 30 Dec 2021 02:15:03 GMT</pubDate>
-            <description><![CDATA[Coso Artifact]]></description>
         </item>
     </channel>
 </rss>
