@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T19:13:41.401Z</updated>
+    <updated>2022-02-17T19:27:38.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python中的虚拟环境和包管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30377254</id>
+        <link href="https://news.ycombinator.com/item?id=30377254"/>
+        <updated>2022-02-17T19:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Environments and Package Management in Python]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 7预览版1]]></title>
+        <id>https://news.ycombinator.com/item?id=30377236</id>
+        <link href="https://news.ycombinator.com/item?id=30377236"/>
+        <updated>2022-02-17T19:09:43.000Z</updated>
+        <summary type="html"><![CDATA[.NET 7 Preview 1]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家说，近四分之三的美国人有一些科维德免疫力]]></title>
+        <id>https://news.ycombinator.com/item?id=30377331</id>
+        <link href="https://news.ycombinator.com/item?id=30377331"/>
+        <updated>2022-02-17T19:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Nearly three-quarters of Americans have some Covid immunity, experts say]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两天快乐 为什么像2/22/22这样的数字在过去两千多年里一直很吸引人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30377353</id>
+        <link href="https://news.ycombinator.com/item?id=30377353"/>
+        <updated>2022-02-17T19:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Happy Twosday Why numbers like 2/22/22 have been fascinating for over 2K years]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB闪存驱动器恢复了骑行，进入了夕阳。]]></title>
+        <id>https://news.ycombinator.com/item?id=30377323</id>
+        <link href="https://news.ycombinator.com/item?id=30377323"/>
+        <updated>2022-02-17T19:16:17.000Z</updated>
+        <summary type="html"><![CDATA[USB Flash Drive Restores Ride Off into the Sunset]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们将我们的代码库从中间分开]]></title>
         <id>https://news.ycombinator.com/item?id=30377082</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>dnetesn</name>
             <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狂野的罗马尼亚：欧洲隐藏的野生动物天堂]]></title>
-        <id>https://news.ycombinator.com/item?id=30312431</id>
-        <link href="https://news.ycombinator.com/item?id=30312431"/>
-        <updated>2022-02-12T12:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Wild Romania: Europe’s Hidden Wildlife Paradise]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个古老的几何学问题落入新的数学技术之手]]></title>
-        <id>https://news.ycombinator.com/item?id=30336114</id>
-        <link href="https://news.ycombinator.com/item?id=30336114"/>
-        <updated>2022-02-14T18:37:03.000Z</updated>
-        <summary type="html"><![CDATA[An Ancient Geometry Problem Falls to New Mathematical Techniques]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻击华盛顿特区的互联网投票系统 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=3965185</id>
-        <link href="https://news.ycombinator.com/item?id=3965185"/>
-        <updated>2012-05-12T21:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Attacking the Washington, D.C. Internet Voting System [pdf]]]></summary>
-        <author>
-            <name>jrockway</name>
-            <uri>https://news.ycombinator.com/user?id=jrockway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用谷歌的NFC钱包使用任何信用卡或借记卡]]></title>
-        <id>https://news.ycombinator.com/item?id=4324402</id>
-        <link href="https://news.ycombinator.com/item?id=4324402"/>
-        <updated>2012-08-01T17:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Use any credit or debit card with Google's NFC Wallet]]></summary>
-        <author>
-            <name>jrockway</name>
-            <uri>https://news.ycombinator.com/user?id=jrockway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D打印革命。复杂的现实]]></title>
-        <id>https://news.ycombinator.com/item?id=5222224</id>
-        <link href="https://news.ycombinator.com/item?id=5222224"/>
-        <updated>2013-02-14T20:58:40.000Z</updated>
-        <summary type="html"><![CDATA[3D Printing Revolution: The Complex Reality]]></summary>
-        <author>
-            <name>jrockway</name>
-            <uri>https://news.ycombinator.com/user?id=jrockway</uri>
         </author>
     </entry>
 </feed>
