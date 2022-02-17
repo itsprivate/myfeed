@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T18:56:42.371Z</updated>
+    <updated>2022-02-17T19:13:41.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們將我們的代碼庫從中間分開]]></title>
+        <id>https://news.ycombinator.com/item?id=30377082</id>
+        <link href="https://news.ycombinator.com/item?id=30377082"/>
+        <updated>2022-02-17T18:55:34.000Z</updated>
+        <summary type="html"><![CDATA[We split our codebase down the middle]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust重寫。命令行工具的現代替代品 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30377074</id>
+        <link href="https://news.ycombinator.com/item?id=30377074"/>
+        <updated>2022-02-17T18:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Rewritten in Rust: Modern Alternatives of Command-Line Tools (2020)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHACL]]></title>
+        <id>https://news.ycombinator.com/item?id=30377006</id>
+        <link href="https://news.ycombinator.com/item?id=30377006"/>
+        <updated>2022-02-17T18:49:16.000Z</updated>
+        <summary type="html"><![CDATA[SHACL]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otter.ai為記者節省了轉錄採訪的時間。注意事項]]></title>
+        <id>https://news.ycombinator.com/item?id=30377058</id>
+        <link href="https://news.ycombinator.com/item?id=30377058"/>
+        <updated>2022-02-17T18:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Otter.ai has saved reporters hours transcribing interviews. Caveat emptor]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過程導向]]></title>
         <id>https://news.ycombinator.com/item?id=30376935</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>jrockway</name>
             <uri>https://news.ycombinator.com/user?id=jrockway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt Allstack II - 添加Firebase]]></title>
-        <id>https://news.ycombinator.com/item?id=30361954</id>
-        <link href="https://news.ycombinator.com/item?id=30361954"/>
-        <updated>2022-02-16T16:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Qt Allstack II – Adding Firebase]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅十字會的黑客攻擊與伊朗的影響行動有關？]]></title>
-        <id>https://news.ycombinator.com/item?id=30362253</id>
-        <link href="https://news.ycombinator.com/item?id=30362253"/>
-        <updated>2022-02-16T16:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Red Cross Hack Linked to Iranian Influence Operation?]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig]]></title>
-        <id>https://news.ycombinator.com/item?id=30364036</id>
-        <link href="https://news.ycombinator.com/item?id=30364036"/>
-        <updated>2022-02-16T18:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Zig]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何進行公民逮捕 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=23879207</id>
-        <link href="https://news.ycombinator.com/item?id=23879207"/>
-        <updated>2020-07-18T05:22:26.000Z</updated>
-        <summary type="html"><![CDATA[How to Make a Citizen’s Arrest (2016)]]></summary>
-        <author>
-            <name>shawndumas</name>
-            <uri>https://news.ycombinator.com/user?id=shawndumas</uri>
         </author>
     </entry>
 </feed>
