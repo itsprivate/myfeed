@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T13:34:35.347Z</updated>
+    <updated>2022-02-17T14:31:40.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用標記煮沸海洋(2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30373210</id>
+        <link href="https://news.ycombinator.com/item?id=30373210"/>
+        <updated>2022-02-17T14:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Boiling the Ocean with Markup (2016)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道德條款：出版商對作家進行監督是正確的嗎？(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30373215</id>
+        <link href="https://news.ycombinator.com/item?id=30373215"/>
+        <updated>2022-02-17T14:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Morality clauses: are publishers right to police writers? (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰在搶佔IPv4地址？]]></title>
         <id>https://news.ycombinator.com/item?id=30372741</id>
@@ -10988,28 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=30166322"/>
         <updated>2022-02-01T17:51:13.000Z</updated>
         <summary type="html"><![CDATA[The public launch of Cloudflare's bug bounty program]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何停止耗盡短暫的端口並愛上長壽的連接]]></title>
-        <id>https://news.ycombinator.com/item?id=30175624</id>
-        <link href="https://news.ycombinator.com/item?id=30175624"/>
-        <updated>2022-02-02T09:55:44.000Z</updated>
-        <summary type="html"><![CDATA[How to stop running out of ephemeral ports and love long-lived connections]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缺少的手冊 - io_uring 工人池]]></title>
-        <id>https://news.ycombinator.com/item?id=30206824</id>
-        <link href="https://news.ycombinator.com/item?id=30206824"/>
-        <updated>2022-02-04T14:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Missing Manuals – io_uring worker pool]]></summary>
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>

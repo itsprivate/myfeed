@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Feb 2022 13:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 14:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用標記煮沸海洋(2016)]]></title>
+            <link>https://news.ycombinator.com/item?id=30373210</link>
+            <guid>https://news.ycombinator.com/item?id=30373210</guid>
+            <pubDate>Thu, 17 Feb 2022 14:11:42 GMT</pubDate>
+            <description><![CDATA[Boiling the Ocean with Markup (2016)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[道德條款：出版商對作家進行監督是正確的嗎？(2018)]]></title>
+            <link>https://news.ycombinator.com/item?id=30373215</link>
+            <guid>https://news.ycombinator.com/item?id=30373215</guid>
+            <pubDate>Thu, 17 Feb 2022 14:12:09 GMT</pubDate>
+            <description><![CDATA[Morality clauses: are publishers right to police writers? (2018)]]></description>
+        </item>
         <item>
             <title><![CDATA[誰在搶佔IPv4地址？]]></title>
             <link>https://news.ycombinator.com/item?id=30372741</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30166322</guid>
             <pubDate>Tue, 01 Feb 2022 17:51:13 GMT</pubDate>
             <description><![CDATA[The public launch of Cloudflare's bug bounty program]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何停止耗盡短暫的端口並愛上長壽的連接]]></title>
-            <link>https://news.ycombinator.com/item?id=30175624</link>
-            <guid>https://news.ycombinator.com/item?id=30175624</guid>
-            <pubDate>Wed, 02 Feb 2022 09:55:44 GMT</pubDate>
-            <description><![CDATA[How to stop running out of ephemeral ports and love long-lived connections]]></description>
-        </item>
-        <item>
-            <title><![CDATA[缺少的手冊 - io_uring 工人池]]></title>
-            <link>https://news.ycombinator.com/item?id=30206824</link>
-            <guid>https://news.ycombinator.com/item?id=30206824</guid>
-            <pubDate>Fri, 04 Feb 2022 14:00:37 GMT</pubDate>
-            <description><![CDATA[Missing Manuals – io_uring worker pool]]></description>
         </item>
     </channel>
 </rss>
