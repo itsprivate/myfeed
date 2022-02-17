@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T16:48:35.072Z</updated>
+    <updated>2022-02-17T17:06:13.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有任何證據表明合規性審計可以提高安全性？]]></title>
+        <id>https://news.ycombinator.com/item?id=27965834</id>
+        <link href="https://news.ycombinator.com/item?id=27965834"/>
+        <updated>2021-07-26T21:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there any evidence that compliance audits improve security?]]></summary>
+        <author>
+            <name>hn_throwaway_99</name>
+            <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN上是否有一個地方可以容納有趣但又會引起火藥味的話題？]]></title>
+        <id>https://news.ycombinator.com/item?id=29532676</id>
+        <link href="https://news.ycombinator.com/item?id=29532676"/>
+        <updated>2021-12-12T19:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a place on HN for interesting yet flame-war inducing topics?]]></summary>
+        <author>
+            <name>hn_throwaway_99</name>
+            <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RaSCSI是一個在樹莓派上運行的虛擬SCSI設備仿真器。]]></title>
+        <id>https://news.ycombinator.com/item?id=30375364</id>
+        <link href="https://news.ycombinator.com/item?id=30375364"/>
+        <updated>2022-02-17T16:53:52.000Z</updated>
+        <summary type="html"><![CDATA[RaSCSI is a virtual SCSI device emulator that runs on a Raspberry Pi]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟盤複製保護是如何運作的]]></title>
+        <id>https://news.ycombinator.com/item?id=30375381</id>
+        <link href="https://news.ycombinator.com/item?id=30375381"/>
+        <updated>2022-02-17T16:55:33.000Z</updated>
+        <summary type="html"><![CDATA[How Floppy Disk Copy Protection Worked]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的預覽版建設為Windows 11 Pro增加了微軟賬戶要求]]></title>
         <id>https://news.ycombinator.com/item?id=30374943</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>coldtea</name>
             <uri>https://news.ycombinator.com/user?id=coldtea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustPython - 用Rust編寫的Python]]></title>
-        <id>https://news.ycombinator.com/item?id=27060802</id>
-        <link href="https://news.ycombinator.com/item?id=27060802"/>
-        <updated>2021-05-06T09:15:50.000Z</updated>
-        <summary type="html"><![CDATA[RustPython – Python Written in Rust]]></summary>
-        <author>
-            <name>coldtea</name>
-            <uri>https://news.ycombinator.com/user?id=coldtea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sdkman - 軟件開發工具包管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=27246163</id>
-        <link href="https://news.ycombinator.com/item?id=27246163"/>
-        <updated>2021-05-22T13:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Sdkman – The Software Development Kit Manager]]></summary>
-        <author>
-            <name>coldtea</name>
-            <uri>https://news.ycombinator.com/user?id=coldtea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手持式計算器的發明者傑裡-梅里曼去世，享年86歲]]></title>
-        <id>https://news.ycombinator.com/item?id=19320607</id>
-        <link href="https://news.ycombinator.com/item?id=19320607"/>
-        <updated>2019-03-06T17:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Jerry Merryman, an inventor of the handheld calculator, dies at 86]]></summary>
-        <author>
-            <name>edw519</name>
-            <uri>https://news.ycombinator.com/user?id=edw519</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員解決了數學中最臭名昭著的開放性問題之一]]></title>
-        <id>https://news.ycombinator.com/item?id=22730251</id>
-        <link href="https://news.ycombinator.com/item?id=22730251"/>
-        <updated>2020-03-30T17:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Researchers Solve One of the Most Notorious Open Problems in Math]]></summary>
-        <author>
-            <name>edw519</name>
-            <uri>https://news.ycombinator.com/user?id=edw519</uri>
         </author>
     </entry>
 </feed>
