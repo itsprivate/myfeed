@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T14:31:40.891Z</updated>
+    <updated>2022-02-17T15:13:20.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瑞格提公司和安培公司宣佈建立戰略合作伙伴關係]]></title>
+        <id>https://news.ycombinator.com/item?id=30373591</id>
+        <link href="https://news.ycombinator.com/item?id=30373591"/>
+        <updated>2022-02-17T14:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Rigetti and Ampere Announce Strategic Partnership To]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用標記煮沸海洋(2016)]]></title>
         <id>https://news.ycombinator.com/item?id=30373210</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare的漏洞賞金計劃的公開啟動]]></title>
-        <id>https://news.ycombinator.com/item?id=30166322</id>
-        <link href="https://news.ycombinator.com/item?id=30166322"/>
-        <updated>2022-02-01T17:51:13.000Z</updated>
-        <summary type="html"><![CDATA[The public launch of Cloudflare's bug bounty program]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
         </author>
     </entry>
 </feed>
