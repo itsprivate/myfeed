@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鋰電]]></title>
+            <link>https://news.ycombinator.com/item?id=30383336</link>
+            <guid>https://news.ycombinator.com/item?id=30383336</guid>
+            <pubDate>Fri, 18 Feb 2022 08:20:18 GMT</pubDate>
+            <description><![CDATA[Lit2Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LoC主題標題。前與後的協調及相關問題 (2007) [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30383337</link>
+            <guid>https://news.ycombinator.com/item?id=30383337</guid>
+            <pubDate>Fri, 18 Feb 2022 08:20:28 GMT</pubDate>
+            <description><![CDATA[LoC Subject Headings: Pre- vs. Post-Coordination and Related Issues (2007) [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[在所有主要瀏覽器中，字體的跨域緩存已被禁用。]]></title>
             <link>https://news.ycombinator.com/item?id=30383078</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30298864</guid>
             <pubDate>Fri, 11 Feb 2022 08:45:38 GMT</pubDate>
             <description><![CDATA[Tooling. determine the best build tool for your next web project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[勘探哈希函數（2018年）]]></title>
-            <link>https://news.ycombinator.com/item?id=23009565</link>
-            <guid>https://news.ycombinator.com/item?id=23009565</guid>
-            <pubDate>Tue, 28 Apr 2020 17:38:18 GMT</pubDate>
-            <description><![CDATA[Prospecting for Hash Functions (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust中的小字符串]]></title>
-            <link>https://news.ycombinator.com/item?id=23746766</link>
-            <guid>https://news.ycombinator.com/item?id=23746766</guid>
-            <pubDate>Mon, 06 Jul 2020 11:30:14 GMT</pubDate>
-            <description><![CDATA[Small Strings in Rust]]></description>
         </item>
     </channel>
 </rss>

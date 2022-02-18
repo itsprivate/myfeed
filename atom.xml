@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T07:53:19.981Z</updated>
+    <updated>2022-02-18T08:36:29.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[锂电]]></title>
+        <id>https://news.ycombinator.com/item?id=30383336</id>
+        <link href="https://news.ycombinator.com/item?id=30383336"/>
+        <updated>2022-02-18T08:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Lit2Go]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoC主题标题。前与后的协调及相关问题 (2007) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30383337</id>
+        <link href="https://news.ycombinator.com/item?id=30383337"/>
+        <updated>2022-02-18T08:20:28.000Z</updated>
+        <summary type="html"><![CDATA[LoC Subject Headings: Pre- vs. Post-Coordination and Related Issues (2007) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在所有主要浏览器中，字体的跨域缓存已被禁用。]]></title>
         <id>https://news.ycombinator.com/item?id=30383078</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>robin_reala</name>
             <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勘探哈希函数（2018年）]]></title>
-        <id>https://news.ycombinator.com/item?id=23009565</id>
-        <link href="https://news.ycombinator.com/item?id=23009565"/>
-        <updated>2020-04-28T17:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Prospecting for Hash Functions (2018)]]></summary>
-        <author>
-            <name>masklinn</name>
-            <uri>https://news.ycombinator.com/user?id=masklinn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的小字符串]]></title>
-        <id>https://news.ycombinator.com/item?id=23746766</id>
-        <link href="https://news.ycombinator.com/item?id=23746766"/>
-        <updated>2020-07-06T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Small Strings in Rust]]></summary>
-        <author>
-            <name>masklinn</name>
-            <uri>https://news.ycombinator.com/user?id=masklinn</uri>
         </author>
     </entry>
 </feed>
