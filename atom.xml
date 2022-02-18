@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T12:18:52.917Z</updated>
+    <updated>2022-02-18T12:50:56.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元流协议的艺术。流的洪流]]></title>
+        <id>https://news.ycombinator.com/item?id=30385052</id>
+        <link href="https://news.ycombinator.com/item?id=30385052"/>
+        <updated>2022-02-18T12:46:11.000Z</updated>
+        <summary type="html"><![CDATA[The Art of the Meta Stream Protocol: Torrents of Streams]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何给Emacs打补丁]]></title>
+        <id>https://news.ycombinator.com/item?id=30384844</id>
+        <link href="https://news.ycombinator.com/item?id=30384844"/>
+        <updated>2022-02-18T12:24:12.000Z</updated>
+        <summary type="html"><![CDATA[How to Patch Emacs]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[包括奥迪、保时捷在内的1000多辆汽车在燃烧的货船上漂流]]></title>
+        <id>https://news.ycombinator.com/item?id=30384944</id>
+        <link href="https://news.ycombinator.com/item?id=30384944"/>
+        <updated>2022-02-18T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[1000s of Cars Including Audis, Porsches Adrift on Burning Cargo Ship]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿工复兴了一个濒临死亡的化石燃料工厂--然后二氧化碳排放量飙升]]></title>
+        <id>https://news.ycombinator.com/item?id=30384927</id>
+        <link href="https://news.ycombinator.com/item?id=30384927"/>
+        <updated>2022-02-18T12:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin miners revived a dying fossil fuel plant – then CO2 emissions soared]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被盗的注意力。约翰-哈瑞解释你的注意力是如何被偷走的]]></title>
+        <id>https://news.ycombinator.com/item?id=30384924</id>
+        <link href="https://news.ycombinator.com/item?id=30384924"/>
+        <updated>2022-02-18T12:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Stolen Focus: Johann Hari explains how your attention has been stolen]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基地32]]></title>
         <id>https://news.ycombinator.com/item?id=30384690</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>nkurz</name>
             <uri>https://news.ycombinator.com/user?id=nkurz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流氓黑洞首次被发现独立存在]]></title>
-        <id>https://news.ycombinator.com/item?id=30260998</id>
-        <link href="https://news.ycombinator.com/item?id=30260998"/>
-        <updated>2022-02-08T17:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Rogue black hole spotted on its own for the first time]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid-19健康危机期间记者的HIPAA指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30308781</id>
-        <link href="https://news.ycombinator.com/item?id=30308781"/>
-        <updated>2022-02-12T00:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Journalists’ guide to HIPAA during the Covid-19 health crisis]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航局望远镜发现木星上有史以来的强大力量，有助于解决30年来的谜团]]></title>
-        <id>https://news.ycombinator.com/item?id=30323030</id>
-        <link href="https://news.ycombinator.com/item?id=30323030"/>
-        <updated>2022-02-13T16:42:38.000Z</updated>
-        <summary type="html"><![CDATA[NASA telescope spots powerful ever seen on Jupiter helps solve 30-year mystery]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于在diaspora节点之间移动账户的最新情况*。]]></title>
-        <id>https://news.ycombinator.com/item?id=29298270</id>
-        <link href="https://news.ycombinator.com/item?id=29298270"/>
-        <updated>2021-11-21T18:06:45.000Z</updated>
-        <summary type="html"><![CDATA[Update on moving accounts between nodes on diaspora*]]></summary>
-        <author>
-            <name>sp332</name>
-            <uri>https://news.ycombinator.com/user?id=sp332</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FarPlay。互联网上的低延迟音频]]></title>
-        <id>https://news.ycombinator.com/item?id=29336759</id>
-        <link href="https://news.ycombinator.com/item?id=29336759"/>
-        <updated>2021-11-25T00:06:40.000Z</updated>
-        <summary type="html"><![CDATA[FarPlay: Low-Latency Audio over the Internet]]></summary>
-        <author>
-            <name>sp332</name>
-            <uri>https://news.ycombinator.com/user?id=sp332</uri>
         </author>
     </entry>
 </feed>
