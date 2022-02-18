@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T13:53:22.223Z</updated>
+    <updated>2022-02-18T14:12:53.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拜登被認為下週將發佈加密貨幣監督執行令]]></title>
+        <id>https://news.ycombinator.com/item?id=30385783</id>
+        <link href="https://news.ycombinator.com/item?id=30385783"/>
+        <updated>2022-02-18T14:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Biden seen issuing crypto oversight exec order next week]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鑽探公司已提交邁阿密6.2英里地下系統的提案]]></title>
         <id>https://news.ycombinator.com/item?id=30385457</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>icebraining</name>
             <uri>https://news.ycombinator.com/user?id=icebraining</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新的故障顯示我們對航空旅行知之甚少]]></title>
-        <id>https://news.ycombinator.com/item?id=19560629</id>
-        <link href="https://news.ycombinator.com/item?id=19560629"/>
-        <updated>2019-04-03T04:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Latest Outage Shows How Little We Know About Air Travel]]></summary>
-        <author>
-            <name>tyingq</name>
-            <uri>https://news.ycombinator.com/user?id=tyingq</uri>
         </author>
     </entry>
 </feed>
