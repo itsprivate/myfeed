@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Feb 2022 23:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 23:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[小行星，哈勃的对手，和月球基地。中国制定了太空议程]]></title>
+            <link>https://news.ycombinator.com/item?id=30392738</link>
+            <guid>https://news.ycombinator.com/item?id=30392738</guid>
+            <pubDate>Fri, 18 Feb 2022 23:42:42 GMT</pubDate>
+            <description><![CDATA[Asteroids, Hubble rival, and Moon base: China sets out space agenda]]></description>
+        </item>
         <item>
             <title><![CDATA[机器学习成为数学界的合作者]]></title>
             <link>https://news.ycombinator.com/item?id=30392643</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=25106200</guid>
             <pubDate>Sun, 15 Nov 2020 23:53:33 GMT</pubDate>
             <description><![CDATA[1972 Great Daylight Fireball]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SeaHash。Rust中快速、可移植的哈希函数]]></title>
-            <link>https://news.ycombinator.com/item?id=13057797</link>
-            <guid>https://news.ycombinator.com/item?id=13057797</guid>
-            <pubDate>Mon, 28 Nov 2016 19:38:54 GMT</pubDate>
-            <description><![CDATA[SeaHash: A fast, portable hash function in Rust]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T23:39:45.993Z</updated>
+    <updated>2022-02-18T23:53:42.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小行星，哈勃的对手，和月球基地。中国制定了太空议程]]></title>
+        <id>https://news.ycombinator.com/item?id=30392738</id>
+        <link href="https://news.ycombinator.com/item?id=30392738"/>
+        <updated>2022-02-18T23:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Asteroids, Hubble rival, and Moon base: China sets out space agenda]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机器学习成为数学界的合作者]]></title>
         <id>https://news.ycombinator.com/item?id=30392643</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>nostromo</name>
             <uri>https://news.ycombinator.com/user?id=nostromo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SeaHash。Rust中快速、可移植的哈希函数]]></title>
-        <id>https://news.ycombinator.com/item?id=13057797</id>
-        <link href="https://news.ycombinator.com/item?id=13057797"/>
-        <updated>2016-11-28T19:38:54.000Z</updated>
-        <summary type="html"><![CDATA[SeaHash: A fast, portable hash function in Rust]]></summary>
-        <author>
-            <name>pcwalton</name>
-            <uri>https://news.ycombinator.com/user?id=pcwalton</uri>
         </author>
     </entry>
 </feed>
