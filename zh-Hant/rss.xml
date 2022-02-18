@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在所有主要瀏覽器中，字體的跨域緩存已被禁用。]]></title>
+            <link>https://news.ycombinator.com/item?id=30383078</link>
+            <guid>https://news.ycombinator.com/item?id=30383078</guid>
+            <pubDate>Fri, 18 Feb 2022 07:34:44 GMT</pubDate>
+            <description><![CDATA[Cross domain caching for fonts has been disabled in all major browsers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[X訪問控制擴展規範（XACE）]]></title>
+            <link>https://news.ycombinator.com/item?id=30383124</link>
+            <guid>https://news.ycombinator.com/item?id=30383124</guid>
+            <pubDate>Fri, 18 Feb 2022 07:41:16 GMT</pubDate>
+            <description><![CDATA[X Access Control Extension Specification (XACE)]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-馬斯克揭示了對社會保險的無知，令人瞠目結舌]]></title>
             <link>https://news.ycombinator.com/item?id=30382862</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=23746766</guid>
             <pubDate>Mon, 06 Jul 2020 11:30:14 GMT</pubDate>
             <description><![CDATA[Small Strings in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GnuTLS審計：被動明文恢復攻擊]]></title>
-            <link>https://news.ycombinator.com/item?id=23962840</link>
-            <guid>https://news.ycombinator.com/item?id=23962840</guid>
-            <pubDate>Mon, 27 Jul 2020 07:08:37 GMT</pubDate>
-            <description><![CDATA[GnuTLS audit: passive cleartext recovery attack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FX宣佈由《法戈》的諾亞-霍利拍攝外星人電視劇]]></title>
-            <link>https://news.ycombinator.com/item?id=30314342</link>
-            <guid>https://news.ycombinator.com/item?id=30314342</guid>
-            <pubDate>Sat, 12 Feb 2022 17:10:59 GMT</pubDate>
-            <description><![CDATA[FX Announces Alien TV Series from Fargo’s Noah Hawley]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T06:57:14.055Z</updated>
+    <updated>2022-02-18T07:53:19.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在所有主要浏览器中，字体的跨域缓存已被禁用。]]></title>
+        <id>https://news.ycombinator.com/item?id=30383078</id>
+        <link href="https://news.ycombinator.com/item?id=30383078"/>
+        <updated>2022-02-18T07:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Cross domain caching for fonts has been disabled in all major browsers]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X访问控制扩展规范（XACE）]]></title>
+        <id>https://news.ycombinator.com/item?id=30383124</id>
+        <link href="https://news.ycombinator.com/item?id=30383124"/>
+        <updated>2022-02-18T07:41:16.000Z</updated>
+        <summary type="html"><![CDATA[X Access Control Extension Specification (XACE)]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克揭示了对社会保险的无知，令人瞠目结舌]]></title>
         <id>https://news.ycombinator.com/item?id=30382862</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>masklinn</name>
             <uri>https://news.ycombinator.com/user?id=masklinn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GnuTLS审计：被动明文恢复攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=23962840</id>
-        <link href="https://news.ycombinator.com/item?id=23962840"/>
-        <updated>2020-07-27T07:08:37.000Z</updated>
-        <summary type="html"><![CDATA[GnuTLS audit: passive cleartext recovery attack]]></summary>
-        <author>
-            <name>masklinn</name>
-            <uri>https://news.ycombinator.com/user?id=masklinn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FX宣布由《法戈》的诺亚-霍利拍摄外星人电视剧]]></title>
-        <id>https://news.ycombinator.com/item?id=30314342</id>
-        <link href="https://news.ycombinator.com/item?id=30314342"/>
-        <updated>2022-02-12T17:10:59.000Z</updated>
-        <summary type="html"><![CDATA[FX Announces Alien TV Series from Fargo’s Noah Hawley]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
         </author>
     </entry>
 </feed>
