@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T14:12:53.780Z</updated>
+    <updated>2022-02-18T14:31:29.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Repl.nvim: 為Nvim帶來REPL支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30385846</id>
+        <link href="https://news.ycombinator.com/item?id=30385846"/>
+        <updated>2022-02-18T14:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Repl.nvim: Bring REPL Support to Nvim]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿爾岡昆-巴斯克語皮金語]]></title>
+        <id>https://news.ycombinator.com/item?id=30385914</id>
+        <link href="https://news.ycombinator.com/item?id=30385914"/>
+        <updated>2022-02-18T14:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Algonquin-Basque Pidgin]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登被認為下週將發佈加密貨幣監督執行令]]></title>
         <id>https://news.ycombinator.com/item?id=30385783</id>
@@ -10988,28 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=15837864"/>
         <updated>2017-12-03T15:09:23.000Z</updated>
         <summary type="html"><![CDATA[Supreme Court: Hacking conviction stands for man who didn’t hack computer]]></summary>
-        <author>
-            <name>icebraining</name>
-            <uri>https://news.ycombinator.com/user?id=icebraining</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荒謬的還原--寫一個單指令C語言編譯器[視頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=16032452</id>
-        <link href="https://news.ycombinator.com/item?id=16032452"/>
-        <updated>2017-12-29T22:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Reductio ad absurdum – writing a single-instruction C compiler [video]]]></summary>
-        <author>
-            <name>icebraining</name>
-            <uri>https://news.ycombinator.com/user?id=icebraining</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHRDLU - 一個理解自然語言的程序（1968年）]]></title>
-        <id>https://news.ycombinator.com/item?id=17028731</id>
-        <link href="https://news.ycombinator.com/item?id=17028731"/>
-        <updated>2018-05-09T10:21:50.000Z</updated>
-        <summary type="html"><![CDATA[SHRDLU – a program for understanding natural language (1968)]]></summary>
         <author>
             <name>icebraining</name>
             <uri>https://news.ycombinator.com/user?id=icebraining</uri>
