@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T21:53:58.675Z</updated>
+    <updated>2022-02-18T22:14:41.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们禁止使用乐高积木]]></title>
+        <id>https://news.ycombinator.com/item?id=30391724</id>
+        <link href="https://news.ycombinator.com/item?id=30391724"/>
+        <updated>2022-02-18T22:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Why We Banned Legos]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charmbracelet/bubbletea。一个强大的小TUI框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30391605</id>
+        <link href="https://news.ycombinator.com/item?id=30391605"/>
+        <updated>2022-02-18T21:53:50.000Z</updated>
+        <summary type="html"><![CDATA[Charmbracelet/bubbletea: A powerful little TUI framework]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非洲的软件开发商利用人工智能来对抗不平等现象]]></title>
+        <id>https://news.ycombinator.com/item?id=30391617</id>
+        <link href="https://news.ycombinator.com/item?id=30391617"/>
+        <updated>2022-02-18T21:54:34.000Z</updated>
+        <summary type="html"><![CDATA[The African software developers using AI to fight inequality]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忍者饮食 "优先考虑毅力、隐蔽性和消除体味]]></title>
         <id>https://news.ycombinator.com/item?id=30391546</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲对美国的依赖都是计划的一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30226297</id>
-        <link href="https://news.ycombinator.com/item?id=30226297"/>
-        <updated>2022-02-05T21:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Europe’s dependence on the US was all part of the plan]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook/Instagram考虑在欧盟关闭，如果他们不能将数据转移到美国的话]]></title>
-        <id>https://news.ycombinator.com/item?id=30234026</id>
-        <link href="https://news.ycombinator.com/item?id=30234026"/>
-        <updated>2022-02-06T16:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Facebook/Instagram consider shutting down in EU if they can't move data to US]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的创业公司量子空间正计划在月球附近建造一个机器人前哨站]]></title>
-        <id>https://news.ycombinator.com/item?id=30259346</id>
-        <link href="https://news.ycombinator.com/item?id=30259346"/>
-        <updated>2022-02-08T15:16:46.000Z</updated>
-        <summary type="html"><![CDATA[New Startup Quantum Space Is Planning to Build a Robotic Outpost Near the Moon]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
         </author>
     </entry>
 </feed>
