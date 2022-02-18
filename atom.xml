@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T16:16:02.572Z</updated>
+    <updated>2022-02-18T16:47:47.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[他们的图表]]></title>
+        <id>https://news.ycombinator.com/item?id=30387760</id>
+        <link href="https://news.ycombinator.com/item?id=30387760"/>
+        <updated>2022-02-18T16:28:37.000Z</updated>
+        <summary type="html"><![CDATA[TheirCharts]]></summary>
+        <author>
+            <name>ilamont</name>
+            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LXD - 在线试用]]></title>
+        <id>https://news.ycombinator.com/item?id=30387784</id>
+        <link href="https://news.ycombinator.com/item?id=30387784"/>
+        <updated>2022-02-18T16:30:44.000Z</updated>
+        <summary type="html"><![CDATA[LXD – Try It Online]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[克拉伦斯-托马斯的激进种族观 (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30387447</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>btilly</name>
             <uri>https://news.ycombinator.com/user?id=btilly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国不道德的人体实验]]></title>
-        <id>https://news.ycombinator.com/item?id=30268309</id>
-        <link href="https://news.ycombinator.com/item?id=30268309"/>
-        <updated>2022-02-09T03:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Unethical human experimentation in the United States]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨拉菲尼亚法典》(Codex Seraphinianus)]]></title>
-        <id>https://news.ycombinator.com/item?id=30318250</id>
-        <link href="https://news.ycombinator.com/item?id=30318250"/>
-        <updated>2022-02-13T01:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Codex Seraphinianus]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
         </author>
     </entry>
 </feed>
