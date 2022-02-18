@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T09:13:51.979Z</updated>
+    <updated>2022-02-18T10:14:09.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，Erlang - 第一集：Yuri Zhloba (Wargaming)]]></title>
+        <id>https://news.ycombinator.com/item?id=30383887</id>
+        <link href="https://news.ycombinator.com/item?id=30383887"/>
+        <updated>2022-02-18T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Hello, Erlang – Episode 1: Yuri Zhloba (Wargaming)]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用iPhone 13 Pro拍攝的 "人生如夢 "電影]]></title>
+        <id>https://news.ycombinator.com/item?id=30383894</id>
+        <link href="https://news.ycombinator.com/item?id=30383894"/>
+        <updated>2022-02-18T09:52:57.000Z</updated>
+        <summary type="html"><![CDATA['Life Is but a Dream' Shot on iPhone 13 Pro Film]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要把太空競賽讓給中國和億萬富翁]]></title>
+        <id>https://news.ycombinator.com/item?id=30383998</id>
+        <link href="https://news.ycombinator.com/item?id=30383998"/>
+        <updated>2022-02-18T10:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Don’t Cede the Space Race to China and the Billionaires]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blackfella boxes - 土著人的智慧能否阻止人工智能的肆虐？]]></title>
         <id>https://news.ycombinator.com/item?id=30383589</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[病毒性的Metaverse狂歡節好玩嗎？一項調查]]></title>
-        <id>https://news.ycombinator.com/item?id=30014294</id>
-        <link href="https://news.ycombinator.com/item?id=30014294"/>
-        <updated>2022-01-20T20:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Was the Viral Metaverse Rave Fun? An Investigation]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能研究超級集群]]></title>
-        <id>https://news.ycombinator.com/item?id=30061856</id>
-        <link href="https://news.ycombinator.com/item?id=30061856"/>
-        <updated>2022-01-24T18:34:01.000Z</updated>
-        <summary type="html"><![CDATA[The AI Research SuperCluster]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數百名Y Combinator校友加入加密貨幣集體，支持Web3初創企業]]></title>
-        <id>https://news.ycombinator.com/item?id=30065592</id>
-        <link href="https://news.ycombinator.com/item?id=30065592"/>
-        <updated>2022-01-24T23:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Hundreds of Y Combinator alumni join crypto collective to back Web3 startups]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>
