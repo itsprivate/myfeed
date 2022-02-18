@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-17T23:39:57.193Z</updated>
+    <updated>2022-02-18T00:37:28.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[跳過 - 一種編程語言，可以跳過你已經計算過的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30380747</id>
+        <link href="https://news.ycombinator.com/item?id=30380747"/>
+        <updated>2022-02-18T00:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Skip · A programming language to skip the things you have already computed]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SwiftMetalPlatform: 在Vulkan的基礎上用Swift實現金屬API]]></title>
+        <id>https://news.ycombinator.com/item?id=30380517</id>
+        <link href="https://news.ycombinator.com/item?id=30380517"/>
+        <updated>2022-02-18T00:02:36.000Z</updated>
+        <summary type="html"><![CDATA[SwiftMetalPlatform: Metal API implementation in Swift on top of Vulkan]]></summary>
+        <author>
+            <name>adamnemecek</name>
+            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["當我思考編程時，我是如何思考的"]]></title>
+        <id>https://news.ycombinator.com/item?id=30380524</id>
+        <link href="https://news.ycombinator.com/item?id=30380524"/>
+        <updated>2022-02-18T00:03:02.000Z</updated>
+        <summary type="html"><![CDATA[“how I think when I think about programming”]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年SIGCOMM HotNets上的投訴之旅]]></title>
+        <id>https://news.ycombinator.com/item?id=30380469</id>
+        <link href="https://news.ycombinator.com/item?id=30380469"/>
+        <updated>2022-02-17T23:58:17.000Z</updated>
+        <summary type="html"><![CDATA[The Journey of a Complaint at SIGCOMM HotNets 2020]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們的承諾從我們身邊溜走 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30380645</id>
+        <link href="https://news.ycombinator.com/item?id=30380645"/>
+        <updated>2022-02-18T00:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Our Commitments Slip Away from Us [pdf]]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[系統V應用二進制接口 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30380168</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>adamnemecek</name>
             <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheri C/C++編程指南。能力硬件增強型RISC指令 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=24114402</id>
-        <link href="https://news.ycombinator.com/item?id=24114402"/>
-        <updated>2020-08-10T21:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions [pdf]]]></summary>
-        <author>
-            <name>cperciva</name>
-            <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於生命的使用]]></title>
-        <id>https://news.ycombinator.com/item?id=24537865</id>
-        <link href="https://news.ycombinator.com/item?id=24537865"/>
-        <updated>2020-09-20T22:10:51.000Z</updated>
-        <summary type="html"><![CDATA[On the Use of a Life]]></summary>
-        <author>
-            <name>cperciva</name>
-            <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源之聲第12集：Colin Percival]]></title>
-        <id>https://news.ycombinator.com/item?id=26642920</id>
-        <link href="https://news.ycombinator.com/item?id=26642920"/>
-        <updated>2021-03-31T02:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Voices Episode 12: Colin Percival]]></summary>
-        <author>
-            <name>cperciva</name>
-            <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的時區，距離新年還有多長時間？]]></title>
-        <id>https://news.ycombinator.com/item?id=29746144</id>
-        <link href="https://news.ycombinator.com/item?id=29746144"/>
-        <updated>2021-12-31T08:49:54.000Z</updated>
-        <summary type="html"><![CDATA[How long until the New Year in your time zone?]]></summary>
-        <author>
-            <name>jedberg</name>
-            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜歡捐獻的地方是哪裡？]]></title>
-        <id>https://news.ycombinator.com/item?id=29750874</id>
-        <link href="https://news.ycombinator.com/item?id=29750874"/>
-        <updated>2021-12-31T18:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where is your favorite place to donate to?]]></summary>
-        <author>
-            <name>jedberg</name>
-            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
         </author>
     </entry>
 </feed>
