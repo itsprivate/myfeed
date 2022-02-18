@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T00:37:28.533Z</updated>
+    <updated>2022-02-18T01:54:56.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次有调查能够将图拉与FSB联系起来]]></title>
+        <id>https://news.ycombinator.com/item?id=30380846</id>
+        <link href="https://news.ycombinator.com/item?id=30380846"/>
+        <updated>2022-02-18T00:39:30.000Z</updated>
+        <summary type="html"><![CDATA[First time that an investigation is able to tie Turla to the FSB]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家打破了关于人类如何燃烧卡路里的神话--为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30381000</id>
+        <link href="https://news.ycombinator.com/item?id=30381000"/>
+        <updated>2022-02-18T01:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Scientist busts myths about how humans burn calories–and why]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能水务。帮助保护妇女安全的法医喷雾]]></title>
+        <id>https://news.ycombinator.com/item?id=30381242</id>
+        <link href="https://news.ycombinator.com/item?id=30381242"/>
+        <updated>2022-02-18T01:49:05.000Z</updated>
+        <summary type="html"><![CDATA[SmartWater: The forensic spray helping keep women safe]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住房是受欢迎的]]></title>
+        <id>https://news.ycombinator.com/item?id=30381067</id>
+        <link href="https://news.ycombinator.com/item?id=30381067"/>
+        <updated>2022-02-18T01:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Housing Is Popular]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跳过 - 一种编程语言，可以跳过你已经计算过的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30380747</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>DanBC</name>
             <uri>https://news.ycombinator.com/user?id=DanBC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[评估消费者如何解释COVID19自我检测试剂盒的结果并采取行动]]></title>
-        <id>https://news.ycombinator.com/item?id=30178151</id>
-        <link href="https://news.ycombinator.com/item?id=30178151"/>
-        <updated>2022-02-02T14:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Assessing How Consumers Interpret and Act on Results from COVID19 Self-Test Kits]]></summary>
-        <author>
-            <name>DanBC</name>
-            <uri>https://news.ycombinator.com/user?id=DanBC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用200行Rust解释的绿色线程]]></title>
-        <id>https://news.ycombinator.com/item?id=30116964</id>
-        <link href="https://news.ycombinator.com/item?id=30116964"/>
-        <updated>2022-01-28T16:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Green Threads Explained in 200 lines of Rust]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用200行Rust解释的绿色线程]]></title>
-        <id>https://news.ycombinator.com/item?id=30129187</id>
-        <link href="https://news.ycombinator.com/item?id=30129187"/>
-        <updated>2022-01-29T18:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Green Threads Explained in 200 lines of Rust]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Coq中实现高性能分类理论库的经验(2014) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30224909</id>
-        <link href="https://news.ycombinator.com/item?id=30224909"/>
-        <updated>2022-02-05T19:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Experience Implementing a Performant Category-Theory Library in Coq (2014) [pdf]]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
         </author>
     </entry>
 </feed>
