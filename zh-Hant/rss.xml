@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Feb 2022 19:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 20:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第七版 (2020)]]></title>
+            <link>https://news.ycombinator.com/item?id=30390623</link>
+            <guid>https://news.ycombinator.com/item?id=30390623</guid>
+            <pubDate>Fri, 18 Feb 2022 20:27:24 GMT</pubDate>
+            <description><![CDATA[The 7th Edition (2020)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Nix優化Docker層以獲得更好的緩存(2018)]]></title>
+            <link>https://news.ycombinator.com/item?id=30390628</link>
+            <guid>https://news.ycombinator.com/item?id=30390628</guid>
+            <pubDate>Fri, 18 Feb 2022 20:27:34 GMT</pubDate>
+            <description><![CDATA[Optimising Docker Layers for Better Caching with Nix (2018)]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌降低了在北卡羅來納州的工資。現在工人們正在抗議]]></title>
             <link>https://news.ycombinator.com/item?id=30390014</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=28651732</guid>
             <pubDate>Sat, 25 Sep 2021 09:23:31 GMT</pubDate>
             <description><![CDATA[Code Smell: Primitive Obsession [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博伊德的管理模式]]></title>
-            <link>https://news.ycombinator.com/item?id=28660415</link>
-            <guid>https://news.ycombinator.com/item?id=28660415</guid>
-            <pubDate>Sun, 26 Sep 2021 12:38:50 GMT</pubDate>
-            <description><![CDATA[Boyd's Management Model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2021-10-08 書呆子綜述[視頻]]]></title>
-            <link>https://news.ycombinator.com/item?id=28809051</link>
-            <guid>https://news.ycombinator.com/item?id=28809051</guid>
-            <pubDate>Sat, 09 Oct 2021 11:50:34 GMT</pubDate>
-            <description><![CDATA[2021-10-08 Nerd Roundup [video]]]></description>
         </item>
     </channel>
 </rss>

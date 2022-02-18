@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T19:38:22.874Z</updated>
+    <updated>2022-02-18T20:34:02.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第七版 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30390623</id>
+        <link href="https://news.ycombinator.com/item?id=30390623"/>
+        <updated>2022-02-18T20:27:24.000Z</updated>
+        <summary type="html"><![CDATA[The 7th Edition (2020)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Nix优化Docker层以获得更好的缓存(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30390628</id>
+        <link href="https://news.ycombinator.com/item?id=30390628"/>
+        <updated>2022-02-18T20:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Optimising Docker Layers for Better Caching with Nix (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌降低了在北卡罗来纳州的工资。现在工人们正在抗议]]></title>
         <id>https://news.ycombinator.com/item?id=30390014</id>
@@ -10988,28 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=28651732"/>
         <updated>2021-09-25T09:23:31.000Z</updated>
         <summary type="html"><![CDATA[Code Smell: Primitive Obsession [video]]]></summary>
-        <author>
-            <name>DanielBMarkham</name>
-            <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博伊德的管理模式]]></title>
-        <id>https://news.ycombinator.com/item?id=28660415</id>
-        <link href="https://news.ycombinator.com/item?id=28660415"/>
-        <updated>2021-09-26T12:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Boyd's Management Model]]></summary>
-        <author>
-            <name>DanielBMarkham</name>
-            <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-10-08 书呆子综述[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=28809051</id>
-        <link href="https://news.ycombinator.com/item?id=28809051"/>
-        <updated>2021-10-09T11:50:34.000Z</updated>
-        <summary type="html"><![CDATA[2021-10-08 Nerd Roundup [video]]]></summary>
         <author>
             <name>DanielBMarkham</name>
             <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
