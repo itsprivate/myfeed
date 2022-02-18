@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T11:38:15.576Z</updated>
+    <updated>2022-02-18T11:53:50.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用React Native重写的Windows 11设置]]></title>
+        <id>https://news.ycombinator.com/item?id=30384494</id>
+        <link href="https://news.ycombinator.com/item?id=30384494"/>
+        <updated>2022-02-18T11:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 settings rewritten in React Native]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国家航空航天局的低温纳米执行器的巧妙工程]]></title>
+        <id>https://news.ycombinator.com/item?id=30384486</id>
+        <link href="https://news.ycombinator.com/item?id=30384486"/>
+        <updated>2022-02-18T11:35:21.000Z</updated>
+        <summary type="html"><![CDATA[The Clever Engineering of NASA's Cryogenic Nano-Actuators]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧空局将成立委员会研究人类太空探索方案 - SpaceNews]]></title>
         <id>https://news.ycombinator.com/item?id=30384458</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>bane</name>
             <uri>https://news.ycombinator.com/user?id=bane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回到BBS - 第一部分。重返网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30110602</id>
-        <link href="https://news.ycombinator.com/item?id=30110602"/>
-        <updated>2022-01-28T04:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Back to the BBS – Part one: The return to being online]]></summary>
-        <author>
-            <name>bane</name>
-            <uri>https://news.ycombinator.com/user?id=bane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泛亚航空公司 235]]></title>
-        <id>https://news.ycombinator.com/item?id=30317622</id>
-        <link href="https://news.ycombinator.com/item?id=30317622"/>
-        <updated>2022-02-12T23:56:10.000Z</updated>
-        <summary type="html"><![CDATA[TransAsia Airways 235]]></summary>
-        <author>
-            <name>dredmorbius</name>
-            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
         </author>
     </entry>
 </feed>
