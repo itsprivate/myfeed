@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T11:53:50.672Z</updated>
+    <updated>2022-02-18T12:18:53.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基地32]]></title>
+        <id>https://news.ycombinator.com/item?id=30384690</id>
+        <link href="https://news.ycombinator.com/item?id=30384690"/>
+        <updated>2022-02-18T12:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Base 32]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究發現，大腦在60歲以後才會變慢]]></title>
+        <id>https://news.ycombinator.com/item?id=30384598</id>
+        <link href="https://news.ycombinator.com/item?id=30384598"/>
+        <updated>2022-02-18T11:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Brains do not slow down until after age of 60, study finds]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭開機器學習系統的神秘面紗]]></title>
+        <id>https://news.ycombinator.com/item?id=30384638</id>
+        <link href="https://news.ycombinator.com/item?id=30384638"/>
+        <updated>2022-02-18T12:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Demystifying Machine-Learning Systems]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用React Native重寫的Windows 11設置]]></title>
         <id>https://news.ycombinator.com/item?id=30384494</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>sp332</name>
             <uri>https://news.ycombinator.com/user?id=sp332</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何與Spotify分手，作者：Violet Blue]]></title>
-        <id>https://news.ycombinator.com/item?id=30132842</id>
-        <link href="https://news.ycombinator.com/item?id=30132842"/>
-        <updated>2022-01-30T01:38:57.000Z</updated>
-        <summary type="html"><![CDATA[How to Break Up with Spotify, by Violet Blue]]></summary>
-        <author>
-            <name>sp332</name>
-            <uri>https://news.ycombinator.com/user?id=sp332</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[它是如何製成的。商品房64]]></title>
-        <id>https://news.ycombinator.com/item?id=30048435</id>
-        <link href="https://news.ycombinator.com/item?id=30048435"/>
-        <updated>2022-01-23T17:55:53.000Z</updated>
-        <summary type="html"><![CDATA[How It Was Made: The Commodore 64]]></summary>
-        <author>
-            <name>bane</name>
-            <uri>https://news.ycombinator.com/user?id=bane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個視頻遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30067999</id>
-        <link href="https://news.ycombinator.com/item?id=30067999"/>
-        <updated>2022-01-25T04:27:25.000Z</updated>
-        <summary type="html"><![CDATA[The First Video Game]]></summary>
-        <author>
-            <name>bane</name>
-            <uri>https://news.ycombinator.com/user?id=bane</uri>
         </author>
     </entry>
 </feed>
