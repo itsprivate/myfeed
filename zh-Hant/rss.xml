@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Feb 2022 23:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 23:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[機器學習成為數學界的合作者]]></title>
+            <link>https://news.ycombinator.com/item?id=30392643</link>
+            <guid>https://news.ycombinator.com/item?id=30392643</guid>
+            <pubDate>Fri, 18 Feb 2022 23:32:41 GMT</pubDate>
+            <description><![CDATA[Machine Learning Becomes a Mathematical Collaborator]]></description>
+        </item>
         <item>
             <title><![CDATA[同位素的穩定化可能是使鋰硫電池發揮作用的關鍵]]></title>
             <link>https://news.ycombinator.com/item?id=30392567</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=13057797</guid>
             <pubDate>Mon, 28 Nov 2016 19:38:54 GMT</pubDate>
             <description><![CDATA[SeaHash: A fast, portable hash function in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在野外檢測嚴格的混疊違規行為]]></title>
-            <link>https://news.ycombinator.com/item?id=13543397</link>
-            <guid>https://news.ycombinator.com/item?id=13543397</guid>
-            <pubDate>Wed, 01 Feb 2017 18:25:37 GMT</pubDate>
-            <description><![CDATA[Detecting Strict Aliasing Violations in the Wild]]></description>
         </item>
     </channel>
 </rss>

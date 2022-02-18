@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T23:32:14.023Z</updated>
+    <updated>2022-02-18T23:39:46.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器學習成為數學界的合作者]]></title>
+        <id>https://news.ycombinator.com/item?id=30392643</id>
+        <link href="https://news.ycombinator.com/item?id=30392643"/>
+        <updated>2022-02-18T23:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Machine Learning Becomes a Mathematical Collaborator]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同位素的穩定化可能是使鋰硫電池發揮作用的關鍵]]></title>
         <id>https://news.ycombinator.com/item?id=30392567</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=13057797"/>
         <updated>2016-11-28T19:38:54.000Z</updated>
         <summary type="html"><![CDATA[SeaHash: A fast, portable hash function in Rust]]></summary>
-        <author>
-            <name>pcwalton</name>
-            <uri>https://news.ycombinator.com/user?id=pcwalton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在野外檢測嚴格的混疊違規行為]]></title>
-        <id>https://news.ycombinator.com/item?id=13543397</id>
-        <link href="https://news.ycombinator.com/item?id=13543397"/>
-        <updated>2017-02-01T18:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Detecting Strict Aliasing Violations in the Wild]]></summary>
         <author>
             <name>pcwalton</name>
             <uri>https://news.ycombinator.com/user?id=pcwalton</uri>
