@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-18T14:31:29.450Z</updated>
+    <updated>2022-02-18T15:13:36.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fennel編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30386521</id>
+        <link href="https://news.ycombinator.com/item?id=30386521"/>
+        <updated>2022-02-18T14:57:39.000Z</updated>
+        <summary type="html"><![CDATA[The Fennel Programming Language]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊恩-卡特里斯博士離開Anandtech公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30386645</id>
+        <link href="https://news.ycombinator.com/item?id=30386645"/>
+        <updated>2022-02-18T15:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Ian Cutress Leaves Anandtech]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Repl.nvim: 為Nvim帶來REPL支持]]></title>
         <id>https://news.ycombinator.com/item?id=30385846</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>protomyth</name>
             <uri>https://news.ycombinator.com/user?id=protomyth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科尼賽克的微型電動馬達可產生335馬力和443LB-FT的扭矩]]></title>
-        <id>https://news.ycombinator.com/item?id=30151462</id>
-        <link href="https://news.ycombinator.com/item?id=30151462"/>
-        <updated>2022-01-31T18:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque]]></summary>
-        <author>
-            <name>protomyth</name>
-            <uri>https://news.ycombinator.com/user?id=protomyth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最高法院。沒有入侵電腦的人被判黑客罪成立]]></title>
-        <id>https://news.ycombinator.com/item?id=15837864</id>
-        <link href="https://news.ycombinator.com/item?id=15837864"/>
-        <updated>2017-12-03T15:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Supreme Court: Hacking conviction stands for man who didn’t hack computer]]></summary>
-        <author>
-            <name>icebraining</name>
-            <uri>https://news.ycombinator.com/user?id=icebraining</uri>
         </author>
     </entry>
 </feed>
