@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T07:53:19.247Z</updated>
+    <updated>2022-02-19T08:15:00.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的筆記本系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30395238</id>
+        <link href="https://news.ycombinator.com/item?id=30395238"/>
+        <updated>2022-02-19T07:58:58.000Z</updated>
+        <summary type="html"><![CDATA[My Notebook System]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於Markdown的思考]]></title>
         <id>https://news.ycombinator.com/item?id=30395130</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=30335445"/>
         <updated>2022-02-14T18:01:04.000Z</updated>
         <summary type="html"><![CDATA[U.S. suspends Mexican avocado imports after threat]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在每個記者最喜歡的應用程序的兔子洞中的旅程]]></title>
-        <id>https://news.ycombinator.com/item?id=30364958</id>
-        <link href="https://news.ycombinator.com/item?id=30364958"/>
-        <updated>2022-02-16T20:01:27.000Z</updated>
-        <summary type="html"><![CDATA[My journey down the rabbit hole of every journalist’s favorite app]]></summary>
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的筆記本系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30395238</link>
+            <guid>https://news.ycombinator.com/item?id=30395238</guid>
+            <pubDate>Sat, 19 Feb 2022 07:58:58 GMT</pubDate>
+            <description><![CDATA[My Notebook System]]></description>
+        </item>
         <item>
             <title><![CDATA[關於Markdown的思考]]></title>
             <link>https://news.ycombinator.com/item?id=30395130</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30335445</guid>
             <pubDate>Mon, 14 Feb 2022 18:01:04 GMT</pubDate>
             <description><![CDATA[U.S. suspends Mexican avocado imports after threat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在每個記者最喜歡的應用程序的兔子洞中的旅程]]></title>
-            <link>https://news.ycombinator.com/item?id=30364958</link>
-            <guid>https://news.ycombinator.com/item?id=30364958</guid>
-            <pubDate>Wed, 16 Feb 2022 20:01:27 GMT</pubDate>
-            <description><![CDATA[My journey down the rabbit hole of every journalist’s favorite app]]></description>
         </item>
     </channel>
 </rss>
