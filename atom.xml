@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T04:57:52.279Z</updated>
+    <updated>2022-02-19T05:29:51.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[定价的贝叶斯方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30394591</id>
+        <link href="https://news.ycombinator.com/item?id=30394591"/>
+        <updated>2022-02-19T05:14:38.000Z</updated>
+        <summary type="html"><![CDATA[A Bayesian Approach to Pricing]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞公司宣布推出4个新的戴夫-查佩尔喜剧特辑]]></title>
+        <id>https://news.ycombinator.com/item?id=30394594</id>
+        <link href="https://news.ycombinator.com/item?id=30394594"/>
+        <updated>2022-02-19T05:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Netflix Announces 4 New Dave Chappelle Comedy Specials]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊普斯维奇镇中心被阴森的童谣所困扰（2018）。]]></title>
         <id>https://news.ycombinator.com/item?id=30394491</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般透视投影]]></title>
-        <id>https://news.ycombinator.com/item?id=30325653</id>
-        <link href="https://news.ycombinator.com/item?id=30325653"/>
-        <updated>2022-02-13T21:01:22.000Z</updated>
-        <summary type="html"><![CDATA[General Perspective Projection]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rustc_codegen_GCC。GCC-RS的更简单的替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=27333750</id>
-        <link href="https://news.ycombinator.com/item?id=27333750"/>
-        <updated>2021-05-30T15:04:33.000Z</updated>
-        <summary type="html"><![CDATA[rustc_codegen_GCC: The simpler alternative to GCC-RS]]></summary>
-        <author>
-            <name>JoshTriplett</name>
-            <uri>https://news.ycombinator.com/user?id=JoshTriplett</uri>
         </author>
     </entry>
 </feed>
