@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T17:53:11.626Z</updated>
+    <updated>2022-02-19T18:14:48.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑洞裡有什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30398972</id>
+        <link href="https://news.ycombinator.com/item?id=30398972"/>
+        <updated>2022-02-19T17:53:11.000Z</updated>
+        <summary type="html"><![CDATA[What’s Inside a Black Hole?]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[傅科擺]]></title>
         <id>https://news.ycombinator.com/item?id=30398802</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>linuz90</name>
             <uri>https://news.ycombinator.com/user?id=linuz90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶有自定義根域名的GitHub頁面很慢]]></title>
-        <id>https://news.ycombinator.com/item?id=7738293</id>
-        <link href="https://news.ycombinator.com/item?id=7738293"/>
-        <updated>2014-05-13T14:31:37.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Pages with a custom root domain is slow]]></summary>
-        <author>
-            <name>dieulot</name>
-            <uri>https://news.ycombinator.com/user?id=dieulot</uri>
         </author>
     </entry>
 </feed>
