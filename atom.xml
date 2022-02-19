@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T14:38:08.260Z</updated>
+    <updated>2022-02-19T15:14:18.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一切的一点：科学的短篇故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30397596</id>
+        <link href="https://news.ycombinator.com/item?id=30397596"/>
+        <updated>2022-02-19T15:01:58.000Z</updated>
+        <summary type="html"><![CDATA[A little bit of everything: The Short Story of Science]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Pomodoro]]></title>
+        <id>https://news.ycombinator.com/item?id=30397606</id>
+        <link href="https://news.ycombinator.com/item?id=30397606"/>
+        <updated>2022-02-19T15:02:44.000Z</updated>
+        <summary type="html"><![CDATA[I Pomodoro]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每五个加拿大人中就有一个是由投资者购买的房屋]]></title>
         <id>https://news.ycombinator.com/item?id=30397365</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从种子开始种植芒果树--一年的时间推移[视频]。]]></title>
-        <id>https://news.ycombinator.com/item?id=30312694</id>
-        <link href="https://news.ycombinator.com/item?id=30312694"/>
-        <updated>2022-02-12T13:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Growing a mango tree from seed – one year time lapse [video]]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二朗/OTP 20.0发布]]></title>
-        <id>https://news.ycombinator.com/item?id=14605323</id>
-        <link href="https://news.ycombinator.com/item?id=14605323"/>
-        <updated>2017-06-21T16:36:39.000Z</updated>
-        <summary type="html"><![CDATA[Erlang/OTP 20.0 is released]]></summary>
-        <author>
-            <name>rdtsc</name>
-            <uri>https://news.ycombinator.com/user?id=rdtsc</uri>
         </author>
     </entry>
 </feed>
