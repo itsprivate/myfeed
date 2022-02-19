@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 19 Feb 2022 14:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 14:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每五个加拿大人中就有一个是由投资者购买的房屋]]></title>
+            <link>https://news.ycombinator.com/item?id=30397365</link>
+            <guid>https://news.ycombinator.com/item?id=30397365</guid>
+            <pubDate>Sat, 19 Feb 2022 14:28:17 GMT</pubDate>
+            <description><![CDATA[One in five Canadian home purchases is made by an investor]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么彭博社的4位工程师又写了一本C++书]]></title>
             <link>https://news.ycombinator.com/item?id=30397329</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=14605323</guid>
             <pubDate>Wed, 21 Jun 2017 16:36:39 GMT</pubDate>
             <description><![CDATA[Erlang/OTP 20.0 is released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一些基于AMD的设备的Windows操作系统安全更新受阻]]></title>
-            <link>https://news.ycombinator.com/item?id=16107555</link>
-            <guid>https://news.ycombinator.com/item?id=16107555</guid>
-            <pubDate>Tue, 09 Jan 2018 16:55:36 GMT</pubDate>
-            <description><![CDATA[Windows operating system security update block for some AMD based devices]]></description>
         </item>
     </channel>
 </rss>
