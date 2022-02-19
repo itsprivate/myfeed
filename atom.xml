@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T15:44:30.155Z</updated>
+    <updated>2022-02-19T15:53:00.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们需要在广告和有机结果之间有更多区别的法规]]></title>
+        <id>https://news.ycombinator.com/item?id=30397921</id>
+        <link href="https://news.ycombinator.com/item?id=30397921"/>
+        <updated>2022-02-19T15:45:34.000Z</updated>
+        <summary type="html"><![CDATA[We need regulations for having more distinction between ads and organic results]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现，现代海平面上升的开始时间为1863年]]></title>
         <id>https://news.ycombinator.com/item?id=30397835</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>edward</name>
             <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无政府状态 "之父蒂姆-梅去世，享年67岁]]></title>
-        <id>https://news.ycombinator.com/item?id=18696445</id>
-        <link href="https://news.ycombinator.com/item?id=18696445"/>
-        <updated>2018-12-17T02:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Tim May, Father of 'Crypto Anarchy', Is Dead at 67]]></summary>
-        <author>
-            <name>rdl</name>
-            <uri>https://news.ycombinator.com/user?id=rdl</uri>
         </author>
     </entry>
 </feed>
