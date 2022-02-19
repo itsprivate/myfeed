@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T06:37:41.370Z</updated>
+    <updated>2022-02-19T07:53:19.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於Markdown的思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30395130</id>
+        <link href="https://news.ycombinator.com/item?id=30395130"/>
+        <updated>2022-02-19T07:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on Markdown]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十週年生日快樂，DynamoDB]]></title>
+        <id>https://news.ycombinator.com/item?id=30395172</id>
+        <link href="https://news.ycombinator.com/item?id=30395172"/>
+        <updated>2022-02-19T07:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Happy 10th Birthday, DynamoDB]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows命令行解析的狂野西部]]></title>
+        <id>https://news.ycombinator.com/item?id=30395189</id>
+        <link href="https://news.ycombinator.com/item?id=30395189"/>
+        <updated>2022-02-19T07:48:34.000Z</updated>
+        <summary type="html"><![CDATA[The Wild West of Windows command line parsing]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更好的科學]]></title>
         <id>https://news.ycombinator.com/item?id=30394854</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIVM警告不要使用放射性 "反5G "手鐲和睡眠面具]]></title>
-        <id>https://news.ycombinator.com/item?id=29585069</id>
-        <link href="https://news.ycombinator.com/item?id=29585069"/>
-        <updated>2021-12-16T22:50:14.000Z</updated>
-        <summary type="html"><![CDATA[RIVM warns against radioactive ‘anti-5G’ bracelets and sleeping masks]]></summary>
-        <author>
-            <name>tzs</name>
-            <uri>https://news.ycombinator.com/user?id=tzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位由攝影記者轉行的護士為醫院Covid單元拍攝的親密肖像。]]></title>
-        <id>https://news.ycombinator.com/item?id=29695285</id>
-        <link href="https://news.ycombinator.com/item?id=29695285"/>
-        <updated>2021-12-26T19:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Intimate portraits of a hospital Covid unit from a photojournalist-turned-nurse]]></summary>
-        <author>
-            <name>tzs</name>
-            <uri>https://news.ycombinator.com/user?id=tzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書行者]]></title>
-        <id>https://news.ycombinator.com/item?id=30325443</id>
-        <link href="https://news.ycombinator.com/item?id=30325443"/>
-        <updated>2022-02-13T20:41:27.000Z</updated>
-        <summary type="html"><![CDATA[The Bookwalker]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
