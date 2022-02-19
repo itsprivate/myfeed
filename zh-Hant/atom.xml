@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-19T20:53:35.952Z</updated>
+    <updated>2022-02-19T22:33:23.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中國至上的神話？]]></title>
+        <id>https://news.ycombinator.com/item?id=30401086</id>
+        <link href="https://news.ycombinator.com/item?id=30401086"/>
+        <updated>2022-02-19T22:22:32.000Z</updated>
+        <summary type="html"><![CDATA[The Myth of Chinese Supremacy?]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[商品房歷史第八部分-Amiga 1000]]></title>
         <id>https://news.ycombinator.com/item?id=30400337</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bbx</name>
             <uri>https://news.ycombinator.com/user?id=bbx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS開發。什麼是公證，你什麼時候需要它？]]></title>
-        <id>https://news.ycombinator.com/item?id=18412278</id>
-        <link href="https://news.ycombinator.com/item?id=18412278"/>
-        <updated>2018-11-09T04:13:43.000Z</updated>
-        <summary type="html"><![CDATA[macOS development: What is Notarized and when you need it?]]></summary>
-        <author>
-            <name>andreyazimov</name>
-            <uri>https://news.ycombinator.com/user?id=andreyazimov</uri>
         </author>
     </entry>
 </feed>
