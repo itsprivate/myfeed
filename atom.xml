@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T17:29:50.774Z</updated>
+    <updated>2022-02-20T17:37:04.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Ruby和Docker的Jemalloc]]></title>
+        <id>https://news.ycombinator.com/item?id=30407385</id>
+        <link href="https://news.ycombinator.com/item?id=30407385"/>
+        <updated>2022-02-20T17:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Jemalloc with Ruby and Docker]]></summary>
+        <author>
+            <name>gkop</name>
+            <uri>https://news.ycombinator.com/user?id=gkop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面具任务是不合逻辑的。那又怎样？]]></title>
+        <id>https://news.ycombinator.com/item?id=30407353</id>
+        <link href="https://news.ycombinator.com/item?id=30407353"/>
+        <updated>2022-02-20T17:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Mask Mandates Are Illogical. So What?]]></summary>
+        <author>
+            <name>BarrySeal</name>
+            <uri>https://news.ycombinator.com/user?id=BarrySeal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最难的自然语言 (1979) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30407340</id>
+        <link href="https://news.ycombinator.com/item?id=30407340"/>
+        <updated>2022-02-20T17:27:32.000Z</updated>
+        <summary type="html"><![CDATA[The Hardest Natural Languages (1979) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用机器学习使管理你的存储不再是一件苦差事（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30407338</id>
+        <link href="https://news.ycombinator.com/item?id=30407338"/>
+        <updated>2022-02-20T17:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Harnessing machine learning to make managing your storage less of a chore (2019)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安大略省政府工作人员向渥太华车队捐款100美元后被解雇]]></title>
         <id>https://news.ycombinator.com/item?id=30407326</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>nostrademons</name>
             <uri>https://news.ycombinator.com/user?id=nostrademons</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抢劫。HTTP加密信息可通过TCP-Windows被窃取 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=12227744</id>
-        <link href="https://news.ycombinator.com/item?id=12227744"/>
-        <updated>2016-08-04T19:08:36.000Z</updated>
-        <summary type="html"><![CDATA[HEIST: HTTP Encrypted Information Can Be Stolen Through TCP-Windows [pdf]]]></summary>
-        <author>
-            <name>jerf</name>
-            <uri>https://news.ycombinator.com/user?id=jerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外星智能体和歧视性算法]]></title>
-        <id>https://news.ycombinator.com/item?id=13158883</id>
-        <link href="https://news.ycombinator.com/item?id=13158883"/>
-        <updated>2016-12-12T15:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Alien Intelligences and discriminatory algorithms]]></summary>
-        <author>
-            <name>jerf</name>
-            <uri>https://news.ycombinator.com/user?id=jerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome OS的漏洞：一个字节的溢出和符号链接]]></title>
-        <id>https://news.ycombinator.com/item?id=13179319</id>
-        <link href="https://news.ycombinator.com/item?id=13179319"/>
-        <updated>2016-12-14T20:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Chrome OS exploit: one byte overflow and symlinks]]></summary>
-        <author>
-            <name>jerf</name>
-            <uri>https://news.ycombinator.com/user?id=jerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人在使用Fink软件包管理器吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=25276202</id>
-        <link href="https://news.ycombinator.com/item?id=25276202"/>
-        <updated>2020-12-02T13:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anybody still uses the Fink package manager?]]></summary>
-        <author>
-            <name>coldtea</name>
-            <uri>https://news.ycombinator.com/user?id=coldtea</uri>
         </author>
     </entry>
 </feed>
