@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T07:28:01.405Z</updated>
+    <updated>2022-02-20T07:51:15.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个声音检测器统治一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30403968</id>
+        <link href="https://news.ycombinator.com/item?id=30403968"/>
+        <updated>2022-02-20T07:38:11.000Z</updated>
+        <summary type="html"><![CDATA[One Voice Detector to Rule Them All]]></summary>
+        <author>
+            <name>TheRealAicantar</name>
+            <uri>https://news.ycombinator.com/user?id=TheRealAicantar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红十字会的数据泄露事件利用了APT27的ManageEngine漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30403952</id>
+        <link href="https://news.ycombinator.com/item?id=30403952"/>
+        <updated>2022-02-20T07:34:46.000Z</updated>
+        <summary type="html"><![CDATA[The Red Cross Data Breach Exploited a ManageEngine Vulnerability by APT27]]></summary>
+        <author>
+            <name>Torress</name>
+            <uri>https://news.ycombinator.com/user?id=Torress</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我最喜欢的生活建议散文（2020年）]]></title>
         <id>https://news.ycombinator.com/item?id=30403874</id>
@@ -10988,28 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=30271064"/>
         <updated>2022-02-09T10:25:06.000Z</updated>
         <summary type="html"><![CDATA[Boot2container: An Initramfs for Reproducible Infrastructures]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGL 2.0获得了所有主要网络浏览器的普遍支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30273883</id>
-        <link href="https://news.ycombinator.com/item?id=30273883"/>
-        <updated>2022-02-09T15:38:54.000Z</updated>
-        <summary type="html"><![CDATA[WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET摇滚。与Anders Hejlsberg合作的C#的20年]]></title>
-        <id>https://news.ycombinator.com/item?id=30285098</id>
-        <link href="https://news.ycombinator.com/item?id=30285098"/>
-        <updated>2022-02-10T12:14:44.000Z</updated>
-        <summary type="html"><![CDATA[.NET Rocks: Twenty Years of C# with Anders Hejlsberg]]></summary>
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>

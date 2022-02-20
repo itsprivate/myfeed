@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Feb 2022 07:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 07:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个声音检测器统治一切]]></title>
+            <link>https://news.ycombinator.com/item?id=30403968</link>
+            <guid>https://news.ycombinator.com/item?id=30403968</guid>
+            <pubDate>Sun, 20 Feb 2022 07:38:11 GMT</pubDate>
+            <description><![CDATA[One Voice Detector to Rule Them All]]></description>
+        </item>
+        <item>
+            <title><![CDATA[红十字会的数据泄露事件利用了APT27的ManageEngine漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=30403952</link>
+            <guid>https://news.ycombinator.com/item?id=30403952</guid>
+            <pubDate>Sun, 20 Feb 2022 07:34:46 GMT</pubDate>
+            <description><![CDATA[The Red Cross Data Breach Exploited a ManageEngine Vulnerability by APT27]]></description>
+        </item>
         <item>
             <title><![CDATA[我最喜欢的生活建议散文（2020年）]]></title>
             <link>https://news.ycombinator.com/item?id=30403874</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30271064</guid>
             <pubDate>Wed, 09 Feb 2022 10:25:06 GMT</pubDate>
             <description><![CDATA[Boot2container: An Initramfs for Reproducible Infrastructures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WebGL 2.0获得了所有主要网络浏览器的普遍支持]]></title>
-            <link>https://news.ycombinator.com/item?id=30273883</link>
-            <guid>https://news.ycombinator.com/item?id=30273883</guid>
-            <pubDate>Wed, 09 Feb 2022 15:38:54 GMT</pubDate>
-            <description><![CDATA[WebGL 2.0 Achieves Pervasive Support from All Major Web Browsers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET摇滚。与Anders Hejlsberg合作的C#的20年]]></title>
-            <link>https://news.ycombinator.com/item?id=30285098</link>
-            <guid>https://news.ycombinator.com/item?id=30285098</guid>
-            <pubDate>Thu, 10 Feb 2022 12:14:44 GMT</pubDate>
-            <description><![CDATA[.NET Rocks: Twenty Years of C# with Anders Hejlsberg]]></description>
         </item>
     </channel>
 </rss>
