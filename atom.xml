@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T14:29:14.417Z</updated>
+    <updated>2022-02-20T14:36:41.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当我们在社会上有距离的时候，金钱使我们更接近。]]></title>
+        <id>https://news.ycombinator.com/item?id=30405962</id>
+        <link href="https://news.ycombinator.com/item?id=30405962"/>
+        <updated>2022-02-20T14:28:38.000Z</updated>
+        <summary type="html"><![CDATA[When We Were Socially Distant, Money Brought Us Closer]]></summary>
+        <author>
+            <name>mistersquid</name>
+            <uri>https://news.ycombinator.com/user?id=mistersquid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个五角大楼的人获得了根基--一步一步的例子]]></title>
+        <id>https://news.ycombinator.com/item?id=30405959</id>
+        <link href="https://news.ycombinator.com/item?id=30405959"/>
+        <updated>2022-02-20T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[A Pentester Gets Root - Step by Step Example]]></summary>
+        <author>
+            <name>Jaruzel</name>
+            <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用systemtap进行性能注释的SQLite EXPLAINation可视化操作]]></title>
+        <id>https://news.ycombinator.com/item?id=30405934</id>
+        <link href="https://news.ycombinator.com/item?id=30405934"/>
+        <updated>2022-02-20T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Performance annotated SQLite EXPLAINation visualizations using systemtap]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰分离主义分子下令进行 "总动员"，战斗年龄的人除外]]></title>
         <id>https://news.ycombinator.com/item?id=30405923</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>dieulot</name>
             <uri>https://news.ycombinator.com/user?id=dieulot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一星期的iOS错误]]></title>
-        <id>https://news.ycombinator.com/item?id=8671022</id>
-        <link href="https://news.ycombinator.com/item?id=8671022"/>
-        <updated>2014-11-28T14:36:01.000Z</updated>
-        <summary type="html"><![CDATA[A week of iOS bugs]]></summary>
-        <author>
-            <name>dieulot</name>
-            <uri>https://news.ycombinator.com/user?id=dieulot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韦伯望远镜送回一张自拍和18张星光图片]]></title>
-        <id>https://news.ycombinator.com/item?id=30305352</id>
-        <link href="https://news.ycombinator.com/item?id=30305352"/>
-        <updated>2022-02-11T18:41:26.000Z</updated>
-        <summary type="html"><![CDATA[James Webb Telescope Sends Home a Selfie and 18 Images of Starlight]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HCA发布反疫苗接种者死亡的故事，吓得围观者纷纷出手]]></title>
-        <id>https://news.ycombinator.com/item?id=28893530</id>
-        <link href="https://news.ycombinator.com/item?id=28893530"/>
-        <updated>2021-10-17T02:51:43.000Z</updated>
-        <summary type="html"><![CDATA[HCA posts stories of anti-vaxxers dying, scaring fence-sitters into the shot]]></summary>
-        <author>
-            <name>tzs</name>
-            <uri>https://news.ycombinator.com/user?id=tzs</uri>
         </author>
     </entry>
 </feed>
