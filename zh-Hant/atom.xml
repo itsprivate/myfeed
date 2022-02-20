@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T13:37:17.077Z</updated>
+    <updated>2022-02-20T13:52:30.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator似乎已經正式宣佈支持反壟斷立法]]></title>
+        <id>https://news.ycombinator.com/item?id=30405600</id>
+        <link href="https://news.ycombinator.com/item?id=30405600"/>
+        <updated>2022-02-20T13:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Y Combinator seems to have officially declared support for antitrust legislation]]></summary>
+        <author>
+            <name>thrwycapitalist</name>
+            <uri>https://news.ycombinator.com/user?id=thrwycapitalist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Swift中組合協議]]></title>
+        <id>https://news.ycombinator.com/item?id=30405567</id>
+        <link href="https://news.ycombinator.com/item?id=30405567"/>
+        <updated>2022-02-20T13:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Combining Protocols in Swift]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果俄羅斯入侵會怎樣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405539</id>
+        <link href="https://news.ycombinator.com/item?id=30405539"/>
+        <updated>2022-02-20T13:33:48.000Z</updated>
+        <summary type="html"><![CDATA[What happens if Russia invades?]]></summary>
+        <author>
+            <name>RyanShook</name>
+            <uri>https://news.ycombinator.com/user?id=RyanShook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技公司面臨新的危機：招聘]]></title>
+        <id>https://news.ycombinator.com/item?id=30405536</id>
+        <link href="https://news.ycombinator.com/item?id=30405536"/>
+        <updated>2022-02-20T13:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Tech Companies Face a Fresh Crisis: Hiring]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libvips。一個快速的圖像處理庫，內存需求低]]></title>
+        <id>https://news.ycombinator.com/item?id=30405535</id>
+        <link href="https://news.ycombinator.com/item?id=30405535"/>
+        <updated>2022-02-20T13:33:28.000Z</updated>
+        <summary type="html"><![CDATA[libvips: A fast image processing library with low memory needs]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避免陽光照射是一個類似於吸菸的死亡風險因素]]></title>
+        <id>https://news.ycombinator.com/item?id=30405521</id>
+        <link href="https://news.ycombinator.com/item?id=30405521"/>
+        <updated>2022-02-20T13:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Avoidance of sun exposure is a risk factor for death similar to smoking]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數字邊界。歐盟增加使用技術來監測移民]]></title>
+        <id>https://news.ycombinator.com/item?id=30405510</id>
+        <link href="https://news.ycombinator.com/item?id=30405510"/>
+        <updated>2022-02-20T13:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Digital borders: EU increases use of technology to monitor migration]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土耳其鳥語]]></title>
         <id>https://news.ycombinator.com/item?id=30405501</id>
@@ -10936,83 +11013,6 @@
         <author>
             <name>DanielBMarkham</name>
             <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猴子。Arduino和SalesForce不知不覺中使用的諷刺性圍棋軟件包]]></title>
-        <id>https://news.ycombinator.com/item?id=28404687</id>
-        <link href="https://news.ycombinator.com/item?id=28404687"/>
-        <updated>2021-09-03T14:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Monkey: The satirical Go package used unwittingly by Arduino and SalesForce]]></summary>
-        <author>
-            <name>petercooper</name>
-            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迴歸到通用的數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=29014055</id>
-        <link href="https://news.ycombinator.com/item?id=29014055"/>
-        <updated>2021-10-27T14:51:41.000Z</updated>
-        <summary type="html"><![CDATA[A return to the general-purpose database]]></summary>
-        <author>
-            <name>petercooper</name>
-            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德州總檢察長帕克斯頓對推特的報復性調查訴諸第九巡回法庭]]></title>
-        <id>https://news.ycombinator.com/item?id=28073350</id>
-        <link href="https://news.ycombinator.com/item?id=28073350"/>
-        <updated>2021-08-05T13:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Texas AG Paxton's Retaliatory Investigation of Twitter Goes to Ninth Circuit]]></summary>
-        <author>
-            <name>DiabloD3</name>
-            <uri>https://news.ycombinator.com/user?id=DiabloD3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秦皇島]]></title>
-        <id>https://news.ycombinator.com/item?id=28196140</id>
-        <link href="https://news.ycombinator.com/item?id=28196140"/>
-        <updated>2021-08-16T08:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: KeebMangler]]></summary>
-        <author>
-            <name>DiabloD3</name>
-            <uri>https://news.ycombinator.com/user?id=DiabloD3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果稱從未打算讓iOS 14安全更新永遠持續下去]]></title>
-        <id>https://news.ycombinator.com/item?id=30005407</id>
-        <link href="https://news.ycombinator.com/item?id=30005407"/>
-        <updated>2022-01-20T06:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Apple says it never intended iOS 14 security updates to last forever]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019年抗生素耐藥性致死人數超過瘧疾或艾滋病]]></title>
-        <id>https://news.ycombinator.com/item?id=30015459</id>
-        <link href="https://news.ycombinator.com/item?id=30015459"/>
-        <updated>2022-01-20T21:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Antibiotic resistance killed more people than malaria or AIDS in 2019]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代狼群中發現了讓我們擁有小狗的突變基因]]></title>
-        <id>https://news.ycombinator.com/item?id=30110976</id>
-        <link href="https://news.ycombinator.com/item?id=30110976"/>
-        <updated>2022-01-28T05:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Mutation That Gave Us Tiny Dogs Found in Ancient Wolves]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
         </author>
     </entry>
 </feed>
