@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T22:31:00.126Z</updated>
+    <updated>2022-02-20T22:39:14.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关注世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30409929</id>
+        <link href="https://news.ycombinator.com/item?id=30409929"/>
+        <updated>2022-02-20T22:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Attending to the World]]></summary>
+        <author>
+            <name>longdefeat</name>
+            <uri>https://news.ycombinator.com/user?id=longdefeat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1987年杂志中的一些物理学历史片段]]></title>
+        <id>https://news.ycombinator.com/item?id=30409908</id>
+        <link href="https://news.ycombinator.com/item?id=30409908"/>
+        <updated>2022-02-20T22:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Some Snippets of Physics History from Magazines in 1987]]></summary>
+        <author>
+            <name>xqcgrek2</name>
+            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反向工程的两线制LED灯带协议]]></title>
+        <id>https://news.ycombinator.com/item?id=30409872</id>
+        <link href="https://news.ycombinator.com/item?id=30409872"/>
+        <updated>2022-02-20T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Reverse-Engineering a Two-Wire LED Strip Protocol]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔i486的扫描电子显微照片]]></title>
+        <id>https://news.ycombinator.com/item?id=30409861</id>
+        <link href="https://news.ycombinator.com/item?id=30409861"/>
+        <updated>2022-02-20T22:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Scanning electron micrographs of an Intel i486]]></summary>
+        <author>
+            <name>rocky1138</name>
+            <uri>https://news.ycombinator.com/user?id=rocky1138</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[威廉-萨菲尔的《作家规则》(1980)]]></title>
         <id>https://news.ycombinator.com/item?id=30409850</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>Retric</name>
             <uri>https://news.ycombinator.com/user?id=Retric</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏捷的机器人走钢丝走过高压电线]]></title>
-        <id>https://news.ycombinator.com/item?id=940817</id>
-        <link href="https://news.ycombinator.com/item?id=940817"/>
-        <updated>2009-11-13T21:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Nimble Robot tightrope walks High-Voltage power lines]]></summary>
-        <author>
-            <name>Retric</name>
-            <uri>https://news.ycombinator.com/user?id=Retric</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大雾调查和驱散行动]]></title>
-        <id>https://news.ycombinator.com/item?id=27173782</id>
-        <link href="https://news.ycombinator.com/item?id=27173782"/>
-        <updated>2021-05-16T14:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Fog Investigation and Dispersal Operation]]></summary>
-        <author>
-            <name>DanielBMarkham</name>
-            <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局（NASA）的火星智能直升机在第六次飞行中幸免于 "飞行中的异常情况"。]]></title>
-        <id>https://news.ycombinator.com/item?id=27314017</id>
-        <link href="https://news.ycombinator.com/item?id=27314017"/>
-        <updated>2021-05-28T11:16:08.000Z</updated>
-        <summary type="html"><![CDATA[NASA Mars Ingenuity helicopter survives 'in-flight anomaly' on sixth flight]]></summary>
-        <author>
-            <name>DanielBMarkham</name>
-            <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活就是排队]]></title>
-        <id>https://news.ycombinator.com/item?id=27653352</id>
-        <link href="https://news.ycombinator.com/item?id=27653352"/>
-        <updated>2021-06-27T17:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Life Is Standing in Line]]></summary>
-        <author>
-            <name>DanielBMarkham</name>
-            <uri>https://news.ycombinator.com/user?id=DanielBMarkham</uri>
         </author>
     </entry>
 </feed>
