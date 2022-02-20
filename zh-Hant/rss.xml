@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Feb 2022 13:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 13:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[何時以及如何在AWS EC2上以分佈式模式安裝MinIO]]></title>
+            <link>https://news.ycombinator.com/item?id=30405362</link>
+            <guid>https://news.ycombinator.com/item?id=30405362</guid>
+            <pubDate>Sun, 20 Feb 2022 13:05:44 GMT</pubDate>
+            <description><![CDATA[When and How to Install MinIO in Distributed Mode on AWS EC2]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AWS自助服務安全評估工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30405361</link>
+            <guid>https://news.ycombinator.com/item?id=30405361</guid>
+            <pubDate>Sun, 20 Feb 2022 13:05:43 GMT</pubDate>
+            <description><![CDATA[AWS Self-Service Security Assessment Tool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Python中更直觀的部分函數應用]]></title>
+            <link>https://news.ycombinator.com/item?id=30405346</link>
+            <guid>https://news.ycombinator.com/item?id=30405346</guid>
+            <pubDate>Sun, 20 Feb 2022 13:02:50 GMT</pubDate>
+            <description><![CDATA[More Intuitive Partial Function Application in Python]]></description>
+        </item>
         <item>
             <title><![CDATA[鐮狀細胞："革命性的基因編輯療法給了我新的生命]]></title>
             <link>https://news.ycombinator.com/item?id=30405280</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30259556</guid>
             <pubDate>Tue, 08 Feb 2022 15:30:33 GMT</pubDate>
             <description><![CDATA[Microsoft's mega-deal worries small video game makers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼某些學校書籍在美國被禁？]]></title>
-            <link>https://news.ycombinator.com/item?id=30261610</link>
-            <guid>https://news.ycombinator.com/item?id=30261610</guid>
-            <pubDate>Tue, 08 Feb 2022 17:41:18 GMT</pubDate>
-            <description><![CDATA[Why are certain school books being banned in US?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[看見上帝可能是最前沿的心理健康治療方法的秘密]]></title>
-            <link>https://news.ycombinator.com/item?id=30365373</link>
-            <guid>https://news.ycombinator.com/item?id=30365373</guid>
-            <pubDate>Wed, 16 Feb 2022 20:39:30 GMT</pubDate>
-            <description><![CDATA[Seeing God Might Be the Secret to the Most Cutting-Edge Mental Health Treatments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Git: NVMe - 如果驅動程序在報告的隊列限制上說謊，則退訂。]]></title>
-            <link>https://news.ycombinator.com/item?id=29726670</link>
-            <guid>https://news.ycombinator.com/item?id=29726670</guid>
-            <pubDate>Wed, 29 Dec 2021 16:56:17 GMT</pubDate>
-            <description><![CDATA[Git: NVMe – Back-off if driver lies about reported queue limits]]></description>
         </item>
     </channel>
 </rss>

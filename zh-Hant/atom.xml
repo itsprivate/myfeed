@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T13:03:45.651Z</updated>
+    <updated>2022-02-20T13:20:09.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[何時以及如何在AWS EC2上以分佈式模式安裝MinIO]]></title>
+        <id>https://news.ycombinator.com/item?id=30405362</id>
+        <link href="https://news.ycombinator.com/item?id=30405362"/>
+        <updated>2022-02-20T13:05:44.000Z</updated>
+        <summary type="html"><![CDATA[When and How to Install MinIO in Distributed Mode on AWS EC2]]></summary>
+        <author>
+            <name>edogrider</name>
+            <uri>https://news.ycombinator.com/user?id=edogrider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS自助服務安全評估工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30405361</id>
+        <link href="https://news.ycombinator.com/item?id=30405361"/>
+        <updated>2022-02-20T13:05:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS Self-Service Security Assessment Tool]]></summary>
+        <author>
+            <name>Hakashiro</name>
+            <uri>https://news.ycombinator.com/user?id=Hakashiro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Python中更直觀的部分函數應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30405346</id>
+        <link href="https://news.ycombinator.com/item?id=30405346"/>
+        <updated>2022-02-20T13:02:50.000Z</updated>
+        <summary type="html"><![CDATA[More Intuitive Partial Function Application in Python]]></summary>
+        <author>
+            <name>cgrimm1994</name>
+            <uri>https://news.ycombinator.com/user?id=cgrimm1994</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鐮狀細胞："革命性的基因編輯療法給了我新的生命]]></title>
         <id>https://news.ycombinator.com/item?id=30405280</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼某些學校書籍在美國被禁？]]></title>
-        <id>https://news.ycombinator.com/item?id=30261610</id>
-        <link href="https://news.ycombinator.com/item?id=30261610"/>
-        <updated>2022-02-08T17:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Why are certain school books being banned in US?]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看見上帝可能是最前沿的心理健康治療方法的秘密]]></title>
-        <id>https://news.ycombinator.com/item?id=30365373</id>
-        <link href="https://news.ycombinator.com/item?id=30365373"/>
-        <updated>2022-02-16T20:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Seeing God Might Be the Secret to the Most Cutting-Edge Mental Health Treatments]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git: NVMe - 如果驅動程序在報告的隊列限制上說謊，則退訂。]]></title>
-        <id>https://news.ycombinator.com/item?id=29726670</id>
-        <link href="https://news.ycombinator.com/item?id=29726670"/>
-        <updated>2021-12-29T16:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Git: NVMe – Back-off if driver lies about reported queue limits]]></summary>
-        <author>
-            <name>protomyth</name>
-            <uri>https://news.ycombinator.com/user?id=protomyth</uri>
         </author>
     </entry>
 </feed>
