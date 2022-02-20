@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Feb 2022 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 07:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我最喜欢的生活建议散文（2020年）]]></title>
+            <link>https://news.ycombinator.com/item?id=30403874</link>
+            <guid>https://news.ycombinator.com/item?id=30403874</guid>
+            <pubDate>Sun, 20 Feb 2022 07:14:13 GMT</pubDate>
+            <description><![CDATA[My favorite essays of life advice (2020)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[只有你的老板能治好你的倦怠症]]></title>
+            <link>https://news.ycombinator.com/item?id=30403858</link>
+            <guid>https://news.ycombinator.com/item?id=30403858</guid>
+            <pubDate>Sun, 20 Feb 2022 07:09:04 GMT</pubDate>
+            <description><![CDATA[Only Your Boss Can Cure Your Burnout]]></description>
+        </item>
         <item>
             <title><![CDATA[通过过期的NPM发布者电子邮件域名破坏Angular]]></title>
             <link>https://news.ycombinator.com/item?id=30403848</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30285098</guid>
             <pubDate>Thu, 10 Feb 2022 12:14:44 GMT</pubDate>
             <description><![CDATA[.NET Rocks: Twenty Years of C# with Anders Hejlsberg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[远程工作和写作的重要性]]></title>
-            <link>https://news.ycombinator.com/item?id=29965753</link>
-            <guid>https://news.ycombinator.com/item?id=29965753</guid>
-            <pubDate>Mon, 17 Jan 2022 12:08:23 GMT</pubDate>
-            <description><![CDATA[Remote Work and the Importance of Writing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将SQLite存储在Cloudflare的耐用对象中]]></title>
-            <link>https://news.ycombinator.com/item?id=30072997</link>
-            <guid>https://news.ycombinator.com/item?id=30072997</guid>
-            <pubDate>Tue, 25 Jan 2022 15:40:27 GMT</pubDate>
-            <description><![CDATA[Store SQLite in Cloudflare Durable Objects]]></description>
         </item>
     </channel>
 </rss>
