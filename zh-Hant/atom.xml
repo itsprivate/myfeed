@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T18:48:26.715Z</updated>
+    <updated>2022-02-20T18:53:30.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該使用哪個博客平臺？]]></title>
+        <id>https://news.ycombinator.com/item?id=30408187</id>
+        <link href="https://news.ycombinator.com/item?id=30408187"/>
+        <updated>2022-02-20T18:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Which blogging platform should I use?]]></summary>
+        <author>
+            <name>Ishini_Av</name>
+            <uri>https://news.ycombinator.com/user?id=Ishini_Av</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宅男們的滑雪板。終極指南 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30408158</id>
+        <link href="https://news.ycombinator.com/item?id=30408158"/>
+        <updated>2022-02-20T18:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Snowboarding for Geeks: An Ultimate Guide (2018)]]></summary>
+        <author>
+            <name>wallflower</name>
+            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首個治療泰勒-薩克斯病的基因療法成功地給兩個孩子使用]]></title>
         <id>https://news.ycombinator.com/item?id=30408104</id>
@@ -10988,28 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=8753711"/>
         <updated>2014-12-15T19:13:18.000Z</updated>
         <summary type="html"><![CDATA[Atomos: A Python library for working with shared mutable state]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[給我打電話，也許。MongoDB的陳舊性閱讀]]></title>
-        <id>https://news.ycombinator.com/item?id=9417773</id>
-        <link href="https://news.ycombinator.com/item?id=9417773"/>
-        <updated>2015-04-21T23:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Call Me Maybe: MongoDB Stale Reads]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越來越脆弱的大學生的神話]]></title>
-        <id>https://news.ycombinator.com/item?id=10655422</id>
-        <link href="https://news.ycombinator.com/item?id=10655422"/>
-        <updated>2015-12-01T14:17:08.000Z</updated>
-        <summary type="html"><![CDATA[The Myth of the Ever-More-Fragile College Student]]></summary>
         <author>
             <name>llambda</name>
             <uri>https://news.ycombinator.com/user?id=llambda</uri>
