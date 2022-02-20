@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-20T11:36:44.227Z</updated>
+    <updated>2022-02-20T11:51:18.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我离被鱼叉攻击还有7个字 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30404967</id>
+        <link href="https://news.ycombinator.com/item?id=30404967"/>
+        <updated>2022-02-20T11:37:18.000Z</updated>
+        <summary type="html"><![CDATA[I was 7 words away from being spear-phished (2019)]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碳捕集技术正朝着错误的方向发展]]></title>
+        <id>https://news.ycombinator.com/item?id=30404958</id>
+        <link href="https://news.ycombinator.com/item?id=30404958"/>
+        <updated>2022-02-20T11:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Carbon capture tech is advancing in the wrong direction]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用密码学防止不可能的游戏关卡]]></title>
+        <id>https://news.ycombinator.com/item?id=30404954</id>
+        <link href="https://news.ycombinator.com/item?id=30404954"/>
+        <updated>2022-02-20T11:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Preventing impossible game levels using cryptography]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真实的我和虚假的我]]></title>
         <id>https://news.ycombinator.com/item?id=30404943</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>wallflower</name>
             <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为所有被拒绝的人干杯]]></title>
-        <id>https://news.ycombinator.com/item?id=30035363</id>
-        <link href="https://news.ycombinator.com/item?id=30035363"/>
-        <updated>2022-01-22T10:16:59.000Z</updated>
-        <summary type="html"><![CDATA[A toast to all the rejects]]></summary>
-        <author>
-            <name>wallflower</name>
-            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在苏格兰令人不安的海岸，一个村庄的空间之梦]]></title>
-        <id>https://news.ycombinator.com/item?id=30038482</id>
-        <link href="https://news.ycombinator.com/item?id=30038482"/>
-        <updated>2022-01-22T17:03:31.000Z</updated>
-        <summary type="html"><![CDATA[On Scotland’s Haunting Coast, a Village Dreams of Space]]></summary>
-        <author>
-            <name>wallflower</name>
-            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌技术讲座。关于D编程语言的三件酷事]]></title>
-        <id>https://news.ycombinator.com/item?id=1572025</id>
-        <link href="https://news.ycombinator.com/item?id=1572025"/>
-        <updated>2010-08-03T17:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Google Tech Talk: Three Cool Things About The D Programing Language]]></summary>
-        <author>
-            <name>WalterBright</name>
-            <uri>https://news.ycombinator.com/user?id=WalterBright</uri>
         </author>
     </entry>
 </feed>
