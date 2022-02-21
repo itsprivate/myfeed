@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T05:36:56.512Z</updated>
+    <updated>2022-02-21T05:51:13.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[平均体温出现下降]]></title>
+        <id>https://news.ycombinator.com/item?id=30412352</id>
+        <link href="https://news.ycombinator.com/item?id=30412352"/>
+        <updated>2022-02-21T05:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Average Body Temperature Takes a Dip]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onefetch: 在你的终端上的 Git 仓库摘要]]></title>
         <id>https://news.ycombinator.com/item?id=30412293</id>
@@ -10999,17 +11010,6 @@
         <link href="https://news.ycombinator.com/item?id=29572087"/>
         <updated>2021-12-15T21:54:11.000Z</updated>
         <summary type="html"><![CDATA[Landscape of Quantum Computing in 2021]]></summary>
-        <author>
-            <name>tptacek</name>
-            <uri>https://news.ycombinator.com/user?id=tptacek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux内核的RNG现在是Blake2而不是SHA1，速度快3倍]]></title>
-        <id>https://news.ycombinator.com/item?id=29742977</id>
-        <link href="https://news.ycombinator.com/item?id=29742977"/>
-        <updated>2021-12-30T23:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster]]></summary>
         <author>
             <name>tptacek</name>
             <uri>https://news.ycombinator.com/user?id=tptacek</uri>

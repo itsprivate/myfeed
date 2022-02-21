@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[平均體溫出現下降]]></title>
+            <link>https://news.ycombinator.com/item?id=30412352</link>
+            <guid>https://news.ycombinator.com/item?id=30412352</guid>
+            <pubDate>Mon, 21 Feb 2022 05:47:22 GMT</pubDate>
+            <description><![CDATA[Average Body Temperature Takes a Dip]]></description>
+        </item>
         <item>
             <title><![CDATA[Onefetch: 在你的終端上的 Git 倉庫摘要]]></title>
             <link>https://news.ycombinator.com/item?id=30412293</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=29572087</guid>
             <pubDate>Wed, 15 Dec 2021 21:54:11 GMT</pubDate>
             <description><![CDATA[Landscape of Quantum Computing in 2021]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux內核的RNG現在是Blake2而不是SHA1，速度快3倍]]></title>
-            <link>https://news.ycombinator.com/item?id=29742977</link>
-            <guid>https://news.ycombinator.com/item?id=29742977</guid>
-            <pubDate>Thu, 30 Dec 2021 23:39:13 GMT</pubDate>
-            <description><![CDATA[Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster]]></description>
         </item>
     </channel>
 </rss>
