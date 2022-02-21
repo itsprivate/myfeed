@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T09:32:58.240Z</updated>
+    <updated>2022-02-21T09:41:30.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作描述和实际意义]]></title>
+        <id>https://news.ycombinator.com/item?id=30413700</id>
+        <link href="https://news.ycombinator.com/item?id=30413700"/>
+        <updated>2022-02-21T09:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Job Description and Real Meaning]]></summary>
+        <author>
+            <name>bluefone</name>
+            <uri>https://news.ycombinator.com/user?id=bluefone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrettyPersianNumbers，将数字转换为波斯语单词的Android库]]></title>
+        <id>https://news.ycombinator.com/item?id=30413684</id>
+        <link href="https://news.ycombinator.com/item?id=30413684"/>
+        <updated>2022-02-21T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[PrettyPersianNumbers, Android library to convert a number to word for Persian]]></summary>
+        <author>
+            <name>yamin8000</name>
+            <uri>https://news.ycombinator.com/user?id=yamin8000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InstaKiller，一个Instagram的CLI客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=30413667</id>
+        <link href="https://news.ycombinator.com/item?id=30413667"/>
+        <updated>2022-02-21T09:33:49.000Z</updated>
+        <summary type="html"><![CDATA[InstaKiller, a CLI Client for Instagram]]></summary>
+        <author>
+            <name>yamin8000</name>
+            <uri>https://news.ycombinator.com/user?id=yamin8000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复古的Reddit]]></title>
         <id>https://news.ycombinator.com/item?id=30413643</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>shawndumas</name>
             <uri>https://news.ycombinator.com/user?id=shawndumas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经理。新任经理的概述]]></title>
-        <id>https://news.ycombinator.com/item?id=27775334</id>
-        <link href="https://news.ycombinator.com/item?id=27775334"/>
-        <updated>2021-07-08T17:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Manager'ing: An Overview for New Managers]]></summary>
-        <author>
-            <name>shawndumas</name>
-            <uri>https://news.ycombinator.com/user?id=shawndumas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 "反工作"？- 路西法的说法]]></title>
-        <id>https://news.ycombinator.com/item?id=30153266</id>
-        <link href="https://news.ycombinator.com/item?id=30153266"/>
-        <updated>2022-01-31T19:49:51.000Z</updated>
-        <summary type="html"><![CDATA[What Is “Anti-Work?” – Luciferian Locutions]]></summary>
-        <author>
-            <name>shawndumas</name>
-            <uri>https://news.ycombinator.com/user?id=shawndumas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有人关心我的电子表格]]></title>
-        <id>https://news.ycombinator.com/item?id=30353709</id>
-        <link href="https://news.ycombinator.com/item?id=30353709"/>
-        <updated>2022-02-15T22:26:15.000Z</updated>
-        <summary type="html"><![CDATA[No one cared about my spreadsheets]]></summary>
-        <author>
-            <name>jseliger</name>
-            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
         </author>
     </entry>
 </feed>
