@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Feb 2022 17:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 17:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从数据中心工作负载中学习编译器的分支概率]]></title>
+            <link>https://news.ycombinator.com/item?id=30418389</link>
+            <guid>https://news.ycombinator.com/item?id=30418389</guid>
+            <pubDate>Mon, 21 Feb 2022 17:36:41 GMT</pubDate>
+            <description><![CDATA[Learning Branch Probabilities in Compiler from Datacenter Workloads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[交叉他们，一个新的每日字谜]]></title>
+            <link>https://news.ycombinator.com/item?id=30418386</link>
+            <guid>https://news.ycombinator.com/item?id=30418386</guid>
+            <pubDate>Mon, 21 Feb 2022 17:36:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Cross ’em, A new daily word puzzle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[荒地守护者"。一个地貌特征还是一个古老的地貌？]]></title>
+            <link>https://news.ycombinator.com/item?id=30418343</link>
+            <guid>https://news.ycombinator.com/item?id=30418343</guid>
+            <pubDate>Mon, 21 Feb 2022 17:32:49 GMT</pubDate>
+            <description><![CDATA[The 'Badlands Guardian': A Geomorphic Feature or an Ancient Geoglyph?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rodauth：用于Ruby和Rails的最先进的认证框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30418318</link>
+            <guid>https://news.ycombinator.com/item?id=30418318</guid>
+            <pubDate>Mon, 21 Feb 2022 17:30:59 GMT</pubDate>
+            <description><![CDATA[Rodauth: The most advanced authentication framework for Ruby and Rails]]></description>
+        </item>
+        <item>
+            <title><![CDATA[室温下的光学离散时间晶体]]></title>
+            <link>https://news.ycombinator.com/item?id=30418312</link>
+            <guid>https://news.ycombinator.com/item?id=30418312</guid>
+            <pubDate>Mon, 21 Feb 2022 17:30:07 GMT</pubDate>
+            <description><![CDATA[Optical discrete time crystals at room temperature]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯执法部门确认Facebook和Telegram用户身份]]></title>
+            <link>https://news.ycombinator.com/item?id=30418307</link>
+            <guid>https://news.ycombinator.com/item?id=30418307</guid>
+            <pubDate>Mon, 21 Feb 2022 17:29:47 GMT</pubDate>
+            <description><![CDATA[Russian law enforcement identifies Facebook and Telegram users]]></description>
+        </item>
         <item>
             <title><![CDATA[免费HTML模板2022]]></title>
             <link>https://news.ycombinator.com/item?id=30418302</link>
@@ -6971,48 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30392567</guid>
             <pubDate>Fri, 18 Feb 2022 23:25:00 GMT</pubDate>
             <description><![CDATA[Stabilisation of allotrope could be key to making lithium-sulfur batteries work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教程。如何在Pandas中对数据框架进行索引 - Dataquest]]></title>
-            <link>https://news.ycombinator.com/item?id=30392414</link>
-            <guid>https://news.ycombinator.com/item?id=30392414</guid>
-            <pubDate>Fri, 18 Feb 2022 23:08:55 GMT</pubDate>
-            <description><![CDATA[Tutorial: How to Index DataFrames in Pandas – Dataquest]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乔治-波特用这种红宝石激光加速了光化学的发展]]></title>
-            <link>https://news.ycombinator.com/item?id=30392211</link>
-            <guid>https://news.ycombinator.com/item?id=30392211</guid>
-            <pubDate>Fri, 18 Feb 2022 22:50:25 GMT</pubDate>
-            <description><![CDATA[With This Ruby Laser, George Porter Sped Up Photochemistry]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何用Python写出更好的科学代码？]]></title>
-            <link>https://news.ycombinator.com/item?id=30392337</link>
-            <guid>https://news.ycombinator.com/item?id=30392337</guid>
-            <pubDate>Fri, 18 Feb 2022 23:03:19 GMT</pubDate>
-            <description><![CDATA[How to write better scientific code in Python?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Numba更快地进行Python计算：2行代码，速度提高13倍]]></title>
-            <link>https://news.ycombinator.com/item?id=30392367</link>
-            <guid>https://news.ycombinator.com/item?id=30392367</guid>
-            <pubDate>Fri, 18 Feb 2022 23:06:21 GMT</pubDate>
-            <description><![CDATA[Faster Python calculations with Numba: 2 lines of code, 13× speed-up]]></description>
-        </item>
-        <item>
-            <title><![CDATA[了解Python中的属性、Dicts和槽 - Bas Codes]]></title>
-            <link>https://news.ycombinator.com/item?id=30392384</link>
-            <guid>https://news.ycombinator.com/item?id=30392384</guid>
-            <pubDate>Fri, 18 Feb 2022 23:07:09 GMT</pubDate>
-            <description><![CDATA[Understanding Attributes, Dicts and Slots in Python – Bas Codes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9锋的作家工作台]]></title>
-            <link>https://news.ycombinator.com/item?id=30391839</link>
-            <guid>https://news.ycombinator.com/item?id=30391839</guid>
-            <pubDate>Fri, 18 Feb 2022 22:16:04 GMT</pubDate>
-            <description><![CDATA[Writers' Workbench for 9front]]></description>
         </item>
     </channel>
 </rss>
