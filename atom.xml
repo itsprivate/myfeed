@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T10:37:30.364Z</updated>
+    <updated>2022-02-21T10:44:56.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们会不会在海洋中殖民？]]></title>
+        <id>https://news.ycombinator.com/item?id=30414192</id>
+        <link href="https://news.ycombinator.com/item?id=30414192"/>
+        <updated>2022-02-21T10:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Will We Ever Colonize the Oceans?]]></summary>
+        <author>
+            <name>moralrobots</name>
+            <uri>https://news.ycombinator.com/user?id=moralrobots</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大脑是一台假新闻机器，因为来源监控错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30414133</id>
+        <link href="https://news.ycombinator.com/item?id=30414133"/>
+        <updated>2022-02-21T10:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Brain is a fake news machine because of Source Monitoring Errors]]></summary>
+        <author>
+            <name>artpi</name>
+            <uri>https://news.ycombinator.com/user?id=artpi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[颗粒灌装机制造商和供应商]]></title>
+        <id>https://news.ycombinator.com/item?id=30414122</id>
+        <link href="https://news.ycombinator.com/item?id=30414122"/>
+        <updated>2022-02-21T10:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Granule filling machine manufacturer and supplier]]></summary>
+        <author>
+            <name>frankhanks</name>
+            <uri>https://news.ycombinator.com/user?id=frankhanks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用responsify来平滑断点布局的跳动]]></title>
         <id>https://news.ycombinator.com/item?id=30414100</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>cperciva</name>
             <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2启动时间基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=28151841</id>
-        <link href="https://news.ycombinator.com/item?id=28151841"/>
-        <updated>2021-08-12T04:15:32.000Z</updated>
-        <summary type="html"><![CDATA[EC2 Boot Time Benchmarking]]></summary>
-        <author>
-            <name>cperciva</name>
-            <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2启动时间基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=28199994</id>
-        <link href="https://news.ycombinator.com/item?id=28199994"/>
-        <updated>2021-08-16T16:38:16.000Z</updated>
-        <summary type="html"><![CDATA[EC2 Boot Time Benchmarking]]></summary>
-        <author>
-            <name>cperciva</name>
-            <uri>https://news.ycombinator.com/user?id=cperciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏机的发明者认为元气大伤，毫无意义]]></title>
-        <id>https://news.ycombinator.com/item?id=30010375</id>
-        <link href="https://news.ycombinator.com/item?id=30010375"/>
-        <updated>2022-01-20T15:50:27.000Z</updated>
-        <summary type="html"><![CDATA[The inventor of Playstation thinks the metaverse is pointless]]></summary>
-        <author>
-            <name>jedberg</name>
-            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
         </author>
     </entry>
 </feed>
