@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T18:55:06.028Z</updated>
+    <updated>2022-02-21T19:10:46.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡普空CPS-1圖形系統研究]]></title>
+        <id>https://news.ycombinator.com/item?id=30419301</id>
+        <link href="https://news.ycombinator.com/item?id=30419301"/>
+        <updated>2022-02-21T18:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Capcom CPS-1 Graphic system study]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機器學習模型能否克服有偏見的數據集？]]></title>
+        <id>https://news.ycombinator.com/item?id=30419291</id>
+        <link href="https://news.ycombinator.com/item?id=30419291"/>
+        <updated>2022-02-21T18:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Can machine-learning models overcome biased datasets?]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fomir - 一個用於構建表單的模式優先庫]]></title>
         <id>https://news.ycombinator.com/item?id=30419237</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托馬斯-曼逃到了美國，對希特勒展開了一場道德鬥爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30403112</id>
-        <link href="https://news.ycombinator.com/item?id=30403112"/>
-        <updated>2022-02-20T04:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Mann escaped to America and waged a moral battle against Hitler]]></summary>
-        <author>
-            <name>Caiero</name>
-            <uri>https://news.ycombinator.com/user?id=Caiero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[橈骨樹和帕特里夏試之間的區別是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30403102</id>
-        <link href="https://news.ycombinator.com/item?id=30403102"/>
-        <updated>2022-02-20T03:59:58.000Z</updated>
-        <summary type="html"><![CDATA[What is the difference between radix trees and Patricia tries?]]></summary>
-        <author>
-            <name>melissalobos</name>
-            <uri>https://news.ycombinator.com/user?id=melissalobos</uri>
         </author>
     </entry>
 </feed>
