@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T06:42:53.938Z</updated>
+    <updated>2022-02-21T06:55:35.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何不再擔心別人對你的看法 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30412619</id>
+        <link href="https://news.ycombinator.com/item?id=30412619"/>
+        <updated>2022-02-21T06:48:49.000Z</updated>
+        <summary type="html"><![CDATA[How to Stop Worrying About What Other People Think of You (2019)]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據直覺案例研究。無穀物的狗糧]]></title>
+        <id>https://news.ycombinator.com/item?id=30412606</id>
+        <link href="https://news.ycombinator.com/item?id=30412606"/>
+        <updated>2022-02-21T06:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Data Intuition Case Study: Grain-Free Dog Food]]></summary>
+        <author>
+            <name>lumpa</name>
+            <uri>https://news.ycombinator.com/user?id=lumpa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於消費者物聯網設備安全的聯合支持聲明]]></title>
+        <id>https://news.ycombinator.com/item?id=30412553</id>
+        <link href="https://news.ycombinator.com/item?id=30412553"/>
+        <updated>2022-02-21T06:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Joint statement of support on consumer IoT device security]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自動生成。一個類似於JSON的數據結構（一個CRDT），可以被併發修改]]></title>
+        <id>https://news.ycombinator.com/item?id=30412550</id>
+        <link href="https://news.ycombinator.com/item?id=30412550"/>
+        <updated>2022-02-21T06:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[閱讀流行產品的文檔]]></title>
         <id>https://news.ycombinator.com/item?id=30412535</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們的營銷是霧溪的，我們對此做了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=2588431</id>
-        <link href="https://news.ycombinator.com/item?id=2588431"/>
-        <updated>2011-05-26T16:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Our Marketing Is Up Fog Creek And What We Did About It]]></summary>
-        <author>
-            <name>patio11</name>
-            <uri>https://news.ycombinator.com/user?id=patio11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slicehost STL-A已關閉]]></title>
-        <id>https://news.ycombinator.com/item?id=2871781</id>
-        <link href="https://news.ycombinator.com/item?id=2871781"/>
-        <updated>2011-08-11T06:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Slicehost STL-A is down]]></summary>
-        <author>
-            <name>patio11</name>
-            <uri>https://news.ycombinator.com/user?id=patio11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個有782,000個BTC的比特幣地址通過它移動了]]></title>
-        <id>https://news.ycombinator.com/item?id=7297418</id>
-        <link href="https://news.ycombinator.com/item?id=7297418"/>
-        <updated>2014-02-25T13:23:20.000Z</updated>
-        <summary type="html"><![CDATA[A Bitcoin Address with 782,000 BTC Moved Through It]]></summary>
-        <author>
-            <name>patio11</name>
-            <uri>https://news.ycombinator.com/user?id=patio11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個被他的DAO解僱的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30295680</id>
-        <link href="https://news.ycombinator.com/item?id=30295680"/>
-        <updated>2022-02-11T01:39:26.000Z</updated>
-        <summary type="html"><![CDATA[A man who got fired by his DAO]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
