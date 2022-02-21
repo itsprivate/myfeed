@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T23:31:51.684Z</updated>
+    <updated>2022-02-21T23:39:01.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我早在1996年就从Python 1.4中删除了GIL"]]></title>
+        <id>https://news.ycombinator.com/item?id=30422183</id>
+        <link href="https://news.ycombinator.com/item?id=30422183"/>
+        <updated>2022-02-21T23:35:03.000Z</updated>
+        <summary type="html"><![CDATA[„I removed the GIL back in 1996 from Python 1.4“]]></summary>
+        <author>
+            <name>merlinscholz</name>
+            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一块与S-100兼容的80386 CPU板(v6)，带原理图和演示(1998)]]></title>
         <id>https://news.ycombinator.com/item?id=30422119</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Hakashiro</name>
             <uri>https://news.ycombinator.com/user?id=Hakashiro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Python中更直观的部分函数应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30405346</id>
-        <link href="https://news.ycombinator.com/item?id=30405346"/>
-        <updated>2022-02-20T13:02:50.000Z</updated>
-        <summary type="html"><![CDATA[More Intuitive Partial Function Application in Python]]></summary>
-        <author>
-            <name>cgrimm1994</name>
-            <uri>https://news.ycombinator.com/user?id=cgrimm1994</uri>
         </author>
     </entry>
 </feed>
