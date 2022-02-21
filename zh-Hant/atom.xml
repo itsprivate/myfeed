@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T02:22:15.670Z</updated>
+    <updated>2022-02-21T02:48:27.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成為一名好老師需要什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=30411378</id>
+        <link href="https://news.ycombinator.com/item?id=30411378"/>
+        <updated>2022-02-21T02:39:48.000Z</updated>
+        <summary type="html"><![CDATA[What It Takes to Be a Good Teacher]]></summary>
+        <author>
+            <name>taurusnoises</name>
+            <uri>https://news.ycombinator.com/user?id=taurusnoises</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Go中從頭開始的SMTP協議基礎知識：從Gmail接收郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30411360</id>
+        <link href="https://news.ycombinator.com/item?id=30411360"/>
+        <updated>2022-02-21T02:35:55.000Z</updated>
+        <summary type="html"><![CDATA[SMTP protocol basics from scratch in Go: receiving email from Gmail]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[銳化餘弦相似性 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30411335</id>
+        <link href="https://news.ycombinator.com/item?id=30411335"/>
+        <updated>2022-02-21T02:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Sharpened Cosine Similarity (2020)]]></summary>
+        <author>
+            <name>johnsutor</name>
+            <uri>https://news.ycombinator.com/user?id=johnsutor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據差異。解釋數據集中變化的算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30411326</id>
+        <link href="https://news.ycombinator.com/item?id=30411326"/>
+        <updated>2022-02-21T02:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Data diffs: Algorithms for explaining what changed in a dataset]]></summary>
+        <author>
+            <name>winkywooster</name>
+            <uri>https://news.ycombinator.com/user?id=winkywooster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你想要一個無聊的落地燈還是一個醜陋的落地燈？]]></title>
+        <id>https://news.ycombinator.com/item?id=30411323</id>
+        <link href="https://news.ycombinator.com/item?id=30411323"/>
+        <updated>2022-02-21T02:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Do You Want a Boring Floor Lamp or an Ugly Floor Lamp?]]></summary>
+        <author>
+            <name>jasonhansel</name>
+            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客利用網絡釣魚攻擊盜取OpenSea用戶170萬美元的NFTs]]></title>
+        <id>https://news.ycombinator.com/item?id=30411300</id>
+        <link href="https://news.ycombinator.com/item?id=30411300"/>
+        <updated>2022-02-21T02:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Hacker Uses Phishing Attack to Steal $1.7M in NFTs from OpenSea Users]]></summary>
+        <author>
+            <name>ourmandave</name>
+            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈瓦那綜合症：國家安全高級官員患上不明原因的疾病]]></title>
+        <id>https://news.ycombinator.com/item?id=30411270</id>
+        <link href="https://news.ycombinator.com/item?id=30411270"/>
+        <updated>2022-02-21T02:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Havana Syndrome: High-level natl security officials stricken unexplained illness]]></summary>
+        <author>
+            <name>thomasjudge</name>
+            <uri>https://news.ycombinator.com/user?id=thomasjudge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salesforce與AWS合作開發直接面向消費者的流媒體解決方案]]></title>
         <id>https://news.ycombinator.com/item?id=30411221</id>
@@ -10936,83 +11013,6 @@
         <author>
             <name>hn_throwaway_99</name>
             <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[華盛頓郵報》的付費牆是如何繞過Chrome的隱身模式的？]]></title>
-        <id>https://news.ycombinator.com/item?id=17947631</id>
-        <link href="https://news.ycombinator.com/item?id=17947631"/>
-        <updated>2018-09-09T20:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does the Washington Post paywall get around Chrome's incognito mode?]]></summary>
-        <author>
-            <name>hn_throwaway_99</name>
-            <uri>https://news.ycombinator.com/user?id=hn_throwaway_99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌前僱員起訴稱因支持多樣性的帖子被解僱]]></title>
-        <id>https://news.ycombinator.com/item?id=16434630</id>
-        <link href="https://news.ycombinator.com/item?id=16434630"/>
-        <updated>2018-02-22T02:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Ex-Google Employee Sues Alleging He Was Fired Over Pro-Diversity Posts]]></summary>
-        <author>
-            <name>stcredzero</name>
-            <uri>https://news.ycombinator.com/user?id=stcredzero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘇珊-平克博士。性的悖論]]></title>
-        <id>https://news.ycombinator.com/item?id=16522992</id>
-        <link href="https://news.ycombinator.com/item?id=16522992"/>
-        <updated>2018-03-05T18:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Susan Pinker: The Sexual Paradox]]></summary>
-        <author>
-            <name>stcredzero</name>
-            <uri>https://news.ycombinator.com/user?id=stcredzero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小刀媒體]]></title>
-        <id>https://news.ycombinator.com/item?id=16547620</id>
-        <link href="https://news.ycombinator.com/item?id=16547620"/>
-        <updated>2018-03-08T21:04:53.000Z</updated>
-        <summary type="html"><![CDATA[The Knife Media]]></summary>
-        <author>
-            <name>stcredzero</name>
-            <uri>https://news.ycombinator.com/user?id=stcredzero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人生苦短，不能使用過時的CLI工具。試試這些工具吧]]></title>
-        <id>https://news.ycombinator.com/item?id=29849580</id>
-        <link href="https://news.ycombinator.com/item?id=29849580"/>
-        <updated>2022-01-08T07:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Life is to short to use dated CLI tools that suck. Try these instead]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子為拯救世界而接受輸精管切除手術]]></title>
-        <id>https://news.ycombinator.com/item?id=29903692</id>
-        <link href="https://news.ycombinator.com/item?id=29903692"/>
-        <updated>2022-01-12T08:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Men getting vasectomies to save the world]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威爾士將試行脫離照料者基本收入試點計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30366942</id>
-        <link href="https://news.ycombinator.com/item?id=30366942"/>
-        <updated>2022-02-16T22:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Basic income pilot scheme for care leavers to be trialled in Wales]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
         </author>
     </entry>
 </feed>
