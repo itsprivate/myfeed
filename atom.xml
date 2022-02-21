@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T04:40:38.737Z</updated>
+    <updated>2022-02-21T04:57:13.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[cat /usr/share/misc/flowers]]></title>
+        <id>https://news.ycombinator.com/item?id=30412063</id>
+        <link href="https://news.ycombinator.com/item?id=30412063"/>
+        <updated>2022-02-21T04:46:35.000Z</updated>
+        <summary type="html"><![CDATA[cat /usr/share/misc/flowers]]></summary>
+        <author>
+            <name>grep_it</name>
+            <uri>https://news.ycombinator.com/user?id=grep_it</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨大的泄密事件暴露了瑞士信贷如何为强人和间谍提供服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30412058</id>
+        <link href="https://news.ycombinator.com/item?id=30412058"/>
+        <updated>2022-02-21T04:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Vast Leak Exposes How Credit Suisse Served Strongmen and Spies]]></summary>
+        <author>
+            <name>RadixDLT</name>
+            <uri>https://news.ycombinator.com/user?id=RadixDLT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SuperRT：SNES的实时光线追踪扩展芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30412051</id>
+        <link href="https://news.ycombinator.com/item?id=30412051"/>
+        <updated>2022-02-21T04:43:59.000Z</updated>
+        <summary type="html"><![CDATA[SuperRT: A realtime raytracing extension chip for the SNES]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殖民地印度的早餐咖喱的奇特情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30412044</id>
+        <link href="https://news.ycombinator.com/item?id=30412044"/>
+        <updated>2022-02-21T04:42:47.000Z</updated>
+        <summary type="html"><![CDATA[The Curious Case of Colonial India’s Breakfast Curries]]></summary>
+        <author>
+            <name>lermontov</name>
+            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japa - 一个功能丰富的Node.js测试框架]]></title>
         <id>https://news.ycombinator.com/item?id=30411995</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>dang</name>
             <uri>https://news.ycombinator.com/user?id=dang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做个有趣的人 (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=29544737</id>
-        <link href="https://news.ycombinator.com/item?id=29544737"/>
-        <updated>2021-12-13T21:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Being Funny (2014)]]></summary>
-        <author>
-            <name>dang</name>
-            <uri>https://news.ycombinator.com/user?id=dang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在14分钟内学习JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=17029142</id>
-        <link href="https://news.ycombinator.com/item?id=17029142"/>
-        <updated>2018-05-09T12:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Learn JavaScript in 14 minutes]]></summary>
-        <author>
-            <name>bbx</name>
-            <uri>https://news.ycombinator.com/user?id=bbx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1standings.com - 一个简单的F1车手和车队排名的网站]]></title>
-        <id>https://news.ycombinator.com/item?id=19566242</id>
-        <link href="https://news.ycombinator.com/item?id=19566242"/>
-        <updated>2019-04-03T19:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: F1standings.com – A simple website for F1 driver and team standings]]></summary>
-        <author>
-            <name>bbx</name>
-            <uri>https://news.ycombinator.com/user?id=bbx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新闻黑暗模式]]></title>
-        <id>https://news.ycombinator.com/item?id=23203347</id>
-        <link href="https://news.ycombinator.com/item?id=23203347"/>
-        <updated>2020-05-16T13:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News Dark Mode]]></summary>
-        <author>
-            <name>bbx</name>
-            <uri>https://news.ycombinator.com/user?id=bbx</uri>
         </author>
     </entry>
 </feed>
