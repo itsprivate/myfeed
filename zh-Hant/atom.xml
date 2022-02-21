@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-21T03:32:58.002Z</updated>
+    <updated>2022-02-21T03:42:36.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有什麼比一個飽學的獨裁者更危險的了]]></title>
+        <id>https://news.ycombinator.com/item?id=30411679</id>
+        <link href="https://news.ycombinator.com/item?id=30411679"/>
+        <updated>2022-02-21T03:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Nothing is more dangerous than a well-read dictator]]></summary>
+        <author>
+            <name>oska</name>
+            <uri>https://news.ycombinator.com/user?id=oska</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實用的編程理論 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30411667</id>
+        <link href="https://news.ycombinator.com/item?id=30411667"/>
+        <updated>2022-02-21T03:31:15.000Z</updated>
+        <summary type="html"><![CDATA[A Practical Theory of Programming [pdf]]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HyperSudoku - 與你的朋友在線玩數獨遊戲。]]></title>
         <id>https://news.ycombinator.com/item?id=30411630</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>linuz90</name>
             <uri>https://news.ycombinator.com/user?id=linuz90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何繞過iOS 9的內容封鎖]]></title>
-        <id>https://news.ycombinator.com/item?id=10265023</id>
-        <link href="https://news.ycombinator.com/item?id=10265023"/>
-        <updated>2015-09-23T14:05:28.000Z</updated>
-        <summary type="html"><![CDATA[How to Bypass iOS 9 Content Blocking]]></summary>
-        <author>
-            <name>dieulot</name>
-            <uri>https://news.ycombinator.com/user?id=dieulot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[檢測哪些iOS設備在你的網站上使用]]></title>
-        <id>https://news.ycombinator.com/item?id=18370733</id>
-        <link href="https://news.ycombinator.com/item?id=18370733"/>
-        <updated>2018-11-03T15:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Detect which iOS devices are used on your site]]></summary>
-        <author>
-            <name>dieulot</name>
-            <uri>https://news.ycombinator.com/user?id=dieulot</uri>
         </author>
     </entry>
 </feed>

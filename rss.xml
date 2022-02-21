@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 03:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[没有什么比一个饱学的独裁者更危险的了]]></title>
+            <link>https://news.ycombinator.com/item?id=30411679</link>
+            <guid>https://news.ycombinator.com/item?id=30411679</guid>
+            <pubDate>Mon, 21 Feb 2022 03:33:19 GMT</pubDate>
+            <description><![CDATA[Nothing is more dangerous than a well-read dictator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[实用的编程理论 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30411667</link>
+            <guid>https://news.ycombinator.com/item?id=30411667</guid>
+            <pubDate>Mon, 21 Feb 2022 03:31:15 GMT</pubDate>
+            <description><![CDATA[A Practical Theory of Programming [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[HyperSudoku - 与你的朋友在线玩数独游戏。]]></title>
             <link>https://news.ycombinator.com/item?id=30411630</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=24374759</guid>
             <pubDate>Fri, 04 Sep 2020 13:32:39 GMT</pubDate>
             <description><![CDATA[Garbage In, Garbage Out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何绕过iOS 9的内容封锁]]></title>
-            <link>https://news.ycombinator.com/item?id=10265023</link>
-            <guid>https://news.ycombinator.com/item?id=10265023</guid>
-            <pubDate>Wed, 23 Sep 2015 14:05:28 GMT</pubDate>
-            <description><![CDATA[How to Bypass iOS 9 Content Blocking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[检测哪些iOS设备在你的网站上使用]]></title>
-            <link>https://news.ycombinator.com/item?id=18370733</link>
-            <guid>https://news.ycombinator.com/item?id=18370733</guid>
-            <pubDate>Sat, 03 Nov 2018 15:44:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Detect which iOS devices are used on your site]]></description>
         </item>
     </channel>
 </rss>
