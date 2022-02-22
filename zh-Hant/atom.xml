@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T04:13:41.637Z</updated>
+    <updated>2022-02-22T04:39:49.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你希望別人為你建立什麼網絡服務？]]></title>
+        <id>https://news.ycombinator.com/item?id=30424025</id>
+        <link href="https://news.ycombinator.com/item?id=30424025"/>
+        <updated>2022-02-22T04:35:59.000Z</updated>
+        <summary type="html"><![CDATA[What web service did you wish other people built for you?]]></summary>
+        <author>
+            <name>fnaith</name>
+            <uri>https://news.ycombinator.com/user?id=fnaith</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用固態硬盤的電源故障測試（2015）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30424014</id>
+        <link href="https://news.ycombinator.com/item?id=30424014"/>
+        <updated>2022-02-22T04:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Power Failure Testing with SSDs (2015)]]></summary>
+        <author>
+            <name>whitepoplar</name>
+            <uri>https://news.ycombinator.com/user?id=whitepoplar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克里斯-拉特納離開斯威夫特核心團隊]]></title>
+        <id>https://news.ycombinator.com/item?id=30423992</id>
+        <link href="https://news.ycombinator.com/item?id=30423992"/>
+        <updated>2022-02-22T04:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Chris Lattner leaves the Swift core team]]></summary>
+        <author>
+            <name>mrkd</name>
+            <uri>https://news.ycombinator.com/user?id=mrkd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思考的機器--數據並行超級計算簡介 (1989)]]></title>
+        <id>https://news.ycombinator.com/item?id=30423931</id>
+        <link href="https://news.ycombinator.com/item?id=30423931"/>
+        <updated>2022-02-22T04:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Thinking Machines – Introduction to Data Parallel Supercomputing (1989)]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我很高興氣候不是一個危機......"]]></title>
         <id>https://news.ycombinator.com/item?id=30423868</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>ecoeconomy</name>
             <uri>https://news.ycombinator.com/user?id=ecoeconomy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭。俄羅斯計劃在歐洲進行1945年以來最大的戰爭 - 鮑里斯-約翰遜]]></title>
-        <id>https://news.ycombinator.com/item?id=30406885</id>
-        <link href="https://news.ycombinator.com/item?id=30406885"/>
-        <updated>2022-02-20T16:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine: Russia plans biggest war in Europe since 1945 – Boris Johnson]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抗癲癇科中心]]></title>
-        <id>https://news.ycombinator.com/item?id=30406865</id>
-        <link href="https://news.ycombinator.com/item?id=30406865"/>
-        <updated>2022-02-20T16:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Antimemetics Division Hub]]></summary>
-        <author>
-            <name>sbergjohansen</name>
-            <uri>https://news.ycombinator.com/user?id=sbergjohansen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[變現租金的峰值形成？]]></title>
-        <id>https://news.ycombinator.com/item?id=30406846</id>
-        <link href="https://news.ycombinator.com/item?id=30406846"/>
-        <updated>2022-02-20T16:22:46.000Z</updated>
-        <summary type="html"><![CDATA[A peak forming in realized rents?]]></summary>
-        <author>
-            <name>jseliger</name>
-            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在美國食品和藥物管理局發佈有關抗抑鬱藥的警告後，青少年自殺率上升]]></title>
-        <id>https://news.ycombinator.com/item?id=30406844</id>
-        <link href="https://news.ycombinator.com/item?id=30406844"/>
-        <updated>2022-02-20T16:22:29.000Z</updated>
-        <summary type="html"><![CDATA[After the FDA issued warnings about antidepressants, youth suicides rose]]></summary>
-        <author>
-            <name>Hooke</name>
-            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
         </author>
     </entry>
 </feed>
