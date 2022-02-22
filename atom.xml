@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T18:16:16.823Z</updated>
+    <updated>2022-02-22T18:41:24.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,314 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Flutter制作的Hacker News阅读器]]></title>
+        <id>https://news.ycombinator.com/item?id=30431609</id>
+        <link href="https://news.ycombinator.com/item?id=30431609"/>
+        <updated>2022-02-22T18:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker News reader made with Flutter]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主机防火墙]]></title>
+        <id>https://news.ycombinator.com/item?id=30431604</id>
+        <link href="https://news.ycombinator.com/item?id=30431604"/>
+        <updated>2022-02-22T18:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Host Firewalls]]></summary>
+        <author>
+            <name>srijan4</name>
+            <uri>https://news.ycombinator.com/user?id=srijan4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Beazley--问题的问题（2022年斯里兰卡PyCon大会）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30431599</id>
+        <link href="https://news.ycombinator.com/item?id=30431599"/>
+        <updated>2022-02-22T18:32:16.000Z</updated>
+        <summary type="html"><![CDATA[David Beazley – The Problem with the Problem (PyCon Sri Lanka 2022)]]></summary>
+        <author>
+            <name>botdan</name>
+            <uri>https://news.ycombinator.com/user?id=botdan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZkSync 2.0。公共测试网上线]]></title>
+        <id>https://news.ycombinator.com/item?id=30431598</id>
+        <link href="https://news.ycombinator.com/item?id=30431598"/>
+        <updated>2022-02-22T18:32:12.000Z</updated>
+        <summary type="html"><![CDATA[ZkSync 2.0: Public Testnet Is Live]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用汉密尔顿扩展数据流]]></title>
+        <id>https://news.ycombinator.com/item?id=30431589</id>
+        <link href="https://news.ycombinator.com/item?id=30431589"/>
+        <updated>2022-02-22T18:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></summary>
+        <author>
+            <name>mlplat</name>
+            <uri>https://news.ycombinator.com/user?id=mlplat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟制裁351名投票承认乌克兰分离主义分子的俄罗斯立法者]]></title>
+        <id>https://news.ycombinator.com/item?id=30431567</id>
+        <link href="https://news.ycombinator.com/item?id=30431567"/>
+        <updated>2022-02-22T18:30:48.000Z</updated>
+        <summary type="html"><![CDATA[EU sanctions 351 Russian lawmakers who voted to recognise Ukraine's separatists]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保持你的书签干净和最新]]></title>
+        <id>https://news.ycombinator.com/item?id=30431556</id>
+        <link href="https://news.ycombinator.com/item?id=30431556"/>
+        <updated>2022-02-22T18:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Keep your bookmarks clean and up-to-date]]></summary>
+        <author>
+            <name>neiman1</name>
+            <uri>https://news.ycombinator.com/user?id=neiman1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向所有人的软件：开源社区如何运作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30431553</id>
+        <link href="https://news.ycombinator.com/item?id=30431553"/>
+        <updated>2022-02-22T18:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Software for all: How do open-source communities work?]]></summary>
+        <author>
+            <name>lornajane</name>
+            <uri>https://news.ycombinator.com/user?id=lornajane</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windle。一个设计用于在Windows 3.1上运行的Wordle克隆体]]></title>
+        <id>https://news.ycombinator.com/item?id=30431545</id>
+        <link href="https://news.ycombinator.com/item?id=30431545"/>
+        <updated>2022-02-22T18:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Windle: A Wordle clone designed to run on Windows 3.1]]></summary>
+        <author>
+            <name>Bluecobra</name>
+            <uri>https://news.ycombinator.com/user?id=Bluecobra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气球学习环境]]></title>
+        <id>https://news.ycombinator.com/item?id=30431534</id>
+        <link href="https://news.ycombinator.com/item?id=30431534"/>
+        <updated>2022-02-22T18:28:54.000Z</updated>
+        <summary type="html"><![CDATA[The Balloon Learning Environment]]></summary>
+        <author>
+            <name>agmm</name>
+            <uri>https://news.ycombinator.com/user?id=agmm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ylang: eBPF、Stap+、GDB的通用语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30431530</id>
+        <link href="https://news.ycombinator.com/item?id=30431530"/>
+        <updated>2022-02-22T18:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Ylang: Universal Language for eBPF, Stap+, GDB]]></summary>
+        <author>
+            <name>ceohockey60</name>
+            <uri>https://news.ycombinator.com/user?id=ceohockey60</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb在达到最初目标后，旨在为4万名阿富汗难民提供住所]]></title>
+        <id>https://news.ycombinator.com/item?id=30431500</id>
+        <link href="https://news.ycombinator.com/item?id=30431500"/>
+        <updated>2022-02-22T18:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb aims to house 40K Afghan refugees after reaching original goal]]></summary>
+        <author>
+            <name>olvy0</name>
+            <uri>https://news.ycombinator.com/user?id=olvy0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音乐与生活 (Alan Watts)]]></title>
+        <id>https://news.ycombinator.com/item?id=30431480</id>
+        <link href="https://news.ycombinator.com/item?id=30431480"/>
+        <updated>2022-02-22T18:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Music and Life (Alan Watts)]]></summary>
+        <author>
+            <name>stakkur</name>
+            <uri>https://news.ycombinator.com/user?id=stakkur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲁能基金会护卫队为UST稳定币筹款10亿美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30431474</id>
+        <link href="https://news.ycombinator.com/item?id=30431474"/>
+        <updated>2022-02-22T18:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Luna Foundation Guard raises $1B for UST stablecoin]]></summary>
+        <author>
+            <name>ashvardanian</name>
+            <uri>https://news.ycombinator.com/user?id=ashvardanian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于Covid的出现，mRNA时代已经到来。下一步的计划是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30431472</id>
+        <link href="https://news.ycombinator.com/item?id=30431472"/>
+        <updated>2022-02-22T18:24:57.000Z</updated>
+        <summary type="html"><![CDATA[The mRNA era has arrived thanks to Covid. What's next in the pipeline?]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毕夫现在由Clojurists Together和JUXT赞助。]]></title>
+        <id>https://news.ycombinator.com/item?id=30431463</id>
+        <link href="https://news.ycombinator.com/item?id=30431463"/>
+        <updated>2022-02-22T18:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Biff is now sponsored by Clojurists Together and JUXT]]></summary>
+        <author>
+            <name>jacobobryant</name>
+            <uri>https://news.ycombinator.com/user?id=jacobobryant</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyBuddyAndrew从机械师到软件工程师到Hauling Buddies的创始人]]></title>
+        <id>https://news.ycombinator.com/item?id=30431436</id>
+        <link href="https://news.ycombinator.com/item?id=30431436"/>
+        <updated>2022-02-22T18:23:19.000Z</updated>
+        <summary type="html"><![CDATA[MyBuddyAndrew from mechanic to software engineer to founder of Hauling Buddies]]></summary>
+        <author>
+            <name>ahodson</name>
+            <uri>https://news.ycombinator.com/user?id=ahodson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[协同效应。从钢琴MIDI或音频创建美丽的合成器式视频]]></title>
+        <id>https://news.ycombinator.com/item?id=30431433</id>
+        <link href="https://news.ycombinator.com/item?id=30431433"/>
+        <updated>2022-02-22T18:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Synthviz: Create beautiful Synthesia-esque videos from piano MIDI or audio]]></summary>
+        <author>
+            <name>jxmorris12</name>
+            <uri>https://news.ycombinator.com/user?id=jxmorris12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空中客车公司计划在A380巨无霸飞机上测试氢气发动机]]></title>
+        <id>https://news.ycombinator.com/item?id=30431423</id>
+        <link href="https://news.ycombinator.com/item?id=30431423"/>
+        <updated>2022-02-22T18:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Airbus plans to test hydrogen engine on A380 jumbo jet]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯瓦米-拉玛：对非自愿状态的自愿控制]]></title>
+        <id>https://news.ycombinator.com/item?id=30431419</id>
+        <link href="https://news.ycombinator.com/item?id=30431419"/>
+        <updated>2022-02-22T18:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Swami Rama: Voluntary control over involuntary states]]></summary>
+        <author>
+            <name>swatkat</name>
+            <uri>https://news.ycombinator.com/user?id=swatkat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyPortal Winamp MP3播放器]]></title>
+        <id>https://news.ycombinator.com/item?id=30431396</id>
+        <link href="https://news.ycombinator.com/item?id=30431396"/>
+        <updated>2022-02-22T18:20:27.000Z</updated>
+        <summary type="html"><![CDATA[PyPortal Winamp MP3 Player]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Next.js、Cloudflare、Contentful构建营销工程平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30431391</id>
+        <link href="https://news.ycombinator.com/item?id=30431391"/>
+        <updated>2022-02-22T18:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Building a Marketing Engineering Platform Using Next.js, Cloudflare, Contentful]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自大流行病开始以来，有近15000个 "幽灵航班 "离开英国]]></title>
+        <id>https://news.ycombinator.com/item?id=30431369</id>
+        <link href="https://news.ycombinator.com/item?id=30431369"/>
+        <updated>2022-02-22T18:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Almost 15,000 ‘ghost flights’ have left UK since pandemic began]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超文本字面意义]]></title>
+        <id>https://news.ycombinator.com/item?id=30431334</id>
+        <link href="https://news.ycombinator.com/item?id=30431334"/>
+        <updated>2022-02-22T18:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Hypertext Literal]]></summary>
+        <author>
+            <name>g8oz</name>
+            <uri>https://news.ycombinator.com/user?id=g8oz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Flutter不是你构建世界上最好的应用程序的选择？]]></title>
+        <id>https://news.ycombinator.com/item?id=30431308</id>
+        <link href="https://news.ycombinator.com/item?id=30431308"/>
+        <updated>2022-02-22T18:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Why Flutter is not your choice for building the best app in the world?]]></summary>
+        <author>
+            <name>johndfsgdgdfg</name>
+            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克拉伦斯和金妮-托马斯的漫长征途]]></title>
+        <id>https://news.ycombinator.com/item?id=30431291</id>
+        <link href="https://news.ycombinator.com/item?id=30431291"/>
+        <updated>2022-02-22T18:13:10.000Z</updated>
+        <summary type="html"><![CDATA[The Long Crusade of Clarence and Ginni Thomas]]></summary>
+        <author>
+            <name>jackallis</name>
+            <uri>https://news.ycombinator.com/user?id=jackallis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官员称罗马尼亚准备接受50万乌克兰难民]]></title>
+        <id>https://news.ycombinator.com/item?id=30431283</id>
+        <link href="https://news.ycombinator.com/item?id=30431283"/>
+        <updated>2022-02-22T18:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Romania prepared to accept 500K Ukrainian refugees, official says]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horde Webmail 5.2.22 - 通过电子邮件接管账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30431280</id>
+        <link href="https://news.ycombinator.com/item?id=30431280"/>
+        <updated>2022-02-22T18:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Horde Webmail 5.2.22 – Account Takeover via Email]]></summary>
+        <author>
+            <name>h1x</name>
+            <uri>https://news.ycombinator.com/user?id=h1x</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿姆斯特丹苹果商店的人质事件正在进行中]]></title>
         <id>https://news.ycombinator.com/item?id=30431252</id>
@@ -10705,314 +11013,6 @@
         <author>
             <name>testrun</name>
             <uri>https://news.ycombinator.com/user?id=testrun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekans - 一个用Golang构建的非诅咒终端游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30416104</id>
-        <link href="https://news.ycombinator.com/item?id=30416104"/>
-        <updated>2022-02-21T14:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ekans – a non-curses terminal game built with Golang]]></summary>
-        <author>
-            <name>int3rlop3r</name>
-            <uri>https://news.ycombinator.com/user?id=int3rlop3r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引导器基础知识]]></title>
-        <id>https://news.ycombinator.com/item?id=30416100</id>
-        <link href="https://news.ycombinator.com/item?id=30416100"/>
-        <updated>2022-02-21T14:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Bootloader Basics]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽伦斯基在慕尼黑安全会议上的讲话全文]]></title>
-        <id>https://news.ycombinator.com/item?id=30416086</id>
-        <link href="https://news.ycombinator.com/item?id=30416086"/>
-        <updated>2022-02-21T14:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Zelensky’s full speech at Munich Security Conference]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冒险的技巧》（1995） [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30416041</id>
-        <link href="https://news.ycombinator.com/item?id=30416041"/>
-        <updated>2022-02-21T14:11:27.000Z</updated>
-        <summary type="html"><![CDATA[The Craft of the Adventure (1995) [pdf]]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯文-古克斯去世]]></title>
-        <id>https://news.ycombinator.com/item?id=30416434</id>
-        <link href="https://news.ycombinator.com/item?id=30416434"/>
-        <updated>2022-02-21T14:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Sven Guckes Passed Away]]></summary>
-        <author>
-            <name>st_goliath</name>
-            <uri>https://news.ycombinator.com/user?id=st_goliath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡西欧QL-10(Calculighter)--计算器和打火机合二为一]]></title>
-        <id>https://news.ycombinator.com/item?id=30416420</id>
-        <link href="https://news.ycombinator.com/item?id=30416420"/>
-        <updated>2022-02-21T14:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Casio QL-10 (Calculighter) – Calculator and Lighter in One]]></summary>
-        <author>
-            <name>HiroProtagonist</name>
-            <uri>https://news.ycombinator.com/user?id=HiroProtagonist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国称俄罗斯国家黑客潜伏在国防承包商网络中数月之久]]></title>
-        <id>https://news.ycombinator.com/item?id=30416416</id>
-        <link href="https://news.ycombinator.com/item?id=30416416"/>
-        <updated>2022-02-21T14:46:56.000Z</updated>
-        <summary type="html"><![CDATA[US says Russian state hackers lurked in defense contractor networks for months]]></summary>
-        <author>
-            <name>scrummy</name>
-            <uri>https://news.ycombinator.com/user?id=scrummy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESP32走进酒吧--MicroPython教程[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30416411</id>
-        <link href="https://news.ycombinator.com/item?id=30416411"/>
-        <updated>2022-02-21T14:46:25.000Z</updated>
-        <summary type="html"><![CDATA[An ESP32 walks into a bar – MicroPython tutorial [video]]]></summary>
-        <author>
-            <name>muunbo</name>
-            <uri>https://news.ycombinator.com/user?id=muunbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌本可以将Pixel 3更新到安卓13系统，只是它不想这么做]]></title>
-        <id>https://news.ycombinator.com/item?id=30416410</id>
-        <link href="https://news.ycombinator.com/item?id=30416410"/>
-        <updated>2022-02-21T14:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Google could have updated the Pixel 3 until Android 13, it just didn't want to]]></summary>
-        <author>
-            <name>sorenjan</name>
-            <uri>https://news.ycombinator.com/user?id=sorenjan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上最危险的电影]]></title>
-        <id>https://news.ycombinator.com/item?id=30416387</id>
-        <link href="https://news.ycombinator.com/item?id=30416387"/>
-        <updated>2022-02-21T14:43:46.000Z</updated>
-        <summary type="html"><![CDATA[The Most Dangerous Film in the World]]></summary>
-        <author>
-            <name>justbees</name>
-            <uri>https://news.ycombinator.com/user?id=justbees</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用LFSR生成伪随机数]]></title>
-        <id>https://news.ycombinator.com/item?id=30416361</id>
-        <link href="https://news.ycombinator.com/item?id=30416361"/>
-        <updated>2022-02-21T14:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Pseudorandom Number Generation Using LFSR]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么销售法律技术如此困难？]]></title>
-        <id>https://news.ycombinator.com/item?id=30416360</id>
-        <link href="https://news.ycombinator.com/item?id=30416360"/>
-        <updated>2022-02-21T14:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Why Is Selling Legal Tech So Hard?]]></summary>
-        <author>
-            <name>binarymax</name>
-            <uri>https://news.ycombinator.com/user?id=binarymax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越微服务。流、状态和可扩展性]]></title>
-        <id>https://news.ycombinator.com/item?id=30416352</id>
-        <link href="https://news.ycombinator.com/item?id=30416352"/>
-        <updated>2022-02-21T14:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Beyond Microservices: Streams, State and Scalability]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗拉基米尔-斯列普涅夫的 "之 "字形作品]]></title>
-        <id>https://news.ycombinator.com/item?id=30416294</id>
-        <link href="https://news.ycombinator.com/item?id=30416294"/>
-        <updated>2022-02-21T14:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Zig Zag by Vladimir Slepnev]]></summary>
-        <author>
-            <name>zhan_eg</name>
-            <uri>https://news.ycombinator.com/user?id=zhan_eg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长时间锻炼和高蛋白。男人和男孩的饮食失调是什么样子的]]></title>
-        <id>https://news.ycombinator.com/item?id=30416105</id>
-        <link href="https://news.ycombinator.com/item?id=30416105"/>
-        <updated>2022-02-21T14:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Long workouts and high protein: What eating disorders look like in men and boys]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯-拉特纳离开斯威夫特核心团队]]></title>
-        <id>https://news.ycombinator.com/item?id=30416070</id>
-        <link href="https://news.ycombinator.com/item?id=30416070"/>
-        <updated>2022-02-21T14:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris Lattner left Swift core team]]></summary>
-        <author>
-            <name>rayx2022</name>
-            <uri>https://news.ycombinator.com/user?id=rayx2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一种新型的TypeScript网络应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30416042</id>
-        <link href="https://news.ycombinator.com/item?id=30416042"/>
-        <updated>2022-02-21T14:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new kind of TypeScript web app]]></summary>
-        <author>
-            <name>sdegutis</name>
-            <uri>https://news.ycombinator.com/user?id=sdegutis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔发布BonanzaMine，一个比特币加速器ASIC - WikiChip Fuse]]></title>
-        <id>https://news.ycombinator.com/item?id=30415980</id>
-        <link href="https://news.ycombinator.com/item?id=30415980"/>
-        <updated>2022-02-21T14:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Intel Unveils BonanzaMine, a Bitcoin Accelerator ASIC – WikiChip Fuse]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Nextauth.js实现一个Postgres适配器]]></title>
-        <id>https://news.ycombinator.com/item?id=30415944</id>
-        <link href="https://news.ycombinator.com/item?id=30415944"/>
-        <updated>2022-02-21T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Implementing a Postgres Adapter for Nextauth.js]]></summary>
-        <author>
-            <name>gue-ni</name>
-            <uri>https://news.ycombinator.com/user?id=gue-ni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子索尔和幽灵]]></title>
-        <id>https://news.ycombinator.com/item?id=30415934</id>
-        <link href="https://news.ycombinator.com/item?id=30415934"/>
-        <updated>2022-02-21T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Quantum Solace and Spectre]]></summary>
-        <author>
-            <name>samwillis</name>
-            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热水瓶的复仇]]></title>
-        <id>https://news.ycombinator.com/item?id=30415925</id>
-        <link href="https://news.ycombinator.com/item?id=30415925"/>
-        <updated>2022-02-21T13:58:58.000Z</updated>
-        <summary type="html"><![CDATA[The Revenge of the Hot Water Bottle]]></summary>
-        <author>
-            <name>sam345</name>
-            <uri>https://news.ycombinator.com/user?id=sam345</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月亮被低估了]]></title>
-        <id>https://news.ycombinator.com/item?id=30415893</id>
-        <link href="https://news.ycombinator.com/item?id=30415893"/>
-        <updated>2022-02-21T13:56:23.000Z</updated>
-        <summary type="html"><![CDATA[The Moon Is Underrated]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育碧很奇怪为什么还没有被收购]]></title>
-        <id>https://news.ycombinator.com/item?id=30415892</id>
-        <link href="https://news.ycombinator.com/item?id=30415892"/>
-        <updated>2022-02-21T13:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft is wondering why it hasn't been bought yet]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当前的iPod Touch已经使用了1千天，没有新机型的迹象]]></title>
-        <id>https://news.ycombinator.com/item?id=30415891</id>
-        <link href="https://news.ycombinator.com/item?id=30415891"/>
-        <updated>2022-02-21T13:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Current iPod Touch Now 1k Days Old with No Sign of New Model]]></summary>
-        <author>
-            <name>FridayoLeary</name>
-            <uri>https://news.ycombinator.com/user?id=FridayoLeary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二维交折几何--点、线、圆]]></title>
-        <id>https://news.ycombinator.com/item?id=30415876</id>
-        <link href="https://news.ycombinator.com/item?id=30415876"/>
-        <updated>2022-02-21T13:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Symplectic Geometry in 2D – Points, Lines, Circles]]></summary>
-        <author>
-            <name>fango</name>
-            <uri>https://news.ycombinator.com/user?id=fango</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舰队编辑器中的数据结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30415868</id>
-        <link href="https://news.ycombinator.com/item?id=30415868"/>
-        <updated>2022-02-21T13:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Data Structures in the Fleet Editor]]></summary>
-        <author>
-            <name>jsnell</name>
-            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用JavaScript防止平滑滚动]]></title>
-        <id>https://news.ycombinator.com/item?id=30415858</id>
-        <link href="https://news.ycombinator.com/item?id=30415858"/>
-        <updated>2022-02-21T13:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Preventing Smooth Scrolling with JavaScript]]></summary>
-        <author>
-            <name>headalgorithm</name>
-            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提醒你即将死亡的应用程序（2018年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30415843</id>
-        <link href="https://news.ycombinator.com/item?id=30415843"/>
-        <updated>2022-02-21T13:52:10.000Z</updated>
-        <summary type="html"><![CDATA[The App That Reminds You You’re Going to Die (2018)]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
         </author>
     </entry>
 </feed>
