@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T03:33:48.446Z</updated>
+    <updated>2022-02-22T03:43:04.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面試中向招聘經理提出的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30423750</id>
+        <link href="https://news.ycombinator.com/item?id=30423750"/>
+        <updated>2022-02-22T03:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Questions to ask hiring managers in an interview]]></summary>
+        <author>
+            <name>7d7n</name>
+            <uri>https://news.ycombinator.com/user?id=7d7n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在線學習的最佳方式？做一個潛伏者]]></title>
         <id>https://news.ycombinator.com/item?id=30423682</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>known</name>
             <uri>https://news.ycombinator.com/user?id=known</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員希望創建 "通用捐贈者 "肺部]]></title>
-        <id>https://news.ycombinator.com/item?id=30406733</id>
-        <link href="https://news.ycombinator.com/item?id=30406733"/>
-        <updated>2022-02-20T16:08:37.000Z</updated>
-        <summary type="html"><![CDATA[Researchers want to create “universal donor” lungs]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
