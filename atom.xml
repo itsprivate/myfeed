@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T06:37:37.521Z</updated>
+    <updated>2022-02-22T06:55:04.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯、中国、美国]]></title>
+        <id>https://news.ycombinator.com/item?id=30424738</id>
+        <link href="https://news.ycombinator.com/item?id=30424738"/>
+        <updated>2022-02-22T06:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Russia, China, U.S.]]></summary>
+        <author>
+            <name>chasil</name>
+            <uri>https://news.ycombinator.com/user?id=chasil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[货币不会*传播*通货膨胀]]></title>
+        <id>https://news.ycombinator.com/item?id=30424665</id>
+        <link href="https://news.ycombinator.com/item?id=30424665"/>
+        <updated>2022-02-22T06:35:40.000Z</updated>
+        <summary type="html"><![CDATA[The Money Doesn’t *Spread* Inflation]]></summary>
+        <author>
+            <name>cinquemb</name>
+            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特历史上关于着陆页的主题]]></title>
         <id>https://news.ycombinator.com/item?id=30424658</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>xqcgrek2</name>
             <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crosswordle - 困难模式下的反向Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30407289</id>
-        <link href="https://news.ycombinator.com/item?id=30407289"/>
-        <updated>2022-02-20T17:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crosswordle – Reverse Wordle on Hard Mode]]></summary>
-        <author>
-            <name>ymichael</name>
-            <uri>https://news.ycombinator.com/user?id=ymichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据差异。解释数据集中变化的算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30407253</id>
-        <link href="https://news.ycombinator.com/item?id=30407253"/>
-        <updated>2022-02-20T17:14:58.000Z</updated>
-        <summary type="html"><![CDATA[Data diffs: Algorithms for explaining what changed in a dataset]]></summary>
-        <author>
-            <name>marcua</name>
-            <uri>https://news.ycombinator.com/user?id=marcua</uri>
         </author>
     </entry>
 </feed>
