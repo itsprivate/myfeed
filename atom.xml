@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T11:38:17.228Z</updated>
+    <updated>2022-02-22T11:53:15.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Olric v0.4.3已经发布。Go中的可嵌入、分布式数据结构]]></title>
+        <id>https://news.ycombinator.com/item?id=30426699</id>
+        <link href="https://news.ycombinator.com/item?id=30426699"/>
+        <updated>2022-02-22T11:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Olric v0.4.3 is out: Embeddable, distributed data structures in Go]]></summary>
+        <author>
+            <name>mastabadtomm</name>
+            <uri>https://news.ycombinator.com/user?id=mastabadtomm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰-俄罗斯。德国暂停北溪2号天然气管道的建设]]></title>
+        <id>https://news.ycombinator.com/item?id=30426698</id>
+        <link href="https://news.ycombinator.com/item?id=30426698"/>
+        <updated>2022-02-22T11:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine-Russia: Germany suspends Nord Stream 2 gas pipeline]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[02022-02-22]]></title>
+        <id>https://news.ycombinator.com/item?id=30426639</id>
+        <link href="https://news.ycombinator.com/item?id=30426639"/>
+        <updated>2022-02-22T11:38:29.000Z</updated>
+        <summary type="html"><![CDATA[02022-02-22]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asustor NAS驱动器受到勒索软件的攻击]]></title>
         <id>https://news.ycombinator.com/item?id=30426579</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>ahamez</name>
             <uri>https://news.ycombinator.com/user?id=ahamez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恢复对libxml2和libxslt的维护（2022-01）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30409677</id>
-        <link href="https://news.ycombinator.com/item?id=30409677"/>
-        <updated>2022-02-20T22:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Resuming maintenance of libxml2 and libxslt (2022-01)]]></summary>
-        <author>
-            <name>spyc</name>
-            <uri>https://news.ycombinator.com/user?id=spyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker的崛起、衰落和令人惊讶的重生]]></title>
-        <id>https://news.ycombinator.com/item?id=30409662</id>
-        <link href="https://news.ycombinator.com/item?id=30409662"/>
-        <updated>2022-02-20T22:01:18.000Z</updated>
-        <summary type="html"><![CDATA[The rise, fall, and surprising rebirth of Docker]]></summary>
-        <author>
-            <name>williamstein</name>
-            <uri>https://news.ycombinator.com/user?id=williamstein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道你刚雇用的那个工人是谁吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30409616</id>
-        <link href="https://news.ycombinator.com/item?id=30409616"/>
-        <updated>2022-02-20T21:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Do You Know Who That Worker You Just Hired Is?]]></summary>
-        <author>
-            <name>jackcarter</name>
-            <uri>https://news.ycombinator.com/user?id=jackcarter</uri>
         </author>
     </entry>
 </feed>
