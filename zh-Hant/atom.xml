@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T20:40:21.509Z</updated>
+    <updated>2022-02-22T20:53:56.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詩意的編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30433540</id>
+        <link href="https://news.ycombinator.com/item?id=30433540"/>
+        <updated>2022-02-22T20:48:39.000Z</updated>
+        <summary type="html"><![CDATA[The Poetic Programming Language]]></summary>
+        <author>
+            <name>dest</name>
+            <uri>https://news.ycombinator.com/user?id=dest</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up4 - 圍繞工作與朋友制定計劃]]></title>
+        <id>https://news.ycombinator.com/item?id=30433536</id>
+        <link href="https://news.ycombinator.com/item?id=30433536"/>
+        <updated>2022-02-22T20:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Up4 – make plans with friends around work]]></summary>
+        <author>
+            <name>up4</name>
+            <uri>https://news.ycombinator.com/user?id=up4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波德曼4.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30433518</id>
+        <link href="https://news.ycombinator.com/item?id=30433518"/>
+        <updated>2022-02-22T20:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Podman 4.0.0]]></summary>
+        <author>
+            <name>smbv</name>
+            <uri>https://news.ycombinator.com/user?id=smbv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我寫了一個程序，當我在電腦前傷心時，會向我的手機發送貓咪。]]></title>
+        <id>https://news.ycombinator.com/item?id=30433477</id>
+        <link href="https://news.ycombinator.com/item?id=30433477"/>
+        <updated>2022-02-22T20:44:43.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a program that sends cats to my phone when I'm sad at the computer]]></summary>
+        <author>
+            <name>steventey</name>
+            <uri>https://news.ycombinator.com/user?id=steventey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用即將到來的厄運引擎對抗信息過載]]></title>
+        <id>https://news.ycombinator.com/item?id=30433455</id>
+        <link href="https://news.ycombinator.com/item?id=30433455"/>
+        <updated>2022-02-22T20:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Fighting Information Overload with the Impending Doom Engine]]></summary>
+        <author>
+            <name>yes_but_no</name>
+            <uri>https://news.ycombinator.com/user?id=yes_but_no</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[控制檯 - 採訪LosslessCut的Mikael]]></title>
+        <id>https://news.ycombinator.com/item?id=30433428</id>
+        <link href="https://news.ycombinator.com/item?id=30433428"/>
+        <updated>2022-02-22T20:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Console – An Interview with Mikael of LosslessCut]]></summary>
+        <author>
+            <name>mmmmkay</name>
+            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSC將Kraken和Coinbase首席執行官的《緊急狀態法》推文掛在加拿大皇家騎警身上]]></title>
+        <id>https://news.ycombinator.com/item?id=30433398</id>
+        <link href="https://news.ycombinator.com/item?id=30433398"/>
+        <updated>2022-02-22T20:38:16.000Z</updated>
+        <summary type="html"><![CDATA[OSC Flags Emergencies Act Tweets by Kraken, Coinbase CEOs to RCMP]]></summary>
+        <author>
+            <name>zdhcadsh</name>
+            <uri>https://news.ycombinator.com/user?id=zdhcadsh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懲罰普京：拜登如何切斷俄羅斯與世界科技的聯繫]]></title>
         <id>https://news.ycombinator.com/item?id=30433295</id>
@@ -10936,83 +11013,6 @@
         <author>
             <name>anaerobicover</name>
             <uri>https://news.ycombinator.com/user?id=anaerobicover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clordle - 命令行Wordle重製版]]></title>
-        <id>https://news.ycombinator.com/item?id=30417736</id>
-        <link href="https://news.ycombinator.com/item?id=30417736"/>
-        <updated>2022-02-21T16:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Clordle – Command-line Wordle Remake]]></summary>
-        <author>
-            <name>piemadd</name>
-            <uri>https://news.ycombinator.com/user?id=piemadd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為偽社區的社交媒體(2021年)]]></title>
-        <id>https://news.ycombinator.com/item?id=30417733</id>
-        <link href="https://news.ycombinator.com/item?id=30417733"/>
-        <updated>2022-02-21T16:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Social media as pseudo-community (2021)]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃蔬菜並不能預防心臟疾病]]></title>
-        <id>https://news.ycombinator.com/item?id=30417732</id>
-        <link href="https://news.ycombinator.com/item?id=30417732"/>
-        <updated>2022-02-21T16:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Eating Vegetables Does Not Protect Against Heart Disease]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript的現狀。2021]]></title>
-        <id>https://news.ycombinator.com/item?id=30417727</id>
-        <link href="https://news.ycombinator.com/item?id=30417727"/>
-        <updated>2022-02-21T16:39:33.000Z</updated>
-        <summary type="html"><![CDATA[The State of JavaScript: 2021]]></summary>
-        <author>
-            <name>saeedjabbar</name>
-            <uri>https://news.ycombinator.com/user?id=saeedjabbar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs的熱與不熱在7天內獲得25000票]]></title>
-        <id>https://news.ycombinator.com/item?id=30417716</id>
-        <link href="https://news.ycombinator.com/item?id=30417716"/>
-        <updated>2022-02-21T16:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Hot or Not for NFTs gets 25k votes in 7 days]]></summary>
-        <author>
-            <name>jamiehoward</name>
-            <uri>https://news.ycombinator.com/user?id=jamiehoward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[治療方法將A型血捐贈者的肺轉化為通用血型的肺]]></title>
-        <id>https://news.ycombinator.com/item?id=30417710</id>
-        <link href="https://news.ycombinator.com/item?id=30417710"/>
-        <updated>2022-02-21T16:38:01.000Z</updated>
-        <summary type="html"><![CDATA[Treatment converts blood type A donor lungs into universal blood type lungs]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機器人、比薩和加密貨幣=澳大利亞阿爾迪公司的新Pizzabot]]></title>
-        <id>https://news.ycombinator.com/item?id=30417672</id>
-        <link href="https://news.ycombinator.com/item?id=30417672"/>
-        <updated>2022-02-21T16:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Robots and Pizza and Crypto = New Pizzabot at Aldi's Australia]]></summary>
-        <author>
-            <name>albrechtchris</name>
-            <uri>https://news.ycombinator.com/user?id=albrechtchris</uri>
         </author>
     </entry>
 </feed>
