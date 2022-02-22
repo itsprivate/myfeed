@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T05:36:28.736Z</updated>
+    <updated>2022-02-22T05:51:46.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於閱讀該書]]></title>
+        <id>https://news.ycombinator.com/item?id=30424427</id>
+        <link href="https://news.ycombinator.com/item?id=30424427"/>
+        <updated>2022-02-22T05:46:57.000Z</updated>
+        <summary type="html"><![CDATA[On Reading the Book]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto毀了我的生活"。比特幣投資者遭遇的精神健康危機]]></title>
+        <id>https://news.ycombinator.com/item?id=30424404</id>
+        <link href="https://news.ycombinator.com/item?id=30424404"/>
+        <updated>2022-02-22T05:42:25.000Z</updated>
+        <summary type="html"><![CDATA[‘Crypto Ruined My Life’: The Mental Health Crisis Hitting Bitcoin Investors]]></summary>
+        <author>
+            <name>baskethead</name>
+            <uri>https://news.ycombinator.com/user?id=baskethead</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現場直播Macintosh Plus]]></title>
+        <id>https://news.ycombinator.com/item?id=30424387</id>
+        <link href="https://news.ycombinator.com/item?id=30424387"/>
+        <updated>2022-02-22T05:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Live Streaming a Macintosh Plus]]></summary>
+        <author>
+            <name>ecliptik</name>
+            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國廣播公司的核攻擊廣播]]></title>
         <id>https://news.ycombinator.com/item?id=30424340</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珀爾基本原理 (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=30407089</id>
-        <link href="https://news.ycombinator.com/item?id=30407089"/>
-        <updated>2022-02-20T16:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Essential Perl (2002)]]></summary>
-        <author>
-            <name>ketanmaheshwari</name>
-            <uri>https://news.ycombinator.com/user?id=ketanmaheshwari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公民信息API]]></title>
-        <id>https://news.ycombinator.com/item?id=30407086</id>
-        <link href="https://news.ycombinator.com/item?id=30407086"/>
-        <updated>2022-02-20T16:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Civic Information API]]></summary>
-        <author>
-            <name>animal_spirits</name>
-            <uri>https://news.ycombinator.com/user?id=animal_spirits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Drupal中使用自定義令牌，拯救你的生活]]></title>
-        <id>https://news.ycombinator.com/item?id=30407074</id>
-        <link href="https://news.ycombinator.com/item?id=30407074"/>
-        <updated>2022-02-20T16:52:20.000Z</updated>
-        <summary type="html"><![CDATA[How to use a custom token in Drupal and save your day]]></summary>
-        <author>
-            <name>drp_distruptor</name>
-            <uri>https://news.ycombinator.com/user?id=drp_distruptor</uri>
         </author>
     </entry>
 </feed>
