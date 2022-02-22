@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T03:43:04.735Z</updated>
+    <updated>2022-02-22T03:51:44.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京命令軍隊進入烏克蘭]]></title>
+        <id>https://news.ycombinator.com/item?id=30423786</id>
+        <link href="https://news.ycombinator.com/item?id=30423786"/>
+        <updated>2022-02-22T03:45:08.000Z</updated>
+        <summary type="html"><![CDATA[Putin Orders Troops into Ukraine]]></summary>
+        <author>
+            <name>staccatomeasure</name>
+            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甲板下的艦隊，第二部分--拆解編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=30423759</id>
+        <link href="https://news.ycombinator.com/item?id=30423759"/>
+        <updated>2022-02-22T03:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Fleet Below Deck, Part II – Breaking Down the Editor]]></summary>
+        <author>
+            <name>SerCe</name>
+            <uri>https://news.ycombinator.com/user?id=SerCe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面試中向招聘經理提出的問題]]></title>
         <id>https://news.ycombinator.com/item?id=30423750</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>binnacle</name>
             <uri>https://news.ycombinator.com/user?id=binnacle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pg-osc: 在PostgreSQL中實現零停機時間的模式變更]]></title>
-        <id>https://news.ycombinator.com/item?id=30406751</id>
-        <link href="https://news.ycombinator.com/item?id=30406751"/>
-        <updated>2022-02-20T16:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pg-osc: Zero downtime schema changes in PostgreSQL]]></summary>
-        <author>
-            <name>shayonj</name>
-            <uri>https://news.ycombinator.com/user?id=shayonj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廢物的終結。建立一個真正的循環經濟的宏偉計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30406527</id>
-        <link href="https://news.ycombinator.com/item?id=30406527"/>
-        <updated>2022-02-20T15:39:54.000Z</updated>
-        <summary type="html"><![CDATA[The end of waste: The grand plan to build a truly circular economy]]></summary>
-        <author>
-            <name>known</name>
-            <uri>https://news.ycombinator.com/user?id=known</uri>
         </author>
     </entry>
 </feed>
