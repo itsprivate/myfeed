@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T20:36:24.647Z</updated>
+    <updated>2022-02-22T20:40:21.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[惩罚普京：拜登如何切断俄罗斯与世界科技的联系]]></title>
+        <id>https://news.ycombinator.com/item?id=30433295</id>
+        <link href="https://news.ycombinator.com/item?id=30433295"/>
+        <updated>2022-02-22T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Punishing Putin: How Biden could cut Russia off from world tech]]></summary>
+        <author>
+            <name>madars</name>
+            <uri>https://news.ycombinator.com/user?id=madars</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Segger Tunnel和Raspberry Pi开发远程Zephyr实时操作系统]]></title>
         <id>https://news.ycombinator.com/item?id=30433281</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>albrechtchris</name>
             <uri>https://news.ycombinator.com/user?id=albrechtchris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[费曼给W&M学生的建议在45年后引起共鸣]]></title>
-        <id>https://news.ycombinator.com/item?id=30417660</id>
-        <link href="https://news.ycombinator.com/item?id=30417660"/>
-        <updated>2022-02-21T16:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Feynman’s Advice to W&M Student Resonates 45 Years Later]]></summary>
-        <author>
-            <name>andrewl</name>
-            <uri>https://news.ycombinator.com/user?id=andrewl</uri>
         </author>
     </entry>
 </feed>
