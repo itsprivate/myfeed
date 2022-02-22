@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T23:40:42.367Z</updated>
+    <updated>2022-02-22T23:52:08.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在斯凯岛发现最大的侏罗纪翼龙化石]]></title>
+        <id>https://news.ycombinator.com/item?id=30435512</id>
+        <link href="https://news.ycombinator.com/item?id=30435512"/>
+        <updated>2022-02-22T23:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Fossil of largest Jurassic pterosaur found on Skye]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从JavaScript到Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30435509</id>
+        <link href="https://news.ycombinator.com/item?id=30435509"/>
+        <updated>2022-02-22T23:47:09.000Z</updated>
+        <summary type="html"><![CDATA[From JavaScript to Rust]]></summary>
+        <author>
+            <name>rkrishnaan</name>
+            <uri>https://news.ycombinator.com/user?id=rkrishnaan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越无服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30435500</id>
+        <link href="https://news.ycombinator.com/item?id=30435500"/>
+        <updated>2022-02-22T23:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Beyond Serverless]]></summary>
+        <author>
+            <name>mrvenkman</name>
+            <uri>https://news.ycombinator.com/user?id=mrvenkman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路易斯安那州的20亿美元赌注。淹没土地以拯救海岸]]></title>
+        <id>https://news.ycombinator.com/item?id=30435485</id>
+        <link href="https://news.ycombinator.com/item?id=30435485"/>
+        <updated>2022-02-22T23:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Louisiana's $2B Gamble: Flood the Land to Save the Coast]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用外科植入物替代CPAP缓解睡眠呼吸暂停的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30435471</id>
+        <link href="https://news.ycombinator.com/item?id=30435471"/>
+        <updated>2022-02-22T23:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Surgical implant as alternative to CPAP for sleep apnea relief]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动荡]]></title>
+        <id>https://news.ycombinator.com/item?id=30435460</id>
+        <link href="https://news.ycombinator.com/item?id=30435460"/>
+        <updated>2022-02-22T23:41:51.000Z</updated>
+        <summary type="html"><![CDATA[The Upheaval]]></summary>
+        <author>
+            <name>andrenth</name>
+            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米凯拉-希弗林的跌倒能让我们了解自己的情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30435430</id>
+        <link href="https://news.ycombinator.com/item?id=30435430"/>
+        <updated>2022-02-22T23:38:54.000Z</updated>
+        <summary type="html"><![CDATA[What Mikaela Shiffrin’s Stumbles Can Teach Us About Our Own]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeaZip - 用Pascal语言编写的文件存档工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30435425</id>
+        <link href="https://news.ycombinator.com/item?id=30435425"/>
+        <updated>2022-02-22T23:38:13.000Z</updated>
+        <summary type="html"><![CDATA[PeaZip – file archiver utility written in Pascal]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以当前主机用户身份运行Docker容器 - Juan Treminio]]></title>
         <id>https://news.ycombinator.com/item?id=30435404</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>nixass</name>
             <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰危机。俄罗斯命令军队进入叛军控制的地区]]></title>
-        <id>https://news.ycombinator.com/item?id=30426256</id>
-        <link href="https://news.ycombinator.com/item?id=30426256"/>
-        <updated>2022-02-22T10:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine crisis: Russia orders troops into rebel-held regions]]></summary>
-        <author>
-            <name>RansomStark</name>
-            <uri>https://news.ycombinator.com/user?id=RansomStark</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮米加2.0终极指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30426254</id>
-        <link href="https://news.ycombinator.com/item?id=30426254"/>
-        <updated>2022-02-22T10:43:20.000Z</updated>
-        <summary type="html"><![CDATA[The Ultimate Pimiga 2.0 Guide]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以自己拆装和维修的手机]]></title>
-        <id>https://news.ycombinator.com/item?id=30426250</id>
-        <link href="https://news.ycombinator.com/item?id=30426250"/>
-        <updated>2022-02-22T10:41:48.000Z</updated>
-        <summary type="html"><![CDATA[The mobile phones you can take apart and repair yourself]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国版权局称人工智能不能为其艺术提供版权保护]]></title>
-        <id>https://news.ycombinator.com/item?id=30426235</id>
-        <link href="https://news.ycombinator.com/item?id=30426235"/>
-        <updated>2022-02-22T10:39:23.000Z</updated>
-        <summary type="html"><![CDATA[The US Copyright Office says an AI can’t copyright its art]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好莱坞依靠中国来维持生计。这对电影意味着什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30426224</id>
-        <link href="https://news.ycombinator.com/item?id=30426224"/>
-        <updated>2022-02-22T10:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Hollywood relies on China to stay afloat. What does that mean for movies?]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绕过苹果所有跟踪保护功能的隐形AirTag克隆体]]></title>
-        <id>https://news.ycombinator.com/item?id=30426222</id>
-        <link href="https://news.ycombinator.com/item?id=30426222"/>
-        <updated>2022-02-22T10:37:37.000Z</updated>
-        <summary type="html"><![CDATA[A stealth AirTag clone that bypasses all of Apple's tracking protection features]]></summary>
-        <author>
-            <name>cl3misch</name>
-            <uri>https://news.ycombinator.com/user?id=cl3misch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari即将失去其作为全球第二大最常用桌面浏览器的地位]]></title>
-        <id>https://news.ycombinator.com/item?id=30426220</id>
-        <link href="https://news.ycombinator.com/item?id=30426220"/>
-        <updated>2022-02-22T10:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Safari is about to lose its place as the world’s 2nd most used desktop browser]]></summary>
-        <author>
-            <name>Vinnl</name>
-            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind机器学习成为数学界的合作者]]></title>
-        <id>https://news.ycombinator.com/item?id=30426218</id>
-        <link href="https://news.ycombinator.com/item?id=30426218"/>
-        <updated>2022-02-22T10:36:42.000Z</updated>
-        <summary type="html"><![CDATA[DeepMind Machine Learning Becomes a Mathematical Collaborator]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
