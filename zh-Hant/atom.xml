@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T02:58:01.702Z</updated>
+    <updated>2022-02-22T03:12:13.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對大多數美國人來說，擁有住房現在是一個遙遠的夢想]]></title>
+        <id>https://news.ycombinator.com/item?id=30423590</id>
+        <link href="https://news.ycombinator.com/item?id=30423590"/>
+        <updated>2022-02-22T03:04:35.000Z</updated>
+        <summary type="html"><![CDATA[For most Americans, owning a home is now a distant dream]]></summary>
+        <author>
+            <name>arcanus</name>
+            <uri>https://news.ycombinator.com/user?id=arcanus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SeQR.site - 無服務器、以隱私為重點的二維碼生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30423538</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>rrampage</name>
             <uri>https://news.ycombinator.com/user?id=rrampage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初創企業的專業化]]></title>
-        <id>https://news.ycombinator.com/item?id=30406596</id>
-        <link href="https://news.ycombinator.com/item?id=30406596"/>
-        <updated>2022-02-20T15:51:11.000Z</updated>
-        <summary type="html"><![CDATA[The Professionalization of Startups]]></summary>
-        <author>
-            <name>makaimc</name>
-            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
         </author>
     </entry>
 </feed>
