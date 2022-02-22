@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T22:40:44.436Z</updated>
+    <updated>2022-02-22T22:52:05.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Python中與家庭連接設備的接口]]></title>
+        <id>https://news.ycombinator.com/item?id=30434953</id>
+        <link href="https://news.ycombinator.com/item?id=30434953"/>
+        <updated>2022-02-22T22:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Interface with Home Connect Appliances in Python]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學生在宿舍廚房醞釀火箭燃料導致 "火球 "爆炸]]></title>
+        <id>https://news.ycombinator.com/item?id=30434946</id>
+        <link href="https://news.ycombinator.com/item?id=30434946"/>
+        <updated>2022-02-22T22:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Student brewing rocket fuel in dorm kitchen causes ‘fireball’ explosion]]></summary>
+        <author>
+            <name>hammock</name>
+            <uri>https://news.ycombinator.com/user?id=hammock</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS。我們正在對Rust編程語言進行投資]]></title>
+        <id>https://news.ycombinator.com/item?id=30434938</id>
+        <link href="https://news.ycombinator.com/item?id=30434938"/>
+        <updated>2022-02-22T22:44:50.000Z</updated>
+        <summary type="html"><![CDATA[AWS: We are investing in the Rust programming language]]></summary>
+        <author>
+            <name>ionychal</name>
+            <uri>https://news.ycombinator.com/user?id=ionychal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技公司面臨新的危機：招聘]]></title>
+        <id>https://news.ycombinator.com/item?id=30434930</id>
+        <link href="https://news.ycombinator.com/item?id=30434930"/>
+        <updated>2022-02-22T22:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Tech Companies Face a Fresh Crisis: Hiring]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金錢如何成為衡量一切的標準]]></title>
+        <id>https://news.ycombinator.com/item?id=30434922</id>
+        <link href="https://news.ycombinator.com/item?id=30434922"/>
+        <updated>2022-02-22T22:43:10.000Z</updated>
+        <summary type="html"><![CDATA[How Money Became the Measure of Everything]]></summary>
+        <author>
+            <name>kizer</name>
+            <uri>https://news.ycombinator.com/user?id=kizer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工學院的工程師發明了外科 "膠帶"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30434900</id>
+        <link href="https://news.ycombinator.com/item?id=30434900"/>
+        <updated>2022-02-22T22:41:19.000Z</updated>
+        <summary type="html"><![CDATA[MIT engineers invent surgical “duct tape”]]></summary>
+        <author>
+            <name>StepBroBD</name>
+            <uri>https://news.ycombinator.com/user?id=StepBroBD</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果M1上的PyTorch比TensorFlow-Metal更快]]></title>
+        <id>https://news.ycombinator.com/item?id=30434886</id>
+        <link href="https://news.ycombinator.com/item?id=30434886"/>
+        <updated>2022-02-22T22:39:37.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch on Apple M1 Faster Than TensorFlow-Metal]]></summary>
+        <author>
+            <name>yayr</name>
+            <uri>https://news.ycombinator.com/user?id=yayr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[氧化還原數據模型簡介]]></title>
         <id>https://news.ycombinator.com/item?id=30434855</id>
@@ -10936,83 +11013,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最受歡迎的社交媒體平臺的碳足跡]]></title>
-        <id>https://news.ycombinator.com/item?id=30418887</id>
-        <link href="https://news.ycombinator.com/item?id=30418887"/>
-        <updated>2022-02-21T18:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Carbon Footprint of the Most Popular Social Media Platforms]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JFrog發現Apache Cassandra中的RCE問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30418886</id>
-        <link href="https://news.ycombinator.com/item?id=30418886"/>
-        <updated>2022-02-21T18:18:34.000Z</updated>
-        <summary type="html"><![CDATA[JFrog Finds RCE Issue in Apache Cassandra]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國Covid-19屍檢登記處的第一份報告]]></title>
-        <id>https://news.ycombinator.com/item?id=30418879</id>
-        <link href="https://news.ycombinator.com/item?id=30418879"/>
-        <updated>2022-02-21T18:17:29.000Z</updated>
-        <summary type="html"><![CDATA[First report from the German Covid-19 autopsy registry]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGIProxy - CGI腳本中的HTTP/FTP代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30418873</id>
-        <link href="https://news.ycombinator.com/item?id=30418873"/>
-        <updated>2022-02-21T18:16:41.000Z</updated>
-        <summary type="html"><![CDATA[CGIProxy – HTTP/FTP Proxy in a CGI Script]]></summary>
-        <author>
-            <name>samwillis</name>
-            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貨船上的火災可能因電動車電池而加劇]]></title>
-        <id>https://news.ycombinator.com/item?id=30418853</id>
-        <link href="https://news.ycombinator.com/item?id=30418853"/>
-        <updated>2022-02-21T18:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Fire aboard cargo ship may have been intensified by electric-vehicle batteries]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與米切爾-橋本合作的90分鐘內的哈希公司故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30418852</id>
-        <link href="https://news.ycombinator.com/item?id=30418852"/>
-        <updated>2022-02-21T18:15:06.000Z</updated>
-        <summary type="html"><![CDATA[The HashiCorp Story in 90 Minutes with Mitchell Hashimoto]]></summary>
-        <author>
-            <name>JordanTen</name>
-            <uri>https://news.ycombinator.com/user?id=JordanTen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欺騙數十人為假設計公司工作的精心策劃的騙局]]></title>
-        <id>https://news.ycombinator.com/item?id=30418842</id>
-        <link href="https://news.ycombinator.com/item?id=30418842"/>
-        <updated>2022-02-21T18:14:10.000Z</updated>
-        <summary type="html"><![CDATA[The elaborate con that tricked dozens into working for a fake design agency]]></summary>
-        <author>
-            <name>bhartzer</name>
-            <uri>https://news.ycombinator.com/user?id=bhartzer</uri>
         </author>
     </entry>
 </feed>

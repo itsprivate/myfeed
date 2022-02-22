@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 22:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python中与家庭连接设备的接口]]></title>
+            <link>https://news.ycombinator.com/item?id=30434953</link>
+            <guid>https://news.ycombinator.com/item?id=30434953</guid>
+            <pubDate>Tue, 22 Feb 2022 22:45:49 GMT</pubDate>
+            <description><![CDATA[Interface with Home Connect Appliances in Python]]></description>
+        </item>
+        <item>
+            <title><![CDATA[学生在宿舍厨房酝酿火箭燃料导致 "火球 "爆炸]]></title>
+            <link>https://news.ycombinator.com/item?id=30434946</link>
+            <guid>https://news.ycombinator.com/item?id=30434946</guid>
+            <pubDate>Tue, 22 Feb 2022 22:45:22 GMT</pubDate>
+            <description><![CDATA[Student brewing rocket fuel in dorm kitchen causes ‘fireball’ explosion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AWS。我们正在对Rust编程语言进行投资]]></title>
+            <link>https://news.ycombinator.com/item?id=30434938</link>
+            <guid>https://news.ycombinator.com/item?id=30434938</guid>
+            <pubDate>Tue, 22 Feb 2022 22:44:50 GMT</pubDate>
+            <description><![CDATA[AWS: We are investing in the Rust programming language]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科技公司面临新的危机：招聘]]></title>
+            <link>https://news.ycombinator.com/item?id=30434930</link>
+            <guid>https://news.ycombinator.com/item?id=30434930</guid>
+            <pubDate>Tue, 22 Feb 2022 22:44:12 GMT</pubDate>
+            <description><![CDATA[Tech Companies Face a Fresh Crisis: Hiring]]></description>
+        </item>
+        <item>
+            <title><![CDATA[金钱如何成为衡量一切的标准]]></title>
+            <link>https://news.ycombinator.com/item?id=30434922</link>
+            <guid>https://news.ycombinator.com/item?id=30434922</guid>
+            <pubDate>Tue, 22 Feb 2022 22:43:10 GMT</pubDate>
+            <description><![CDATA[How Money Became the Measure of Everything]]></description>
+        </item>
+        <item>
+            <title><![CDATA[麻省理工学院的工程师发明了外科 "胶带"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30434900</link>
+            <guid>https://news.ycombinator.com/item?id=30434900</guid>
+            <pubDate>Tue, 22 Feb 2022 22:41:19 GMT</pubDate>
+            <description><![CDATA[MIT engineers invent surgical “duct tape”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果M1上的PyTorch比TensorFlow-Metal更快]]></title>
+            <link>https://news.ycombinator.com/item?id=30434886</link>
+            <guid>https://news.ycombinator.com/item?id=30434886</guid>
+            <pubDate>Tue, 22 Feb 2022 22:39:37 GMT</pubDate>
+            <description><![CDATA[PyTorch on Apple M1 Faster Than TensorFlow-Metal]]></description>
+        </item>
         <item>
             <title><![CDATA[氧化还原数据模型简介]]></title>
             <link>https://news.ycombinator.com/item?id=30434855</link>
@@ -6964,55 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30418898</guid>
             <pubDate>Mon, 21 Feb 2022 18:19:23 GMT</pubDate>
             <description><![CDATA[Amazon's sprawling grocery business has become an 'expensive hobby']]></description>
-        </item>
-        <item>
-            <title><![CDATA[最受欢迎的社交媒体平台的碳足迹]]></title>
-            <link>https://news.ycombinator.com/item?id=30418887</link>
-            <guid>https://news.ycombinator.com/item?id=30418887</guid>
-            <pubDate>Mon, 21 Feb 2022 18:18:34 GMT</pubDate>
-            <description><![CDATA[Carbon Footprint of the Most Popular Social Media Platforms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JFrog发现Apache Cassandra中的RCE问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30418886</link>
-            <guid>https://news.ycombinator.com/item?id=30418886</guid>
-            <pubDate>Mon, 21 Feb 2022 18:18:34 GMT</pubDate>
-            <description><![CDATA[JFrog Finds RCE Issue in Apache Cassandra]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德国Covid-19尸检登记处的第一份报告]]></title>
-            <link>https://news.ycombinator.com/item?id=30418879</link>
-            <guid>https://news.ycombinator.com/item?id=30418879</guid>
-            <pubDate>Mon, 21 Feb 2022 18:17:29 GMT</pubDate>
-            <description><![CDATA[First report from the German Covid-19 autopsy registry]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CGIProxy - CGI脚本中的HTTP/FTP代理]]></title>
-            <link>https://news.ycombinator.com/item?id=30418873</link>
-            <guid>https://news.ycombinator.com/item?id=30418873</guid>
-            <pubDate>Mon, 21 Feb 2022 18:16:41 GMT</pubDate>
-            <description><![CDATA[CGIProxy – HTTP/FTP Proxy in a CGI Script]]></description>
-        </item>
-        <item>
-            <title><![CDATA[货船上的火灾可能因电动车电池而加剧]]></title>
-            <link>https://news.ycombinator.com/item?id=30418853</link>
-            <guid>https://news.ycombinator.com/item?id=30418853</guid>
-            <pubDate>Mon, 21 Feb 2022 18:15:07 GMT</pubDate>
-            <description><![CDATA[Fire aboard cargo ship may have been intensified by electric-vehicle batteries]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与米切尔-桥本合作的90分钟内的哈希公司故事]]></title>
-            <link>https://news.ycombinator.com/item?id=30418852</link>
-            <guid>https://news.ycombinator.com/item?id=30418852</guid>
-            <pubDate>Mon, 21 Feb 2022 18:15:06 GMT</pubDate>
-            <description><![CDATA[The HashiCorp Story in 90 Minutes with Mitchell Hashimoto]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欺骗数十人为假设计公司工作的精心策划的骗局]]></title>
-            <link>https://news.ycombinator.com/item?id=30418842</link>
-            <guid>https://news.ycombinator.com/item?id=30418842</guid>
-            <pubDate>Mon, 21 Feb 2022 18:14:10 GMT</pubDate>
-            <description><![CDATA[The elaborate con that tricked dozens into working for a fake design agency]]></description>
         </item>
     </channel>
 </rss>
