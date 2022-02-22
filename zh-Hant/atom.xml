@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T22:32:16.269Z</updated>
+    <updated>2022-02-22T22:40:44.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[氧化還原數據模型簡介]]></title>
+        <id>https://news.ycombinator.com/item?id=30434855</id>
+        <link href="https://news.ycombinator.com/item?id=30434855"/>
+        <updated>2022-02-22T22:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Redox Data Models]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分水嶺權利常見問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30434850</id>
+        <link href="https://news.ycombinator.com/item?id=30434850"/>
+        <updated>2022-02-22T22:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Watershed Rights FAQ]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windle: 適用於Windows的Wordle 3.1]]></title>
+        <id>https://news.ycombinator.com/item?id=30434838</id>
+        <link href="https://news.ycombinator.com/item?id=30434838"/>
+        <updated>2022-02-22T22:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Windle: Wordle for Windows 3.1]]></summary>
+        <author>
+            <name>debo_</name>
+            <uri>https://news.ycombinator.com/user?id=debo_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyxt on It's FOSS]]></title>
+        <id>https://news.ycombinator.com/item?id=30434830</id>
+        <link href="https://news.ycombinator.com/item?id=30434830"/>
+        <updated>2022-02-22T22:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Nyxt on It's FOSS]]></summary>
+        <author>
+            <name>pedrodelfino</name>
+            <uri>https://news.ycombinator.com/user?id=pedrodelfino</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RustGo。以近乎零的開銷從Go中調用Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30434808</id>
+        <link href="https://news.ycombinator.com/item?id=30434808"/>
+        <updated>2022-02-22T22:31:41.000Z</updated>
+        <summary type="html"><![CDATA[RustGo: Calling Rust from Go with Near-Zero Overhead]]></summary>
+        <author>
+            <name>boyter</name>
+            <uri>https://news.ycombinator.com/user?id=boyter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人道主義技術]]></title>
         <id>https://news.ycombinator.com/item?id=30434776</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>bhartzer</name>
             <uri>https://news.ycombinator.com/user?id=bhartzer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果探索20英寸全屏可摺疊MacBook，但可摺疊iPhone被推遲了]]></title>
-        <id>https://news.ycombinator.com/item?id=30418824</id>
-        <link href="https://news.ycombinator.com/item?id=30418824"/>
-        <updated>2022-02-21T18:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Apple Exploring 20-Inch All-Screen Foldable MacBook, but Foldable iPhone Delayed]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件開發的著名法則]]></title>
-        <id>https://news.ycombinator.com/item?id=30418757</id>
-        <link href="https://news.ycombinator.com/item?id=30418757"/>
-        <updated>2022-02-21T18:08:37.000Z</updated>
-        <summary type="html"><![CDATA[Famous Laws of Software Development]]></summary>
-        <author>
-            <name>legrande</name>
-            <uri>https://news.ycombinator.com/user?id=legrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuralink證實猴子在腦部芯片測試中死亡，否認虐待動物行為]]></title>
-        <id>https://news.ycombinator.com/item?id=30418756</id>
-        <link href="https://news.ycombinator.com/item?id=30418756"/>
-        <updated>2022-02-21T18:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Neuralink confirms monkeys died during brain chip testing, denies animal cruelty]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於人腦的事實]]></title>
-        <id>https://news.ycombinator.com/item?id=30418751</id>
-        <link href="https://news.ycombinator.com/item?id=30418751"/>
-        <updated>2022-02-21T18:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Facts about the Human Brain]]></summary>
-        <author>
-            <name>legrande</name>
-            <uri>https://news.ycombinator.com/user?id=legrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth Social在應用商店推出，許多人在等待中。]]></title>
-        <id>https://news.ycombinator.com/item?id=30418743</id>
-        <link href="https://news.ycombinator.com/item?id=30418743"/>
-        <updated>2022-02-21T18:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Truth Social launches in App Store with many waitlisted]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
