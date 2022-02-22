@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-22T07:29:21.271Z</updated>
+    <updated>2022-02-22T07:40:18.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我策划网络上最好的东西的堆栈]]></title>
+        <id>https://news.ycombinator.com/item?id=30425028</id>
+        <link href="https://news.ycombinator.com/item?id=30425028"/>
+        <updated>2022-02-22T07:35:19.000Z</updated>
+        <summary type="html"><![CDATA[My stack for curating the best of the web]]></summary>
+        <author>
+            <name>davidbauer</name>
+            <uri>https://news.ycombinator.com/user?id=davidbauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铝是回收利用的新好朋友，但它很复杂（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30425027</id>
+        <link href="https://news.ycombinator.com/item?id=30425027"/>
+        <updated>2022-02-22T07:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Aluminum is recycling’s new best friend, but it’s complicated (2019)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我一直告诉自己，正义会胜利 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30425026</id>
+        <link href="https://news.ycombinator.com/item?id=30425026"/>
+        <updated>2022-02-22T07:35:08.000Z</updated>
+        <summary type="html"><![CDATA[I Keep Telling Myself That Justice Will Prevail (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Avalanche的Atom地毯在推出后一天内就被拉走，声称有漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30424992</id>
+        <link href="https://news.ycombinator.com/item?id=30424992"/>
+        <updated>2022-02-22T07:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche-based Atom rug pulls within a day of its launch, claiming a bug]]></summary>
+        <author>
+            <name>keewee7</name>
+            <uri>https://news.ycombinator.com/user?id=keewee7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汤加重新连接到互联网]]></title>
+        <id>https://news.ycombinator.com/item?id=30424965</id>
+        <link href="https://news.ycombinator.com/item?id=30424965"/>
+        <updated>2022-02-22T07:26:48.000Z</updated>
+        <summary type="html"><![CDATA[Tonga Reconnected to the Internet]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冠状病毒隔离期间的程序员食谱]]></title>
         <id>https://news.ycombinator.com/item?id=30424952</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>anxrn</name>
             <uri>https://news.ycombinator.com/user?id=anxrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改进DuckDuckGo]]></title>
-        <id>https://news.ycombinator.com/item?id=30407776</id>
-        <link href="https://news.ycombinator.com/item?id=30407776"/>
-        <updated>2022-02-20T18:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Improving DuckDuckGo]]></summary>
-        <author>
-            <name>freedomben</name>
-            <uri>https://news.ycombinator.com/user?id=freedomben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现，伊维菌素不能预防严重的Covid-19病毒]]></title>
-        <id>https://news.ycombinator.com/item?id=30407769</id>
-        <link href="https://news.ycombinator.com/item?id=30407769"/>
-        <updated>2022-02-20T18:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Ivermectin does not prevent severe Covid-19, study finds]]></summary>
-        <author>
-            <name>anxrn</name>
-            <uri>https://news.ycombinator.com/user?id=anxrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于视频控制的浏览器语音识别]]></title>
-        <id>https://news.ycombinator.com/item?id=30407759</id>
-        <link href="https://news.ycombinator.com/item?id=30407759"/>
-        <updated>2022-02-20T18:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: On browser speech recognition for video control]]></summary>
-        <author>
-            <name>belharius</name>
-            <uri>https://news.ycombinator.com/user?id=belharius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对瑞士银行Credit Suiss泄露的银行数据的全球调查]]></title>
-        <id>https://news.ycombinator.com/item?id=30407673</id>
-        <link href="https://news.ycombinator.com/item?id=30407673"/>
-        <updated>2022-02-20T18:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Global investigation into leaked banking data from the Swiss bank Credit Suiss]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个笔记程序的规范]]></title>
-        <id>https://news.ycombinator.com/item?id=30407671</id>
-        <link href="https://news.ycombinator.com/item?id=30407671"/>
-        <updated>2022-02-20T18:01:20.000Z</updated>
-        <summary type="html"><![CDATA[A Specification of a Note-Taking Program]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
