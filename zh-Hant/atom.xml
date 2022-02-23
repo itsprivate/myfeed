@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T10:37:17.613Z</updated>
+    <updated>2022-02-23T10:43:59.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[源代碼（Infosys的故事）]]></title>
+        <id>https://news.ycombinator.com/item?id=30439749</id>
+        <link href="https://news.ycombinator.com/item?id=30439749"/>
+        <updated>2022-02-23T10:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Source Code (Story of Infosys)]]></summary>
+        <author>
+            <name>captn3m0</name>
+            <uri>https://news.ycombinator.com/user?id=captn3m0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度的數據政策草案為所有人解鎖政府數據，並考慮貨幣化問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30439747</id>
+        <link href="https://news.ycombinator.com/item?id=30439747"/>
+        <updated>2022-02-23T10:40:30.000Z</updated>
+        <summary type="html"><![CDATA[India's draft data policy unlocks govt data for all, mulls monetisation]]></summary>
+        <author>
+            <name>valprop1</name>
+            <uri>https://news.ycombinator.com/user?id=valprop1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[考古學家在約旦的沙漠中發現了一個有9千多年曆史的神龕]]></title>
+        <id>https://news.ycombinator.com/item?id=30439724</id>
+        <link href="https://news.ycombinator.com/item?id=30439724"/>
+        <updated>2022-02-23T10:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Archaeologists find a 9k-year-old shrine in the desert in Jordan]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crystal lang: bdw-GC coroutines支持]]></title>
         <id>https://news.ycombinator.com/item?id=30439703</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>WorldMaker</name>
             <uri>https://news.ycombinator.com/user?id=WorldMaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初創企業的會議規則]]></title>
-        <id>https://news.ycombinator.com/item?id=30429901</id>
-        <link href="https://news.ycombinator.com/item?id=30429901"/>
-        <updated>2022-02-22T16:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Meeting Rules for Startups]]></summary>
-        <author>
-            <name>anacleto</name>
-            <uri>https://news.ycombinator.com/user?id=anacleto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的Kubeflow和Kaggle競爭者]]></title>
-        <id>https://news.ycombinator.com/item?id=30429879</id>
-        <link href="https://news.ycombinator.com/item?id=30429879"/>
-        <updated>2022-02-22T16:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Kubeflow and Kaggle Competitors]]></summary>
-        <author>
-            <name>sickeythecat</name>
-            <uri>https://news.ycombinator.com/user?id=sickeythecat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用SQL多集謂詞來比較數據集]]></title>
-        <id>https://news.ycombinator.com/item?id=30429878</id>
-        <link href="https://news.ycombinator.com/item?id=30429878"/>
-        <updated>2022-02-22T16:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Use SQL multiset predicates to compare data sets]]></summary>
-        <author>
-            <name>lukaseder</name>
-            <uri>https://news.ycombinator.com/user?id=lukaseder</uri>
         </author>
     </entry>
 </feed>

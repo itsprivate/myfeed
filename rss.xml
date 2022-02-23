@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[源代码（Infosys的故事）]]></title>
+            <link>https://news.ycombinator.com/item?id=30439749</link>
+            <guid>https://news.ycombinator.com/item?id=30439749</guid>
+            <pubDate>Wed, 23 Feb 2022 10:41:04 GMT</pubDate>
+            <description><![CDATA[Source Code (Story of Infosys)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度的数据政策草案为所有人解锁政府数据，并考虑货币化问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30439747</link>
+            <guid>https://news.ycombinator.com/item?id=30439747</guid>
+            <pubDate>Wed, 23 Feb 2022 10:40:30 GMT</pubDate>
+            <description><![CDATA[India's draft data policy unlocks govt data for all, mulls monetisation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[考古学家在约旦的沙漠中发现了一个有9千多年历史的神龛]]></title>
+            <link>https://news.ycombinator.com/item?id=30439724</link>
+            <guid>https://news.ycombinator.com/item?id=30439724</guid>
+            <pubDate>Wed, 23 Feb 2022 10:35:21 GMT</pubDate>
+            <description><![CDATA[Archaeologists find a 9k-year-old shrine in the desert in Jordan]]></description>
+        </item>
         <item>
             <title><![CDATA[Crystal lang: bdw-GC coroutines支持]]></title>
             <link>https://news.ycombinator.com/item?id=30439703</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30429910</guid>
             <pubDate>Tue, 22 Feb 2022 16:31:56 GMT</pubDate>
             <description><![CDATA[Show HN: An RX-Focused Component Framework for Angular]]></description>
-        </item>
-        <item>
-            <title><![CDATA[初创企业的会议规则]]></title>
-            <link>https://news.ycombinator.com/item?id=30429901</link>
-            <guid>https://news.ycombinator.com/item?id=30429901</guid>
-            <pubDate>Tue, 22 Feb 2022 16:31:21 GMT</pubDate>
-            <description><![CDATA[Meeting Rules for Startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开源的Kubeflow和Kaggle竞争者]]></title>
-            <link>https://news.ycombinator.com/item?id=30429879</link>
-            <guid>https://news.ycombinator.com/item?id=30429879</guid>
-            <pubDate>Tue, 22 Feb 2022 16:29:55 GMT</pubDate>
-            <description><![CDATA[Open Source Kubeflow and Kaggle Competitors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用SQL多集谓词来比较数据集]]></title>
-            <link>https://news.ycombinator.com/item?id=30429878</link>
-            <guid>https://news.ycombinator.com/item?id=30429878</guid>
-            <pubDate>Tue, 22 Feb 2022 16:29:50 GMT</pubDate>
-            <description><![CDATA[Use SQL multiset predicates to compare data sets]]></description>
         </item>
     </channel>
 </rss>
