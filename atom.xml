@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T03:34:40.586Z</updated>
+    <updated>2022-02-23T03:43:53.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Qwik--HTML至上的框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30437273</id>
+        <link href="https://news.ycombinator.com/item?id=30437273"/>
+        <updated>2022-02-23T03:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Qwik – The HTML-First Framework]]></summary>
+        <author>
+            <name>rammy1234</name>
+            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30437257</id>
+        <link href="https://news.ycombinator.com/item?id=30437257"/>
+        <updated>2022-02-23T03:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></summary>
+        <author>
+            <name>hanseul</name>
+            <uri>https://news.ycombinator.com/user?id=hanseul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快乐和痛苦的对数尺度]]></title>
+        <id>https://news.ycombinator.com/item?id=30437248</id>
+        <link href="https://news.ycombinator.com/item?id=30437248"/>
+        <updated>2022-02-23T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Logarithmic Scales of Pleasure and Pain]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维特斯 v13.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30437245</id>
+        <link href="https://news.ycombinator.com/item?id=30437245"/>
+        <updated>2022-02-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Vitess v13.0.0]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是真理社会？关于唐纳德-特朗普的社交网络，你需要知道的一切]]></title>
         <id>https://news.ycombinator.com/item?id=30437204</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车之家》现在正式在美国上市了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30427750</id>
-        <link href="https://news.ycombinator.com/item?id=30427750"/>
-        <updated>2022-02-22T13:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Car Thing Is Now Officially Available in the U.S.]]></summary>
-        <author>
-            <name>soheilpro</name>
-            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发明一种手术来治愈自己（2019年）[音频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30427748</id>
-        <link href="https://news.ycombinator.com/item?id=30427748"/>
-        <updated>2022-02-22T13:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Inventing a surgery to cure myself (2019) [audio]]]></summary>
-        <author>
-            <name>davesailer</name>
-            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汤加在停电38天后恢复了互联网]]></title>
-        <id>https://news.ycombinator.com/item?id=30427742</id>
-        <link href="https://news.ycombinator.com/item?id=30427742"/>
-        <updated>2022-02-22T13:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Internet is back in Tonga after 38 days of outage]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉在《消费者报告》的年度排名中暴跌七位]]></title>
-        <id>https://news.ycombinator.com/item?id=30427738</id>
-        <link href="https://news.ycombinator.com/item?id=30427738"/>
-        <updated>2022-02-22T13:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Tesla plunges seven spots in annual Consumer Reports ranking]]></summary>
-        <author>
-            <name>zinekeller</name>
-            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
         </author>
     </entry>
 </feed>
