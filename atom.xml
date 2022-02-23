@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T07:31:09.427Z</updated>
+    <updated>2022-02-23T07:36:26.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Selenium使浏览器自动化。为测试目的而使网络应用自动化]]></title>
+        <id>https://news.ycombinator.com/item?id=30438607</id>
+        <link href="https://news.ycombinator.com/item?id=30438607"/>
+        <updated>2022-02-23T07:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Selenium automates browsers.Automating web applications for testing purposes]]></summary>
+        <author>
+            <name>Gedxx</name>
+            <uri>https://news.ycombinator.com/user?id=Gedxx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最受欢迎的社交媒体平台的碳足迹]]></title>
         <id>https://news.ycombinator.com/item?id=30438589</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普的新社交媒体应用程序在iOS上推出]]></title>
-        <id>https://news.ycombinator.com/item?id=30428618</id>
-        <link href="https://news.ycombinator.com/item?id=30428618"/>
-        <updated>2022-02-22T14:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s new social media app launches on iOS]]></summary>
-        <author>
-            <name>mromanuk</name>
-            <uri>https://news.ycombinator.com/user?id=mromanuk</uri>
         </author>
     </entry>
 </feed>
