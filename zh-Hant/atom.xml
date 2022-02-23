@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T19:13:50.677Z</updated>
+    <updated>2022-02-23T19:27:07.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Elvis Operator]]></title>
+        <id>https://news.ycombinator.com/item?id=30444949</id>
+        <link href="https://news.ycombinator.com/item?id=30444949"/>
+        <updated>2022-02-23T19:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Elvis Operator]]></summary>
+        <author>
+            <name>green-eclipse</name>
+            <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼要為每個HTTP路由創建一個Lambda？]]></title>
+        <id>https://news.ycombinator.com/item?id=30444907</id>
+        <link href="https://news.ycombinator.com/item?id=30444907"/>
+        <updated>2022-02-23T19:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Why create one Lambda per HTTP route?]]></summary>
+        <author>
+            <name>aarondf</name>
+            <uri>https://news.ycombinator.com/user?id=aarondf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌廣告API日落時間表過於激進]]></title>
+        <id>https://news.ycombinator.com/item?id=30444897</id>
+        <link href="https://news.ycombinator.com/item?id=30444897"/>
+        <updated>2022-02-23T19:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Google Ads API sunset schedule is too aggressive]]></summary>
+        <author>
+            <name>fourseventy</name>
+            <uri>https://news.ycombinator.com/user?id=fourseventy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有些科學是可溶的藝術，而有些則取決於(2001)]]></title>
+        <id>https://news.ycombinator.com/item?id=30444891</id>
+        <link href="https://news.ycombinator.com/item?id=30444891"/>
+        <updated>2022-02-23T19:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Some science is the art of the soluble, while some depends (2001)]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交網絡的黑客行為場景解讀]]></title>
         <id>https://news.ycombinator.com/item?id=30444866</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現代汽車（波士頓動力）2022年CES展]]></title>
-        <id>https://news.ycombinator.com/item?id=30437052</id>
-        <link href="https://news.ycombinator.com/item?id=30437052"/>
-        <updated>2022-02-23T02:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Hyundai (Boston Dynamics) CES 2022]]></summary>
-        <author>
-            <name>ofou</name>
-            <uri>https://news.ycombinator.com/user?id=ofou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡社會契約：如何在數字世界中重建信任]]></title>
-        <id>https://news.ycombinator.com/item?id=30437048</id>
-        <link href="https://news.ycombinator.com/item?id=30437048"/>
-        <updated>2022-02-23T02:57:09.000Z</updated>
-        <summary type="html"><![CDATA[The Cyber Social Contract: How to Rebuild Trust in a Digital World]]></summary>
-        <author>
-            <name>curmudgeon22</name>
-            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜的Astro機器人被發現在野外為人們帶來啤酒]]></title>
-        <id>https://news.ycombinator.com/item?id=30437041</id>
-        <link href="https://news.ycombinator.com/item?id=30437041"/>
-        <updated>2022-02-23T02:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon’s Astro robot has been spotted in the wild bringing people beer]]></summary>
-        <author>
-            <name>thesuperbigfrog</name>
-            <uri>https://news.ycombinator.com/user?id=thesuperbigfrog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全短信應用程序比較]]></title>
-        <id>https://news.ycombinator.com/item?id=30437035</id>
-        <link href="https://news.ycombinator.com/item?id=30437035"/>
-        <updated>2022-02-23T02:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Secure Messaging Apps Comparison]]></summary>
-        <author>
-            <name>Mac_McMeans</name>
-            <uri>https://news.ycombinator.com/user?id=Mac_McMeans</uri>
         </author>
     </entry>
 </feed>
