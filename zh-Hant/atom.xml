@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T13:37:07.469Z</updated>
+    <updated>2022-02-23T13:43:14.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Metanomic推出業內首個面向開發者的實時遊戲經濟引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30440775</id>
+        <link href="https://news.ycombinator.com/item?id=30440775"/>
+        <updated>2022-02-23T13:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Metanomic Launches Industry-First Real-Time Game Economy Engine for Developers]]></summary>
+        <author>
+            <name>judgementday</name>
+            <uri>https://news.ycombinator.com/user?id=judgementday</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學會傾聽]]></title>
+        <id>https://news.ycombinator.com/item?id=30440773</id>
+        <link href="https://news.ycombinator.com/item?id=30440773"/>
+        <updated>2022-02-23T13:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Learn to Listen]]></summary>
+        <author>
+            <name>erikvann</name>
+            <uri>https://news.ycombinator.com/user?id=erikvann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何從亞馬遜Cognito遷移出來]]></title>
+        <id>https://news.ycombinator.com/item?id=30440769</id>
+        <link href="https://news.ycombinator.com/item?id=30440769"/>
+        <updated>2022-02-23T13:33:04.000Z</updated>
+        <summary type="html"><![CDATA[How to migrate off of Amazon Cognito]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10和11 21H2數據擦除工具將用戶數據留在磁盤上]]></title>
+        <id>https://news.ycombinator.com/item?id=30440757</id>
+        <link href="https://news.ycombinator.com/item?id=30440757"/>
+        <updated>2022-02-23T13:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 and 11 21H2 Data Wiping Tool Leaves User Data on Disk]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是好的客戶流失率？]]></title>
         <id>https://news.ycombinator.com/item?id=30440754</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[畢夫現在由Clojurists Together和JUXT贊助。]]></title>
-        <id>https://news.ycombinator.com/item?id=30431463</id>
-        <link href="https://news.ycombinator.com/item?id=30431463"/>
-        <updated>2022-02-22T18:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Biff is now sponsored by Clojurists Together and JUXT]]></summary>
-        <author>
-            <name>jacobobryant</name>
-            <uri>https://news.ycombinator.com/user?id=jacobobryant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyBuddyAndrew從機械師到軟件工程師到Hauling Buddies的創始人]]></title>
-        <id>https://news.ycombinator.com/item?id=30431436</id>
-        <link href="https://news.ycombinator.com/item?id=30431436"/>
-        <updated>2022-02-22T18:23:19.000Z</updated>
-        <summary type="html"><![CDATA[MyBuddyAndrew from mechanic to software engineer to founder of Hauling Buddies]]></summary>
-        <author>
-            <name>ahodson</name>
-            <uri>https://news.ycombinator.com/user?id=ahodson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[協同效應。從鋼琴MIDI或音頻創建美麗的合成器式視頻]]></title>
-        <id>https://news.ycombinator.com/item?id=30431433</id>
-        <link href="https://news.ycombinator.com/item?id=30431433"/>
-        <updated>2022-02-22T18:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Synthviz: Create beautiful Synthesia-esque videos from piano MIDI or audio]]></summary>
-        <author>
-            <name>jxmorris12</name>
-            <uri>https://news.ycombinator.com/user?id=jxmorris12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空中客車公司計劃在A380巨無霸飛機上測試氫氣發動機]]></title>
-        <id>https://news.ycombinator.com/item?id=30431423</id>
-        <link href="https://news.ycombinator.com/item?id=30431423"/>
-        <updated>2022-02-22T18:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Airbus plans to test hydrogen engine on A380 jumbo jet]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
