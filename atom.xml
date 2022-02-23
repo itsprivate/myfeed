@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T09:37:01.769Z</updated>
+    <updated>2022-02-23T09:51:18.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果店放弃口罩任务，计划恢复店内课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30439441</id>
+        <link href="https://news.ycombinator.com/item?id=30439441"/>
+        <updated>2022-02-23T09:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple Stores Drop Mask Mandates, Plan Return of In-Store Classes]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么迪拜是一个蓬勃发展的金融技术初创企业的热点地区？]]></title>
+        <id>https://news.ycombinator.com/item?id=30439420</id>
+        <link href="https://news.ycombinator.com/item?id=30439420"/>
+        <updated>2022-02-23T09:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Why Dubai is a booming hotspot for fintech startups]]></summary>
+        <author>
+            <name>Liriel</name>
+            <uri>https://news.ycombinator.com/user?id=Liriel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特机器人正在攻击阻挡OSINT用户]]></title>
+        <id>https://news.ycombinator.com/item?id=30439362</id>
+        <link href="https://news.ycombinator.com/item?id=30439362"/>
+        <updated>2022-02-23T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Bots are Attacking to block OSINT users]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌分享、盈利和利用你的数据]]></title>
         <id>https://news.ycombinator.com/item?id=30439345</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>eleitl</name>
             <uri>https://news.ycombinator.com/user?id=eleitl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Go中的API调用自动生成单元测试（含模拟）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30429375</id>
-        <link href="https://news.ycombinator.com/item?id=30429375"/>
-        <updated>2022-02-22T15:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Auto-generate  unit tests (with mocks) from API calls in Go]]></summary>
-        <author>
-            <name>slayerjain</name>
-            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国旗的长宽比列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30429357</id>
-        <link href="https://news.ycombinator.com/item?id=30429357"/>
-        <updated>2022-02-22T15:49:49.000Z</updated>
-        <summary type="html"><![CDATA[List of aspect ratios of national flags]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向量搜索。用机器学习优化人类思维]]></title>
-        <id>https://news.ycombinator.com/item?id=30429335</id>
-        <link href="https://news.ycombinator.com/item?id=30429335"/>
-        <updated>2022-02-22T15:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Vector Search: Optimizing for the Human Mind with Machine Learning]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
