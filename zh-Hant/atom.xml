@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T09:13:54.594Z</updated>
+    <updated>2022-02-23T09:29:26.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ReScript vs. TypeScript。構建併發式隊列庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30439282</id>
+        <link href="https://news.ycombinator.com/item?id=30439282"/>
+        <updated>2022-02-23T09:24:14.000Z</updated>
+        <summary type="html"><![CDATA[ReScript vs. TypeScript: Building a Concurrent Queue Library]]></summary>
+        <author>
+            <name>itayadler</name>
+            <uri>https://news.ycombinator.com/user?id=itayadler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特幣的BIP39字謎遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30439276</id>
+        <link href="https://news.ycombinator.com/item?id=30439276"/>
+        <updated>2022-02-23T09:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's BIP39 Wordle Game]]></summary>
+        <author>
+            <name>tankfeeder</name>
+            <uri>https://news.ycombinator.com/user?id=tankfeeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIELAB中的顏色不穩定：一個紅鯡魚？]]></title>
+        <id>https://news.ycombinator.com/item?id=30439270</id>
+        <link href="https://news.ycombinator.com/item?id=30439270"/>
+        <updated>2022-02-23T09:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Color inconstancy in CIELAB: A red herring?]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於軟件抽象的說明]]></title>
+        <id>https://news.ycombinator.com/item?id=30439262</id>
+        <link href="https://news.ycombinator.com/item?id=30439262"/>
+        <updated>2022-02-23T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Notes on Software Abstraction]]></summary>
+        <author>
+            <name>Ambolia</name>
+            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌AdSense將人類網絡漫畫訪問視為機器人流量，剝奪了收入]]></title>
+        <id>https://news.ycombinator.com/item?id=30439233</id>
+        <link href="https://news.ycombinator.com/item?id=30439233"/>
+        <updated>2022-02-23T09:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Google AdSense sees human web comic visits as bot traffic, strips away revenue]]></summary>
+        <author>
+            <name>gpvos</name>
+            <uri>https://news.ycombinator.com/user?id=gpvos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從離散分佈中快速取樣]]></title>
+        <id>https://news.ycombinator.com/item?id=30439217</id>
+        <link href="https://news.ycombinator.com/item?id=30439217"/>
+        <updated>2022-02-23T09:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Fast Sampling from a Discrete Distribution]]></summary>
+        <author>
+            <name>Radim</name>
+            <uri>https://news.ycombinator.com/user?id=Radim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我改變了我的屋頂，減少了1.5噸的二氧化碳排放量]]></title>
         <id>https://news.ycombinator.com/item?id=30439211</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>P-ala-din</name>
             <uri>https://news.ycombinator.com/user?id=P-ala-din</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD分公司的（錯誤）預測器。只需設置就可以忘記它]]></title>
-        <id>https://news.ycombinator.com/item?id=30429260</id>
-        <link href="https://news.ycombinator.com/item?id=30429260"/>
-        <updated>2022-02-22T15:41:24.000Z</updated>
-        <summary type="html"><![CDATA[The AMD Branch (Mis)Predictor: Just Set It and Forget It]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[納米級水流中波動引起的量子摩擦]]></title>
-        <id>https://news.ycombinator.com/item?id=30429239</id>
-        <link href="https://news.ycombinator.com/item?id=30429239"/>
-        <updated>2022-02-22T15:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Fluctuation-induced quantum friction in nanoscale water flows]]></summary>
-        <author>
-            <name>leephillips</name>
-            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Gwenview在Linux上裁剪和調整照片大小]]></title>
-        <id>https://news.ycombinator.com/item?id=30429225</id>
-        <link href="https://news.ycombinator.com/item?id=30429225"/>
-        <updated>2022-02-22T15:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Crop and resize photos on Linux with Gwenview]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyFy - 創業、融資和經營你的企業]]></title>
-        <id>https://news.ycombinator.com/item?id=30429219</id>
-        <link href="https://news.ycombinator.com/item?id=30429219"/>
-        <updated>2022-02-22T15:38:03.000Z</updated>
-        <summary type="html"><![CDATA[MyFy – Start, Finance, and Run Your Business]]></summary>
-        <author>
-            <name>michaeltendo</name>
-            <uri>https://news.ycombinator.com/user?id=michaeltendo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long.af - 最快的URL縮短器]]></title>
-        <id>https://news.ycombinator.com/item?id=30429213</id>
-        <link href="https://news.ycombinator.com/item?id=30429213"/>
-        <updated>2022-02-22T15:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Long.af – Fastest URL Shortener]]></summary>
-        <author>
-            <name>favourable</name>
-            <uri>https://news.ycombinator.com/user?id=favourable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過USB-C的JTAG/SWD]]></title>
-        <id>https://news.ycombinator.com/item?id=30429210</id>
-        <link href="https://news.ycombinator.com/item?id=30429210"/>
-        <updated>2022-02-22T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[JTAG/SWD over USB-C]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
