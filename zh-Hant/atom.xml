@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T06:56:13.853Z</updated>
+    <updated>2022-02-23T07:12:53.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Python中與家庭連接設備的接口]]></title>
+        <id>https://news.ycombinator.com/item?id=30438445</id>
+        <link href="https://news.ycombinator.com/item?id=30438445"/>
+        <updated>2022-02-23T06:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Interface with Home Connect Appliances in Python]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鮑勃-艾利森的ASCII藝術 (1996)]]></title>
         <id>https://news.ycombinator.com/item?id=30438431</id>
@@ -6599,17 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30428598"/>
         <updated>2022-02-22T14:52:11.000Z</updated>
         <summary type="html"><![CDATA[A Commentary on Military Force]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Pytest進行Python測試，簡單、快速、有效、可擴展]]></title>
-        <id>https://news.ycombinator.com/item?id=30428576</id>
-        <link href="https://news.ycombinator.com/item?id=30428576"/>
-        <updated>2022-02-22T14:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Python Testing with Pytest, Simple, Rapid, Effective, and Scalable]]></summary>
         <author>
             <name>CapitalistCartr</name>
             <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>

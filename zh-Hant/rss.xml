@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python中與家庭連接設備的接口]]></title>
+            <link>https://news.ycombinator.com/item?id=30438445</link>
+            <guid>https://news.ycombinator.com/item?id=30438445</guid>
+            <pubDate>Wed, 23 Feb 2022 06:55:03 GMT</pubDate>
+            <description><![CDATA[Interface with Home Connect Appliances in Python]]></description>
+        </item>
         <item>
             <title><![CDATA[鮑勃-艾利森的ASCII藝術 (1996)]]></title>
             <link>https://news.ycombinator.com/item?id=30438431</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30428598</guid>
             <pubDate>Tue, 22 Feb 2022 14:52:11 GMT</pubDate>
             <description><![CDATA[A Commentary on Military Force]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Pytest進行Python測試，簡單、快速、有效、可擴展]]></title>
-            <link>https://news.ycombinator.com/item?id=30428576</link>
-            <guid>https://news.ycombinator.com/item?id=30428576</guid>
-            <pubDate>Tue, 22 Feb 2022 14:50:48 GMT</pubDate>
-            <description><![CDATA[Python Testing with Pytest, Simple, Rapid, Effective, and Scalable]]></description>
         </item>
     </channel>
 </rss>
