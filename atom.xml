@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-23T07:12:53.743Z</updated>
+    <updated>2022-02-23T07:31:09.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最受欢迎的社交媒体平台的碳足迹]]></title>
+        <id>https://news.ycombinator.com/item?id=30438589</id>
+        <link href="https://news.ycombinator.com/item?id=30438589"/>
+        <updated>2022-02-23T07:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Carbon Footprint of the Most Popular Social Media Platforms]]></summary>
+        <author>
+            <name>lladnar</name>
+            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你需要知道的关于单体的一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30438579</id>
+        <link href="https://news.ycombinator.com/item?id=30438579"/>
+        <updated>2022-02-23T07:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Everything you need to know about monorepos]]></summary>
+        <author>
+            <name>SerCe</name>
+            <uri>https://news.ycombinator.com/user?id=SerCe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锈蚀相关的CVE条目]]></title>
+        <id>https://news.ycombinator.com/item?id=30438575</id>
+        <link href="https://news.ycombinator.com/item?id=30438575"/>
+        <updated>2022-02-23T07:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Rust Related CVE Entries]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会搬到欧盟的什么地方？]]></title>
+        <id>https://news.ycombinator.com/item?id=30438545</id>
+        <link href="https://news.ycombinator.com/item?id=30438545"/>
+        <updated>2022-02-23T07:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Where in EU would you relocate?]]></summary>
+        <author>
+            <name>solididiot</name>
+            <uri>https://news.ycombinator.com/user?id=solididiot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个着色器的技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30438541</id>
+        <link href="https://news.ycombinator.com/item?id=30438541"/>
+        <updated>2022-02-23T07:15:53.000Z</updated>
+        <summary type="html"><![CDATA[A Shader Trick]]></summary>
+        <author>
+            <name>tobr</name>
+            <uri>https://news.ycombinator.com/user?id=tobr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Python中与家庭连接设备的接口]]></title>
         <id>https://news.ycombinator.com/item?id=30438445</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>mromanuk</name>
             <uri>https://news.ycombinator.com/user?id=mromanuk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西弗吉尼亚州希望禁止向客户汽车发送OTA更新信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30428613</id>
-        <link href="https://news.ycombinator.com/item?id=30428613"/>
-        <updated>2022-02-22T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[West Virginia Wants to Ban Sending OTA Updates to Customer Cars]]></summary>
-        <author>
-            <name>josephcsible</name>
-            <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅德韦杰夫在推特上说。"欢迎来到勇敢的新世界"]]></title>
-        <id>https://news.ycombinator.com/item?id=30428606</id>
-        <link href="https://news.ycombinator.com/item?id=30428606"/>
-        <updated>2022-02-22T14:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Medvedev on Twitter: “Welcome to the brave new world”]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用SvelteKit构建一个实时的WebSocket应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30428605</id>
-        <link href="https://news.ycombinator.com/item?id=30428605"/>
-        <updated>2022-02-22T14:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Building a real-time WebSocket app using SvelteKit]]></summary>
-        <author>
-            <name>tonyhb</name>
-            <uri>https://news.ycombinator.com/user?id=tonyhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个终结职业生涯的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30428602</id>
-        <link href="https://news.ycombinator.com/item?id=30428602"/>
-        <updated>2022-02-22T14:52:18.000Z</updated>
-        <summary type="html"><![CDATA[A career ending mistake]]></summary>
-        <author>
-            <name>ramimac</name>
-            <uri>https://news.ycombinator.com/user?id=ramimac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于军事力量的评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30428598</id>
-        <link href="https://news.ycombinator.com/item?id=30428598"/>
-        <updated>2022-02-22T14:52:11.000Z</updated>
-        <summary type="html"><![CDATA[A Commentary on Military Force]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
         </author>
     </entry>
 </feed>
