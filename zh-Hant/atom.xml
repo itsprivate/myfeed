@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T05:31:26.650Z</updated>
+    <updated>2022-02-24T05:37:37.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何讓人們思考？]]></title>
+        <id>https://news.ycombinator.com/item?id=30450744</id>
+        <link href="https://news.ycombinator.com/item?id=30450744"/>
+        <updated>2022-02-24T05:29:43.000Z</updated>
+        <summary type="html"><![CDATA[How do you make people think?]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第三章。關於混合公國 (1532)]]></title>
         <id>https://news.ycombinator.com/item?id=30450709</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nefitty</name>
             <uri>https://news.ycombinator.com/user?id=nefitty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類規模的數據庫是你大腦的延伸]]></title>
-        <id>https://news.ycombinator.com/item?id=30441690</id>
-        <link href="https://news.ycombinator.com/item?id=30441690"/>
-        <updated>2022-02-23T14:58:46.000Z</updated>
-        <summary type="html"><![CDATA[A human-scaled database as an extension of your brain]]></summary>
-        <author>
-            <name>thesophiaxu</name>
-            <uri>https://news.ycombinator.com/user?id=thesophiaxu</uri>
         </author>
     </entry>
 </feed>
