@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T07:31:53.443Z</updated>
+    <updated>2022-02-24T07:38:06.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國組建專門制止中國間諜活動的團隊]]></title>
+        <id>https://news.ycombinator.com/item?id=30451758</id>
+        <link href="https://news.ycombinator.com/item?id=30451758"/>
+        <updated>2022-02-24T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[US winds up team dedicated to stopping Chinese espionage]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[找到你想要的工作]]></title>
         <id>https://news.ycombinator.com/item?id=30451708</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn首次推出自己的播客網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30442313</id>
-        <link href="https://news.ycombinator.com/item?id=30442313"/>
-        <updated>2022-02-23T15:47:38.000Z</updated>
-        <summary type="html"><![CDATA[LinkedIn debuts its own podcast network]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>
