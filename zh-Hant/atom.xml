@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T21:54:18.951Z</updated>
+    <updated>2022-02-24T22:14:18.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Loop_tool.js演示，一個用於線性代數（和ML）的JIT WASM編譯器]]></title>
+        <id>https://news.ycombinator.com/item?id=30460883</id>
+        <link href="https://news.ycombinator.com/item?id=30460883"/>
+        <updated>2022-02-24T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Loop_tool.js demo, a JIT WASM compiler for linear algebra (and ML)]]></summary>
+        <author>
+            <name>brrrrrm</name>
+            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國證券交易委員會就特斯拉股票銷售問題對埃隆-馬斯克和弟弟金巴爾進行調查]]></title>
+        <id>https://news.ycombinator.com/item?id=30460859</id>
+        <link href="https://news.ycombinator.com/item?id=30460859"/>
+        <updated>2022-02-24T21:57:13.000Z</updated>
+        <summary type="html"><![CDATA[SEC probes Elon Musk, brother Kimbal over Tesla share sales]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servo是一個用Rust編寫的實驗性並行網絡瀏覽器]]></title>
+        <id>https://news.ycombinator.com/item?id=30460850</id>
+        <link href="https://news.ycombinator.com/item?id=30460850"/>
+        <updated>2022-02-24T21:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Servo is an experimental parallel web browser written in Rust]]></summary>
+        <author>
+            <name>sealeck</name>
+            <uri>https://news.ycombinator.com/user?id=sealeck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼烏克蘭是西方的錯？]]></title>
+        <id>https://news.ycombinator.com/item?id=30460838</id>
+        <link href="https://news.ycombinator.com/item?id=30460838"/>
+        <updated>2022-02-24T21:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Why Is Ukraine the West's Fault?]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國財政部宣佈對俄羅斯實施史無前例的廣泛制裁]]></title>
         <id>https://news.ycombinator.com/item?id=30460782</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>enigmatic02</name>
             <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遲了15年，FCC打擊寬帶公寓壟斷行為]]></title>
-        <id>https://news.ycombinator.com/item?id=30451698</id>
-        <link href="https://news.ycombinator.com/item?id=30451698"/>
-        <updated>2022-02-24T07:23:57.000Z</updated>
-        <summary type="html"><![CDATA[15 Years Late, the FCC Cracks Down on Broadband Apartment Monopolies]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC旨在擴大公寓樓內互聯網服務的競爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30451669</id>
-        <link href="https://news.ycombinator.com/item?id=30451669"/>
-        <updated>2022-02-24T07:21:24.000Z</updated>
-        <summary type="html"><![CDATA[The FCC aims to expand competition for internet service in apartment buildings]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戈多信號深入指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30451646</id>
-        <link href="https://news.ycombinator.com/item?id=30451646"/>
-        <updated>2022-02-24T07:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Godot Signals In-Depth Guide]]></summary>
-        <author>
-            <name>adrianscheff</name>
-            <uri>https://news.ycombinator.com/user?id=adrianscheff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按軟件執行]]></title>
-        <id>https://news.ycombinator.com/item?id=30451624</id>
-        <link href="https://news.ycombinator.com/item?id=30451624"/>
-        <updated>2022-02-24T07:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Enforcement by Software]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
         </author>
     </entry>
 </feed>
