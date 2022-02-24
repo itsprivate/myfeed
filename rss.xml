@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯袭击乌克兰]]></title>
+            <link>https://news.ycombinator.com/item?id=30452257</link>
+            <guid>https://news.ycombinator.com/item?id=30452257</guid>
+            <pubDate>Thu, 24 Feb 2022 08:31:10 GMT</pubDate>
+            <description><![CDATA[Russia Attacks Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网络攻击伴随着俄罗斯对乌克兰的军事攻击]]></title>
+            <link>https://news.ycombinator.com/item?id=30452250</link>
+            <guid>https://news.ycombinator.com/item?id=30452250</guid>
+            <pubDate>Thu, 24 Feb 2022 08:30:12 GMT</pubDate>
+            <description><![CDATA[Cyberattacks accompany Russian military assault on Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于Parapet的玩具Spark框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30452234</link>
+            <guid>https://news.ycombinator.com/item?id=30452234</guid>
+            <pubDate>Thu, 24 Feb 2022 08:28:17 GMT</pubDate>
+            <description><![CDATA[Show HN: toy Spark framework based on Parapet]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tezos的Merkle树存储的六倍改进]]></title>
+            <link>https://news.ycombinator.com/item?id=30452216</link>
+            <guid>https://news.ycombinator.com/item?id=30452216</guid>
+            <pubDate>Thu, 24 Feb 2022 08:25:16 GMT</pubDate>
+            <description><![CDATA[A six-fold improvement in the Merkle tree storage for Tezos]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰挑战俄罗斯联邦在安全理事会的席位]]></title>
+            <link>https://news.ycombinator.com/item?id=30452214</link>
+            <guid>https://news.ycombinator.com/item?id=30452214</guid>
+            <pubDate>Thu, 24 Feb 2022 08:25:09 GMT</pubDate>
+            <description><![CDATA[Ukraine Challenge the Russian Federations Seat at the Security Council]]></description>
+        </item>
+        <item>
+            <title><![CDATA[具有混合可塑性的BrainScaleS-2加速神经形态系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30452184</link>
+            <guid>https://news.ycombinator.com/item?id=30452184</guid>
+            <pubDate>Thu, 24 Feb 2022 08:22:07 GMT</pubDate>
+            <description><![CDATA[The BrainScaleS-2 Accelerated Neuromorphic System with Hybrid Plasticity]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jless - 一个命令行的JSON查看器（用Rust编写）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30452162</link>
+            <guid>https://news.ycombinator.com/item?id=30452162</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:27 GMT</pubDate>
+            <description><![CDATA[Jless – a command-line JSON viewer (written in Rust)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用Rust的数据管道，并作为FFI RPC层与Go/Py消费者进行整合]]></title>
+            <link>https://news.ycombinator.com/item?id=30452141</link>
+            <guid>https://news.ycombinator.com/item?id=30452141</guid>
+            <pubDate>Thu, 24 Feb 2022 08:17:52 GMT</pubDate>
+            <description><![CDATA[Data pipeline with Rust, and integrated as a FFI RPC layer with Go/Py consumers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Windows 7 SP2 ESU的完整调整指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30452107</link>
+            <guid>https://news.ycombinator.com/item?id=30452107</guid>
+            <pubDate>Thu, 24 Feb 2022 08:14:34 GMT</pubDate>
+            <description><![CDATA[Complete tweaking guide for Windows 7 SP2 ESU]]></description>
+        </item>
+        <item>
+            <title><![CDATA[入侵期间的筹款--乌克兰初创企业的情况]]></title>
+            <link>https://news.ycombinator.com/item?id=30452102</link>
+            <guid>https://news.ycombinator.com/item?id=30452102</guid>
+            <pubDate>Thu, 24 Feb 2022 08:14:00 GMT</pubDate>
+            <description><![CDATA[Fundraising during an invasion – what it’s like for startups in Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[普京宣布在乌克兰开展特别军事行动]]></title>
             <link>https://news.ycombinator.com/item?id=30452032</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30442727</guid>
             <pubDate>Wed, 23 Feb 2022 16:19:43 GMT</pubDate>
             <description><![CDATA[Redpanda raises $50M in Series B]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启动HN：Hydra（YC W22）--通过Postgres查询任何数据库]]></title>
-            <link>https://news.ycombinator.com/item?id=30442718</link>
-            <guid>https://news.ycombinator.com/item?id=30442718</guid>
-            <pubDate>Wed, 23 Feb 2022 16:18:51 GMT</pubDate>
-            <description><![CDATA[Launch HN: Hydra (YC W22) – Query Any Database via Postgres]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你不应该害怕这道永无止境的炖菜（2015）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30442701</link>
-            <guid>https://news.ycombinator.com/item?id=30442701</guid>
-            <pubDate>Wed, 23 Feb 2022 16:17:53 GMT</pubDate>
-            <description><![CDATA[You Shouldn't Be Terrified of This Never-Ending Stew (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中世纪的骨架为酷刑和暴力的说法正名 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30442696</link>
-            <guid>https://news.ycombinator.com/item?id=30442696</guid>
-            <pubDate>Wed, 23 Feb 2022 16:17:43 GMT</pubDate>
-            <description><![CDATA[Medieval skeleton puts a face on accounts of torture and violence (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你可以用在博客上的投资原则]]></title>
-            <link>https://news.ycombinator.com/item?id=30442678</link>
-            <guid>https://news.ycombinator.com/item?id=30442678</guid>
-            <pubDate>Wed, 23 Feb 2022 16:16:08 GMT</pubDate>
-            <description><![CDATA[Investment Principles You Can Use for Blogging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利他主义的杀手]]></title>
-            <link>https://news.ycombinator.com/item?id=30442677</link>
-            <guid>https://news.ycombinator.com/item?id=30442677</guid>
-            <pubDate>Wed, 23 Feb 2022 16:15:44 GMT</pubDate>
-            <description><![CDATA[The Altruistic Killer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人们花大量时间在手机上]]></title>
-            <link>https://news.ycombinator.com/item?id=30442669</link>
-            <guid>https://news.ycombinator.com/item?id=30442669</guid>
-            <pubDate>Wed, 23 Feb 2022 16:15:17 GMT</pubDate>
-            <description><![CDATA[People spend a lot of time on their phones]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非科维德-19死亡人数上升冲击人寿保险公司]]></title>
-            <link>https://news.ycombinator.com/item?id=30442656</link>
-            <guid>https://news.ycombinator.com/item?id=30442656</guid>
-            <pubDate>Wed, 23 Feb 2022 16:14:34 GMT</pubDate>
-            <description><![CDATA[Rise in Non-Covid-19 Deaths Hits Life Insurers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[家庭环境中的IPv6]]></title>
-            <link>https://news.ycombinator.com/item?id=30442647</link>
-            <guid>https://news.ycombinator.com/item?id=30442647</guid>
-            <pubDate>Wed, 23 Feb 2022 16:13:50 GMT</pubDate>
-            <description><![CDATA[IPv6 in a Home Environment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中生代终止于北方的春天]]></title>
-            <link>https://news.ycombinator.com/item?id=30442638</link>
-            <guid>https://news.ycombinator.com/item?id=30442638</guid>
-            <pubDate>Wed, 23 Feb 2022 16:12:42 GMT</pubDate>
-            <description><![CDATA[The Mesozoic terminated in boreal spring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[后量子公钥密码学简介]]></title>
-            <link>https://news.ycombinator.com/item?id=30442629</link>
-            <guid>https://news.ycombinator.com/item?id=30442629</guid>
-            <pubDate>Wed, 23 Feb 2022 16:12:01 GMT</pubDate>
-            <description><![CDATA[An Introduction to Post-Quantum Public Key Cryptography]]></description>
         </item>
     </channel>
 </rss>
