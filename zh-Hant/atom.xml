@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T07:38:06.343Z</updated>
+    <updated>2022-02-24T07:52:03.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Aporia獲得2500萬美元的資金]]></title>
+        <id>https://news.ycombinator.com/item?id=30451848</id>
+        <link href="https://news.ycombinator.com/item?id=30451848"/>
+        <updated>2022-02-24T07:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Aporia Raises $25M]]></summary>
+        <author>
+            <name>alongub</name>
+            <uri>https://news.ycombinator.com/user?id=alongub</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼軟件開發的任務估算經常出現2-3倍的偏差？]]></title>
+        <id>https://news.ycombinator.com/item?id=30451844</id>
+        <link href="https://news.ycombinator.com/item?id=30451844"/>
+        <updated>2022-02-24T07:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Why are software development task estimations regularly off by a factor of 2-3?]]></summary>
+        <author>
+            <name>kinduff</name>
+            <uri>https://news.ycombinator.com/user?id=kinduff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯積極開展網絡行動和虛假信息攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30451832</id>
+        <link href="https://news.ycombinator.com/item?id=30451832"/>
+        <updated>2022-02-24T07:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Russia actively conducting cyberops and disinformation attacks]]></summary>
+        <author>
+            <name>Mo3</name>
+            <uri>https://news.ycombinator.com/user?id=Mo3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國組建專門制止中國間諜活動的團隊]]></title>
         <id>https://news.ycombinator.com/item?id=30451758</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>PretzelFisch</name>
             <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pfSense中的遠程代碼執行]]></title>
-        <id>https://news.ycombinator.com/item?id=30442325</id>
-        <link href="https://news.ycombinator.com/item?id=30442325"/>
-        <updated>2022-02-23T15:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Remote Code Execution in pfSense]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redpanda融資5000萬美元以實現流媒體數據的現代化]]></title>
-        <id>https://news.ycombinator.com/item?id=30442320</id>
-        <link href="https://news.ycombinator.com/item?id=30442320"/>
-        <updated>2022-02-23T15:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Redpanda raises $50M to modernize streaming data]]></summary>
-        <author>
-            <name>northstar702</name>
-            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晶體管在3納米時達到臨界點]]></title>
-        <id>https://news.ycombinator.com/item?id=30442319</id>
-        <link href="https://news.ycombinator.com/item?id=30442319"/>
-        <updated>2022-02-23T15:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Transistors Reach Tipping Point at 3nm]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
