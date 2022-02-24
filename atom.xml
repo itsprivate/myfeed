@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T10:44:47.495Z</updated>
+    <updated>2022-02-24T10:51:31.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flexbox动态分线器]]></title>
+        <id>https://news.ycombinator.com/item?id=30453251</id>
+        <link href="https://news.ycombinator.com/item?id=30453251"/>
+        <updated>2022-02-24T10:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Flexbox Dynamic Line Separator]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全力以赴。为蒸汽甲板做准备]]></title>
+        <id>https://news.ycombinator.com/item?id=30453217</id>
+        <link href="https://news.ycombinator.com/item?id=30453217"/>
+        <updated>2022-02-24T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[All Hands on Deck: Preparing for the Steam Deck]]></summary>
+        <author>
+            <name>ekianjo</name>
+            <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子重力传感器为了解我们脚下的世界打开了窗口]]></title>
+        <id>https://news.ycombinator.com/item?id=30453211</id>
+        <link href="https://news.ycombinator.com/item?id=30453211"/>
+        <updated>2022-02-24T10:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Quantum gravity sensor opens window into world beneath our feet]]></summary>
+        <author>
+            <name>darkscape</name>
+            <uri>https://news.ycombinator.com/user?id=darkscape</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过领事服务网的数据包的生活 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30453200</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>whack</name>
             <uri>https://news.ycombinator.com/user?id=whack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟数据法。欧盟委员会为公平和创新的数据经济提出措施]]></title>
-        <id>https://news.ycombinator.com/item?id=30443754</id>
-        <link href="https://news.ycombinator.com/item?id=30443754"/>
-        <updated>2022-02-23T17:33:19.000Z</updated>
-        <summary type="html"><![CDATA[EU Data Act: Commission proposes measures for a fair and innovative data economy]]></summary>
-        <author>
-            <name>j_san</name>
-            <uri>https://news.ycombinator.com/user?id=j_san</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现新的HIV变异体，对Covid大流行发出警告]]></title>
-        <id>https://news.ycombinator.com/item?id=30443748</id>
-        <link href="https://news.ycombinator.com/item?id=30443748"/>
-        <updated>2022-02-23T17:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Discovery of New HIV Variant Sends Warning for Covid Pandemic]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昂热（Ngrok）替代产品]]></title>
-        <id>https://news.ycombinator.com/item?id=30443747</id>
-        <link href="https://news.ycombinator.com/item?id=30443747"/>
-        <updated>2022-02-23T17:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Ngrok Alternatives]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
