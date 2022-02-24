@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T21:32:25.914Z</updated>
+    <updated>2022-02-24T21:39:21.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争控制室：同一窗口中的多个新闻直播频道]]></title>
+        <id>https://news.ycombinator.com/item?id=30460607</id>
+        <link href="https://news.ycombinator.com/item?id=30460607"/>
+        <updated>2022-02-24T21:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine war control room: multiple live news channels in the same window]]></summary>
+        <author>
+            <name>sss111</name>
+            <uri>https://news.ycombinator.com/user?id=sss111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用Twilio Serverless、Studio和SMS制作一个Wordle解决器]]></title>
+        <id>https://news.ycombinator.com/item?id=30460601</id>
+        <link href="https://news.ycombinator.com/item?id=30460601"/>
+        <updated>2022-02-24T21:32:57.000Z</updated>
+        <summary type="html"><![CDATA[How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS]]></summary>
+        <author>
+            <name>lizziepika</name>
+            <uri>https://news.ycombinator.com/user?id=lizziepika</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯入侵乌克兰的地图]]></title>
+        <id>https://news.ycombinator.com/item?id=30460577</id>
+        <link href="https://news.ycombinator.com/item?id=30460577"/>
+        <updated>2022-02-24T21:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s Invasion of Ukraine in Maps]]></summary>
+        <author>
+            <name>sofixa</name>
+            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德米特里-阿尔佩罗维奇谈升级的风险--俄罗斯和乌克兰]]></title>
+        <id>https://news.ycombinator.com/item?id=30460565</id>
+        <link href="https://news.ycombinator.com/item?id=30460565"/>
+        <updated>2022-02-24T21:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Dmitri Alperovitch on the risks of escalation – Russia and Ukraine]]></summary>
+        <author>
+            <name>throwrqX</name>
+            <uri>https://news.ycombinator.com/user?id=throwrqX</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯网站对非俄罗斯的连接作出HTTP代码418的回应]]></title>
+        <id>https://news.ycombinator.com/item?id=30460529</id>
+        <link href="https://news.ycombinator.com/item?id=30460529"/>
+        <updated>2022-02-24T21:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Russian websites are responding with HTTP code 418 to non-Russian connections]]></summary>
+        <author>
+            <name>dvaun</name>
+            <uri>https://news.ycombinator.com/user?id=dvaun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Momentum Cyber的2022年网络安全年鉴的主题]]></title>
         <id>https://news.ycombinator.com/item?id=30460527</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣传小组的安全审计框架和评估模板]]></title>
-        <id>https://news.ycombinator.com/item?id=30451484</id>
-        <link href="https://news.ycombinator.com/item?id=30451484"/>
-        <updated>2022-02-24T06:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Security Auditing Framework and Evaluation Template for Advocacy Groups]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰实时更新。俄罗斯开始从陆地和海上进行入侵]]></title>
-        <id>https://news.ycombinator.com/item?id=30451442</id>
-        <link href="https://news.ycombinator.com/item?id=30451442"/>
-        <updated>2022-02-24T06:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Live Updates: Russia Begins Invasion from Land and Sea]]></summary>
-        <author>
-            <name>andreyk</name>
-            <uri>https://news.ycombinator.com/user?id=andreyk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS上的Tun和Tap VPN的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30451406</id>
-        <link href="https://news.ycombinator.com/item?id=30451406"/>
-        <updated>2022-02-24T06:46:18.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Tun and Tap VPNs on macOS]]></summary>
-        <author>
-            <name>wener</name>
-            <uri>https://news.ycombinator.com/user?id=wener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supershields.io - 智能的、由Lua驱动的SVG状态徽章]]></title>
-        <id>https://news.ycombinator.com/item?id=30451402</id>
-        <link href="https://news.ycombinator.com/item?id=30451402"/>
-        <updated>2022-02-24T06:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Supershields.io – smart, Lua-powered SVG status badges]]></summary>
-        <author>
-            <name>rlonn</name>
-            <uri>https://news.ycombinator.com/user?id=rlonn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英美称俄罗斯支持的黑客是强大的新恶意软件的幕后黑手]]></title>
-        <id>https://news.ycombinator.com/item?id=30451381</id>
-        <link href="https://news.ycombinator.com/item?id=30451381"/>
-        <updated>2022-02-24T06:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Russia-backed hackers behind powerful new malware, UK and US say]]></summary>
-        <author>
-            <name>mitchbob</name>
-            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
         </author>
     </entry>
 </feed>
