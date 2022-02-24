@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-24T03:41:34.832Z</updated>
+    <updated>2022-02-24T03:51:19.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌Gmail因检测到恶意软件而锁定用户的电子邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=30449986</id>
+        <link href="https://news.ycombinator.com/item?id=30449986"/>
+        <updated>2022-02-24T03:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Google Gmail locking Users out of email for detected malware]]></summary>
+        <author>
+            <name>stanzheng</name>
+            <uri>https://news.ycombinator.com/user?id=stanzheng</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比尔-盖茨向戴夫解释互联网（1995）--莱特曼]]></title>
+        <id>https://news.ycombinator.com/item?id=30449948</id>
+        <link href="https://news.ycombinator.com/item?id=30449948"/>
+        <updated>2022-02-24T03:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Bill Gates Explains the Internet to Dave (1995) – Letterman]]></summary>
+        <author>
+            <name>justinzollars</name>
+            <uri>https://news.ycombinator.com/user?id=justinzollars</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赛门铁克现在说他们已经看到了新的雨刷攻击的目标]]></title>
         <id>https://news.ycombinator.com/item?id=30449929</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mrleinad</name>
             <uri>https://news.ycombinator.com/user?id=mrleinad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夜间生活的超级内向者]]></title>
-        <id>https://news.ycombinator.com/item?id=30441223</id>
-        <link href="https://news.ycombinator.com/item?id=30441223"/>
-        <updated>2022-02-23T14:22:11.000Z</updated>
-        <summary type="html"><![CDATA[The Ultra-Introverts Who Live Nocturnally]]></summary>
-        <author>
-            <name>petercooper</name>
-            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年JavaScript状态调查的结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30441207</id>
-        <link href="https://news.ycombinator.com/item?id=30441207"/>
-        <updated>2022-02-23T14:21:15.000Z</updated>
-        <summary type="html"><![CDATA[State of JavaScript Survey 2021 Results]]></summary>
-        <author>
-            <name>blinding-streak</name>
-            <uri>https://news.ycombinator.com/user?id=blinding-streak</uri>
         </author>
     </entry>
 </feed>
