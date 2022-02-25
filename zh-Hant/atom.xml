@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T03:33:21.345Z</updated>
+    <updated>2022-02-25T03:51:18.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[郵局萬歲。寄往自由]]></title>
+        <id>https://news.ycombinator.com/item?id=30463514</id>
+        <link href="https://news.ycombinator.com/item?id=30463514"/>
+        <updated>2022-02-25T03:48:30.000Z</updated>
+        <summary type="html"><![CDATA[All Hail the Post Office: Mailed to Freedom]]></summary>
+        <author>
+            <name>HR01</name>
+            <uri>https://news.ycombinator.com/user?id=HR01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年烏克蘭衝突資源--低帶寬版]]></title>
+        <id>https://news.ycombinator.com/item?id=30463505</id>
+        <link href="https://news.ycombinator.com/item?id=30463505"/>
+        <updated>2022-02-25T03:46:54.000Z</updated>
+        <summary type="html"><![CDATA[2022 Ukraine Conflict Resources – Low Bandwidth Version]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNA揭示了有史以來最大的人類家譜，可以追溯到10萬年前]]></title>
         <id>https://news.ycombinator.com/item?id=30463407</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yamrzou</name>
             <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用無代碼工具建立一個用戶驅動的烏克蘭衝突新聞聚合器]]></title>
-        <id>https://news.ycombinator.com/item?id=30453750</id>
-        <link href="https://news.ycombinator.com/item?id=30453750"/>
-        <updated>2022-02-24T12:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Built a user-driven news aggregator of the Ukraine conflict with No-code tools]]></summary>
-        <author>
-            <name>ricalanis</name>
-            <uri>https://news.ycombinator.com/user?id=ricalanis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度的家庭教育--9年家庭教育的經驗[音頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=30453747</id>
-        <link href="https://news.ycombinator.com/item?id=30453747"/>
-        <updated>2022-02-24T12:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Homeschooling In India – Experience of 9 years of homeschooling [audio]]]></summary>
-        <author>
-            <name>jjude</name>
-            <uri>https://news.ycombinator.com/user?id=jjude</uri>
         </author>
     </entry>
 </feed>
