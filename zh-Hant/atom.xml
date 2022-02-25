@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T09:53:39.699Z</updated>
+    <updated>2022-02-25T10:12:49.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[揚聲器探索者]]></title>
+        <id>https://news.ycombinator.com/item?id=30465585</id>
+        <link href="https://news.ycombinator.com/item?id=30465585"/>
+        <updated>2022-02-25T10:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Loudspeaker Explorer]]></summary>
+        <author>
+            <name>Nition</name>
+            <uri>https://news.ycombinator.com/user?id=Nition</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個幾乎完美的rsync over SSH備份腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=30465581</id>
+        <link href="https://news.ycombinator.com/item?id=30465581"/>
+        <updated>2022-02-25T10:06:13.000Z</updated>
+        <summary type="html"><![CDATA[A almost perfect rsync over SSH backup script]]></summary>
+        <author>
+            <name>bpasero</name>
+            <uri>https://news.ycombinator.com/user?id=bpasero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們正在將我們的數據庫驅動程序移植到異步Rust上]]></title>
+        <id>https://news.ycombinator.com/item?id=30465557</id>
+        <link href="https://news.ycombinator.com/item?id=30465557"/>
+        <updated>2022-02-25T10:03:19.000Z</updated>
+        <summary type="html"><![CDATA[We’re Porting Our Database Drivers to Async Rust]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭駐安卡拉大使Vasly Bodnar解釋說]]></title>
+        <id>https://news.ycombinator.com/item?id=30465509</id>
+        <link href="https://news.ycombinator.com/item?id=30465509"/>
+        <updated>2022-02-25T09:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Ambassador to Ankara Vasly Bodnar Explains]]></summary>
+        <author>
+            <name>fikrikadim</name>
+            <uri>https://news.ycombinator.com/user?id=fikrikadim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析Rust中的非大小變量]]></title>
+        <id>https://news.ycombinator.com/item?id=30465484</id>
+        <link href="https://news.ycombinator.com/item?id=30465484"/>
+        <updated>2022-02-25T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing Unsized Variables in Rust]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Datalog喝水]]></title>
+        <id>https://news.ycombinator.com/item?id=30465469</id>
+        <link href="https://news.ycombinator.com/item?id=30465469"/>
+        <updated>2022-02-25T09:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Drinking with Datalog]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram，在烏克蘭城市中最受歡迎的信使，默認為明文db。]]></title>
         <id>https://news.ycombinator.com/item?id=30465463</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>vanilla-almond</name>
             <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫斯科證券交易所 - 2022年2月24日]]></title>
-        <id>https://news.ycombinator.com/item?id=30455165</id>
-        <link href="https://news.ycombinator.com/item?id=30455165"/>
-        <updated>2022-02-24T14:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Moscow Stock Exchange – 24 February 2022]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐約時報》再推返聘]]></title>
-        <id>https://news.ycombinator.com/item?id=30455136</id>
-        <link href="https://news.ycombinator.com/item?id=30455136"/>
-        <updated>2022-02-24T14:32:37.000Z</updated>
-        <summary type="html"><![CDATA[New York Times pushing return to office again]]></summary>
-        <author>
-            <name>qwertyuiop_</name>
-            <uri>https://news.ycombinator.com/user?id=qwertyuiop_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yann LeCun關於讓人工智能系統學習和推理的願景]]></title>
-        <id>https://news.ycombinator.com/item?id=30455124</id>
-        <link href="https://news.ycombinator.com/item?id=30455124"/>
-        <updated>2022-02-24T14:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Yann LeCun on a vision to make AI systems learn and reason]]></summary>
-        <author>
-            <name>born-jre</name>
-            <uri>https://news.ycombinator.com/user?id=born-jre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭人可免簽證進入波蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=30455112</id>
-        <link href="https://news.ycombinator.com/item?id=30455112"/>
-        <updated>2022-02-24T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainians can enter Poland without visa]]></summary>
-        <author>
-            <name>qnsi</name>
-            <uri>https://news.ycombinator.com/user?id=qnsi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[標誌性的遊戲破解集團CODEX關閉了]]></title>
-        <id>https://news.ycombinator.com/item?id=30455097</id>
-        <link href="https://news.ycombinator.com/item?id=30455097"/>
-        <updated>2022-02-24T14:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Iconic Game Cracking Group CODEX Shuts Down]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計算機前面板]]></title>
-        <id>https://news.ycombinator.com/item?id=30455095</id>
-        <link href="https://news.ycombinator.com/item?id=30455095"/>
-        <updated>2022-02-24T14:28:46.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Front Panel]]></summary>
-        <author>
-            <name>elvis70</name>
-            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
         </author>
     </entry>
 </feed>

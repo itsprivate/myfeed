@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[揚聲器探索者]]></title>
+            <link>https://news.ycombinator.com/item?id=30465585</link>
+            <guid>https://news.ycombinator.com/item?id=30465585</guid>
+            <pubDate>Fri, 25 Feb 2022 10:06:46 GMT</pubDate>
+            <description><![CDATA[Loudspeaker Explorer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個幾乎完美的rsync over SSH備份腳本]]></title>
+            <link>https://news.ycombinator.com/item?id=30465581</link>
+            <guid>https://news.ycombinator.com/item?id=30465581</guid>
+            <pubDate>Fri, 25 Feb 2022 10:06:13 GMT</pubDate>
+            <description><![CDATA[A almost perfect rsync over SSH backup script]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們正在將我們的數據庫驅動程序移植到異步Rust上]]></title>
+            <link>https://news.ycombinator.com/item?id=30465557</link>
+            <guid>https://news.ycombinator.com/item?id=30465557</guid>
+            <pubDate>Fri, 25 Feb 2022 10:03:19 GMT</pubDate>
+            <description><![CDATA[We’re Porting Our Database Drivers to Async Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭駐安卡拉大使Vasly Bodnar解釋說]]></title>
+            <link>https://news.ycombinator.com/item?id=30465509</link>
+            <guid>https://news.ycombinator.com/item?id=30465509</guid>
+            <pubDate>Fri, 25 Feb 2022 09:55:32 GMT</pubDate>
+            <description><![CDATA[Ukrainian Ambassador to Ankara Vasly Bodnar Explains]]></description>
+        </item>
+        <item>
+            <title><![CDATA[分析Rust中的非大小變量]]></title>
+            <link>https://news.ycombinator.com/item?id=30465484</link>
+            <guid>https://news.ycombinator.com/item?id=30465484</guid>
+            <pubDate>Fri, 25 Feb 2022 09:51:18 GMT</pubDate>
+            <description><![CDATA[Analyzing Unsized Variables in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Datalog喝水]]></title>
+            <link>https://news.ycombinator.com/item?id=30465469</link>
+            <guid>https://news.ycombinator.com/item?id=30465469</guid>
+            <pubDate>Fri, 25 Feb 2022 09:48:46 GMT</pubDate>
+            <description><![CDATA[Drinking with Datalog]]></description>
+        </item>
         <item>
             <title><![CDATA[Telegram，在烏克蘭城市中最受歡迎的信使，默認為明文db。]]></title>
             <link>https://news.ycombinator.com/item?id=30465463</link>
@@ -4171,48 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30455168</guid>
             <pubDate>Thu, 24 Feb 2022 14:35:02 GMT</pubDate>
             <description><![CDATA[UK study of 17,000 students: One in three felt happier during lockdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[莫斯科證券交易所 - 2022年2月24日]]></title>
-            <link>https://news.ycombinator.com/item?id=30455165</link>
-            <guid>https://news.ycombinator.com/item?id=30455165</guid>
-            <pubDate>Thu, 24 Feb 2022 14:34:55 GMT</pubDate>
-            <description><![CDATA[Moscow Stock Exchange – 24 February 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約時報》再推返聘]]></title>
-            <link>https://news.ycombinator.com/item?id=30455136</link>
-            <guid>https://news.ycombinator.com/item?id=30455136</guid>
-            <pubDate>Thu, 24 Feb 2022 14:32:37 GMT</pubDate>
-            <description><![CDATA[New York Times pushing return to office again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yann LeCun關於讓人工智能系統學習和推理的願景]]></title>
-            <link>https://news.ycombinator.com/item?id=30455124</link>
-            <guid>https://news.ycombinator.com/item?id=30455124</guid>
-            <pubDate>Thu, 24 Feb 2022 14:31:04 GMT</pubDate>
-            <description><![CDATA[Yann LeCun on a vision to make AI systems learn and reason]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭人可免簽證進入波蘭]]></title>
-            <link>https://news.ycombinator.com/item?id=30455112</link>
-            <guid>https://news.ycombinator.com/item?id=30455112</guid>
-            <pubDate>Thu, 24 Feb 2022 14:30:11 GMT</pubDate>
-            <description><![CDATA[Ukrainians can enter Poland without visa]]></description>
-        </item>
-        <item>
-            <title><![CDATA[標誌性的遊戲破解集團CODEX關閉了]]></title>
-            <link>https://news.ycombinator.com/item?id=30455097</link>
-            <guid>https://news.ycombinator.com/item?id=30455097</guid>
-            <pubDate>Thu, 24 Feb 2022 14:28:51 GMT</pubDate>
-            <description><![CDATA[Iconic Game Cracking Group CODEX Shuts Down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[計算機前面板]]></title>
-            <link>https://news.ycombinator.com/item?id=30455095</link>
-            <guid>https://news.ycombinator.com/item?id=30455095</guid>
-            <pubDate>Thu, 24 Feb 2022 14:28:46 GMT</pubDate>
-            <description><![CDATA[The Computer Front Panel]]></description>
         </item>
     </channel>
 </rss>
