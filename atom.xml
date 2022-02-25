@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T08:14:23.418Z</updated>
+    <updated>2022-02-25T08:35:04.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Migra。像Diff，但适用于PostgreSQL模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30464882</id>
+        <link href="https://news.ycombinator.com/item?id=30464882"/>
+        <updated>2022-02-25T08:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Migra: Like Diff but for PostgreSQL Schemas]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhyProfiler - 用于Jupyter笔记本和Python的混合分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30464805</id>
+        <link href="https://news.ycombinator.com/item?id=30464805"/>
+        <updated>2022-02-25T08:11:10.000Z</updated>
+        <summary type="html"><![CDATA[WhyProfiler – hybrid profiler for Jupyter notebook and Python]]></summary>
+        <author>
+            <name>jgeralnik</name>
+            <uri>https://news.ycombinator.com/user?id=jgeralnik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随着欧洲战争的爆发，中国指责美国]]></title>
         <id>https://news.ycombinator.com/item?id=30464782</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>carride</name>
             <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在开放的数据库中发布所有11000种鸟类的身体测量数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30454718</id>
-        <link href="https://news.ycombinator.com/item?id=30454718"/>
-        <updated>2022-02-24T13:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Body measurements for all 11,000 bird species released in open-access database]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究揭示了轴子暗物质的情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30454712</id>
-        <link href="https://news.ycombinator.com/item?id=30454712"/>
-        <updated>2022-02-24T13:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Study sheds light on axion dark matter]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
