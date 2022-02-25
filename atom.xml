@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T08:35:04.473Z</updated>
+    <updated>2022-02-25T08:51:22.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国将使用加密货币定为犯罪--再一次]]></title>
+        <id>https://news.ycombinator.com/item?id=30465035</id>
+        <link href="https://news.ycombinator.com/item?id=30465035"/>
+        <updated>2022-02-25T08:45:42.000Z</updated>
+        <summary type="html"><![CDATA[China makes using cryptocurrency a crime – again]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[托克逊指标 0.1]]></title>
+        <id>https://news.ycombinator.com/item?id=30464949</id>
+        <link href="https://news.ycombinator.com/item?id=30464949"/>
+        <updated>2022-02-25T08:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Tokio Metrics 0.1]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Migra。像Diff，但适用于PostgreSQL模式]]></title>
         <id>https://news.ycombinator.com/item?id=30464882</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nomilk</name>
             <uri>https://news.ycombinator.com/user?id=nomilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛杉矶女子因认错人而入狱近2周]]></title>
-        <id>https://news.ycombinator.com/item?id=30454729</id>
-        <link href="https://news.ycombinator.com/item?id=30454729"/>
-        <updated>2022-02-24T14:00:27.000Z</updated>
-        <summary type="html"><![CDATA[L.A. woman jailed for nearly 2 weeks in a case of mistaken identity]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯最凶残的黑客用新的僵尸网络恶意软件感染网络设备]]></title>
-        <id>https://news.ycombinator.com/item?id=30454719</id>
-        <link href="https://news.ycombinator.com/item?id=30454719"/>
-        <updated>2022-02-24T13:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s most cutthroat hackers infect network devices with new botnet malware]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>
