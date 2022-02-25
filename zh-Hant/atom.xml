@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T07:36:32.651Z</updated>
+    <updated>2022-02-25T07:52:45.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[銀行業的保密性是貪汙腐敗的超級力量]]></title>
+        <id>https://news.ycombinator.com/item?id=30464640</id>
+        <link href="https://news.ycombinator.com/item?id=30464640"/>
+        <updated>2022-02-25T07:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Banking Secrecy Is the Superpower of Kleptocracy]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臺灣如何利用簡單的技術來幫助控制Covid-19]]></title>
         <id>https://news.ycombinator.com/item?id=30464560</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>carride</name>
             <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鳥類捕食者對模仿性獵物的味覺排斥與信號的可靠性有關]]></title>
-        <id>https://news.ycombinator.com/item?id=30454644</id>
-        <link href="https://news.ycombinator.com/item?id=30454644"/>
-        <updated>2022-02-24T13:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Avian predators taste reject mimetic prey in relation to signal reliability]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
