@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T08:51:22.709Z</updated>
+    <updated>2022-02-25T09:14:35.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拥抱混乱，不再推迟事情的发生]]></title>
+        <id>https://news.ycombinator.com/item?id=30465168</id>
+        <link href="https://news.ycombinator.com/item?id=30465168"/>
+        <updated>2022-02-25T09:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Stop postponing things by embracing the mess]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用Kubernetes来运行PostgreSQL、RabbitMQ和Redis]]></title>
+        <id>https://news.ycombinator.com/item?id=30465167</id>
+        <link href="https://news.ycombinator.com/item?id=30465167"/>
+        <updated>2022-02-25T09:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Leveraging Kubernetes to Run PostgreSQL, RabbitMQ, and Redis]]></summary>
+        <author>
+            <name>anticristi</name>
+            <uri>https://news.ycombinator.com/user?id=anticristi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cypress与Playwright的GitHub星级比较]]></title>
+        <id>https://news.ycombinator.com/item?id=30465149</id>
+        <link href="https://news.ycombinator.com/item?id=30465149"/>
+        <updated>2022-02-25T09:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Cypress vs. Playwright GitHub stars comparison]]></summary>
+        <author>
+            <name>qa-guy</name>
+            <uri>https://news.ycombinator.com/user?id=qa-guy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯正在限制所有英国航班使用其空域]]></title>
+        <id>https://news.ycombinator.com/item?id=30465136</id>
+        <link href="https://news.ycombinator.com/item?id=30465136"/>
+        <updated>2022-02-25T09:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Russia is restricting the use of its airspace for all British flights]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战蛇。为你的战蛇编程并在线竞争]]></title>
+        <id>https://news.ycombinator.com/item?id=30465122</id>
+        <link href="https://news.ycombinator.com/item?id=30465122"/>
+        <updated>2022-02-25T08:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Battlesnake: Program your Battlesnake and compete online]]></summary>
+        <author>
+            <name>xiaodai</name>
+            <uri>https://news.ycombinator.com/user?id=xiaodai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有效的团队不会保守秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=30465120</id>
+        <link href="https://news.ycombinator.com/item?id=30465120"/>
+        <updated>2022-02-25T08:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Effective Teams Don’t Keep Secrets]]></summary>
+        <author>
+            <name>adrianhoward</name>
+            <uri>https://news.ycombinator.com/user?id=adrianhoward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在云中建立一个高可用性的服务？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465071</id>
+        <link href="https://news.ycombinator.com/item?id=30465071"/>
+        <updated>2022-02-25T08:50:57.000Z</updated>
+        <summary type="html"><![CDATA[How to build a highly-available service in the Cloud?]]></summary>
+        <author>
+            <name>bluehuman</name>
+            <uri>https://news.ycombinator.com/user?id=bluehuman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国将使用加密货币定为犯罪--再一次]]></title>
         <id>https://news.ycombinator.com/item?id=30465035</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>hannliest</name>
             <uri>https://news.ycombinator.com/user?id=hannliest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家们发现了久违的大陆 "巴尔干半岛"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30454811</id>
-        <link href="https://news.ycombinator.com/item?id=30454811"/>
-        <updated>2022-02-24T14:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Scientists Discover the Long-Lost Continent ‘Balkanatolia’]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL的PARTITION BY语法的各种含义]]></title>
-        <id>https://news.ycombinator.com/item?id=30454801</id>
-        <link href="https://news.ycombinator.com/item?id=30454801"/>
-        <updated>2022-02-24T14:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Various meanings of SQL’s PARTITION BY syntax]]></summary>
-        <author>
-            <name>lukaseder</name>
-            <uri>https://news.ycombinator.com/user?id=lukaseder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用ATTINY85的原始戴尔充电器的仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30454796</id>
-        <link href="https://news.ycombinator.com/item?id=30454796"/>
-        <updated>2022-02-24T14:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Emulator of Original Dell Charger Using ATTINY85]]></summary>
-        <author>
-            <name>tentacleuno</name>
-            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北约与俄罗斯的关系。事实]]></title>
-        <id>https://news.ycombinator.com/item?id=30454781</id>
-        <link href="https://news.ycombinator.com/item?id=30454781"/>
-        <updated>2022-02-24T14:05:08.000Z</updated>
-        <summary type="html"><![CDATA[NATO-Russia Relations: The Facts]]></summary>
-        <author>
-            <name>cskau</name>
-            <uri>https://news.ycombinator.com/user?id=cskau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通过工程价值观建立强大的工程文化]]></title>
-        <id>https://news.ycombinator.com/item?id=30454773</id>
-        <link href="https://news.ycombinator.com/item?id=30454773"/>
-        <updated>2022-02-24T14:04:23.000Z</updated>
-        <summary type="html"><![CDATA[How to build a strong engineering culture through engineering values]]></summary>
-        <author>
-            <name>madamdo</name>
-            <uri>https://news.ycombinator.com/user?id=madamdo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将HTML5游戏引入Steam]]></title>
-        <id>https://news.ycombinator.com/item?id=30454767</id>
-        <link href="https://news.ycombinator.com/item?id=30454767"/>
-        <updated>2022-02-24T14:03:59.000Z</updated>
-        <summary type="html"><![CDATA[How to bring an HTML5 game to Steam]]></summary>
-        <author>
-            <name>lombarovic</name>
-            <uri>https://news.ycombinator.com/user?id=lombarovic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用30行Tidyverse代码解决了一个体育统计问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30454734</id>
-        <link href="https://news.ycombinator.com/item?id=30454734"/>
-        <updated>2022-02-24T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Sports Statistics Problem Solved in 30 Lines of Tidyverse Code]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>

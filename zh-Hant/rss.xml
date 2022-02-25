@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[擁抱混亂，不再推遲事情的發生]]></title>
+            <link>https://news.ycombinator.com/item?id=30465168</link>
+            <guid>https://news.ycombinator.com/item?id=30465168</guid>
+            <pubDate>Fri, 25 Feb 2022 09:06:09 GMT</pubDate>
+            <description><![CDATA[Stop postponing things by embracing the mess]]></description>
+        </item>
+        <item>
+            <title><![CDATA[利用Kubernetes來運行PostgreSQL、RabbitMQ和Redis]]></title>
+            <link>https://news.ycombinator.com/item?id=30465167</link>
+            <guid>https://news.ycombinator.com/item?id=30465167</guid>
+            <pubDate>Fri, 25 Feb 2022 09:06:03 GMT</pubDate>
+            <description><![CDATA[Leveraging Kubernetes to Run PostgreSQL, RabbitMQ, and Redis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cypress與Playwright的GitHub星級比較]]></title>
+            <link>https://news.ycombinator.com/item?id=30465149</link>
+            <guid>https://news.ycombinator.com/item?id=30465149</guid>
+            <pubDate>Fri, 25 Feb 2022 09:02:55 GMT</pubDate>
+            <description><![CDATA[Cypress vs. Playwright GitHub stars comparison]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯正在限制所有英國航班使用其空域]]></title>
+            <link>https://news.ycombinator.com/item?id=30465136</link>
+            <guid>https://news.ycombinator.com/item?id=30465136</guid>
+            <pubDate>Fri, 25 Feb 2022 09:00:40 GMT</pubDate>
+            <description><![CDATA[Russia is restricting the use of its airspace for all British flights]]></description>
+        </item>
+        <item>
+            <title><![CDATA[戰蛇。為你的戰蛇編程並在線競爭]]></title>
+            <link>https://news.ycombinator.com/item?id=30465122</link>
+            <guid>https://news.ycombinator.com/item?id=30465122</guid>
+            <pubDate>Fri, 25 Feb 2022 08:58:38 GMT</pubDate>
+            <description><![CDATA[Battlesnake: Program your Battlesnake and compete online]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有效的團隊不會保守秘密]]></title>
+            <link>https://news.ycombinator.com/item?id=30465120</link>
+            <guid>https://news.ycombinator.com/item?id=30465120</guid>
+            <pubDate>Fri, 25 Feb 2022 08:58:19 GMT</pubDate>
+            <description><![CDATA[Effective Teams Don’t Keep Secrets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在雲中建立一個高可用性的服務？]]></title>
+            <link>https://news.ycombinator.com/item?id=30465071</link>
+            <guid>https://news.ycombinator.com/item?id=30465071</guid>
+            <pubDate>Fri, 25 Feb 2022 08:50:57 GMT</pubDate>
+            <description><![CDATA[How to build a highly-available service in the Cloud?]]></description>
+        </item>
         <item>
             <title><![CDATA[中國將使用加密貨幣定為犯罪--再一次]]></title>
             <link>https://news.ycombinator.com/item?id=30465035</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30454843</guid>
             <pubDate>Thu, 24 Feb 2022 14:09:45 GMT</pubDate>
             <description><![CDATA[Developer Career Ambitions and Goals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科學家們發現了久違的大陸 "巴爾幹半島"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30454811</link>
-            <guid>https://news.ycombinator.com/item?id=30454811</guid>
-            <pubDate>Thu, 24 Feb 2022 14:07:20 GMT</pubDate>
-            <description><![CDATA[Scientists Discover the Long-Lost Continent ‘Balkanatolia’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SQL的PARTITION BY語法的各種含義]]></title>
-            <link>https://news.ycombinator.com/item?id=30454801</link>
-            <guid>https://news.ycombinator.com/item?id=30454801</guid>
-            <pubDate>Thu, 24 Feb 2022 14:06:09 GMT</pubDate>
-            <description><![CDATA[Various meanings of SQL’s PARTITION BY syntax]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用ATTINY85的原始戴爾充電器的仿真器]]></title>
-            <link>https://news.ycombinator.com/item?id=30454796</link>
-            <guid>https://news.ycombinator.com/item?id=30454796</guid>
-            <pubDate>Thu, 24 Feb 2022 14:05:56 GMT</pubDate>
-            <description><![CDATA[Emulator of Original Dell Charger Using ATTINY85]]></description>
-        </item>
-        <item>
-            <title><![CDATA[北約與俄羅斯的關係。事實]]></title>
-            <link>https://news.ycombinator.com/item?id=30454781</link>
-            <guid>https://news.ycombinator.com/item?id=30454781</guid>
-            <pubDate>Thu, 24 Feb 2022 14:05:08 GMT</pubDate>
-            <description><![CDATA[NATO-Russia Relations: The Facts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何通過工程價值觀建立強大的工程文化]]></title>
-            <link>https://news.ycombinator.com/item?id=30454773</link>
-            <guid>https://news.ycombinator.com/item?id=30454773</guid>
-            <pubDate>Thu, 24 Feb 2022 14:04:23 GMT</pubDate>
-            <description><![CDATA[How to build a strong engineering culture through engineering values]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何將HTML5遊戲引入Steam]]></title>
-            <link>https://news.ycombinator.com/item?id=30454767</link>
-            <guid>https://news.ycombinator.com/item?id=30454767</guid>
-            <pubDate>Thu, 24 Feb 2022 14:03:59 GMT</pubDate>
-            <description><![CDATA[How to bring an HTML5 game to Steam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用30行Tidyverse代碼解決了一個體育統計問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30454734</link>
-            <guid>https://news.ycombinator.com/item?id=30454734</guid>
-            <pubDate>Thu, 24 Feb 2022 14:01:14 GMT</pubDate>
-            <description><![CDATA[Show HN: A Sports Statistics Problem Solved in 30 Lines of Tidyverse Code]]></description>
         </item>
     </channel>
 </rss>
