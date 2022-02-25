@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T21:29:12.772Z</updated>
+    <updated>2022-02-25T21:38:27.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個人的過去和未來的心理時間旅行的時空動態]]></title>
+        <id>https://news.ycombinator.com/item?id=30472625</id>
+        <link href="https://news.ycombinator.com/item?id=30472625"/>
+        <updated>2022-02-25T21:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Spatiotemporal dynamics of mental time travel to one’s personal past and future]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giga Berlin製造的特斯拉Y型車VIN #1000的代碼中有ELON的字樣]]></title>
+        <id>https://news.ycombinator.com/item?id=30472594</id>
+        <link href="https://news.ycombinator.com/item?id=30472594"/>
+        <updated>2022-02-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Giga Berlin-made Tesla Model Y VIN #1000 has ELON in the code]]></summary>
+        <author>
+            <name>CarCooler</name>
+            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯部署移動火葬場，跟隨部隊進入戰場]]></title>
+        <id>https://news.ycombinator.com/item?id=30472585</id>
+        <link href="https://news.ycombinator.com/item?id=30472585"/>
+        <updated>2022-02-25T21:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Russia deploys mobile crematoriums to follow its troops into battle]]></summary>
+        <author>
+            <name>belltaco</name>
+            <uri>https://news.ycombinator.com/user?id=belltaco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯公共服務網站很好]]></title>
+        <id>https://news.ycombinator.com/item?id=30472571</id>
+        <link href="https://news.ycombinator.com/item?id=30472571"/>
+        <updated>2022-02-25T21:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Russia public services website is good]]></summary>
+        <author>
+            <name>matesz</name>
+            <uri>https://news.ycombinator.com/user?id=matesz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究考察加州推動計算機科學教育的效果]]></title>
         <id>https://news.ycombinator.com/item?id=30472556</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mbrubeck</name>
             <uri>https://news.ycombinator.com/user?id=mbrubeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rattlerake: 對《阿凡達》的沉思：最後的Airbender]]></title>
-        <id>https://news.ycombinator.com/item?id=30463158</id>
-        <link href="https://news.ycombinator.com/item?id=30463158"/>
-        <updated>2022-02-25T02:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Rattlerake: Meditations on Avatar: The Last Airbender]]></summary>
-        <author>
-            <name>swidi</name>
-            <uri>https://news.ycombinator.com/user?id=swidi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB to Couchbase for Developers: 第一部分。架構]]></title>
-        <id>https://news.ycombinator.com/item?id=30463126</id>
-        <link href="https://news.ycombinator.com/item?id=30463126"/>
-        <updated>2022-02-25T02:34:47.000Z</updated>
-        <summary type="html"><![CDATA[MongoDB to Couchbase for Developers: Part 1: Architecture]]></summary>
-        <author>
-            <name>keshavmr</name>
-            <uri>https://news.ycombinator.com/user?id=keshavmr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有什麼不明顯的說法]]></title>
-        <id>https://news.ycombinator.com/item?id=30463107</id>
-        <link href="https://news.ycombinator.com/item?id=30463107"/>
-        <updated>2022-02-25T02:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Nothing Non-Obvious to Say]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京在烏克蘭的賭注是否合理？]]></title>
-        <id>https://news.ycombinator.com/item?id=30463093</id>
-        <link href="https://news.ycombinator.com/item?id=30463093"/>
-        <updated>2022-02-25T02:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Is Putin’s gamble on Ukraine rational?]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
         </author>
     </entry>
 </feed>
