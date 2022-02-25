@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T05:53:17.701Z</updated>
+    <updated>2022-02-25T06:15:16.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天的除碳市場有多大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30464125</id>
+        <link href="https://news.ycombinator.com/item?id=30464125"/>
+        <updated>2022-02-25T06:02:13.000Z</updated>
+        <summary type="html"><![CDATA[How big is the carbon removal market today?]]></summary>
+        <author>
+            <name>n2parko</name>
+            <uri>https://news.ycombinator.com/user?id=n2parko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最小的二進制啟動]]></title>
+        <id>https://news.ycombinator.com/item?id=30464103</id>
+        <link href="https://news.ycombinator.com/item?id=30464103"/>
+        <updated>2022-02-25T05:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Minimal Binary Boot]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於時間：時間性錯覺如何塑造感覺的現實]]></title>
+        <id>https://news.ycombinator.com/item?id=30464098</id>
+        <link href="https://news.ycombinator.com/item?id=30464098"/>
+        <updated>2022-02-25T05:55:16.000Z</updated>
+        <summary type="html"><![CDATA[It's About Time: How Temporal Illusions Shape Felt Reality]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型/家庭辦公室網絡IPv6願望清單]]></title>
+        <id>https://news.ycombinator.com/item?id=30464085</id>
+        <link href="https://news.ycombinator.com/item?id=30464085"/>
+        <updated>2022-02-25T05:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Small / Home Office network IPv6 wish list]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在2022年加快Rust編譯器的速度]]></title>
         <id>https://news.ycombinator.com/item?id=30464050</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>sofixa</name>
             <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今為止發現的最大的細菌具有出乎意料的複雜細胞]]></title>
-        <id>https://news.ycombinator.com/item?id=30454045</id>
-        <link href="https://news.ycombinator.com/item?id=30454045"/>
-        <updated>2022-02-24T12:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Largest bacterium ever discovered has unexpectedly complex cells]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails增加了對光纖安全的ActiveRecord連接池的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30454043</id>
-        <link href="https://news.ycombinator.com/item?id=30454043"/>
-        <updated>2022-02-24T12:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Rails adds support for Fiber-safe ActiveRecord ConnectionPools]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要改革警察，就要加入警察]]></title>
-        <id>https://news.ycombinator.com/item?id=30454034</id>
-        <link href="https://news.ycombinator.com/item?id=30454034"/>
-        <updated>2022-02-24T12:49:38.000Z</updated>
-        <summary type="html"><![CDATA[To Reform the Police, Join It]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DB Lens - 適用於Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
-        <id>https://news.ycombinator.com/item?id=30454028</id>
-        <link href="https://news.ycombinator.com/item?id=30454028"/>
-        <updated>2022-02-24T12:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DB Lens – OSS Postgres GUI for Mac, Linux and Windows|ERD, Insights]]></summary>
-        <author>
-            <name>soorajsanker</name>
-            <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
         </author>
     </entry>
 </feed>
