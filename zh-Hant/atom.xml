@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T07:30:54.271Z</updated>
+    <updated>2022-02-25T07:36:32.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臺灣如何利用簡單的技術來幫助控制Covid-19]]></title>
+        <id>https://news.ycombinator.com/item?id=30464560</id>
+        <link href="https://news.ycombinator.com/item?id=30464560"/>
+        <updated>2022-02-25T07:31:17.000Z</updated>
+        <summary type="html"><![CDATA[How Taiwan used simple tech to help contain Covid-19]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析普京的帝國野心和烏克蘭300年的建國之路]]></title>
         <id>https://news.ycombinator.com/item?id=30464547</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫作並不存在於所有 "複雜 "的社會中，但它可以發出不平等的信號]]></title>
-        <id>https://news.ycombinator.com/item?id=30454643</id>
-        <link href="https://news.ycombinator.com/item?id=30454643"/>
-        <updated>2022-02-24T13:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Writing is not present in all 'complex' societies, but it can signal inequality]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
         </author>
     </entry>
 </feed>
