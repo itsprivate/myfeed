@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T19:13:57.261Z</updated>
+    <updated>2022-02-25T19:26:34.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有史以来最大的人类家谱揭示了我们的物种历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30471053</id>
+        <link href="https://news.ycombinator.com/item?id=30471053"/>
+        <updated>2022-02-25T19:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Largest ever family tree of humanity reveals our species history]]></summary>
+        <author>
+            <name>kalmuraee</name>
+            <uri>https://news.ycombinator.com/user?id=kalmuraee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食品的公司化[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30471018</id>
+        <link href="https://news.ycombinator.com/item?id=30471018"/>
+        <updated>2022-02-25T19:17:19.000Z</updated>
+        <summary type="html"><![CDATA[The Corporatization of Food [video]]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客在Nvidia的网络中，修复所有的Linux驱动程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30471005</id>
+        <link href="https://news.ycombinator.com/item?id=30471005"/>
+        <updated>2022-02-25T19:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Hackers in Nvidia’s network, fix all Linux drivers]]></summary>
+        <author>
+            <name>frogger8</name>
+            <uri>https://news.ycombinator.com/user?id=frogger8</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golang。使用Arenas进行手动内存管理的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30471004</id>
+        <link href="https://news.ycombinator.com/item?id=30471004"/>
+        <updated>2022-02-25T19:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Golang: Manual Memory Management Proposal Using Arenas]]></summary>
+        <author>
+            <name>dcu</name>
+            <uri>https://news.ycombinator.com/user?id=dcu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特基金会为Let's Encrypt和ISRG拨款100万美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30470999</id>
+        <link href="https://news.ycombinator.com/item?id=30470999"/>
+        <updated>2022-02-25T19:15:48.000Z</updated>
+        <summary type="html"><![CDATA[$1M Grant for Let's Encrypt and ISRG from Ford Foundation]]></summary>
+        <author>
+            <name>SGran</name>
+            <uri>https://news.ycombinator.com/user?id=SGran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚州的人口外流情况按州分列]]></title>
+        <id>https://news.ycombinator.com/item?id=30470966</id>
+        <link href="https://news.ycombinator.com/item?id=30470966"/>
+        <updated>2022-02-25T19:13:01.000Z</updated>
+        <summary type="html"><![CDATA[California Exodus Visualized by State]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[散文画家]]></title>
+        <id>https://news.ycombinator.com/item?id=30470960</id>
+        <link href="https://news.ycombinator.com/item?id=30470960"/>
+        <updated>2022-02-25T19:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Prose Painter]]></summary>
+        <author>
+            <name>colinprince</name>
+            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从死代码消除的角度寻找遗漏的优化方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30470880</id>
+        <link href="https://news.ycombinator.com/item?id=30470880"/>
+        <updated>2022-02-25T19:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Finding Missed Optimizations Through the Lens of Dead Code Elimination]]></summary>
+        <author>
+            <name>kzrdude</name>
+            <uri>https://news.ycombinator.com/user?id=kzrdude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的G套件不再是免费的 - 这里有最好的替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30470872</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>_JamesA_</name>
             <uri>https://news.ycombinator.com/user?id=_JamesA_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜鹊互相帮助拆除跟踪装置，阻挠科学家的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30461602</id>
-        <link href="https://news.ycombinator.com/item?id=30461602"/>
-        <updated>2022-02-24T23:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Magpies Help Each Other Remove Tracking Devices, Thwart Scientists]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克和弟弟因涉嫌内幕交易接受调查]]></title>
-        <id>https://news.ycombinator.com/item?id=30461594</id>
-        <link href="https://news.ycombinator.com/item?id=30461594"/>
-        <updated>2022-02-24T23:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk and brother under investigation for alleged insider trading]]></summary>
-        <author>
-            <name>vinni2</name>
-            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bazel混合Rust、C和编译目标]]></title>
-        <id>https://news.ycombinator.com/item?id=30461574</id>
-        <link href="https://news.ycombinator.com/item?id=30461574"/>
-        <updated>2022-02-24T23:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mix Rust, C, and compilation targets with Bazel]]></summary>
-        <author>
-            <name>DriftRegion</name>
-            <uri>https://news.ycombinator.com/user?id=DriftRegion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的伽马辐射突然增加？]]></title>
-        <id>https://news.ycombinator.com/item?id=30461521</id>
-        <link href="https://news.ycombinator.com/item?id=30461521"/>
-        <updated>2022-02-24T22:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Suddenly increased Gamma radiation in Ukraine?]]></summary>
-        <author>
-            <name>okl</name>
-            <uri>https://news.ycombinator.com/user?id=okl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌地图的实时交通显示了俄罗斯对乌克兰的入侵]]></title>
-        <id>https://news.ycombinator.com/item?id=30461514</id>
-        <link href="https://news.ycombinator.com/item?id=30461514"/>
-        <updated>2022-02-24T22:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Google Maps Live Traffic Showed the Russian Invasion of Ukraine]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[针对俄罗斯太空计划的制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30461500</id>
-        <link href="https://news.ycombinator.com/item?id=30461500"/>
-        <updated>2022-02-24T22:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Sanctions targeting Russia’s space program]]></summary>
-        <author>
-            <name>dy2t7t</name>
-            <uri>https://news.ycombinator.com/user?id=dy2t7t</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MGH的研究。大流行的封锁可能与大脑炎症有关]]></title>
-        <id>https://news.ycombinator.com/item?id=30461498</id>
-        <link href="https://news.ycombinator.com/item?id=30461498"/>
-        <updated>2022-02-24T22:56:19.000Z</updated>
-        <summary type="html"><![CDATA[MGH Study: Pandemic Lockdown May Be Linked to Brain Inflammation]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monero (XMR)僵尸网络目前每月盈利超过12万美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30461494</id>
-        <link href="https://news.ycombinator.com/item?id=30461494"/>
-        <updated>2022-02-24T22:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Monero (XMR) Botnet Currently Making over $120k/Month]]></summary>
-        <author>
-            <name>ethanpil</name>
-            <uri>https://news.ycombinator.com/user?id=ethanpil</uri>
         </author>
     </entry>
 </feed>

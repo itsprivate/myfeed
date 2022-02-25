@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 25 Feb 2022 19:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 19:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,62 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有史以來最大的人類家譜揭示了我們的物種歷史]]></title>
+            <link>https://news.ycombinator.com/item?id=30471053</link>
+            <guid>https://news.ycombinator.com/item?id=30471053</guid>
+            <pubDate>Fri, 25 Feb 2022 19:20:02 GMT</pubDate>
+            <description><![CDATA[Largest ever family tree of humanity reveals our species history]]></description>
+        </item>
+        <item>
+            <title><![CDATA[食品的公司化[視頻]]]></title>
+            <link>https://news.ycombinator.com/item?id=30471018</link>
+            <guid>https://news.ycombinator.com/item?id=30471018</guid>
+            <pubDate>Fri, 25 Feb 2022 19:17:19 GMT</pubDate>
+            <description><![CDATA[The Corporatization of Food [video]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[黑客在Nvidia的網絡中，修復所有的Linux驅動程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30471005</link>
+            <guid>https://news.ycombinator.com/item?id=30471005</guid>
+            <pubDate>Fri, 25 Feb 2022 19:16:29 GMT</pubDate>
+            <description><![CDATA[Hackers in Nvidia’s network, fix all Linux drivers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Golang。使用Arenas進行手動內存管理的建議]]></title>
+            <link>https://news.ycombinator.com/item?id=30471004</link>
+            <guid>https://news.ycombinator.com/item?id=30471004</guid>
+            <pubDate>Fri, 25 Feb 2022 19:16:20 GMT</pubDate>
+            <description><![CDATA[Golang: Manual Memory Management Proposal Using Arenas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[福特基金會為Let's Encrypt和ISRG撥款100萬美元]]></title>
+            <link>https://news.ycombinator.com/item?id=30470999</link>
+            <guid>https://news.ycombinator.com/item?id=30470999</guid>
+            <pubDate>Fri, 25 Feb 2022 19:15:48 GMT</pubDate>
+            <description><![CDATA[$1M Grant for Let's Encrypt and ISRG from Ford Foundation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加利福尼亞州的人口外流情況按州分列]]></title>
+            <link>https://news.ycombinator.com/item?id=30470966</link>
+            <guid>https://news.ycombinator.com/item?id=30470966</guid>
+            <pubDate>Fri, 25 Feb 2022 19:13:01 GMT</pubDate>
+            <description><![CDATA[California Exodus Visualized by State]]></description>
+        </item>
+        <item>
+            <title><![CDATA[散文畫家]]></title>
+            <link>https://news.ycombinator.com/item?id=30470960</link>
+            <guid>https://news.ycombinator.com/item?id=30470960</guid>
+            <pubDate>Fri, 25 Feb 2022 19:12:34 GMT</pubDate>
+            <description><![CDATA[Prose Painter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從死代碼消除的角度尋找遺漏的優化方案]]></title>
+            <link>https://news.ycombinator.com/item?id=30470880</link>
+            <guid>https://news.ycombinator.com/item?id=30470880</guid>
+            <pubDate>Fri, 25 Feb 2022 19:06:09 GMT</pubDate>
+            <description><![CDATA[Finding Missed Optimizations Through the Lens of Dead Code Elimination]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌的G套件不再是免費的 - 這裡有最好的替代品]]></title>
             <link>https://news.ycombinator.com/item?id=30470872</link>
@@ -4157,62 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30461629</guid>
             <pubDate>Thu, 24 Feb 2022 23:11:28 GMT</pubDate>
             <description><![CDATA[New fast radio burst found in area that shouldn’t have any sources]]></description>
-        </item>
-        <item>
-            <title><![CDATA[喜鵲互相幫助拆除跟蹤裝置，阻撓科學家的工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30461602</link>
-            <guid>https://news.ycombinator.com/item?id=30461602</guid>
-            <pubDate>Thu, 24 Feb 2022 23:08:56 GMT</pubDate>
-            <description><![CDATA[Magpies Help Each Other Remove Tracking Devices, Thwart Scientists]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-馬斯克和弟弟因涉嫌內幕交易接受調查]]></title>
-            <link>https://news.ycombinator.com/item?id=30461594</link>
-            <guid>https://news.ycombinator.com/item?id=30461594</guid>
-            <pubDate>Thu, 24 Feb 2022 23:07:52 GMT</pubDate>
-            <description><![CDATA[Elon Musk and brother under investigation for alleged insider trading]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
-            <link>https://news.ycombinator.com/item?id=30461574</link>
-            <guid>https://news.ycombinator.com/item?id=30461574</guid>
-            <pubDate>Thu, 24 Feb 2022 23:05:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Mix Rust, C, and compilation targets with Bazel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭的伽馬輻射突然增加？]]></title>
-            <link>https://news.ycombinator.com/item?id=30461521</link>
-            <guid>https://news.ycombinator.com/item?id=30461521</guid>
-            <pubDate>Thu, 24 Feb 2022 22:59:50 GMT</pubDate>
-            <description><![CDATA[Suddenly increased Gamma radiation in Ukraine?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌地圖的實時交通顯示了俄羅斯對烏克蘭的入侵]]></title>
-            <link>https://news.ycombinator.com/item?id=30461514</link>
-            <guid>https://news.ycombinator.com/item?id=30461514</guid>
-            <pubDate>Thu, 24 Feb 2022 22:58:39 GMT</pubDate>
-            <description><![CDATA[Google Maps Live Traffic Showed the Russian Invasion of Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[針對俄羅斯太空計劃的制裁]]></title>
-            <link>https://news.ycombinator.com/item?id=30461500</link>
-            <guid>https://news.ycombinator.com/item?id=30461500</guid>
-            <pubDate>Thu, 24 Feb 2022 22:56:36 GMT</pubDate>
-            <description><![CDATA[Sanctions targeting Russia’s space program]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MGH的研究。大流行的封鎖可能與大腦炎症有關]]></title>
-            <link>https://news.ycombinator.com/item?id=30461498</link>
-            <guid>https://news.ycombinator.com/item?id=30461498</guid>
-            <pubDate>Thu, 24 Feb 2022 22:56:19 GMT</pubDate>
-            <description><![CDATA[MGH Study: Pandemic Lockdown May Be Linked to Brain Inflammation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monero (XMR)殭屍網絡目前每月盈利超過12萬美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30461494</link>
-            <guid>https://news.ycombinator.com/item?id=30461494</guid>
-            <pubDate>Thu, 24 Feb 2022 22:55:50 GMT</pubDate>
-            <description><![CDATA[Monero (XMR) Botnet Currently Making over $120k/Month]]></description>
         </item>
     </channel>
 </rss>
