@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T14:30:32.303Z</updated>
+    <updated>2022-02-25T14:38:35.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看一下MS-DOS的Turbo C++ 3.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30467660</id>
+        <link href="https://news.ycombinator.com/item?id=30467660"/>
+        <updated>2022-02-25T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Taking a look at Turbo C++ 3.0 for MS-DOS]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於理解數控技術背後的數學的書]]></title>
+        <id>https://news.ycombinator.com/item?id=30467635</id>
+        <link href="https://news.ycombinator.com/item?id=30467635"/>
+        <updated>2022-02-25T14:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Book about understanding mathematics behind CNC]]></summary>
+        <author>
+            <name>tbt43p</name>
+            <uri>https://news.ycombinator.com/user?id=tbt43p</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在12個月內學會了法語]]></title>
         <id>https://news.ycombinator.com/item?id=30467597</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rmason</name>
             <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零知識證明能否實現第2層隱私？]]></title>
-        <id>https://news.ycombinator.com/item?id=30457058</id>
-        <link href="https://news.ycombinator.com/item?id=30457058"/>
-        <updated>2022-02-24T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Can Zero-Knowledge Proofs achieve Layer 2 privacy?]]></summary>
-        <author>
-            <name>tudor_obscuro</name>
-            <uri>https://news.ycombinator.com/user?id=tudor_obscuro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重塑一個開源項目的品牌]]></title>
-        <id>https://news.ycombinator.com/item?id=30457027</id>
-        <link href="https://news.ycombinator.com/item?id=30457027"/>
-        <updated>2022-02-24T16:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Rebranding an Open Source Project]]></summary>
-        <author>
-            <name>andreacavagna</name>
-            <uri>https://news.ycombinator.com/user?id=andreacavagna</uri>
         </author>
     </entry>
 </feed>
