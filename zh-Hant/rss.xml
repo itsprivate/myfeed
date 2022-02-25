@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 25 Feb 2022 17:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 17:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們正在將我們的數據庫驅動程序移植到異步Rust上]]></title>
+            <link>https://news.ycombinator.com/item?id=30469817</link>
+            <guid>https://news.ycombinator.com/item?id=30469817</guid>
+            <pubDate>Fri, 25 Feb 2022 17:38:14 GMT</pubDate>
+            <description><![CDATA[We’re Porting Our Database Drivers to Async Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[北約成員國]]></title>
+            <link>https://news.ycombinator.com/item?id=30469801</link>
+            <guid>https://news.ycombinator.com/item?id=30469801</guid>
+            <pubDate>Fri, 25 Feb 2022 17:37:20 GMT</pubDate>
+            <description><![CDATA[NATO Member Countries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[7年前對俄烏緊張局勢的預測準確得令人震驚]]></title>
+            <link>https://news.ycombinator.com/item?id=30469743</link>
+            <guid>https://news.ycombinator.com/item?id=30469743</guid>
+            <pubDate>Fri, 25 Feb 2022 17:31:56 GMT</pubDate>
+            <description><![CDATA[Shockingly Accurate Prediction of Russia-Ukraine Tensions 7 Years Ago]]></description>
+        </item>
         <item>
             <title><![CDATA[基於圖形的安全分析的民主化 - Starbase]]></title>
             <link>https://news.ycombinator.com/item?id=30469727</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30459909</guid>
             <pubDate>Thu, 24 Feb 2022 20:34:08 GMT</pubDate>
             <description><![CDATA[Squirrels Ala Carte]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們都是冒牌貨：這意味著沒有人真的是冒牌貨]]></title>
-            <link>https://news.ycombinator.com/item?id=30459908</link>
-            <guid>https://news.ycombinator.com/item?id=30459908</guid>
-            <pubDate>Thu, 24 Feb 2022 20:34:05 GMT</pubDate>
-            <description><![CDATA[We're All Imposters: which means no-one really is]]></description>
-        </item>
-        <item>
-            <title><![CDATA[史上第一封垃圾郵件]]></title>
-            <link>https://news.ycombinator.com/item?id=30459897</link>
-            <guid>https://news.ycombinator.com/item?id=30459897</guid>
-            <pubDate>Thu, 24 Feb 2022 20:33:05 GMT</pubDate>
-            <description><![CDATA[The first ever spam email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法國稱普京需要了解北約有核武器]]></title>
-            <link>https://news.ycombinator.com/item?id=30459855</link>
-            <guid>https://news.ycombinator.com/item?id=30459855</guid>
-            <pubDate>Thu, 24 Feb 2022 20:29:49 GMT</pubDate>
-            <description><![CDATA[France says Putin needs to understand NATO has nuclear weapons]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T17:35:09.078Z</updated>
+    <updated>2022-02-25T17:43:53.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們正在將我們的數據庫驅動程序移植到異步Rust上]]></title>
+        <id>https://news.ycombinator.com/item?id=30469817</id>
+        <link href="https://news.ycombinator.com/item?id=30469817"/>
+        <updated>2022-02-25T17:38:14.000Z</updated>
+        <summary type="html"><![CDATA[We’re Porting Our Database Drivers to Async Rust]]></summary>
+        <author>
+            <name>uberdru</name>
+            <uri>https://news.ycombinator.com/user?id=uberdru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北約成員國]]></title>
+        <id>https://news.ycombinator.com/item?id=30469801</id>
+        <link href="https://news.ycombinator.com/item?id=30469801"/>
+        <updated>2022-02-25T17:37:20.000Z</updated>
+        <summary type="html"><![CDATA[NATO Member Countries]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7年前對俄烏緊張局勢的預測準確得令人震驚]]></title>
+        <id>https://news.ycombinator.com/item?id=30469743</id>
+        <link href="https://news.ycombinator.com/item?id=30469743"/>
+        <updated>2022-02-25T17:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Shockingly Accurate Prediction of Russia-Ukraine Tensions 7 Years Ago]]></summary>
+        <author>
+            <name>deutschewelle</name>
+            <uri>https://news.ycombinator.com/user?id=deutschewelle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於圖形的安全分析的民主化 - Starbase]]></title>
         <id>https://news.ycombinator.com/item?id=30469727</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ghuntley</name>
             <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們都是冒牌貨：這意味著沒有人真的是冒牌貨]]></title>
-        <id>https://news.ycombinator.com/item?id=30459908</id>
-        <link href="https://news.ycombinator.com/item?id=30459908"/>
-        <updated>2022-02-24T20:34:05.000Z</updated>
-        <summary type="html"><![CDATA[We're All Imposters: which means no-one really is]]></summary>
-        <author>
-            <name>jroovers</name>
-            <uri>https://news.ycombinator.com/user?id=jroovers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上第一封垃圾郵件]]></title>
-        <id>https://news.ycombinator.com/item?id=30459897</id>
-        <link href="https://news.ycombinator.com/item?id=30459897"/>
-        <updated>2022-02-24T20:33:05.000Z</updated>
-        <summary type="html"><![CDATA[The first ever spam email]]></summary>
-        <author>
-            <name>nxmnxm99</name>
-            <uri>https://news.ycombinator.com/user?id=nxmnxm99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法國稱普京需要了解北約有核武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30459855</id>
-        <link href="https://news.ycombinator.com/item?id=30459855"/>
-        <updated>2022-02-24T20:29:49.000Z</updated>
-        <summary type="html"><![CDATA[France says Putin needs to understand NATO has nuclear weapons]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
         </author>
     </entry>
 </feed>
