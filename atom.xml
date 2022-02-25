@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T05:36:34.616Z</updated>
+    <updated>2022-02-25T05:53:17.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在2022年加快Rust编译器的速度]]></title>
+        <id>https://news.ycombinator.com/item?id=30464050</id>
+        <link href="https://news.ycombinator.com/item?id=30464050"/>
+        <updated>2022-02-25T05:41:17.000Z</updated>
+        <summary type="html"><![CDATA[How to speed up the Rust compiler in 2022]]></summary>
+        <author>
+            <name>nnethercote</name>
+            <uri>https://news.ycombinator.com/user?id=nnethercote</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Savelife.in.ukraine被从Patreon移除]]></title>
+        <id>https://news.ycombinator.com/item?id=30464038</id>
+        <link href="https://news.ycombinator.com/item?id=30464038"/>
+        <updated>2022-02-25T05:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Savelife.in.ukraine Was Removed from Patreon]]></summary>
+        <author>
+            <name>hyzyla</name>
+            <uri>https://news.ycombinator.com/user?id=hyzyla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[60多岁的人骑着双人自行车横跨美国3800英里。以下是我们学到的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30464021</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>soorajsanker</name>
             <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厌倦了3D打印塑料？支持这个3D金属打印机项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30454026</id>
-        <link href="https://news.ycombinator.com/item?id=30454026"/>
-        <updated>2022-02-24T12:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Tired of 3D printing plastic?. Support this 3D Metal Printer Project]]></summary>
-        <author>
-            <name>Dudjsgsk</name>
-            <uri>https://news.ycombinator.com/user?id=Dudjsgsk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在俄罗斯对乌克兰的侵略中，MacPaw的行动]]></title>
-        <id>https://news.ycombinator.com/item?id=30454024</id>
-        <link href="https://news.ycombinator.com/item?id=30454024"/>
-        <updated>2022-02-24T12:48:40.000Z</updated>
-        <summary type="html"><![CDATA[MacPaw’s Operations Amidst the Russian Aggression Against Ukraine]]></summary>
-        <author>
-            <name>docdeek</name>
-            <uri>https://news.ycombinator.com/user?id=docdeek</uri>
         </author>
     </entry>
 </feed>
