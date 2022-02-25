@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-25T10:44:55.185Z</updated>
+    <updated>2022-02-25T10:51:15.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歡迎來到536年，歷史學家和科學家認為這是 "最糟糕的一年"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30465839</id>
+        <link href="https://news.ycombinator.com/item?id=30465839"/>
+        <updated>2022-02-25T10:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to 536, what historians and scientists believe was the ‘worst year]]></summary>
+        <author>
+            <name>goldenskye</name>
+            <uri>https://news.ycombinator.com/user?id=goldenskye</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2022在Array, String, TypedArray中引入了at()方法。]]></title>
+        <id>https://news.ycombinator.com/item?id=30465827</id>
+        <link href="https://news.ycombinator.com/item?id=30465827"/>
+        <updated>2022-02-25T10:45:46.000Z</updated>
+        <summary type="html"><![CDATA[ECMAScript 2022 introduces at() method in Array, String, TypedArray]]></summary>
+        <author>
+            <name>pietromenna</name>
+            <uri>https://news.ycombinator.com/user?id=pietromenna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京警告歐洲領導人，我可以在兩週內拿下基輔 (2014)]]></title>
         <id>https://news.ycombinator.com/item?id=30465787</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否擔心GitHub應用程序的權限過高？]]></title>
-        <id>https://news.ycombinator.com/item?id=30455314</id>
-        <link href="https://news.ycombinator.com/item?id=30455314"/>
-        <updated>2022-02-24T14:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Are you concerned by excessive permissions on GitHub Apps?]]></summary>
-        <author>
-            <name>niros_valtos</name>
-            <uri>https://news.ycombinator.com/user?id=niros_valtos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傳感器的突破為地球下世界的突破性地圖鋪平道路]]></title>
-        <id>https://news.ycombinator.com/item?id=30455311</id>
-        <link href="https://news.ycombinator.com/item?id=30455311"/>
-        <updated>2022-02-24T14:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Sensor breakthrough paves way for groundbreaking map of world under Earth]]></summary>
-        <author>
-            <name>SquibblesRedux</name>
-            <uri>https://news.ycombinator.com/user?id=SquibblesRedux</uri>
         </author>
     </entry>
 </feed>
