@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T14:13:46.468Z</updated>
+    <updated>2022-02-26T14:29:25.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[国有企业机构名单]]></title>
+        <id>https://news.ycombinator.com/item?id=30477778</id>
+        <link href="https://news.ycombinator.com/item?id=30477778"/>
+        <updated>2022-02-26T14:25:27.000Z</updated>
+        <summary type="html"><![CDATA[List of SOE Establishments]]></summary>
+        <author>
+            <name>zeristor</name>
+            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尘埃落定的19号航班已经完成，并期待着20号航班的到来]]></title>
+        <id>https://news.ycombinator.com/item?id=30477764</id>
+        <link href="https://news.ycombinator.com/item?id=30477764"/>
+        <updated>2022-02-26T14:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Dusty Flight 19 Completed and Looking Ahead to Flight 20]]></summary>
+        <author>
+            <name>worldvoyageur</name>
+            <uri>https://news.ycombinator.com/user?id=worldvoyageur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutton Editor - 开发人员的备忘录编辑器 - 需要反馈意见]]></title>
+        <id>https://news.ycombinator.com/item?id=30477761</id>
+        <link href="https://news.ycombinator.com/item?id=30477761"/>
+        <updated>2022-02-26T14:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mutton Editor – A Meme Editor for Developers – Feedback Needed]]></summary>
+        <author>
+            <name>mikezhdev</name>
+            <uri>https://news.ycombinator.com/user?id=mikezhdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恒星引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30477712</id>
+        <link href="https://news.ycombinator.com/item?id=30477712"/>
+        <updated>2022-02-26T14:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Stellar Engine]]></summary>
+        <author>
+            <name>mnem</name>
+            <uri>https://news.ycombinator.com/user?id=mnem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊S3的额外校验算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30477678</id>
+        <link href="https://news.ycombinator.com/item?id=30477678"/>
+        <updated>2022-02-26T14:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Additional Checksum Algorithms for Amazon S3]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混合公钥加密]]></title>
         <id>https://news.ycombinator.com/item?id=30477654</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>MR4D</name>
             <uri>https://news.ycombinator.com/user?id=MR4D</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据拟议的英国法律，Facebook、谷歌等科技公司必须核实身份]]></title>
-        <id>https://news.ycombinator.com/item?id=30469456</id>
-        <link href="https://news.ycombinator.com/item?id=30469456"/>
-        <updated>2022-02-25T17:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Facebook, Google other tech firms must verify identities under proposed UK law]]></summary>
-        <author>
-            <name>LordAtlas</name>
-            <uri>https://news.ycombinator.com/user?id=LordAtlas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailchimp崛起为电子邮件营销霸主的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30469427</id>
-        <link href="https://news.ycombinator.com/item?id=30469427"/>
-        <updated>2022-02-25T17:05:28.000Z</updated>
-        <summary type="html"><![CDATA[The Story of Mailchimp’s Rise to Email Marketing Dominance]]></summary>
-        <author>
-            <name>limedaring</name>
-            <uri>https://news.ycombinator.com/user?id=limedaring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effection - Node和JavaScript的结构化并发框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30469420</id>
-        <link href="https://news.ycombinator.com/item?id=30469420"/>
-        <updated>2022-02-25T17:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Effection – Structured Concurrency Framework for Node and JavaScript]]></summary>
-        <author>
-            <name>tarasm</name>
-            <uri>https://news.ycombinator.com/user?id=tarasm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯向乌克兰进军，互联网出现中断]]></title>
-        <id>https://news.ycombinator.com/item?id=30469396</id>
-        <link href="https://news.ycombinator.com/item?id=30469396"/>
-        <updated>2022-02-25T17:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Internet disruptions registered as Russia moves in on Ukraine]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集成开发环境和Proc-Macros]]></title>
-        <id>https://news.ycombinator.com/item?id=30469381</id>
-        <link href="https://news.ycombinator.com/item?id=30469381"/>
-        <updated>2022-02-25T17:01:09.000Z</updated>
-        <summary type="html"><![CDATA[IDEs and Proc-Macros]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
