@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T08:45:41.226Z</updated>
+    <updated>2022-02-26T08:52:26.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[正常情況下，庫馬的設計鎖定了俄羅斯語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30476157</id>
+        <link href="https://news.ycombinator.com/item?id=30476157"/>
+        <updated>2022-02-26T08:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Uptime Kuma dev locks Russian language]]></summary>
+        <author>
+            <name>captainhook</name>
+            <uri>https://news.ycombinator.com/user?id=captainhook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現代和古代基因組的統一譜系]]></title>
+        <id>https://news.ycombinator.com/item?id=30476142</id>
+        <link href="https://news.ycombinator.com/item?id=30476142"/>
+        <updated>2022-02-26T08:44:32.000Z</updated>
+        <summary type="html"><![CDATA[A unified genealogy of modern and ancient genomes]]></summary>
+        <author>
+            <name>yasenn</name>
+            <uri>https://news.ycombinator.com/user?id=yasenn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精神病學和政治家。傲慢症候群]]></title>
+        <id>https://news.ycombinator.com/item?id=30476136</id>
+        <link href="https://news.ycombinator.com/item?id=30476136"/>
+        <updated>2022-02-26T08:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Psychiatry and Politicians: The 'Hubris Syndrome']]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以應用為導向的量子計算性能基準]]></title>
         <id>https://news.ycombinator.com/item?id=30476106</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼數據工程師要複製數據？]]></title>
-        <id>https://news.ycombinator.com/item?id=30467887</id>
-        <link href="https://news.ycombinator.com/item?id=30467887"/>
-        <updated>2022-02-25T14:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Why Do Data Engineers Replicate Data?]]></summary>
-        <author>
-            <name>Arimbr</name>
-            <uri>https://news.ycombinator.com/user?id=Arimbr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源雲平臺 - OpenStack]]></title>
-        <id>https://news.ycombinator.com/item?id=30467873</id>
-        <link href="https://news.ycombinator.com/item?id=30467873"/>
-        <updated>2022-02-25T14:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Cloud Platform – OpenStack]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scheme比C更快嗎？(≈ 2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30467860</id>
-        <link href="https://news.ycombinator.com/item?id=30467860"/>
-        <updated>2022-02-25T14:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Is Scheme Faster than C? (≈ 2004)]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
