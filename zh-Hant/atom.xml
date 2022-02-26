@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T05:36:57.893Z</updated>
+    <updated>2022-02-26T05:52:45.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[首次證明鹿的COVID分化血統和鹿對人的傳播]]></title>
+        <id>https://news.ycombinator.com/item?id=30475414</id>
+        <link href="https://news.ycombinator.com/item?id=30475414"/>
+        <updated>2022-02-26T05:34:59.000Z</updated>
+        <summary type="html"><![CDATA[First evidence of divergent COVID lineage in deer and deer-to-human transmission]]></summary>
+        <author>
+            <name>shalmanese</name>
+            <uri>https://news.ycombinator.com/user?id=shalmanese</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轉運小組]]></title>
         <id>https://news.ycombinator.com/item?id=30475410</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歡迎對烏克蘭的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30467055</id>
-        <link href="https://news.ycombinator.com/item?id=30467055"/>
-        <updated>2022-02-25T13:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Support for Ukraine Is Welcome]]></summary>
-        <author>
-            <name>axegon_</name>
-            <uri>https://news.ycombinator.com/user?id=axegon_</uri>
         </author>
     </entry>
 </feed>
