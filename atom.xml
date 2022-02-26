@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T22:30:55.192Z</updated>
+    <updated>2022-02-26T22:39:49.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新委员会将调查人工智能辅助编程的版权影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30482596</id>
+        <link href="https://news.ycombinator.com/item?id=30482596"/>
+        <updated>2022-02-26T22:27:59.000Z</updated>
+        <summary type="html"><![CDATA[New Committee Will Investigate Copyleft Implications of AI-Assisted Programming]]></summary>
+        <author>
+            <name>kerneloftruth</name>
+            <uri>https://news.ycombinator.com/user?id=kerneloftruth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白宫和欧盟针对俄罗斯政府在其他国家持有的数十亿美元的资金进行调查]]></title>
         <id>https://news.ycombinator.com/item?id=30482572</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rasengan0</name>
             <uri>https://news.ycombinator.com/user?id=rasengan0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刺杀市场]]></title>
-        <id>https://news.ycombinator.com/item?id=30473944</id>
-        <link href="https://news.ycombinator.com/item?id=30473944"/>
-        <updated>2022-02-26T00:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Assassination Market]]></summary>
-        <author>
-            <name>xqcgrek2</name>
-            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
         </author>
     </entry>
 </feed>
