@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T11:11:55.144Z</updated>
+    <updated>2022-02-26T11:28:47.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾為有幾十年歷史的實時Linux內核項目注入活力]]></title>
+        <id>https://news.ycombinator.com/item?id=30476723</id>
+        <link href="https://news.ycombinator.com/item?id=30476723"/>
+        <updated>2022-02-26T11:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Intel energizes decades-old real-time Linux kernel project]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因入侵烏克蘭而將俄羅斯從GitHub上砍掉]]></title>
+        <id>https://news.ycombinator.com/item?id=30476721</id>
+        <link href="https://news.ycombinator.com/item?id=30476721"/>
+        <updated>2022-02-26T11:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Cut Russia from GitHub due to invasion of Ukraine]]></summary>
+        <author>
+            <name>jwieczorek</name>
+            <uri>https://news.ycombinator.com/user?id=jwieczorek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晶體管級NES仿真]]></title>
+        <id>https://news.ycombinator.com/item?id=30476717</id>
+        <link href="https://news.ycombinator.com/item?id=30476717"/>
+        <updated>2022-02-26T11:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Transistor Level NES Simulation]]></summary>
+        <author>
+            <name>dreampeppers99</name>
+            <uri>https://news.ycombinator.com/user?id=dreampeppers99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Termux應用程序的漏洞披露]]></title>
+        <id>https://news.ycombinator.com/item?id=30476711</id>
+        <link href="https://news.ycombinator.com/item?id=30476711"/>
+        <updated>2022-02-26T11:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Termux Apps Vulnerability Disclosures]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡要瀏覽一下Steam Deck的Linux實施情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30476705</id>
+        <link href="https://news.ycombinator.com/item?id=30476705"/>
+        <updated>2022-02-26T11:15:20.000Z</updated>
+        <summary type="html"><![CDATA[A brief tour of the Steam Deck’s Linux implementation]]></summary>
+        <author>
+            <name>sofixa</name>
+            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實時指標顯示Twitter在俄羅斯的多個供應商上受到限制]]></title>
+        <id>https://news.ycombinator.com/item?id=30476704</id>
+        <link href="https://news.ycombinator.com/item?id=30476704"/>
+        <updated>2022-02-26T11:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Live metrics show Twitter has been restricted on multiple providers in Russia]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在家庭實驗室中使用Ansible和Nomad（第一部分）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30476690</id>
+        <link href="https://news.ycombinator.com/item?id=30476690"/>
+        <updated>2022-02-26T11:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Using Ansible and Nomad for a homelab (part 1)]]></summary>
+        <author>
+            <name>milanaleksic</name>
+            <uri>https://news.ycombinator.com/user?id=milanaleksic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯如何接管克里米亞和烏克蘭東部的互聯網]]></title>
+        <id>https://news.ycombinator.com/item?id=30476684</id>
+        <link href="https://news.ycombinator.com/item?id=30476684"/>
+        <updated>2022-02-26T11:10:16.000Z</updated>
+        <summary type="html"><![CDATA[How Russia Took over the Internet in Crimea and Eastern Ukraine]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為加密的相冊建立可共享的鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=30476681</id>
+        <link href="https://news.ycombinator.com/item?id=30476681"/>
+        <updated>2022-02-26T11:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Building shareable links for encrypted albums]]></summary>
+        <author>
+            <name>vishnumohandas</name>
+            <uri>https://news.ycombinator.com/user?id=vishnumohandas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌歐洲：我們將提供200萬美元的捐贈廣告]]></title>
         <id>https://news.ycombinator.com/item?id=30476677</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>swills</name>
             <uri>https://news.ycombinator.com/user?id=swills</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看起來維基百科被關閉了大約5分鐘。也許是一個DDoS測試？]]></title>
-        <id>https://news.ycombinator.com/item?id=30468637</id>
-        <link href="https://news.ycombinator.com/item?id=30468637"/>
-        <updated>2022-02-25T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Looks like Wikipedia was down for about 5 minutes. Perhaps a DDoS test?]]></summary>
-        <author>
-            <name>sva_</name>
-            <uri>https://news.ycombinator.com/user?id=sva_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網的歷史才剛剛開始]]></title>
-        <id>https://news.ycombinator.com/item?id=30468634</id>
-        <link href="https://news.ycombinator.com/item?id=30468634"/>
-        <updated>2022-02-25T15:58:39.000Z</updated>
-        <summary type="html"><![CDATA[The Internet’s history has just begun]]></summary>
-        <author>
-            <name>ca98am79</name>
-            <uri>https://news.ycombinator.com/user?id=ca98am79</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密碼onomicon: 在比特幣極簡主義者中]]></title>
-        <id>https://news.ycombinator.com/item?id=30468615</id>
-        <link href="https://news.ycombinator.com/item?id=30468615"/>
-        <updated>2022-02-25T15:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Cryptonomicon: Among the Bitcoin Maximalists]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用授權邏輯過濾數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30468583</id>
-        <link href="https://news.ycombinator.com/item?id=30468583"/>
-        <updated>2022-02-25T15:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Filtering data using authorization logic]]></summary>
-        <author>
-            <name>emreb</name>
-            <uri>https://news.ycombinator.com/user?id=emreb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuZero從研究進入現實世界的第一步]]></title>
-        <id>https://news.ycombinator.com/item?id=30468546</id>
-        <link href="https://news.ycombinator.com/item?id=30468546"/>
-        <updated>2022-02-25T15:51:22.000Z</updated>
-        <summary type="html"><![CDATA[MuZero’s first step from research into the real world]]></summary>
-        <author>
-            <name>tokyopanda</name>
-            <uri>https://news.ycombinator.com/user?id=tokyopanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果錢不是問題呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30468525</id>
-        <link href="https://news.ycombinator.com/item?id=30468525"/>
-        <updated>2022-02-25T15:49:18.000Z</updated>
-        <summary type="html"><![CDATA[What if money was no object?]]></summary>
-        <author>
-            <name>Ozzie_osman</name>
-            <uri>https://news.ycombinator.com/user?id=Ozzie_osman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[益百利公司遭遇數據洩露，影響到南非的數百萬人]]></title>
-        <id>https://news.ycombinator.com/item?id=30468498</id>
-        <link href="https://news.ycombinator.com/item?id=30468498"/>
-        <updated>2022-02-25T15:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Experian experienced a data breach affecting millions in South Africa]]></summary>
-        <author>
-            <name>iafrikan</name>
-            <uri>https://news.ycombinator.com/user?id=iafrikan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Cisco ASA上安裝OPNSense或Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=30468492</id>
-        <link href="https://news.ycombinator.com/item?id=30468492"/>
-        <updated>2022-02-25T15:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Install OPNSense or Linux on a Cisco ASA]]></summary>
-        <author>
-            <name>FinnVoid</name>
-            <uri>https://news.ycombinator.com/user?id=FinnVoid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們正在招募象海豹來竊聽鯨魚的聲音]]></title>
-        <id>https://news.ycombinator.com/item?id=30468491</id>
-        <link href="https://news.ycombinator.com/item?id=30468491"/>
-        <updated>2022-02-25T15:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Scientists are recruiting elephant seals to eavesdrop on whales]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
