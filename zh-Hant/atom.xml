@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T14:53:17.511Z</updated>
+    <updated>2022-02-26T15:12:03.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[字謎遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30478003</id>
+        <link href="https://news.ycombinator.com/item?id=30478003"/>
+        <updated>2022-02-26T14:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Wordle Game]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥里維埃拉瑪雅沿線的遊客、毒品和暴力]]></title>
+        <id>https://news.ycombinator.com/item?id=30477975</id>
+        <link href="https://news.ycombinator.com/item?id=30477975"/>
+        <updated>2022-02-26T14:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Along Mexico’s Riviera Maya, Tourists, Drugs and Violence]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['我很恐慌--我的孩子在哪裡？被派往烏克蘭作戰的應徵士兵]]></title>
+        <id>https://news.ycombinator.com/item?id=30477972</id>
+        <link href="https://news.ycombinator.com/item?id=30477972"/>
+        <updated>2022-02-26T14:50:17.000Z</updated>
+        <summary type="html"><![CDATA[‘I’m panicking – where is my child?’ Conscript soldiers sent to fight Ukraine]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐元區央行行長：切斷俄羅斯與SWIFT的聯繫是 "幾天的事"]]></title>
         <id>https://news.ycombinator.com/item?id=30477954</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sahil50</name>
             <uri>https://news.ycombinator.com/user?id=sahil50</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲數據流監測]]></title>
-        <id>https://news.ycombinator.com/item?id=30469701</id>
-        <link href="https://news.ycombinator.com/item?id=30469701"/>
-        <updated>2022-02-25T17:27:11.000Z</updated>
-        <summary type="html"><![CDATA[European Data Flow Monitoring]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過死代碼消除的視角尋找遺漏的優化 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30469699</id>
-        <link href="https://news.ycombinator.com/item?id=30469699"/>
-        <updated>2022-02-25T17:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Finding Missed Optimizations Through the Lens of Dead Code Elimination [pdf]]]></summary>
-        <author>
-            <name>matt_d</name>
-            <uri>https://news.ycombinator.com/user?id=matt_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晦澀難懂的HTML標籤]]></title>
-        <id>https://news.ycombinator.com/item?id=30469695</id>
-        <link href="https://news.ycombinator.com/item?id=30469695"/>
-        <updated>2022-02-25T17:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Obscure HTML Tags]]></summary>
-        <author>
-            <name>daolf</name>
-            <uri>https://news.ycombinator.com/user?id=daolf</uri>
         </author>
     </entry>
 </feed>
