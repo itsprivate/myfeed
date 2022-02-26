@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T11:36:34.399Z</updated>
+    <updated>2022-02-26T11:51:34.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯和乌克兰之间的军事差距]]></title>
+        <id>https://news.ycombinator.com/item?id=30476824</id>
+        <link href="https://news.ycombinator.com/item?id=30476824"/>
+        <updated>2022-02-26T11:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Military gap between Russia and Ukraine]]></summary>
+        <author>
+            <name>fumblebee</name>
+            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大规模仲裁攻击可能使Intuit陷入困境]]></title>
+        <id>https://news.ycombinator.com/item?id=30476820</id>
+        <link href="https://news.ycombinator.com/item?id=30476820"/>
+        <updated>2022-02-26T11:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Mass arbitration attack could bring Intuit to its knees]]></summary>
+        <author>
+            <name>radmuzom</name>
+            <uri>https://news.ycombinator.com/user?id=radmuzom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电子邮件转为电话号码 奥辛特工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30476792</id>
+        <link href="https://news.ycombinator.com/item?id=30476792"/>
+        <updated>2022-02-26T11:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Email to Phone Number Osint Tool]]></summary>
+        <author>
+            <name>Anonymous4272</name>
+            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lapsu$入侵Nvidia，Nvidia进行了一次黑客回击]]></title>
         <id>https://news.ycombinator.com/item?id=30476761</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>thedday</name>
             <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克和他的兄弟因涉嫌内幕交易而受到调查]]></title>
-        <id>https://news.ycombinator.com/item?id=30468683</id>
-        <link href="https://news.ycombinator.com/item?id=30468683"/>
-        <updated>2022-02-25T16:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk and his brother are under investigation for alleged insider trading]]></summary>
-        <author>
-            <name>etimberg</name>
-            <uri>https://news.ycombinator.com/user?id=etimberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Termux应用程序的漏洞披露]]></title>
-        <id>https://news.ycombinator.com/item?id=30468679</id>
-        <link href="https://news.ycombinator.com/item?id=30468679"/>
-        <updated>2022-02-25T16:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Termux Apps Vulnerability Disclosures]]></summary>
-        <author>
-            <name>magneticmonkey</name>
-            <uri>https://news.ycombinator.com/user?id=magneticmonkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factorio周五的事实。蒸汽甲板、Ghost Bug、文件的改进]]></title>
-        <id>https://news.ycombinator.com/item?id=30468667</id>
-        <link href="https://news.ycombinator.com/item?id=30468667"/>
-        <updated>2022-02-25T16:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Factorio Friday Facts: Steam Deck, Ghost bugs, Docs improvements]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
