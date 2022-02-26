@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 26 Feb 2022 11:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 11:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lapsu$入侵Nvidia，Nvidia进行了一次黑客回击]]></title>
+            <link>https://news.ycombinator.com/item?id=30476761</link>
+            <guid>https://news.ycombinator.com/item?id=30476761</guid>
+            <pubDate>Sat, 26 Feb 2022 11:29:18 GMT</pubDate>
+            <description><![CDATA[Lapsu$ breached Nvidia, Nvidia performed a hack back]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Django Rest框架第一部分：项目和模型]]></title>
+            <link>https://news.ycombinator.com/item?id=30476752</link>
+            <guid>https://news.ycombinator.com/item?id=30476752</guid>
+            <pubDate>Sat, 26 Feb 2022 11:27:36 GMT</pubDate>
+            <description><![CDATA[Django Rest Framework Part 1:Project and Model]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Arm中国CEO希望独立于英国母公司进行IPO]]></title>
+            <link>https://news.ycombinator.com/item?id=30476751</link>
+            <guid>https://news.ycombinator.com/item?id=30476751</guid>
+            <pubDate>Sat, 26 Feb 2022 11:26:56 GMT</pubDate>
+            <description><![CDATA[Arm China CEO Wants to IPO Independently of British Parent]]></description>
+        </item>
         <item>
             <title><![CDATA[英特尔为有几十年历史的实时Linux内核项目注入活力]]></title>
             <link>https://news.ycombinator.com/item?id=30476723</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30468667</guid>
             <pubDate>Fri, 25 Feb 2022 16:01:41 GMT</pubDate>
             <description><![CDATA[Factorio Friday Facts: Steam Deck, Ghost bugs, Docs improvements]]></description>
-        </item>
-        <item>
-            <title><![CDATA[像蝴蝶一样产生色彩 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=30468663</link>
-            <guid>https://news.ycombinator.com/item?id=30468663</guid>
-            <pubDate>Fri, 25 Feb 2022 16:01:20 GMT</pubDate>
-            <description><![CDATA[Generating color like a butterfly [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯可能利用加密货币来削弱美国制裁的力量]]></title>
-            <link>https://news.ycombinator.com/item?id=30468659</link>
-            <guid>https://news.ycombinator.com/item?id=30468659</guid>
-            <pubDate>Fri, 25 Feb 2022 16:01:01 GMT</pubDate>
-            <description><![CDATA[Russia Could Use Cryptocurrency to Blunt the Force of U.S. Sanctions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HermitCore。用于HPC和云计算的可扩展和可预测运行时间的Unikernel操作系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30468640</link>
-            <guid>https://news.ycombinator.com/item?id=30468640</guid>
-            <pubDate>Fri, 25 Feb 2022 15:59:08 GMT</pubDate>
-            <description><![CDATA[HermitCore: Unikernel OS for scalable and predictable runtime for HPC and cloud]]></description>
         </item>
     </channel>
 </rss>

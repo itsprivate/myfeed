@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T11:28:47.086Z</updated>
+    <updated>2022-02-26T11:36:34.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lapsu$入侵Nvidia，Nvidia進行了一次黑客回擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30476761</id>
+        <link href="https://news.ycombinator.com/item?id=30476761"/>
+        <updated>2022-02-26T11:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Lapsu$ breached Nvidia, Nvidia performed a hack back]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django Rest框架第一部分：項目和模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30476752</id>
+        <link href="https://news.ycombinator.com/item?id=30476752"/>
+        <updated>2022-02-26T11:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Django Rest Framework Part 1:Project and Model]]></summary>
+        <author>
+            <name>django_dev</name>
+            <uri>https://news.ycombinator.com/user?id=django_dev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm中國CEO希望獨立於英國母公司進行IPO]]></title>
+        <id>https://news.ycombinator.com/item?id=30476751</id>
+        <link href="https://news.ycombinator.com/item?id=30476751"/>
+        <updated>2022-02-26T11:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Arm China CEO Wants to IPO Independently of British Parent]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特爾為有幾十年歷史的實時Linux內核項目注入活力]]></title>
         <id>https://news.ycombinator.com/item?id=30476723</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像蝴蝶一樣產生色彩 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30468663</id>
-        <link href="https://news.ycombinator.com/item?id=30468663"/>
-        <updated>2022-02-25T16:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Generating color like a butterfly [pdf]]]></summary>
-        <author>
-            <name>wolfi1</name>
-            <uri>https://news.ycombinator.com/user?id=wolfi1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯可能利用加密貨幣來削弱美國製裁的力量]]></title>
-        <id>https://news.ycombinator.com/item?id=30468659</id>
-        <link href="https://news.ycombinator.com/item?id=30468659"/>
-        <updated>2022-02-25T16:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Russia Could Use Cryptocurrency to Blunt the Force of U.S. Sanctions]]></summary>
-        <author>
-            <name>ceiphr</name>
-            <uri>https://news.ycombinator.com/user?id=ceiphr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HermitCore。用於HPC和雲計算的可擴展和可預測運行時間的Unikernel操作系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30468640</id>
-        <link href="https://news.ycombinator.com/item?id=30468640"/>
-        <updated>2022-02-25T15:59:08.000Z</updated>
-        <summary type="html"><![CDATA[HermitCore: Unikernel OS for scalable and predictable runtime for HPC and cloud]]></summary>
-        <author>
-            <name>swills</name>
-            <uri>https://news.ycombinator.com/user?id=swills</uri>
         </author>
     </entry>
 </feed>
