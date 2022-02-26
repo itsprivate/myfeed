@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T23:39:08.278Z</updated>
+    <updated>2022-02-26T23:52:05.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新研究称冠状病毒来自武汉市场而非中国实验室]]></title>
+        <id>https://news.ycombinator.com/item?id=30483357</id>
+        <link href="https://news.ycombinator.com/item?id=30483357"/>
+        <updated>2022-02-26T23:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Coronavirus came from Wuhan market and not Chinese lab, new studies say]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸟类有语言吗？这取决于你如何定义它]]></title>
+        <id>https://news.ycombinator.com/item?id=30483342</id>
+        <link href="https://news.ycombinator.com/item?id=30483342"/>
+        <updated>2022-02-26T23:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Do birds have language? It depends on how you define it]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波音将737-Max软件外包给时薪9美元的印度工程师 (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30483251</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基辅的幽灵 "是俄罗斯入侵乌克兰的第一个城市传说]]></title>
-        <id>https://news.ycombinator.com/item?id=30474429</id>
-        <link href="https://news.ycombinator.com/item?id=30474429"/>
-        <updated>2022-02-26T01:16:04.000Z</updated>
-        <summary type="html"><![CDATA[‘The Ghost of Kyiv’ is the first urban legend of Russia’s invasion of Ukraine]]></summary>
-        <author>
-            <name>KikiCamarena</name>
-            <uri>https://news.ycombinator.com/user?id=KikiCamarena</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：我怀疑VK.com（俄罗斯主要社交网站）的影子禁止反战的帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30474418</id>
-        <link href="https://news.ycombinator.com/item?id=30474418"/>
-        <updated>2022-02-26T01:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: I suspect VK.com (main Russian social) shadow bans anti-war posts]]></summary>
-        <author>
-            <name>lostmsu</name>
-            <uri>https://news.ycombinator.com/user?id=lostmsu</uri>
         </author>
     </entry>
 </feed>
