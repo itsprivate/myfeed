@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-26T10:34:47.563Z</updated>
+    <updated>2022-02-26T10:43:50.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现代坦克的装甲有什么薄弱点吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30476571</id>
+        <link href="https://news.ycombinator.com/item?id=30476571"/>
+        <updated>2022-02-26T10:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Are there any weak spots on the armor of modern tanks?]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要跟踪bug，要修复它们]]></title>
+        <id>https://news.ycombinator.com/item?id=30476564</id>
+        <link href="https://news.ycombinator.com/item?id=30476564"/>
+        <updated>2022-02-26T10:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Don't track bugs, fix them]]></summary>
+        <author>
+            <name>royjacobs</name>
+            <uri>https://news.ycombinator.com/user?id=royjacobs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普华永道因涉及1100名审计师的考试作弊行为被罚款]]></title>
         <id>https://news.ycombinator.com/item?id=30476547</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ekianjo</name>
             <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧米茄的持久之谜：科学家正在竞相回答的四个问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30468382</id>
-        <link href="https://news.ycombinator.com/item?id=30468382"/>
-        <updated>2022-02-25T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Omicron’s lasting mysteries: four questions scientists are racing to answer]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[承诺透明的Covid数据，直到世卫组织宣布该大流行病结束。]]></title>
-        <id>https://news.ycombinator.com/item?id=30468375</id>
-        <link href="https://news.ycombinator.com/item?id=30468375"/>
-        <updated>2022-02-25T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Commit to transparent Covid data until the WHO declares the pandemic is over]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
