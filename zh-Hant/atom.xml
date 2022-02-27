@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T05:37:07.944Z</updated>
+    <updated>2022-02-27T05:51:31.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新聞媒體話語中帶有偏見的詞語的普遍性]]></title>
+        <id>https://news.ycombinator.com/item?id=30485746</id>
+        <link href="https://news.ycombinator.com/item?id=30485746"/>
+        <updated>2022-02-27T05:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Prevalence of Prejudice-Denoting Words in News Media Discourse]]></summary>
+        <author>
+            <name>anewhnaccount2</name>
+            <uri>https://news.ycombinator.com/user?id=anewhnaccount2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMFNet。AI圖像去模糊化]]></title>
+        <id>https://news.ycombinator.com/item?id=30485735</id>
+        <link href="https://news.ycombinator.com/item?id=30485735"/>
+        <updated>2022-02-27T05:45:18.000Z</updated>
+        <summary type="html"><![CDATA[CMFNet: AI Image Deblurring]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通往成功的道路是由拒絕信鋪就的]]></title>
+        <id>https://news.ycombinator.com/item?id=30485709</id>
+        <link href="https://news.ycombinator.com/item?id=30485709"/>
+        <updated>2022-02-27T05:36:56.000Z</updated>
+        <summary type="html"><![CDATA[The Road to Success Is Paved with Rejection Letters]]></summary>
+        <author>
+            <name>cloudedcordial</name>
+            <uri>https://news.ycombinator.com/user?id=cloudedcordial</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baykar Bayraktar TB2]]></title>
         <id>https://news.ycombinator.com/item?id=30485703</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏鴉悖論]]></title>
-        <id>https://news.ycombinator.com/item?id=30475729</id>
-        <link href="https://news.ycombinator.com/item?id=30475729"/>
-        <updated>2022-02-26T07:06:13.000Z</updated>
-        <summary type="html"><![CDATA[The Raven Paradox]]></summary>
-        <author>
-            <name>iNic</name>
-            <uri>https://news.ycombinator.com/user?id=iNic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有什麼不明顯的說法]]></title>
-        <id>https://news.ycombinator.com/item?id=30475725</id>
-        <link href="https://news.ycombinator.com/item?id=30475725"/>
-        <updated>2022-02-26T07:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Nothing Non-Obvious to Say]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在使用SSH蜜罐7天后學到的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30475694</id>
-        <link href="https://news.ycombinator.com/item?id=30475694"/>
-        <updated>2022-02-26T07:00:28.000Z</updated>
-        <summary type="html"><![CDATA[What I Learned After Using an SSH Honeypot for 7 Days]]></summary>
-        <author>
-            <name>LopRabbit</name>
-            <uri>https://news.ycombinator.com/user?id=LopRabbit</uri>
         </author>
     </entry>
 </feed>
