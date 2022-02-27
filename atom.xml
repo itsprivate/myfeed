@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T08:44:06.803Z</updated>
+    <updated>2022-02-27T08:52:35.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立一个低技术含量的网站。设计技巧和过程]]></title>
+        <id>https://news.ycombinator.com/item?id=30486493</id>
+        <link href="https://news.ycombinator.com/item?id=30486493"/>
+        <updated>2022-02-27T08:44:27.000Z</updated>
+        <summary type="html"><![CDATA[How to Build a Low-Tech Website: Design Techniques and Process]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack it RISC-V设计挑战]]></title>
+        <id>https://news.ycombinator.com/item?id=30486488</id>
+        <link href="https://news.ycombinator.com/item?id=30486488"/>
+        <updated>2022-02-27T08:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Hack it RISC-V Design Challenge]]></summary>
+        <author>
+            <name>btdmaster</name>
+            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚伪的政党名单]]></title>
         <id>https://news.ycombinator.com/item?id=30486479</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jrepinc</name>
             <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打开这个链接，帮助DDoS俄罗斯不良信息网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30476349</id>
-        <link href="https://news.ycombinator.com/item?id=30476349"/>
-        <updated>2022-02-26T09:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Open this link to help DDoS Russian desinformation sites]]></summary>
-        <author>
-            <name>vletal</name>
-            <uri>https://news.ycombinator.com/user?id=vletal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅洛斯之围，梅利安对话]]></title>
-        <id>https://news.ycombinator.com/item?id=30476331</id>
-        <link href="https://news.ycombinator.com/item?id=30476331"/>
-        <updated>2022-02-26T09:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Siege of Melos, the Melian Dialogue]]></summary>
-        <author>
-            <name>conistonwater</name>
-            <uri>https://news.ycombinator.com/user?id=conistonwater</uri>
         </author>
     </entry>
 </feed>
