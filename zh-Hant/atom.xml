@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T08:35:03.730Z</updated>
+    <updated>2022-02-27T08:44:06.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[虛偽的政黨名單]]></title>
+        <id>https://news.ycombinator.com/item?id=30486479</id>
+        <link href="https://news.ycombinator.com/item?id=30486479"/>
+        <updated>2022-02-27T08:40:54.000Z</updated>
+        <summary type="html"><![CDATA[List of Frivolous Political Parties]]></summary>
+        <author>
+            <name>thazework</name>
+            <uri>https://news.ycombinator.com/user?id=thazework</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿諾托夫An-225 Mriya。報道稱最大的飛機在霍斯托梅爾機場被毀]]></title>
         <id>https://news.ycombinator.com/item?id=30486431</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>conistonwater</name>
             <uri>https://news.ycombinator.com/user?id=conistonwater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波蘭外長說，俄羅斯比伊希斯更危險 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30476325</id>
-        <link href="https://news.ycombinator.com/item?id=30476325"/>
-        <updated>2022-02-26T09:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Russia is more dangerous than Isis, says Polish foreign minister (2016)]]></summary>
-        <author>
-            <name>mkl95</name>
-            <uri>https://news.ycombinator.com/user?id=mkl95</uri>
         </author>
     </entry>
 </feed>
