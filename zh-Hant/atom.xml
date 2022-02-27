@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T10:52:51.651Z</updated>
+    <updated>2022-02-27T11:12:39.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[配置Maven以運行JUnit5單元和集成測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30487159</id>
+        <link href="https://news.ycombinator.com/item?id=30487159"/>
+        <updated>2022-02-27T11:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Configuring Maven to run JUnit5 unit and integration tests]]></summary>
+        <author>
+            <name>hubertwo</name>
+            <uri>https://news.ycombinator.com/user?id=hubertwo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究表明，武漢市場是大流行病開始的中心地帶]]></title>
+        <id>https://news.ycombinator.com/item?id=30487145</id>
+        <link href="https://news.ycombinator.com/item?id=30487145"/>
+        <updated>2022-02-27T10:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Wuhan market was epicentre of pandemic’s start, studies suggest]]></summary>
+        <author>
+            <name>lgvln</name>
+            <uri>https://news.ycombinator.com/user?id=lgvln</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛大學的David Sinclair找到了青春之泉嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30487129</id>
+        <link href="https://news.ycombinator.com/item?id=30487129"/>
+        <updated>2022-02-27T10:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Has Harvard’s David Sinclair Found the Fountain of Youth?]]></summary>
+        <author>
+            <name>mxschumacher</name>
+            <uri>https://news.ycombinator.com/user?id=mxschumacher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭官方BTC錢包有200萬美元，並在全球捐贈下不斷增長]]></title>
+        <id>https://news.ycombinator.com/item?id=30487122</id>
+        <link href="https://news.ycombinator.com/item?id=30487122"/>
+        <updated>2022-02-27T10:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Official Ukrainian BTC wallet has $2M and is growing thanks to global donations]]></summary>
+        <author>
+            <name>devops000</name>
+            <uri>https://news.ycombinator.com/user?id=devops000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品牌領導力和戰略]]></title>
+        <id>https://news.ycombinator.com/item?id=30487106</id>
+        <link href="https://news.ycombinator.com/item?id=30487106"/>
+        <updated>2022-02-27T10:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Brand Leadership and Strategy]]></summary>
+        <author>
+            <name>iafrikan</name>
+            <uri>https://news.ycombinator.com/user?id=iafrikan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Socat和Rot13規避深度包檢查]]></title>
+        <id>https://news.ycombinator.com/item?id=30487104</id>
+        <link href="https://news.ycombinator.com/item?id=30487104"/>
+        <updated>2022-02-27T10:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Circumventing Deep Packet Inspection with Socat and Rot13]]></summary>
+        <author>
+            <name>jortr0n</name>
+            <uri>https://news.ycombinator.com/user?id=jortr0n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌地圖的實時交通顯示了俄羅斯對烏克蘭的入侵]]></title>
         <id>https://news.ycombinator.com/item?id=30487089</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>oskarth</name>
             <uri>https://news.ycombinator.com/user?id=oskarth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭入侵事件在網上上演，網絡偵探記錄衝突]]></title>
-        <id>https://news.ycombinator.com/item?id=30476873</id>
-        <link href="https://news.ycombinator.com/item?id=30476873"/>
-        <updated>2022-02-26T11:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine invasion plays out online as web sleuths document the conflict]]></summary>
-        <author>
-            <name>ZeroGravitas</name>
-            <uri>https://news.ycombinator.com/user?id=ZeroGravitas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[需求機"，一個基於術語重寫的新的泛型實現方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30476870</id>
-        <link href="https://news.ycombinator.com/item?id=30476870"/>
-        <updated>2022-02-26T11:57:46.000Z</updated>
-        <summary type="html"><![CDATA[The “Requirement Machine”, a new generics implementation based on term rewriting]]></summary>
-        <author>
-            <name>panic</name>
-            <uri>https://news.ycombinator.com/user?id=panic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性別歧視和戰爭之前的夥伴關係]]></title>
-        <id>https://news.ycombinator.com/item?id=30476868</id>
-        <link href="https://news.ycombinator.com/item?id=30476868"/>
-        <updated>2022-02-26T11:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Partnership Before Sexism and War]]></summary>
-        <author>
-            <name>john-doe</name>
-            <uri>https://news.ycombinator.com/user?id=john-doe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破解自閉症的睡眠難題]]></title>
-        <id>https://news.ycombinator.com/item?id=30476841</id>
-        <link href="https://news.ycombinator.com/item?id=30476841"/>
-        <updated>2022-02-26T11:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Cracking Autism’s Sleep Conundrum]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[據報道，俄羅斯船隻在英吉利海峽被扣押]]></title>
-        <id>https://news.ycombinator.com/item?id=30476832</id>
-        <link href="https://news.ycombinator.com/item?id=30476832"/>
-        <updated>2022-02-26T11:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Russian vessel reportedly seized in the English Channel]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯和烏克蘭之間的軍事差距]]></title>
-        <id>https://news.ycombinator.com/item?id=30476824</id>
-        <link href="https://news.ycombinator.com/item?id=30476824"/>
-        <updated>2022-02-26T11:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Military gap between Russia and Ukraine]]></summary>
-        <author>
-            <name>fumblebee</name>
-            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
         </author>
     </entry>
 </feed>
