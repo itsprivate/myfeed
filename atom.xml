@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T09:31:26.262Z</updated>
+    <updated>2022-02-27T09:38:05.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[采访英特尔首席执行官帕特-盖尔辛格]]></title>
+        <id>https://news.ycombinator.com/item?id=30486711</id>
+        <link href="https://news.ycombinator.com/item?id=30486711"/>
+        <updated>2022-02-27T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[An Interview with Intel CEO Pat Gelsinger]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彩色游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30486710</id>
+        <link href="https://news.ycombinator.com/item?id=30486710"/>
+        <updated>2022-02-27T09:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Color Game]]></summary>
+        <author>
+            <name>peanutcrisis</name>
+            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Plan 9中编写UTF-8程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30486708</id>
+        <link href="https://news.ycombinator.com/item?id=30486708"/>
+        <updated>2022-02-27T09:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Writing UTF-8 Programs in Plan 9]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长寿的常见问题。长寿研究的初学者指南]]></title>
         <id>https://news.ycombinator.com/item?id=30486656</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晦涩难懂的忧伤词典]]></title>
-        <id>https://news.ycombinator.com/item?id=30476541</id>
-        <link href="https://news.ycombinator.com/item?id=30476541"/>
-        <updated>2022-02-26T10:28:55.000Z</updated>
-        <summary type="html"><![CDATA[The Dictionary of Obscure Sorrows]]></summary>
-        <author>
-            <name>zeristor</name>
-            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是乌克兰人。我是一名程序员。我已经临时换了工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30476511</id>
-        <link href="https://news.ycombinator.com/item?id=30476511"/>
-        <updated>2022-02-26T10:19:30.000Z</updated>
-        <summary type="html"><![CDATA[I am Ukrainian. I am programmer. I have temporary changed the job]]></summary>
-        <author>
-            <name>jzox</name>
-            <uri>https://news.ycombinator.com/user?id=jzox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切尔诺贝利的辐射峰值可能是由俄罗斯坦克干扰灰尘造成的]]></title>
-        <id>https://news.ycombinator.com/item?id=30476498</id>
-        <link href="https://news.ycombinator.com/item?id=30476498"/>
-        <updated>2022-02-26T10:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Chernobyl radiation spike probably from Russian tanks disturbing dust]]></summary>
-        <author>
-            <name>yyyk</name>
-            <uri>https://news.ycombinator.com/user?id=yyyk</uri>
         </author>
     </entry>
 </feed>
