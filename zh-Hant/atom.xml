@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T04:57:48.432Z</updated>
+    <updated>2022-02-27T05:10:54.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漢密爾頓》中每條線路的交互式可視化（2017）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30485592</id>
+        <link href="https://news.ycombinator.com/item?id=30485592"/>
+        <updated>2022-02-27T05:06:48.000Z</updated>
+        <summary type="html"><![CDATA[An Interactive Visualization of Every Line in Hamilton (2017)]]></summary>
+        <author>
+            <name>colinprince</name>
+            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當Steam接受比特幣支付時，"50%的交易是欺詐性的]]></title>
+        <id>https://news.ycombinator.com/item?id=30485581</id>
+        <link href="https://news.ycombinator.com/item?id=30485581"/>
+        <updated>2022-02-27T05:05:03.000Z</updated>
+        <summary type="html"><![CDATA['50% of transactions were fraudulent' when Steam accepted Bitcoin for payments]]></summary>
+        <author>
+            <name>magneticmonkey</name>
+            <uri>https://news.ycombinator.com/user?id=magneticmonkey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卷積形狀推理]]></title>
         <id>https://news.ycombinator.com/item?id=30485508</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lua 虛擬化]]></title>
-        <id>https://news.ycombinator.com/item?id=30475616</id>
-        <link href="https://news.ycombinator.com/item?id=30475616"/>
-        <updated>2022-02-26T06:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Lua Devirtualization]]></summary>
-        <author>
-            <name>elvis70</name>
-            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宅男們的滑雪板。終極指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30475594</id>
-        <link href="https://news.ycombinator.com/item?id=30475594"/>
-        <updated>2022-02-26T06:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Snowboarding for Geeks: An Ultimate Guide]]></summary>
-        <author>
-            <name>superchink</name>
-            <uri>https://news.ycombinator.com/user?id=superchink</uri>
         </author>
     </entry>
 </feed>
