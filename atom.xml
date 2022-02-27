@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T05:10:54.015Z</updated>
+    <updated>2022-02-27T05:29:55.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[守门员--第一个开源的DoS保护系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30485657</id>
+        <link href="https://news.ycombinator.com/item?id=30485657"/>
+        <updated>2022-02-27T05:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Gatekeeper – the first open source DoS protection system]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的反思性控制理论和军事 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30485620</id>
+        <link href="https://news.ycombinator.com/item?id=30485620"/>
+        <updated>2022-02-27T05:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s Reflexive Control Theory and the Military [pdf]]]></summary>
+        <author>
+            <name>mrcode007</name>
+            <uri>https://news.ycombinator.com/user?id=mrcode007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要写程序语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30485604</id>
+        <link href="https://news.ycombinator.com/item?id=30485604"/>
+        <updated>2022-02-27T05:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Don't Write a Programming Language]]></summary>
+        <author>
+            <name>ghoward</name>
+            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汉密尔顿》中每条线路的交互式可视化（2017）。]]></title>
         <id>https://news.ycombinator.com/item?id=30485592</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>scottrollins</name>
             <uri>https://news.ycombinator.com/user?id=scottrollins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eng.mil.ru正在返回HTTP 418]]></title>
-        <id>https://news.ycombinator.com/item?id=30475651</id>
-        <link href="https://news.ycombinator.com/item?id=30475651"/>
-        <updated>2022-02-26T06:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Eng.mil.ru is returning HTTP 418]]></summary>
-        <author>
-            <name>robertlagrant</name>
-            <uri>https://news.ycombinator.com/user?id=robertlagrant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检测俄罗斯游客，以阻止他们，并抗议乌克兰的战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30475644</id>
-        <link href="https://news.ycombinator.com/item?id=30475644"/>
-        <updated>2022-02-26T06:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Detect Russian visitors to block them and protest the war in Ukraine]]></summary>
-        <author>
-            <name>FrenchDevRemote</name>
-            <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动态和静态多态性]]></title>
-        <id>https://news.ycombinator.com/item?id=30475638</id>
-        <link href="https://news.ycombinator.com/item?id=30475638"/>
-        <updated>2022-02-26T06:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Dynamic and Static Polymorphism]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
