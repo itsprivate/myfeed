@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T04:39:14.542Z</updated>
+    <updated>2022-02-27T04:57:48.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卷積形狀推理]]></title>
+        <id>https://news.ycombinator.com/item?id=30485508</id>
+        <link href="https://news.ycombinator.com/item?id=30485508"/>
+        <updated>2022-02-27T04:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Convolution Shape Inference]]></summary>
+        <author>
+            <name>tokyopanda</name>
+            <uri>https://news.ycombinator.com/user?id=tokyopanda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現代數據棧的下一個層次]]></title>
+        <id>https://news.ycombinator.com/item?id=30485485</id>
+        <link href="https://news.ycombinator.com/item?id=30485485"/>
+        <updated>2022-02-27T04:45:11.000Z</updated>
+        <summary type="html"><![CDATA[The next layer of the modern data stack]]></summary>
+        <author>
+            <name>duck</name>
+            <uri>https://news.ycombinator.com/user?id=duck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asyncc工作：一個加速異步工作文化的招聘網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30485453</id>
+        <link href="https://news.ycombinator.com/item?id=30485453"/>
+        <updated>2022-02-27T04:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Asyncc Jobs: a job board to accelerate async work culture]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭核威懾力的案例 (1993) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30485452</id>
+        <link href="https://news.ycombinator.com/item?id=30485452"/>
+        <updated>2022-02-27T04:38:58.000Z</updated>
+        <summary type="html"><![CDATA[The Case for a Ukraine Nuclear Deterrent (1993) [pdf]]]></summary>
+        <author>
+            <name>foolrush</name>
+            <uri>https://news.ycombinator.com/user?id=foolrush</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究提供證據證明冠狀病毒大流行始於武漢市場的動物身上]]></title>
+        <id>https://news.ycombinator.com/item?id=30485451</id>
+        <link href="https://news.ycombinator.com/item?id=30485451"/>
+        <updated>2022-02-27T04:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Studies offer evidence coronavirus pandemic began in animals in Wuhan market]]></summary>
+        <author>
+            <name>IgorPartola</name>
+            <uri>https://news.ycombinator.com/user?id=IgorPartola</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蜱蟲在昆蟲學家的實驗室裡存活了27年]]></title>
         <id>https://news.ycombinator.com/item?id=30485426</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>superchink</name>
             <uri>https://news.ycombinator.com/user?id=superchink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鑑於烏克蘭入侵，麻省理工學院放棄了與俄羅斯高科技園區的合作關係]]></title>
-        <id>https://news.ycombinator.com/item?id=30475580</id>
-        <link href="https://news.ycombinator.com/item?id=30475580"/>
-        <updated>2022-02-26T06:22:27.000Z</updated>
-        <summary type="html"><![CDATA[MIT abandons Russian high-tech campus partnership in light of Ukraine invasion]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭科技公司希望得到最好的結果，但要做最壞的打算]]></title>
-        <id>https://news.ycombinator.com/item?id=30475578</id>
-        <link href="https://news.ycombinator.com/item?id=30475578"/>
-        <updated>2022-02-26T06:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian tech companies hope for the best, plan for worst]]></summary>
-        <author>
-            <name>tokyopanda</name>
-            <uri>https://news.ycombinator.com/user?id=tokyopanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書允許讚美烏克蘭新納粹營，如果它與俄羅斯對抗的話]]></title>
-        <id>https://news.ycombinator.com/item?id=30475575</id>
-        <link href="https://news.ycombinator.com/item?id=30475575"/>
-        <updated>2022-02-26T06:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Allows Praise of Neo-Nazi Ukrainian Battalion If It Fights Russian]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅寶石光纖調度器]]></title>
-        <id>https://news.ycombinator.com/item?id=30475511</id>
-        <link href="https://news.ycombinator.com/item?id=30475511"/>
-        <updated>2022-02-26T06:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Ruby Fiber Scheduler]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼烏克蘭是西方的錯？(2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30475504</id>
-        <link href="https://news.ycombinator.com/item?id=30475504"/>
-        <updated>2022-02-26T06:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Why is Ukraine the West’s fault? (2015)]]></summary>
-        <author>
-            <name>baby</name>
-            <uri>https://news.ycombinator.com/user?id=baby</uri>
         </author>
     </entry>
 </feed>
