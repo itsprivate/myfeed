@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-02-27T10:46:04.301Z</updated>
+    <updated>2022-02-27T10:52:51.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌地圖的實時交通顯示了俄羅斯對烏克蘭的入侵]]></title>
+        <id>https://news.ycombinator.com/item?id=30487089</id>
+        <link href="https://news.ycombinator.com/item?id=30487089"/>
+        <updated>2022-02-27T10:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps Live Traffic Showed the Russian Invasion of Ukraine]]></summary>
+        <author>
+            <name>kristianpaul</name>
+            <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯的軟件公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30487073</id>
+        <link href="https://news.ycombinator.com/item?id=30487073"/>
+        <updated>2022-02-27T10:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Software Companies in Russia]]></summary>
+        <author>
+            <name>rixrax</name>
+            <uri>https://news.ycombinator.com/user?id=rixrax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉書允許讚美烏克蘭新納粹營，如果它對抗入侵的話]]></title>
         <id>https://news.ycombinator.com/item?id=30487057</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fumblebee</name>
             <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大規模仲裁攻擊可能使Intuit陷入困境]]></title>
-        <id>https://news.ycombinator.com/item?id=30476820</id>
-        <link href="https://news.ycombinator.com/item?id=30476820"/>
-        <updated>2022-02-26T11:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Mass arbitration attack could bring Intuit to its knees]]></summary>
-        <author>
-            <name>radmuzom</name>
-            <uri>https://news.ycombinator.com/user?id=radmuzom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子郵件轉為電話號碼 奧辛特工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30476792</id>
-        <link href="https://news.ycombinator.com/item?id=30476792"/>
-        <updated>2022-02-26T11:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Email to Phone Number Osint Tool]]></summary>
-        <author>
-            <name>Anonymous4272</name>
-            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
         </author>
     </entry>
 </feed>
