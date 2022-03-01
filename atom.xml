@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T06:56:39.370Z</updated>
+    <updated>2022-03-01T07:13:33.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是原始值的包装对象？]]></title>
+        <id>https://news.ycombinator.com/item?id=30510660</id>
+        <link href="https://news.ycombinator.com/item?id=30510660"/>
+        <updated>2022-03-01T07:08:09.000Z</updated>
+        <summary type="html"><![CDATA[What are wrapper objects for primitive values?]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的钱没了]]></title>
+        <id>https://news.ycombinator.com/item?id=30510641</id>
+        <link href="https://news.ycombinator.com/item?id=30510641"/>
+        <updated>2022-03-01T07:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s Money Is Gone]]></summary>
+        <author>
+            <name>tonyedgecombe</name>
+            <uri>https://news.ycombinator.com/user?id=tonyedgecombe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在SSH中使用Emacs Tramp (Emacs SSH)]]></title>
+        <id>https://news.ycombinator.com/item?id=30510598</id>
+        <link href="https://news.ycombinator.com/item?id=30510598"/>
+        <updated>2022-03-01T07:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Using Emacs Tramp for SSH (Emacs SSH)]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用数学来理解临界点（2013）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30510576</id>
+        <link href="https://news.ycombinator.com/item?id=30510576"/>
+        <updated>2022-03-01T06:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Harnessing Math to Understand Tipping Points (2013)]]></summary>
+        <author>
+            <name>ebcode</name>
+            <uri>https://news.ycombinator.com/user?id=ebcode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星加密漏洞 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30510543</id>
+        <link href="https://news.ycombinator.com/item?id=30510543"/>
+        <updated>2022-03-01T06:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Encryption Vulnerability [pdf]]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家提出暴龙有三个品种，而不仅仅是 "霸王龙"。]]></title>
         <id>https://news.ycombinator.com/item?id=30510540</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将CPU剖析和静态分析结合起来，更好地进行JupyterNotebook剖析]]></title>
-        <id>https://news.ycombinator.com/item?id=30501509</id>
-        <link href="https://news.ycombinator.com/item?id=30501509"/>
-        <updated>2022-02-28T16:14:10.000Z</updated>
-        <summary type="html"><![CDATA[Combining CPU profiling and static analysis for better JupyterNotebook profiling]]></summary>
-        <author>
-            <name>nyellin</name>
-            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mschf推出MSAT--一个具有高额现金奖励的在线MMO-SAT竞技项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30501500</id>
-        <link href="https://news.ycombinator.com/item?id=30501500"/>
-        <updated>2022-02-28T16:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Mschf Drops MSAT a competitive online MMO-SAT with big cash prize]]></summary>
-        <author>
-            <name>mtoner23</name>
-            <uri>https://news.ycombinator.com/user?id=mtoner23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是核武器还是 "流氓人工智能 "的风险更危险？]]></title>
-        <id>https://news.ycombinator.com/item?id=30501493</id>
-        <link href="https://news.ycombinator.com/item?id=30501493"/>
-        <updated>2022-02-28T16:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Are nuclear weapons or Rogue AI the more dangerous risk?]]></summary>
-        <author>
-            <name>Stronico</name>
-            <uri>https://news.ycombinator.com/user?id=Stronico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cushion--自由职业者的安心保障]]></title>
-        <id>https://news.ycombinator.com/item?id=30501490</id>
-        <link href="https://news.ycombinator.com/item?id=30501490"/>
-        <updated>2022-02-28T16:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Cushion – Peace of Mind for Freelancers]]></summary>
-        <author>
-            <name>throwoutway</name>
-            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书和推特删除针对乌克兰人的虚假信息账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30501454</id>
-        <link href="https://news.ycombinator.com/item?id=30501454"/>
-        <updated>2022-02-28T16:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Facebook, Twitter remove disinformation accounts targeting Ukrainians]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
