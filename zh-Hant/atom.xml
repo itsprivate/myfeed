@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T05:36:36.755Z</updated>
+    <updated>2022-03-01T05:52:29.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零成本的例外情況並不是零成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30510134</id>
+        <link href="https://news.ycombinator.com/item?id=30510134"/>
+        <updated>2022-03-01T05:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Zero-cost exceptions aren't zero cost]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丟失的GitHub倉庫的提交歷史圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30510132</id>
+        <link href="https://news.ycombinator.com/item?id=30510132"/>
+        <updated>2022-03-01T05:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The missing GitHub commit history graph of GitHub repos]]></summary>
+        <author>
+            <name>codefalling</name>
+            <uri>https://news.ycombinator.com/user?id=codefalling</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追蹤基輔之戰]]></title>
+        <id>https://news.ycombinator.com/item?id=30510129</id>
+        <link href="https://news.ycombinator.com/item?id=30510129"/>
+        <updated>2022-03-01T05:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Tracking the Battle for Kyiv]]></summary>
+        <author>
+            <name>nojs</name>
+            <uri>https://news.ycombinator.com/user?id=nojs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用整數線性編程解決調度問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30510098</id>
+        <link href="https://news.ycombinator.com/item?id=30510098"/>
+        <updated>2022-03-01T05:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Solving Scheduling Problems with Integer Linear Programming]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能合約是可編程的公共資源]]></title>
+        <id>https://news.ycombinator.com/item?id=30510067</id>
+        <link href="https://news.ycombinator.com/item?id=30510067"/>
+        <updated>2022-03-01T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contracts Are the Programmable Commons]]></summary>
+        <author>
+            <name>timdaub</name>
+            <uri>https://news.ycombinator.com/user?id=timdaub</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保加利亞國防部長因烏克蘭言論被解職]]></title>
+        <id>https://news.ycombinator.com/item?id=30510059</id>
+        <link href="https://news.ycombinator.com/item?id=30510059"/>
+        <updated>2022-03-01T05:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Bulgarian defence minister sacked over Ukraine rhetoric]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自德國的4700萬年前的靈長類動物]]></title>
         <id>https://news.ycombinator.com/item?id=30510037</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>FullStacks</name>
             <uri>https://news.ycombinator.com/user?id=FullStacks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月2日網絡研討會。從長期存在的環境轉向短暫存在的環境。為什麼和如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30501030</id>
-        <link href="https://news.ycombinator.com/item?id=30501030"/>
-        <updated>2022-02-28T15:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Mar. 2nd Webinar: Moving from Long-Lived to Ephemeral Environments: Why and How?]]></summary>
-        <author>
-            <name>HollyDevRel</name>
-            <uri>https://news.ycombinator.com/user?id=HollyDevRel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佐杜洛夫斯基的《沙丘》加密貨幣集體DAO想製作自己的科幻史詩]]></title>
-        <id>https://news.ycombinator.com/item?id=30501017</id>
-        <link href="https://news.ycombinator.com/item?id=30501017"/>
-        <updated>2022-02-28T15:41:12.000Z</updated>
-        <summary type="html"><![CDATA[The Jodorowsky’s Dune crypto collective DAO wants to make its own sci-fi epic]]></summary>
-        <author>
-            <name>occamschainsaw</name>
-            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[含糊不清導致衝突]]></title>
-        <id>https://news.ycombinator.com/item?id=30501005</id>
-        <link href="https://news.ycombinator.com/item?id=30501005"/>
-        <updated>2022-02-28T15:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Ambiguity Causes Conflict]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerDraw - 輕鬆繪製圖表]]></title>
-        <id>https://news.ycombinator.com/item?id=30500996</id>
-        <link href="https://news.ycombinator.com/item?id=30500996"/>
-        <updated>2022-02-28T15:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HackerDraw – Diagramming Made Easy]]></summary>
-        <author>
-            <name>akshayagarwal</name>
-            <uri>https://news.ycombinator.com/user?id=akshayagarwal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯加息一倍，盧布對美元匯率暴跌]]></title>
-        <id>https://news.ycombinator.com/item?id=30500926</id>
-        <link href="https://news.ycombinator.com/item?id=30500926"/>
-        <updated>2022-02-28T15:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Rouble plunges against US dollar as Russia doubles interest rates]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用這些編碼工具削減複製和粘貼的暴政]]></title>
-        <id>https://news.ycombinator.com/item?id=30500910</id>
-        <link href="https://news.ycombinator.com/item?id=30500910"/>
-        <updated>2022-02-28T15:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Cut the tyranny of copy-and-paste with these coding tools]]></summary>
-        <author>
-            <name>leephillips</name>
-            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
         </author>
     </entry>
 </feed>
