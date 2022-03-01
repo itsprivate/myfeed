@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T17:07:56.756Z</updated>
+    <updated>2022-03-01T17:22:20.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌關於幫助烏克蘭的聲明]]></title>
+        <id>https://news.ycombinator.com/item?id=30516804</id>
+        <link href="https://news.ycombinator.com/item?id=30516804"/>
+        <updated>2022-03-01T17:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Google on Helping Ukraine]]></summary>
+        <author>
+            <name>hardmaru</name>
+            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlightControl：Heroku的侷限性太大，價格昂貴。AWS太複雜了]]></title>
+        <id>https://news.ycombinator.com/item?id=30516740</id>
+        <link href="https://news.ycombinator.com/item?id=30516740"/>
+        <updated>2022-03-01T17:09:59.000Z</updated>
+        <summary type="html"><![CDATA[FlightControl: Heroku is too limiting and expensive. AWS is too complex]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RUI。靈感來自SwiftUI的實驗性反應式Rust UI庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30516716</id>
+        <link href="https://news.ycombinator.com/item?id=30516716"/>
+        <updated>2022-03-01T17:08:27.000Z</updated>
+        <summary type="html"><![CDATA[RUI: Experimental reactive Rust UI library inspired by SwiftUI]]></summary>
+        <author>
+            <name>adamnemecek</name>
+            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daxin：為攻擊加固網絡而設計的隱秘後門]]></title>
+        <id>https://news.ycombinator.com/item?id=30516673</id>
+        <link href="https://news.ycombinator.com/item?id=30516673"/>
+        <updated>2022-03-01T17:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks]]></summary>
+        <author>
+            <name>ilamont</name>
+            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是開發人員的生產力，以及如何衡量它？]]></title>
+        <id>https://news.ycombinator.com/item?id=30516413</id>
+        <link href="https://news.ycombinator.com/item?id=30516413"/>
+        <updated>2022-03-01T16:46:12.000Z</updated>
+        <summary type="html"><![CDATA[What is developer productivity and how to measure it?]]></summary>
+        <author>
+            <name>arthurcoudouy</name>
+            <uri>https://news.ycombinator.com/user?id=arthurcoudouy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[舊金山地方檢察官稱憤怒的精英們希望他下臺]]></title>
         <id>https://news.ycombinator.com/item?id=30516624</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡開發者團結起來挑戰蘋果應用商店的瀏覽器規則]]></title>
-        <id>https://news.ycombinator.com/item?id=30507851</id>
-        <link href="https://news.ycombinator.com/item?id=30507851"/>
-        <updated>2022-03-01T01:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Web devs rally to challenge Apple App Store browser rules]]></summary>
-        <author>
-            <name>stack_framer</name>
-            <uri>https://news.ycombinator.com/user?id=stack_framer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：我試圖支付Oracle雲的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30507846</id>
-        <link href="https://news.ycombinator.com/item?id=30507846"/>
-        <updated>2022-03-01T01:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: My tale of trying to pay for Oracle Cloud]]></summary>
-        <author>
-            <name>mfkp</name>
-            <uri>https://news.ycombinator.com/user?id=mfkp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度探討與俄羅斯建立盧比貿易賬戶以緩和制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30507819</id>
-        <link href="https://news.ycombinator.com/item?id=30507819"/>
-        <updated>2022-03-01T01:13:37.000Z</updated>
-        <summary type="html"><![CDATA[India explores setting up rupee trade accounts with Russia to soften sanctions]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關係網]]></title>
-        <id>https://news.ycombinator.com/item?id=30507803</id>
-        <link href="https://news.ycombinator.com/item?id=30507803"/>
-        <updated>2022-03-01T01:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Web of Relations]]></summary>
-        <author>
-            <name>enigmatic02</name>
-            <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國專利商標局裁定加州大學敗訴，認為是Broad研究所發明了CRISPR]]></title>
-        <id>https://news.ycombinator.com/item?id=30507799</id>
-        <link href="https://news.ycombinator.com/item?id=30507799"/>
-        <updated>2022-03-01T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[US PTO rules against Univ of California, argues that Broad Inst invented CRISPR]]></summary>
-        <author>
-            <name>dluan</name>
-            <uri>https://news.ycombinator.com/user?id=dluan</uri>
         </author>
     </entry>
 </feed>
