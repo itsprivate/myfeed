@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T21:14:41.465Z</updated>
+    <updated>2022-03-01T21:32:19.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,193 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Pdb調試Python]]></title>
+        <id>https://news.ycombinator.com/item?id=30520233</id>
+        <link href="https://news.ycombinator.com/item?id=30520233"/>
+        <updated>2022-03-01T21:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Python Debugging with Pdb]]></summary>
+        <author>
+            <name>bckr</name>
+            <uri>https://news.ycombinator.com/user?id=bckr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程學並不性感]]></title>
+        <id>https://news.ycombinator.com/item?id=30520227</id>
+        <link href="https://news.ycombinator.com/item?id=30520227"/>
+        <updated>2022-03-01T21:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Engineering Isn't Sexy]]></summary>
+        <author>
+            <name>CHB0403085482</name>
+            <uri>https://news.ycombinator.com/user?id=CHB0403085482</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維諾格拉德模式挑戰的失敗]]></title>
+        <id>https://news.ycombinator.com/item?id=30520226</id>
+        <link href="https://news.ycombinator.com/item?id=30520226"/>
+        <updated>2022-03-01T21:25:48.000Z</updated>
+        <summary type="html"><![CDATA[The Defeat of the Winograd Schema Challenge]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+            <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用NPM重寫來修復你的安全漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30520207</id>
+        <link href="https://news.ycombinator.com/item?id=30520207"/>
+        <updated>2022-03-01T21:23:53.000Z</updated>
+        <summary type="html"><![CDATA[How to Fix Your Security Vulnerabilities with NPM Overrides]]></summary>
+        <author>
+            <name>hakann</name>
+            <uri>https://news.ycombinator.com/user?id=hakann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司因烏克蘭入侵將暫停在俄羅斯的產品銷售]]></title>
+        <id>https://news.ycombinator.com/item?id=30520203</id>
+        <link href="https://news.ycombinator.com/item?id=30520203"/>
+        <updated>2022-03-01T21:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Apple to suspend product sales in Russia over Ukraine invasion]]></summary>
+        <author>
+            <name>lordnacho</name>
+            <uri>https://news.ycombinator.com/user?id=lordnacho</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布蘭登-桑德森的大秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=30520201</id>
+        <link href="https://news.ycombinator.com/item?id=30520201"/>
+        <updated>2022-03-01T21:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Brandon Sanderson's Big Secret]]></summary>
+        <author>
+            <name>tkuraku</name>
+            <uri>https://news.ycombinator.com/user?id=tkuraku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯-烏克蘭-北約的局勢]]></title>
+        <id>https://news.ycombinator.com/item?id=30520187</id>
+        <link href="https://news.ycombinator.com/item?id=30520187"/>
+        <updated>2022-03-01T21:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Russia-Ukraine-NATO Situation]]></summary>
+        <author>
+            <name>WestCoastJustin</name>
+            <uri>https://news.ycombinator.com/user?id=WestCoastJustin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust和TypeScript創建WordPress塊狀插件]]></title>
+        <id>https://news.ycombinator.com/item?id=30520153</id>
+        <link href="https://news.ycombinator.com/item?id=30520153"/>
+        <updated>2022-03-01T21:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Create WordPress block plugins with Rust and TypeScript]]></summary>
+        <author>
+            <name>kbatdorf</name>
+            <uri>https://news.ycombinator.com/user?id=kbatdorf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最後，我們知道了SLS和獵戶座的生產成本，而且它們很瘋狂。]]></title>
+        <id>https://news.ycombinator.com/item?id=30520135</id>
+        <link href="https://news.ycombinator.com/item?id=30520135"/>
+        <updated>2022-03-01T21:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Finally, we know production costs for SLS and Orion, and they’re wild]]></summary>
+        <author>
+            <name>dotnet00</name>
+            <uri>https://news.ycombinator.com/user?id=dotnet00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Stack Exchange網站上有隱藏的或不明顯的RSS提要]]></title>
+        <id>https://news.ycombinator.com/item?id=30520123</id>
+        <link href="https://news.ycombinator.com/item?id=30520123"/>
+        <updated>2022-03-01T21:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Hidden or unobvious RSS feeds available on Stack Exchange sites]]></summary>
+        <author>
+            <name>mrzool</name>
+            <uri>https://news.ycombinator.com/user?id=mrzool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克兌現對烏克蘭的星鏈網絡承諾]]></title>
+        <id>https://news.ycombinator.com/item?id=30520112</id>
+        <link href="https://news.ycombinator.com/item?id=30520112"/>
+        <updated>2022-03-01T21:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk delivers on Starlink internet promise to Ukraine]]></summary>
+        <author>
+            <name>CrankyBear</name>
+            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜魯納：雲遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30520072</id>
+        <link href="https://news.ycombinator.com/item?id=30520072"/>
+        <updated>2022-03-01T21:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Luna: Cloud Gaming]]></summary>
+        <author>
+            <name>throwthere</name>
+            <uri>https://news.ycombinator.com/user?id=throwthere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在macOS主機上比較Linux環境]]></title>
+        <id>https://news.ycombinator.com/item?id=30520070</id>
+        <link href="https://news.ycombinator.com/item?id=30520070"/>
+        <updated>2022-03-01T21:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Comparing Linux Environments on macOS Host]]></summary>
+        <author>
+            <name>dwagnerkc</name>
+            <uri>https://news.ycombinator.com/user?id=dwagnerkc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code to Cloud峰會。全球性的虛擬安全活動，為行動者服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30520057</id>
+        <link href="https://news.ycombinator.com/item?id=30520057"/>
+        <updated>2022-03-01T21:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Code to Cloud Summit: Global, virtual security event for doers]]></summary>
+        <author>
+            <name>paytononon</name>
+            <uri>https://news.ycombinator.com/user?id=paytononon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奧普發佈快速充電技術 比iPhone 13快12倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30520047</id>
+        <link href="https://news.ycombinator.com/item?id=30520047"/>
+        <updated>2022-03-01T21:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Oppo Unveils Fast Charging Technology 12x Faster Than iPhone 13]]></summary>
+        <author>
+            <name>clairity</name>
+            <uri>https://news.ycombinator.com/user?id=clairity</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres的偉大之處]]></title>
+        <id>https://news.ycombinator.com/item?id=30520046</id>
+        <link href="https://news.ycombinator.com/item?id=30520046"/>
+        <updated>2022-03-01T21:11:21.000Z</updated>
+        <summary type="html"><![CDATA[What Makes Postgres Great]]></summary>
+        <author>
+            <name>lfittl</name>
+            <uri>https://news.ycombinator.com/user?id=lfittl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息技術專家的公開信，保護烏克蘭免受信息戰之害]]></title>
+        <id>https://news.ycombinator.com/item?id=30520029</id>
+        <link href="https://news.ycombinator.com/item?id=30520029"/>
+        <updated>2022-03-01T21:09:47.000Z</updated>
+        <summary type="html"><![CDATA[An open letter from IT specialists to protect Ukraine from information warfare]]></summary>
+        <author>
+            <name>ostap0207</name>
+            <uri>https://news.ycombinator.com/user?id=ostap0207</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果暫停在俄羅斯的所有產品銷售]]></title>
         <id>https://news.ycombinator.com/item?id=30520014</id>
@@ -6426,193 +6613,6 @@
         <author>
             <name>attentive</name>
             <uri>https://news.ycombinator.com/user?id=attentive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放源碼是由OSI的開放源碼定義的]]></title>
-        <id>https://news.ycombinator.com/item?id=30512438</id>
-        <link href="https://news.ycombinator.com/item?id=30512438"/>
-        <updated>2022-03-01T10:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Is Defined by the OSI's Open Source Definition]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(現場案例分析）我如何在Shopify上建立品牌]]></title>
-        <id>https://news.ycombinator.com/item?id=30512415</id>
-        <link href="https://news.ycombinator.com/item?id=30512415"/>
-        <updated>2022-03-01T10:40:49.000Z</updated>
-        <summary type="html"><![CDATA[(Live Case Study) How I Build a Brand on Shopify]]></summary>
-        <author>
-            <name>theleanna</name>
-            <uri>https://news.ycombinator.com/user?id=theleanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鍛鍊主義和Jq]]></title>
-        <id>https://news.ycombinator.com/item?id=30512392</id>
-        <link href="https://news.ycombinator.com/item?id=30512392"/>
-        <updated>2022-03-01T10:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Exercism and Jq]]></summary>
-        <author>
-            <name>LaSombra</name>
-            <uri>https://news.ycombinator.com/user?id=LaSombra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用PyOxidizer Pants插件打包Python]]></title>
-        <id>https://news.ycombinator.com/item?id=30512391</id>
-        <link href="https://news.ycombinator.com/item?id=30512391"/>
-        <updated>2022-03-01T10:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Packaging Python with the PyOxidizer Pants Plugin]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加利福尼亞州表示，即使未接種疫苗的人現在也可以在室內不戴面具]]></title>
-        <id>https://news.ycombinator.com/item?id=30512385</id>
-        <link href="https://news.ycombinator.com/item?id=30512385"/>
-        <updated>2022-03-01T10:37:10.000Z</updated>
-        <summary type="html"><![CDATA[California says even unvaccinated can now unmask indoors]]></summary>
-        <author>
-            <name>Day1</name>
-            <uri>https://news.ycombinator.com/user?id=Day1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果可能已經錯過了視頻製作的機會]]></title>
-        <id>https://news.ycombinator.com/item?id=30512357</id>
-        <link href="https://news.ycombinator.com/item?id=30512357"/>
-        <updated>2022-03-01T10:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Apple might have missed its opportunity in video production]]></summary>
-        <author>
-            <name>LaSombra</name>
-            <uri>https://news.ycombinator.com/user?id=LaSombra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mttaggart/OffensiveNotion。作為進攻性行動平臺的概念]]></title>
-        <id>https://news.ycombinator.com/item?id=30512356</id>
-        <link href="https://news.ycombinator.com/item?id=30512356"/>
-        <updated>2022-03-01T10:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Mttaggart/OffensiveNotion: Notion as a platform for offensive operations]]></summary>
-        <author>
-            <name>pelasaco</name>
-            <uri>https://news.ycombinator.com/user?id=pelasaco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挖掘內容管理的現狀]]></title>
-        <id>https://news.ycombinator.com/item?id=30512342</id>
-        <link href="https://news.ycombinator.com/item?id=30512342"/>
-        <updated>2022-03-01T10:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Digging into the Current State of Content Management]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我應該用多大的力氣來推動自己？]]></title>
-        <id>https://news.ycombinator.com/item?id=30512318</id>
-        <link href="https://news.ycombinator.com/item?id=30512318"/>
-        <updated>2022-03-01T10:27:32.000Z</updated>
-        <summary type="html"><![CDATA[How hard should I push myself?]]></summary>
-        <author>
-            <name>janandonly</name>
-            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用GDB進行調試]]></title>
-        <id>https://news.ycombinator.com/item?id=30512302</id>
-        <link href="https://news.ycombinator.com/item?id=30512302"/>
-        <updated>2022-03-01T10:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Debugging with GDB]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UpWork封殺來自俄羅斯的自由職業者和客戶]]></title>
-        <id>https://news.ycombinator.com/item?id=30512289</id>
-        <link href="https://news.ycombinator.com/item?id=30512289"/>
-        <updated>2022-03-01T10:24:18.000Z</updated>
-        <summary type="html"><![CDATA[UpWork Blocking Freelancers and Customers from Russia]]></summary>
-        <author>
-            <name>vincent_s</name>
-            <uri>https://news.ycombinator.com/user?id=vincent_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22個閃電錢包的比較]]></title>
-        <id>https://news.ycombinator.com/item?id=30512281</id>
-        <link href="https://news.ycombinator.com/item?id=30512281"/>
-        <updated>2022-03-01T10:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Comparison of 22 Lightning Wallets]]></summary>
-        <author>
-            <name>janandonly</name>
-            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在烏克蘭作戰的12萬名俄羅斯軍人的個人資料 - 烏克蘭真理報]]></title>
-        <id>https://news.ycombinator.com/item?id=30512277</id>
-        <link href="https://news.ycombinator.com/item?id=30512277"/>
-        <updated>2022-03-01T10:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Personal data of 120k Russian servicemen fighting in Ukraine – Ukrayinska Pravda]]></summary>
-        <author>
-            <name>checkyoursudo</name>
-            <uri>https://news.ycombinator.com/user?id=checkyoursudo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AG網格公司推出主要的新平臺版本，100%採用React渲染引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30512276</id>
-        <link href="https://news.ycombinator.com/item?id=30512276"/>
-        <updated>2022-03-01T10:22:35.000Z</updated>
-        <summary type="html"><![CDATA[AG Grid rolls out major new platform version with 100% React rendering engine]]></summary>
-        <author>
-            <name>kcentropy</name>
-            <uri>https://news.ycombinator.com/user?id=kcentropy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼每個人都想在FAANG工作[視頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=30512275</id>
-        <link href="https://news.ycombinator.com/item?id=30512275"/>
-        <updated>2022-03-01T10:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Why everyone wants to work at FAANG [video]]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberdeck項目：不完全是打字機：改裝的CRT變成個人電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=30512225</id>
-        <link href="https://news.ycombinator.com/item?id=30512225"/>
-        <updated>2022-03-01T10:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Cyberdeck project: not quite a typewriter: a modified CRT turned personal PC]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordlefind - 一個幫助我玩Wordle的小工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30512223</id>
-        <link href="https://news.ycombinator.com/item?id=30512223"/>
-        <updated>2022-03-01T10:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Wordlefind – A little tool to help me play Wordle]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
