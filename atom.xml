@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T10:45:25.176Z</updated>
+    <updated>2022-03-01T10:51:26.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[X]]></title>
+        <id>https://news.ycombinator.com/item?id=30512467</id>
+        <link href="https://news.ycombinator.com/item?id=30512467"/>
+        <updated>2022-03-01T10:47:45.000Z</updated>
+        <summary type="html"><![CDATA[X]]></summary>
+        <author>
+            <name>astre9</name>
+            <uri>https://news.ycombinator.com/user?id=astre9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半数俄罗斯人表示在乌克兰使用军事力量是正确的]]></title>
+        <id>https://news.ycombinator.com/item?id=30512465</id>
+        <link href="https://news.ycombinator.com/item?id=30512465"/>
+        <updated>2022-03-01T10:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Half of Russians say it would be right to use military force in Ukraine]]></summary>
+        <author>
+            <name>attentive</name>
+            <uri>https://news.ycombinator.com/user?id=attentive</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开放源码是由OSI的开放源码定义的]]></title>
+        <id>https://news.ycombinator.com/item?id=30512438</id>
+        <link href="https://news.ycombinator.com/item?id=30512438"/>
+        <updated>2022-03-01T10:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Is Defined by the OSI's Open Source Definition]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(现场案例分析）我如何在Shopify上建立品牌]]></title>
         <id>https://news.ycombinator.com/item?id=30512415</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber在美国大型试点中修改了司机薪酬算法以吸引司机]]></title>
-        <id>https://news.ycombinator.com/item?id=30502811</id>
-        <link href="https://news.ycombinator.com/item?id=30502811"/>
-        <updated>2022-02-28T17:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Uber revamps driver pay algorithm in large U.S. pilot to attract drivers]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白俄罗斯想要核弹]]></title>
-        <id>https://news.ycombinator.com/item?id=30502809</id>
-        <link href="https://news.ycombinator.com/item?id=30502809"/>
-        <updated>2022-02-28T17:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Belarus Wants Nukes]]></summary>
-        <author>
-            <name>Txoko</name>
-            <uri>https://news.ycombinator.com/user?id=Txoko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愤怒和恐惧：十年来在实验室和现场的研究]]></title>
-        <id>https://news.ycombinator.com/item?id=30502777</id>
-        <link href="https://news.ycombinator.com/item?id=30502777"/>
-        <updated>2022-02-28T17:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Anger and fear: ten years of research in the lab and field]]></summary>
-        <author>
-            <name>swibbler</name>
-            <uri>https://news.ycombinator.com/user?id=swibbler</uri>
         </author>
     </entry>
 </feed>
