@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T09:40:40.803Z</updated>
+    <updated>2022-03-01T09:52:48.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[(EFF）敦促（FTC）调查跟踪器应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30511923</id>
+        <link href="https://news.ycombinator.com/item?id=30511923"/>
+        <updated>2022-03-01T09:44:21.000Z</updated>
+        <summary type="html"><![CDATA[(EFF) Urges (FTC) to Investigate Stalkerware App]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube将在欧洲各地封锁与俄罗斯RT和Sputnik有关的频道]]></title>
+        <id>https://news.ycombinator.com/item?id=30511865</id>
+        <link href="https://news.ycombinator.com/item?id=30511865"/>
+        <updated>2022-03-01T09:38:44.000Z</updated>
+        <summary type="html"><![CDATA[YouTube to block channels linked to Russia's RT and Sputnik across Europe]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前的制裁是否会推动俄罗斯撤出乌克兰？]]></title>
+        <id>https://news.ycombinator.com/item?id=30511863</id>
+        <link href="https://news.ycombinator.com/item?id=30511863"/>
+        <updated>2022-03-01T09:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Will the current sanctions push Russia to withdraw from Ukraine?]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由软件是包容性的]]></title>
         <id>https://news.ycombinator.com/item?id=30511835</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fork()是邪恶的；vfork()是善良的；afork()会更好；clone()是愚蠢的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30502392</id>
-        <link href="https://news.ycombinator.com/item?id=30502392"/>
-        <updated>2022-02-28T17:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid]]></summary>
-        <author>
-            <name>__s</name>
-            <uri>https://news.ycombinator.com/user?id=__s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯空军失踪的神秘案件]]></title>
-        <id>https://news.ycombinator.com/item?id=30502378</id>
-        <link href="https://news.ycombinator.com/item?id=30502378"/>
-        <updated>2022-02-28T17:25:05.000Z</updated>
-        <summary type="html"><![CDATA[The Mysterious Case of the Missing Russian Air Force]]></summary>
-        <author>
-            <name>zaltekk</name>
-            <uri>https://news.ycombinator.com/user?id=zaltekk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TorchStudio，一个免费的PyTorch开源IDE]]></title>
-        <id>https://news.ycombinator.com/item?id=30502375</id>
-        <link href="https://news.ycombinator.com/item?id=30502375"/>
-        <updated>2022-02-28T17:24:31.000Z</updated>
-        <summary type="html"><![CDATA[TorchStudio, a free open-source IDE for PyTorch]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
         </author>
     </entry>
 </feed>
