@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T15:48:49.841Z</updated>
+    <updated>2022-03-01T15:55:19.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[设计哥谭]]></title>
+        <id>https://news.ycombinator.com/item?id=30515597</id>
+        <link href="https://news.ycombinator.com/item?id=30515597"/>
+        <updated>2022-03-01T15:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Designing Gotham]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当你开始定期锻炼时，你的身体会发生什么变化]]></title>
+        <id>https://news.ycombinator.com/item?id=30515592</id>
+        <link href="https://news.ycombinator.com/item?id=30515592"/>
+        <updated>2022-03-01T15:50:20.000Z</updated>
+        <summary type="html"><![CDATA[What happens to your body when you start exercising regularly]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是的，他愿意"。菲奥娜-希尔谈普京和核问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30515584</id>
+        <link href="https://news.ycombinator.com/item?id=30515584"/>
+        <updated>2022-03-01T15:49:32.000Z</updated>
+        <summary type="html"><![CDATA[‘Yes, He Would’: Fiona Hill on Putin and Nukes]]></summary>
+        <author>
+            <name>islon</name>
+            <uri>https://news.ycombinator.com/user?id=islon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的无代码测试平台正在进行自我测试，并已获得70%的覆盖率]]></title>
+        <id>https://news.ycombinator.com/item?id=30515583</id>
+        <link href="https://news.ycombinator.com/item?id=30515583"/>
+        <updated>2022-03-01T15:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Our no-code testing platform is testing itself and already getting 70% coverage]]></summary>
+        <author>
+            <name>slayerjain</name>
+            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brackit - 基于JSONiq的可重定向JSON查询引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30515582</id>
+        <link href="https://news.ycombinator.com/item?id=30515582"/>
+        <updated>2022-03-01T15:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brackit – a retargetable JSONiq based query engine for JSON]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即时比较技术工资。介绍VanHack技术薪资计算器]]></title>
+        <id>https://news.ycombinator.com/item?id=30515554</id>
+        <link href="https://news.ycombinator.com/item?id=30515554"/>
+        <updated>2022-03-01T15:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Compare Tech Salaries Instantly: Introducing the VanHack Tech Salary Calculator]]></summary>
+        <author>
+            <name>mayyvan</name>
+            <uri>https://news.ycombinator.com/user?id=mayyvan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED]]></title>
+        <id>https://news.ycombinator.com/item?id=30515536</id>
+        <link href="https://news.ycombinator.com/item?id=30515536"/>
+        <updated>2022-03-01T15:45:18.000Z</updated>
+        <summary type="html"><![CDATA[React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愚蠢。二十世纪美学中的震惊和无聊]]></title>
         <id>https://news.ycombinator.com/item?id=30515518</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>dsugarman</name>
             <uri>https://news.ycombinator.com/user?id=dsugarman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当命令-V（或CTRL-V）是你的 "副驾驶"]]></title>
-        <id>https://news.ycombinator.com/item?id=30506330</id>
-        <link href="https://news.ycombinator.com/item?id=30506330"/>
-        <updated>2022-02-28T22:56:41.000Z</updated>
-        <summary type="html"><![CDATA[When Command-V (or CTRL-V) is your “copilot”]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18中SliceTricks的通用实现来自Go wiki]]></title>
-        <id>https://news.ycombinator.com/item?id=30506328</id>
-        <link href="https://news.ycombinator.com/item?id=30506328"/>
-        <updated>2022-02-28T22:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Go 1.18 generic implementations of SliceTricks from the Go wiki]]></summary>
-        <author>
-            <name>jamespwilliams</name>
-            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网页设计者可以用一行HTML来支持乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30506317</id>
-        <link href="https://news.ycombinator.com/item?id=30506317"/>
-        <updated>2022-02-28T22:55:38.000Z</updated>
-        <summary type="html"><![CDATA[Web devs can support Ukraine with one line of HTML]]></summary>
-        <author>
-            <name>alsargent</name>
-            <uri>https://news.ycombinator.com/user?id=alsargent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1936年的条约可能迫使土耳其在乌克兰战争中站队]]></title>
-        <id>https://news.ycombinator.com/item?id=30506307</id>
-        <link href="https://news.ycombinator.com/item?id=30506307"/>
-        <updated>2022-02-28T22:54:58.000Z</updated>
-        <summary type="html"><![CDATA[A 1936 treaty could force Turkey to take sides in the Ukraine war]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集束弹药]]></title>
-        <id>https://news.ycombinator.com/item?id=30506291</id>
-        <link href="https://news.ycombinator.com/item?id=30506291"/>
-        <updated>2022-02-28T22:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Cluster Munition]]></summary>
-        <author>
-            <name>weatherlight</name>
-            <uri>https://news.ycombinator.com/user?id=weatherlight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅塔公司将在欧盟各地限制对RT和Sputnik的访问]]></title>
-        <id>https://news.ycombinator.com/item?id=30506288</id>
-        <link href="https://news.ycombinator.com/item?id=30506288"/>
-        <updated>2022-02-28T22:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Meta to restrict access to RT and Sputnik across the EU]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌地图上，追踪入侵乌克兰的情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30506285</id>
-        <link href="https://news.ycombinator.com/item?id=30506285"/>
-        <updated>2022-02-28T22:52:59.000Z</updated>
-        <summary type="html"><![CDATA[On Google Maps, tracking the invasion of Ukraine]]></summary>
-        <author>
-            <name>thereare5lights</name>
-            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
         </author>
     </entry>
 </feed>
