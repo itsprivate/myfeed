@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-01T05:29:41.614Z</updated>
+    <updated>2022-03-01T05:36:36.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自德國的4700萬年前的靈長類動物]]></title>
+        <id>https://news.ycombinator.com/item?id=30510037</id>
+        <link href="https://news.ycombinator.com/item?id=30510037"/>
+        <updated>2022-03-01T05:32:30.000Z</updated>
+        <summary type="html"><![CDATA[The 47M Year Old Primate from Germany]]></summary>
+        <author>
+            <name>jbaum</name>
+            <uri>https://news.ycombinator.com/user?id=jbaum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網飛公司拒絕轉播俄羅斯的宣傳頻道]]></title>
         <id>https://news.ycombinator.com/item?id=30509993</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Ubuntu 14.04上用Git Hooks將Hugo網站部署到生產中去]]></title>
-        <id>https://news.ycombinator.com/item?id=30500905</id>
-        <link href="https://news.ycombinator.com/item?id=30500905"/>
-        <updated>2022-02-28T15:33:34.000Z</updated>
-        <summary type="html"><![CDATA[How to Deploy a Hugo Site to Production with Git Hooks on Ubuntu 14.04]]></summary>
-        <author>
-            <name>nsarker</name>
-            <uri>https://news.ycombinator.com/user?id=nsarker</uri>
         </author>
     </entry>
 </feed>
