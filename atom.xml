@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-02T08:55:55.450Z</updated>
+    <updated>2022-03-02T09:12:04.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[铁幕后的日本料理]]></title>
+        <id>https://news.ycombinator.com/item?id=30525354</id>
+        <link href="https://news.ycombinator.com/item?id=30525354"/>
+        <updated>2022-03-02T09:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Japanese Cuisine Behind the Iron Curtain]]></summary>
+        <author>
+            <name>tontonius</name>
+            <uri>https://news.ycombinator.com/user?id=tontonius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰正在向ETH捐赠者进行空投]]></title>
+        <id>https://news.ycombinator.com/item?id=30525324</id>
+        <link href="https://news.ycombinator.com/item?id=30525324"/>
+        <updated>2022-03-02T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine is doing an airdrop to ETH donors]]></summary>
+        <author>
+            <name>exolymph</name>
+            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弗兰克-米勒：一次性垫子的发明者]]></title>
+        <id>https://news.ycombinator.com/item?id=30525297</id>
+        <link href="https://news.ycombinator.com/item?id=30525297"/>
+        <updated>2022-03-02T08:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Frank Miller: Inventor of the One-Time Pad]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京禁止携带超过1万美元的外币离开俄罗斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30525294</id>
+        <link href="https://news.ycombinator.com/item?id=30525294"/>
+        <updated>2022-03-02T08:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Putin prohibits leaving Russia with more than $10k in foreign currency]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司停止在俄罗斯的在线商店的所有销售活动]]></title>
+        <id>https://news.ycombinator.com/item?id=30525264</id>
+        <link href="https://news.ycombinator.com/item?id=30525264"/>
+        <updated>2022-03-02T08:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Apple Halts All Sales from Online Store in Russia]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否更换或停止使用GitHub机器人？我们想了解你的行动]]></title>
         <id>https://news.ycombinator.com/item?id=30525238</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>sahillavingia</name>
             <uri>https://news.ycombinator.com/user?id=sahillavingia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nukemap已关闭]]></title>
-        <id>https://news.ycombinator.com/item?id=30516807</id>
-        <link href="https://news.ycombinator.com/item?id=30516807"/>
-        <updated>2022-03-01T17:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Nukemap Is Down]]></summary>
-        <author>
-            <name>flandolfi</name>
-            <uri>https://news.ycombinator.com/user?id=flandolfi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌关于帮助乌克兰的声明]]></title>
-        <id>https://news.ycombinator.com/item?id=30516804</id>
-        <link href="https://news.ycombinator.com/item?id=30516804"/>
-        <updated>2022-03-01T17:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Google on Helping Ukraine]]></summary>
-        <author>
-            <name>hardmaru</name>
-            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯已经取消了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30516793</id>
-        <link href="https://news.ycombinator.com/item?id=30516793"/>
-        <updated>2022-03-01T17:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Has Russia Been Canceled?]]></summary>
-        <author>
-            <name>docdeek</name>
-            <uri>https://news.ycombinator.com/user?id=docdeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenWRT 21.02.2发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30516787</id>
-        <link href="https://news.ycombinator.com/item?id=30516787"/>
-        <updated>2022-03-01T17:12:42.000Z</updated>
-        <summary type="html"><![CDATA[OpenWRT 21.02.2 Released]]></summary>
-        <author>
-            <name>9front</name>
-            <uri>https://news.ycombinator.com/user?id=9front</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlightControl：Heroku的局限性太大，价格昂贵。AWS太复杂了]]></title>
-        <id>https://news.ycombinator.com/item?id=30516740</id>
-        <link href="https://news.ycombinator.com/item?id=30516740"/>
-        <updated>2022-03-01T17:09:59.000Z</updated>
-        <summary type="html"><![CDATA[FlightControl: Heroku is too limiting and expensive. AWS is too complex]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
