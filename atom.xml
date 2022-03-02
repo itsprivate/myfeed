@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-02T10:53:25.523Z</updated>
+    <updated>2022-03-02T11:13:37.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基辅的幽灵]]></title>
+        <id>https://news.ycombinator.com/item?id=30526027</id>
+        <link href="https://news.ycombinator.com/item?id=30526027"/>
+        <updated>2022-03-02T11:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Ghost of Kyiv]]></summary>
+        <author>
+            <name>hutrdvnj</name>
+            <uri>https://news.ycombinator.com/user?id=hutrdvnj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 4.6]]></title>
+        <id>https://news.ycombinator.com/item?id=30526013</id>
+        <link href="https://news.ycombinator.com/item?id=30526013"/>
+        <updated>2022-03-02T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript 4.6]]></summary>
+        <author>
+            <name>soheilpro</name>
+            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OAuth2.0客户端_凭证流程与Smallstep TLS客户端认证]]></title>
+        <id>https://news.ycombinator.com/item?id=30526000</id>
+        <link href="https://news.ycombinator.com/item?id=30526000"/>
+        <updated>2022-03-02T11:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OAuth2.0 client_credentials flow with Smallstep TLS client auth]]></summary>
+        <author>
+            <name>jothac</name>
+            <uri>https://news.ycombinator.com/user?id=jothac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰披露俄罗斯政府黑客的电话信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30525982</id>
+        <link href="https://news.ycombinator.com/item?id=30525982"/>
+        <updated>2022-03-02T11:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Doxes Russian Government Hackers’ Phone Calls]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要只写纯文本（长期性与真实性）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30525974</id>
+        <link href="https://news.ycombinator.com/item?id=30525974"/>
+        <updated>2022-03-02T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Don't Write Just in Plain Text (Longevity vs. Authenticity)]]></summary>
+        <author>
+            <name>yumiris</name>
+            <uri>https://news.ycombinator.com/user?id=yumiris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS汽车集团发布新的AutoSD发行版]]></title>
+        <id>https://news.ycombinator.com/item?id=30525944</id>
+        <link href="https://news.ycombinator.com/item?id=30525944"/>
+        <updated>2022-03-02T10:52:13.000Z</updated>
+        <summary type="html"><![CDATA[CentOS Automotive SIG Announces New AutoSD Distro]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被破解的Smartmatic]]></title>
         <id>https://news.ycombinator.com/item?id=30525923</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>nabla9</name>
             <uri>https://news.ycombinator.com/user?id=nabla9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯举行核潜艇和陆基导弹演习]]></title>
-        <id>https://news.ycombinator.com/item?id=30517503</id>
-        <link href="https://news.ycombinator.com/item?id=30517503"/>
-        <updated>2022-03-01T18:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Russia holds drills with nuclear subs, land-based missiles]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新思考移动应用监控]]></title>
-        <id>https://news.ycombinator.com/item?id=30517487</id>
-        <link href="https://news.ycombinator.com/item?id=30517487"/>
-        <updated>2022-03-01T17:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Rethinking Mobile App Monitoring]]></summary>
-        <author>
-            <name>jastr</name>
-            <uri>https://news.ycombinator.com/user?id=jastr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PopSQL获老虎环球1400万美元A轮融资，帮助数据团队合作]]></title>
-        <id>https://news.ycombinator.com/item?id=30517486</id>
-        <link href="https://news.ycombinator.com/item?id=30517486"/>
-        <updated>2022-03-01T17:59:25.000Z</updated>
-        <summary type="html"><![CDATA[PopSQL Raises $14M Series A from Tiger Global to Help Data Teams Collaborate]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解和改善开发者体验的可操作框架 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30517485</id>
-        <link href="https://news.ycombinator.com/item?id=30517485"/>
-        <updated>2022-03-01T17:59:18.000Z</updated>
-        <summary type="html"><![CDATA[An Actionable Framework for Understanding and Improving Developer Experience [pdf]]]></summary>
-        <author>
-            <name>mxstbr</name>
-            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯银行的SSL证书被Thawte（DigiCert）撤销]]></title>
-        <id>https://news.ycombinator.com/item?id=30517483</id>
-        <link href="https://news.ycombinator.com/item?id=30517483"/>
-        <updated>2022-03-01T17:59:09.000Z</updated>
-        <summary type="html"><![CDATA[SSL certificate of Russian banks got revoked by Thawte (DigiCert)]]></summary>
-        <author>
-            <name>aveline</name>
-            <uri>https://news.ycombinator.com/user?id=aveline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涉及元平台的诉讼]]></title>
-        <id>https://news.ycombinator.com/item?id=30517427</id>
-        <link href="https://news.ycombinator.com/item?id=30517427"/>
-        <updated>2022-03-01T17:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuits Involving Meta Platforms]]></summary>
-        <author>
-            <name>neya</name>
-            <uri>https://news.ycombinator.com/user?id=neya</uri>
         </author>
     </entry>
 </feed>
