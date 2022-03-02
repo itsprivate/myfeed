@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-02T11:30:20.909Z</updated>
+    <updated>2022-03-02T11:37:49.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[敏捷框架并不是目的。它们是起点]]></title>
+        <id>https://news.ycombinator.com/item?id=30526126</id>
+        <link href="https://news.ycombinator.com/item?id=30526126"/>
+        <updated>2022-03-02T11:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Agile Frameworks Aren't the Destination. They Are the Starting Points]]></summary>
+        <author>
+            <name>mjio</name>
+            <uri>https://news.ycombinator.com/user?id=mjio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初创企业不应该解决技术上的困难问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30526123</id>
+        <link href="https://news.ycombinator.com/item?id=30526123"/>
+        <updated>2022-03-02T11:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Startups shouldn't solve technically hard problems]]></summary>
+        <author>
+            <name>paraschopra</name>
+            <uri>https://news.ycombinator.com/user?id=paraschopra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CTO与CEO的关系--合作如何能发挥作用]]></title>
         <id>https://news.ycombinator.com/item?id=30526107</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家们发明了评估3D打印金属零件质量的成像方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30517604</id>
-        <link href="https://news.ycombinator.com/item?id=30517604"/>
-        <updated>2022-03-01T18:07:33.000Z</updated>
-        <summary type="html"><![CDATA[Scientists invent imaging method to assess quality of 3D-printed metal parts]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解房地产投资的Brrrr方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30517602</id>
-        <link href="https://news.ycombinator.com/item?id=30517602"/>
-        <updated>2022-03-01T18:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Brrrr Method of Real Estate Investment]]></summary>
-        <author>
-            <name>corentin88</name>
-            <uri>https://news.ycombinator.com/user?id=corentin88</uri>
         </author>
     </entry>
 </feed>
