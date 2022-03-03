@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T06:56:31.249Z</updated>
+    <updated>2022-03-03T07:30:14.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[台湾停电]]></title>
+        <id>https://news.ycombinator.com/item?id=30538122</id>
+        <link href="https://news.ycombinator.com/item?id=30538122"/>
+        <updated>2022-03-03T07:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Power Outage in Taiwan]]></summary>
+        <author>
+            <name>Animats</name>
+            <uri>https://news.ycombinator.com/user?id=Animats</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原始技术。茅草房]]></title>
+        <id>https://news.ycombinator.com/item?id=30538108</id>
+        <link href="https://news.ycombinator.com/item?id=30538108"/>
+        <updated>2022-03-03T07:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Primitive Technology: Thatched Workshop]]></summary>
+        <author>
+            <name>cookingrobot</name>
+            <uri>https://news.ycombinator.com/user?id=cookingrobot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最后，为科技界提供了一个Wordle克隆版]]></title>
+        <id>https://news.ycombinator.com/item?id=30538095</id>
+        <link href="https://news.ycombinator.com/item?id=30538095"/>
+        <updated>2022-03-03T07:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Finally, there is a Wordle clone for the Tech community]]></summary>
+        <author>
+            <name>emdzejski87</name>
+            <uri>https://news.ycombinator.com/user?id=emdzejski87</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一颗mK=7.8的恒星可能在2028年进入α-Cen A的爱因斯坦环（2016年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30538090</id>
+        <link href="https://news.ycombinator.com/item?id=30538090"/>
+        <updated>2022-03-03T07:17:39.000Z</updated>
+        <summary type="html"><![CDATA[An mK = 7.8 star may enter the Einstein ring of alpha Cen A in 2028 (2016)]]></summary>
+        <author>
+            <name>divbzero</name>
+            <uri>https://news.ycombinator.com/user?id=divbzero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌分析的访客页面停留时间是完全错误的]]></title>
+        <id>https://news.ycombinator.com/item?id=30538065</id>
+        <link href="https://news.ycombinator.com/item?id=30538065"/>
+        <updated>2022-03-03T07:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Visitor Time on Page by Google Analytics is just dead wrong]]></summary>
+        <author>
+            <name>basquiyacht</name>
+            <uri>https://news.ycombinator.com/user?id=basquiyacht</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么构成战争罪？]]></title>
+        <id>https://news.ycombinator.com/item?id=30538041</id>
+        <link href="https://news.ycombinator.com/item?id=30538041"/>
+        <updated>2022-03-03T07:08:49.000Z</updated>
+        <summary type="html"><![CDATA[What Constitutes a War-Crime?]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用户体验设计师的神秘生活]]></title>
         <id>https://news.ycombinator.com/item?id=30537964</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minos - 一个Python微服务开发框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30528929</id>
-        <link href="https://news.ycombinator.com/item?id=30528929"/>
-        <updated>2022-03-02T16:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Minos – A Python microservices development framework]]></summary>
-        <author>
-            <name>minos-py</name>
-            <uri>https://news.ycombinator.com/user?id=minos-py</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨越人的一生为互联网写作]]></title>
-        <id>https://news.ycombinator.com/item?id=30528919</id>
-        <link href="https://news.ycombinator.com/item?id=30528919"/>
-        <updated>2022-03-02T16:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Writing for the Internet across a human lifetime]]></summary>
-        <author>
-            <name>fallat</name>
-            <uri>https://news.ycombinator.com/user?id=fallat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在许多GPU上训练真正的大模型？(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30528909</id>
-        <link href="https://news.ycombinator.com/item?id=30528909"/>
-        <updated>2022-03-02T16:11:50.000Z</updated>
-        <summary type="html"><![CDATA[How to Train Really Large Models on Many GPUs? (2021)]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯议会将就在俄罗斯实施戒严令进行表决]]></title>
-        <id>https://news.ycombinator.com/item?id=30528904</id>
-        <link href="https://news.ycombinator.com/item?id=30528904"/>
-        <updated>2022-03-02T16:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Russian parliament to vote on imposition of martial law in Russia]]></summary>
-        <author>
-            <name>400thecat</name>
-            <uri>https://news.ycombinator.com/user?id=400thecat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京为何上台，他是否会发动核战争？]]></title>
-        <id>https://news.ycombinator.com/item?id=30528886</id>
-        <link href="https://news.ycombinator.com/item?id=30528886"/>
-        <updated>2022-03-02T16:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Why Putin came to power and will he start a nuclear war?]]></summary>
-        <author>
-            <name>RussianRoulette</name>
-            <uri>https://news.ycombinator.com/user?id=RussianRoulette</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - poonai/inspektor: 为你的数据库提供集中的访问控制]]></title>
-        <id>https://news.ycombinator.com/item?id=30528898</id>
-        <link href="https://news.ycombinator.com/item?id=30528898"/>
-        <updated>2022-03-02T16:11:18.000Z</updated>
-        <summary type="html"><![CDATA[GitHub – poonai/inspektor: Centralized access control for your databases]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
