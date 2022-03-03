@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T09:40:52.104Z</updated>
+    <updated>2022-03-03T09:51:50.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自俄羅斯學術界的觀點--Tatyana Deryugina]]></title>
+        <id>https://news.ycombinator.com/item?id=30539064</id>
+        <link href="https://news.ycombinator.com/item?id=30539064"/>
+        <updated>2022-03-03T09:46:49.000Z</updated>
+        <summary type="html"><![CDATA[A view from Russian academia – Tatyana Deryugina]]></summary>
+        <author>
+            <name>pelasaco</name>
+            <uri>https://news.ycombinator.com/user?id=pelasaco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duck DNS - 在AWS上託管的免費動態DNS]]></title>
+        <id>https://news.ycombinator.com/item?id=30539059</id>
+        <link href="https://news.ycombinator.com/item?id=30539059"/>
+        <updated>2022-03-03T09:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Duck DNS – free dynamic DNS hosted on AWS]]></summary>
+        <author>
+            <name>phantom_oracle</name>
+            <uri>https://news.ycombinator.com/user?id=phantom_oracle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y的原因 (2001) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30539051</id>
+        <link href="https://news.ycombinator.com/item?id=30539051"/>
+        <updated>2022-03-03T09:44:21.000Z</updated>
+        <summary type="html"><![CDATA[The Why of Y (2001) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去過那裡，做過什麼？(2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=30539046</id>
+        <link href="https://news.ycombinator.com/item?id=30539046"/>
+        <updated>2022-03-03T09:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Been There, Done What? (2010)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無依賴性的圖像顏色提取庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30539041</id>
+        <link href="https://news.ycombinator.com/item?id=30539041"/>
+        <updated>2022-03-03T09:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Dependency free image color extraction library]]></summary>
+        <author>
+            <name>gilmarquinelato</name>
+            <uri>https://news.ycombinator.com/user?id=gilmarquinelato</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宣佈支持烏克蘭後React.js的GitHub問題]]></title>
         <id>https://news.ycombinator.com/item?id=30538974</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>tdmckinlay</name>
             <uri>https://news.ycombinator.com/user?id=tdmckinlay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[披薩網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30529559</id>
-        <link href="https://news.ycombinator.com/item?id=30529559"/>
-        <updated>2022-03-02T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[The Pizza Website]]></summary>
-        <author>
-            <name>SamWhited</name>
-            <uri>https://news.ycombinator.com/user?id=SamWhited</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[病毒掩蓋：SARS-CoV-2的帽子為抗病毒藥物提供了新的目標]]></title>
-        <id>https://news.ycombinator.com/item?id=30529544</id>
-        <link href="https://news.ycombinator.com/item?id=30529544"/>
-        <updated>2022-03-02T16:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Viral cover-up: SARS-CoV-2 cap offers new target for antivirals]]></summary>
-        <author>
-            <name>hindsightbias</name>
-            <uri>https://news.ycombinator.com/user?id=hindsightbias</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅薩姆的通用機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30529509</id>
-        <link href="https://news.ycombinator.com/item?id=30529509"/>
-        <updated>2022-03-02T16:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Rossum's Universal Robots]]></summary>
-        <author>
-            <name>rfreytag</name>
-            <uri>https://news.ycombinator.com/user?id=rfreytag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azul推出Java雲編譯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30529508</id>
-        <link href="https://news.ycombinator.com/item?id=30529508"/>
-        <updated>2022-03-02T16:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Azul Launches Java Cloud Compiler]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的空軍發生了什麼？美國官員和專家感到困惑]]></title>
-        <id>https://news.ycombinator.com/item?id=30529470</id>
-        <link href="https://news.ycombinator.com/item?id=30529470"/>
-        <updated>2022-03-02T16:52:44.000Z</updated>
-        <summary type="html"><![CDATA[What happened to Russias Air Force? U.S. officials, experts stumped]]></summary>
-        <author>
-            <name>mrep</name>
-            <uri>https://news.ycombinator.com/user?id=mrep</uri>
         </author>
     </entry>
 </feed>
