@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T05:00:31.680Z</updated>
+    <updated>2022-03-03T05:12:59.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[台湾大部分地区，包括台北，都发生了停电事故，互联网也被切断了。]]></title>
+        <id>https://news.ycombinator.com/item?id=30537356</id>
+        <link href="https://news.ycombinator.com/item?id=30537356"/>
+        <updated>2022-03-03T05:04:30.000Z</updated>
+        <summary type="html"><![CDATA[A power outage has knocked out internet across much of Taiwan including Taipei]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果硬件活动定于3月8日举行]]></title>
+        <id>https://news.ycombinator.com/item?id=30537345</id>
+        <link href="https://news.ycombinator.com/item?id=30537345"/>
+        <updated>2022-03-03T05:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Apple Hardware Event Set for March 8]]></summary>
+        <author>
+            <name>kristianp</name>
+            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年采访高级JavaScript开发人员[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30537338</id>
+        <link href="https://news.ycombinator.com/item?id=30537338"/>
+        <updated>2022-03-03T05:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Interview with Senior JavaScript Developer in 2022 [video]]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playnite - 视频游戏库管理器]]></title>
         <id>https://news.ycombinator.com/item?id=30537290</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kkajla</name>
             <uri>https://news.ycombinator.com/user?id=kkajla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由软件基金会宣布新任执行主任Zoë Kooyman]]></title>
-        <id>https://news.ycombinator.com/item?id=30528600</id>
-        <link href="https://news.ycombinator.com/item?id=30528600"/>
-        <updated>2022-03-02T15:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Free Software Foundation announces new executive director, Zoë Kooyman]]></summary>
-        <author>
-            <name>juice_bus</name>
-            <uri>https://news.ycombinator.com/user?id=juice_bus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因诺里欧开发者支持乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30528598</id>
-        <link href="https://news.ycombinator.com/item?id=30528598"/>
-        <updated>2022-03-02T15:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Factorio Devs Support Ukraine]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I.处于乌克兰战争的前线]]></title>
-        <id>https://news.ycombinator.com/item?id=30528573</id>
-        <link href="https://news.ycombinator.com/item?id=30528573"/>
-        <updated>2022-03-02T15:44:22.000Z</updated>
-        <summary type="html"><![CDATA[A.I. is on the front lines of the war in Ukraine]]></summary>
-        <author>
-            <name>melling</name>
-            <uri>https://news.ycombinator.com/user?id=melling</uri>
         </author>
     </entry>
 </feed>
