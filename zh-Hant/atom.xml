@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T05:30:48.756Z</updated>
+    <updated>2022-03-03T05:37:51.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臺灣遭遇大面積停電]]></title>
+        <id>https://news.ycombinator.com/item?id=30537521</id>
+        <link href="https://news.ycombinator.com/item?id=30537521"/>
+        <updated>2022-03-03T05:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan hit by widespread power outages]]></summary>
+        <author>
+            <name>fomine3</name>
+            <uri>https://news.ycombinator.com/user?id=fomine3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一個數字遊民。我應該放棄我的美國公民身份嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30537515</id>
+        <link href="https://news.ycombinator.com/item?id=30537515"/>
+        <updated>2022-03-03T05:32:29.000Z</updated>
+        <summary type="html"><![CDATA[I'm a digital nomad. Should I renounce my US citizenship?]]></summary>
+        <author>
+            <name>SoftwarePatent</name>
+            <uri>https://news.ycombinator.com/user?id=SoftwarePatent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能模型根據網絡帖子檢測精神障礙]]></title>
         <id>https://news.ycombinator.com/item?id=30537470</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samber</name>
             <uri>https://news.ycombinator.com/user?id=samber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯將把任何對其衛星的黑客攻擊視為戰爭的理由]]></title>
-        <id>https://news.ycombinator.com/item?id=30528644</id>
-        <link href="https://news.ycombinator.com/item?id=30528644"/>
-        <updated>2022-03-02T15:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Russia will treat any hacking of its satellites as a justification for war]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超快的無線電爆發可能會帶來全新的空間信號類別]]></title>
-        <id>https://news.ycombinator.com/item?id=30528627</id>
-        <link href="https://news.ycombinator.com/item?id=30528627"/>
-        <updated>2022-03-02T15:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Ultra-fast radio burst could usher in whole new class of space signals]]></summary>
-        <author>
-            <name>wjSgoWPm5bWAhXB</name>
-            <uri>https://news.ycombinator.com/user?id=wjSgoWPm5bWAhXB</uri>
         </author>
     </entry>
 </feed>
