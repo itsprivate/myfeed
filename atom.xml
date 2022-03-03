@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T09:33:03.384Z</updated>
+    <updated>2022-03-03T09:40:51.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣布支持乌克兰后React.js的GitHub问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30538974</id>
+        <link href="https://news.ycombinator.com/item?id=30538974"/>
+        <updated>2022-03-03T09:32:13.000Z</updated>
+        <summary type="html"><![CDATA[React.js GitHub Issues After Declaring Support for Ukraine]]></summary>
+        <author>
+            <name>z3t111</name>
+            <uri>https://news.ycombinator.com/user?id=z3t111</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个管理大型文件的版本控制系统]]></title>
         <id>https://news.ycombinator.com/item?id=30538958</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mrep</name>
             <uri>https://news.ycombinator.com/user?id=mrep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真实世界的密码学]]></title>
-        <id>https://news.ycombinator.com/item?id=30529469</id>
-        <link href="https://news.ycombinator.com/item?id=30529469"/>
-        <updated>2022-03-02T16:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Real-World Cryptography]]></summary>
-        <author>
-            <name>baby</name>
-            <uri>https://news.ycombinator.com/user?id=baby</uri>
         </author>
     </entry>
 </feed>
