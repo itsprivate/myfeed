@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-03T06:15:08.802Z</updated>
+    <updated>2022-03-03T06:38:34.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[剖析Linux活動的性能和故障排除(2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30537769</id>
+        <link href="https://news.ycombinator.com/item?id=30537769"/>
+        <updated>2022-03-03T06:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Profiling Linux Activity for Performance and Troubleshooting (2020)]]></summary>
+        <author>
+            <name>tanelpoder</name>
+            <uri>https://news.ycombinator.com/user?id=tanelpoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰想聽拉爾夫-納德讚美CEO？不是出版商]]></title>
         <id>https://news.ycombinator.com/item?id=30537751</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>soraminazuki</name>
             <uri>https://news.ycombinator.com/user?id=soraminazuki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有意識地生活]]></title>
-        <id>https://news.ycombinator.com/item?id=30528791</id>
-        <link href="https://news.ycombinator.com/item?id=30528791"/>
-        <updated>2022-03-02T16:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Living Consciously]]></summary>
-        <author>
-            <name>thecsw</name>
-            <uri>https://news.ycombinator.com/user?id=thecsw</uri>
         </author>
     </entry>
 </feed>
