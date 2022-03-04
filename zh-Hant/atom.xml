@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-04T05:39:47.741Z</updated>
+    <updated>2022-03-04T05:53:23.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[昨天我離開工作崗位，全職從事獨立製作。]]></title>
+        <id>https://news.ycombinator.com/item?id=30551101</id>
+        <link href="https://news.ycombinator.com/item?id=30551101"/>
+        <updated>2022-03-04T05:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I left my job to Indie-Make full-time]]></summary>
+        <author>
+            <name>tom_connole</name>
+            <uri>https://news.ycombinator.com/user?id=tom_connole</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數字化條件並不強制要求規模]]></title>
+        <id>https://news.ycombinator.com/item?id=30551099</id>
+        <link href="https://news.ycombinator.com/item?id=30551099"/>
+        <updated>2022-03-04T05:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Digital conditions don't mandate scale]]></summary>
+        <author>
+            <name>panic</name>
+            <uri>https://news.ycombinator.com/user?id=panic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[繞過谷歌雲裝甲]]></title>
         <id>https://news.ycombinator.com/item?id=30551051</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>domrdy</name>
             <uri>https://news.ycombinator.com/user?id=domrdy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前Xamarin聯合創始人將在六年後離開微軟]]></title>
-        <id>https://news.ycombinator.com/item?id=30542128</id>
-        <link href="https://news.ycombinator.com/item?id=30542128"/>
-        <updated>2022-03-03T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Former Xamarin co-founder to leave Microsoft after six years]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[航空公司軟件巨頭終止與俄航的協議，削弱了銷售座位的能力]]></title>
-        <id>https://news.ycombinator.com/item?id=30542120</id>
-        <link href="https://news.ycombinator.com/item?id=30542120"/>
-        <updated>2022-03-03T15:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Airline software giant ends pact with Aeroflot, crippling ability to sell seats]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
