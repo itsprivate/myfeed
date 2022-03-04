@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-04T17:43:57.664Z</updated>
+    <updated>2022-03-04T18:15:06.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯從哪裡獲得籌碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30557964</id>
+        <link href="https://news.ycombinator.com/item?id=30557964"/>
+        <updated>2022-03-04T17:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Where Russia gets its chips]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用測試時鐘測試你的集成]]></title>
         <id>https://news.ycombinator.com/item?id=30557712</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>underscore_ku</name>
             <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaporizhzhia核電站受到攻擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30548745</id>
-        <link href="https://news.ycombinator.com/item?id=30548745"/>
-        <updated>2022-03-03T23:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Zaporizhzhia Nuclear Power Plant is under fire]]></summary>
-        <author>
-            <name>Fetiorin</name>
-            <uri>https://news.ycombinator.com/user?id=Fetiorin</uri>
         </author>
     </entry>
 </feed>
