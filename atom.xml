@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-04T18:39:45.610Z</updated>
+    <updated>2022-03-04T18:55:42.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯封锁了Facebook]]></title>
+        <id>https://news.ycombinator.com/item?id=30558657</id>
+        <link href="https://news.ycombinator.com/item?id=30558657"/>
+        <updated>2022-03-04T18:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Russia Blocks Facebook]]></summary>
+        <author>
+            <name>skekaeeeww</name>
+            <uri>https://news.ycombinator.com/user?id=skekaeeeww</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于乌克兰战争的信息推特空间被僵尸农场大量报道]]></title>
         <id>https://news.ycombinator.com/item?id=30558484</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傅立叶切片摄影]]></title>
-        <id>https://news.ycombinator.com/item?id=30548757</id>
-        <link href="https://news.ycombinator.com/item?id=30548757"/>
-        <updated>2022-03-03T23:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Fourier Slice Photography]]></summary>
-        <author>
-            <name>pyinstallwoes</name>
-            <uri>https://news.ycombinator.com/user?id=pyinstallwoes</uri>
         </author>
     </entry>
 </feed>
