@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-04T05:14:56.171Z</updated>
+    <updated>2022-03-04T05:32:29.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[享受我们的登录和注册游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30550992</id>
+        <link href="https://news.ycombinator.com/item?id=30550992"/>
+        <updated>2022-03-04T05:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy our Login and Sign up Game]]></summary>
+        <author>
+            <name>shinejaiswal</name>
+            <uri>https://news.ycombinator.com/user?id=shinejaiswal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年的RubyConf。你可能会错过的讲座]]></title>
+        <id>https://news.ycombinator.com/item?id=30550989</id>
+        <link href="https://news.ycombinator.com/item?id=30550989"/>
+        <updated>2022-03-04T05:24:07.000Z</updated>
+        <summary type="html"><![CDATA[RubyConf 2021: The Talks You Might Have Missed]]></summary>
+        <author>
+            <name>mjio</name>
+            <uri>https://news.ycombinator.com/user?id=mjio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幻影皇后]]></title>
+        <id>https://news.ycombinator.com/item?id=30550985</id>
+        <link href="https://news.ycombinator.com/item?id=30550985"/>
+        <updated>2022-03-04T05:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The Phantom Queen]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费电子书。用Postgres在Rails中进行高效搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30550982</id>
+        <link href="https://news.ycombinator.com/item?id=30550982"/>
+        <updated>2022-03-04T05:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Free eBook: Efficient Search in Rails with Postgres]]></summary>
+        <author>
+            <name>mjio</name>
+            <uri>https://news.ycombinator.com/user?id=mjio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思想的共鸣]]></title>
+        <id>https://news.ycombinator.com/item?id=30550950</id>
+        <link href="https://news.ycombinator.com/item?id=30550950"/>
+        <updated>2022-03-04T05:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Resonance of Thought]]></summary>
+        <author>
+            <name>acmegeek</name>
+            <uri>https://news.ycombinator.com/user?id=acmegeek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可解密的PartyTicket勒索软件据说以乌克兰实体为目标]]></title>
+        <id>https://news.ycombinator.com/item?id=30550936</id>
+        <link href="https://news.ycombinator.com/item?id=30550936"/>
+        <updated>2022-03-04T05:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Decryptable PartyTicket Ransomware Reportedly Targeting Ukrainian Entities]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么全麦比白麦好 (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30550934</id>
+        <link href="https://news.ycombinator.com/item?id=30550934"/>
+        <updated>2022-03-04T05:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Why Whole Wheat Is Better Than White (2016)]]></summary>
+        <author>
+            <name>yonibot</name>
+            <uri>https://news.ycombinator.com/user?id=yonibot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白宫支持在乌克兰危机中要求向CISA强制报告的法案]]></title>
         <id>https://news.ycombinator.com/item?id=30550915</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>artistminute</name>
             <uri>https://news.ycombinator.com/user?id=artistminute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有理由手工编写OpenAPI]]></title>
-        <id>https://news.ycombinator.com/item?id=30542006</id>
-        <link href="https://news.ycombinator.com/item?id=30542006"/>
-        <updated>2022-03-03T15:09:48.000Z</updated>
-        <summary type="html"><![CDATA[There's No Reason to Write OpenAPI by Hand]]></summary>
-        <author>
-            <name>meistro</name>
-            <uri>https://news.ycombinator.com/user?id=meistro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brackit - JQ和JMESPath的替代品，用于查询JSON。]]></title>
-        <id>https://news.ycombinator.com/item?id=30541998</id>
-        <link href="https://news.ycombinator.com/item?id=30541998"/>
-        <updated>2022-03-03T15:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Brackit – An alternative to JQ and JMESPath to query JSON]]></summary>
-        <author>
-            <name>lichtenberger</name>
-            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与经济学巨人谈战争和市场波动]]></title>
-        <id>https://news.ycombinator.com/item?id=30541992</id>
-        <link href="https://news.ycombinator.com/item?id=30541992"/>
-        <updated>2022-03-03T15:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Talking War and Market Volatility with a Giant of Economics]]></summary>
-        <author>
-            <name>tysone</name>
-            <uri>https://news.ycombinator.com/user?id=tysone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[命名为Noumenon]]></title>
-        <id>https://news.ycombinator.com/item?id=30541960</id>
-        <link href="https://news.ycombinator.com/item?id=30541960"/>
-        <updated>2022-03-03T15:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Noumenon]]></summary>
-        <author>
-            <name>shea256</name>
-            <uri>https://news.ycombinator.com/user?id=shea256</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解2011-2021年科技界的科学经费]]></title>
-        <id>https://news.ycombinator.com/item?id=30541948</id>
-        <link href="https://news.ycombinator.com/item?id=30541948"/>
-        <updated>2022-03-03T15:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Understanding science funding in tech, 2011-2021]]></summary>
-        <author>
-            <name>andyjohnson0</name>
-            <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通往我们细胞中心的旅程]]></title>
-        <id>https://news.ycombinator.com/item?id=30541934</id>
-        <link href="https://news.ycombinator.com/item?id=30541934"/>
-        <updated>2022-03-03T15:04:38.000Z</updated>
-        <summary type="html"><![CDATA[A Journey to the Center of Our Cells]]></summary>
-        <author>
-            <name>arbesman</name>
-            <uri>https://news.ycombinator.com/user?id=arbesman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgiva企业。面向专家的下一代无状态密码管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30541918</id>
-        <link href="https://news.ycombinator.com/item?id=30541918"/>
-        <updated>2022-03-03T15:03:58.000Z</updated>
-        <summary type="html"><![CDATA[Forgiva Enterprise: Next-gen stateless password manager for experts]]></summary>
-        <author>
-            <name>marcusfrex</name>
-            <uri>https://news.ycombinator.com/user?id=marcusfrex</uri>
         </author>
     </entry>
 </feed>
