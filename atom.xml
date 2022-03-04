@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-04T05:32:29.331Z</updated>
+    <updated>2022-03-04T05:39:47.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[绕过谷歌云装甲]]></title>
+        <id>https://news.ycombinator.com/item?id=30551051</id>
+        <link href="https://news.ycombinator.com/item?id=30551051"/>
+        <updated>2022-03-04T05:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Bypassing Google Cloud Armor]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS语音备忘录应用欺骗用户，使其认为自己的编辑工作已经完成]]></title>
+        <id>https://news.ycombinator.com/item?id=30551046</id>
+        <link href="https://news.ycombinator.com/item?id=30551046"/>
+        <updated>2022-03-04T05:32:43.000Z</updated>
+        <summary type="html"><![CDATA[iOS voice memos app deceives users into thinking their edits are done]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当我们争论理性的时候，我们在争论什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30551041</id>
+        <link href="https://news.ycombinator.com/item?id=30551041"/>
+        <updated>2022-03-04T05:31:56.000Z</updated>
+        <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京认为乌克兰会迅速沦陷。一场机场大战证明他错了]]></title>
+        <id>https://news.ycombinator.com/item?id=30551038</id>
+        <link href="https://news.ycombinator.com/item?id=30551038"/>
+        <updated>2022-03-04T05:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Putin Thought Ukraine Would Fall Quickly. An Airport Battle Proved Him Wrong]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电子邮件服务器和Superseeker]]></title>
+        <id>https://news.ycombinator.com/item?id=30551014</id>
+        <link href="https://news.ycombinator.com/item?id=30551014"/>
+        <updated>2022-03-04T05:28:14.000Z</updated>
+        <summary type="html"><![CDATA[The Email Servers and Superseeker]]></summary>
+        <author>
+            <name>isaac21259</name>
+            <uri>https://news.ycombinator.com/user?id=isaac21259</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传单由基辅的乌克兰公民弗拉基米尔-阿加方金在11年前创作。]]></title>
+        <id>https://news.ycombinator.com/item?id=30551006</id>
+        <link href="https://news.ycombinator.com/item?id=30551006"/>
+        <updated>2022-03-04T05:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Leaflet was created 11yrs ago by Vladimir Agafonkin, a Ukrainian citizen in Kyiv]]></summary>
+        <author>
+            <name>tzm</name>
+            <uri>https://news.ycombinator.com/user?id=tzm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[享受我们的登录和注册游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30550992</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么中国将收回西伯利亚]]></title>
-        <id>https://news.ycombinator.com/item?id=30542119</id>
-        <link href="https://news.ycombinator.com/item?id=30542119"/>
-        <updated>2022-03-03T15:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Why China Will Reclaim Siberia]]></summary>
-        <author>
-            <name>neverminder</name>
-            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub终于发布了（Beta）拉动请求中更改文件的树状视图]]></title>
-        <id>https://news.ycombinator.com/item?id=30542104</id>
-        <link href="https://news.ycombinator.com/item?id=30542104"/>
-        <updated>2022-03-03T15:17:30.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Finally releases (Beta) Tree view for changed files in a pull request]]></summary>
-        <author>
-            <name>synchton</name>
-            <uri>https://news.ycombinator.com/user?id=synchton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[78起烧伤报告发生后，Fitbit召回Ionic智能手表]]></title>
-        <id>https://news.ycombinator.com/item?id=30542096</id>
-        <link href="https://news.ycombinator.com/item?id=30542096"/>
-        <updated>2022-03-03T15:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Fitbit recalls Ionic smartwatch after 78 reports of burns]]></summary>
-        <author>
-            <name>obilgic</name>
-            <uri>https://news.ycombinator.com/user?id=obilgic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿列克谢-古泽。俄罗斯边境关闭了在]]></title>
-        <id>https://news.ycombinator.com/item?id=30542063</id>
-        <link href="https://news.ycombinator.com/item?id=30542063"/>
-        <updated>2022-03-03T15:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Alexey Guzey: Russian border shuts down in]]></summary>
-        <author>
-            <name>telotortium</name>
-            <uri>https://news.ycombinator.com/user?id=telotortium</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撬锁。一个内部的视角]]></title>
-        <id>https://news.ycombinator.com/item?id=30542042</id>
-        <link href="https://news.ycombinator.com/item?id=30542042"/>
-        <updated>2022-03-03T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Lock Picking: An Inside Perspective]]></summary>
-        <author>
-            <name>codetrotter</name>
-            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[审查Flippa网站的销售（Smallhousedecor.com）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30542015</id>
-        <link href="https://news.ycombinator.com/item?id=30542015"/>
-        <updated>2022-03-03T15:10:39.000Z</updated>
-        <summary type="html"><![CDATA[Reviewing Flippa Website for Sale (Smallhousedecor.com)]]></summary>
-        <author>
-            <name>artistminute</name>
-            <uri>https://news.ycombinator.com/user?id=artistminute</uri>
         </author>
     </entry>
 </feed>
