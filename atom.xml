@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T13:33:59.803Z</updated>
+    <updated>2022-03-05T13:41:00.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本-麦肯齐，演员变成了加密货币反对者]]></title>
+        <id>https://news.ycombinator.com/item?id=30567436</id>
+        <link href="https://news.ycombinator.com/item?id=30567436"/>
+        <updated>2022-03-05T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Ben McKenzie, Actor Turned Crypto Naysayer]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玩具巨头自如希望确认并起诉前工人]]></title>
         <id>https://news.ycombinator.com/item?id=30567358</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Phase Biolabs (YC W22) - 将二氧化碳转化为碳中性化学品]]></title>
-        <id>https://news.ycombinator.com/item?id=30557288</id>
-        <link href="https://news.ycombinator.com/item?id=30557288"/>
-        <updated>2022-03-04T17:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Phase Biolabs (YC W22) – Converting CO2 to Carbon-Neutral Chemicals]]></summary>
-        <author>
-            <name>DavidPBL</name>
-            <uri>https://news.ycombinator.com/user?id=DavidPBL</uri>
         </author>
     </entry>
 </feed>
