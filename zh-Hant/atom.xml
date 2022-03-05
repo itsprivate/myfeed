@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T05:10:56.764Z</updated>
+    <updated>2022-03-05T05:30:23.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coursera對烏克蘭人道主義危機的迴應]]></title>
+        <id>https://news.ycombinator.com/item?id=30564523</id>
+        <link href="https://news.ycombinator.com/item?id=30564523"/>
+        <updated>2022-03-05T05:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Coursera’s response to the humanitarian crisis in Ukraine]]></summary>
+        <author>
+            <name>NmAmDa</name>
+            <uri>https://news.ycombinator.com/user?id=NmAmDa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據流矩陣機和V值：程序和神經網絡之間的橋樑 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30564478</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客攻擊Hadoukens。街頭霸王二號機的逆向工程]]></title>
-        <id>https://news.ycombinator.com/item?id=30555036</id>
-        <link href="https://news.ycombinator.com/item?id=30555036"/>
-        <updated>2022-03-04T14:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Hacking Hadoukens: Reverse Engineering a Street Fighter Two Cabinet]]></summary>
-        <author>
-            <name>wrongbaud</name>
-            <uri>https://news.ycombinator.com/user?id=wrongbaud</uri>
         </author>
     </entry>
 </feed>
