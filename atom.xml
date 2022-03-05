@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T06:38:58.440Z</updated>
+    <updated>2022-03-05T06:57:43.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何捍卫我们的思想]]></title>
+        <id>https://news.ycombinator.com/item?id=30564961</id>
+        <link href="https://news.ycombinator.com/item?id=30564961"/>
+        <updated>2022-03-05T06:38:16.000Z</updated>
+        <summary type="html"><![CDATA[How to Defend Our Minds]]></summary>
+        <author>
+            <name>imartin2k</name>
+            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克敢于让汽车工人联合会尝试组建特斯拉工会]]></title>
+        <id>https://news.ycombinator.com/item?id=30564957</id>
+        <link href="https://news.ycombinator.com/item?id=30564957"/>
+        <updated>2022-03-05T06:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk dares United Autoworkers to try to unionize Tesla]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星联公司拒绝了政府关于封锁俄罗斯新闻来源的要求]]></title>
         <id>https://news.ycombinator.com/item?id=30564938</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gmishuris</name>
             <uri>https://news.ycombinator.com/user?id=gmishuris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本地矩阵会议与元素呼叫测试版]]></title>
-        <id>https://news.ycombinator.com/item?id=30555418</id>
-        <link href="https://news.ycombinator.com/item?id=30555418"/>
-        <updated>2022-03-04T14:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Native Matrix Conferencing with Element Call Beta]]></summary>
-        <author>
-            <name>Arathorn</name>
-            <uri>https://news.ycombinator.com/user?id=Arathorn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解如何在 Azure 上使用 GNU Radio]]></title>
-        <id>https://news.ycombinator.com/item?id=30555416</id>
-        <link href="https://news.ycombinator.com/item?id=30555416"/>
-        <updated>2022-03-04T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use GNU Radio on Azure]]></summary>
-        <author>
-            <name>robotastic</name>
-            <uri>https://news.ycombinator.com/user?id=robotastic</uri>
         </author>
     </entry>
 </feed>
