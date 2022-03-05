@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T19:38:05.241Z</updated>
+    <updated>2022-03-05T19:52:45.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼是斯坦佩而不是Boto3]]></title>
+        <id>https://news.ycombinator.com/item?id=30571157</id>
+        <link href="https://news.ycombinator.com/item?id=30571157"/>
+        <updated>2022-03-05T19:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Why Steampipe over Boto3]]></summary>
+        <author>
+            <name>nathanwallace</name>
+            <uri>https://news.ycombinator.com/user?id=nathanwallace</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC: 移除對俄羅斯Elbrus處理器的支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30571116</id>
+        <link href="https://news.ycombinator.com/item?id=30571116"/>
+        <updated>2022-03-05T19:37:51.000Z</updated>
+        <summary type="html"><![CDATA[RFC: Remove support for Russian Elbrus processor]]></summary>
+        <author>
+            <name>cglong</name>
+            <uri>https://news.ycombinator.com/user?id=cglong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Python解決類塞爾達傳說的難題]]></title>
+        <id>https://news.ycombinator.com/item?id=30571105</id>
+        <link href="https://news.ycombinator.com/item?id=30571105"/>
+        <updated>2022-03-05T19:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Solving a class Legend of Zelda puzzle with Python]]></summary>
+        <author>
+            <name>g4zj</name>
+            <uri>https://news.ycombinator.com/user?id=g4zj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紐約時報》對沙利文案：保留基本先例的案例 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30571062</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPE/IX快速參考指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30561064</id>
-        <link href="https://news.ycombinator.com/item?id=30561064"/>
-        <updated>2022-03-04T21:49:20.000Z</updated>
-        <summary type="html"><![CDATA[MPE/IX Quick Reference Guide]]></summary>
-        <author>
-            <name>eschaton</name>
-            <uri>https://news.ycombinator.com/user?id=eschaton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想要一個擴展來淡化所有先前查看的新聞頭條和推文嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30561050</id>
-        <link href="https://news.ycombinator.com/item?id=30561050"/>
-        <updated>2022-03-04T21:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Want an extension to fade all previously viewed news headlines and tweets?]]></summary>
-        <author>
-            <name>sha_burn</name>
-            <uri>https://news.ycombinator.com/user?id=sha_burn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP 3000]]></title>
-        <id>https://news.ycombinator.com/item?id=30561037</id>
-        <link href="https://news.ycombinator.com/item?id=30561037"/>
-        <updated>2022-03-04T21:45:55.000Z</updated>
-        <summary type="html"><![CDATA[HP 3000]]></summary>
-        <author>
-            <name>eschaton</name>
-            <uri>https://news.ycombinator.com/user?id=eschaton</uri>
         </author>
     </entry>
 </feed>
