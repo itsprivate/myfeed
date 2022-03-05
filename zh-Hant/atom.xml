@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T21:12:57.781Z</updated>
+    <updated>2022-03-05T21:30:59.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,138 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Prod中編輯東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30572059</id>
+        <link href="https://news.ycombinator.com/item?id=30572059"/>
+        <updated>2022-03-05T21:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Editing Stuff in Prod]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[參數化查詢中的SQL注入]]></title>
+        <id>https://news.ycombinator.com/item?id=30571990</id>
+        <link href="https://news.ycombinator.com/item?id=30571990"/>
+        <updated>2022-03-05T21:18:49.000Z</updated>
+        <summary type="html"><![CDATA[SQL Injection in a Parameterized Query]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鏡頭設計表格的終極指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30571987</id>
+        <link href="https://news.ycombinator.com/item?id=30571987"/>
+        <updated>2022-03-05T21:18:32.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Guide to Lens Design Forms]]></summary>
+        <author>
+            <name>alrex021</name>
+            <uri>https://news.ycombinator.com/user?id=alrex021</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喬丹-彼得森--大智商的爭論]]></title>
+        <id>https://news.ycombinator.com/item?id=30571971</id>
+        <link href="https://news.ycombinator.com/item?id=30571971"/>
+        <updated>2022-03-05T21:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Peterson – The Big IQ Controversy]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯入侵烏克蘭的失敗物流 [視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30571955</id>
+        <link href="https://news.ycombinator.com/item?id=30571955"/>
+        <updated>2022-03-05T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Failed Logistics of Russia's Invasion of Ukraine [video]]]></summary>
+        <author>
+            <name>vinni2</name>
+            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歷史上最持久的健身騙局]]></title>
+        <id>https://news.ycombinator.com/item?id=30571952</id>
+        <link href="https://news.ycombinator.com/item?id=30571952"/>
+        <updated>2022-03-05T21:14:27.000Z</updated>
+        <summary type="html"><![CDATA[The Most Enduring Fitness Scam in History]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['波蘭在那裡，現在走'。阿拉伯學生走出烏克蘭的苦難經歷]]></title>
+        <id>https://news.ycombinator.com/item?id=30571950</id>
+        <link href="https://news.ycombinator.com/item?id=30571950"/>
+        <updated>2022-03-05T21:14:22.000Z</updated>
+        <summary type="html"><![CDATA[‘There’s Poland, now walk’: Arab students’ ordeal out of Ukraine]]></summary>
+        <author>
+            <name>haltingproblem</name>
+            <uri>https://news.ycombinator.com/user?id=haltingproblem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當我們爭論理性的時候，我們在爭論什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30571947</id>
+        <link href="https://news.ycombinator.com/item?id=30571947"/>
+        <updated>2022-03-05T21:13:47.000Z</updated>
+        <summary type="html"><![CDATA[What Are We Arguing About When We Argue About Rationality?]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭開匿名作者的面紗。風格測量技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30571932</id>
+        <link href="https://news.ycombinator.com/item?id=30571932"/>
+        <updated>2022-03-05T21:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Anonymous Author: Stylometry Techniques]]></summary>
+        <author>
+            <name>crecker</name>
+            <uri>https://news.ycombinator.com/user?id=crecker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進化之路。達爾文的偉大理論醞釀多年]]></title>
+        <id>https://news.ycombinator.com/item?id=30571930</id>
+        <link href="https://news.ycombinator.com/item?id=30571930"/>
+        <updated>2022-03-05T21:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Evolutionary Road: Darwin’s great theory was years in the making]]></summary>
+        <author>
+            <name>Vigier</name>
+            <uri>https://news.ycombinator.com/user?id=Vigier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多次派遣。Common Lisp vs. Julia]]></title>
+        <id>https://news.ycombinator.com/item?id=30571913</id>
+        <link href="https://news.ycombinator.com/item?id=30571913"/>
+        <updated>2022-03-05T21:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Multiple Dispatch: Common Lisp vs. Julia]]></summary>
+        <author>
+            <name>freemint</name>
+            <uri>https://news.ycombinator.com/user?id=freemint</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔鬼在構架中]]></title>
+        <id>https://news.ycombinator.com/item?id=30571891</id>
+        <link href="https://news.ycombinator.com/item?id=30571891"/>
+        <updated>2022-03-05T21:09:27.000Z</updated>
+        <summary type="html"><![CDATA[The devil’s in the framing]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭入侵的記憶化]]></title>
         <id>https://news.ycombinator.com/item?id=30571881</id>
@@ -6481,138 +6613,6 @@
         <author>
             <name>jtsymonds</name>
             <uri>https://news.ycombinator.com/user?id=jtsymonds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4096位的RCA Selectron真空管存儲器原型]]></title>
-        <id>https://news.ycombinator.com/item?id=30561736</id>
-        <link href="https://news.ycombinator.com/item?id=30561736"/>
-        <updated>2022-03-04T22:55:24.000Z</updated>
-        <summary type="html"><![CDATA[The 4096-bit RCA Selectron vacuum tube memory prototype]]></summary>
-        <author>
-            <name>buescher</name>
-            <uri>https://news.ycombinator.com/user?id=buescher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯主要交易所的加密貨幣交易量暴跌50%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30561709</id>
-        <link href="https://news.ycombinator.com/item?id=30561709"/>
-        <updated>2022-03-04T22:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Russian crypto volume across major exchanges plunges by 50%]]></summary>
-        <author>
-            <name>Poalopat</name>
-            <uri>https://news.ycombinator.com/user?id=Poalopat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指紋的神話 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30561674</id>
-        <link href="https://news.ycombinator.com/item?id=30561674"/>
-        <updated>2022-03-04T22:49:14.000Z</updated>
-        <summary type="html"><![CDATA[The Myth of Fingerprints (2019)]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記住每兩小時吃一次]]></title>
-        <id>https://news.ycombinator.com/item?id=30561667</id>
-        <link href="https://news.ycombinator.com/item?id=30561667"/>
-        <updated>2022-03-04T22:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remember to eat every two hours]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expat 2.4.7發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30561656</id>
-        <link href="https://news.ycombinator.com/item?id=30561656"/>
-        <updated>2022-03-04T22:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Expat 2.4.7 released]]></summary>
-        <author>
-            <name>spyc</name>
-            <uri>https://news.ycombinator.com/user?id=spyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱蔽和公開的網上政治信號]]></title>
-        <id>https://news.ycombinator.com/item?id=30561653</id>
-        <link href="https://news.ycombinator.com/item?id=30561653"/>
-        <updated>2022-03-04T22:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Covert and overt political signaling online]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭國防部長。"勝利在即"]]></title>
-        <id>https://news.ycombinator.com/item?id=30561639</id>
-        <link href="https://news.ycombinator.com/item?id=30561639"/>
-        <updated>2022-03-04T22:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Defence Minister: “Victory is imminent”]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在本地設置DKIM]]></title>
-        <id>https://news.ycombinator.com/item?id=30561611</id>
-        <link href="https://news.ycombinator.com/item?id=30561611"/>
-        <updated>2022-03-04T22:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Setting DKIM Locally]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旋轉空間的可視化 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30561590</id>
-        <link href="https://news.ycombinator.com/item?id=30561590"/>
-        <updated>2022-03-04T22:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Visualizing Rotation Spaces (2021)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Log4j、Faker和黑天鵝事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30561588</id>
-        <link href="https://news.ycombinator.com/item?id=30561588"/>
-        <updated>2022-03-04T22:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Log4j, Faker and Black Swan Events]]></summary>
-        <author>
-            <name>treve</name>
-            <uri>https://news.ycombinator.com/user?id=treve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由單體簡介]]></title>
-        <id>https://news.ycombinator.com/item?id=30561583</id>
-        <link href="https://news.ycombinator.com/item?id=30561583"/>
-        <updated>2022-03-04T22:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Free Monads]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編碼語言Python的頂級貢獻者之一居住在烏克蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=30561581</id>
-        <link href="https://news.ycombinator.com/item?id=30561581"/>
-        <updated>2022-03-04T22:40:09.000Z</updated>
-        <summary type="html"><![CDATA[One of the top contributors to coding language Python lives in Ukraine]]></summary>
-        <author>
-            <name>mkka</name>
-            <uri>https://news.ycombinator.com/user?id=mkka</uri>
         </author>
     </entry>
 </feed>
