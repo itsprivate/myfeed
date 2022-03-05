@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T11:12:41.818Z</updated>
+    <updated>2022-03-05T11:30:02.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在D編程語言上使用GCC靜態分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30566495</id>
+        <link href="https://news.ycombinator.com/item?id=30566495"/>
+        <updated>2022-03-05T11:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Using the GCC Static Analyzer on the D Programming Language]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄烏戰爭--3月4日發生的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30566459</id>
+        <link href="https://news.ycombinator.com/item?id=30566459"/>
+        <updated>2022-03-05T11:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Russia-Ukraine War – What Happened on March 4]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戰爭期間監測、歸檔和轉錄公開的俄羅斯無線電通訊]]></title>
+        <id>https://news.ycombinator.com/item?id=30566441</id>
+        <link href="https://news.ycombinator.com/item?id=30566441"/>
+        <updated>2022-03-05T11:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Monitoring, Archiving and Transcribing Open Russian Radio Comms During the War]]></summary>
+        <author>
+            <name>artur_makly</name>
+            <uri>https://news.ycombinator.com/user?id=artur_makly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[貝寶暫停其在俄羅斯的服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30566434</id>
+        <link href="https://news.ycombinator.com/item?id=30566434"/>
+        <updated>2022-03-05T11:16:02.000Z</updated>
+        <summary type="html"><![CDATA[PayPal suspends its services in Russia]]></summary>
+        <author>
+            <name>rvz</name>
+            <uri>https://news.ycombinator.com/user?id=rvz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1981年3月5日。Timex Sinclair ZX81問世。科技史上的一天]]></title>
         <id>https://news.ycombinator.com/item?id=30566396</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>JoeDaDude</name>
             <uri>https://news.ycombinator.com/user?id=JoeDaDude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神秘的X射線可能是2017年中子星合併產生的千禧年 "餘光"]]></title>
-        <id>https://news.ycombinator.com/item?id=30556690</id>
-        <link href="https://news.ycombinator.com/item?id=30556690"/>
-        <updated>2022-03-04T16:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Mysterious X-rays could be kilonova “afterglow” from 2017 neutron star merger]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPS導航和天氣信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30556688</id>
-        <link href="https://news.ycombinator.com/item?id=30556688"/>
-        <updated>2022-03-04T16:13:11.000Z</updated>
-        <summary type="html"><![CDATA[GPS Navigation and Weather Info]]></summary>
-        <author>
-            <name>harry_meensah</name>
-            <uri>https://news.ycombinator.com/user?id=harry_meensah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電磁超敏症--機制回顧 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30556683</id>
-        <link href="https://news.ycombinator.com/item?id=30556683"/>
-        <updated>2022-03-04T16:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Electromagnetic hypersensitivity – Review of mechanisms [pdf]]]></summary>
-        <author>
-            <name>NoCharging</name>
-            <uri>https://news.ycombinator.com/user?id=NoCharging</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空氣汙染與亞洲的旱季和歐洲的夏季熱浪有關]]></title>
-        <id>https://news.ycombinator.com/item?id=30556650</id>
-        <link href="https://news.ycombinator.com/item?id=30556650"/>
-        <updated>2022-03-04T16:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Air pollution linked with dry spells in Asia and summer heatwaves in Europe]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
