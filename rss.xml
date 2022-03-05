@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LispPi。在Raspberry Pi 3上运行的Lisp操作系统（用Lisp编写的GPU驱动程序）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30564685</link>
+            <guid>https://news.ycombinator.com/item?id=30564685</guid>
+            <pubDate>Sat, 05 Mar 2022 05:48:01 GMT</pubDate>
+            <description><![CDATA[LispPi: A Lisp OS running on a Raspberry Pi 3 (with GPU drivers written in Lisp)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[超本地订阅市场--亚空间]]></title>
+            <link>https://news.ycombinator.com/item?id=30564675</link>
+            <guid>https://news.ycombinator.com/item?id=30564675</guid>
+            <pubDate>Sat, 05 Mar 2022 05:46:05 GMT</pubDate>
+            <description><![CDATA[The hyper local subscription marketplace - subspace]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我成为一名Scrum Master的历程]]></title>
+            <link>https://news.ycombinator.com/item?id=30564664</link>
+            <guid>https://news.ycombinator.com/item?id=30564664</guid>
+            <pubDate>Sat, 05 Mar 2022 05:42:19 GMT</pubDate>
+            <description><![CDATA[My journey to becoming a Scrum Master]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能模型根据网络帖子检测精神疾病]]></title>
+            <link>https://news.ycombinator.com/item?id=30564662</link>
+            <guid>https://news.ycombinator.com/item?id=30564662</guid>
+            <pubDate>Sat, 05 Mar 2022 05:41:55 GMT</pubDate>
+            <description><![CDATA[AI Model Detects Mental Disorders Based on Web Posts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阿帕奇NetBeans 13发布]]></title>
+            <link>https://news.ycombinator.com/item?id=30564655</link>
+            <guid>https://news.ycombinator.com/item?id=30564655</guid>
+            <pubDate>Sat, 05 Mar 2022 05:40:24 GMT</pubDate>
+            <description><![CDATA[Apache NetBeans 13 Released]]></description>
+        </item>
+        <item>
+            <title><![CDATA[注册错误的Uber邮箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30564641</link>
+            <guid>https://news.ycombinator.com/item?id=30564641</guid>
+            <pubDate>Sat, 05 Mar 2022 05:37:23 GMT</pubDate>
+            <description><![CDATA[Wrong Uber Email Registered]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ash HN：你对回到办公室工作有什么想法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30564639</link>
+            <guid>https://news.ycombinator.com/item?id=30564639</guid>
+            <pubDate>Sat, 05 Mar 2022 05:37:15 GMT</pubDate>
+            <description><![CDATA[Ash HN: What are your thoughts on going back to office to work?]]></description>
+        </item>
         <item>
             <title><![CDATA[我在基辅订了一间民宿]]></title>
             <link>https://news.ycombinator.com/item?id=30564581</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30555229</guid>
             <pubDate>Fri, 04 Mar 2022 14:28:58 GMT</pubDate>
             <description><![CDATA[Did I Miss Something?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[构建一个高质量的USB-C麦克风[视频]]]></title>
-            <link>https://news.ycombinator.com/item?id=30555216</link>
-            <guid>https://news.ycombinator.com/item?id=30555216</guid>
-            <pubDate>Fri, 04 Mar 2022 14:28:05 GMT</pubDate>
-            <description><![CDATA[Building a quality USB-C microphone [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国2月新增67.8万个工作岗位]]></title>
-            <link>https://news.ycombinator.com/item?id=30555187</link>
-            <guid>https://news.ycombinator.com/item?id=30555187</guid>
-            <pubDate>Fri, 04 Mar 2022 14:26:23 GMT</pubDate>
-            <description><![CDATA[The U.S. added 678,000 jobs in February]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase和Binance抵制将俄罗斯人踢出加密货币平台的呼吁]]></title>
-            <link>https://news.ycombinator.com/item?id=30555138</link>
-            <guid>https://news.ycombinator.com/item?id=30555138</guid>
-            <pubDate>Fri, 04 Mar 2022 14:23:07 GMT</pubDate>
-            <description><![CDATA[Coinbase, Binance resist calls to kick Russians off crypto platforms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是 "渲染意图 "以及我应该如何使用它们？]]></title>
-            <link>https://news.ycombinator.com/item?id=30555130</link>
-            <guid>https://news.ycombinator.com/item?id=30555130</guid>
-            <pubDate>Fri, 04 Mar 2022 14:22:21 GMT</pubDate>
-            <description><![CDATA[What Are ‘Rendering Intents’ and How Should I Use Them?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Next到Remix]]></title>
-            <link>https://news.ycombinator.com/item?id=30555123</link>
-            <guid>https://news.ycombinator.com/item?id=30555123</guid>
-            <pubDate>Fri, 04 Mar 2022 14:22:11 GMT</pubDate>
-            <description><![CDATA[Moving from Next to Remix]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京将被 "不择手段 "地赶走]]></title>
-            <link>https://news.ycombinator.com/item?id=30555104</link>
-            <guid>https://news.ycombinator.com/item?id=30555104</guid>
-            <pubDate>Fri, 04 Mar 2022 14:20:47 GMT</pubDate>
-            <description><![CDATA[Putin to Be Removed by 'Whatever Means Necessary']]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软暂停在俄罗斯的产品销售和服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30555087</link>
-            <guid>https://news.ycombinator.com/item?id=30555087</guid>
-            <pubDate>Fri, 04 Mar 2022 14:19:45 GMT</pubDate>
-            <description><![CDATA[Microsoft suspends product sales and services in Russia]]></description>
         </item>
     </channel>
 </rss>
