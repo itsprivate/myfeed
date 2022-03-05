@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T09:33:01.123Z</updated>
+    <updated>2022-03-05T09:40:30.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有声博客宣言》(2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=30565959</id>
+        <link href="https://news.ycombinator.com/item?id=30565959"/>
+        <updated>2022-03-05T09:35:34.000Z</updated>
+        <summary type="html"><![CDATA[An Audioblogging Manifesto (2004)]]></summary>
+        <author>
+            <name>MrJagil</name>
+            <uri>https://news.ycombinator.com/user?id=MrJagil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改进的近似算法和搜索多样化的下限]]></title>
+        <id>https://news.ycombinator.com/item?id=30565951</id>
+        <link href="https://news.ycombinator.com/item?id=30565951"/>
+        <updated>2022-03-05T09:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Improved Approximation Algorithms and Lower Bounds for Search-Diversification]]></summary>
+        <author>
+            <name>user_235711</name>
+            <uri>https://news.ycombinator.com/user?id=user_235711</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科幻作家取代Pebble成为Kickstarter筹资最多的活动的冠军]]></title>
+        <id>https://news.ycombinator.com/item?id=30565936</id>
+        <link href="https://news.ycombinator.com/item?id=30565936"/>
+        <updated>2022-03-05T09:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Sci-fi author dethrones Pebble for title of most-funded Kickstarter campaign]]></summary>
+        <author>
+            <name>user_235711</name>
+            <uri>https://news.ycombinator.com/user?id=user_235711</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯正在从人类的字典和质数用法中被抹去]]></title>
+        <id>https://news.ycombinator.com/item?id=30565817</id>
+        <link href="https://news.ycombinator.com/item?id=30565817"/>
+        <updated>2022-03-05T09:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Russia is being erased from human diction and prime number usage]]></summary>
+        <author>
+            <name>davidovdavidov</name>
+            <uri>https://news.ycombinator.com/user?id=davidovdavidov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不使用Mock进行测试]]></title>
         <id>https://news.ycombinator.com/item?id=30565918</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>beedrillzzzzz</name>
             <uri>https://news.ycombinator.com/user?id=beedrillzzzzz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柏林强奸案 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30556169</id>
-        <link href="https://news.ycombinator.com/item?id=30556169"/>
-        <updated>2022-03-04T15:33:31.000Z</updated>
-        <summary type="html"><![CDATA[The Rape of Berlin (2015)]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两个随机选择的力量 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30556159</id>
-        <link href="https://news.ycombinator.com/item?id=30556159"/>
-        <updated>2022-03-04T15:32:37.000Z</updated>
-        <summary type="html"><![CDATA[The Power of Two Random Choices [pdf]]]></summary>
-        <author>
-            <name>kkwteh</name>
-            <uri>https://news.ycombinator.com/user?id=kkwteh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些内容网站在俄罗斯仍在运行？]]></title>
-        <id>https://news.ycombinator.com/item?id=30556141</id>
-        <link href="https://news.ycombinator.com/item?id=30556141"/>
-        <updated>2022-03-04T15:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Which content sites are still up and running in Russia?]]></summary>
-        <author>
-            <name>boise</name>
-            <uri>https://news.ycombinator.com/user?id=boise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box - 云计算订阅的Web3解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30556135</id>
-        <link href="https://news.ycombinator.com/item?id=30556135"/>
-        <updated>2022-03-04T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Box – The Web3 Solution to Cloud Subscriptions]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
