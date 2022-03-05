@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T03:34:22.671Z</updated>
+    <updated>2022-03-05T03:42:31.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只剩下移動、開源的俄羅斯超級計算機會變成什麼樣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30563950</id>
+        <link href="https://news.ycombinator.com/item?id=30563950"/>
+        <updated>2022-03-05T03:31:20.000Z</updated>
+        <summary type="html"><![CDATA[What’s to become of Russia’s supercomputers with only mobile, open source left?]]></summary>
+        <author>
+            <name>keponefactory77</name>
+            <uri>https://news.ycombinator.com/user?id=keponefactory77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[魷魚303]]></title>
         <id>https://news.ycombinator.com/item?id=30563916</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個Java開發者希望他知道的關於單頁應用程序的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30554520</id>
-        <link href="https://news.ycombinator.com/item?id=30554520"/>
-        <updated>2022-03-04T13:37:51.000Z</updated>
-        <summary type="html"><![CDATA[What a Java developer wish he had known about single page applications]]></summary>
-        <author>
-            <name>aabbcc1241</name>
-            <uri>https://news.ycombinator.com/user?id=aabbcc1241</uri>
         </author>
     </entry>
 </feed>
