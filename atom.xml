@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T08:37:30.935Z</updated>
+    <updated>2022-03-05T08:47:58.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在谷歌工作的11年]]></title>
+        <id>https://news.ycombinator.com/item?id=30565652</id>
+        <link href="https://news.ycombinator.com/item?id=30565652"/>
+        <updated>2022-03-05T08:37:55.000Z</updated>
+        <summary type="html"><![CDATA[11 Years at Google]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript和Swift显然对公元1年1月1日是什么时候有不同意见。]]></title>
+        <id>https://news.ycombinator.com/item?id=30565633</id>
+        <link href="https://news.ycombinator.com/item?id=30565633"/>
+        <updated>2022-03-05T08:34:20.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript and Swift apparently disagree about when January 1, 1 AD was]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DogeRAM]]></title>
+        <id>https://news.ycombinator.com/item?id=30565631</id>
+        <link href="https://news.ycombinator.com/item?id=30565631"/>
+        <updated>2022-03-05T08:34:12.000Z</updated>
+        <summary type="html"><![CDATA[DogeRAM]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络动画性能基础知识]]></title>
         <id>https://news.ycombinator.com/item?id=30565593</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>lazaruzLong</name>
             <uri>https://news.ycombinator.com/user?id=lazaruzLong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妇女如何储蓄和投资的分步指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30555925</id>
-        <link href="https://news.ycombinator.com/item?id=30555925"/>
-        <updated>2022-03-04T15:13:21.000Z</updated>
-        <summary type="html"><![CDATA[A Step-by-Step Guide for Women on How to Save and Invest]]></summary>
-        <author>
-            <name>anthonyex</name>
-            <uri>https://news.ycombinator.com/user?id=anthonyex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络钓鱼活动针对协助难民行动的欧洲官员]]></title>
-        <id>https://news.ycombinator.com/item?id=30555922</id>
-        <link href="https://news.ycombinator.com/item?id=30555922"/>
-        <updated>2022-03-04T15:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Phishing campaign targets European officials assisting in refugee operations]]></summary>
-        <author>
-            <name>valprop1</name>
-            <uri>https://news.ycombinator.com/user?id=valprop1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：初级（YC W22）--开源数据的可观察性]]></title>
-        <id>https://news.ycombinator.com/item?id=30555914</id>
-        <link href="https://news.ycombinator.com/item?id=30555914"/>
-        <updated>2022-03-04T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Elementary (YC W22) – Open-source data observability]]></summary>
-        <author>
-            <name>Maayansa</name>
-            <uri>https://news.ycombinator.com/user?id=Maayansa</uri>
         </author>
     </entry>
 </feed>
