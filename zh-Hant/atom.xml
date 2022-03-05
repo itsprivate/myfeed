@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T20:39:17.091Z</updated>
+    <updated>2022-03-05T20:51:47.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新類型企業的開放戰略]]></title>
+        <id>https://news.ycombinator.com/item?id=30571688</id>
+        <link href="https://news.ycombinator.com/item?id=30571688"/>
+        <updated>2022-03-05T20:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Open strategy for a new kind of business]]></summary>
+        <author>
+            <name>mathgladiator</name>
+            <uri>https://news.ycombinator.com/user?id=mathgladiator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Vanilla JavaScript管理HTML DOM]]></title>
+        <id>https://news.ycombinator.com/item?id=30571685</id>
+        <link href="https://news.ycombinator.com/item?id=30571685"/>
+        <updated>2022-03-05T20:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Manage HTML DOM with Vanilla JavaScript]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷冰川崩塌]]></title>
+        <id>https://news.ycombinator.com/item?id=30571674</id>
+        <link href="https://news.ycombinator.com/item?id=30571674"/>
+        <updated>2022-03-05T20:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Argentina Glacier Collapsed]]></summary>
+        <author>
+            <name>joering2</name>
+            <uri>https://news.ycombinator.com/user?id=joering2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯互聯網骨幹供應商關閉服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30571631</id>
+        <link href="https://news.ycombinator.com/item?id=30571631"/>
+        <updated>2022-03-05T20:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Internet backbone provider shuts off service in Russia]]></summary>
+        <author>
+            <name>Markoff</name>
+            <uri>https://news.ycombinator.com/user?id=Markoff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國會議員尋求解除宣傳禁令 (2012)]]></title>
         <id>https://news.ycombinator.com/item?id=30571607</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股東投票支持蘋果進行民權審計，與公司背道而馳]]></title>
-        <id>https://news.ycombinator.com/item?id=30561464</id>
-        <link href="https://news.ycombinator.com/item?id=30561464"/>
-        <updated>2022-03-04T22:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Shareholders vote for Apple to conduct a civil rights audit, bucking company]]></summary>
-        <author>
-            <name>birdyrooster</name>
-            <uri>https://news.ycombinator.com/user?id=birdyrooster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇異帖]]></title>
-        <id>https://news.ycombinator.com/item?id=30561456</id>
-        <link href="https://news.ycombinator.com/item?id=30561456"/>
-        <updated>2022-03-04T22:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Oddpost]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源社區考慮取消對俄羅斯處理器的代碼優化]]></title>
-        <id>https://news.ycombinator.com/item?id=30561449</id>
-        <link href="https://news.ycombinator.com/item?id=30561449"/>
-        <updated>2022-03-04T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Community Ponders Removing Code Optimizations for Russian Processors]]></summary>
-        <author>
-            <name>m-watson</name>
-            <uri>https://news.ycombinator.com/user?id=m-watson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟停止了在俄羅斯的所有新銷售]]></title>
-        <id>https://news.ycombinator.com/item?id=30561445</id>
-        <link href="https://news.ycombinator.com/item?id=30561445"/>
-        <updated>2022-03-04T22:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft halts all new sales in Russia]]></summary>
-        <author>
-            <name>benevol</name>
-            <uri>https://news.ycombinator.com/user?id=benevol</uri>
         </author>
     </entry>
 </feed>
