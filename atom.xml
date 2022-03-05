@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T09:14:54.506Z</updated>
+    <updated>2022-03-05T09:33:01.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不使用Mock进行测试]]></title>
+        <id>https://news.ycombinator.com/item?id=30565918</id>
+        <link href="https://news.ycombinator.com/item?id=30565918"/>
+        <updated>2022-03-05T09:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Testing Without Mocks]]></summary>
+        <author>
+            <name>etamponi</name>
+            <uri>https://news.ycombinator.com/user?id=etamponi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30565889</id>
+        <link href="https://news.ycombinator.com/item?id=30565889"/>
+        <updated>2022-03-05T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NFT Generator]]></summary>
+        <author>
+            <name>Jamesbarford</name>
+            <uri>https://news.ycombinator.com/user?id=Jamesbarford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随着社交媒体对乌克兰的关注，Covid虚假信息有所下降]]></title>
+        <id>https://news.ycombinator.com/item?id=30565875</id>
+        <link href="https://news.ycombinator.com/item?id=30565875"/>
+        <updated>2022-03-05T09:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Covid disinformation down as social media pivot to Ukraine]]></summary>
+        <author>
+            <name>alanl</name>
+            <uri>https://news.ycombinator.com/user?id=alanl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word-in-one--每天的Wordle式谜题]]></title>
+        <id>https://news.ycombinator.com/item?id=30565855</id>
+        <link href="https://news.ycombinator.com/item?id=30565855"/>
+        <updated>2022-03-05T09:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Word-in-one – a daily Wordle-style puzzle]]></summary>
+        <author>
+            <name>mconst</name>
+            <uri>https://news.ycombinator.com/user?id=mconst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HarperDB - 以互联网的速度在全球范围内复制数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30565853</id>
+        <link href="https://news.ycombinator.com/item?id=30565853"/>
+        <updated>2022-03-05T09:12:56.000Z</updated>
+        <summary type="html"><![CDATA[HarperDB – Globally Replicates Data at the Speed of the Internet]]></summary>
+        <author>
+            <name>colesantiago</name>
+            <uri>https://news.ycombinator.com/user?id=colesantiago</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kessler综合症]]></title>
         <id>https://news.ycombinator.com/item?id=30565794</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告--明尼苏达州实施监控计划，追踪活动家和记者。]]></title>
-        <id>https://news.ycombinator.com/item?id=30556090</id>
-        <link href="https://news.ycombinator.com/item?id=30556090"/>
-        <updated>2022-03-04T15:27:53.000Z</updated>
-        <summary type="html"><![CDATA[Report-Minnesota Runs Surveillance Prog to Track Activists, Journalists]]></summary>
-        <author>
-            <name>triple_m</name>
-            <uri>https://news.ycombinator.com/user?id=triple_m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局的审计员揭示了SLS发射的 "不可持续 "成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30556065</id>
-        <link href="https://news.ycombinator.com/item?id=30556065"/>
-        <updated>2022-03-04T15:25:25.000Z</updated>
-        <summary type="html"><![CDATA[NASA Auditor Reveals ‘Unsustainable’ Cost for SLS Launches]]></summary>
-        <author>
-            <name>triple_m</name>
-            <uri>https://news.ycombinator.com/user?id=triple_m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基本量子算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30556053</id>
-        <link href="https://news.ycombinator.com/item?id=30556053"/>
-        <updated>2022-03-04T15:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Basic Quantum Algorithms]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的找工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30556024</id>
-        <link href="https://news.ycombinator.com/item?id=30556024"/>
-        <updated>2022-03-04T15:21:53.000Z</updated>
-        <summary type="html"><![CDATA[My Job Search]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正念可以使你成为一个更黑暗的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30556022</id>
-        <link href="https://news.ycombinator.com/item?id=30556022"/>
-        <updated>2022-03-04T15:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Mindfulness can make you a darker person]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
