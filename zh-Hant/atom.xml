@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T10:36:26.495Z</updated>
+    <updated>2022-03-05T10:45:06.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為DNA字母表添加新的字母可使數據存儲的密度增加一倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30566266</id>
+        <link href="https://news.ycombinator.com/item?id=30566266"/>
+        <updated>2022-03-05T10:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Adding new letters to DNA alphabet doubles density of data storage]]></summary>
+        <author>
+            <name>hochmartinez</name>
+            <uri>https://news.ycombinator.com/user?id=hochmartinez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詐騙郵件--冒充紅十字會--通過比特幣徵集捐款]]></title>
         <id>https://news.ycombinator.com/item?id=30566210</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SpencerScott</name>
             <uri>https://news.ycombinator.com/user?id=SpencerScott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臺甫洛夫餅乾]]></title>
-        <id>https://news.ycombinator.com/item?id=30556523</id>
-        <link href="https://news.ycombinator.com/item?id=30556523"/>
-        <updated>2022-03-04T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Typora Cracker]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
