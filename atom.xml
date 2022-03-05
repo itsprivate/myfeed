@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-05T05:54:33.979Z</updated>
+    <updated>2022-03-05T06:18:38.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SpaceX公司重新确定了网络防御和克服信号干扰的优先次序]]></title>
+        <id>https://news.ycombinator.com/item?id=30564828</id>
+        <link href="https://news.ycombinator.com/item?id=30564828"/>
+        <updated>2022-03-05T06:11:12.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX reprioritized to cyber defense and overcoming signal jamming]]></summary>
+        <author>
+            <name>labrador</name>
+            <uri>https://news.ycombinator.com/user?id=labrador</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTFBins，一个收集良性但看起来可疑的应用程序的项目]]></title>
+        <id>https://news.ycombinator.com/item?id=30564815</id>
+        <link href="https://news.ycombinator.com/item?id=30564815"/>
+        <updated>2022-03-05T06:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WTFBins, a project to collect benign, but suspicious-looking apps]]></summary>
+        <author>
+            <name>mttaggart</name>
+            <uri>https://news.ycombinator.com/user?id=mttaggart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京的普遍提携]]></title>
+        <id>https://news.ycombinator.com/item?id=30564805</id>
+        <link href="https://news.ycombinator.com/item?id=30564805"/>
+        <updated>2022-03-05T06:07:32.000Z</updated>
+        <summary type="html"><![CDATA[The Universal Boosting of Putin]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用SSI来发布博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30564800</id>
+        <link href="https://news.ycombinator.com/item?id=30564800"/>
+        <updated>2022-03-05T06:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Using SSI to Publish a Blog]]></summary>
+        <author>
+            <name>iapsngh</name>
+            <uri>https://news.ycombinator.com/user?id=iapsngh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twisted Matrix 22.2.0 - 用Python编写的事件驱动的网络引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30564788</id>
+        <link href="https://news.ycombinator.com/item?id=30564788"/>
+        <updated>2022-03-05T06:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Twisted Matrix 22.2.0 – Event-driven networking engine written in Python]]></summary>
+        <author>
+            <name>neustradamus</name>
+            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求你了，别再失去剧情了]]></title>
+        <id>https://news.ycombinator.com/item?id=30564786</id>
+        <link href="https://news.ycombinator.com/item?id=30564786"/>
+        <updated>2022-03-05T06:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Please, Don't Lose the Plot]]></summary>
+        <author>
+            <name>mellosouls</name>
+            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expat库：libexpat 2.4.7（CVE修复）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30564782</id>
+        <link href="https://news.ycombinator.com/item?id=30564782"/>
+        <updated>2022-03-05T06:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Expat library: libexpat 2.4.7 (CVE fixes)]]></summary>
+        <author>
+            <name>neustradamus</name>
+            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何进行优化设计]]></title>
+        <id>https://news.ycombinator.com/item?id=30564738</id>
+        <link href="https://news.ycombinator.com/item?id=30564738"/>
+        <updated>2022-03-05T05:57:56.000Z</updated>
+        <summary type="html"><![CDATA[How to Design for Optimization]]></summary>
+        <author>
+            <name>Opy_</name>
+            <uri>https://news.ycombinator.com/user?id=Opy_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LispPi。在Raspberry Pi 3上运行的Lisp操作系统（用Lisp编写的GPU驱动程序）。]]></title>
         <id>https://news.ycombinator.com/item?id=30564685</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>Jeff_Brown</name>
             <uri>https://news.ycombinator.com/user?id=Jeff_Brown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软暂停在俄罗斯的产品和服务的 "所有新销售"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30555344</id>
-        <link href="https://news.ycombinator.com/item?id=30555344"/>
-        <updated>2022-03-04T14:35:59.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is suspending “all new sales” of its products and services in Russia]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玉米饼]]></title>
-        <id>https://news.ycombinator.com/item?id=30555311</id>
-        <link href="https://news.ycombinator.com/item?id=30555311"/>
-        <updated>2022-03-04T14:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Corn-Pone]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国空军计划开始在月球周围地区进行巡逻]]></title>
-        <id>https://news.ycombinator.com/item?id=30555276</id>
-        <link href="https://news.ycombinator.com/item?id=30555276"/>
-        <updated>2022-03-04T14:31:16.000Z</updated>
-        <summary type="html"><![CDATA[The US Space Force plans to start patrolling the area around the Moon]]></summary>
-        <author>
-            <name>pyinstallwoes</name>
-            <uri>https://news.ycombinator.com/user?id=pyinstallwoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用表情符号做了一个网页游戏，没有使用JS框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30555274</id>
-        <link href="https://news.ycombinator.com/item?id=30555274"/>
-        <updated>2022-03-04T14:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a web game using emojis and no JS framework]]></summary>
-        <author>
-            <name>dylanjcastillo</name>
-            <uri>https://news.ycombinator.com/user?id=dylanjcastillo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ploticus - 一个多功能的工具，可以从命令行产生图形]]></title>
-        <id>https://news.ycombinator.com/item?id=30555270</id>
-        <link href="https://news.ycombinator.com/item?id=30555270"/>
-        <updated>2022-03-04T14:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Ploticus – a versatile tool to produce graphs from command line]]></summary>
-        <author>
-            <name>smartmic</name>
-            <uri>https://news.ycombinator.com/user?id=smartmic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erthos公司赚取1700万美元，直接在地面上安装太阳能电池板]]></title>
-        <id>https://news.ycombinator.com/item?id=30555248</id>
-        <link href="https://news.ycombinator.com/item?id=30555248"/>
-        <updated>2022-03-04T14:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Erthos rakes in $17M to install solar panels directly on the ground]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于访问BBC新闻的建议（使用Tor）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30555244</id>
-        <link href="https://news.ycombinator.com/item?id=30555244"/>
-        <updated>2022-03-04T14:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Advice on accessing BBC News (using Tor)]]></summary>
-        <author>
-            <name>benn_88</name>
-            <uri>https://news.ycombinator.com/user?id=benn_88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我错过了什么吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30555229</id>
-        <link href="https://news.ycombinator.com/item?id=30555229"/>
-        <updated>2022-03-04T14:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Did I Miss Something?]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
         </author>
     </entry>
 </feed>
