@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T09:38:47.423Z</updated>
+    <updated>2022-03-06T09:51:24.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[彭博社億萬富翁指數]]></title>
+        <id>https://news.ycombinator.com/item?id=30576303</id>
+        <link href="https://news.ycombinator.com/item?id=30576303"/>
+        <updated>2022-03-06T09:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Bloomberg Billionaires Index]]></summary>
+        <author>
+            <name>adrian_mrd</name>
+            <uri>https://news.ycombinator.com/user?id=adrian_mrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目標：與Mitre攻擊戰術和技術相匹配的事件響應程序書]]></title>
+        <id>https://news.ycombinator.com/item?id=30576292</id>
+        <link href="https://news.ycombinator.com/item?id=30576292"/>
+        <updated>2022-03-06T09:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Goal: Incident Response Playbooks Mapped to Mitre Attack Tactics and Techniques]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM開源300美元*全功能樂高顯微鏡設計]]></title>
+        <id>https://news.ycombinator.com/item?id=30576285</id>
+        <link href="https://news.ycombinator.com/item?id=30576285"/>
+        <updated>2022-03-06T09:41:24.000Z</updated>
+        <summary type="html"><![CDATA[IBM open sources $300* fully-functional Lego microscope design]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一名志願消防員，我的大流行病啟發的副業項目]]></title>
+        <id>https://news.ycombinator.com/item?id=30576280</id>
+        <link href="https://news.ycombinator.com/item?id=30576280"/>
+        <updated>2022-03-06T09:39:42.000Z</updated>
+        <summary type="html"><![CDATA[My pandemic inspired side project as a volunteer firefighter]]></summary>
+        <author>
+            <name>fwiedmann</name>
+            <uri>https://news.ycombinator.com/user?id=fwiedmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近100萬烏克蘭人逃到了安全的地方--超過4000萬的人留在了這裡]]></title>
         <id>https://news.ycombinator.com/item?id=30576251</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>laktak</name>
             <uri>https://news.ycombinator.com/user?id=laktak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活生生的用戶故事文檔]]></title>
-        <id>https://news.ycombinator.com/item?id=30566133</id>
-        <link href="https://news.ycombinator.com/item?id=30566133"/>
-        <updated>2022-03-05T10:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Living User Story Documentation]]></summary>
-        <author>
-            <name>chrisrickard</name>
-            <uri>https://news.ycombinator.com/user?id=chrisrickard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aspinity通過首款模擬ML芯片重新定義了永遠在線的電源效率]]></title>
-        <id>https://news.ycombinator.com/item?id=30566127</id>
-        <link href="https://news.ycombinator.com/item?id=30566127"/>
-        <updated>2022-03-05T10:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Aspinity Redefines Always-On Power Efficiency with First Analog ML Chip]]></summary>
-        <author>
-            <name>smusamashah</name>
-            <uri>https://news.ycombinator.com/user?id=smusamashah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[該死的超酷算法。列文施泰因自動機]]></title>
-        <id>https://news.ycombinator.com/item?id=30566119</id>
-        <link href="https://news.ycombinator.com/item?id=30566119"/>
-        <updated>2022-03-05T10:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Damn Cool Algorithms: Levenshtein Automata]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必要的C [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30566118</id>
-        <link href="https://news.ycombinator.com/item?id=30566118"/>
-        <updated>2022-03-05T10:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Essential C [pdf]]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
