@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T11:53:05.079Z</updated>
+    <updated>2022-03-06T12:18:44.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,149 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新消息。从多个来源收集和处理相当多的网络新闻]]></title>
+        <id>https://news.ycombinator.com/item?id=30577029</id>
+        <link href="https://news.ycombinator.com/item?id=30577029"/>
+        <updated>2022-03-06T12:12:20.000Z</updated>
+        <summary type="html"><![CDATA[WhatsNew: Collect and process quite a few web news from multiple sources]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们基本上是从零开始的'。恢复芬兰的河流生态系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30577001</id>
+        <link href="https://news.ycombinator.com/item?id=30577001"/>
+        <updated>2022-03-06T12:07:24.000Z</updated>
+        <summary type="html"><![CDATA[‘We’re basically starting from zero’: Restoring Finland’s river ecosystems]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岩纸剪子游戏中的非赫米特拓扑学]]></title>
+        <id>https://news.ycombinator.com/item?id=30576980</id>
+        <link href="https://news.ycombinator.com/item?id=30576980"/>
+        <updated>2022-03-06T12:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Non-Hermitian topology in rock-paper-scissors games]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用OCaml进行Unix系统编程的入门课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30576948</id>
+        <link href="https://news.ycombinator.com/item?id=30576948"/>
+        <updated>2022-03-06T11:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Introductory course to Unix system programming in OCaml]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神经网络可以计算任何函数的直观证明]]></title>
+        <id>https://news.ycombinator.com/item?id=30576943</id>
+        <link href="https://news.ycombinator.com/item?id=30576943"/>
+        <updated>2022-03-06T11:56:54.000Z</updated>
+        <summary type="html"><![CDATA[A visual proof that neural nets can compute any function]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯能源混乱引发数十年来最大的市场冲击]]></title>
+        <id>https://news.ycombinator.com/item?id=30576941</id>
+        <link href="https://news.ycombinator.com/item?id=30576941"/>
+        <updated>2022-03-06T11:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Russia Energy Chaos Triggers the Biggest Market Shock in Decades]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级编程语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30576940</id>
+        <link href="https://news.ycombinator.com/item?id=30576940"/>
+        <updated>2022-03-06T11:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Programming Languages]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好的敏捷，坏的敏捷]]></title>
+        <id>https://news.ycombinator.com/item?id=30576929</id>
+        <link href="https://news.ycombinator.com/item?id=30576929"/>
+        <updated>2022-03-06T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Good Agile, Bad Agile]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过监督和人类的循环来引导标签]]></title>
+        <id>https://news.ycombinator.com/item?id=30576925</id>
+        <link href="https://news.ycombinator.com/item?id=30576925"/>
+        <updated>2022-03-06T11:54:29.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrapping labels via supervision and human in the loop]]></summary>
+        <author>
+            <name>atg_abhishek</name>
+            <uri>https://news.ycombinator.com/user?id=atg_abhishek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯互联网骨干供应商关闭服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30576910</id>
+        <link href="https://news.ycombinator.com/item?id=30576910"/>
+        <updated>2022-03-06T11:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Internet backbone provider shuts off service in Russia]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量化宽松时代的无形战争成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30576909</id>
+        <link href="https://news.ycombinator.com/item?id=30576909"/>
+        <updated>2022-03-06T11:51:41.000Z</updated>
+        <summary type="html"><![CDATA[The invisible cost of war in the age of quantitative easing]]></summary>
+        <author>
+            <name>sanatgersappa</name>
+            <uri>https://news.ycombinator.com/user?id=sanatgersappa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的入侵促使日本采取更强硬的外交政策]]></title>
+        <id>https://news.ycombinator.com/item?id=30576908</id>
+        <link href="https://news.ycombinator.com/item?id=30576908"/>
+        <updated>2022-03-06T11:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s invasion prompts more assertive foreign policy from Japan]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络版VS代码：vscode.dev]]></title>
+        <id>https://news.ycombinator.com/item?id=30576902</id>
+        <link href="https://news.ycombinator.com/item?id=30576902"/>
+        <updated>2022-03-06T11:51:19.000Z</updated>
+        <summary type="html"><![CDATA[VS Code for the Web: vscode.dev]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emoji'21征集论文]]></title>
         <id>https://news.ycombinator.com/item?id=30576881</id>
@@ -6470,149 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯在乌克兰的战争中，黑客挑起了大乱子]]></title>
-        <id>https://news.ycombinator.com/item?id=30567044</id>
-        <link href="https://news.ycombinator.com/item?id=30567044"/>
-        <updated>2022-03-05T12:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Hackers stoke pandemonium amid Russia’s war in Ukraine]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人从复活节岛的摩艾雕像中获得一些灵感]]></title>
-        <id>https://news.ycombinator.com/item?id=30567012</id>
-        <link href="https://news.ycombinator.com/item?id=30567012"/>
-        <updated>2022-03-05T12:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Robots Get Some Inspiration from the Moai Statues of Easter Island]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德克萨斯州禁令出台后，绝大多数人都到州外进行堕胎]]></title>
-        <id>https://news.ycombinator.com/item?id=30567000</id>
-        <link href="https://news.ycombinator.com/item?id=30567000"/>
-        <updated>2022-03-05T12:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Texans overwhelmingly traveled out-of-state to get abortions after state ban]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/10的美国人说他们不吃肉--在人口中的比例越来越高]]></title>
-        <id>https://news.ycombinator.com/item?id=30566994</id>
-        <link href="https://news.ycombinator.com/item?id=30566994"/>
-        <updated>2022-03-05T12:37:23.000Z</updated>
-        <summary type="html"><![CDATA[1 in 10 Americans say they don’t eat meat – a growing share of the population]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他作家应该对布兰登-桑德森的2200万美元的Kickstarter有多愤怒？]]></title>
-        <id>https://news.ycombinator.com/item?id=30566973</id>
-        <link href="https://news.ycombinator.com/item?id=30566973"/>
-        <updated>2022-03-05T12:34:07.000Z</updated>
-        <summary type="html"><![CDATA[How Angry Should Other Writers Be About Brandon Sanderson’s $22M Kickstarter?]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更多证据表明Covid-19始于市场，而不是实验室]]></title>
-        <id>https://news.ycombinator.com/item?id=30566956</id>
-        <link href="https://news.ycombinator.com/item?id=30566956"/>
-        <updated>2022-03-05T12:31:51.000Z</updated>
-        <summary type="html"><![CDATA[More evidence that Covid-19 started in a market, not a laboratory]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维修权团体和农民联盟对约翰迪尔提出联邦贸易委员会投诉]]></title>
-        <id>https://news.ycombinator.com/item?id=30566953</id>
-        <link href="https://news.ycombinator.com/item?id=30566953"/>
-        <updated>2022-03-05T12:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Right to Repair Groups and Farmers Unions File FTC Complaint Against John Deere]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望在尝试Istio之前就知道的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30566913</id>
-        <link href="https://news.ycombinator.com/item?id=30566913"/>
-        <updated>2022-03-05T12:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Things I Wish I'd Known Before I Tried Istio]]></summary>
-        <author>
-            <name>arnon</name>
-            <uri>https://news.ycombinator.com/user?id=arnon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯公寓爆炸案]]></title>
-        <id>https://news.ycombinator.com/item?id=30566851</id>
-        <link href="https://news.ycombinator.com/item?id=30566851"/>
-        <updated>2022-03-05T12:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Russian Apartment Bombings]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟新的分类法可能会延缓能源转型]]></title>
-        <id>https://news.ycombinator.com/item?id=30566826</id>
-        <link href="https://news.ycombinator.com/item?id=30566826"/>
-        <updated>2022-03-05T12:12:40.000Z</updated>
-        <summary type="html"><![CDATA[New EU taxonomy might slow down energy transition]]></summary>
-        <author>
-            <name>riedel</name>
-            <uri>https://news.ycombinator.com/user?id=riedel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在缓慢的制裁反应中，英国的腐败脆弱性被揭露出来]]></title>
-        <id>https://news.ycombinator.com/item?id=30566774</id>
-        <link href="https://news.ycombinator.com/item?id=30566774"/>
-        <updated>2022-03-05T12:04:58.000Z</updated>
-        <summary type="html"><![CDATA[UK’s vulnerability to corruption uncovered amid slow sanctions response]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泽伦斯基如何与新纳粹分子达成和平协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30566769</id>
-        <link href="https://news.ycombinator.com/item?id=30566769"/>
-        <updated>2022-03-05T12:04:17.000Z</updated>
-        <summary type="html"><![CDATA[How Zelensky Made Peace with Neo-Nazis]]></summary>
-        <author>
-            <name>mediumsmart</name>
-            <uri>https://news.ycombinator.com/user?id=mediumsmart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曲线EcGFp5]]></title>
-        <id>https://news.ycombinator.com/item?id=30566755</id>
-        <link href="https://news.ycombinator.com/item?id=30566755"/>
-        <updated>2022-03-05T12:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Curve EcGFp5]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
         </author>
     </entry>
 </feed>
