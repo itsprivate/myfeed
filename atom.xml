@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T19:28:03.126Z</updated>
+    <updated>2022-03-06T19:37:08.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[发现之门]]></title>
+        <id>https://news.ycombinator.com/item?id=30580396</id>
+        <link href="https://news.ycombinator.com/item?id=30580396"/>
+        <updated>2022-03-06T19:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Portals of Discovery]]></summary>
+        <author>
+            <name>twoodfin</name>
+            <uri>https://news.ycombinator.com/user?id=twoodfin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因身体健康原因删除TikTok]]></title>
+        <id>https://news.ycombinator.com/item?id=30580390</id>
+        <link href="https://news.ycombinator.com/item?id=30580390"/>
+        <updated>2022-03-06T19:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Deleting TikTok for physical health reasons]]></summary>
+        <author>
+            <name>m348e912</name>
+            <uri>https://news.ycombinator.com/user?id=m348e912</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok暂停在俄罗斯的业务]]></title>
+        <id>https://news.ycombinator.com/item?id=30580359</id>
+        <link href="https://news.ycombinator.com/item?id=30580359"/>
+        <updated>2022-03-06T19:29:21.000Z</updated>
+        <summary type="html"><![CDATA[TikTok Suspends Operations in Russia]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的妻子跟踪我，为了新闻工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30580333</id>
+        <link href="https://news.ycombinator.com/item?id=30580333"/>
+        <updated>2022-03-06T19:26:23.000Z</updated>
+        <summary type="html"><![CDATA[My Wife Tracked Me, for Journalism]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国在过去一年中出现了就业增长；35%的美国人认为我们失去了就业机会]]></title>
         <id>https://news.ycombinator.com/item?id=30580285</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们正在预订乌克兰的Airbnbs--不是为了住宿，而是为了提供支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30572075</id>
-        <link href="https://news.ycombinator.com/item?id=30572075"/>
-        <updated>2022-03-05T21:27:44.000Z</updated>
-        <summary type="html"><![CDATA[People are booking Airbnbs in Ukraine – not to stay, but to lend their support]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Prod中编辑东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30572059</id>
-        <link href="https://news.ycombinator.com/item?id=30572059"/>
-        <updated>2022-03-05T21:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Editing Stuff in Prod]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参数化查询中的SQL注入]]></title>
-        <id>https://news.ycombinator.com/item?id=30571990</id>
-        <link href="https://news.ycombinator.com/item?id=30571990"/>
-        <updated>2022-03-05T21:18:49.000Z</updated>
-        <summary type="html"><![CDATA[SQL Injection in a Parameterized Query]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[镜头设计表格的终极指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30571987</id>
-        <link href="https://news.ycombinator.com/item?id=30571987"/>
-        <updated>2022-03-05T21:18:32.000Z</updated>
-        <summary type="html"><![CDATA[The Ultimate Guide to Lens Design Forms]]></summary>
-        <author>
-            <name>alrex021</name>
-            <uri>https://news.ycombinator.com/user?id=alrex021</uri>
         </author>
     </entry>
 </feed>
