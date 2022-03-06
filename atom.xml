@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T23:15:27.504Z</updated>
+    <updated>2022-03-06T23:33:02.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太多的JavaScript是不好的，没有JavaScript也不会更好]]></title>
+        <id>https://news.ycombinator.com/item?id=30582320</id>
+        <link href="https://news.ycombinator.com/item?id=30582320"/>
+        <updated>2022-03-06T23:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Too much JavaScript is bad, no JavaScript isn't better]]></summary>
+        <author>
+            <name>jago_</name>
+            <uri>https://news.ycombinator.com/user?id=jago_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科罗拉多州丹佛市的一箱人头被盗]]></title>
+        <id>https://news.ycombinator.com/item?id=30582317</id>
+        <link href="https://news.ycombinator.com/item?id=30582317"/>
+        <updated>2022-03-06T23:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Box of human heads stolen in Denver, Colorado]]></summary>
+        <author>
+            <name>starwind</name>
+            <uri>https://news.ycombinator.com/user?id=starwind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德米斯-哈萨比斯创办DeepMind的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30582288</id>
+        <link href="https://news.ycombinator.com/item?id=30582288"/>
+        <updated>2022-03-06T23:22:37.000Z</updated>
+        <summary type="html"><![CDATA[The reason Demis Hassabis started DeepMind]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十亿美元的间谍]]></title>
+        <id>https://news.ycombinator.com/item?id=30582281</id>
+        <link href="https://news.ycombinator.com/item?id=30582281"/>
+        <updated>2022-03-06T23:21:02.000Z</updated>
+        <summary type="html"><![CDATA[The Billion Dollar Spy]]></summary>
+        <author>
+            <name>onlyi_spectator</name>
+            <uri>https://news.ycombinator.com/user?id=onlyi_spectator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-索尔比的《英国矿物学》（1802-1817）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30582233</id>
+        <link href="https://news.ycombinator.com/item?id=30582233"/>
+        <updated>2022-03-06T23:13:01.000Z</updated>
+        <summary type="html"><![CDATA[James Sowerby's British Mineralogy (1802–1817)]]></summary>
+        <author>
+            <name>Petiver</name>
+            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C# 8.0中的新内容]]></title>
         <id>https://news.ycombinator.com/item?id=30582208</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>alin23</name>
             <uri>https://news.ycombinator.com/user?id=alin23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯股票以1美分抛售震惊了EToro上的散户投资者]]></title>
-        <id>https://news.ycombinator.com/item?id=30574201</id>
-        <link href="https://news.ycombinator.com/item?id=30574201"/>
-        <updated>2022-03-06T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Russian Stock Dumped for 1 Cent Shocks Retail Investors on EToro]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据游戏：亚马逊对你的了解以及如何阻止它]]></title>
-        <id>https://news.ycombinator.com/item?id=30574199</id>
-        <link href="https://news.ycombinator.com/item?id=30574199"/>
-        <updated>2022-03-06T01:51:47.000Z</updated>
-        <summary type="html"><![CDATA[The data game: what Amazon knows about you and how to stop it]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维萨和万事达因乌克兰入侵而暂停在俄罗斯的业务]]></title>
-        <id>https://news.ycombinator.com/item?id=30574174</id>
-        <link href="https://news.ycombinator.com/item?id=30574174"/>
-        <updated>2022-03-06T01:48:52.000Z</updated>
-        <summary type="html"><![CDATA[Visa, MasterCard suspend operations in Russia over Ukraine invasion]]></summary>
-        <author>
-            <name>geerlingguy</name>
-            <uri>https://news.ycombinator.com/user?id=geerlingguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻女孩被在Roblox上认识的男子绑架后返回。]]></title>
-        <id>https://news.ycombinator.com/item?id=30574156</id>
-        <link href="https://news.ycombinator.com/item?id=30574156"/>
-        <updated>2022-03-06T01:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Young girl returned after kidnapping by man she met on Roblox]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5万年前的DNA揭示了古人类历史上的一个关键转变]]></title>
-        <id>https://news.ycombinator.com/item?id=30574140</id>
-        <link href="https://news.ycombinator.com/item?id=30574140"/>
-        <updated>2022-03-06T01:42:45.000Z</updated>
-        <summary type="html"><![CDATA[50k-Year-old DNA reveals a critical shift in ancient human history]]></summary>
-        <author>
-            <name>CRConrad</name>
-            <uri>https://news.ycombinator.com/user?id=CRConrad</uri>
         </author>
     </entry>
 </feed>
