@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T08:35:34.045Z</updated>
+    <updated>2022-03-06T08:52:10.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信息運營--推特透明中心(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30576069</id>
+        <link href="https://news.ycombinator.com/item?id=30576069"/>
+        <updated>2022-03-06T08:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Information Operations – Twitter Transparency Center (2021)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：谷歌將俄羅斯新聞從結果中刪除]]></title>
         <id>https://news.ycombinator.com/item?id=30575992</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alanl</name>
             <uri>https://news.ycombinator.com/user?id=alanl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word-in-one--每天的Wordle式謎題]]></title>
-        <id>https://news.ycombinator.com/item?id=30565855</id>
-        <link href="https://news.ycombinator.com/item?id=30565855"/>
-        <updated>2022-03-05T09:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Word-in-one – a daily Wordle-style puzzle]]></summary>
-        <author>
-            <name>mconst</name>
-            <uri>https://news.ycombinator.com/user?id=mconst</uri>
         </author>
     </entry>
 </feed>
