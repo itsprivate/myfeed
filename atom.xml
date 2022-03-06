@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T11:37:55.748Z</updated>
+    <updated>2022-03-06T11:53:05.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Emoji'21征集论文]]></title>
+        <id>https://news.ycombinator.com/item?id=30576881</id>
+        <link href="https://news.ycombinator.com/item?id=30576881"/>
+        <updated>2022-03-06T11:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Emoji'21 Call for Papers]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome音乐实验室]]></title>
+        <id>https://news.ycombinator.com/item?id=30576875</id>
+        <link href="https://news.ycombinator.com/item?id=30576875"/>
+        <updated>2022-03-06T11:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Chrome Music Lab]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几条简单的规则决定了漂浮的火蚁筏子如何随时间而改变形状]]></title>
+        <id>https://news.ycombinator.com/item?id=30576869</id>
+        <link href="https://news.ycombinator.com/item?id=30576869"/>
+        <updated>2022-03-06T11:45:42.000Z</updated>
+        <summary type="html"><![CDATA[A few simple rules determine how floating fire ant rafts change shape over time]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Fuchsia上运行的谷歌浏览器]]></title>
+        <id>https://news.ycombinator.com/item?id=30576868</id>
+        <link href="https://news.ycombinator.com/item?id=30576868"/>
+        <updated>2022-03-06T11:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome browser running on Fuchsia]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欺诈行为在Zelle上盛行。银行说这不是他们的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30576835</id>
+        <link href="https://news.ycombinator.com/item?id=30576835"/>
+        <updated>2022-03-06T11:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Fraud Is Flourishing on Zelle. The Banks Say It’s Not Their Problem]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络黄金]]></title>
         <id>https://news.ycombinator.com/item?id=30576803</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>rdpintqogeogsaa</name>
             <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局开放源代码软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30566744</id>
-        <link href="https://news.ycombinator.com/item?id=30566744"/>
-        <updated>2022-03-05T12:02:23.000Z</updated>
-        <summary type="html"><![CDATA[NASA Open Source Software]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰战争。天空新闻记者Stuart Ramsay和团队在伏击中遭到枪击]]></title>
-        <id>https://news.ycombinator.com/item?id=30566742</id>
-        <link href="https://news.ycombinator.com/item?id=30566742"/>
-        <updated>2022-03-05T12:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine war: Sky News journalist Stuart Ramsay and team shot at in ambush]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耶尔卡自行车把车架当作锁]]></title>
-        <id>https://news.ycombinator.com/item?id=30566741</id>
-        <link href="https://news.ycombinator.com/item?id=30566741"/>
-        <updated>2022-03-05T12:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Yerka bike uses frame as lock]]></summary>
-        <author>
-            <name>tromp</name>
-            <uri>https://news.ycombinator.com/user?id=tromp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI师父]]></title>
-        <id>https://news.ycombinator.com/item?id=30566739</id>
-        <link href="https://news.ycombinator.com/item?id=30566739"/>
-        <updated>2022-03-05T12:00:58.000Z</updated>
-        <summary type="html"><![CDATA[AI Sensei]]></summary>
-        <author>
-            <name>hkc</name>
-            <uri>https://news.ycombinator.com/user?id=hkc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS营销。每月通过YouTube获得35个新客户]]></title>
-        <id>https://news.ycombinator.com/item?id=30566736</id>
-        <link href="https://news.ycombinator.com/item?id=30566736"/>
-        <updated>2022-03-05T12:00:26.000Z</updated>
-        <summary type="html"><![CDATA[SaaS Marketing: 35 New Customers per Month Through YouTube]]></summary>
-        <author>
-            <name>steve-benjamins</name>
-            <uri>https://news.ycombinator.com/user?id=steve-benjamins</uri>
         </author>
     </entry>
 </feed>
