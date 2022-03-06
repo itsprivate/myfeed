@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T02:55:24.480Z</updated>
+    <updated>2022-03-06T03:13:28.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安妮-阿普尔鲍姆不是一个战争暴发户]]></title>
+        <id>https://news.ycombinator.com/item?id=30574640</id>
+        <link href="https://news.ycombinator.com/item?id=30574640"/>
+        <updated>2022-03-06T03:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Anne Applebaum Is Not a War Profiteer]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿桑奇。"民众不喜欢战争，必须被骗入战争"]]></title>
+        <id>https://news.ycombinator.com/item?id=30574633</id>
+        <link href="https://news.ycombinator.com/item?id=30574633"/>
+        <updated>2022-03-06T03:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Assange: “Populations dont like wars and have to be fooled into war”]]></summary>
+        <author>
+            <name>busymom0</name>
+            <uri>https://news.ycombinator.com/user?id=busymom0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coursera正在暂停所有来自俄罗斯的内容]]></title>
         <id>https://news.ycombinator.com/item?id=30574495</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MichaelMoser123</name>
             <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大提琴 - 高水平C级]]></title>
-        <id>https://news.ycombinator.com/item?id=30564292</id>
-        <link href="https://news.ycombinator.com/item?id=30564292"/>
-        <updated>2022-03-05T04:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Cello – High Level C]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp Koans]]></title>
-        <id>https://news.ycombinator.com/item?id=30564289</id>
-        <link href="https://news.ycombinator.com/item?id=30564289"/>
-        <updated>2022-03-05T04:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Lisp Koans]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
