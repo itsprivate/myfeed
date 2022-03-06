@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T07:51:52.595Z</updated>
+    <updated>2022-03-06T08:13:28.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[謙卑是慾望的滅亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30575882</id>
+        <link href="https://news.ycombinator.com/item?id=30575882"/>
+        <updated>2022-03-06T08:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Humility Is Extinction of Desire]]></summary>
+        <author>
+            <name>chasil</name>
+            <uri>https://news.ycombinator.com/user?id=chasil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於終端的Clockify時間追蹤器的客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30575875</id>
+        <link href="https://news.ycombinator.com/item?id=30575875"/>
+        <updated>2022-03-06T08:03:48.000Z</updated>
+        <summary type="html"><![CDATA[A terminal-based client for Clockify time tracker]]></summary>
+        <author>
+            <name>ABGEO</name>
+            <uri>https://news.ycombinator.com/user?id=ABGEO</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食品價格創下紀錄，現在戰爭將使情況變得更糟]]></title>
+        <id>https://news.ycombinator.com/item?id=30575864</id>
+        <link href="https://news.ycombinator.com/item?id=30575864"/>
+        <updated>2022-03-06T08:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Food Prices Hit a Record and Now War Will Make It Much Worse]]></summary>
+        <author>
+            <name>imartin2k</name>
+            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware正在暫停在俄羅斯和白俄羅斯的所有業務活動]]></title>
+        <id>https://news.ycombinator.com/item?id=30575863</id>
+        <link href="https://news.ycombinator.com/item?id=30575863"/>
+        <updated>2022-03-06T08:02:14.000Z</updated>
+        <summary type="html"><![CDATA[VMware is suspending all business operations in Russia and Belarus]]></summary>
+        <author>
+            <name>ggerganov</name>
+            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為流離失所的數學家提供的資源]]></title>
+        <id>https://news.ycombinator.com/item?id=30575836</id>
+        <link href="https://news.ycombinator.com/item?id=30575836"/>
+        <updated>2022-03-06T07:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Resources for Displaced Mathematicians]]></summary>
+        <author>
+            <name>throwaway81523</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway81523</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找未加密的AWS EBS卷的規模]]></title>
         <id>https://news.ycombinator.com/item?id=30575785</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClipNuke為成人內容創作者發佈開源內容聚合器]]></title>
-        <id>https://news.ycombinator.com/item?id=30565706</id>
-        <link href="https://news.ycombinator.com/item?id=30565706"/>
-        <updated>2022-03-05T08:47:29.000Z</updated>
-        <summary type="html"><![CDATA[ClipNuke Releases Open Source Content Syndicator for Adult Content Creators]]></summary>
-        <author>
-            <name>clipnuke</name>
-            <uri>https://news.ycombinator.com/user?id=clipnuke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinder促使我凍住了我的卵子]]></title>
-        <id>https://news.ycombinator.com/item?id=30565704</id>
-        <link href="https://news.ycombinator.com/item?id=30565704"/>
-        <updated>2022-03-05T08:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Tinder drove me to freeze my eggs]]></summary>
-        <author>
-            <name>NalNezumi</name>
-            <uri>https://news.ycombinator.com/user?id=NalNezumi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向俄羅斯遊客顯示戰爭意識彈窗的腳本]]></title>
-        <id>https://news.ycombinator.com/item?id=30565690</id>
-        <link href="https://news.ycombinator.com/item?id=30565690"/>
-        <updated>2022-03-05T08:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Script that will show a war awareness popup to Russian visitors]]></summary>
-        <author>
-            <name>KarlKemp</name>
-            <uri>https://news.ycombinator.com/user?id=KarlKemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌工作的11年]]></title>
-        <id>https://news.ycombinator.com/item?id=30565652</id>
-        <link href="https://news.ycombinator.com/item?id=30565652"/>
-        <updated>2022-03-05T08:37:55.000Z</updated>
-        <summary type="html"><![CDATA[11 Years at Google]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript和Swift顯然對公元1年1月1日是什麼時候有不同意見。]]></title>
-        <id>https://news.ycombinator.com/item?id=30565633</id>
-        <link href="https://news.ycombinator.com/item?id=30565633"/>
-        <updated>2022-03-05T08:34:20.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript and Swift apparently disagree about when January 1, 1 AD was]]></summary>
-        <author>
-            <name>samwillis</name>
-            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
         </author>
     </entry>
 </feed>
