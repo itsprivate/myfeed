@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T07:31:24.601Z</updated>
+    <updated>2022-03-06T07:36:09.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向一个随机的俄罗斯手机号码发送一条关于乌克兰的短信]]></title>
+        <id>https://news.ycombinator.com/item?id=30575738</id>
+        <link href="https://news.ycombinator.com/item?id=30575738"/>
+        <updated>2022-03-06T07:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Send a text message about Ukraine to a random Russian mobile number]]></summary>
+        <author>
+            <name>kuba-orlik</name>
+            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FOMO？梦之城_梦之城娱乐_梦之城国际娱乐_梦之城国际娱乐平台]]></title>
         <id>https://news.ycombinator.com/item?id=30575712</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>T-A</name>
             <uri>https://news.ycombinator.com/user?id=T-A</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新报》在记者被刑事起诉后退出新闻报道]]></title>
-        <id>https://news.ycombinator.com/item?id=30565572</id>
-        <link href="https://news.ycombinator.com/item?id=30565572"/>
-        <updated>2022-03-05T08:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Novaya Gazeta quits news reports after criminal prosecution of journalists]]></summary>
-        <author>
-            <name>jereees</name>
-            <uri>https://news.ycombinator.com/user?id=jereees</uri>
         </author>
     </entry>
 </feed>
