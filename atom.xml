@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T03:33:26.603Z</updated>
+    <updated>2022-03-06T03:42:23.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stellarium天文学软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30574809</id>
+        <link href="https://news.ycombinator.com/item?id=30574809"/>
+        <updated>2022-03-06T03:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Stellarium Astronomy Software]]></summary>
+        <author>
+            <name>throwoutway</name>
+            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯是如何变得这么大的？]]></title>
         <id>https://news.ycombinator.com/item?id=30574778</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>curmudgeon22</name>
             <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coursera对乌克兰人道主义危机的回应]]></title>
-        <id>https://news.ycombinator.com/item?id=30564523</id>
-        <link href="https://news.ycombinator.com/item?id=30564523"/>
-        <updated>2022-03-05T05:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Coursera’s response to the humanitarian crisis in Ukraine]]></summary>
-        <author>
-            <name>NmAmDa</name>
-            <uri>https://news.ycombinator.com/user?id=NmAmDa</uri>
         </author>
     </entry>
 </feed>
