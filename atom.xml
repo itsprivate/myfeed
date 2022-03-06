@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T04:56:50.907Z</updated>
+    <updated>2022-03-06T05:11:39.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[灯光]]></title>
+        <id>https://news.ycombinator.com/item?id=30575184</id>
+        <link href="https://news.ycombinator.com/item?id=30575184"/>
+        <updated>2022-03-06T05:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Lamplight]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[焦虑的铁锈人的铁锈之旅]]></title>
+        <id>https://news.ycombinator.com/item?id=30575166</id>
+        <link href="https://news.ycombinator.com/item?id=30575166"/>
+        <updated>2022-03-06T05:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Anxious Rustacean’s Journey with Rust]]></summary>
+        <author>
+            <name>vbmade2000</name>
+            <uri>https://news.ycombinator.com/user?id=vbmade2000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥的N个古代壁画描绘了一个 "没有时间的时间"]]></title>
+        <id>https://news.ycombinator.com/item?id=30575155</id>
+        <link href="https://news.ycombinator.com/item?id=30575155"/>
+        <updated>2022-03-06T04:59:02.000Z</updated>
+        <summary type="html"><![CDATA[N Ancient Frieze in Mexico Depicts a “Time Without Time”]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计量器之战。铁路彻底改变了维多利亚时代的英国]]></title>
         <id>https://news.ycombinator.com/item?id=30575126</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>chr</name>
             <uri>https://news.ycombinator.com/user?id=chr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年2月21日以来乌克兰的互联网流量模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30564891</id>
-        <link href="https://news.ycombinator.com/item?id=30564891"/>
-        <updated>2022-03-05T06:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Internet traffic patterns in Ukraine since February 21, 2022]]></summary>
-        <author>
-            <name>advectus</name>
-            <uri>https://news.ycombinator.com/user?id=advectus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪特-博恩的衷心告别]]></title>
-        <id>https://news.ycombinator.com/item?id=30564884</id>
-        <link href="https://news.ycombinator.com/item?id=30564884"/>
-        <updated>2022-03-05T06:22:13.000Z</updated>
-        <summary type="html"><![CDATA[A heartfelt farewell by Dieter Bohn]]></summary>
-        <author>
-            <name>leohonexus</name>
-            <uri>https://news.ycombinator.com/user?id=leohonexus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EmuFlight飞行控制器软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30564842</id>
-        <link href="https://news.ycombinator.com/item?id=30564842"/>
-        <updated>2022-03-05T06:14:06.000Z</updated>
-        <summary type="html"><![CDATA[EmuFlight Flight Controller Software]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
         </author>
     </entry>
 </feed>
