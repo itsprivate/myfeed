@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T10:12:14.231Z</updated>
+    <updated>2022-03-06T10:33:40.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,116 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[评价和延续的语义学]]></title>
+        <id>https://news.ycombinator.com/item?id=30576461</id>
+        <link href="https://news.ycombinator.com/item?id=30576461"/>
+        <updated>2022-03-06T10:20:04.000Z</updated>
+        <summary type="html"><![CDATA[The Semantics of Evaluation and Continuations]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buildpacks，Jib，或Dockerfile。你应该选择哪种方法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30576455</id>
+        <link href="https://news.ycombinator.com/item?id=30576455"/>
+        <updated>2022-03-06T10:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Buildpacks, Jib, or Dockerfile: Which method should you choose?]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些患者在使用Covid后，心血管问题仍长期存在。]]></title>
+        <id>https://news.ycombinator.com/item?id=30576449</id>
+        <link href="https://news.ycombinator.com/item?id=30576449"/>
+        <updated>2022-03-06T10:18:04.000Z</updated>
+        <summary type="html"><![CDATA[For some Patients, Cardiovascular problems persist long-after Covid]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个易于使用的在线注释工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30576447</id>
+        <link href="https://news.ycombinator.com/item?id=30576447"/>
+        <updated>2022-03-06T10:17:44.000Z</updated>
+        <summary type="html"><![CDATA[An easy to use online annotation tool]]></summary>
+        <author>
+            <name>latte2021</name>
+            <uri>https://news.ycombinator.com/user?id=latte2021</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对"：最新 "说不]]></title>
+        <id>https://news.ycombinator.com/item?id=30576443</id>
+        <link href="https://news.ycombinator.com/item?id=30576443"/>
+        <updated>2022-03-06T10:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Just Say No To `:Latest`]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝利亚纳]]></title>
+        <id>https://news.ycombinator.com/item?id=30576441</id>
+        <link href="https://news.ycombinator.com/item?id=30576441"/>
+        <updated>2022-03-06T10:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Belyana]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们自动修复了数以千计的Ruby 2.7的废弃警告]]></title>
+        <id>https://news.ycombinator.com/item?id=30576438</id>
+        <link href="https://news.ycombinator.com/item?id=30576438"/>
+        <updated>2022-03-06T10:16:01.000Z</updated>
+        <summary type="html"><![CDATA[We automatically fixed thousands of Ruby 2.7 deprecation warnings]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云提供商的性能比较--Perl和更多]]></title>
+        <id>https://news.ycombinator.com/item?id=30576437</id>
+        <link href="https://news.ycombinator.com/item?id=30576437"/>
+        <updated>2022-03-06T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Provider Performance Comparison – Perl and More]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咒语。拼写纠正速度提高100万倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30576435</id>
+        <link href="https://news.ycombinator.com/item?id=30576435"/>
+        <updated>2022-03-06T10:15:40.000Z</updated>
+        <summary type="html"><![CDATA[SymSpell: 1M times faster spelling correction]]></summary>
+        <author>
+            <name>mci</name>
+            <uri>https://news.ycombinator.com/user?id=mci</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新闻源消除器]]></title>
+        <id>https://news.ycombinator.com/item?id=30576424</id>
+        <link href="https://news.ycombinator.com/item?id=30576424"/>
+        <updated>2022-03-06T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[News Feed Eradicator]]></summary>
+        <author>
+            <name>puttycat</name>
+            <uri>https://news.ycombinator.com/user?id=puttycat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram。处于乌克兰宣传战核心的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30576400</id>
@@ -6503,116 +6613,6 @@
         <author>
             <name>pdenton</name>
             <uri>https://news.ycombinator.com/user?id=pdenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在乌克兰街头鼓励 "战斗 "的弊端]]></title>
-        <id>https://news.ycombinator.com/item?id=30566360</id>
-        <link href="https://news.ycombinator.com/item?id=30566360"/>
-        <updated>2022-03-05T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[The downside of encouraging ‘the fight’ on the streets of Ukraine]]></summary>
-        <author>
-            <name>nikolay</name>
-            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native日期选择器库]]></title>
-        <id>https://news.ycombinator.com/item?id=30566342</id>
-        <link href="https://news.ycombinator.com/item?id=30566342"/>
-        <updated>2022-03-05T10:57:30.000Z</updated>
-        <summary type="html"><![CDATA[React Native date picker libary]]></summary>
-        <author>
-            <name>gunnartorfis</name>
-            <uri>https://news.ycombinator.com/user?id=gunnartorfis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的星际链接被短暂干扰]]></title>
-        <id>https://news.ycombinator.com/item?id=30566316</id>
-        <link href="https://news.ycombinator.com/item?id=30566316"/>
-        <updated>2022-03-05T10:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Starlink in Ukraine been jammed briefly]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手电筒 - 安卓应用，带有指南针和快速设置瓦片]]></title>
-        <id>https://news.ycombinator.com/item?id=30566304</id>
-        <link href="https://news.ycombinator.com/item?id=30566304"/>
-        <updated>2022-03-05T10:48:10.000Z</updated>
-        <summary type="html"><![CDATA[Flashlight – Android app, with compass and Quick Settings tile]]></summary>
-        <author>
-            <name>KKHTW</name>
-            <uri>https://news.ycombinator.com/user?id=KKHTW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对贫困母亲的现金援助增加了婴儿的大脑活动]]></title>
-        <id>https://news.ycombinator.com/item?id=30566299</id>
-        <link href="https://news.ycombinator.com/item?id=30566299"/>
-        <updated>2022-03-05T10:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Cash Aid to Poor Mothers Increases Brain Activity in Babies]]></summary>
-        <author>
-            <name>AndrewDucker</name>
-            <uri>https://news.ycombinator.com/user?id=AndrewDucker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex警告说，债券的偿还和供应风险]]></title>
-        <id>https://news.ycombinator.com/item?id=30566298</id>
-        <link href="https://news.ycombinator.com/item?id=30566298"/>
-        <updated>2022-03-05T10:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Yandex warns of bond repayment and supply risks]]></summary>
-        <author>
-            <name>Hagelin</name>
-            <uri>https://news.ycombinator.com/user?id=Hagelin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果邮件的名字很长，iOS的邮件应用就不会显示收到的邮件的域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30566297</id>
-        <link href="https://news.ycombinator.com/item?id=30566297"/>
-        <updated>2022-03-05T10:45:56.000Z</updated>
-        <summary type="html"><![CDATA[iOS mail app doesn't show the domain of an incoming email if its a looong name]]></summary>
-        <author>
-            <name>axelfreeman</name>
-            <uri>https://news.ycombinator.com/user?id=axelfreeman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就隐私和数据保护而言，Covid-19的封锁意味着什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30566282</id>
-        <link href="https://news.ycombinator.com/item?id=30566282"/>
-        <updated>2022-03-05T10:43:00.000Z</updated>
-        <summary type="html"><![CDATA[What the Covid-19 lockdown means as far as privacy and data protection goes]]></summary>
-        <author>
-            <name>iafrikan</name>
-            <uri>https://news.ycombinator.com/user?id=iafrikan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为DNA字母表添加新的字母可使数据存储的密度增加一倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30566266</id>
-        <link href="https://news.ycombinator.com/item?id=30566266"/>
-        <updated>2022-03-05T10:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Adding new letters to DNA alphabet doubles density of data storage]]></summary>
-        <author>
-            <name>hochmartinez</name>
-            <uri>https://news.ycombinator.com/user?id=hochmartinez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诈骗邮件--冒充红十字会--通过比特币征集捐款]]></title>
-        <id>https://news.ycombinator.com/item?id=30566210</id>
-        <link href="https://news.ycombinator.com/item?id=30566210"/>
-        <updated>2022-03-05T10:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Scam Email – Impersonating Red Cross – Solicit Donations via Bitcoin]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
