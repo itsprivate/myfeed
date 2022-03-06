@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T05:29:37.288Z</updated>
+    <updated>2022-03-06T05:51:20.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[XMPP通讯 2022年2月]]></title>
+        <id>https://news.ycombinator.com/item?id=30575316</id>
+        <link href="https://news.ycombinator.com/item?id=30575316"/>
+        <updated>2022-03-06T05:39:52.000Z</updated>
+        <summary type="html"><![CDATA[The XMPP Newsletter February 2022]]></summary>
+        <author>
+            <name>neustradamus</name>
+            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么制裁不会推翻俄罗斯的政权？]]></title>
+        <id>https://news.ycombinator.com/item?id=30575301</id>
+        <link href="https://news.ycombinator.com/item?id=30575301"/>
+        <updated>2022-03-06T05:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Why sanctions won't topple the regime in Russia]]></summary>
+        <author>
+            <name>xtof</name>
+            <uri>https://news.ycombinator.com/user?id=xtof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify做出了一个懦弱的选择：向克里姆林宫屈服]]></title>
+        <id>https://news.ycombinator.com/item?id=30575291</id>
+        <link href="https://news.ycombinator.com/item?id=30575291"/>
+        <updated>2022-03-06T05:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Spotify made a cowardly choice: to submit to the Kremlin]]></summary>
+        <author>
+            <name>oivviopolite</name>
+            <uri>https://news.ycombinator.com/user?id=oivviopolite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Datasette学习SQL]]></title>
         <id>https://news.ycombinator.com/item?id=30575225</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac Studio'[台式电脑]即将问世]]></title>
-        <id>https://news.ycombinator.com/item?id=30565073</id>
-        <link href="https://news.ycombinator.com/item?id=30565073"/>
-        <updated>2022-03-05T06:57:54.000Z</updated>
-        <summary type="html"><![CDATA[‘Mac Studio’ [desktop computer] is coming]]></summary>
-        <author>
-            <name>n3k5</name>
-            <uri>https://news.ycombinator.com/user?id=n3k5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何捍卫我们的思想]]></title>
-        <id>https://news.ycombinator.com/item?id=30564961</id>
-        <link href="https://news.ycombinator.com/item?id=30564961"/>
-        <updated>2022-03-05T06:38:16.000Z</updated>
-        <summary type="html"><![CDATA[How to Defend Our Minds]]></summary>
-        <author>
-            <name>imartin2k</name>
-            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克敢于让汽车工人联合会尝试组建特斯拉工会]]></title>
-        <id>https://news.ycombinator.com/item?id=30564957</id>
-        <link href="https://news.ycombinator.com/item?id=30564957"/>
-        <updated>2022-03-05T06:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk dares United Autoworkers to try to unionize Tesla]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>
