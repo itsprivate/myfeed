@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T13:51:28.966Z</updated>
+    <updated>2022-03-06T14:11:35.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個幾乎以假亂真獲得諾貝爾獎的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30577586</id>
+        <link href="https://news.ycombinator.com/item?id=30577586"/>
+        <updated>2022-03-06T13:49:57.000Z</updated>
+        <summary type="html"><![CDATA[A man who almost faked his way to a Nobel Prize]]></summary>
+        <author>
+            <name>beingbarlota</name>
+            <uri>https://news.ycombinator.com/user?id=beingbarlota</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西斯廷教堂]]></title>
         <id>https://news.ycombinator.com/item?id=30577543</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MarcScott</name>
             <uri>https://news.ycombinator.com/user?id=MarcScott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客活動家、網絡犯罪分子在俄羅斯入侵後轉而使用Telegram。]]></title>
-        <id>https://news.ycombinator.com/item?id=30567828</id>
-        <link href="https://news.ycombinator.com/item?id=30567828"/>
-        <updated>2022-03-05T14:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Hacktivists, cybercriminals switch to Telegram after Russian invasion]]></summary>
-        <author>
-            <name>IRP</name>
-            <uri>https://news.ycombinator.com/user?id=IRP</uri>
         </author>
     </entry>
 </feed>
