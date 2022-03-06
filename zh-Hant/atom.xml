@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T10:33:40.514Z</updated>
+    <updated>2022-03-06T10:42:38.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[原型與類]]></title>
+        <id>https://news.ycombinator.com/item?id=30576524</id>
+        <link href="https://news.ycombinator.com/item?id=30576524"/>
+        <updated>2022-03-06T10:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Prototypes vs. Classes]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通Lisp。不為人知的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30576520</id>
+        <link href="https://news.ycombinator.com/item?id=30576520"/>
+        <updated>2022-03-06T10:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Common Lisp: The Untold Story]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[計劃》有什麼好的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30576519</id>
+        <link href="https://news.ycombinator.com/item?id=30576519"/>
+        <updated>2022-03-06T10:34:58.000Z</updated>
+        <summary type="html"><![CDATA[What's so cool about Scheme?]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實驗設計和解釋中的警告信號]]></title>
+        <id>https://news.ycombinator.com/item?id=30576516</id>
+        <link href="https://news.ycombinator.com/item?id=30576516"/>
+        <updated>2022-03-06T10:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Warning Signs in Experimental Design and Interpretation]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年輕的烏克蘭人在社交媒體上與親俄的巨魔作鬥爭]]></title>
+        <id>https://news.ycombinator.com/item?id=30576509</id>
+        <link href="https://news.ycombinator.com/item?id=30576509"/>
+        <updated>2022-03-06T10:33:08.000Z</updated>
+        <summary type="html"><![CDATA[The young Ukrainians battling pro-Russian trolls on social media]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[評價和延續的語義學]]></title>
         <id>https://news.ycombinator.com/item?id=30576461</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戰爭期間監測、歸檔和轉錄公開的俄羅斯無線電通訊]]></title>
-        <id>https://news.ycombinator.com/item?id=30566441</id>
-        <link href="https://news.ycombinator.com/item?id=30566441"/>
-        <updated>2022-03-05T11:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring, Archiving and Transcribing Open Russian Radio Comms During the War]]></summary>
-        <author>
-            <name>artur_makly</name>
-            <uri>https://news.ycombinator.com/user?id=artur_makly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝寶暫停其在俄羅斯的服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30566434</id>
-        <link href="https://news.ycombinator.com/item?id=30566434"/>
-        <updated>2022-03-05T11:16:02.000Z</updated>
-        <summary type="html"><![CDATA[PayPal suspends its services in Russia]]></summary>
-        <author>
-            <name>rvz</name>
-            <uri>https://news.ycombinator.com/user?id=rvz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1981年3月5日。Timex Sinclair ZX81問世。科技史上的一天]]></title>
-        <id>https://news.ycombinator.com/item?id=30566396</id>
-        <link href="https://news.ycombinator.com/item?id=30566396"/>
-        <updated>2022-03-05T11:08:10.000Z</updated>
-        <summary type="html"><![CDATA[March 5, 1981: Timex Sinclair ZX81 Launched: Day in Tech History]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Ctypes的Python C庫函數綁定]]></title>
-        <id>https://news.ycombinator.com/item?id=30566373</id>
-        <link href="https://news.ycombinator.com/item?id=30566373"/>
-        <updated>2022-03-05T11:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Python C Library Function Binding Using Ctypes]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla基金會安全諮詢2022-09]]></title>
-        <id>https://news.ycombinator.com/item?id=30566365</id>
-        <link href="https://news.ycombinator.com/item?id=30566365"/>
-        <updated>2022-03-05T11:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla Foundation Security Advisory 2022-09]]></summary>
-        <author>
-            <name>pdenton</name>
-            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
         </author>
     </entry>
 </feed>

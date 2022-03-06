@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 06 Mar 2022 10:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 10:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[原型与类]]></title>
+            <link>https://news.ycombinator.com/item?id=30576524</link>
+            <guid>https://news.ycombinator.com/item?id=30576524</guid>
+            <pubDate>Sun, 06 Mar 2022 10:35:53 GMT</pubDate>
+            <description><![CDATA[Prototypes vs. Classes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普通Lisp。不为人知的故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30576520</link>
+            <guid>https://news.ycombinator.com/item?id=30576520</guid>
+            <pubDate>Sun, 06 Mar 2022 10:35:12 GMT</pubDate>
+            <description><![CDATA[Common Lisp: The Untold Story]]></description>
+        </item>
+        <item>
+            <title><![CDATA[计划》有什么好的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30576519</link>
+            <guid>https://news.ycombinator.com/item?id=30576519</guid>
+            <pubDate>Sun, 06 Mar 2022 10:34:58 GMT</pubDate>
+            <description><![CDATA[What's so cool about Scheme?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[实验设计和解释中的警告信号]]></title>
+            <link>https://news.ycombinator.com/item?id=30576516</link>
+            <guid>https://news.ycombinator.com/item?id=30576516</guid>
+            <pubDate>Sun, 06 Mar 2022 10:34:42 GMT</pubDate>
+            <description><![CDATA[Warning Signs in Experimental Design and Interpretation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[年轻的乌克兰人在社交媒体上与亲俄的巨魔作斗争]]></title>
+            <link>https://news.ycombinator.com/item?id=30576509</link>
+            <guid>https://news.ycombinator.com/item?id=30576509</guid>
+            <pubDate>Sun, 06 Mar 2022 10:33:08 GMT</pubDate>
+            <description><![CDATA[The young Ukrainians battling pro-Russian trolls on social media]]></description>
+        </item>
         <item>
             <title><![CDATA[评价和延续的语义学]]></title>
             <link>https://news.ycombinator.com/item?id=30576461</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30566459</guid>
             <pubDate>Sat, 05 Mar 2022 11:19:38 GMT</pubDate>
             <description><![CDATA[Russia-Ukraine War – What Happened on March 4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争期间监测、归档和转录公开的俄罗斯无线电通讯]]></title>
-            <link>https://news.ycombinator.com/item?id=30566441</link>
-            <guid>https://news.ycombinator.com/item?id=30566441</guid>
-            <pubDate>Sat, 05 Mar 2022 11:17:08 GMT</pubDate>
-            <description><![CDATA[Monitoring, Archiving and Transcribing Open Russian Radio Comms During the War]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贝宝暂停其在俄罗斯的服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30566434</link>
-            <guid>https://news.ycombinator.com/item?id=30566434</guid>
-            <pubDate>Sat, 05 Mar 2022 11:16:02 GMT</pubDate>
-            <description><![CDATA[PayPal suspends its services in Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1981年3月5日。Timex Sinclair ZX81问世。科技史上的一天]]></title>
-            <link>https://news.ycombinator.com/item?id=30566396</link>
-            <guid>https://news.ycombinator.com/item?id=30566396</guid>
-            <pubDate>Sat, 05 Mar 2022 11:08:10 GMT</pubDate>
-            <description><![CDATA[March 5, 1981: Timex Sinclair ZX81 Launched: Day in Tech History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Ctypes的Python C库函数绑定]]></title>
-            <link>https://news.ycombinator.com/item?id=30566373</link>
-            <guid>https://news.ycombinator.com/item?id=30566373</guid>
-            <pubDate>Sat, 05 Mar 2022 11:03:31 GMT</pubDate>
-            <description><![CDATA[Python C Library Function Binding Using Ctypes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla基金会安全咨询2022-09]]></title>
-            <link>https://news.ycombinator.com/item?id=30566365</link>
-            <guid>https://news.ycombinator.com/item?id=30566365</guid>
-            <pubDate>Sat, 05 Mar 2022 11:01:23 GMT</pubDate>
-            <description><![CDATA[Mozilla Foundation Security Advisory 2022-09]]></description>
         </item>
     </channel>
 </rss>
