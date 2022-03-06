@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T05:11:39.996Z</updated>
+    <updated>2022-03-06T05:29:37.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Datasette学习SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=30575225</id>
+        <link href="https://news.ycombinator.com/item?id=30575225"/>
+        <updated>2022-03-06T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn SQL with Datasette]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LifecastVR（YC W22）的Quest 2演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30575212</id>
+        <link href="https://news.ycombinator.com/item?id=30575212"/>
+        <updated>2022-03-06T05:11:12.000Z</updated>
+        <summary type="html"><![CDATA[LifecastVR (YC W22) demo for Quest 2]]></summary>
+        <author>
+            <name>krasin</name>
+            <uri>https://news.ycombinator.com/user?id=krasin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[灯光]]></title>
         <id>https://news.ycombinator.com/item?id=30575184</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rmason</name>
             <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星联公司拒绝了政府关于封锁俄罗斯新闻来源的要求]]></title>
-        <id>https://news.ycombinator.com/item?id=30564938</id>
-        <link href="https://news.ycombinator.com/item?id=30564938"/>
-        <updated>2022-03-05T06:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Starlink has refused government requests to block Russian news sources]]></summary>
-        <author>
-            <name>cato_the_elder</name>
-            <uri>https://news.ycombinator.com/user?id=cato_the_elder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack Exchange问答的访问在俄罗斯不会受到限制]]></title>
-        <id>https://news.ycombinator.com/item?id=30564894</id>
-        <link href="https://news.ycombinator.com/item?id=30564894"/>
-        <updated>2022-03-05T06:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Stack Exchange Q&A access will not be restricted in Russia]]></summary>
-        <author>
-            <name>chr</name>
-            <uri>https://news.ycombinator.com/user?id=chr</uri>
         </author>
     </entry>
 </feed>
