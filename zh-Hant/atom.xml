@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T23:33:02.708Z</updated>
+    <updated>2022-03-06T23:39:42.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與OpenAI的GPT-3競爭的初創企業都需要解決同樣的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30582372</id>
+        <link href="https://news.ycombinator.com/item?id=30582372"/>
+        <updated>2022-03-06T23:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Startups competing with OpenAI's GPT-3 all need to solve the same problems]]></summary>
+        <author>
+            <name>Friday_</name>
+            <uri>https://news.ycombinator.com/user?id=Friday_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Terraform測試建立一個生成路由的功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30582368</id>
+        <link href="https://news.ycombinator.com/item?id=30582368"/>
+        <updated>2022-03-06T23:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Building a generate routes function using Terraform test]]></summary>
+        <author>
+            <name>JayQ_One</name>
+            <uri>https://news.ycombinator.com/user?id=JayQ_One</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布蘭登-桑德森的新小說在Kickstarter上籌集了創紀錄的1700萬英鎊]]></title>
+        <id>https://news.ycombinator.com/item?id=30582341</id>
+        <link href="https://news.ycombinator.com/item?id=30582341"/>
+        <updated>2022-03-06T23:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Kickstarter for Brandon Sanderson’s new novels raises record £17m]]></summary>
+        <author>
+            <name>codesections</name>
+            <uri>https://news.ycombinator.com/user?id=codesections</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太多的JavaScript是不好的，沒有JavaScript也不會更好]]></title>
         <id>https://news.ycombinator.com/item?id=30582320</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>AnnikaL</name>
             <uri>https://news.ycombinator.com/user?id=AnnikaL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭技術集體]]></title>
-        <id>https://news.ycombinator.com/item?id=30574267</id>
-        <link href="https://news.ycombinator.com/item?id=30574267"/>
-        <updated>2022-03-06T02:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Tech Collective]]></summary>
-        <author>
-            <name>danoely</name>
-            <uri>https://news.ycombinator.com/user?id=danoely</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的宣傳戰已使網絡戰黯然失色]]></title>
-        <id>https://news.ycombinator.com/item?id=30574237</id>
-        <link href="https://news.ycombinator.com/item?id=30574237"/>
-        <updated>2022-03-06T01:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The propaganda war has eclipsed cyberwar in Ukraine]]></summary>
-        <author>
-            <name>guerrilla</name>
-            <uri>https://news.ycombinator.com/user?id=guerrilla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄聯邦安全局舉報人揭露烏克蘭戰爭為何對俄羅斯如此不利]]></title>
-        <id>https://news.ycombinator.com/item?id=30574210</id>
-        <link href="https://news.ycombinator.com/item?id=30574210"/>
-        <updated>2022-03-06T01:53:21.000Z</updated>
-        <summary type="html"><![CDATA[FSB whistleblower exposing why the Ukraine war went so bad for Russia]]></summary>
-        <author>
-            <name>alin23</name>
-            <uri>https://news.ycombinator.com/user?id=alin23</uri>
         </author>
     </entry>
 </feed>
