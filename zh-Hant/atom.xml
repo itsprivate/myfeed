@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T02:34:43.540Z</updated>
+    <updated>2022-03-06T02:55:24.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coursera正在暫停所有來自俄羅斯的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30574495</id>
+        <link href="https://news.ycombinator.com/item?id=30574495"/>
+        <updated>2022-03-06T02:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Coursera is suspending all content from Russia]]></summary>
+        <author>
+            <name>aeciorc</name>
+            <uri>https://news.ycombinator.com/user?id=aeciorc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果美國的SWE市場很火，為什麼歐洲或印度的市場不火呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30574489</id>
+        <link href="https://news.ycombinator.com/item?id=30574489"/>
+        <updated>2022-03-06T02:38:16.000Z</updated>
+        <summary type="html"><![CDATA[If the US Market for SWEs is on fire why isn’t Europe’s, or India’s?]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust中的SQL生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30574446</id>
@@ -6588,28 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30564289"/>
         <updated>2022-03-05T04:34:58.000Z</updated>
         <summary type="html"><![CDATA[Lisp Koans]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[檢查素數的正則表達式]]></title>
-        <id>https://news.ycombinator.com/item?id=30564287</id>
-        <link href="https://news.ycombinator.com/item?id=30564287"/>
-        <updated>2022-03-05T04:34:10.000Z</updated>
-        <summary type="html"><![CDATA[A regular expression to check for prime numbers]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[st是一個簡單的終端實現，用於X]]></title>
-        <id>https://news.ycombinator.com/item?id=30564279</id>
-        <link href="https://news.ycombinator.com/item?id=30564279"/>
-        <updated>2022-03-05T04:32:23.000Z</updated>
-        <summary type="html"><![CDATA[st is a simple terminal implementation for X]]></summary>
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
