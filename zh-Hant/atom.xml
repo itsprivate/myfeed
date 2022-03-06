@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-06T11:27:30.827Z</updated>
+    <updated>2022-03-06T11:37:55.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡黃金]]></title>
+        <id>https://news.ycombinator.com/item?id=30576803</id>
+        <link href="https://news.ycombinator.com/item?id=30576803"/>
+        <updated>2022-03-06T11:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Web Golden]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到目前為止對俄羅斯實施的制裁。美國、英國、歐盟、加拿大和亞洲]]></title>
+        <id>https://news.ycombinator.com/item?id=30576755</id>
+        <link href="https://news.ycombinator.com/item?id=30576755"/>
+        <updated>2022-03-06T11:25:57.000Z</updated>
+        <summary type="html"><![CDATA[The sanctions imposed so far on Russia: US, UK, EU, Canada and Asia]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立或不建立一個軟件功能？]]></title>
         <id>https://news.ycombinator.com/item?id=30576746</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>steve-benjamins</name>
             <uri>https://news.ycombinator.com/user?id=steve-benjamins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeeCoin圖表 - BNB智能鏈代幣在你錢包中的實時交易]]></title>
-        <id>https://news.ycombinator.com/item?id=30566713</id>
-        <link href="https://news.ycombinator.com/item?id=30566713"/>
-        <updated>2022-03-05T11:57:43.000Z</updated>
-        <summary type="html"><![CDATA[PeeCoin Charts – Real time trades of BNB Smart chain tokens in your wallet]]></summary>
-        <author>
-            <name>maksyd</name>
-            <uri>https://news.ycombinator.com/user?id=maksyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux歷史。點狀文件如何成為隱藏文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30566711</id>
-        <link href="https://news.ycombinator.com/item?id=30566711"/>
-        <updated>2022-03-05T11:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Linux History: How Dot Files Became Hidden Files]]></summary>
-        <author>
-            <name>rrampage</name>
-            <uri>https://news.ycombinator.com/user?id=rrampage</uri>
         </author>
     </entry>
 </feed>
