@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T11:30:02.019Z</updated>
+    <updated>2022-03-07T11:37:20.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鴨嘴獸過濾器實際上比綻放更好]]></title>
+        <id>https://news.ycombinator.com/item?id=30586543</id>
+        <link href="https://news.ycombinator.com/item?id=30586543"/>
+        <updated>2022-03-07T11:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Cucko filters practically better than bloom]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何防止視覺迴歸]]></title>
+        <id>https://news.ycombinator.com/item?id=30586537</id>
+        <link href="https://news.ycombinator.com/item?id=30586537"/>
+        <updated>2022-03-07T11:32:49.000Z</updated>
+        <summary type="html"><![CDATA[How to Prevent Visual Regressions]]></summary>
+        <author>
+            <name>Gabriel_h</name>
+            <uri>https://news.ycombinator.com/user?id=Gabriel_h</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nanobind - C++17和Python之間的無縫操作性]]></title>
+        <id>https://news.ycombinator.com/item?id=30586534</id>
+        <link href="https://news.ycombinator.com/item?id=30586534"/>
+        <updated>2022-03-07T11:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Nanobind – Seamless operability between C++17 and Python]]></summary>
+        <author>
+            <name>cyber_kinetist</name>
+            <uri>https://news.ycombinator.com/user?id=cyber_kinetist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個基於Go 1.18泛型（map, filter, contains）的Lodash風格的Go庫。]]></title>
+        <id>https://news.ycombinator.com/item?id=30586519</id>
+        <link href="https://news.ycombinator.com/item?id=30586519"/>
+        <updated>2022-03-07T11:30:27.000Z</updated>
+        <summary type="html"><![CDATA[A Lodash-style Go library based on Go 1.18 Generics (map, filter, contains)]]></summary>
+        <author>
+            <name>scanr</name>
+            <uri>https://news.ycombinator.com/user?id=scanr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你會向希望學習編程的初學者推薦哪些書？]]></title>
+        <id>https://news.ycombinator.com/item?id=30586502</id>
+        <link href="https://news.ycombinator.com/item?id=30586502"/>
+        <updated>2022-03-07T11:26:50.000Z</updated>
+        <summary type="html"><![CDATA[What books would you suggest to beginners who wish to learn programming?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年的Qt路線圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30586499</id>
+        <link href="https://news.ycombinator.com/item?id=30586499"/>
+        <updated>2022-03-07T11:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Qt Roadmap for 2022]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果被排除在北約之外，烏克蘭可能尋求核武器 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30586489</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>mudro_zboris</name>
             <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的入侵使參議院進入網絡安全法模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30578121</id>
-        <link href="https://news.ycombinator.com/item?id=30578121"/>
-        <updated>2022-03-06T15:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s invasion kicks Senate into cybersecurity law mode]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要在烏克蘭作戰--軍方負責人告訴英國人]]></title>
-        <id>https://news.ycombinator.com/item?id=30578112</id>
-        <link href="https://news.ycombinator.com/item?id=30578112"/>
-        <updated>2022-03-06T15:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Don't fight in Ukraine – military boss tells Britons]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國必須做更多的工作來幫助烏克蘭對抗俄羅斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30578104</id>
-        <link href="https://news.ycombinator.com/item?id=30578104"/>
-        <updated>2022-03-06T15:21:10.000Z</updated>
-        <summary type="html"><![CDATA[America Must Do More to Help Ukraine Fight Russia]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[框架還是庫？]]></title>
-        <id>https://news.ycombinator.com/item?id=30578099</id>
-        <link href="https://news.ycombinator.com/item?id=30578099"/>
-        <updated>2022-03-06T15:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Framework or Library?]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對MDN Web Docs新設計的反饋意見]]></title>
-        <id>https://news.ycombinator.com/item?id=30578095</id>
-        <link href="https://news.ycombinator.com/item?id=30578095"/>
-        <updated>2022-03-06T15:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Feedback for MDN Web Docs' new design]]></summary>
-        <author>
-            <name>john-doe</name>
-            <uri>https://news.ycombinator.com/user?id=john-doe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發者優先的產品列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30578086</id>
-        <link href="https://news.ycombinator.com/item?id=30578086"/>
-        <updated>2022-03-06T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Developer-First Product List]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
