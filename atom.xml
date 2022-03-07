@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T21:18:34.793Z</updated>
+    <updated>2022-03-07T21:31:19.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Iles 静态网站生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30593509</id>
+        <link href="https://news.ycombinator.com/item?id=30593509"/>
+        <updated>2022-03-07T21:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Iles Static Site Generator]]></summary>
+        <author>
+            <name>brianzelip</name>
+            <uri>https://news.ycombinator.com/user?id=brianzelip</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰要求Cloudflare停止保护俄罗斯人免受网络攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30593453</id>
+        <link href="https://news.ycombinator.com/item?id=30593453"/>
+        <updated>2022-03-07T21:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Demanded Cloudflare Stop Protecting Russians from Cyberattacks]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在乌克兰的战争中，俄罗斯出现了新的街区]]></title>
+        <id>https://news.ycombinator.com/item?id=30593396</id>
+        <link href="https://news.ycombinator.com/item?id=30593396"/>
+        <updated>2022-03-07T21:13:45.000Z</updated>
+        <summary type="html"><![CDATA[New blocks emerge in Russia amid war in Ukraine]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超现实的。艺术最诡异的世界观在其诞生一个世纪后反弹了]]></title>
         <id>https://news.ycombinator.com/item?id=30593309</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>thomasyoung99</name>
             <uri>https://news.ycombinator.com/user?id=thomasyoung99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果、谷歌、微软、Mozilla考虑浏览器兼容问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30583926</id>
-        <link href="https://news.ycombinator.com/item?id=30583926"/>
-        <updated>2022-03-07T03:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Apple, Google, Microsoft, Mozilla consider browser compat issues]]></summary>
-        <author>
-            <name>tomcam</name>
-            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亲爱的Epic Games，请不要毁掉Bandcamp。]]></title>
-        <id>https://news.ycombinator.com/item?id=30583916</id>
-        <link href="https://news.ycombinator.com/item?id=30583916"/>
-        <updated>2022-03-07T03:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Dear Epic Games, please don’t ruin Bandcamp]]></summary>
-        <author>
-            <name>onecommentman</name>
-            <uri>https://news.ycombinator.com/user?id=onecommentman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OpenGL的GPU介绍]]></title>
-        <id>https://news.ycombinator.com/item?id=30583905</id>
-        <link href="https://news.ycombinator.com/item?id=30583905"/>
-        <updated>2022-03-07T03:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to GPUs with OpenGL]]></summary>
-        <author>
-            <name>Seb-C</name>
-            <uri>https://news.ycombinator.com/user?id=Seb-C</uri>
         </author>
     </entry>
 </feed>
