@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 07 Mar 2022 21:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 21:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[末日之鐘]]></title>
+            <link>https://news.ycombinator.com/item?id=30593709</link>
+            <guid>https://news.ycombinator.com/item?id=30593709</guid>
+            <pubDate>Mon, 07 Mar 2022 21:44:45 GMT</pubDate>
+            <description><![CDATA[Doomsday Clock]]></description>
+        </item>
+        <item>
+            <title><![CDATA[制裁的歷史]]></title>
+            <link>https://news.ycombinator.com/item?id=30593668</link>
+            <guid>https://news.ycombinator.com/item?id=30593668</guid>
+            <pubDate>Mon, 07 Mar 2022 21:41:32 GMT</pubDate>
+            <description><![CDATA[The History of Sanctions]]></description>
+        </item>
         <item>
             <title><![CDATA[幾乎線性時間內的最大流量和最小成本流量]]></title>
             <link>https://news.ycombinator.com/item?id=30593601</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30583967</guid>
             <pubDate>Mon, 07 Mar 2022 03:36:13 GMT</pubDate>
             <description><![CDATA[BLAMP is more efficient for alias reduction than oversampling [audio]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[壓縮和嵌入一個Wordle單詞列表]]></title>
-            <link>https://news.ycombinator.com/item?id=30583961</link>
-            <guid>https://news.ycombinator.com/item?id=30583961</guid>
-            <pubDate>Mon, 07 Mar 2022 03:35:14 GMT</pubDate>
-            <description><![CDATA[Compressing and embedding a Wordle word list]]></description>
-        </item>
-        <item>
-            <title><![CDATA[信息過載的經濟學。來自赫伯-西蒙的思考（2015）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30583955</link>
-            <guid>https://news.ycombinator.com/item?id=30583955</guid>
-            <pubDate>Mon, 07 Mar 2022 03:34:16 GMT</pubDate>
-            <description><![CDATA[Economics of Information Overload: Thoughts from Herb Simon (2015)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T21:39:35.144Z</updated>
+    <updated>2022-03-07T21:54:50.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[末日之鐘]]></title>
+        <id>https://news.ycombinator.com/item?id=30593709</id>
+        <link href="https://news.ycombinator.com/item?id=30593709"/>
+        <updated>2022-03-07T21:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Doomsday Clock]]></summary>
+        <author>
+            <name>tamaharbor</name>
+            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制裁的歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30593668</id>
+        <link href="https://news.ycombinator.com/item?id=30593668"/>
+        <updated>2022-03-07T21:41:32.000Z</updated>
+        <summary type="html"><![CDATA[The History of Sanctions]]></summary>
+        <author>
+            <name>cacher</name>
+            <uri>https://news.ycombinator.com/user?id=cacher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幾乎線性時間內的最大流量和最小成本流量]]></title>
         <id>https://news.ycombinator.com/item?id=30593601</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>teaecetyrannis</name>
             <uri>https://news.ycombinator.com/user?id=teaecetyrannis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[壓縮和嵌入一個Wordle單詞列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30583961</id>
-        <link href="https://news.ycombinator.com/item?id=30583961"/>
-        <updated>2022-03-07T03:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Compressing and embedding a Wordle word list]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信息過載的經濟學。來自赫伯-西蒙的思考（2015）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30583955</id>
-        <link href="https://news.ycombinator.com/item?id=30583955"/>
-        <updated>2022-03-07T03:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Economics of Information Overload: Thoughts from Herb Simon (2015)]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
         </author>
     </entry>
 </feed>
