@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T21:54:50.471Z</updated>
+    <updated>2022-03-07T22:15:21.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你應該寫什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=30593979</id>
+        <link href="https://news.ycombinator.com/item?id=30593979"/>
+        <updated>2022-03-07T22:08:33.000Z</updated>
+        <summary type="html"><![CDATA[What you should write about]]></summary>
+        <author>
+            <name>enigmatic02</name>
+            <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UP9600: 如何在C64上實現9600波特RS-232的位點連接]]></title>
+        <id>https://news.ycombinator.com/item?id=30593911</id>
+        <link href="https://news.ycombinator.com/item?id=30593911"/>
+        <updated>2022-03-07T22:03:17.000Z</updated>
+        <summary type="html"><![CDATA[UP9600: How to Bit-Bang 9600 Baud RS-232 on the C64]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Max MacBook Pro長期報告]]></title>
+        <id>https://news.ycombinator.com/item?id=30593883</id>
+        <link href="https://news.ycombinator.com/item?id=30593883"/>
+        <updated>2022-03-07T22:01:27.000Z</updated>
+        <summary type="html"><![CDATA[M1 Max MacBook Pro Long-Term Report]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年採訪高級JavaScript開發人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30593850</id>
+        <link href="https://news.ycombinator.com/item?id=30593850"/>
+        <updated>2022-03-07T21:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Interview with Senior JavaScript Developer in 2022]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由小團隊、個人開發者和共享軟件製作的工具的精彩世界 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30593801</id>
+        <link href="https://news.ycombinator.com/item?id=30593801"/>
+        <updated>2022-03-07T21:55:02.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful world of tools made by small teams, solo-devs and shareware (2020)]]></summary>
+        <author>
+            <name>oliwary</name>
+            <uri>https://news.ycombinator.com/user?id=oliwary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[末日之鐘]]></title>
         <id>https://news.ycombinator.com/item?id=30593709</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>vector_spaces</name>
             <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我認為你可以合理地將我們工程團隊的7%歸功於我。]]></title>
-        <id>https://news.ycombinator.com/item?id=30584026</id>
-        <link href="https://news.ycombinator.com/item?id=30584026"/>
-        <updated>2022-03-07T03:47:26.000Z</updated>
-        <summary type="html"><![CDATA[I think you can reasonably attribute ~7% of our engineering team to me]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上最重的人如何失去這一切 (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30584011</id>
-        <link href="https://news.ycombinator.com/item?id=30584011"/>
-        <updated>2022-03-07T03:45:07.000Z</updated>
-        <summary type="html"><![CDATA[How the world's heaviest man lost it all (2017)]]></summary>
-        <author>
-            <name>whocansay</name>
-            <uri>https://news.ycombinator.com/user?id=whocansay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看似相關但不相關的詞 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30584008</id>
-        <link href="https://news.ycombinator.com/item?id=30584008"/>
-        <updated>2022-03-07T03:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Words that seem related but aren't (2015)]]></summary>
-        <author>
-            <name>unclefuzzy</name>
-            <uri>https://news.ycombinator.com/user?id=unclefuzzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受藝術類Twitter機器人的啟發，我為NFTs創建了RightClickSaveBot。]]></title>
-        <id>https://news.ycombinator.com/item?id=30583981</id>
-        <link href="https://news.ycombinator.com/item?id=30583981"/>
-        <updated>2022-03-07T03:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inspired by art Twitter bots, I created RightClickSaveBot for NFTs]]></summary>
-        <author>
-            <name>wTheRockb</name>
-            <uri>https://news.ycombinator.com/user?id=wTheRockb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLAMP在減少異響方面比超採樣更有效[音頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=30583967</id>
-        <link href="https://news.ycombinator.com/item?id=30583967"/>
-        <updated>2022-03-07T03:36:13.000Z</updated>
-        <summary type="html"><![CDATA[BLAMP is more efficient for alias reduction than oversampling [audio]]]></summary>
-        <author>
-            <name>teaecetyrannis</name>
-            <uri>https://news.ycombinator.com/user?id=teaecetyrannis</uri>
         </author>
     </entry>
 </feed>
