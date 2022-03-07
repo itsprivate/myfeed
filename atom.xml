@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T08:16:42.933Z</updated>
+    <updated>2022-03-07T08:36:42.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯警方轻松解锁受密码保护的iPhone和Telegram]]></title>
+        <id>https://news.ycombinator.com/item?id=30585385</id>
+        <link href="https://news.ycombinator.com/item?id=30585385"/>
+        <updated>2022-03-07T08:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Russian police easily unlock password-protected iPhone and Telegram]]></summary>
+        <author>
+            <name>macleginn</name>
+            <uri>https://news.ycombinator.com/user?id=macleginn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12万块的乐高积木吉普车在镜头前坠毁]]></title>
+        <id>https://news.ycombinator.com/item?id=30585362</id>
+        <link href="https://news.ycombinator.com/item?id=30585362"/>
+        <updated>2022-03-07T08:13:24.000Z</updated>
+        <summary type="html"><![CDATA[120k-Piece Lego Jeep Crashes on Camera]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么乌克兰危机是西方的错 [2014]]]></title>
         <id>https://news.ycombinator.com/item?id=30585350</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>twapi</name>
             <uri>https://news.ycombinator.com/user?id=twapi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般游戏的玩法]]></title>
-        <id>https://news.ycombinator.com/item?id=30577343</id>
-        <link href="https://news.ycombinator.com/item?id=30577343"/>
-        <updated>2022-03-06T13:08:04.000Z</updated>
-        <summary type="html"><![CDATA[General Game Playing]]></summary>
-        <author>
-            <name>ArtWomb</name>
-            <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰人创办的Grammarly公司将捐出自2014年以来在俄罗斯赚取的所有资金]]></title>
-        <id>https://news.ycombinator.com/item?id=30577338</id>
-        <link href="https://news.ycombinator.com/item?id=30577338"/>
-        <updated>2022-03-06T13:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian-founded Grammarly is donating all money it made in Russia since 2014]]></summary>
-        <author>
-            <name>dsr12</name>
-            <uri>https://news.ycombinator.com/user?id=dsr12</uri>
         </author>
     </entry>
 </feed>
