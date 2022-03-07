@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T04:42:28.674Z</updated>
+    <updated>2022-03-07T04:57:12.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌雲簡介]]></title>
+        <id>https://news.ycombinator.com/item?id=30584343</id>
+        <link href="https://news.ycombinator.com/item?id=30584343"/>
+        <updated>2022-03-07T04:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Google Cloud]]></summary>
+        <author>
+            <name>pvergadia</name>
+            <uri>https://news.ycombinator.com/user?id=pvergadia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法庭要求收集有關色情製品和性犯罪之間聯繫的數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30584337</id>
+        <link href="https://news.ycombinator.com/item?id=30584337"/>
+        <updated>2022-03-07T04:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Plea in Court Seeks to Collect Data on Link Between Pornography and Sex Crimes]]></summary>
+        <author>
+            <name>webmobdev</name>
+            <uri>https://news.ycombinator.com/user?id=webmobdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從琴絃到鏡子]]></title>
         <id>https://news.ycombinator.com/item?id=30584273</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年輕的烏克蘭人在社交媒體上與親俄的巨魔作鬥爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30576509</id>
-        <link href="https://news.ycombinator.com/item?id=30576509"/>
-        <updated>2022-03-06T10:33:08.000Z</updated>
-        <summary type="html"><![CDATA[The young Ukrainians battling pro-Russian trolls on social media]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[評價和延續的語義學]]></title>
-        <id>https://news.ycombinator.com/item?id=30576461</id>
-        <link href="https://news.ycombinator.com/item?id=30576461"/>
-        <updated>2022-03-06T10:20:04.000Z</updated>
-        <summary type="html"><![CDATA[The Semantics of Evaluation and Continuations]]></summary>
-        <author>
-            <name>gbrown_</name>
-            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
         </author>
     </entry>
 </feed>
