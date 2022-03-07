@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-07T07:38:01.753Z</updated>
+    <updated>2022-03-07T07:52:46.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特钓鱼网站]]></title>
+        <id>https://news.ycombinator.com/item?id=30585187</id>
+        <link href="https://news.ycombinator.com/item?id=30585187"/>
+        <updated>2022-03-07T07:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Fishing Site]]></summary>
+        <author>
+            <name>cakirh</name>
+            <uri>https://news.ycombinator.com/user?id=cakirh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicropolisJS：一个克隆的模拟城市的JavaScript。]]></title>
+        <id>https://news.ycombinator.com/item?id=30585166</id>
+        <link href="https://news.ycombinator.com/item?id=30585166"/>
+        <updated>2022-03-07T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[MicropolisJS: A JavaScript clone of the original SimCity]]></summary>
+        <author>
+            <name>AnnikaL</name>
+            <uri>https://news.ycombinator.com/user?id=AnnikaL</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国正在记录关于俄罗斯在乌克兰的 "战争罪行 "的报告]]></title>
+        <id>https://news.ycombinator.com/item?id=30585159</id>
+        <link href="https://news.ycombinator.com/item?id=30585159"/>
+        <updated>2022-03-07T07:38:13.000Z</updated>
+        <summary type="html"><![CDATA[The US Is Documenting Reports of Russian 'War-Crimes' in Ukraine]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回到苏联]]></title>
+        <id>https://news.ycombinator.com/item?id=30584852</id>
+        <link href="https://news.ycombinator.com/item?id=30584852"/>
+        <updated>2022-03-07T06:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Back in the USSR]]></summary>
+        <author>
+            <name>thezipster</name>
+            <uri>https://news.ycombinator.com/user?id=thezipster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于用编码赚钱，你没有被告知的是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30585142</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ebcode</name>
             <uri>https://news.ycombinator.com/user?id=ebcode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[违约风险上升，穆迪将俄罗斯评级降至Ca]]></title>
-        <id>https://news.ycombinator.com/item?id=30577206</id>
-        <link href="https://news.ycombinator.com/item?id=30577206"/>
-        <updated>2022-03-06T12:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Moody's cuts Russia rating to Ca on rise in default risk]]></summary>
-        <author>
-            <name>jacquesm</name>
-            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Alpine和HTMX进行服务器端渲染的文艺复兴时期]]></title>
-        <id>https://news.ycombinator.com/item?id=30577181</id>
-        <link href="https://news.ycombinator.com/item?id=30577181"/>
-        <updated>2022-03-06T12:39:18.000Z</updated>
-        <summary type="html"><![CDATA[The Renaissance of server side rendering with Alpine and HTMX]]></summary>
-        <author>
-            <name>mromanuk</name>
-            <uri>https://news.ycombinator.com/user?id=mromanuk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对比特币和区块链的技术案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30577169</id>
-        <link href="https://news.ycombinator.com/item?id=30577169"/>
-        <updated>2022-03-06T12:37:18.000Z</updated>
-        <summary type="html"><![CDATA[The technological case against Bitcoin and blockchain]]></summary>
-        <author>
-            <name>colesantiago</name>
-            <uri>https://news.ycombinator.com/user?id=colesantiago</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假冒Yubikeys的风险是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30577162</id>
-        <link href="https://news.ycombinator.com/item?id=30577162"/>
-        <updated>2022-03-06T12:36:27.000Z</updated>
-        <summary type="html"><![CDATA[What's the Risk from Fake Yubikeys?]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
         </author>
     </entry>
 </feed>
