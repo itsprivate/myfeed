@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你需要用5个世界顶级头条新闻来开始你的一天]]></title>
+            <link>https://news.ycombinator.com/item?id=30585080</link>
+            <guid>https://news.ycombinator.com/item?id=30585080</guid>
+            <pubDate>Mon, 07 Mar 2022 07:25:30 GMT</pubDate>
+            <description><![CDATA[Just 5 Top headlines of the world you need to start your day with]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯封杀Facebook的原因]]></title>
+            <link>https://news.ycombinator.com/item?id=30585065</link>
+            <guid>https://news.ycombinator.com/item?id=30585065</guid>
+            <pubDate>Mon, 07 Mar 2022 07:22:35 GMT</pubDate>
+            <description><![CDATA[The reason Russia is blocking Facebook]]></description>
+        </item>
         <item>
             <title><![CDATA[匈牙利禁止谷物出口，食品保护主义正在蔓延]]></title>
             <link>https://news.ycombinator.com/item?id=30584963</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577127</guid>
             <pubDate>Sun, 06 Mar 2022 12:31:50 GMT</pubDate>
             <description><![CDATA[Ukraine's Nazi problem is real, even if Putin's 'denazification' claim isn't]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Imagination Tech开源PowerVR Vulkan驱动用于Mesa]]></title>
-            <link>https://news.ycombinator.com/item?id=30577115</link>
-            <guid>https://news.ycombinator.com/item?id=30577115</guid>
-            <pubDate>Sun, 06 Mar 2022 12:29:05 GMT</pubDate>
-            <description><![CDATA[Imagination Tech Open-Source PowerVR Vulkan Driver for Mesa]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互联网的法律]]></title>
-            <link>https://news.ycombinator.com/item?id=30577114</link>
-            <guid>https://news.ycombinator.com/item?id=30577114</guid>
-            <pubDate>Sun, 06 Mar 2022 12:29:04 GMT</pubDate>
-            <description><![CDATA[Laws of the Internet]]></description>
         </item>
     </channel>
 </rss>
