@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-08T06:57:26.441Z</updated>
+    <updated>2022-03-08T07:13:30.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是我認識的最健康的人，而我卻得了癌症]]></title>
+        <id>https://news.ycombinator.com/item?id=30597187</id>
+        <link href="https://news.ycombinator.com/item?id=30597187"/>
+        <updated>2022-03-08T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[I am the healthiest person I know, and I got cancer]]></summary>
+        <author>
+            <name>codetiger</name>
+            <uri>https://news.ycombinator.com/user?id=codetiger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麥當勞和可口可樂抵制俄羅斯的呼聲高漲]]></title>
+        <id>https://news.ycombinator.com/item?id=30597180</id>
+        <link href="https://news.ycombinator.com/item?id=30597180"/>
+        <updated>2022-03-08T06:58:58.000Z</updated>
+        <summary type="html"><![CDATA[McDonald's and Coca-Cola boycott calls grow over Russia]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python是如何在企業中消亡的]]></title>
+        <id>https://news.ycombinator.com/item?id=30597177</id>
+        <link href="https://news.ycombinator.com/item?id=30597177"/>
+        <updated>2022-03-08T06:58:48.000Z</updated>
+        <summary type="html"><![CDATA[How Python is dying at enterprises]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不尋常的飛機恢復程序 (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30597168</id>
+        <link href="https://news.ycombinator.com/item?id=30597168"/>
+        <updated>2022-03-08T06:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Unusual Aircraft Recovery Procedures (2013)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威脅建模案例研究：自行車（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30597167</id>
+        <link href="https://news.ycombinator.com/item?id=30597167"/>
+        <updated>2022-03-08T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat modelling case study: bicycles (2020)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Maxxx {信任}--可能有助於恢復男性的性慾和動力]]></title>
+        <id>https://news.ycombinator.com/item?id=30597157</id>
+        <link href="https://news.ycombinator.com/item?id=30597157"/>
+        <updated>2022-03-08T06:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Iron Maxxx {Trusted} – May Help Restore Male Libido and Drive]]></summary>
+        <author>
+            <name>DavidBnder</name>
+            <uri>https://news.ycombinator.com/user?id=DavidBnder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mrrle - 嘗試猜測公司的MRRs]]></title>
+        <id>https://news.ycombinator.com/item?id=30597155</id>
+        <link href="https://news.ycombinator.com/item?id=30597155"/>
+        <updated>2022-03-08T06:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mrrle – Try to Guess Company MRRs]]></summary>
+        <author>
+            <name>3dwafflee</name>
+            <uri>https://news.ycombinator.com/user?id=3dwafflee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從石器時代到信息時代的教訓]]></title>
         <id>https://news.ycombinator.com/item?id=30597149</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>vinnyglennon</name>
             <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Gatsby和Puppeteer來創建動態的Open Graph圖像]]></title>
-        <id>https://news.ycombinator.com/item?id=30589390</id>
-        <link href="https://news.ycombinator.com/item?id=30589390"/>
-        <updated>2022-03-07T16:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Using Gatsby and Puppeteer to create dynamic Open Graph images]]></summary>
-        <author>
-            <name>corywatilo</name>
-            <uri>https://news.ycombinator.com/user?id=corywatilo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在新的數學證明中，人工智能玩得很開心]]></title>
-        <id>https://news.ycombinator.com/item?id=30589384</id>
-        <link href="https://news.ycombinator.com/item?id=30589384"/>
-        <updated>2022-03-07T16:02:47.000Z</updated>
-        <summary type="html"><![CDATA[In New Math Proofs, Artificial Intelligence Plays to Win]]></summary>
-        <author>
-            <name>theafh</name>
-            <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於CXL的直接可訪問的高性能內存分解框架 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30589366</id>
-        <link href="https://news.ycombinator.com/item?id=30589366"/>
-        <updated>2022-03-07T16:01:22.000Z</updated>
-        <summary type="html"><![CDATA[CXL-Based Direct Accessible, High-Performance Memory Disaggregation Framework [pdf]]]></summary>
-        <author>
-            <name>pbalcer</name>
-            <uri>https://news.ycombinator.com/user?id=pbalcer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Java中解析HTML]]></title>
-        <id>https://news.ycombinator.com/item?id=30589355</id>
-        <link href="https://news.ycombinator.com/item?id=30589355"/>
-        <updated>2022-03-07T16:00:56.000Z</updated>
-        <summary type="html"><![CDATA[HTML Parsing in Java]]></summary>
-        <author>
-            <name>ScottWRobinson</name>
-            <uri>https://news.ycombinator.com/user?id=ScottWRobinson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登任命的官員在關鍵的網絡法案上出現分歧]]></title>
-        <id>https://news.ycombinator.com/item?id=30589352</id>
-        <link href="https://news.ycombinator.com/item?id=30589352"/>
-        <updated>2022-03-07T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Biden appointees split on key cyber bill]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敘利亞內戰的傷亡情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30589301</id>
-        <link href="https://news.ycombinator.com/item?id=30589301"/>
-        <updated>2022-03-07T15:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Casualties of the Syrian Civil War]]></summary>
-        <author>
-            <name>amin</name>
-            <uri>https://news.ycombinator.com/user?id=amin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U型空間。未來的空氣空間]]></title>
-        <id>https://news.ycombinator.com/item?id=30589294</id>
-        <link href="https://news.ycombinator.com/item?id=30589294"/>
-        <updated>2022-03-07T15:56:56.000Z</updated>
-        <summary type="html"><![CDATA[U-Space: The Airspace of the Future]]></summary>
-        <author>
-            <name>pierre</name>
-            <uri>https://news.ycombinator.com/user?id=pierre</uri>
         </author>
     </entry>
 </feed>
