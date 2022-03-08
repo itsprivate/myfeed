@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-08T07:31:14.707Z</updated>
+    <updated>2022-03-08T07:37:44.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[航空业现在和你的有生之年一样具有可持续性]]></title>
+        <id>https://news.ycombinator.com/item?id=30597393</id>
+        <link href="https://news.ycombinator.com/item?id=30597393"/>
+        <updated>2022-03-08T07:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Aviation is as Sustainable Now as it will be in Your Lifetime]]></summary>
+        <author>
+            <name>pharmakom</name>
+            <uri>https://news.ycombinator.com/user?id=pharmakom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭开JPEG的面纱 (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30597322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>OJFord</name>
             <uri>https://news.ycombinator.com/user?id=OJFord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deletionpedia.org]]></title>
-        <id>https://news.ycombinator.com/item?id=30589549</id>
-        <link href="https://news.ycombinator.com/item?id=30589549"/>
-        <updated>2022-03-07T16:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Deletionpedia.org]]></summary>
-        <author>
-            <name>occamschainsaw</name>
-            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
         </author>
     </entry>
 </feed>
