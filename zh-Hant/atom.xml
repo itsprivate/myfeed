@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-08T10:35:37.348Z</updated>
+    <updated>2022-03-08T10:46:12.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CrypTool 2: 每個人的密碼學]]></title>
+        <id>https://news.ycombinator.com/item?id=30598489</id>
+        <link href="https://news.ycombinator.com/item?id=30598489"/>
+        <updated>2022-03-08T10:41:12.000Z</updated>
+        <summary type="html"><![CDATA[CrypTool 2: Cryptography for Everyone]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攝影前的成像--歷史課 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30598482</id>
+        <link href="https://news.ycombinator.com/item?id=30598482"/>
+        <updated>2022-03-08T10:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Imaging before photography – a history lesson (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在斯里蘭卡，有機耕作出現了災難性的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30598455</id>
+        <link href="https://news.ycombinator.com/item?id=30598455"/>
+        <updated>2022-03-08T10:34:34.000Z</updated>
+        <summary type="html"><![CDATA[In Sri Lanka, Organic Farming Went Catastrophically Wrong]]></summary>
+        <author>
+            <name>mrleinad</name>
+            <uri>https://news.ycombinator.com/user?id=mrleinad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個雲原生分析平臺需要測試人員]]></title>
         <id>https://news.ycombinator.com/item?id=30598441</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla修復了兩個被積極利用的Firefox關鍵缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30590566</id>
-        <link href="https://news.ycombinator.com/item?id=30590566"/>
-        <updated>2022-03-07T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla fixes two critical Firefox flaws that are being actively exploited]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bravo Studio - 更智能地構建移動應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30590532</id>
-        <link href="https://news.ycombinator.com/item?id=30590532"/>
-        <updated>2022-03-07T17:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Bravo Studio – Build mobile apps smarter]]></summary>
-        <author>
-            <name>spansoa</name>
-            <uri>https://news.ycombinator.com/user?id=spansoa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國真的很擅長破壞東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30590504</id>
-        <link href="https://news.ycombinator.com/item?id=30590504"/>
-        <updated>2022-03-07T17:18:50.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. is really good at destroying things]]></summary>
-        <author>
-            <name>Michelangelo11</name>
-            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
         </author>
     </entry>
 </feed>
