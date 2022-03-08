@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-08T14:32:03.831Z</updated>
+    <updated>2022-03-08T14:40:00.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比較工作機會的練習]]></title>
+        <id>https://news.ycombinator.com/item?id=30600271</id>
+        <link href="https://news.ycombinator.com/item?id=30600271"/>
+        <updated>2022-03-08T14:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Exercise to Compare Job Opportunities]]></summary>
+        <author>
+            <name>tdmckinlay</name>
+            <uri>https://news.ycombinator.com/user?id=tdmckinlay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國將因烏克蘭入侵而禁止俄羅斯石油進口]]></title>
+        <id>https://news.ycombinator.com/item?id=30600174</id>
+        <link href="https://news.ycombinator.com/item?id=30600174"/>
+        <updated>2022-03-08T14:24:38.000Z</updated>
+        <summary type="html"><![CDATA[US to ban Russian oil imports over Ukraine invasion]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD發佈Ryzen Threadripper Pro 5000 WX-系列。用於OEM工作站的Zen 3]]></title>
         <id>https://news.ycombinator.com/item?id=30600080</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克被要求在俄羅斯 "關閉 "特斯拉，同時讓超級充電站免費。]]></title>
-        <id>https://news.ycombinator.com/item?id=30592435</id>
-        <link href="https://news.ycombinator.com/item?id=30592435"/>
-        <updated>2022-03-07T19:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk asked to ‘turn off’ Teslas in Russia, while making superchargers free]]></summary>
-        <author>
-            <name>IronWolve</name>
-            <uri>https://news.ycombinator.com/user?id=IronWolve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貢貝黑猩猩戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30592422</id>
-        <link href="https://news.ycombinator.com/item?id=30592422"/>
-        <updated>2022-03-07T19:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Gombe Chimpanzee War]]></summary>
-        <author>
-            <name>avodonosov</name>
-            <uri>https://news.ycombinator.com/user?id=avodonosov</uri>
         </author>
     </entry>
 </feed>
