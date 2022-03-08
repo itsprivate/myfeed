@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-08T05:11:33.957Z</updated>
+    <updated>2022-03-08T05:29:07.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古巴導彈危機的十三天]]></title>
+        <id>https://news.ycombinator.com/item?id=30596725</id>
+        <link href="https://news.ycombinator.com/item?id=30596725"/>
+        <updated>2022-03-08T05:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Thirteen Days of the Cuban Missile Crisis]]></summary>
+        <author>
+            <name>shashurup</name>
+            <uri>https://news.ycombinator.com/user?id=shashurup</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是IO單體？]]></title>
+        <id>https://news.ycombinator.com/item?id=30596699</id>
+        <link href="https://news.ycombinator.com/item?id=30596699"/>
+        <updated>2022-03-08T05:19:51.000Z</updated>
+        <summary type="html"><![CDATA[What Is IO Monad?]]></summary>
+        <author>
+            <name>zamalek</name>
+            <uri>https://news.ycombinator.com/user?id=zamalek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我如何對待自己囤積數據的衝動]]></title>
+        <id>https://news.ycombinator.com/item?id=30596696</id>
+        <link href="https://news.ycombinator.com/item?id=30596696"/>
+        <updated>2022-03-08T05:19:46.000Z</updated>
+        <summary type="html"><![CDATA[How I treat my urge to hoard data]]></summary>
+        <author>
+            <name>hddherman</name>
+            <uri>https://news.ycombinator.com/user?id=hddherman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯對烏克蘭的入侵可能是可以避免的]]></title>
         <id>https://news.ycombinator.com/item?id=30596630</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jimbob45</name>
             <uri>https://news.ycombinator.com/user?id=jimbob45</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國拒絕向烏克蘭難民開放邊境]]></title>
-        <id>https://news.ycombinator.com/item?id=30588708</id>
-        <link href="https://news.ycombinator.com/item?id=30588708"/>
-        <updated>2022-03-07T15:12:50.000Z</updated>
-        <summary type="html"><![CDATA[UK rejects opening borders to Ukraine refugees]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail創建者談加入谷歌、如何成為一名偉大的工程師和幸福感]]></title>
-        <id>https://news.ycombinator.com/item?id=30588701</id>
-        <link href="https://news.ycombinator.com/item?id=30588701"/>
-        <updated>2022-03-07T15:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Gmail creator on joining Google, how to become a great engineer, and happiness]]></summary>
-        <author>
-            <name>ivanvas</name>
-            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ntfs2btrfs：將NTFS文件系統就地轉換為Btrfs]]></title>
-        <id>https://news.ycombinator.com/item?id=30588696</id>
-        <link href="https://news.ycombinator.com/item?id=30588696"/>
-        <updated>2022-03-07T15:11:46.000Z</updated>
-        <summary type="html"><![CDATA[ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs]]></summary>
-        <author>
-            <name>andrew-ld</name>
-            <uri>https://news.ycombinator.com/user?id=andrew-ld</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[古巴導彈危機的十三天]]></title>
+            <link>https://news.ycombinator.com/item?id=30596725</link>
+            <guid>https://news.ycombinator.com/item?id=30596725</guid>
+            <pubDate>Tue, 08 Mar 2022 05:24:32 GMT</pubDate>
+            <description><![CDATA[Thirteen Days of the Cuban Missile Crisis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什麼是IO單體？]]></title>
+            <link>https://news.ycombinator.com/item?id=30596699</link>
+            <guid>https://news.ycombinator.com/item?id=30596699</guid>
+            <pubDate>Tue, 08 Mar 2022 05:19:51 GMT</pubDate>
+            <description><![CDATA[What Is IO Monad?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我如何對待自己囤積數據的衝動]]></title>
+            <link>https://news.ycombinator.com/item?id=30596696</link>
+            <guid>https://news.ycombinator.com/item?id=30596696</guid>
+            <pubDate>Tue, 08 Mar 2022 05:19:46 GMT</pubDate>
+            <description><![CDATA[How I treat my urge to hoard data]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯對烏克蘭的入侵可能是可以避免的]]></title>
             <link>https://news.ycombinator.com/item?id=30596630</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30588721</guid>
             <pubDate>Mon, 07 Mar 2022 15:14:19 GMT</pubDate>
             <description><![CDATA[Moscow says it will let Ukrainian civilians flee – to Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英國拒絕向烏克蘭難民開放邊境]]></title>
-            <link>https://news.ycombinator.com/item?id=30588708</link>
-            <guid>https://news.ycombinator.com/item?id=30588708</guid>
-            <pubDate>Mon, 07 Mar 2022 15:12:50 GMT</pubDate>
-            <description><![CDATA[UK rejects opening borders to Ukraine refugees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gmail創建者談加入谷歌、如何成為一名偉大的工程師和幸福感]]></title>
-            <link>https://news.ycombinator.com/item?id=30588701</link>
-            <guid>https://news.ycombinator.com/item?id=30588701</guid>
-            <pubDate>Mon, 07 Mar 2022 15:12:32 GMT</pubDate>
-            <description><![CDATA[Gmail creator on joining Google, how to become a great engineer, and happiness]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ntfs2btrfs：將NTFS文件系統就地轉換為Btrfs]]></title>
-            <link>https://news.ycombinator.com/item?id=30588696</link>
-            <guid>https://news.ycombinator.com/item?id=30588696</guid>
-            <pubDate>Mon, 07 Mar 2022 15:11:46 GMT</pubDate>
-            <description><![CDATA[ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs]]></description>
         </item>
     </channel>
 </rss>
