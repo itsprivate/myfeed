@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-11T20:42:27.781Z</updated>
+    <updated>2022-03-11T20:51:56.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube已在美國禁止RT、俄羅斯洞察力和斯普特尼克通訊社。]]></title>
+        <id>https://news.ycombinator.com/item?id=30645786</id>
+        <link href="https://news.ycombinator.com/item?id=30645786"/>
+        <updated>2022-03-11T20:46:35.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Has Banned RT, Russia Insight, and Sputnik in the United States]]></summary>
+        <author>
+            <name>droptablemain</name>
+            <uri>https://news.ycombinator.com/user?id=droptablemain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo首席執行官Gabriel Weinberg在3條簡單的推文中毀掉了他公司的品牌]]></title>
+        <id>https://news.ycombinator.com/item?id=30645785</id>
+        <link href="https://news.ycombinator.com/item?id=30645785"/>
+        <updated>2022-03-11T20:46:35.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGo CEO Gabriel Weinberg wrecked his company's brand in 3-simple tweets]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥古城經受了幾個世紀的考驗，沒有出現財富和權力的極端情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30645763</id>
+        <link href="https://news.ycombinator.com/item?id=30645763"/>
+        <updated>2022-03-11T20:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Ancient Mexican city endured for centuries without extremes in wealth and power]]></summary>
+        <author>
+            <name>Kinrany</name>
+            <uri>https://news.ycombinator.com/user?id=Kinrany</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欺騙性的安東諾夫An-225 ADS-B日誌]]></title>
+        <id>https://news.ycombinator.com/item?id=30645750</id>
+        <link href="https://news.ycombinator.com/item?id=30645750"/>
+        <updated>2022-03-11T20:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Spoofed Antonov An-225 ADS-B Log]]></summary>
+        <author>
+            <name>snthd</name>
+            <uri>https://news.ycombinator.com/user?id=snthd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維拉事件]]></title>
+        <id>https://news.ycombinator.com/item?id=30645728</id>
+        <link href="https://news.ycombinator.com/item?id=30645728"/>
+        <updated>2022-03-11T20:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Vela Incident]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[構建無服務器的多區域WebSocket APIs]]></title>
+        <id>https://news.ycombinator.com/item?id=30645721</id>
+        <link href="https://news.ycombinator.com/item?id=30645721"/>
+        <updated>2022-03-11T20:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Building serverless multi-Region WebSocket APIs]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一塊石頭，三隻鳥。更細粒度的加密Apache Parquet]]></title>
+        <id>https://news.ycombinator.com/item?id=30645718</id>
+        <link href="https://news.ycombinator.com/item?id=30645718"/>
+        <updated>2022-03-11T20:40:11.000Z</updated>
+        <summary type="html"><![CDATA[One Stone, Three Birds: Finer-Grained Encryption Apache Parquet]]></summary>
+        <author>
+            <name>Dagnar</name>
+            <uri>https://news.ycombinator.com/user?id=Dagnar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根據一項新的研究，來自狗的愛是有藥效的]]></title>
         <id>https://news.ycombinator.com/item?id=30645701</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>ghrst</name>
             <uri>https://news.ycombinator.com/user?id=ghrst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare驗證了WhatsApp Web向用戶提供的代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30636713</id>
-        <link href="https://news.ycombinator.com/item?id=30636713"/>
-        <updated>2022-03-11T05:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare verifies the code WhatsApp Web serves to users]]></summary>
-        <author>
-            <name>mcraiha</name>
-            <uri>https://news.ycombinator.com/user?id=mcraiha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本週的照片。泥浴、雪橇犬、烏克蘭危機]]></title>
-        <id>https://news.ycombinator.com/item?id=30636707</id>
-        <link href="https://news.ycombinator.com/item?id=30636707"/>
-        <updated>2022-03-11T05:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Photos of the Week: Mud Bath, Sled Dogs, Ukraine Crisis]]></summary>
-        <author>
-            <name>gamechangr</name>
-            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零強度。將指針的地獄帶到Python中]]></title>
-        <id>https://news.ycombinator.com/item?id=30636693</id>
-        <link href="https://news.ycombinator.com/item?id=30636693"/>
-        <updated>2022-03-11T05:43:53.000Z</updated>
-        <summary type="html"><![CDATA[ZeroIntensity: Bringing the Hell of Pointers to Python]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國農民為何用烏克蘭的固件入侵他們的拖拉機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30636691</id>
-        <link href="https://news.ycombinator.com/item?id=30636691"/>
-        <updated>2022-03-11T05:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Why American Farmers Are Hacking Their Tractors with Ukrainian Firmware]]></summary>
-        <author>
-            <name>abhiminator</name>
-            <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Soda Flow - 一個小型、簡單的CSS和排版工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30636684</id>
-        <link href="https://news.ycombinator.com/item?id=30636684"/>
-        <updated>2022-03-11T05:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CSS Soda Flow – a small, simple CSS and typography tool]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差點引發第三次世界大戰的核錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30636682</id>
-        <link href="https://news.ycombinator.com/item?id=30636682"/>
-        <updated>2022-03-11T05:42:18.000Z</updated>
-        <summary type="html"><![CDATA[The nuclear mistakes that nearly caused World War Three]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何驗證你的商業理念]]></title>
-        <id>https://news.ycombinator.com/item?id=30636681</id>
-        <link href="https://news.ycombinator.com/item?id=30636681"/>
-        <updated>2022-03-11T05:42:17.000Z</updated>
-        <summary type="html"><![CDATA[How to validate your business idea]]></summary>
-        <author>
-            <name>aj_nikhil</name>
-            <uri>https://news.ycombinator.com/user?id=aj_nikhil</uri>
         </author>
     </entry>
 </feed>
