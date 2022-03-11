@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-11T11:37:09.826Z</updated>
+    <updated>2022-03-11T11:51:43.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[白俄羅斯為何如此捲入俄羅斯對烏克蘭的入侵？]]></title>
+        <id>https://news.ycombinator.com/item?id=30638747</id>
+        <link href="https://news.ycombinator.com/item?id=30638747"/>
+        <updated>2022-03-11T11:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Why Belarus is so involved in Russia's Invasion of Ukraine]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冠狀病毒感染導致大腦中的灰質流失]]></title>
+        <id>https://news.ycombinator.com/item?id=30638738</id>
+        <link href="https://news.ycombinator.com/item?id=30638738"/>
+        <updated>2022-03-11T11:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Coronavirus infection leads to a loss of gray matter in the brain]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡介。德米斯-哈薩比斯--國際象棋神童、遊戲設計師、人工智能專家(2020) [音頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30638736</id>
+        <link href="https://news.ycombinator.com/item?id=30638736"/>
+        <updated>2022-03-11T11:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Profile: Demis Hassabis – chess prodigy, game designer, AI expert (2020) [audio]]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Angular和ECharts進行開源分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30638686</id>
+        <link href="https://news.ycombinator.com/item?id=30638686"/>
+        <updated>2022-03-11T11:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Open-source analytics with Angular and ECharts]]></summary>
+        <author>
+            <name>serverlessguru</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessguru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術債務：實地指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30638682</id>
+        <link href="https://news.ycombinator.com/item?id=30638682"/>
+        <updated>2022-03-11T11:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Technical Debt: A Field Guide]]></summary>
+        <author>
+            <name>seekayel</name>
+            <uri>https://news.ycombinator.com/user?id=seekayel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運行不良的烏克蘭無人機在克羅地亞墜毀]]></title>
+        <id>https://news.ycombinator.com/item?id=30638680</id>
+        <link href="https://news.ycombinator.com/item?id=30638680"/>
+        <updated>2022-03-11T11:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Malfunctioning Ukrainian drone crashes in Croatia]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德意志銀行的關鍵俄羅斯IT部門懸而未決]]></title>
+        <id>https://news.ycombinator.com/item?id=30638667</id>
+        <link href="https://news.ycombinator.com/item?id=30638667"/>
+        <updated>2022-03-11T11:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Deutsche Bank’s key Russian IT unit hangs in the balance]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lang: 在Chrome離線時直接運行.c .cpp .py .cljs .ts和更多。]]></title>
         <id>https://news.ycombinator.com/item?id=30638638</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圖書管理員的感嘆。數字書籍不防火]]></title>
-        <id>https://news.ycombinator.com/item?id=30611243</id>
-        <link href="https://news.ycombinator.com/item?id=30611243"/>
-        <updated>2022-03-09T05:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Librarian's lament: Digital books are not fireproof]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐瀏覽器現在在瀏覽器更新說明頁面上出售廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30611241</id>
-        <link href="https://news.ycombinator.com/item?id=30611241"/>
-        <updated>2022-03-09T05:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Firefox is now selling ads on the browser update notes page]]></summary>
-        <author>
-            <name>andrewxdiamond</name>
-            <uri>https://news.ycombinator.com/user?id=andrewxdiamond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社會階層和工作的隱藏課程]]></title>
-        <id>https://news.ycombinator.com/item?id=30611235</id>
-        <link href="https://news.ycombinator.com/item?id=30611235"/>
-        <updated>2022-03-09T05:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Social Class and the Hidden Curriculum of Work]]></summary>
-        <author>
-            <name>ivank</name>
-            <uri>https://news.ycombinator.com/user?id=ivank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qalculate - 最終的桌面計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30611225</id>
-        <link href="https://news.ycombinator.com/item?id=30611225"/>
-        <updated>2022-03-09T05:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Qalculate – The Ultimate Desktop Calculator]]></summary>
-        <author>
-            <name>0___0</name>
-            <uri>https://news.ycombinator.com/user?id=0___0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敬請關注卡巴斯基源代碼洩露事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30611207</id>
-        <link href="https://news.ycombinator.com/item?id=30611207"/>
-        <updated>2022-03-09T05:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Stay tuned for Kaspersky source code leak]]></summary>
-        <author>
-            <name>niros_valtos</name>
-            <uri>https://news.ycombinator.com/user?id=niros_valtos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Games主席的信用卡被用來在AWS上挖掘加密貨幣，花了500萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30611181</id>
-        <link href="https://news.ycombinator.com/item?id=30611181"/>
-        <updated>2022-03-09T05:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Riot Games chairman credit card used to to mine crypto on AWS, $5M spent]]></summary>
-        <author>
-            <name>forgingahead</name>
-            <uri>https://news.ycombinator.com/user?id=forgingahead</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日美國》老闆向廣告商提供九個月的不準確信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30611163</id>
-        <link href="https://news.ycombinator.com/item?id=30611163"/>
-        <updated>2022-03-09T05:10:27.000Z</updated>
-        <summary type="html"><![CDATA[USA Today Owner Gave Advertisers Inaccurate Information for Nine Months]]></summary>
-        <author>
-            <name>donohoe</name>
-            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
         </author>
     </entry>
 </feed>
