@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-11T09:32:22.860Z</updated>
+    <updated>2022-03-11T09:41:23.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果商店在全球关闭]]></title>
+        <id>https://news.ycombinator.com/item?id=30638028</id>
+        <link href="https://news.ycombinator.com/item?id=30638028"/>
+        <updated>2022-03-11T09:37:34.000Z</updated>
+        <summary type="html"><![CDATA[Apple store is closed worldwide]]></summary>
+        <author>
+            <name>ggreg84</name>
+            <uri>https://news.ycombinator.com/user?id=ggreg84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聪明人的诅咒]]></title>
+        <id>https://news.ycombinator.com/item?id=30638017</id>
+        <link href="https://news.ycombinator.com/item?id=30638017"/>
+        <updated>2022-03-11T09:35:51.000Z</updated>
+        <summary type="html"><![CDATA[The Curse of Smart People]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[切尔诺贝利的电离辐射照射缺乏跨代效应]]></title>
+        <id>https://news.ycombinator.com/item?id=30638001</id>
+        <link href="https://news.ycombinator.com/item?id=30638001"/>
+        <updated>2022-03-11T09:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Lack of transgenerational effects of ionizing radiation exposure from Chernobyl]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健身的游戏化。我们是否被我们的锻炼应用程序所玩弄？]]></title>
+        <id>https://news.ycombinator.com/item?id=30637997</id>
+        <link href="https://news.ycombinator.com/item?id=30637997"/>
+        <updated>2022-03-11T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The Gamification of Fitness: Are We Getting Played by Our Exercise Apps?]]></summary>
+        <author>
+            <name>adrianhon</name>
+            <uri>https://news.ycombinator.com/user?id=adrianhon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰对地面防空系统的需求远远超过米格机。以下是最佳选择]]></title>
+        <id>https://news.ycombinator.com/item?id=30637994</id>
+        <link href="https://news.ycombinator.com/item?id=30637994"/>
+        <updated>2022-03-11T09:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Needs Ground Air Defenses Way More Than MiGs. Here Are the Best Options]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的错误信息攻势阻碍了结束战争的外交努力]]></title>
+        <id>https://news.ycombinator.com/item?id=30637989</id>
+        <link href="https://news.ycombinator.com/item?id=30637989"/>
+        <updated>2022-03-11T09:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Misinformation Offensive Impedes Diplomatic Efforts to End the War]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细胞是快速和拥挤的地方 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30637986</id>
+        <link href="https://news.ycombinator.com/item?id=30637986"/>
+        <updated>2022-03-11T09:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Cells are fast and crowded places (2011)]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书允许呼吁对入侵的俄罗斯人或普京实施暴力的帖子]]></title>
         <id>https://news.ycombinator.com/item?id=30637977</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我住在一个拥有地球上最昂贵的苹果产品的国家。]]></title>
-        <id>https://news.ycombinator.com/item?id=30610454</id>
-        <link href="https://news.ycombinator.com/item?id=30610454"/>
-        <updated>2022-03-09T03:03:15.000Z</updated>
-        <summary type="html"><![CDATA[I live in the country with the most expensive Apple products on the planet]]></summary>
-        <author>
-            <name>vaghetti</name>
-            <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名加密货币投资者因点击一个错误链接而损失12万美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30610453</id>
-        <link href="https://news.ycombinator.com/item?id=30610453"/>
-        <updated>2022-03-09T03:03:10.000Z</updated>
-        <summary type="html"><![CDATA[A crypto investor lost $120k from clicking on one bad link]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个基于专辑艺术的Wordle克隆，名为UNCVR]]></title>
-        <id>https://news.ycombinator.com/item?id=30610440</id>
-        <link href="https://news.ycombinator.com/item?id=30610440"/>
-        <updated>2022-03-09T02:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An album art-based Wordle clone called UNCVR]]></summary>
-        <author>
-            <name>aaronlevin</name>
-            <uri>https://news.ycombinator.com/user?id=aaronlevin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在浏览器中玩半衰期]]></title>
-        <id>https://news.ycombinator.com/item?id=30610434</id>
-        <link href="https://news.ycombinator.com/item?id=30610434"/>
-        <updated>2022-03-09T02:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Play Half-Life in the Browser]]></summary>
-        <author>
-            <name>dtx1</name>
-            <uri>https://news.ycombinator.com/user?id=dtx1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用iPad Pro的移动式树莓派设置 [视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30610396</id>
-        <link href="https://news.ycombinator.com/item?id=30610396"/>
-        <updated>2022-03-09T02:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Raspberry Pi Setup with iPad Pro [video]]]></summary>
-        <author>
-            <name>marinesebastian</name>
-            <uri>https://news.ycombinator.com/user?id=marinesebastian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共享汽车的下一步是什么]]></title>
-        <id>https://news.ycombinator.com/item?id=30610392</id>
-        <link href="https://news.ycombinator.com/item?id=30610392"/>
-        <updated>2022-03-09T02:52:31.000Z</updated>
-        <summary type="html"><![CDATA[What's Next for Rideshare]]></summary>
-        <author>
-            <name>redstarpa</name>
-            <uri>https://news.ycombinator.com/user?id=redstarpa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以桶为单位的全球石油储量]]></title>
-        <id>https://news.ycombinator.com/item?id=30610391</id>
-        <link href="https://news.ycombinator.com/item?id=30610391"/>
-        <updated>2022-03-09T02:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Global Oil Reserves in Barrels]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
