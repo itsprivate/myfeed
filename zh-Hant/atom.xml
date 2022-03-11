@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-11T09:41:23.785Z</updated>
+    <updated>2022-03-11T09:51:45.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為我的DNS服務器實現一個有大小限制的LRU緩存，有過期的條目]]></title>
+        <id>https://news.ycombinator.com/item?id=30638083</id>
+        <link href="https://news.ycombinator.com/item?id=30638083"/>
+        <updated>2022-03-11T09:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a size-bounded LRU cache with expiring entries for my DNS server]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲確認出現Deltacron變體]]></title>
+        <id>https://news.ycombinator.com/item?id=30638081</id>
+        <link href="https://news.ycombinator.com/item?id=30638081"/>
+        <updated>2022-03-11T09:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Deltacron Variant Confirmed in Europe]]></summary>
+        <author>
+            <name>hestefisk</name>
+            <uri>https://news.ycombinator.com/user?id=hestefisk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是俄羅斯的 "MIR "支付系統？]]></title>
+        <id>https://news.ycombinator.com/item?id=30638067</id>
+        <link href="https://news.ycombinator.com/item?id=30638067"/>
+        <updated>2022-03-11T09:43:46.000Z</updated>
+        <summary type="html"><![CDATA[What is Russia’s ‘MIR’ payment system?]]></summary>
+        <author>
+            <name>peter_retief</name>
+            <uri>https://news.ycombinator.com/user?id=peter_retief</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Stripe建立你的加密貨幣業務]]></title>
+        <id>https://news.ycombinator.com/item?id=30638052</id>
+        <link href="https://news.ycombinator.com/item?id=30638052"/>
+        <updated>2022-03-11T09:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Build your crypto business with Stripe]]></summary>
+        <author>
+            <name>digitalbase</name>
+            <uri>https://news.ycombinator.com/user?id=digitalbase</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[給予更好的代碼審查反饋]]></title>
+        <id>https://news.ycombinator.com/item?id=30638045</id>
+        <link href="https://news.ycombinator.com/item?id=30638045"/>
+        <updated>2022-03-11T09:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Giving Better Code Review Feedback]]></summary>
+        <author>
+            <name>willemwijnans</name>
+            <uri>https://news.ycombinator.com/user?id=willemwijnans</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果商店在全球關閉]]></title>
         <id>https://news.ycombinator.com/item?id=30638028</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>cardamomo</name>
             <uri>https://news.ycombinator.com/user?id=cardamomo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯和烏克蘭有多大區別？]]></title>
-        <id>https://news.ycombinator.com/item?id=30610522</id>
-        <link href="https://news.ycombinator.com/item?id=30610522"/>
-        <updated>2022-03-09T03:16:53.000Z</updated>
-        <summary type="html"><![CDATA[How Different Are Russian and Ukrainian?]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取消文化的反擊正在導致新的教育舉措]]></title>
-        <id>https://news.ycombinator.com/item?id=30610515</id>
-        <link href="https://news.ycombinator.com/item?id=30610515"/>
-        <updated>2022-03-09T03:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Pushback at cancel culture is leading to new educational initiatives]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰擁有網絡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30610495</id>
-        <link href="https://news.ycombinator.com/item?id=30610495"/>
-        <updated>2022-03-09T03:11:14.000Z</updated>
-        <summary type="html"><![CDATA[Who Owns the Web?]]></summary>
-        <author>
-            <name>allenleein</name>
-            <uri>https://news.ycombinator.com/user?id=allenleein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯暫停外匯銷售]]></title>
-        <id>https://news.ycombinator.com/item?id=30610484</id>
-        <link href="https://news.ycombinator.com/item?id=30610484"/>
-        <updated>2022-03-09T03:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Russia suspends foreign currency sales]]></summary>
-        <author>
-            <name>novateg</name>
-            <uri>https://news.ycombinator.com/user?id=novateg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裡維安公司因涉嫌誤導投資者的電動車價格而被起訴]]></title>
-        <id>https://news.ycombinator.com/item?id=30610456</id>
-        <link href="https://news.ycombinator.com/item?id=30610456"/>
-        <updated>2022-03-09T03:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Rivian is sued for allegedly misleading investors about electric vehicle prices]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
         </author>
     </entry>
 </feed>

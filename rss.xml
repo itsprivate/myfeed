@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 11 Mar 2022 09:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为我的DNS服务器实现一个有大小限制的LRU缓存，有过期的条目]]></title>
+            <link>https://news.ycombinator.com/item?id=30638083</link>
+            <guid>https://news.ycombinator.com/item?id=30638083</guid>
+            <pubDate>Fri, 11 Mar 2022 09:47:04 GMT</pubDate>
+            <description><![CDATA[Implementing a size-bounded LRU cache with expiring entries for my DNS server]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲确认出现Deltacron变体]]></title>
+            <link>https://news.ycombinator.com/item?id=30638081</link>
+            <guid>https://news.ycombinator.com/item?id=30638081</guid>
+            <pubDate>Fri, 11 Mar 2022 09:46:41 GMT</pubDate>
+            <description><![CDATA[Deltacron Variant Confirmed in Europe]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是俄罗斯的 "MIR "支付系统？]]></title>
+            <link>https://news.ycombinator.com/item?id=30638067</link>
+            <guid>https://news.ycombinator.com/item?id=30638067</guid>
+            <pubDate>Fri, 11 Mar 2022 09:43:46 GMT</pubDate>
+            <description><![CDATA[What is Russia’s ‘MIR’ payment system?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Stripe建立你的加密货币业务]]></title>
+            <link>https://news.ycombinator.com/item?id=30638052</link>
+            <guid>https://news.ycombinator.com/item?id=30638052</guid>
+            <pubDate>Fri, 11 Mar 2022 09:42:01 GMT</pubDate>
+            <description><![CDATA[Build your crypto business with Stripe]]></description>
+        </item>
+        <item>
+            <title><![CDATA[给予更好的代码审查反馈]]></title>
+            <link>https://news.ycombinator.com/item?id=30638045</link>
+            <guid>https://news.ycombinator.com/item?id=30638045</guid>
+            <pubDate>Fri, 11 Mar 2022 09:40:37 GMT</pubDate>
+            <description><![CDATA[Giving Better Code Review Feedback]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果商店在全球关闭]]></title>
             <link>https://news.ycombinator.com/item?id=30638028</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30610532</guid>
             <pubDate>Wed, 09 Mar 2022 03:20:10 GMT</pubDate>
             <description><![CDATA[The CSV Virtual Table]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯和乌克兰有多大区别？]]></title>
-            <link>https://news.ycombinator.com/item?id=30610522</link>
-            <guid>https://news.ycombinator.com/item?id=30610522</guid>
-            <pubDate>Wed, 09 Mar 2022 03:16:53 GMT</pubDate>
-            <description><![CDATA[How Different Are Russian and Ukrainian?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[取消文化的反击正在导致新的教育举措]]></title>
-            <link>https://news.ycombinator.com/item?id=30610515</link>
-            <guid>https://news.ycombinator.com/item?id=30610515</guid>
-            <pubDate>Wed, 09 Mar 2022 03:15:28 GMT</pubDate>
-            <description><![CDATA[Pushback at cancel culture is leading to new educational initiatives]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁拥有网络？]]></title>
-            <link>https://news.ycombinator.com/item?id=30610495</link>
-            <guid>https://news.ycombinator.com/item?id=30610495</guid>
-            <pubDate>Wed, 09 Mar 2022 03:11:14 GMT</pubDate>
-            <description><![CDATA[Who Owns the Web?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯暂停外汇销售]]></title>
-            <link>https://news.ycombinator.com/item?id=30610484</link>
-            <guid>https://news.ycombinator.com/item?id=30610484</guid>
-            <pubDate>Wed, 09 Mar 2022 03:09:49 GMT</pubDate>
-            <description><![CDATA[Russia suspends foreign currency sales]]></description>
-        </item>
-        <item>
-            <title><![CDATA[里维安公司因涉嫌误导投资者的电动车价格而被起诉]]></title>
-            <link>https://news.ycombinator.com/item?id=30610456</link>
-            <guid>https://news.ycombinator.com/item?id=30610456</guid>
-            <pubDate>Wed, 09 Mar 2022 03:03:33 GMT</pubDate>
-            <description><![CDATA[Rivian is sued for allegedly misleading investors about electric vehicle prices]]></description>
         </item>
     </channel>
 </rss>
