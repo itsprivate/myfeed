@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-11T07:41:45.196Z</updated>
+    <updated>2022-03-11T07:50:35.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中國三大網絡巨頭創建流媒體視頻 "標準]]></title>
+        <id>https://news.ycombinator.com/item?id=30637327</id>
+        <link href="https://news.ycombinator.com/item?id=30637327"/>
+        <updated>2022-03-11T07:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Three Chinese web giants create streaming video 'standard']]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是的，你可以消除官僚主義]]></title>
         <id>https://news.ycombinator.com/item?id=30637303</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kaycebasques</name>
             <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[租給俄羅斯航空公司的飛機現在已經不在業主手中了]]></title>
-        <id>https://news.ycombinator.com/item?id=30609642</id>
-        <link href="https://news.ycombinator.com/item?id=30609642"/>
-        <updated>2022-03-09T00:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Planes Leased to Russia Airlines Now Out of Reach of Owners]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
         </author>
     </entry>
 </feed>
