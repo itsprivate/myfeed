@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T14:29:15.262Z</updated>
+    <updated>2022-03-12T14:51:56.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件开发人员的非标准书单]]></title>
+        <id>https://news.ycombinator.com/item?id=30651273</id>
+        <link href="https://news.ycombinator.com/item?id=30651273"/>
+        <updated>2022-03-12T13:43:14.000Z</updated>
+        <summary type="html"><![CDATA[A non-standard book list for software developers]]></summary>
+        <author>
+            <name>molteanu</name>
+            <uri>https://news.ycombinator.com/user?id=molteanu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件系统至少会出现三种不同的错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30651244</id>
+        <link href="https://news.ycombinator.com/item?id=30651244"/>
+        <updated>2022-03-12T13:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Filesystems can experience at least three different sorts of errors]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司的芯片被摆在桌面上]]></title>
         <id>https://news.ycombinator.com/item?id=30651290</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>greyface-</name>
             <uri>https://news.ycombinator.com/user?id=greyface-</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红宝石结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30641918</id>
-        <link href="https://news.ycombinator.com/item?id=30641918"/>
-        <updated>2022-03-11T16:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Ruby Structs]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何惹怒其他程序员]]></title>
-        <id>https://news.ycombinator.com/item?id=30641907</id>
-        <link href="https://news.ycombinator.com/item?id=30641907"/>
-        <updated>2022-03-11T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[How to piss off other programmers]]></summary>
-        <author>
-            <name>dglass</name>
-            <uri>https://news.ycombinator.com/user?id=dglass</uri>
         </author>
     </entry>
 </feed>

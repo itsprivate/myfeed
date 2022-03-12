@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 14:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 14:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[軟件開發人員的非標準書單]]></title>
+            <link>https://news.ycombinator.com/item?id=30651273</link>
+            <guid>https://news.ycombinator.com/item?id=30651273</guid>
+            <pubDate>Sat, 12 Mar 2022 13:43:14 GMT</pubDate>
+            <description><![CDATA[A non-standard book list for software developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文件系統至少會出現三種不同的錯誤]]></title>
+            <link>https://news.ycombinator.com/item?id=30651244</link>
+            <guid>https://news.ycombinator.com/item?id=30651244</guid>
+            <pubDate>Sat, 12 Mar 2022 13:38:51 GMT</pubDate>
+            <description><![CDATA[Filesystems can experience at least three different sorts of errors]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果公司的芯片被擺在桌面上]]></title>
             <link>https://news.ycombinator.com/item?id=30651290</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30641932</guid>
             <pubDate>Fri, 11 Mar 2022 16:28:21 GMT</pubDate>
             <description><![CDATA[London Internet Exchange Halts Services to Megafon and Rostelecom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紅寶石結構]]></title>
-            <link>https://news.ycombinator.com/item?id=30641918</link>
-            <guid>https://news.ycombinator.com/item?id=30641918</guid>
-            <pubDate>Fri, 11 Mar 2022 16:27:33 GMT</pubDate>
-            <description><![CDATA[Ruby Structs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何惹怒其他程序員]]></title>
-            <link>https://news.ycombinator.com/item?id=30641907</link>
-            <guid>https://news.ycombinator.com/item?id=30641907</guid>
-            <pubDate>Fri, 11 Mar 2022 16:27:00 GMT</pubDate>
-            <description><![CDATA[How to piss off other programmers]]></description>
         </item>
     </channel>
 </rss>
