@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T21:11:56.050Z</updated>
+    <updated>2022-03-12T21:29:26.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我读了有史以来的前100篇科学论文]]></title>
+        <id>https://news.ycombinator.com/item?id=30654870</id>
+        <link href="https://news.ycombinator.com/item?id=30654870"/>
+        <updated>2022-03-12T21:04:36.000Z</updated>
+        <summary type="html"><![CDATA[I read the top 100 Scientific papers of all time]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33年前的今天，我提交了一份名为万维网的系统提案。]]></title>
+        <id>https://news.ycombinator.com/item?id=30654801</id>
+        <link href="https://news.ycombinator.com/item?id=30654801"/>
+        <updated>2022-03-12T20:56:12.000Z</updated>
+        <summary type="html"><![CDATA[33 years ago today I submitted a proposal for a system called the World Wide Web]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电磁炉烹饪的案例]]></title>
         <id>https://news.ycombinator.com/item?id=30654693</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>carride</name>
             <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格兰姆斯谈音乐、火星和她与埃隆-马斯克的秘密新宝宝]]></title>
-        <id>https://news.ycombinator.com/item?id=30642920</id>
-        <link href="https://news.ycombinator.com/item?id=30642920"/>
-        <updated>2022-03-11T17:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Grimes on Music, Mars, and Her Secret New Baby with Elon Musk]]></summary>
-        <author>
-            <name>TowerTall</name>
-            <uri>https://news.ycombinator.com/user?id=TowerTall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币是为这个时刻而生的。那么，为什么它没有蓬勃发展呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30642907</id>
-        <link href="https://news.ycombinator.com/item?id=30642907"/>
-        <updated>2022-03-11T17:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Was Made for This Moment. So Why Isn’t It Booming?]]></summary>
-        <author>
-            <name>mwattsun</name>
-            <uri>https://news.ycombinator.com/user?id=mwattsun</uri>
         </author>
     </entry>
 </feed>
