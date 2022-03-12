@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T11:29:11.607Z</updated>
+    <updated>2022-03-12T11:36:31.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何運行增長實驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30650666</id>
+        <link href="https://news.ycombinator.com/item?id=30650666"/>
+        <updated>2022-03-12T11:31:58.000Z</updated>
+        <summary type="html"><![CDATA[How to Run Growth Experiments]]></summary>
+        <author>
+            <name>elephant_burger</name>
+            <uri>https://news.ycombinator.com/user?id=elephant_burger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在線支付處理]]></title>
+        <id>https://news.ycombinator.com/item?id=30650655</id>
+        <link href="https://news.ycombinator.com/item?id=30650655"/>
+        <updated>2022-03-12T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Online Payment Processing]]></summary>
+        <author>
+            <name>Demi_God</name>
+            <uri>https://news.ycombinator.com/user?id=Demi_God</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT創建者的新工具--LetNFTin--NFT所有者的獨家內容]]></title>
         <id>https://news.ycombinator.com/item?id=30650624</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>braymundo</name>
             <uri>https://news.ycombinator.com/user?id=braymundo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國家說，請清理你的盤子。中國正在嚴厲打擊食物浪費]]></title>
-        <id>https://news.ycombinator.com/item?id=30641405</id>
-        <link href="https://news.ycombinator.com/item?id=30641405"/>
-        <updated>2022-03-11T15:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Clean your plate, says the state: China is clamping down on food waste]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們注意到的價格上漲--詞雲]]></title>
-        <id>https://news.ycombinator.com/item?id=30641398</id>
-        <link href="https://news.ycombinator.com/item?id=30641398"/>
-        <updated>2022-03-11T15:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Price increases people have noticed – word cloud]]></summary>
-        <author>
-            <name>slowhand09</name>
-            <uri>https://news.ycombinator.com/user?id=slowhand09</uri>
         </author>
     </entry>
 </feed>
