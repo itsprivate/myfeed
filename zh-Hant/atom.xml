@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T21:52:02.761Z</updated>
+    <updated>2022-03-12T22:11:57.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[堆棧溢出被關閉了]]></title>
+        <id>https://news.ycombinator.com/item?id=30655231</id>
+        <link href="https://news.ycombinator.com/item?id=30655231"/>
+        <updated>2022-03-12T21:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Stack Overflow Is Down]]></summary>
+        <author>
+            <name>NilsIRL</name>
+            <uri>https://news.ycombinator.com/user?id=NilsIRL</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#俄羅斯的戰爭罪行]]></title>
         <id>https://news.ycombinator.com/item?id=30654704</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thoughtpoet</name>
             <uri>https://news.ycombinator.com/user?id=thoughtpoet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Buildable Flows中整合的開源解決方案模板]]></title>
-        <id>https://news.ycombinator.com/item?id=30642971</id>
-        <link href="https://news.ycombinator.com/item?id=30642971"/>
-        <updated>2022-03-11T17:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Open-source solution templates to integrate within Buildable Flows]]></summary>
-        <author>
-            <name>buildable</name>
-            <uri>https://news.ycombinator.com/user?id=buildable</uri>
         </author>
     </entry>
 </feed>

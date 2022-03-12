@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 21:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 22:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[堆栈溢出被关闭了]]></title>
+            <link>https://news.ycombinator.com/item?id=30655231</link>
+            <guid>https://news.ycombinator.com/item?id=30655231</guid>
+            <pubDate>Sat, 12 Mar 2022 21:48:55 GMT</pubDate>
+            <description><![CDATA[Stack Overflow Is Down]]></description>
+        </item>
         <item>
             <title><![CDATA[#俄罗斯的战争罪行]]></title>
             <link>https://news.ycombinator.com/item?id=30654704</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642996</guid>
             <pubDate>Fri, 11 Mar 2022 17:28:11 GMT</pubDate>
             <description><![CDATA[Mullings on Nocode Backed by Domain-Driven Design Foundations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Buildable Flows中整合的开源解决方案模板]]></title>
-            <link>https://news.ycombinator.com/item?id=30642971</link>
-            <guid>https://news.ycombinator.com/item?id=30642971</guid>
-            <pubDate>Fri, 11 Mar 2022 17:26:37 GMT</pubDate>
-            <description><![CDATA[Open-source solution templates to integrate within Buildable Flows]]></description>
         </item>
     </channel>
 </rss>
