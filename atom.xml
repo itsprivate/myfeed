@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T23:41:28.448Z</updated>
+    <updated>2022-03-12T23:51:27.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成功的创业公司创始人的平均年龄是45岁（2018年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30655956</id>
+        <link href="https://news.ycombinator.com/item?id=30655956"/>
+        <updated>2022-03-12T23:14:08.000Z</updated>
+        <summary type="html"><![CDATA[The average age of a successful startup founder is 45 (2018)]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思科公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30652886</id>
+        <link href="https://news.ycombinator.com/item?id=30652886"/>
+        <updated>2022-03-12T17:16:50.000Z</updated>
+        <summary type="html"><![CDATA[ThinkComposer]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月球上挥发性物质的演变]]></title>
         <id>https://news.ycombinator.com/item?id=30655787</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cbg0</name>
             <uri>https://news.ycombinator.com/user?id=cbg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes cronjob具有高可用性和容错性]]></title>
-        <id>https://news.ycombinator.com/item?id=30643296</id>
-        <link href="https://news.ycombinator.com/item?id=30643296"/>
-        <updated>2022-03-11T17:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes cronjobs are highly-available and fault-tolerant]]></summary>
-        <author>
-            <name>mmh0000</name>
-            <uri>https://news.ycombinator.com/user?id=mmh0000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80年代Usenet上的第一个文化参考资料]]></title>
-        <id>https://news.ycombinator.com/item?id=30643285</id>
-        <link href="https://news.ycombinator.com/item?id=30643285"/>
-        <updated>2022-03-11T17:45:15.000Z</updated>
-        <summary type="html"><![CDATA[80s Usenet first cultural references]]></summary>
-        <author>
-            <name>cpp_frog</name>
-            <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
         </author>
     </entry>
 </feed>
