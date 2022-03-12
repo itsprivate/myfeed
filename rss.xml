@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 21:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 21:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[维基百科一名顶级编辑在白俄罗斯被捕]]></title>
+            <link>https://news.ycombinator.com/item?id=30654982</link>
+            <guid>https://news.ycombinator.com/item?id=30654982</guid>
+            <pubDate>Sat, 12 Mar 2022 21:20:51 GMT</pubDate>
+            <description><![CDATA[A top Wikipedia editor has been arrested in Belarus]]></description>
+        </item>
         <item>
             <title><![CDATA[我读了有史以来的前100篇科学论文]]></title>
             <link>https://news.ycombinator.com/item?id=30654870</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642935</guid>
             <pubDate>Fri, 11 Mar 2022 17:24:24 GMT</pubDate>
             <description><![CDATA[9/11 Sequence]]></description>
-        </item>
-        <item>
-            <title><![CDATA[打破网络安全中的偏见]]></title>
-            <link>https://news.ycombinator.com/item?id=30642928</link>
-            <guid>https://news.ycombinator.com/item?id=30642928</guid>
-            <pubDate>Fri, 11 Mar 2022 17:24:13 GMT</pubDate>
-            <description><![CDATA[Breaking the Bias in Cybersecurity]]></description>
         </item>
     </channel>
 </rss>

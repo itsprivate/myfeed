@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T21:29:26.847Z</updated>
+    <updated>2022-03-12T21:38:46.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科一名顶级编辑在白俄罗斯被捕]]></title>
+        <id>https://news.ycombinator.com/item?id=30654982</id>
+        <link href="https://news.ycombinator.com/item?id=30654982"/>
+        <updated>2022-03-12T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[A top Wikipedia editor has been arrested in Belarus]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我读了有史以来的前100篇科学论文]]></title>
         <id>https://news.ycombinator.com/item?id=30654870</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adambaum</name>
             <uri>https://news.ycombinator.com/user?id=adambaum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打破网络安全中的偏见]]></title>
-        <id>https://news.ycombinator.com/item?id=30642928</id>
-        <link href="https://news.ycombinator.com/item?id=30642928"/>
-        <updated>2022-03-11T17:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Breaking the Bias in Cybersecurity]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>
