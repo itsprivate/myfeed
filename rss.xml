@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 20:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 21:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[电磁炉烹饪的案例]]></title>
+            <link>https://news.ycombinator.com/item?id=30654693</link>
+            <guid>https://news.ycombinator.com/item?id=30654693</guid>
+            <pubDate>Sat, 12 Mar 2022 20:40:34 GMT</pubDate>
+            <description><![CDATA[The Case for Induction Cooking]]></description>
+        </item>
+        <item>
+            <title><![CDATA[揭开.NET的神秘面纱]]></title>
+            <link>https://news.ycombinator.com/item?id=30654114</link>
+            <guid>https://news.ycombinator.com/item?id=30654114</guid>
+            <pubDate>Sat, 12 Mar 2022 19:30:06 GMT</pubDate>
+            <description><![CDATA[.NET Myths Dispelled]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国证券交易委员会前互联网执法负责人担心加密货币的故事如何结束]]></title>
+            <link>https://news.ycombinator.com/item?id=30654043</link>
+            <guid>https://news.ycombinator.com/item?id=30654043</guid>
+            <pubDate>Sat, 12 Mar 2022 19:24:22 GMT</pubDate>
+            <description><![CDATA[The SEC’s Former Head of Internet Enforcement Fears How the Crypto Story Ends]]></description>
+        </item>
         <item>
             <title><![CDATA[克里姆林宫逮捕俄罗斯联邦安全局局长以应对乌克兰混乱局面的影响]]></title>
             <link>https://news.ycombinator.com/item?id=30654381</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642907</guid>
             <pubDate>Fri, 11 Mar 2022 17:23:16 GMT</pubDate>
             <description><![CDATA[Bitcoin Was Made for This Moment. So Why Isn’t It Booming?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[那么，Steam甲板的发布有多顺利？]]></title>
-            <link>https://news.ycombinator.com/item?id=30642905</link>
-            <guid>https://news.ycombinator.com/item?id=30642905</guid>
-            <pubDate>Fri, 11 Mar 2022 17:23:12 GMT</pubDate>
-            <description><![CDATA[So, How Smooth Was the Steam Deck Launch?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[孩子最多和最少的美国城市]]></title>
-            <link>https://news.ycombinator.com/item?id=30642860</link>
-            <guid>https://news.ycombinator.com/item?id=30642860</guid>
-            <pubDate>Fri, 11 Mar 2022 17:20:55 GMT</pubDate>
-            <description><![CDATA[The US cities with the most and fewest children]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Redpanda中用于影子索引的分层存储架构]]></title>
-            <link>https://news.ycombinator.com/item?id=30642857</link>
-            <guid>https://news.ycombinator.com/item?id=30642857</guid>
-            <pubDate>Fri, 11 Mar 2022 17:20:31 GMT</pubDate>
-            <description><![CDATA[Tiered storage architecture for shadow indexing in Redpanda]]></description>
         </item>
     </channel>
 </rss>

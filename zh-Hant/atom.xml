@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T20:51:35.979Z</updated>
+    <updated>2022-03-12T21:11:56.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電磁爐烹飪的案例]]></title>
+        <id>https://news.ycombinator.com/item?id=30654693</id>
+        <link href="https://news.ycombinator.com/item?id=30654693"/>
+        <updated>2022-03-12T20:40:34.000Z</updated>
+        <summary type="html"><![CDATA[The Case for Induction Cooking]]></summary>
+        <author>
+            <name>mathieutd</name>
+            <uri>https://news.ycombinator.com/user?id=mathieutd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭開.NET的神秘面紗]]></title>
+        <id>https://news.ycombinator.com/item?id=30654114</id>
+        <link href="https://news.ycombinator.com/item?id=30654114"/>
+        <updated>2022-03-12T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[.NET Myths Dispelled]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國證券交易委員會前互聯網執法負責人擔心加密貨幣的故事如何結束]]></title>
+        <id>https://news.ycombinator.com/item?id=30654043</id>
+        <link href="https://news.ycombinator.com/item?id=30654043"/>
+        <updated>2022-03-12T19:24:22.000Z</updated>
+        <summary type="html"><![CDATA[The SEC’s Former Head of Internet Enforcement Fears How the Crypto Story Ends]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[克里姆林宮逮捕俄羅斯聯邦安全局局長以應對烏克蘭混亂局面的影響]]></title>
         <id>https://news.ycombinator.com/item?id=30654381</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mwattsun</name>
             <uri>https://news.ycombinator.com/user?id=mwattsun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那麼，Steam甲板的發佈有多順利？]]></title>
-        <id>https://news.ycombinator.com/item?id=30642905</id>
-        <link href="https://news.ycombinator.com/item?id=30642905"/>
-        <updated>2022-03-11T17:23:12.000Z</updated>
-        <summary type="html"><![CDATA[So, How Smooth Was the Steam Deck Launch?]]></summary>
-        <author>
-            <name>ekianjo</name>
-            <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孩子最多和最少的美國城市]]></title>
-        <id>https://news.ycombinator.com/item?id=30642860</id>
-        <link href="https://news.ycombinator.com/item?id=30642860"/>
-        <updated>2022-03-11T17:20:55.000Z</updated>
-        <summary type="html"><![CDATA[The US cities with the most and fewest children]]></summary>
-        <author>
-            <name>havermeyer</name>
-            <uri>https://news.ycombinator.com/user?id=havermeyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redpanda中用於影子索引的分層存儲架構]]></title>
-        <id>https://news.ycombinator.com/item?id=30642857</id>
-        <link href="https://news.ycombinator.com/item?id=30642857"/>
-        <updated>2022-03-11T17:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Tiered storage architecture for shadow indexing in Redpanda]]></summary>
-        <author>
-            <name>northstar702</name>
-            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
         </author>
     </entry>
 </feed>
