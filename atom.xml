@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T06:13:39.757Z</updated>
+    <updated>2022-03-12T06:38:11.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[局部执行者。通过探索LLVM中的所有执行来减少WebAssembly的大小]]></title>
+        <id>https://news.ycombinator.com/item?id=30649438</id>
+        <link href="https://news.ycombinator.com/item?id=30649438"/>
+        <updated>2022-03-12T06:33:04.000Z</updated>
+        <summary type="html"><![CDATA[PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本科生扩招的一些思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30649427</id>
+        <link href="https://news.ycombinator.com/item?id=30649427"/>
+        <updated>2022-03-12T06:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Some Thoughts on Undergraduate Expansion]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙堆的数学]]></title>
+        <id>https://news.ycombinator.com/item?id=30649406</id>
+        <link href="https://news.ycombinator.com/item?id=30649406"/>
+        <updated>2022-03-12T06:24:44.000Z</updated>
+        <summary type="html"><![CDATA[The Math of the Sandpile]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为大英图书馆的藏品建造一个更大的家]]></title>
+        <id>https://news.ycombinator.com/item?id=30649403</id>
+        <link href="https://news.ycombinator.com/item?id=30649403"/>
+        <updated>2022-03-12T06:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Building a bigger home for the British Library collection]]></summary>
+        <author>
+            <name>gscott</name>
+            <uri>https://news.ycombinator.com/user?id=gscott</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语音驱动开发入门]]></title>
+        <id>https://news.ycombinator.com/item?id=30649401</id>
+        <link href="https://news.ycombinator.com/item?id=30649401"/>
+        <updated>2022-03-12T06:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started with Voice Driven Development]]></summary>
+        <author>
+            <name>birriel</name>
+            <uri>https://news.ycombinator.com/user?id=birriel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为业余软件开发的科学]]></title>
+        <id>https://news.ycombinator.com/item?id=30649374</id>
+        <link href="https://news.ycombinator.com/item?id=30649374"/>
+        <updated>2022-03-12T06:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Science as Amateur Software Development]]></summary>
+        <author>
+            <name>agnosticmantis</name>
+            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArXiv允许在线复制ML模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30649371</id>
+        <link href="https://news.ycombinator.com/item?id=30649371"/>
+        <updated>2022-03-12T06:16:08.000Z</updated>
+        <summary type="html"><![CDATA[ArXiv allows replicating ML Models online]]></summary>
+        <author>
+            <name>NmAmDa</name>
+            <uri>https://news.ycombinator.com/user?id=NmAmDa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[穿透云层的盔甲--谷歌云平台WAF中的8KB绕道]]></title>
         <id>https://news.ycombinator.com/item?id=30649328</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Malp</name>
             <uri>https://news.ycombinator.com/user?id=Malp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的老板关心你的想法吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30640148</id>
-        <link href="https://news.ycombinator.com/item?id=30640148"/>
-        <updated>2022-03-11T14:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Does your boss care what you think?]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram在俄罗斯被禁]]></title>
-        <id>https://news.ycombinator.com/item?id=30640131</id>
-        <link href="https://news.ycombinator.com/item?id=30640131"/>
-        <updated>2022-03-11T14:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Instagram Banned in Russia]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标题]]></title>
-        <id>https://news.ycombinator.com/item?id=30640123</id>
-        <link href="https://news.ycombinator.com/item?id=30640123"/>
-        <updated>2022-03-11T14:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Titles]]></summary>
-        <author>
-            <name>dsr12</name>
-            <uri>https://news.ycombinator.com/user?id=dsr12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeWork的亚当-纽曼谈投资、创业公司、冲浪和孙正义]]></title>
-        <id>https://news.ycombinator.com/item?id=30640094</id>
-        <link href="https://news.ycombinator.com/item?id=30640094"/>
-        <updated>2022-03-11T14:11:30.000Z</updated>
-        <summary type="html"><![CDATA[WeWork’s Adam Neumann on investing, startups, surfing and Masayoshi Son]]></summary>
-        <author>
-            <name>andrewfromx</name>
-            <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碳纤维电动车车轮将更轻、更安静、更高效]]></title>
-        <id>https://news.ycombinator.com/item?id=30640078</id>
-        <link href="https://news.ycombinator.com/item?id=30640078"/>
-        <updated>2022-03-11T14:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Carbon-fiber EV wheels will be lighter, quieter, and more efficient]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图像格式比较 ( 2022年1月更新)]]></title>
-        <id>https://news.ycombinator.com/item?id=30640068</id>
-        <link href="https://news.ycombinator.com/item?id=30640068"/>
-        <updated>2022-03-11T14:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Image Formats Comparison ( Updated January 2022)]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫斯科将向俄罗斯网站发放HTTPS证书]]></title>
-        <id>https://news.ycombinator.com/item?id=30640057</id>
-        <link href="https://news.ycombinator.com/item?id=30640057"/>
-        <updated>2022-03-11T14:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Moscow to issue HTTPS certs to Russian websites]]></summary>
-        <author>
-            <name>pat-jay</name>
-            <uri>https://news.ycombinator.com/user?id=pat-jay</uri>
         </author>
     </entry>
 </feed>
