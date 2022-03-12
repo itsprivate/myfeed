@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T10:33:44.403Z</updated>
+    <updated>2022-03-12T10:43:40.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[镍的首次发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30650480</id>
+        <link href="https://news.ycombinator.com/item?id=30650480"/>
+        <updated>2022-03-12T10:40:25.000Z</updated>
+        <summary type="html"><![CDATA[First Release of Nickel]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机漏洞 "一词的起源]]></title>
+        <id>https://news.ycombinator.com/item?id=30650459</id>
+        <link href="https://news.ycombinator.com/item?id=30650459"/>
+        <updated>2022-03-12T10:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The Origin of the Term 'Computer Bug']]></summary>
+        <author>
+            <name>alanfranz</name>
+            <uri>https://news.ycombinator.com/user?id=alanfranz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争夺我们的注意力]]></title>
+        <id>https://news.ycombinator.com/item?id=30650449</id>
+        <link href="https://news.ycombinator.com/item?id=30650449"/>
+        <updated>2022-03-12T10:33:22.000Z</updated>
+        <summary type="html"><![CDATA[The Fight for Our Attention]]></summary>
+        <author>
+            <name>t0bia_s</name>
+            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[针对NDA的 "不再沉默 "法案在华盛顿州获得通过]]></title>
+        <id>https://news.ycombinator.com/item?id=30650448</id>
+        <link href="https://news.ycombinator.com/item?id=30650448"/>
+        <updated>2022-03-12T10:32:57.000Z</updated>
+        <summary type="html"><![CDATA[‘Silenced No More’ bill targeting NDAs passes in Washington state]]></summary>
+        <author>
+            <name>8bitsrule</name>
+            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全投放]]></title>
+        <id>https://news.ycombinator.com/item?id=30650441</id>
+        <link href="https://news.ycombinator.com/item?id=30650441"/>
+        <updated>2022-03-12T10:31:19.000Z</updated>
+        <summary type="html"><![CDATA[SecureDrop]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Clojure方法解决问题 - Rafal Dittwald]]></title>
         <id>https://news.ycombinator.com/item?id=30650426</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>asdadsdad</name>
             <uri>https://news.ycombinator.com/user?id=asdadsdad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3云计算服务Permaweb(Aeweave)完成230万美元融资]]></title>
-        <id>https://news.ycombinator.com/item?id=30641193</id>
-        <link href="https://news.ycombinator.com/item?id=30641193"/>
-        <updated>2022-03-11T15:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Web3 cloud strage service on permaweb(Aeweave) closed $2.3m round]]></summary>
-        <author>
-            <name>tmicltw</name>
-            <uri>https://news.ycombinator.com/user?id=tmicltw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度意外向巴基斯坦发射导弹]]></title>
-        <id>https://news.ycombinator.com/item?id=30641180</id>
-        <link href="https://news.ycombinator.com/item?id=30641180"/>
-        <updated>2022-03-11T15:39:47.000Z</updated>
-        <summary type="html"><![CDATA[India Accidentally Fired Missile into Pakistan]]></summary>
-        <author>
-            <name>chaitanya</name>
-            <uri>https://news.ycombinator.com/user?id=chaitanya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英雄崛起//怪兽陨落]]></title>
-        <id>https://news.ycombinator.com/item?id=30641168</id>
-        <link href="https://news.ycombinator.com/item?id=30641168"/>
-        <updated>2022-03-11T15:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Heroes Rise // Monsters Fall]]></summary>
-        <author>
-            <name>kkoncevicius</name>
-            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock Origin成为火狐浏览器中击败Adblock Plus的第一大附加组件]]></title>
-        <id>https://news.ycombinator.com/item?id=30641159</id>
-        <link href="https://news.ycombinator.com/item?id=30641159"/>
-        <updated>2022-03-11T15:38:06.000Z</updated>
-        <summary type="html"><![CDATA[uBlock Origin becomes #1 addon on Firefox beating Adblock Plus]]></summary>
-        <author>
-            <name>nixcraft</name>
-            <uri>https://news.ycombinator.com/user?id=nixcraft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰战争。普京寻求外国志愿者在乌克兰作战]]></title>
-        <id>https://news.ycombinator.com/item?id=30641140</id>
-        <link href="https://news.ycombinator.com/item?id=30641140"/>
-        <updated>2022-03-11T15:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine war: Putin seeks foreign volunteers to fight in Ukraine]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
         </author>
     </entry>
 </feed>
