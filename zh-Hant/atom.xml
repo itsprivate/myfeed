@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T22:31:13.735Z</updated>
+    <updated>2022-03-12T22:40:11.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沃爾格林公司將一些冰箱門換成了屏幕。而一些購物者討厭它]]></title>
+        <id>https://news.ycombinator.com/item?id=30655455</id>
+        <link href="https://news.ycombinator.com/item?id=30655455"/>
+        <updated>2022-03-12T22:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Walgreens replaced some fridge doors with screens. And some shoppers hate it]]></summary>
+        <author>
+            <name>tiahura</name>
+            <uri>https://news.ycombinator.com/user?id=tiahura</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛爾蘭議員理查德-博伊德-巴雷特呼籲在烏克蘭巴勒斯坦問題上採取雙重標準]]></title>
+        <id>https://news.ycombinator.com/item?id=30655071</id>
+        <link href="https://news.ycombinator.com/item?id=30655071"/>
+        <updated>2022-03-12T21:31:11.000Z</updated>
+        <summary type="html"><![CDATA[IrishMP Richard Boyd Barrett calls out the double standards on Ukraine Palestine]]></summary>
+        <author>
+            <name>thro1</name>
+            <uri>https://news.ycombinator.com/user?id=thro1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯網絡大隊]]></title>
         <id>https://news.ycombinator.com/item?id=30655436</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gamechangr</name>
             <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 TypeScript 用於基礎設施？]]></title>
-        <id>https://news.ycombinator.com/item?id=30643071</id>
-        <link href="https://news.ycombinator.com/item?id=30643071"/>
-        <updated>2022-03-11T17:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Why TypeScript for Infrastructure?]]></summary>
-        <author>
-            <name>rckrd</name>
-            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Diagnosis API的MVC網絡應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30643059</id>
-        <link href="https://news.ycombinator.com/item?id=30643059"/>
-        <updated>2022-03-11T17:31:21.000Z</updated>
-        <summary type="html"><![CDATA[MVC web application to use Diagnosis API]]></summary>
-        <author>
-            <name>almaxton</name>
-            <uri>https://news.ycombinator.com/user?id=almaxton</uri>
         </author>
     </entry>
 </feed>
