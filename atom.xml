@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T14:11:04.706Z</updated>
+    <updated>2022-03-12T14:29:15.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司的芯片被摆在桌面上]]></title>
+        <id>https://news.ycombinator.com/item?id=30651290</id>
+        <link href="https://news.ycombinator.com/item?id=30651290"/>
+        <updated>2022-03-12T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Chips Are on the Table]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber资助新的游说团体，拒绝为临时工提供权利]]></title>
         <id>https://news.ycombinator.com/item?id=30651365</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dglass</name>
             <uri>https://news.ycombinator.com/user?id=dglass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球二氧化碳在2021年回升到峰值水平]]></title>
-        <id>https://news.ycombinator.com/item?id=30641899</id>
-        <link href="https://news.ycombinator.com/item?id=30641899"/>
-        <updated>2022-03-11T16:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Global CO2 rebounded to peak level in 2021]]></summary>
-        <author>
-            <name>algo_trader</name>
-            <uri>https://news.ycombinator.com/user?id=algo_trader</uri>
         </author>
     </entry>
 </feed>
