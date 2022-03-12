@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 04:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[mgitstatus - 检查你所有的 Git 仓库的状态]]></title>
+            <link>https://news.ycombinator.com/item?id=30649015</link>
+            <guid>https://news.ycombinator.com/item?id=30649015</guid>
+            <pubDate>Sat, 12 Mar 2022 04:32:02 GMT</pubDate>
+            <description><![CDATA[mgitstatus – Check the status of all your Git repos]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对他人的奉献 - 圣克里斯托弗的博客]]></title>
+            <link>https://news.ycombinator.com/item?id=30649006</link>
+            <guid>https://news.ycombinator.com/item?id=30649006</guid>
+            <pubDate>Sat, 12 Mar 2022 04:30:09 GMT</pubDate>
+            <description><![CDATA[Giving to Others – Saint Christopher's Blog]]></description>
+        </item>
+        <item>
+            <title><![CDATA[x86/AMD: 用户空间地址标记]]></title>
+            <link>https://news.ycombinator.com/item?id=30648998</link>
+            <guid>https://news.ycombinator.com/item?id=30648998</guid>
+            <pubDate>Sat, 12 Mar 2022 04:27:40 GMT</pubDate>
+            <description><![CDATA[x86/AMD: Userspace address tagging]]></description>
+        </item>
+        <item>
+            <title><![CDATA[马萨诸塞州的Covid死亡人数。州政府更新定义后减少了3700人]]></title>
+            <link>https://news.ycombinator.com/item?id=30648980</link>
+            <guid>https://news.ycombinator.com/item?id=30648980</guid>
+            <pubDate>Sat, 12 Mar 2022 04:24:01 GMT</pubDate>
+            <description><![CDATA[Covid Death Count in Mass. Decreases by 3700 After State Updates Definition]]></description>
+        </item>
+        <item>
+            <title><![CDATA[功能性C [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30648969</link>
+            <guid>https://news.ycombinator.com/item?id=30648969</guid>
+            <pubDate>Sat, 12 Mar 2022 04:21:30 GMT</pubDate>
+            <description><![CDATA[Functional C [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[维基百科一名顶级编辑在白俄罗斯被捕]]></title>
+            <link>https://news.ycombinator.com/item?id=30648963</link>
+            <guid>https://news.ycombinator.com/item?id=30648963</guid>
+            <pubDate>Sat, 12 Mar 2022 04:19:36 GMT</pubDate>
+            <description><![CDATA[A top Wikipedia editor has been arrested in Belarus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[表征流行的开源Python项目中的单语句Bug]]></title>
+            <link>https://news.ycombinator.com/item?id=30648940</link>
+            <guid>https://news.ycombinator.com/item?id=30648940</guid>
+            <pubDate>Sat, 12 Mar 2022 04:13:09 GMT</pubDate>
+            <description><![CDATA[Characterizing Single-Statement Bugs in Popular Open-Source Python Projects]]></description>
+        </item>
         <item>
             <title><![CDATA[用Iifes重写文本]]></title>
             <link>https://news.ycombinator.com/item?id=30648931</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30639662</guid>
             <pubDate>Fri, 11 Mar 2022 13:35:16 GMT</pubDate>
             <description><![CDATA[Antivirals, some Antibodies, work-well against BA.2 Omicron Variant of Covid-19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[应用程序和橙子。苹果在商标上 "欺负 "的背后]]></title>
-            <link>https://news.ycombinator.com/item?id=30639659</link>
-            <guid>https://news.ycombinator.com/item?id=30639659</guid>
-            <pubDate>Fri, 11 Mar 2022 13:35:08 GMT</pubDate>
-            <description><![CDATA[Apps and Oranges: Behind Apple’s ‘Bullying’ on Trademarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hashmaps基准测试 - 插入和擦除100M的整数]]></title>
-            <link>https://news.ycombinator.com/item?id=30639633</link>
-            <guid>https://news.ycombinator.com/item?id=30639633</guid>
-            <pubDate>Fri, 11 Mar 2022 13:32:38 GMT</pubDate>
-            <description><![CDATA[Hashmaps Benchmarks – Insert and Erase 100M integers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我们不确保特斯拉和基础设施的安全，我们就注定要失败。]]></title>
-            <link>https://news.ycombinator.com/item?id=30639608</link>
-            <guid>https://news.ycombinator.com/item?id=30639608</guid>
-            <pubDate>Fri, 11 Mar 2022 13:30:33 GMT</pubDate>
-            <description><![CDATA[We’re Doomed If We Don’t Secure Teslas and Infrastructure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利布库。一个高性能的并发哈希表]]></title>
-            <link>https://news.ycombinator.com/item?id=30639576</link>
-            <guid>https://news.ycombinator.com/item?id=30639576</guid>
-            <pubDate>Fri, 11 Mar 2022 13:27:49 GMT</pubDate>
-            <description><![CDATA[Libcuckoo: A high-performance concurrent hash table]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JetBrains暂停在俄罗斯的研发活动以及在俄罗斯和白俄罗斯的销售活动]]></title>
-            <link>https://news.ycombinator.com/item?id=30639572</link>
-            <guid>https://news.ycombinator.com/item?id=30639572</guid>
-            <pubDate>Fri, 11 Mar 2022 13:27:42 GMT</pubDate>
-            <description><![CDATA[JetBrains suspends R&D activities in Russia and sales in Russia and Belarus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[二重奏者用吃塑料的黄粉虫制作聚苯乙烯替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30639531</link>
-            <guid>https://news.ycombinator.com/item?id=30639531</guid>
-            <pubDate>Fri, 11 Mar 2022 13:25:11 GMT</pubDate>
-            <description><![CDATA[Doppelgänger creates polystyrene substitute from plastic-eating mealworms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国要求运营商关闭加密货币ATM机，否则将面临诉讼]]></title>
-            <link>https://news.ycombinator.com/item?id=30639523</link>
-            <guid>https://news.ycombinator.com/item?id=30639523</guid>
-            <pubDate>Fri, 11 Mar 2022 13:24:49 GMT</pubDate>
-            <description><![CDATA[UK tells operators to shut down crypto ATMs or face action]]></description>
         </item>
     </channel>
 </rss>
