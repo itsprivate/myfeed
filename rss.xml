@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 22:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 22:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯网络大队]]></title>
+            <link>https://news.ycombinator.com/item?id=30655436</link>
+            <guid>https://news.ycombinator.com/item?id=30655436</guid>
+            <pubDate>Sat, 12 Mar 2022 22:12:10 GMT</pubDate>
+            <description><![CDATA[Russian Web Brigades]]></description>
+        </item>
+        <item>
+            <title><![CDATA[着色器公园。一个用于创建交互式程序化着色器的JavaScript库]]></title>
+            <link>https://news.ycombinator.com/item?id=30655287</link>
+            <guid>https://news.ycombinator.com/item?id=30655287</guid>
+            <pubDate>Sat, 12 Mar 2022 21:55:21 GMT</pubDate>
+            <description><![CDATA[Shader Park: A JavaScript library for creating interactive procedural shaders]]></description>
+        </item>
         <item>
             <title><![CDATA[堆栈溢出被关闭了]]></title>
             <link>https://news.ycombinator.com/item?id=30655231</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30643059</guid>
             <pubDate>Fri, 11 Mar 2022 17:31:21 GMT</pubDate>
             <description><![CDATA[MVC web application to use Diagnosis API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使量子计算的实际应用更加接近]]></title>
-            <link>https://news.ycombinator.com/item?id=30643005</link>
-            <guid>https://news.ycombinator.com/item?id=30643005</guid>
-            <pubDate>Fri, 11 Mar 2022 17:28:34 GMT</pubDate>
-            <description><![CDATA[Bringing practical applications of quantum computing closer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以领域驱动设计为基础的Nocode Mullings项目]]></title>
-            <link>https://news.ycombinator.com/item?id=30642996</link>
-            <guid>https://news.ycombinator.com/item?id=30642996</guid>
-            <pubDate>Fri, 11 Mar 2022 17:28:11 GMT</pubDate>
-            <description><![CDATA[Mullings on Nocode Backed by Domain-Driven Design Foundations]]></description>
         </item>
     </channel>
 </rss>

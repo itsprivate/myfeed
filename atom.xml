@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T22:11:57.415Z</updated>
+    <updated>2022-03-12T22:31:13.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯网络大队]]></title>
+        <id>https://news.ycombinator.com/item?id=30655436</id>
+        <link href="https://news.ycombinator.com/item?id=30655436"/>
+        <updated>2022-03-12T22:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Russian Web Brigades]]></summary>
+        <author>
+            <name>gzer0</name>
+            <uri>https://news.ycombinator.com/user?id=gzer0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[着色器公园。一个用于创建交互式程序化着色器的JavaScript库]]></title>
+        <id>https://news.ycombinator.com/item?id=30655287</id>
+        <link href="https://news.ycombinator.com/item?id=30655287"/>
+        <updated>2022-03-12T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Shader Park: A JavaScript library for creating interactive procedural shaders]]></summary>
+        <author>
+            <name>Pulcinella</name>
+            <uri>https://news.ycombinator.com/user?id=Pulcinella</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堆栈溢出被关闭了]]></title>
         <id>https://news.ycombinator.com/item?id=30655231</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>almaxton</name>
             <uri>https://news.ycombinator.com/user?id=almaxton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使量子计算的实际应用更加接近]]></title>
-        <id>https://news.ycombinator.com/item?id=30643005</id>
-        <link href="https://news.ycombinator.com/item?id=30643005"/>
-        <updated>2022-03-11T17:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Bringing practical applications of quantum computing closer]]></summary>
-        <author>
-            <name>reckel</name>
-            <uri>https://news.ycombinator.com/user?id=reckel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以领域驱动设计为基础的Nocode Mullings项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30642996</id>
-        <link href="https://news.ycombinator.com/item?id=30642996"/>
-        <updated>2022-03-11T17:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Mullings on Nocode Backed by Domain-Driven Design Foundations]]></summary>
-        <author>
-            <name>thoughtpoet</name>
-            <uri>https://news.ycombinator.com/user?id=thoughtpoet</uri>
         </author>
     </entry>
 </feed>
