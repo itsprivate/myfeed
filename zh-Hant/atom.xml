@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T16:13:41.061Z</updated>
+    <updated>2022-03-12T16:44:49.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[激光可以將核廢料的壽命從一百萬年縮短到30分鐘]]></title>
+        <id>https://news.ycombinator.com/item?id=30652334</id>
+        <link href="https://news.ycombinator.com/item?id=30652334"/>
+        <updated>2022-03-12T16:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Lasers could cut lifespan of nuclear waste from a million years to 30 minutes]]></summary>
+        <author>
+            <name>metaph6</name>
+            <uri>https://news.ycombinator.com/user?id=metaph6</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudant/IBM從基於FoundationDB的CouchDB重寫中退縮]]></title>
+        <id>https://news.ycombinator.com/item?id=30652281</id>
+        <link href="https://news.ycombinator.com/item?id=30652281"/>
+        <updated>2022-03-12T16:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloudant/IBM back off from FoundationDB based CouchDB rewrite]]></summary>
+        <author>
+            <name>jFriedensreich</name>
+            <uri>https://news.ycombinator.com/user?id=jFriedensreich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羞辱蘋果和發短信給馬斯克，一個烏克蘭部長使用了新奇的戰爭策略]]></title>
+        <id>https://news.ycombinator.com/item?id=30652224</id>
+        <link href="https://news.ycombinator.com/item?id=30652224"/>
+        <updated>2022-03-12T15:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Shaming Apple and Texting Musk, a Ukraine Minister Uses Novel War Tactics]]></summary>
+        <author>
+            <name>mikhael</name>
+            <uri>https://news.ycombinator.com/user?id=mikhael</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼普京在玩撲克而不是國際象棋 (3月4日)]]></title>
+        <id>https://news.ycombinator.com/item?id=30652184</id>
+        <link href="https://news.ycombinator.com/item?id=30652184"/>
+        <updated>2022-03-12T15:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Why Putin is playing poker not chess (march 4)]]></summary>
+        <author>
+            <name>jarbou</name>
+            <uri>https://news.ycombinator.com/user?id=jarbou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯對烏克蘭的入侵正在重新劃分空間地緣政治 - 國際空間站]]></title>
         <id>https://news.ycombinator.com/item?id=30652223</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>djhaskin987</name>
             <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯創建自己的TLS證書機構以繞過制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30642270</id>
-        <link href="https://news.ycombinator.com/item?id=30642270"/>
-        <updated>2022-03-11T16:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Russia creates its own TLS certificate authority to bypass sanctions]]></summary>
-        <author>
-            <name>gmemstr</name>
-            <uri>https://news.ycombinator.com/user?id=gmemstr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改變BBC組織以建立正確的技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30642263</id>
-        <link href="https://news.ycombinator.com/item?id=30642263"/>
-        <updated>2022-03-11T16:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Changing the BBC organisation to build the technology right]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok明星接受白宮關於烏克蘭的簡報]]></title>
-        <id>https://news.ycombinator.com/item?id=30642255</id>
-        <link href="https://news.ycombinator.com/item?id=30642255"/>
-        <updated>2022-03-11T16:48:52.000Z</updated>
-        <summary type="html"><![CDATA[TikTok stars receive White House briefing on Ukraine]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用用戶界面生成curl命令]]></title>
-        <id>https://news.ycombinator.com/item?id=30642254</id>
-        <link href="https://news.ycombinator.com/item?id=30642254"/>
-        <updated>2022-03-11T16:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate curl commands using UI]]></summary>
-        <author>
-            <name>akmittal</name>
-            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
         </author>
     </entry>
 </feed>
