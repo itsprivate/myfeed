@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T23:32:18.543Z</updated>
+    <updated>2022-03-12T23:41:28.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[月球上挥发性物质的演变]]></title>
+        <id>https://news.ycombinator.com/item?id=30655787</id>
+        <link href="https://news.ycombinator.com/item?id=30655787"/>
+        <updated>2022-03-12T22:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Evolution of Volatiles on the Moon]]></summary>
+        <author>
+            <name>areoform</name>
+            <uri>https://news.ycombinator.com/user?id=areoform</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于动物饲料的深支流、二氧化碳转化为蛋白质的平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30654152</id>
+        <link href="https://news.ycombinator.com/item?id=30654152"/>
+        <updated>2022-03-12T19:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Deep Branch, CO₂-to-protein platform for animal feed]]></summary>
+        <author>
+            <name>aghilmort</name>
+            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯央行决定下周不重新开放股市交易]]></title>
         <id>https://news.ycombinator.com/item?id=30655705</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cpp_frog</name>
             <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育碧确认安全事件，称无证据显示玩家数据被暴露]]></title>
-        <id>https://news.ycombinator.com/item?id=30643270</id>
-        <link href="https://news.ycombinator.com/item?id=30643270"/>
-        <updated>2022-03-11T17:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft confirms security incident, says no evidence player data was exposed]]></summary>
-        <author>
-            <name>lrae</name>
-            <uri>https://news.ycombinator.com/user?id=lrae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日产宣布推出更平稳的启动/停止技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30643267</id>
-        <link href="https://news.ycombinator.com/item?id=30643267"/>
-        <updated>2022-03-11T17:44:27.000Z</updated>
-        <summary type="html"><![CDATA[Nissan announces tech for smoother starts/stops]]></summary>
-        <author>
-            <name>mring33621</name>
-            <uri>https://news.ycombinator.com/user?id=mring33621</uri>
         </author>
     </entry>
 </feed>
