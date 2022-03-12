@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T18:36:04.124Z</updated>
+    <updated>2022-03-12T18:53:34.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當一個地震網絡失敗時，公民科學介入了]]></title>
+        <id>https://news.ycombinator.com/item?id=30652428</id>
+        <link href="https://news.ycombinator.com/item?id=30652428"/>
+        <updated>2022-03-12T16:24:38.000Z</updated>
+        <summary type="html"><![CDATA[When a seismic network failed, citizen science stepped in]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣ATM機目前在英國是非法的]]></title>
+        <id>https://news.ycombinator.com/item?id=30652071</id>
+        <link href="https://news.ycombinator.com/item?id=30652071"/>
+        <updated>2022-03-12T15:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency ATMs illegal right now in UK]]></summary>
+        <author>
+            <name>retrac</name>
+            <uri>https://news.ycombinator.com/user?id=retrac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙特阿拉伯在其最大規模的集體處決中處死了81人]]></title>
         <id>https://news.ycombinator.com/item?id=30653350</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mindcrime</name>
             <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這些晶體管門只有一個碳原子厚]]></title>
-        <id>https://news.ycombinator.com/item?id=30642569</id>
-        <link href="https://news.ycombinator.com/item?id=30642569"/>
-        <updated>2022-03-11T17:04:08.000Z</updated>
-        <summary type="html"><![CDATA[These Transistor Gates Are Just One Carbon Atom Thick]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘇丹第一家由YC支持的創業公司幫助消費者保護和增長他們的財富]]></title>
-        <id>https://news.ycombinator.com/item?id=30642533</id>
-        <link href="https://news.ycombinator.com/item?id=30642533"/>
-        <updated>2022-03-11T17:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Sudan’s first YC-backed startup helps consumers protect and grow their wealth]]></summary>
-        <author>
-            <name>sillybilly</name>
-            <uri>https://news.ycombinator.com/user?id=sillybilly</uri>
         </author>
     </entry>
 </feed>
