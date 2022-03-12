@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T15:33:36.750Z</updated>
+    <updated>2022-03-12T15:44:17.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯在車臣的戰爭為烏克蘭可能發生的情況提供了一個嚴峻的警告。]]></title>
+        <id>https://news.ycombinator.com/item?id=30651902</id>
+        <link href="https://news.ycombinator.com/item?id=30651902"/>
+        <updated>2022-03-12T15:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Wars in Chechnya offer a-grim-warning of what could-be in Ukraine]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬薩諸塞州報告 "嚴重超標 "的科維德死亡人數]]></title>
+        <id>https://news.ycombinator.com/item?id=30651887</id>
+        <link href="https://news.ycombinator.com/item?id=30651887"/>
+        <updated>2022-03-12T15:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Massachusetts Reports 'Significant Overcount' of Covid Deaths]]></summary>
+        <author>
+            <name>LittleMoveBig</name>
+            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國城市中歷史上的紅線和今天的空氣汙染差異。]]></title>
+        <id>https://news.ycombinator.com/item?id=30651501</id>
+        <link href="https://news.ycombinator.com/item?id=30651501"/>
+        <updated>2022-03-12T14:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Historical Redlining and Present-Day Air Pollution Disparities in U.S. Cities]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一把有很多鑰匙的鎖。欺騙8.8.8.8中的DNSSEC簽名的域名]]></title>
         <id>https://news.ycombinator.com/item?id=30651840</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5字節/幀的視頻編碼（Python中）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30642195</id>
-        <link href="https://news.ycombinator.com/item?id=30642195"/>
-        <updated>2022-03-11T16:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Video Encoding at 5 bytes/frame (in Python)]]></summary>
-        <author>
-            <name>IanWard1</name>
-            <uri>https://news.ycombinator.com/user?id=IanWard1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合作自動化。安全地提高高速公路的通行能力（排班）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30642194</id>
-        <link href="https://news.ycombinator.com/item?id=30642194"/>
-        <updated>2022-03-11T16:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Cooperative Automation: Safely Improving Highway Capacity (Platooning)]]></summary>
-        <author>
-            <name>fn1</name>
-            <uri>https://news.ycombinator.com/user?id=fn1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[間諜通過畜牧業應用程序侵入美國6個州的網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30642184</id>
-        <link href="https://news.ycombinator.com/item?id=30642184"/>
-        <updated>2022-03-11T16:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Spies Broke into 6 US State Networks via a Livestock App]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
         </author>
     </entry>
 </feed>
