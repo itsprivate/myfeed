@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T06:38:11.639Z</updated>
+    <updated>2022-03-12T06:55:19.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HelloFresh。飼料加工廠終究是可以工作的]]></title>
+        <id>https://news.ycombinator.com/item?id=30649498</id>
+        <link href="https://news.ycombinator.com/item?id=30649498"/>
+        <updated>2022-03-12T06:51:24.000Z</updated>
+        <summary type="html"><![CDATA[HelloFresh: Mealkits Can Work After All]]></summary>
+        <author>
+            <name>vwoolf</name>
+            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[監察機構。美國國土安全局沒有對國會大廈的威脅發出警告]]></title>
+        <id>https://news.ycombinator.com/item?id=30649494</id>
+        <link href="https://news.ycombinator.com/item?id=30649494"/>
+        <updated>2022-03-12T06:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Watchdog: U.S. Homeland Security office failed to warn about Capitol threats]]></summary>
+        <author>
+            <name>bladegash</name>
+            <uri>https://news.ycombinator.com/user?id=bladegash</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python設計模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30649470</id>
+        <link href="https://news.ycombinator.com/item?id=30649470"/>
+        <updated>2022-03-12T06:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Python Design Patterns]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德意志銀行遭批評後反悔，將退出俄羅斯市場]]></title>
+        <id>https://news.ycombinator.com/item?id=30649468</id>
+        <link href="https://news.ycombinator.com/item?id=30649468"/>
+        <updated>2022-03-12T06:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Deutsche Bank reverses after criticism, will withdraw from Russia]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向MQTT發佈Hargassner木屑鍋爐的狀態]]></title>
+        <id>https://news.ycombinator.com/item?id=30649462</id>
+        <link href="https://news.ycombinator.com/item?id=30649462"/>
+        <updated>2022-03-12T06:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Publish Hargassner wood chip boiler state to MQTT]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[局部執行者。通過探索LLVM中的所有執行來減少WebAssembly的大小]]></title>
         <id>https://news.ycombinator.com/item?id=30649438</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>busfahrer</name>
             <uri>https://news.ycombinator.com/user?id=busfahrer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Leap籌集了數十億資金，但它的頭戴設備卻失敗了。現在它又開始嘗試了]]></title>
-        <id>https://news.ycombinator.com/item?id=30640228</id>
-        <link href="https://news.ycombinator.com/item?id=30640228"/>
-        <updated>2022-03-11T14:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Magic Leap raised billions but its headset flopped. Now it's trying again]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[該死的酷算法。噴泉代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30640225</id>
-        <link href="https://news.ycombinator.com/item?id=30640225"/>
-        <updated>2022-03-11T14:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Damn Cool Algorithms: Fountain Codes]]></summary>
-        <author>
-            <name>isaacfrond</name>
-            <uri>https://news.ycombinator.com/user?id=isaacfrond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用FraudLabs Pro驗證帶有短信代碼的WooCommerce訂單]]></title>
-        <id>https://news.ycombinator.com/item?id=30640213</id>
-        <link href="https://news.ycombinator.com/item?id=30640213"/>
-        <updated>2022-03-11T14:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Verify WooCommerce Orders with SMS Codes with FraudLabs Pro]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代碼驗證。一個開源的瀏覽器擴展，用於驗證代碼的真實性]]></title>
-        <id>https://news.ycombinator.com/item?id=30640188</id>
-        <link href="https://news.ycombinator.com/item?id=30640188"/>
-        <updated>2022-03-11T14:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Code Verify: An open source browser extension for verifying code authenticity]]></summary>
-        <author>
-            <name>reckel</name>
-            <uri>https://news.ycombinator.com/user?id=reckel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取景器，一個從菜單欄管理你的網絡攝像頭設置的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30640149</id>
-        <link href="https://news.ycombinator.com/item?id=30640149"/>
-        <updated>2022-03-11T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Viewfinder, an app to manage your webcam's settings from the menu bar]]></summary>
-        <author>
-            <name>Malp</name>
-            <uri>https://news.ycombinator.com/user?id=Malp</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 06:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HelloFresh。饲料加工厂终究是可以工作的]]></title>
+            <link>https://news.ycombinator.com/item?id=30649498</link>
+            <guid>https://news.ycombinator.com/item?id=30649498</guid>
+            <pubDate>Sat, 12 Mar 2022 06:51:24 GMT</pubDate>
+            <description><![CDATA[HelloFresh: Mealkits Can Work After All]]></description>
+        </item>
+        <item>
+            <title><![CDATA[监察机构。美国国土安全局没有对国会大厦的威胁发出警告]]></title>
+            <link>https://news.ycombinator.com/item?id=30649494</link>
+            <guid>https://news.ycombinator.com/item?id=30649494</guid>
+            <pubDate>Sat, 12 Mar 2022 06:50:35 GMT</pubDate>
+            <description><![CDATA[Watchdog: U.S. Homeland Security office failed to warn about Capitol threats]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Python设计模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30649470</link>
+            <guid>https://news.ycombinator.com/item?id=30649470</guid>
+            <pubDate>Sat, 12 Mar 2022 06:43:27 GMT</pubDate>
+            <description><![CDATA[Python Design Patterns]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行遭批评后反悔，将退出俄罗斯市场]]></title>
+            <link>https://news.ycombinator.com/item?id=30649468</link>
+            <guid>https://news.ycombinator.com/item?id=30649468</guid>
+            <pubDate>Sat, 12 Mar 2022 06:43:03 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank reverses after criticism, will withdraw from Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[向MQTT发布Hargassner木屑锅炉的状态]]></title>
+            <link>https://news.ycombinator.com/item?id=30649462</link>
+            <guid>https://news.ycombinator.com/item?id=30649462</guid>
+            <pubDate>Sat, 12 Mar 2022 06:41:20 GMT</pubDate>
+            <description><![CDATA[Publish Hargassner wood chip boiler state to MQTT]]></description>
+        </item>
         <item>
             <title><![CDATA[局部执行者。通过探索LLVM中的所有执行来减少WebAssembly的大小]]></title>
             <link>https://news.ycombinator.com/item?id=30649438</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30640233</guid>
             <pubDate>Fri, 11 Mar 2022 14:23:01 GMT</pubDate>
             <description><![CDATA[Canada-United States international border vista]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Magic Leap筹集了数十亿资金，但它的头戴设备却失败了。现在它又开始尝试了]]></title>
-            <link>https://news.ycombinator.com/item?id=30640228</link>
-            <guid>https://news.ycombinator.com/item?id=30640228</guid>
-            <pubDate>Fri, 11 Mar 2022 14:22:43 GMT</pubDate>
-            <description><![CDATA[Magic Leap raised billions but its headset flopped. Now it's trying again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[该死的酷算法。喷泉代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30640225</link>
-            <guid>https://news.ycombinator.com/item?id=30640225</guid>
-            <pubDate>Fri, 11 Mar 2022 14:22:31 GMT</pubDate>
-            <description><![CDATA[Damn Cool Algorithms: Fountain Codes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用FraudLabs Pro验证带有短信代码的WooCommerce订单]]></title>
-            <link>https://news.ycombinator.com/item?id=30640213</link>
-            <guid>https://news.ycombinator.com/item?id=30640213</guid>
-            <pubDate>Fri, 11 Mar 2022 14:21:53 GMT</pubDate>
-            <description><![CDATA[Verify WooCommerce Orders with SMS Codes with FraudLabs Pro]]></description>
-        </item>
-        <item>
-            <title><![CDATA[代码验证。一个开源的浏览器扩展，用于验证代码的真实性]]></title>
-            <link>https://news.ycombinator.com/item?id=30640188</link>
-            <guid>https://news.ycombinator.com/item?id=30640188</guid>
-            <pubDate>Fri, 11 Mar 2022 14:19:43 GMT</pubDate>
-            <description><![CDATA[Code Verify: An open source browser extension for verifying code authenticity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[取景器，一个从菜单栏管理你的网络摄像头设置的应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30640149</link>
-            <guid>https://news.ycombinator.com/item?id=30640149</guid>
-            <pubDate>Fri, 11 Mar 2022 14:16:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Viewfinder, an app to manage your webcam's settings from the menu bar]]></description>
         </item>
     </channel>
 </rss>
