@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T20:32:47.379Z</updated>
+    <updated>2022-03-12T20:51:35.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克里姆林宮逮捕俄羅斯聯邦安全局局長以應對烏克蘭混亂局面的影響]]></title>
+        <id>https://news.ycombinator.com/item?id=30654381</id>
+        <link href="https://news.ycombinator.com/item?id=30654381"/>
+        <updated>2022-03-12T19:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Kremlin arrests FSB chiefs in fallout from Ukraine chaos]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臃腫網絡的舒適性]]></title>
         <id>https://news.ycombinator.com/item?id=30654497</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>northstar702</name>
             <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紀元]]></title>
-        <id>https://news.ycombinator.com/item?id=30642854</id>
-        <link href="https://news.ycombinator.com/item?id=30642854"/>
-        <updated>2022-03-11T17:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Gnomon]]></summary>
-        <author>
-            <name>franek</name>
-            <uri>https://news.ycombinator.com/user?id=franek</uri>
         </author>
     </entry>
 </feed>
