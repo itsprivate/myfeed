@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T23:11:50.644Z</updated>
+    <updated>2022-03-12T23:32:18.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯央行決定下週不重新開放股市交易]]></title>
+        <id>https://news.ycombinator.com/item?id=30655705</id>
+        <link href="https://news.ycombinator.com/item?id=30655705"/>
+        <updated>2022-03-12T22:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Russian central bank decides not to reopen stock market trading next week]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於Pi-Hole的Smart-TV Blocklist]]></title>
+        <id>https://news.ycombinator.com/item?id=30655479</id>
+        <link href="https://news.ycombinator.com/item?id=30655479"/>
+        <updated>2022-03-12T22:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Smart-TV Blocklist for Pi-Hole]]></summary>
+        <author>
+            <name>LeoPanthera</name>
+            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巡邏隊 36]]></title>
+        <id>https://news.ycombinator.com/item?id=30653788</id>
+        <link href="https://news.ycombinator.com/item?id=30653788"/>
+        <updated>2022-03-12T18:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Patrol 36]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-Hub Scholar - 火狐瀏覽器擴展更新 v1.2]]></title>
+        <id>https://news.ycombinator.com/item?id=30653736</id>
+        <link href="https://news.ycombinator.com/item?id=30653736"/>
+        <updated>2022-03-12T18:49:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sci-Hub Scholar – Firefox Extension Update v1.2]]></summary>
+        <author>
+            <name>djfdat</name>
+            <uri>https://news.ycombinator.com/user?id=djfdat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抗議活動繼續被鎮壓，俄羅斯警方逮捕手持空白標誌的婦女]]></title>
         <id>https://news.ycombinator.com/item?id=30655675</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mring33621</name>
             <uri>https://news.ycombinator.com/user?id=mring33621</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[開源] 對股票和加密貨幣的交易算法進行回測和部署]]></title>
-        <id>https://news.ycombinator.com/item?id=30643261</id>
-        <link href="https://news.ycombinator.com/item?id=30643261"/>
-        <updated>2022-03-11T17:44:09.000Z</updated>
-        <summary type="html"><![CDATA[[Open Source] Backtest and deploy trading algorithms on stocks and crypto]]></summary>
-        <author>
-            <name>EmersonDove</name>
-            <uri>https://news.ycombinator.com/user?id=EmersonDove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godaddy的DNS和狀態頁面已關閉]]></title>
-        <id>https://news.ycombinator.com/item?id=30643258</id>
-        <link href="https://news.ycombinator.com/item?id=30643258"/>
-        <updated>2022-03-11T17:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Godaddy DNS and status page is down]]></summary>
-        <author>
-            <name>bostonsre</name>
-            <uri>https://news.ycombinator.com/user?id=bostonsre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[局部執行者。通過探索LLVM中的所有執行來減少WebAssembly的大小]]></title>
-        <id>https://news.ycombinator.com/item?id=30643255</id>
-        <link href="https://news.ycombinator.com/item?id=30643255"/>
-        <updated>2022-03-11T17:43:46.000Z</updated>
-        <summary type="html"><![CDATA[PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM]]></summary>
-        <author>
-            <name>aw1621107</name>
-            <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯威脅要將美國宇航員遺棄在國際空間站的太空中]]></title>
-        <id>https://news.ycombinator.com/item?id=30643229</id>
-        <link href="https://news.ycombinator.com/item?id=30643229"/>
-        <updated>2022-03-11T17:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Russia threatens to abandon American astronaut in space aboard ISS]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>
