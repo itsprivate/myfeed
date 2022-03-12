@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T22:40:11.906Z</updated>
+    <updated>2022-03-12T22:51:05.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京被取消了]]></title>
+        <id>https://news.ycombinator.com/item?id=30655214</id>
+        <link href="https://news.ycombinator.com/item?id=30655214"/>
+        <updated>2022-03-12T21:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Putin Is Being Canceled]]></summary>
+        <author>
+            <name>html5web</name>
+            <uri>https://news.ycombinator.com/user?id=html5web</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.8.1]]></title>
+        <id>https://news.ycombinator.com/item?id=30654707</id>
+        <link href="https://news.ycombinator.com/item?id=30654707"/>
+        <updated>2022-03-12T20:42:45.000Z</updated>
+        <summary type="html"><![CDATA[SQLite 3.8.1]]></summary>
+        <author>
+            <name>marcobambini</name>
+            <uri>https://news.ycombinator.com/user?id=marcobambini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沃尔格林公司将一些冰箱门换成了屏幕。而一些购物者讨厌它]]></title>
         <id>https://news.ycombinator.com/item?id=30655455</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Paul_S</name>
             <uri>https://news.ycombinator.com/user?id=Paul_S</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登警告说，如果俄罗斯在乌克兰使用化学武器，将付出严重代价]]></title>
-        <id>https://news.ycombinator.com/item?id=30643152</id>
-        <link href="https://news.ycombinator.com/item?id=30643152"/>
-        <updated>2022-03-11T17:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Biden warns Russia will pay severe price if it uses chemical weapons in Ukraine]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国会共和党人已经找到了他们的红线--《大西洋》杂志]]></title>
-        <id>https://news.ycombinator.com/item?id=30643104</id>
-        <link href="https://news.ycombinator.com/item?id=30643104"/>
-        <updated>2022-03-11T17:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Congressional Republicans Have Found Their Red Line- The Atlantic]]></summary>
-        <author>
-            <name>gamechangr</name>
-            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
         </author>
     </entry>
 </feed>
