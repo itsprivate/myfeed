@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T02:29:16.630Z</updated>
+    <updated>2022-03-12T02:53:11.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧盟委员会要求谷歌将RT和Sputnik从搜索结果中删除]]></title>
+        <id>https://news.ycombinator.com/item?id=30648519</id>
+        <link href="https://news.ycombinator.com/item?id=30648519"/>
+        <updated>2022-03-12T02:43:51.000Z</updated>
+        <summary type="html"><![CDATA[EU Commission demands Google takedown RT and Sputnik from search results]]></summary>
+        <author>
+            <name>hirundo</name>
+            <uri>https://news.ycombinator.com/user?id=hirundo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯人利用表情符号躲避审查员的检查]]></title>
+        <id>https://news.ycombinator.com/item?id=30648431</id>
+        <link href="https://news.ycombinator.com/item?id=30648431"/>
+        <updated>2022-03-12T02:29:31.000Z</updated>
+        <summary type="html"><![CDATA[The Russians using emojis to evade censors]]></summary>
+        <author>
+            <name>bardc</name>
+            <uri>https://news.ycombinator.com/user?id=bardc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS系统首选项使用React]]></title>
+        <id>https://news.ycombinator.com/item?id=30648424</id>
+        <link href="https://news.ycombinator.com/item?id=30648424"/>
+        <updated>2022-03-12T02:27:09.000Z</updated>
+        <summary type="html"><![CDATA[macOS System Preferences Uses React]]></summary>
+        <author>
+            <name>ansh_nanda</name>
+            <uri>https://news.ycombinator.com/user?id=ansh_nanda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统警告说，如果在乌克兰使用化学武器，俄罗斯将付出 "沉重的代价"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30648421</id>
+        <link href="https://news.ycombinator.com/item?id=30648421"/>
+        <updated>2022-03-12T02:26:52.000Z</updated>
+        <summary type="html"><![CDATA[POTUS warns Russia will pay 'a severe price' if Chemical-Weapons used in Ukraine]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白俄罗斯可能正准备入侵乌克兰]]></title>
         <id>https://news.ycombinator.com/item?id=30648404</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>croes</name>
             <uri>https://news.ycombinator.com/user?id=croes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CustomTkinter。基于Tkinter的现代和可定制的Python UI-library]]></title>
-        <id>https://news.ycombinator.com/item?id=30639153</id>
-        <link href="https://news.ycombinator.com/item?id=30639153"/>
-        <updated>2022-03-11T12:48:59.000Z</updated>
-        <summary type="html"><![CDATA[CustomTkinter: Modern and customizable Python UI-library based on Tkinter]]></summary>
-        <author>
-            <name>asicsp</name>
-            <uri>https://news.ycombinator.com/user?id=asicsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蟒蛇和塞尔达传说]]></title>
-        <id>https://news.ycombinator.com/item?id=30639150</id>
-        <link href="https://news.ycombinator.com/item?id=30639150"/>
-        <updated>2022-03-11T12:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Python and the Legend of Zelda]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么常识并不那么普通]]></title>
-        <id>https://news.ycombinator.com/item?id=30638875</id>
-        <link href="https://news.ycombinator.com/item?id=30638875"/>
-        <updated>2022-03-11T12:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Why Common Sense Is Not That Common]]></summary>
-        <author>
-            <name>300</name>
-            <uri>https://news.ycombinator.com/user?id=300</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用async/await读取一个Node.js流]]></title>
-        <id>https://news.ycombinator.com/item?id=30639137</id>
-        <link href="https://news.ycombinator.com/item?id=30639137"/>
-        <updated>2022-03-11T12:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Read a Node.js stream using async/await]]></summary>
-        <author>
-            <name>loige</name>
-            <uri>https://news.ycombinator.com/user?id=loige</uri>
         </author>
     </entry>
 </feed>
