@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T03:33:22.614Z</updated>
+    <updated>2022-03-12T03:43:09.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普及图书馆]]></title>
+        <id>https://news.ycombinator.com/item?id=30648798</id>
+        <link href="https://news.ycombinator.com/item?id=30648798"/>
+        <updated>2022-03-12T03:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Libraries for All]]></summary>
+        <author>
+            <name>pepys</name>
+            <uri>https://news.ycombinator.com/user?id=pepys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国税局正在努力跟上时代的步伐--这对每个人都不利]]></title>
+        <id>https://news.ycombinator.com/item?id=30648793</id>
+        <link href="https://news.ycombinator.com/item?id=30648793"/>
+        <updated>2022-03-12T03:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The IRS Is Struggling to Keep Up–and That’s Bad for Everyone]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自行车艺术、能源和运动 (1889)]]></title>
+        <id>https://news.ycombinator.com/item?id=30648787</id>
+        <link href="https://news.ycombinator.com/item?id=30648787"/>
+        <updated>2022-03-12T03:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Cycling Art, Energy, and Locomotion (1889)]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JILA的锶原子光学晶格钟（2015年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30648773</id>
+        <link href="https://news.ycombinator.com/item?id=30648773"/>
+        <updated>2022-03-12T03:33:17.000Z</updated>
+        <summary type="html"><![CDATA[JILA strontium atomic optical lattice clock (2015)]]></summary>
+        <author>
+            <name>sriku</name>
+            <uri>https://news.ycombinator.com/user?id=sriku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯/莫斯科现在正在发生的事情]]></title>
         <id>https://news.ycombinator.com/item?id=30648748</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯检察官要求法院将Meta列为 "极端主义组织"]]></title>
-        <id>https://news.ycombinator.com/item?id=30639346</id>
-        <link href="https://news.ycombinator.com/item?id=30639346"/>
-        <updated>2022-03-11T13:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Russian prosecutors ask court to name Meta as “extremist organisation”]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust WebAssembly OCR实验]]></title>
-        <id>https://news.ycombinator.com/item?id=30639344</id>
-        <link href="https://news.ycombinator.com/item?id=30639344"/>
-        <updated>2022-03-11T13:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Rust WebAssembly OCR Experiments]]></summary>
-        <author>
-            <name>punnie</name>
-            <uri>https://news.ycombinator.com/user?id=punnie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Construct - 用于解析/生成二进制格式的Python库]]></title>
-        <id>https://news.ycombinator.com/item?id=30639308</id>
-        <link href="https://news.ycombinator.com/item?id=30639308"/>
-        <updated>2022-03-11T13:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Construct – Python library for parsing/generating binary formats]]></summary>
-        <author>
-            <name>wg0</name>
-            <uri>https://news.ycombinator.com/user?id=wg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯刚刚创建了自己的认证机构]]></title>
-        <id>https://news.ycombinator.com/item?id=30639306</id>
-        <link href="https://news.ycombinator.com/item?id=30639306"/>
-        <updated>2022-03-11T13:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Russia Just Created Its Own Certificate Authority]]></summary>
-        <author>
-            <name>krthr</name>
-            <uri>https://news.ycombinator.com/user?id=krthr</uri>
         </author>
     </entry>
 </feed>
