@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T19:11:02.806Z</updated>
+    <updated>2022-03-12T19:51:38.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hubfs - GitHub的文件系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30653916</id>
+        <link href="https://news.ycombinator.com/item?id=30653916"/>
+        <updated>2022-03-12T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hubfs – File System for GitHub]]></summary>
+        <author>
+            <name>billziss</name>
+            <uri>https://news.ycombinator.com/user?id=billziss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript提案。作为注释的类型]]></title>
+        <id>https://news.ycombinator.com/item?id=30653574</id>
+        <link href="https://news.ycombinator.com/item?id=30653574"/>
+        <updated>2022-03-12T18:31:47.000Z</updated>
+        <summary type="html"><![CDATA[ECMAScript Proposal: Types as Comments]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沉默让人振聋发聩]]></title>
         <id>https://news.ycombinator.com/item?id=30653691</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gcmeplz</name>
             <uri>https://news.ycombinator.com/user?id=gcmeplz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine Linux中的DNS解析问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30642632</id>
-        <link href="https://news.ycombinator.com/item?id=30642632"/>
-        <updated>2022-03-11T17:08:13.000Z</updated>
-        <summary type="html"><![CDATA[DNS resolution issue in Alpine Linux]]></summary>
-        <author>
-            <name>nelsonmarcos</name>
-            <uri>https://news.ycombinator.com/user?id=nelsonmarcos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用虚拟原型建立没有硬件的硬件]]></title>
-        <id>https://news.ycombinator.com/item?id=30642631</id>
-        <link href="https://news.ycombinator.com/item?id=30642631"/>
-        <updated>2022-03-11T17:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Build hardware without hardware with virtual prototypes]]></summary>
-        <author>
-            <name>annielu689</name>
-            <uri>https://news.ycombinator.com/user?id=annielu689</uri>
         </author>
     </entry>
 </feed>

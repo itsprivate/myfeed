@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 19:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 19:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Hubfs - GitHub的文件系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30653916</link>
+            <guid>https://news.ycombinator.com/item?id=30653916</guid>
+            <pubDate>Sat, 12 Mar 2022 19:09:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Hubfs – File System for GitHub]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ECMAScript提案。作為註釋的類型]]></title>
+            <link>https://news.ycombinator.com/item?id=30653574</link>
+            <guid>https://news.ycombinator.com/item?id=30653574</guid>
+            <pubDate>Sat, 12 Mar 2022 18:31:47 GMT</pubDate>
+            <description><![CDATA[ECMAScript Proposal: Types as Comments]]></description>
+        </item>
         <item>
             <title><![CDATA[沉默讓人振聾發聵]]></title>
             <link>https://news.ycombinator.com/item?id=30653691</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642651</guid>
             <pubDate>Fri, 11 Mar 2022 17:09:07 GMT</pubDate>
             <description><![CDATA[The Chaos by Gerard Nolst Trenité]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alpine Linux中的DNS解析問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30642632</link>
-            <guid>https://news.ycombinator.com/item?id=30642632</guid>
-            <pubDate>Fri, 11 Mar 2022 17:08:13 GMT</pubDate>
-            <description><![CDATA[DNS resolution issue in Alpine Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用虛擬原型建立沒有硬件的硬件]]></title>
-            <link>https://news.ycombinator.com/item?id=30642631</link>
-            <guid>https://news.ycombinator.com/item?id=30642631</guid>
-            <pubDate>Fri, 11 Mar 2022 17:08:05 GMT</pubDate>
-            <description><![CDATA[Build hardware without hardware with virtual prototypes]]></description>
         </item>
     </channel>
 </rss>
