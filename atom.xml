@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T17:15:11.688Z</updated>
+    <updated>2022-03-12T17:31:38.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的虚假信息机制在乌克兰战争中崩溃了]]></title>
+        <id>https://news.ycombinator.com/item?id=30652717</id>
+        <link href="https://news.ycombinator.com/item?id=30652717"/>
+        <updated>2022-03-12T16:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Russian disinformation machinery falls apart amid the war in Ukraine]]></summary>
+        <author>
+            <name>mrlonglong</name>
+            <uri>https://news.ycombinator.com/user?id=mrlonglong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面条代码的形式化理论]]></title>
         <id>https://news.ycombinator.com/item?id=30652715</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>firstbase</name>
             <uri>https://news.ycombinator.com/user?id=firstbase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场排名。反SEO排名的算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30642387</id>
-        <link href="https://news.ycombinator.com/item?id=30642387"/>
-        <updated>2022-03-11T16:55:43.000Z</updated>
-        <summary type="html"><![CDATA[MarketRank: The Anti-SEO Ranking Algorithm]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
         </author>
     </entry>
 </feed>
