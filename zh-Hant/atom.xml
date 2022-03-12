@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T10:43:40.490Z</updated>
+    <updated>2022-03-12T10:51:12.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一個Twitter卡片中分享你所有的鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=30650506</id>
+        <link href="https://news.ycombinator.com/item?id=30650506"/>
+        <updated>2022-03-12T10:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Share all your links in one Twitter Card]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[檢索增強型轉化器--註釋的PyTorch實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30650484</id>
+        <link href="https://news.ycombinator.com/item?id=30650484"/>
+        <updated>2022-03-12T10:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Retrieval-Enhanced Transformer – annotated PyTorch implementation]]></summary>
+        <author>
+            <name>vpj</name>
+            <uri>https://news.ycombinator.com/user?id=vpj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鎳的首次發佈]]></title>
         <id>https://news.ycombinator.com/item?id=30650480</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idris，一種將改變你對編程思考方式的語言（2015）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30641205</id>
-        <link href="https://news.ycombinator.com/item?id=30641205"/>
-        <updated>2022-03-11T15:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Idris, a language that will change the way you think about programming (2015)]]></summary>
-        <author>
-            <name>friendly_chap</name>
-            <uri>https://news.ycombinator.com/user?id=friendly_chap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國試圖出口醒目的教育--英國進行了反擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30641198</id>
-        <link href="https://news.ycombinator.com/item?id=30641198"/>
-        <updated>2022-03-11T15:40:53.000Z</updated>
-        <summary type="html"><![CDATA[America tried exporting woke education – the UK fought back]]></summary>
-        <author>
-            <name>asdadsdad</name>
-            <uri>https://news.ycombinator.com/user?id=asdadsdad</uri>
         </author>
     </entry>
 </feed>
