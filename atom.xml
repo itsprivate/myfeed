@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T13:33:24.415Z</updated>
+    <updated>2022-03-12T13:51:21.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哲学的剃刀]]></title>
+        <id>https://news.ycombinator.com/item?id=30651132</id>
+        <link href="https://news.ycombinator.com/item?id=30651132"/>
+        <updated>2022-03-12T13:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Philosophical Razor(s)]]></summary>
+        <author>
+            <name>manjana</name>
+            <uri>https://news.ycombinator.com/user?id=manjana</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯联邦安全局威胁要监禁谷歌和苹果公司高管]]></title>
+        <id>https://news.ycombinator.com/item?id=30651130</id>
+        <link href="https://news.ycombinator.com/item?id=30651130"/>
+        <updated>2022-03-12T13:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Russian FSB threatened Google and Apple execs with imprisonment]]></summary>
+        <author>
+            <name>grupthink</name>
+            <uri>https://news.ycombinator.com/user?id=grupthink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim很简单]]></title>
+        <id>https://news.ycombinator.com/item?id=30650998</id>
+        <link href="https://news.ycombinator.com/item?id=30650998"/>
+        <updated>2022-03-12T12:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Vim Is Easy]]></summary>
+        <author>
+            <name>jng</name>
+            <uri>https://news.ycombinator.com/user?id=jng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运动可治疗长春市诱发的糖尿病和抑郁症]]></title>
         <id>https://news.ycombinator.com/item?id=30650986</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>softwarebeware</name>
             <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络约会的300年历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30641855</id>
-        <link href="https://news.ycombinator.com/item?id=30641855"/>
-        <updated>2022-03-11T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[The 300-year History of Internet Dating]]></summary>
-        <author>
-            <name>ohjeez</name>
-            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国妇女在中央电视台拍摄到卫生工作者殴打她的狗后感到非常震惊]]></title>
-        <id>https://news.ycombinator.com/item?id=30641853</id>
-        <link href="https://news.ycombinator.com/item?id=30641853"/>
-        <updated>2022-03-11T16:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Chinese woman devastated after CCTV captures health worker beat her dog to death]]></summary>
-        <author>
-            <name>jaequery</name>
-            <uri>https://news.ycombinator.com/user?id=jaequery</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯人在阿联酋清算加密货币以寻求安全庇护所]]></title>
-        <id>https://news.ycombinator.com/item?id=30641835</id>
-        <link href="https://news.ycombinator.com/item?id=30641835"/>
-        <updated>2022-03-11T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Russians liquidating crypto in the UAE to seek safe havens]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
