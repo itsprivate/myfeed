@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T17:02:10.418Z</updated>
+    <updated>2022-03-12T17:15:11.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面条代码的形式化理论]]></title>
+        <id>https://news.ycombinator.com/item?id=30652715</id>
+        <link href="https://news.ycombinator.com/item?id=30652715"/>
+        <updated>2022-03-12T16:56:58.000Z</updated>
+        <summary type="html"><![CDATA[A Formal Theory of Spaghetti Code]]></summary>
+        <author>
+            <name>nickdrozd</name>
+            <uri>https://news.ycombinator.com/user?id=nickdrozd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京威胁要就支持民主的应用程序逮捕谷歌执行官]]></title>
+        <id>https://news.ycombinator.com/item?id=30652558</id>
+        <link href="https://news.ycombinator.com/item?id=30652558"/>
+        <updated>2022-03-12T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Putin threatened to arrest Google exec over pro-democracy app]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta公司的NPE团队推出了一个新的任务应用程序Move，用于小组组织和todos。]]></title>
+        <id>https://news.ycombinator.com/item?id=30652152</id>
+        <link href="https://news.ycombinator.com/item?id=30652152"/>
+        <updated>2022-03-12T15:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Meta’s NPE Team launches a new tasks app, Move, for group organization and todos]]></summary>
+        <author>
+            <name>fhrow4484</name>
+            <uri>https://news.ycombinator.com/user?id=fhrow4484</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['现在不是去打听的时候'。前美国黑客如何看待俄罗斯]]></title>
         <id>https://news.ycombinator.com/item?id=30652426</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dbrereton</name>
             <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗曼-阿布拉莫维奇前往直布罗陀的 "日蚀 "号游艇已经8个小时没有响动了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30642377</id>
-        <link href="https://news.ycombinator.com/item?id=30642377"/>
-        <updated>2022-03-11T16:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Roman Abramovich’s yacht Eclipse heading to Gibraltar hasn’t pinged in 8 hrs]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凤凰城公共图书馆]]></title>
-        <id>https://news.ycombinator.com/item?id=30642348</id>
-        <link href="https://news.ycombinator.com/item?id=30642348"/>
-        <updated>2022-03-11T16:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Phoenix Public Library]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度工作的自我]]></title>
-        <id>https://news.ycombinator.com/item?id=30642329</id>
-        <link href="https://news.ycombinator.com/item?id=30642329"/>
-        <updated>2022-03-11T16:52:31.000Z</updated>
-        <summary type="html"><![CDATA[A Deep Work Exoself]]></summary>
-        <author>
-            <name>billwear</name>
-            <uri>https://news.ycombinator.com/user?id=billwear</uri>
         </author>
     </entry>
 </feed>
