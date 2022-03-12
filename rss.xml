@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 05:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有界精度递归神经网络的图灵完备性]]></title>
+            <link>https://news.ycombinator.com/item?id=30649182</link>
+            <guid>https://news.ycombinator.com/item?id=30649182</guid>
+            <pubDate>Sat, 12 Mar 2022 05:23:47 GMT</pubDate>
+            <description><![CDATA[Turing Completeness of Bounded-Precision Recurrent Neural Networks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Y Combinator如何开始 (2012)]]></title>
+            <link>https://news.ycombinator.com/item?id=30649169</link>
+            <guid>https://news.ycombinator.com/item?id=30649169</guid>
+            <pubDate>Sat, 12 Mar 2022 05:16:02 GMT</pubDate>
+            <description><![CDATA[How Y Combinator Started (2012)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lucid Air是一台时间机器 - Jason Cammisa]]></title>
+            <link>https://news.ycombinator.com/item?id=30649168</link>
+            <guid>https://news.ycombinator.com/item?id=30649168</guid>
+            <pubDate>Sat, 12 Mar 2022 05:15:12 GMT</pubDate>
+            <description><![CDATA[The Lucid Air is a time machine – Jason Cammisa]]></description>
+        </item>
         <item>
             <title><![CDATA[水库计算机的神经编程语言]]></title>
             <link>https://news.ycombinator.com/item?id=30649137</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30639858</guid>
             <pubDate>Fri, 11 Mar 2022 13:50:57 GMT</pubDate>
             <description><![CDATA[More Alcohol – Less Brain: Association Begins with an Average of One Drink a Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Xfce被谷歌2022年代码之夏录取]]></title>
-            <link>https://news.ycombinator.com/item?id=30639840</link>
-            <guid>https://news.ycombinator.com/item?id=30639840</guid>
-            <pubDate>Fri, 11 Mar 2022 13:49:31 GMT</pubDate>
-            <description><![CDATA[Xfce accepted to Google Summer of Code 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[包容性设计原则]]></title>
-            <link>https://news.ycombinator.com/item?id=30639838</link>
-            <guid>https://news.ycombinator.com/item?id=30639838</guid>
-            <pubDate>Fri, 11 Mar 2022 13:49:27 GMT</pubDate>
-            <description><![CDATA[Inclusive Design Principles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一把有很多钥匙的锁。欺骗8.8.8.8中的DNSSEC签名的域名]]></title>
-            <link>https://news.ycombinator.com/item?id=30639835</link>
-            <guid>https://news.ycombinator.com/item?id=30639835</guid>
-            <pubDate>Fri, 11 Mar 2022 13:48:53 GMT</pubDate>
-            <description><![CDATA[A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8]]></description>
         </item>
     </channel>
 </rss>
