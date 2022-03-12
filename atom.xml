@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-12T17:51:58.687Z</updated>
+    <updated>2022-03-12T18:13:49.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州律师协会称律师记录因数据库缺陷而泄露，而非黑客攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30652950</id>
+        <link href="https://news.ycombinator.com/item?id=30652950"/>
+        <updated>2022-03-12T17:22:42.000Z</updated>
+        <summary type="html"><![CDATA[CA bar says attorney records leaked through database flaw, not hack]]></summary>
+        <author>
+            <name>leni536</name>
+            <uri>https://news.ycombinator.com/user?id=leni536</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代码审查金字塔]]></title>
+        <id>https://news.ycombinator.com/item?id=30651429</id>
+        <link href="https://news.ycombinator.com/item?id=30651429"/>
+        <updated>2022-03-12T14:01:58.000Z</updated>
+        <summary type="html"><![CDATA[The Code Review Pyramid]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿姆斯特丹俄罗斯东正教会离开莫斯科教会前往君士坦丁堡]]></title>
         <id>https://news.ycombinator.com/item?id=30652702</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特以 "滥用行为 "为借口审查有关乌克兰纳粹的报道]]></title>
-        <id>https://news.ycombinator.com/item?id=30642445</id>
-        <link href="https://news.ycombinator.com/item?id=30642445"/>
-        <updated>2022-03-11T16:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is censoring reporting on Ukrainian Nazis on “abusive behavior” pretext]]></summary>
-        <author>
-            <name>LittleMoveBig</name>
-            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观察外围的数据点]]></title>
-        <id>https://news.ycombinator.com/item?id=30642424</id>
-        <link href="https://news.ycombinator.com/item?id=30642424"/>
-        <updated>2022-03-11T16:57:22.000Z</updated>
-        <summary type="html"><![CDATA[Looking at the Outlying Data Points]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
