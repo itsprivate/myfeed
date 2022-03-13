@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T17:02:58.954Z</updated>
+    <updated>2022-03-13T17:18:05.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭戰爭使英國脫歐無效]]></title>
+        <id>https://news.ycombinator.com/item?id=30663021</id>
+        <link href="https://news.ycombinator.com/item?id=30663021"/>
+        <updated>2022-03-13T16:46:17.000Z</updated>
+        <summary type="html"><![CDATA[The Ukraine war has invalidated Brexit]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獵取可疑的DNS通信]]></title>
+        <id>https://news.ycombinator.com/item?id=30661865</id>
+        <link href="https://news.ycombinator.com/item?id=30661865"/>
+        <updated>2022-03-13T15:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Hunting for Suspicious DNS Communications]]></summary>
+        <author>
+            <name>based2</name>
+            <uri>https://news.ycombinator.com/user?id=based2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[模擬表明，到2021年，有1800萬人因大流行病而死亡。]]></title>
         <id>https://news.ycombinator.com/item?id=30662910</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mayiplease</name>
             <uri>https://news.ycombinator.com/user?id=mayiplease</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿富汗軍隊為何不打仗]]></title>
-        <id>https://news.ycombinator.com/item?id=30645947</id>
-        <link href="https://news.ycombinator.com/item?id=30645947"/>
-        <updated>2022-03-11T21:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Why the Afghan Army Did Not Fight]]></summary>
-        <author>
-            <name>senthil_rajasek</name>
-            <uri>https://news.ycombinator.com/user?id=senthil_rajasek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該使用CLI來管理你的GitHub賬戶]]></title>
-        <id>https://news.ycombinator.com/item?id=30645902</id>
-        <link href="https://news.ycombinator.com/item?id=30645902"/>
-        <updated>2022-03-11T20:56:37.000Z</updated>
-        <summary type="html"><![CDATA[You Should Use CLI to Manage Your GitHub Account]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
