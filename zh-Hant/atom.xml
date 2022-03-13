@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T22:32:14.134Z</updated>
+    <updated>2022-03-13T22:40:36.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VS代碼擴展到文檔代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30665821</id>
+        <link href="https://news.ycombinator.com/item?id=30665821"/>
+        <updated>2022-03-13T21:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VS Code Extension to Document Code]]></summary>
+        <author>
+            <name>calum-bird</name>
+            <uri>https://news.ycombinator.com/user?id=calum-bird</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯流向歐洲的天然氣，每日更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30664797</id>
+        <link href="https://news.ycombinator.com/item?id=30664797"/>
+        <updated>2022-03-13T19:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Russian gas flows to Europe, updated daily]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QSN：一種熟悉的字符串交換格式]]></title>
         <id>https://news.ycombinator.com/item?id=30665929</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>enigmatic02</name>
             <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建可重複使用的Svelte組件的設計模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30647085</id>
-        <link href="https://news.ycombinator.com/item?id=30647085"/>
-        <updated>2022-03-11T22:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Design patterns for building reusable Svelte components]]></summary>
-        <author>
-            <name>dnilasor</name>
-            <uri>https://news.ycombinator.com/user?id=dnilasor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的記憶，壞的記憶]]></title>
-        <id>https://news.ycombinator.com/item?id=30647080</id>
-        <link href="https://news.ycombinator.com/item?id=30647080"/>
-        <updated>2022-03-11T22:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Good Memory, Bad Memory]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>

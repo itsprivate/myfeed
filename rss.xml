@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[VS代码扩展到文档代码]]></title>
+            <link>https://news.ycombinator.com/item?id=30665821</link>
+            <guid>https://news.ycombinator.com/item?id=30665821</guid>
+            <pubDate>Sun, 13 Mar 2022 21:18:50 GMT</pubDate>
+            <description><![CDATA[Show HN: VS Code Extension to Document Code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯流向欧洲的天然气，每日更新]]></title>
+            <link>https://news.ycombinator.com/item?id=30664797</link>
+            <guid>https://news.ycombinator.com/item?id=30664797</guid>
+            <pubDate>Sun, 13 Mar 2022 19:22:19 GMT</pubDate>
+            <description><![CDATA[Russian gas flows to Europe, updated daily]]></description>
+        </item>
         <item>
             <title><![CDATA[QSN：一种熟悉的字符串交换格式]]></title>
             <link>https://news.ycombinator.com/item?id=30665929</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647098</guid>
             <pubDate>Fri, 11 Mar 2022 22:53:32 GMT</pubDate>
             <description><![CDATA[Everything is amazing, nobody is happy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[构建可重复使用的Svelte组件的设计模式]]></title>
-            <link>https://news.ycombinator.com/item?id=30647085</link>
-            <guid>https://news.ycombinator.com/item?id=30647085</guid>
-            <pubDate>Fri, 11 Mar 2022 22:52:43 GMT</pubDate>
-            <description><![CDATA[Design patterns for building reusable Svelte components]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好的记忆，坏的记忆]]></title>
-            <link>https://news.ycombinator.com/item?id=30647080</link>
-            <guid>https://news.ycombinator.com/item?id=30647080</guid>
-            <pubDate>Fri, 11 Mar 2022 22:52:15 GMT</pubDate>
-            <description><![CDATA[Good Memory, Bad Memory]]></description>
         </item>
     </channel>
 </rss>
