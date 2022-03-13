@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果公司为类似于ZX Spectrum、C64和rPi 400的 "创新 "申请专利]]></title>
+            <link>https://news.ycombinator.com/item?id=30666568</link>
+            <guid>https://news.ycombinator.com/item?id=30666568</guid>
+            <pubDate>Sun, 13 Mar 2022 22:52:20 GMT</pubDate>
+            <description><![CDATA[Apple seeks patent for 'innovation' resembling the ZX Spectrum, C64 and rPi 400]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯蒂芬-科特金谈普京、乌克兰和俄罗斯]]></title>
+            <link>https://news.ycombinator.com/item?id=30665022</link>
+            <guid>https://news.ycombinator.com/item?id=30665022</guid>
+            <pubDate>Sun, 13 Mar 2022 19:49:03 GMT</pubDate>
+            <description><![CDATA[Stephen Kotkin on Putin, Ukraine and Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最高法院使用扭曲的逻辑来保护实施酷刑的美国特工]]></title>
+            <link>https://news.ycombinator.com/item?id=30664658</link>
+            <guid>https://news.ycombinator.com/item?id=30664658</guid>
+            <pubDate>Sun, 13 Mar 2022 19:07:58 GMT</pubDate>
+            <description><![CDATA[The Supreme Court Uses Twisted Logic to Protect US Agents Committing Torture]]></description>
+        </item>
         <item>
             <title><![CDATA[根据激光雷达数据绘制的纽约曼哈顿的详细阴影浮雕地图]]></title>
             <link>https://news.ycombinator.com/item?id=30666680</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647176</guid>
             <pubDate>Fri, 11 Mar 2022 23:00:42 GMT</pubDate>
             <description><![CDATA[Raspberry Pi Pico Becomes Commodore 64 Cartridge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Python装饰器编写网络搜刮器的简单框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30647161</link>
-            <guid>https://news.ycombinator.com/item?id=30647161</guid>
-            <pubDate>Fri, 11 Mar 2022 22:59:16 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple framework for writing a web scraper using Python decorators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我不得不将OTF字体大规模转换为TTF字体]]></title>
-            <link>https://news.ycombinator.com/item?id=30647153</link>
-            <guid>https://news.ycombinator.com/item?id=30647153</guid>
-            <pubDate>Fri, 11 Mar 2022 22:58:16 GMT</pubDate>
-            <description><![CDATA[I Had to Mass Convert OTF Fonts to TTF]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RISC-V的J扩展 - JIT的说明]]></title>
-            <link>https://news.ycombinator.com/item?id=30647151</link>
-            <guid>https://news.ycombinator.com/item?id=30647151</guid>
-            <pubDate>Fri, 11 Mar 2022 22:58:03 GMT</pubDate>
-            <description><![CDATA[RISC-V J extension – Instructions for JITs]]></description>
         </item>
     </channel>
 </rss>

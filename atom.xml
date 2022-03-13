@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T23:31:43.340Z</updated>
+    <updated>2022-03-13T23:41:05.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司为类似于ZX Spectrum、C64和rPi 400的 "创新 "申请专利]]></title>
+        <id>https://news.ycombinator.com/item?id=30666568</id>
+        <link href="https://news.ycombinator.com/item?id=30666568"/>
+        <updated>2022-03-13T22:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Apple seeks patent for 'innovation' resembling the ZX Spectrum, C64 and rPi 400]]></summary>
+        <author>
+            <name>daniel_iversen</name>
+            <uri>https://news.ycombinator.com/user?id=daniel_iversen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯蒂芬-科特金谈普京、乌克兰和俄罗斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30665022</id>
+        <link href="https://news.ycombinator.com/item?id=30665022"/>
+        <updated>2022-03-13T19:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Stephen Kotkin on Putin, Ukraine and Russia]]></summary>
+        <author>
+            <name>avrionov</name>
+            <uri>https://news.ycombinator.com/user?id=avrionov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最高法院使用扭曲的逻辑来保护实施酷刑的美国特工]]></title>
+        <id>https://news.ycombinator.com/item?id=30664658</id>
+        <link href="https://news.ycombinator.com/item?id=30664658"/>
+        <updated>2022-03-13T19:07:58.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court Uses Twisted Logic to Protect US Agents Committing Torture]]></summary>
+        <author>
+            <name>aww_dang</name>
+            <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根据激光雷达数据绘制的纽约曼哈顿的详细阴影浮雕地图]]></title>
         <id>https://news.ycombinator.com/item?id=30666680</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rusk</name>
             <uri>https://news.ycombinator.com/user?id=rusk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python装饰器编写网络搜刮器的简单框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30647161</id>
-        <link href="https://news.ycombinator.com/item?id=30647161"/>
-        <updated>2022-03-11T22:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple framework for writing a web scraper using Python decorators]]></summary>
-        <author>
-            <name>roniemartinez</name>
-            <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不得不将OTF字体大规模转换为TTF字体]]></title>
-        <id>https://news.ycombinator.com/item?id=30647153</id>
-        <link href="https://news.ycombinator.com/item?id=30647153"/>
-        <updated>2022-03-11T22:58:16.000Z</updated>
-        <summary type="html"><![CDATA[I Had to Mass Convert OTF Fonts to TTF]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V的J扩展 - JIT的说明]]></title>
-        <id>https://news.ycombinator.com/item?id=30647151</id>
-        <link href="https://news.ycombinator.com/item?id=30647151"/>
-        <updated>2022-03-11T22:58:03.000Z</updated>
-        <summary type="html"><![CDATA[RISC-V J extension – Instructions for JITs]]></summary>
-        <author>
-            <name>frankpf</name>
-            <uri>https://news.ycombinator.com/user?id=frankpf</uri>
         </author>
     </entry>
 </feed>
