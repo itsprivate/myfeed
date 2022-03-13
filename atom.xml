@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T14:52:59.994Z</updated>
+    <updated>2022-03-13T15:12:27.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HackerOne从白俄罗斯黑客那里拿走25000美元以回应制裁]]></title>
+        <id>https://news.ycombinator.com/item?id=30661585</id>
+        <link href="https://news.ycombinator.com/item?id=30661585"/>
+        <updated>2022-03-13T14:38:57.000Z</updated>
+        <summary type="html"><![CDATA[HackerOne takes $25,000 from Belarusian hacker in response to sanctions]]></summary>
+        <author>
+            <name>phwd</name>
+            <uri>https://news.ycombinator.com/user?id=phwd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在一个下午内写出一个树人的语法]]></title>
+        <id>https://news.ycombinator.com/item?id=30661127</id>
+        <link href="https://news.ycombinator.com/item?id=30661127"/>
+        <updated>2022-03-13T13:42:43.000Z</updated>
+        <summary type="html"><![CDATA[How to write a tree-sitter grammar in an afternoon]]></summary>
+        <author>
+            <name>siraben</name>
+            <uri>https://news.ycombinator.com/user?id=siraben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S2：计算几何和球体上的空间索引]]></title>
         <id>https://news.ycombinator.com/item?id=30661478</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactive Resume v3 - 一个免费和开源的简历生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30645213</id>
-        <link href="https://news.ycombinator.com/item?id=30645213"/>
-        <updated>2022-03-11T19:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reactive Resume v3 – A free and open source resume builder]]></summary>
-        <author>
-            <name>AmruthPillai</name>
-            <uri>https://news.ycombinator.com/user?id=AmruthPillai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核威慑101]]></title>
-        <id>https://news.ycombinator.com/item?id=30645170</id>
-        <link href="https://news.ycombinator.com/item?id=30645170"/>
-        <updated>2022-03-11T19:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear Deterrence 101]]></summary>
-        <author>
-            <name>jfoucher</name>
-            <uri>https://news.ycombinator.com/user?id=jfoucher</uri>
         </author>
     </entry>
 </feed>
