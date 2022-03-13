@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T20:40:32.434Z</updated>
+    <updated>2022-03-13T20:51:40.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，我是俄罗斯人。乌克兰和俄罗斯是一个离婚的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30665459</id>
+        <link href="https://news.ycombinator.com/item?id=30665459"/>
+        <updated>2022-03-13T20:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Russian. Ukraine and Russia is a story of a divorce]]></summary>
+        <author>
+            <name>Procedural</name>
+            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰无人机初创公司，要求捐款]]></title>
+        <id>https://news.ycombinator.com/item?id=30665105</id>
+        <link href="https://news.ycombinator.com/item?id=30665105"/>
+        <updated>2022-03-13T19:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian drone startup, asking donation]]></summary>
+        <author>
+            <name>julienfr112</name>
+            <uri>https://news.ycombinator.com/user?id=julienfr112</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兔子编程语言（Drew的NIH Zig克隆）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30664266</id>
+        <link href="https://news.ycombinator.com/item?id=30664266"/>
+        <updated>2022-03-13T18:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The Hare Programming Language (Drew’s NIH Zig clone)]]></summary>
+        <author>
+            <name>jandeboevrie</name>
+            <uri>https://news.ycombinator.com/user?id=jandeboevrie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来的供应链问题。深圳在Covid-19的激增中进入封锁状态]]></title>
         <id>https://news.ycombinator.com/item?id=30665323</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的间谍：群众涌向公开来源的情报以获取有关乌克兰战争的消息]]></title>
-        <id>https://news.ycombinator.com/item?id=30646685</id>
-        <link href="https://news.ycombinator.com/item?id=30646685"/>
-        <updated>2022-03-11T22:14:08.000Z</updated>
-        <summary type="html"><![CDATA[I spy: Masses flock to open-source intelligence for news about war in Ukraine]]></summary>
-        <author>
-            <name>cols</name>
-            <uri>https://news.ycombinator.com/user?id=cols</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave Search和Presearch表示他们不会审查搜索结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30646672</id>
-        <link href="https://news.ycombinator.com/item?id=30646672"/>
-        <updated>2022-03-11T22:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Brave Search and Presearch say they don't censor search results]]></summary>
-        <author>
-            <name>Jerry2</name>
-            <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现如何将猪的叫声解释为猪的情绪]]></title>
-        <id>https://news.ycombinator.com/item?id=30646658</id>
-        <link href="https://news.ycombinator.com/item?id=30646658"/>
-        <updated>2022-03-11T22:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Researchers Figure Out How to Interpret Pig Grunts as Pig Emotions]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
