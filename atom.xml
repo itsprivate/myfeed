@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T10:43:33.440Z</updated>
+    <updated>2022-03-13T10:51:38.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脸书和Instagram让用户为乌克兰问题呼吁杀死俄罗斯士兵]]></title>
+        <id>https://news.ycombinator.com/item?id=30659966</id>
+        <link href="https://news.ycombinator.com/item?id=30659966"/>
+        <updated>2022-03-13T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Facebook and Instagram let users call for death to Russian soldiers over Ukraine]]></summary>
+        <author>
+            <name>quyleanh</name>
+            <uri>https://news.ycombinator.com/user?id=quyleanh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我女儿的家庭作业让我很难过 (2013)]]></title>
         <id>https://news.ycombinator.com/item?id=30659562</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robotarchitect</name>
             <uri>https://news.ycombinator.com/user?id=robotarchitect</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中位数位于其论点之间的几何证明]]></title>
-        <id>https://news.ycombinator.com/item?id=30644590</id>
-        <link href="https://news.ycombinator.com/item?id=30644590"/>
-        <updated>2022-03-11T19:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Geometric proof that the mediant lies between its arguments]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
