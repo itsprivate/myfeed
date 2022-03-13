@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T10:51:38.058Z</updated>
+    <updated>2022-03-13T11:11:29.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在加油机上贴标签抨击拜登]]></title>
+        <id>https://news.ycombinator.com/item?id=30659834</id>
+        <link href="https://news.ycombinator.com/item?id=30659834"/>
+        <updated>2022-03-13T10:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Stickers blast Biden at gas pumps]]></summary>
+        <author>
+            <name>bardc</name>
+            <uri>https://news.ycombinator.com/user?id=bardc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[约翰-米尔斯海默谈为什么西方要对乌克兰问题负主要责任]]></title>
+        <id>https://news.ycombinator.com/item?id=30659627</id>
+        <link href="https://news.ycombinator.com/item?id=30659627"/>
+        <updated>2022-03-13T09:39:33.000Z</updated>
+        <summary type="html"><![CDATA[John Mearsheimer on why the West is principally responsible for the Ukrainian]]></summary>
+        <author>
+            <name>bardc</name>
+            <uri>https://news.ycombinator.com/user?id=bardc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书和Instagram让用户为乌克兰问题呼吁杀死俄罗斯士兵]]></title>
         <id>https://news.ycombinator.com/item?id=30659966</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>derw-lang</name>
             <uri>https://news.ycombinator.com/user?id=derw-lang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网简介]]></title>
-        <id>https://news.ycombinator.com/item?id=30644623</id>
-        <link href="https://news.ycombinator.com/item?id=30644623"/>
-        <updated>2022-03-11T19:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to the Internet]]></summary>
-        <author>
-            <name>tomlin</name>
-            <uri>https://news.ycombinator.com/user?id=tomlin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有状态的逐帧处理平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30644618</id>
-        <link href="https://news.ycombinator.com/item?id=30644618"/>
-        <updated>2022-03-11T19:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Platform for stateful frame-by-frame processing]]></summary>
-        <author>
-            <name>robotarchitect</name>
-            <uri>https://news.ycombinator.com/user?id=robotarchitect</uri>
         </author>
     </entry>
 </feed>
