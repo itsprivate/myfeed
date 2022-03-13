@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 08:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯面临人才流失，成千上万的人逃往国外]]></title>
+            <link>https://news.ycombinator.com/item?id=30659017</link>
+            <guid>https://news.ycombinator.com/item?id=30659017</guid>
+            <pubDate>Sun, 13 Mar 2022 08:00:21 GMT</pubDate>
+            <description><![CDATA[Russia faces brain drain as thousands flee abroad]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么经济制裁不起作用 (1997) [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30658873</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30644260</guid>
             <pubDate>Fri, 11 Mar 2022 18:47:06 GMT</pubDate>
             <description><![CDATA[GeographicLib: Geodesics Solver and Conversion Tools]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Haskell后端工程实习]]></title>
-            <link>https://news.ycombinator.com/item?id=30644257</link>
-            <guid>https://news.ycombinator.com/item?id=30644257</guid>
-            <pubDate>Fri, 11 Mar 2022 18:47:00 GMT</pubDate>
-            <description><![CDATA[Haskell back end engineering internship]]></description>
         </item>
     </channel>
 </rss>
