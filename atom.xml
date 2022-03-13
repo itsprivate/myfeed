@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T23:41:05.734Z</updated>
+    <updated>2022-03-13T23:51:38.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[级联。开源的基于节点的图像编辑器，带有GPU加速功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30666849</id>
+        <link href="https://news.ycombinator.com/item?id=30666849"/>
+        <updated>2022-03-13T23:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Cascade: Open-source Node-based image editor with GPU-acceleration]]></summary>
+        <author>
+            <name>lastdong</name>
+            <uri>https://news.ycombinator.com/user?id=lastdong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京入侵乌克兰的犯罪行为凸显了美国的一些丑陋的事实。]]></title>
+        <id>https://news.ycombinator.com/item?id=30666740</id>
+        <link href="https://news.ycombinator.com/item?id=30666740"/>
+        <updated>2022-03-13T23:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Putin’s Criminal Invasion of Ukraine Highlights Some Ugly Truths About U.S.]]></summary>
+        <author>
+            <name>bardc</name>
+            <uri>https://news.ycombinator.com/user?id=bardc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司为类似于ZX Spectrum、C64和rPi 400的 "创新 "申请专利]]></title>
         <id>https://news.ycombinator.com/item?id=30666568</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pbexe</name>
             <uri>https://news.ycombinator.com/user?id=pbexe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国总统在乌克兰战争中着手撤销俄罗斯的贸易关系地位]]></title>
-        <id>https://news.ycombinator.com/item?id=30647180</id>
-        <link href="https://news.ycombinator.com/item?id=30647180"/>
-        <updated>2022-03-11T23:01:16.000Z</updated>
-        <summary type="html"><![CDATA[US President moves to revoke Russia's trade-relations status amid War in Ukraine]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树莓派Pico成为Commodore 64卡带]]></title>
-        <id>https://news.ycombinator.com/item?id=30647176</id>
-        <link href="https://news.ycombinator.com/item?id=30647176"/>
-        <updated>2022-03-11T23:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi Pico Becomes Commodore 64 Cartridge]]></summary>
-        <author>
-            <name>rusk</name>
-            <uri>https://news.ycombinator.com/user?id=rusk</uri>
         </author>
     </entry>
 </feed>
