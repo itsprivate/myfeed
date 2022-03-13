@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T04:40:56.902Z</updated>
+    <updated>2022-03-13T05:00:16.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[諷刺的是："阿里利的、有影響力的關於不誠實的研究是不誠實的"（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30657296</id>
+        <link href="https://news.ycombinator.com/item?id=30657296"/>
+        <updated>2022-03-13T02:29:51.000Z</updated>
+        <summary type="html"><![CDATA[The Irony: “Ariely's, Influential Study of Dishonesty Was Dishonest” (2021)]]></summary>
+        <author>
+            <name>WheelsAtLarge</name>
+            <uri>https://news.ycombinator.com/user?id=WheelsAtLarge</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數碼相機、Linux和BSD]]></title>
+        <id>https://news.ycombinator.com/item?id=30655922</id>
+        <link href="https://news.ycombinator.com/item?id=30655922"/>
+        <updated>2022-03-12T23:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Digital Cameras, Linux, and BSD]]></summary>
+        <author>
+            <name>rodrigo975</name>
+            <uri>https://news.ycombinator.com/user?id=rodrigo975</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國如何用14納米的舊技術建造超大規模的超級計算機]]></title>
         <id>https://news.ycombinator.com/item?id=30657354</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防止DOM XSS的可信類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30643895</id>
-        <link href="https://news.ycombinator.com/item?id=30643895"/>
-        <updated>2022-03-11T18:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Trusted Types to Prevent DOM XSS]]></summary>
-        <author>
-            <name>bartosz-io</name>
-            <uri>https://news.ycombinator.com/user?id=bartosz-io</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motiv - 停止使用簡歷 Hiring is broken]]></title>
-        <id>https://news.ycombinator.com/item?id=30643871</id>
-        <link href="https://news.ycombinator.com/item?id=30643871"/>
-        <updated>2022-03-11T18:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Motiv – Stop using a resume Hiring is broken]]></summary>
-        <author>
-            <name>Mason_Fuerst</name>
-            <uri>https://news.ycombinator.com/user?id=Mason_Fuerst</uri>
         </author>
     </entry>
 </feed>
