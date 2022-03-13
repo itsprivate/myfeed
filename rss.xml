@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 07:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 07:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：中国正在进入封锁状态]]></title>
+            <link>https://news.ycombinator.com/item?id=30658886</link>
+            <guid>https://news.ycombinator.com/item?id=30658886</guid>
+            <pubDate>Sun, 13 Mar 2022 07:34:49 GMT</pubDate>
+            <description><![CDATA[Tell HN: China Is Entering Lockdown]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯对扎波罗热核电站的攻击比最初想象的更危险]]></title>
             <link>https://news.ycombinator.com/item?id=30658732</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30644135</guid>
             <pubDate>Fri, 11 Mar 2022 18:38:38 GMT</pubDate>
             <description><![CDATA[AI Can Make Weather Forecasting Better and Cheaper]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博客是如何打破网络的]]></title>
-            <link>https://news.ycombinator.com/item?id=30644130</link>
-            <guid>https://news.ycombinator.com/item?id=30644130</guid>
-            <pubDate>Fri, 11 Mar 2022 18:38:18 GMT</pubDate>
-            <description><![CDATA[How the Blog Broke the Web]]></description>
         </item>
     </channel>
 </rss>

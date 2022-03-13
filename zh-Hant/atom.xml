@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T07:29:03.496Z</updated>
+    <updated>2022-03-13T07:51:38.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：中國正在進入封鎖狀態]]></title>
+        <id>https://news.ycombinator.com/item?id=30658886</id>
+        <link href="https://news.ycombinator.com/item?id=30658886"/>
+        <updated>2022-03-13T07:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: China Is Entering Lockdown]]></summary>
+        <author>
+            <name>user_named</name>
+            <uri>https://news.ycombinator.com/user?id=user_named</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯對扎波羅熱核電站的攻擊比最初想象的更危險]]></title>
         <id>https://news.ycombinator.com/item?id=30658732</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johmathe</name>
             <uri>https://news.ycombinator.com/user?id=johmathe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客是如何打破網絡的]]></title>
-        <id>https://news.ycombinator.com/item?id=30644130</id>
-        <link href="https://news.ycombinator.com/item?id=30644130"/>
-        <updated>2022-03-11T18:38:18.000Z</updated>
-        <summary type="html"><![CDATA[How the Blog Broke the Web]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
