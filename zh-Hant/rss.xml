@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 12:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kubernetes的未來]]></title>
+            <link>https://news.ycombinator.com/item?id=30660534</link>
+            <guid>https://news.ycombinator.com/item?id=30660534</guid>
+            <pubDate>Sun, 13 Mar 2022 12:09:05 GMT</pubDate>
+            <description><![CDATA[The Future of Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[狄奧索斯 用於在Rust中構建跨平臺用戶界面的類React庫]]></title>
             <link>https://news.ycombinator.com/item?id=30659833</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30644845</guid>
             <pubDate>Fri, 11 Mar 2022 19:27:31 GMT</pubDate>
             <description><![CDATA[Tesla will pay it's employees for up to 3 months if they get conscripted]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人類不需要的植物正在走向滅亡]]></title>
-            <link>https://news.ycombinator.com/item?id=30644821</link>
-            <guid>https://news.ycombinator.com/item?id=30644821</guid>
-            <pubDate>Fri, 11 Mar 2022 19:25:58 GMT</pubDate>
-            <description><![CDATA[Plants humans don’t need are heading for extinction]]></description>
         </item>
     </channel>
 </rss>

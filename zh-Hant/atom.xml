@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T12:16:07.613Z</updated>
+    <updated>2022-03-13T12:48:15.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes的未來]]></title>
+        <id>https://news.ycombinator.com/item?id=30660534</id>
+        <link href="https://news.ycombinator.com/item?id=30660534"/>
+        <updated>2022-03-13T12:09:05.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Kubernetes]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狄奧索斯 用於在Rust中構建跨平臺用戶界面的類React庫]]></title>
         <id>https://news.ycombinator.com/item?id=30659833</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>smartidiot</name>
             <uri>https://news.ycombinator.com/user?id=smartidiot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類不需要的植物正在走向滅亡]]></title>
-        <id>https://news.ycombinator.com/item?id=30644821</id>
-        <link href="https://news.ycombinator.com/item?id=30644821"/>
-        <updated>2022-03-11T19:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Plants humans don’t need are heading for extinction]]></summary>
-        <author>
-            <name>indus</name>
-            <uri>https://news.ycombinator.com/user?id=indus</uri>
         </author>
     </entry>
 </feed>
