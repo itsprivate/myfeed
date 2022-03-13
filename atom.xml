@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T04:13:42.042Z</updated>
+    <updated>2022-03-13T04:40:56.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国如何用14纳米的旧技术建造超大规模的超级计算机]]></title>
+        <id>https://news.ycombinator.com/item?id=30657354</id>
+        <link href="https://news.ycombinator.com/item?id=30657354"/>
+        <updated>2022-03-13T02:41:11.000Z</updated>
+        <summary type="html"><![CDATA[How China Built an Exascale Supercomputer Out of Old 14nm Tech]]></summary>
+        <author>
+            <name>rguiscard</name>
+            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拿走浆果]]></title>
+        <id>https://news.ycombinator.com/item?id=30657247</id>
+        <link href="https://news.ycombinator.com/item?id=30657247"/>
+        <updated>2022-03-13T02:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Taking Away the Berries]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[著名的俄罗斯巨魔农场似乎是反乌克兰宣传的来源]]></title>
         <id>https://news.ycombinator.com/item?id=30657595</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Mason_Fuerst</name>
             <uri>https://news.ycombinator.com/user?id=Mason_Fuerst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半衰期的真实地点。阿利克斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30643827</id>
-        <link href="https://news.ycombinator.com/item?id=30643827"/>
-        <updated>2022-03-11T18:20:33.000Z</updated>
-        <summary type="html"><![CDATA[The Real-Life Locations of Half-Life: Alyx]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在英国，比特币提款机被勒令关闭]]></title>
-        <id>https://news.ycombinator.com/item?id=30643825</id>
-        <link href="https://news.ycombinator.com/item?id=30643825"/>
-        <updated>2022-03-11T18:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin cash machines ordered to shut down in UK]]></summary>
-        <author>
-            <name>jfk13</name>
-            <uri>https://news.ycombinator.com/user?id=jfk13</uri>
         </author>
     </entry>
 </feed>
