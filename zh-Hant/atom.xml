@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T06:58:09.796Z</updated>
+    <updated>2022-03-13T07:11:42.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哈雷德iOS應用程序的錯誤修復在最初批准後被拒絕 18個月前]]></title>
+        <id>https://news.ycombinator.com/item?id=30658628</id>
+        <link href="https://news.ycombinator.com/item?id=30658628"/>
+        <updated>2022-03-13T06:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Halide iOS app bug fix rejected after initial approval 18 months ago]]></summary>
+        <author>
+            <name>Apocryphon</name>
+            <uri>https://news.ycombinator.com/user?id=Apocryphon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯特工因抗議投票應用程序威脅蘋果和谷歌員工]]></title>
         <id>https://news.ycombinator.com/item?id=30658567</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SARS-CoV-2與大腦結構的變化有關（即使是較輕的病例）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30644065</id>
-        <link href="https://news.ycombinator.com/item?id=30644065"/>
-        <updated>2022-03-11T18:34:53.000Z</updated>
-        <summary type="html"><![CDATA[SARS-CoV-2 is associated with changes in brain structure (even for milder cases)]]></summary>
-        <author>
-            <name>tomtung</name>
-            <uri>https://news.ycombinator.com/user?id=tomtung</uri>
         </author>
     </entry>
 </feed>
