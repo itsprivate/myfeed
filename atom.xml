@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T13:41:51.286Z</updated>
+    <updated>2022-03-13T13:51:36.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bhai编程语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30661088</id>
+        <link href="https://news.ycombinator.com/item?id=30661088"/>
+        <updated>2022-03-13T13:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Bhai Programming Language]]></summary>
+        <author>
+            <name>heikrana</name>
+            <uri>https://news.ycombinator.com/user?id=heikrana</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snmalloc: 高性能的基于消息传递的分配器]]></title>
+        <id>https://news.ycombinator.com/item?id=30659690</id>
+        <link href="https://news.ycombinator.com/item?id=30659690"/>
+        <updated>2022-03-13T09:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Snmalloc: High-performance message passing based allocator]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞士加入制裁俄罗斯的行列，打破了中立状态]]></title>
         <id>https://news.ycombinator.com/item?id=30660968</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>softwarebeware</name>
             <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1980年代媒体对《龙与地下城》的恐慌]]></title>
-        <id>https://news.ycombinator.com/item?id=30644956</id>
-        <link href="https://news.ycombinator.com/item?id=30644956"/>
-        <updated>2022-03-11T19:35:45.000Z</updated>
-        <summary type="html"><![CDATA[The 1980s Media Panic over Dungeons and Dragons]]></summary>
-        <author>
-            <name>jedwhite</name>
-            <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国为没有方向盘的无人驾驶汽车扫清道路]]></title>
-        <id>https://news.ycombinator.com/item?id=30644940</id>
-        <link href="https://news.ycombinator.com/item?id=30644940"/>
-        <updated>2022-03-11T19:34:34.000Z</updated>
-        <summary type="html"><![CDATA[U.S. clears way for driverless vehicles without steering wheels]]></summary>
-        <author>
-            <name>kjhughes</name>
-            <uri>https://news.ycombinator.com/user?id=kjhughes</uri>
         </author>
     </entry>
 </feed>
