@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T12:48:15.290Z</updated>
+    <updated>2022-03-13T13:06:39.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新编：数学课上的恶作剧（所有恶作剧的最佳部分）[视频］]]></title>
+        <id>https://news.ycombinator.com/item?id=30660643</id>
+        <link href="https://news.ycombinator.com/item?id=30660643"/>
+        <updated>2022-03-13T12:27:19.000Z</updated>
+        <summary type="html"><![CDATA[New COMPILATION: Math Class Pranks (Best parts of all the pranks) [video]]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了拯救C，我们必须拯救ABI]]></title>
+        <id>https://news.ycombinator.com/item?id=30660528</id>
+        <link href="https://news.ycombinator.com/item?id=30660528"/>
+        <updated>2022-03-13T12:07:57.000Z</updated>
+        <summary type="html"><![CDATA[To Save C, We Must Save ABI]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes的未来]]></title>
         <id>https://news.ycombinator.com/item?id=30660534</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>leirbagarc</name>
             <uri>https://news.ycombinator.com/user?id=leirbagarc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你的名字在月球上飞翔]]></title>
-        <id>https://news.ycombinator.com/item?id=30644876</id>
-        <link href="https://news.ycombinator.com/item?id=30644876"/>
-        <updated>2022-03-11T19:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Fly your name around the Moon]]></summary>
-        <author>
-            <name>hoyd</name>
-            <uri>https://news.ycombinator.com/user?id=hoyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉将为被征召的员工支付长达3个月的工资]]></title>
-        <id>https://news.ycombinator.com/item?id=30644845</id>
-        <link href="https://news.ycombinator.com/item?id=30644845"/>
-        <updated>2022-03-11T19:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Tesla will pay it's employees for up to 3 months if they get conscripted]]></summary>
-        <author>
-            <name>smartidiot</name>
-            <uri>https://news.ycombinator.com/user?id=smartidiot</uri>
         </author>
     </entry>
 </feed>
