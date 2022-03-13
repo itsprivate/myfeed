@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T15:12:27.886Z</updated>
+    <updated>2022-03-13T15:33:46.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁在攻击我的服务器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30661852</id>
+        <link href="https://news.ycombinator.com/item?id=30661852"/>
+        <updated>2022-03-13T15:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Who's Attacking My Server?]]></summary>
+        <author>
+            <name>Topolomancer</name>
+            <uri>https://news.ycombinator.com/user?id=Topolomancer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国网络运营商在向监管机构的投诉中针对iCloud私人中继的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30661678</id>
+        <link href="https://news.ycombinator.com/item?id=30661678"/>
+        <updated>2022-03-13T14:49:11.000Z</updated>
+        <summary type="html"><![CDATA[UK Network Operators Target iCloud Private Relay in Complaint to Regulator]]></summary>
+        <author>
+            <name>metahost</name>
+            <uri>https://news.ycombinator.com/user?id=metahost</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我们禁止使用 "民族 "一词 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30661633</id>
+        <link href="https://news.ycombinator.com/item?id=30661633"/>
+        <updated>2022-03-13T14:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Why We Banned the Word “Ethnic” (2019)]]></summary>
+        <author>
+            <name>mkr-hn</name>
+            <uri>https://news.ycombinator.com/user?id=mkr-hn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空气污染的 "安全 "水平是否安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=30661626</id>
+        <link href="https://news.ycombinator.com/item?id=30661626"/>
+        <updated>2022-03-13T14:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Are “safe” levels of air pollution safe?]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对俄罗斯侵略乌克兰的行为进行刑事起诉的机制]]></title>
+        <id>https://news.ycombinator.com/item?id=30661521</id>
+        <link href="https://news.ycombinator.com/item?id=30661521"/>
+        <updated>2022-03-13T14:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Mechanisms for Criminal Prosecution of Russia’s Aggression Against Ukraine]]></summary>
+        <author>
+            <name>room505</name>
+            <uri>https://news.ycombinator.com/user?id=room505</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[试图给我的手机（用USB-C）充电，但我的笔记本电脑开始充电了]]></title>
+        <id>https://news.ycombinator.com/item?id=30661220</id>
+        <link href="https://news.ycombinator.com/item?id=30661220"/>
+        <updated>2022-03-13T13:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Tried to charge my phone (with USB-C), but my laptop started getting charged]]></summary>
+        <author>
+            <name>haunter</name>
+            <uri>https://news.ycombinator.com/user?id=haunter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB正在终止俄罗斯账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30660944</id>
+        <link href="https://news.ycombinator.com/item?id=30660944"/>
+        <updated>2022-03-13T13:13:21.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB is terminating Russian accounts]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackerOne从白俄罗斯黑客那里拿走25000美元以回应制裁]]></title>
         <id>https://news.ycombinator.com/item?id=30661585</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>grogu88</name>
             <uri>https://news.ycombinator.com/user?id=grogu88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰停止了世界上一半的芯片霓虹灯输出，使前景蒙上阴影]]></title>
-        <id>https://news.ycombinator.com/item?id=30645340</id>
-        <link href="https://news.ycombinator.com/item?id=30645340"/>
-        <updated>2022-03-11T20:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine halts half of world's neon output for chips, clouding outlook]]></summary>
-        <author>
-            <name>dataviz1000</name>
-            <uri>https://news.ycombinator.com/user?id=dataviz1000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86/AMD: 用户空间地址标记]]></title>
-        <id>https://news.ycombinator.com/item?id=30645267</id>
-        <link href="https://news.ycombinator.com/item?id=30645267"/>
-        <updated>2022-03-11T20:00:31.000Z</updated>
-        <summary type="html"><![CDATA[x86/AMD: Userspace address tagging]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯最大的说唱歌手之一安排反战音乐会--收入用于乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30645255</id>
-        <link href="https://news.ycombinator.com/item?id=30645255"/>
-        <updated>2022-03-11T19:59:25.000Z</updated>
-        <summary type="html"><![CDATA[One of Russia’s biggest rappers arranges anti-war concert - Proceeds to Ukraine]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runtracks - 为你的跑步提供自适应的苹果音乐播放列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30645251</id>
-        <link href="https://news.ycombinator.com/item?id=30645251"/>
-        <updated>2022-03-11T19:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Runtracks – Adaptive Apple Music playlists for your runs]]></summary>
-        <author>
-            <name>nickoneill</name>
-            <uri>https://news.ycombinator.com/user?id=nickoneill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe停止在俄罗斯的所有新销售，并切断了Creative Cloud的电源]]></title>
-        <id>https://news.ycombinator.com/item?id=30645224</id>
-        <link href="https://news.ycombinator.com/item?id=30645224"/>
-        <updated>2022-03-11T19:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Ceases All New Sales in Russia and Cuts Off Creative Cloud]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nukemap]]></title>
-        <id>https://news.ycombinator.com/item?id=30645223</id>
-        <link href="https://news.ycombinator.com/item?id=30645223"/>
-        <updated>2022-03-11T19:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Nukemap]]></summary>
-        <author>
-            <name>warrenm</name>
-            <uri>https://news.ycombinator.com/user?id=warrenm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书天秤座：公司的加密货币梦想如何夭折的内部故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30645215</id>
-        <link href="https://news.ycombinator.com/item?id=30645215"/>
-        <updated>2022-03-11T19:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Libra: the inside story of how the company’s cryptocurrency dream died]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
