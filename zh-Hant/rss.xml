@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用速率限制來阻擋RDP的暴力攻擊]]></title>
+            <link>https://news.ycombinator.com/item?id=30665912</link>
+            <guid>https://news.ycombinator.com/item?id=30665912</guid>
+            <pubDate>Sun, 13 Mar 2022 21:29:08 GMT</pubDate>
+            <description><![CDATA[Blunting RDP brute-force attacks with rate limiting]]></description>
+        </item>
         <item>
             <title><![CDATA[SmoothWAN一個簡單的家庭互聯網綁定路由器，使用Speedify]]></title>
             <link>https://news.ycombinator.com/item?id=30666248</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647144</guid>
             <pubDate>Fri, 11 Mar 2022 22:57:44 GMT</pubDate>
             <description><![CDATA[You Cannot Always Win the Race: Analyzing the Lfence/JMP Mitigation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英國金融監管機構宣佈比特幣ATM機為非法行為]]></title>
-            <link>https://news.ycombinator.com/item?id=30647135</link>
-            <guid>https://news.ycombinator.com/item?id=30647135</guid>
-            <pubDate>Fri, 11 Mar 2022 22:56:49 GMT</pubDate>
-            <description><![CDATA[Bitcoin ATMs Declared Illegal in UK by Financial Regulator]]></description>
         </item>
     </channel>
 </rss>

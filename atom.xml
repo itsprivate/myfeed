@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T22:51:19.269Z</updated>
+    <updated>2022-03-13T23:12:44.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用速率限制来阻挡RDP的暴力攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30665912</id>
+        <link href="https://news.ycombinator.com/item?id=30665912"/>
+        <updated>2022-03-13T21:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Blunting RDP brute-force attacks with rate limiting]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SmoothWAN一个简单的家庭互联网绑定路由器，使用Speedify]]></title>
         <id>https://news.ycombinator.com/item?id=30666248</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国金融监管机构宣布比特币ATM机为非法行为]]></title>
-        <id>https://news.ycombinator.com/item?id=30647135</id>
-        <link href="https://news.ycombinator.com/item?id=30647135"/>
-        <updated>2022-03-11T22:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin ATMs Declared Illegal in UK by Financial Regulator]]></summary>
-        <author>
-            <name>CTOSian</name>
-            <uri>https://news.ycombinator.com/user?id=CTOSian</uri>
         </author>
     </entry>
 </feed>
