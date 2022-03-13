@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T11:51:59.779Z</updated>
+    <updated>2022-03-13T12:16:07.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[狄奧索斯 用於在Rust中構建跨平臺用戶界面的類React庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30659833</id>
+        <link href="https://news.ycombinator.com/item?id=30659833"/>
+        <updated>2022-03-13T10:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Dioxus: React-like library for building cross-platform user interfaces in Rust]]></summary>
+        <author>
+            <name>losfair</name>
+            <uri>https://news.ycombinator.com/user?id=losfair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創建隨機頭像的自我託管服務]]></title>
         <id>https://news.ycombinator.com/item?id=30660316</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>indus</name>
             <uri>https://news.ycombinator.com/user?id=indus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對單一責任原則的挑戰]]></title>
-        <id>https://news.ycombinator.com/item?id=30644755</id>
-        <link href="https://news.ycombinator.com/item?id=30644755"/>
-        <updated>2022-03-11T19:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Challenging the Single-Responsibility-Principle]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>

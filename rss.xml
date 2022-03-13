@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 11:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 12:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[狄奥索斯 用于在Rust中构建跨平台用户界面的类React库]]></title>
+            <link>https://news.ycombinator.com/item?id=30659833</link>
+            <guid>https://news.ycombinator.com/item?id=30659833</guid>
+            <pubDate>Sun, 13 Mar 2022 10:10:21 GMT</pubDate>
+            <description><![CDATA[Dioxus: React-like library for building cross-platform user interfaces in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[创建随机头像的自我托管服务]]></title>
             <link>https://news.ycombinator.com/item?id=30660316</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30644821</guid>
             <pubDate>Fri, 11 Mar 2022 19:25:58 GMT</pubDate>
             <description><![CDATA[Plants humans don’t need are heading for extinction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对单一责任原则的挑战]]></title>
-            <link>https://news.ycombinator.com/item?id=30644755</link>
-            <guid>https://news.ycombinator.com/item?id=30644755</guid>
-            <pubDate>Fri, 11 Mar 2022 19:21:31 GMT</pubDate>
-            <description><![CDATA[Challenging the Single-Responsibility-Principle]]></description>
         </item>
     </channel>
 </rss>
