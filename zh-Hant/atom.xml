@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T23:12:44.684Z</updated>
+    <updated>2022-03-13T23:31:43.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根據激光雷達數據繪製的紐約曼哈頓的詳細陰影浮雕地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30666680</id>
+        <link href="https://news.ycombinator.com/item?id=30666680"/>
+        <updated>2022-03-13T23:07:58.000Z</updated>
+        <summary type="html"><![CDATA[A detailed shaded relief map of Manhattan New York rendered from Lidar data]]></summary>
+        <author>
+            <name>beatthatflight</name>
+            <uri>https://news.ycombinator.com/user?id=beatthatflight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用速率限制來阻擋RDP的暴力攻擊]]></title>
         <id>https://news.ycombinator.com/item?id=30665912</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>frankpf</name>
             <uri>https://news.ycombinator.com/user?id=frankpf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不可能總是贏得比賽：分析Lfence/JMP的緩解措施]]></title>
-        <id>https://news.ycombinator.com/item?id=30647144</id>
-        <link href="https://news.ycombinator.com/item?id=30647144"/>
-        <updated>2022-03-11T22:57:44.000Z</updated>
-        <summary type="html"><![CDATA[You Cannot Always Win the Race: Analyzing the Lfence/JMP Mitigation]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[根据激光雷达数据绘制的纽约曼哈顿的详细阴影浮雕地图]]></title>
+            <link>https://news.ycombinator.com/item?id=30666680</link>
+            <guid>https://news.ycombinator.com/item?id=30666680</guid>
+            <pubDate>Sun, 13 Mar 2022 23:07:58 GMT</pubDate>
+            <description><![CDATA[A detailed shaded relief map of Manhattan New York rendered from Lidar data]]></description>
+        </item>
         <item>
             <title><![CDATA[用速率限制来阻挡RDP的暴力攻击]]></title>
             <link>https://news.ycombinator.com/item?id=30665912</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647151</guid>
             <pubDate>Fri, 11 Mar 2022 22:58:03 GMT</pubDate>
             <description><![CDATA[RISC-V J extension – Instructions for JITs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你不可能总是赢得比赛：分析Lfence/JMP的缓解措施]]></title>
-            <link>https://news.ycombinator.com/item?id=30647144</link>
-            <guid>https://news.ycombinator.com/item?id=30647144</guid>
-            <pubDate>Fri, 11 Mar 2022 22:57:44 GMT</pubDate>
-            <description><![CDATA[You Cannot Always Win the Race: Analyzing the Lfence/JMP Mitigation]]></description>
         </item>
     </channel>
 </rss>
