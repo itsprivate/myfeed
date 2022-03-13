@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T01:56:18.276Z</updated>
+    <updated>2022-03-13T02:31:17.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰。建立垃圾邮件网站，以接触数百万俄罗斯人]]></title>
+        <id>https://news.ycombinator.com/item?id=30655775</id>
+        <link href="https://news.ycombinator.com/item?id=30655775"/>
+        <updated>2022-03-12T22:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine: Spam website set up to reach millions of Russians]]></summary>
+        <author>
+            <name>stuartmemo</name>
+            <uri>https://news.ycombinator.com/user?id=stuartmemo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国是否一直在押注俄罗斯的失败？]]></title>
         <id>https://news.ycombinator.com/item?id=30656842</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>underscore_ku</name>
             <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家撰写了关于外星人武器、音乐和性的终极指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30643480</id>
-        <link href="https://news.ycombinator.com/item?id=30643480"/>
-        <updated>2022-03-11T17:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Scientist Wrote the Ultimate Guide to Alien Weapons, Music, and Sex]]></summary>
-        <author>
-            <name>Breadmaker</name>
-            <uri>https://news.ycombinator.com/user?id=Breadmaker</uri>
         </author>
     </entry>
 </feed>
