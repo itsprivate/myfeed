@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 13 Mar 2022 11:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用sed編寫的數字電路仿真器]]></title>
+            <link>https://news.ycombinator.com/item?id=30660203</link>
+            <guid>https://news.ycombinator.com/item?id=30660203</guid>
+            <pubDate>Sun, 13 Mar 2022 11:11:32 GMT</pubDate>
+            <description><![CDATA[A digital circuit simulator written in sed]]></description>
+        </item>
         <item>
             <title><![CDATA[在加油機上貼標籤抨擊拜登]]></title>
             <link>https://news.ycombinator.com/item?id=30659834</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30644642</guid>
             <pubDate>Fri, 11 Mar 2022 19:12:37 GMT</pubDate>
             <description><![CDATA[The Kekule problem: Where did language come from?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼是Derw：一種類似Elm的語言，可以編譯成TypeScript？]]></title>
-            <link>https://news.ycombinator.com/item?id=30644640</link>
-            <guid>https://news.ycombinator.com/item?id=30644640</guid>
-            <pubDate>Fri, 11 Mar 2022 19:12:25 GMT</pubDate>
-            <description><![CDATA[Why Derw: an Elm-like language that compiles to TypeScript?]]></description>
         </item>
     </channel>
 </rss>
