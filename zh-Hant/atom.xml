@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T18:53:36.410Z</updated>
+    <updated>2022-03-13T19:11:00.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一部新的拜占庭歷史揭示了一個晚近的古代帝國的內部運作情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30664499</id>
+        <link href="https://news.ycombinator.com/item?id=30664499"/>
+        <updated>2022-03-13T18:51:10.000Z</updated>
+        <summary type="html"><![CDATA[A new history of Byzantium reveals the inner workings of a late antique empire]]></summary>
+        <author>
+            <name>mr_golyadkin</name>
+            <uri>https://news.ycombinator.com/user?id=mr_golyadkin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用dbt指標從你的數據倉庫建立一個REST API]]></title>
+        <id>https://news.ycombinator.com/item?id=30663425</id>
+        <link href="https://news.ycombinator.com/item?id=30663425"/>
+        <updated>2022-03-13T17:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build a REST API from your data warehouse using dbt metrics]]></summary>
+        <author>
+            <name>mjirv</name>
+            <uri>https://news.ycombinator.com/user?id=mjirv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引發小型Twitch流媒體人憤怒的PC製造商無限期停業]]></title>
+        <id>https://news.ycombinator.com/item?id=30663081</id>
+        <link href="https://news.ycombinator.com/item?id=30663081"/>
+        <updated>2022-03-13T16:50:07.000Z</updated>
+        <summary type="html"><![CDATA[PC builder that drew fury of small Twitch streamers shuts down indefinitely]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工程管理資源大清單 - 2022年3月]]></title>
         <id>https://news.ycombinator.com/item?id=30664295</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smartknob - 一個開源的輸入設備]]></title>
-        <id>https://news.ycombinator.com/item?id=30646371</id>
-        <link href="https://news.ycombinator.com/item?id=30646371"/>
-        <updated>2022-03-11T21:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Smartknob – an open-source input device]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果普京欠你錢，祝你收錢好運]]></title>
-        <id>https://news.ycombinator.com/item?id=30646336</id>
-        <link href="https://news.ycombinator.com/item?id=30646336"/>
-        <updated>2022-03-11T21:37:17.000Z</updated>
-        <summary type="html"><![CDATA[If Putin Owes You Money, Good Luck Collecting It]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月8日Spotify停運]]></title>
-        <id>https://news.ycombinator.com/item?id=30646297</id>
-        <link href="https://news.ycombinator.com/item?id=30646297"/>
-        <updated>2022-03-11T21:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Spotify Outage on March 8]]></summary>
-        <author>
-            <name>charlieegan3</name>
-            <uri>https://news.ycombinator.com/user?id=charlieegan3</uri>
         </author>
     </entry>
 </feed>
