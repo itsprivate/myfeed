@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T10:14:24.750Z</updated>
+    <updated>2022-03-13T10:33:52.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的抗议活动日益增多，他们因持有空白标语而被逮捕]]></title>
+        <id>https://news.ycombinator.com/item?id=30659712</id>
+        <link href="https://news.ycombinator.com/item?id=30659712"/>
+        <updated>2022-03-13T09:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Protests grow in Russia where they are being arrested for holding blank signs]]></summary>
+        <author>
+            <name>cuu508</name>
+            <uri>https://news.ycombinator.com/user?id=cuu508</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[储存UTC不是银弹]]></title>
         <id>https://news.ycombinator.com/item?id=30659164</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糟糕的图书馆书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30644463</id>
-        <link href="https://news.ycombinator.com/item?id=30644463"/>
-        <updated>2022-03-11T19:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Awful Library Books]]></summary>
-        <author>
-            <name>cjlm</name>
-            <uri>https://news.ycombinator.com/user?id=cjlm</uri>
         </author>
     </entry>
 </feed>
