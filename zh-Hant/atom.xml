@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T21:28:46.553Z</updated>
+    <updated>2022-03-13T21:51:59.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紐約時報關閉Wordle檔案]]></title>
+        <id>https://news.ycombinator.com/item?id=30665911</id>
+        <link href="https://news.ycombinator.com/item?id=30665911"/>
+        <updated>2022-03-13T21:29:01.000Z</updated>
+        <summary type="html"><![CDATA[NYT Shutting Down Wordle Archive]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甲骨文公司已結束在俄羅斯聯邦的所有業務]]></title>
+        <id>https://news.ycombinator.com/item?id=30665825</id>
+        <link href="https://news.ycombinator.com/item?id=30665825"/>
+        <updated>2022-03-13T21:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Oracle has ended all operations in the Russian Federation]]></summary>
+        <author>
+            <name>nathan_phoenix</name>
+            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編碼教授耐心等美德技能]]></title>
         <id>https://news.ycombinator.com/item?id=30665492</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>shankarro</name>
             <uri>https://news.ycombinator.com/user?id=shankarro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒙特利爾交響樂團在反對聲中放棄了俄羅斯鋼琴神童]]></title>
-        <id>https://news.ycombinator.com/item?id=30646929</id>
-        <link href="https://news.ycombinator.com/item?id=30646929"/>
-        <updated>2022-03-11T22:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Montreal Symphony Orchestra drops Russian piano prodigy amid backlash]]></summary>
-        <author>
-            <name>pessimizer</name>
-            <uri>https://news.ycombinator.com/user?id=pessimizer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛教的烏托邦。蒙古人對卡拉查克拉密教和香巴拉的憧憬]]></title>
-        <id>https://news.ycombinator.com/item?id=30646915</id>
-        <link href="https://news.ycombinator.com/item?id=30646915"/>
-        <updated>2022-03-11T22:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Buddhist Utopia: Mongolian Visions of the Kalachakra Tantra and Shambhala]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
