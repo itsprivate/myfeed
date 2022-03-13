@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T13:51:36.308Z</updated>
+    <updated>2022-03-13T14:11:32.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TP-Link路由器顯然未經用戶同意就向Avira發送客戶數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30661101</id>
+        <link href="https://news.ycombinator.com/item?id=30661101"/>
+        <updated>2022-03-13T13:39:24.000Z</updated>
+        <summary type="html"><![CDATA[TP-Link routers apparently sending customer data to Avira without user consent]]></summary>
+        <author>
+            <name>electic</name>
+            <uri>https://news.ycombinator.com/user?id=electic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Savage，一個用Rust編寫的計算機代數系統：Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30658872</id>
+        <link href="https://news.ycombinator.com/item?id=30658872"/>
+        <updated>2022-03-13T07:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Savage, a computer algebra system written in Rust: rust]]></summary>
+        <author>
+            <name>iamwil</name>
+            <uri>https://news.ycombinator.com/user?id=iamwil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeltaCron "Covid變體，Delta和Omicron的混合體--至少在四個國家。]]></title>
+        <id>https://news.ycombinator.com/item?id=30658720</id>
+        <link href="https://news.ycombinator.com/item?id=30658720"/>
+        <updated>2022-03-13T07:05:26.000Z</updated>
+        <summary type="html"><![CDATA['DeltaCron' Covid Variant, Mix of Delta and Omicron – In at Least Four-Countries]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhai編程語言]]></title>
         <id>https://news.ycombinator.com/item?id=30661088</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pluram</name>
             <uri>https://news.ycombinator.com/user?id=pluram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[測試結果。哪個搜索引擎的審查程度最低？]]></title>
-        <id>https://news.ycombinator.com/item?id=30645021</id>
-        <link href="https://news.ycombinator.com/item?id=30645021"/>
-        <updated>2022-03-11T19:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Test Results: Which Search Engine Is the Least Censored?]]></summary>
-        <author>
-            <name>Nuzzerino</name>
-            <uri>https://news.ycombinator.com/user?id=Nuzzerino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聽2021：音頻表現的整體評價]]></title>
-        <id>https://news.ycombinator.com/item?id=30645006</id>
-        <link href="https://news.ycombinator.com/item?id=30645006"/>
-        <updated>2022-03-11T19:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Hear 2021: Holistic Evaluation of Audio Representations]]></summary>
-        <author>
-            <name>johmathe</name>
-            <uri>https://news.ycombinator.com/user?id=johmathe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[針對科技公司使用的NDA的法案在華盛頓州獲得通過]]></title>
-        <id>https://news.ycombinator.com/item?id=30644975</id>
-        <link href="https://news.ycombinator.com/item?id=30644975"/>
-        <updated>2022-03-11T19:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Bill targeting NDAs used by tech companies passes in Washington state]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
         </author>
     </entry>
 </feed>
