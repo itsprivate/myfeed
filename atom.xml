@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-13T21:13:10.780Z</updated>
+    <updated>2022-03-13T21:28:46.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编码教授耐心等美德技能]]></title>
+        <id>https://news.ycombinator.com/item?id=30665492</id>
+        <link href="https://news.ycombinator.com/item?id=30665492"/>
+        <updated>2022-03-13T20:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Coding Teaches Virtuous Skills Like Patience]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旨在防范量子黑客的彩虹加密技术被轻易破解]]></title>
+        <id>https://news.ycombinator.com/item?id=30665248</id>
+        <link href="https://news.ycombinator.com/item?id=30665248"/>
+        <updated>2022-03-13T20:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Rainbow Encryption meant to protect against quantum hackers is easily cracked]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对乌克兰/俄罗斯的反面看法]]></title>
+        <id>https://news.ycombinator.com/item?id=30664711</id>
+        <link href="https://news.ycombinator.com/item?id=30664711"/>
+        <updated>2022-03-13T19:13:33.000Z</updated>
+        <summary type="html"><![CDATA[A Contrarian View on Ukraine/Russia]]></summary>
+        <author>
+            <name>m33k44</name>
+            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰已开始在战争中使用Clearview AI的面部识别技术]]></title>
         <id>https://news.ycombinator.com/item?id=30665488</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超级鱼]]></title>
-        <id>https://news.ycombinator.com/item?id=30646902</id>
-        <link href="https://news.ycombinator.com/item?id=30646902"/>
-        <updated>2022-03-11T22:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Superfish]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY触觉输入旋钮：BLDC电机和圆形LCD[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30646886</id>
-        <link href="https://news.ycombinator.com/item?id=30646886"/>
-        <updated>2022-03-11T22:34:32.000Z</updated>
-        <summary type="html"><![CDATA[DIY haptic input knob: BLDC motor and round LCD [video]]]></summary>
-        <author>
-            <name>scottbez1</name>
-            <uri>https://news.ycombinator.com/user?id=scottbez1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找工作2022年更新：第一周]]></title>
-        <id>https://news.ycombinator.com/item?id=30646871</id>
-        <link href="https://news.ycombinator.com/item?id=30646871"/>
-        <updated>2022-03-11T22:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Job Search 2022 Update: Week 1]]></summary>
-        <author>
-            <name>autarch</name>
-            <uri>https://news.ycombinator.com/user?id=autarch</uri>
         </author>
     </entry>
 </feed>
