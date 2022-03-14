@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T22:41:33.880Z</updated>
+    <updated>2022-03-14T22:51:11.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯国家客户可获得使用未授权软件的权利]]></title>
+        <id>https://news.ycombinator.com/item?id=30678835</id>
+        <link href="https://news.ycombinator.com/item?id=30678835"/>
+        <updated>2022-03-14T21:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Russian state customers may obtain right to use unlicensed software]]></summary>
+        <author>
+            <name>nwellnhof</name>
+            <uri>https://news.ycombinator.com/user?id=nwellnhof</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抵制俄罗斯天然气和石油 "可能导致德国的大规模贫困]]></title>
         <id>https://news.ycombinator.com/item?id=30679017</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yamrzou</name>
             <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑色的PCB板是否意味着是高端产品？]]></title>
-        <id>https://news.ycombinator.com/item?id=30650734</id>
-        <link href="https://news.ycombinator.com/item?id=30650734"/>
-        <updated>2022-03-12T11:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Does a black PCB board mean a high-end product?]]></summary>
-        <author>
-            <name>l3_</name>
-            <uri>https://news.ycombinator.com/user?id=l3_</uri>
         </author>
     </entry>
 </feed>
