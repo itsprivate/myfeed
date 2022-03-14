@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T12:51:30.983Z</updated>
+    <updated>2022-03-14T13:20:18.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你滾動成癮的心理學]]></title>
+        <id>https://news.ycombinator.com/item?id=30671904</id>
+        <link href="https://news.ycombinator.com/item?id=30671904"/>
+        <updated>2022-03-14T13:01:28.000Z</updated>
+        <summary type="html"><![CDATA[The Psychology of Your Scrolling Addiction]]></summary>
+        <author>
+            <name>qnsi</name>
+            <uri>https://news.ycombinator.com/user?id=qnsi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何打倒普京？]]></title>
+        <id>https://news.ycombinator.com/item?id=30671695</id>
+        <link href="https://news.ycombinator.com/item?id=30671695"/>
+        <updated>2022-03-14T12:41:24.000Z</updated>
+        <summary type="html"><![CDATA[How to Defeat Putin?]]></summary>
+        <author>
+            <name>myth_drannon</name>
+            <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孩子們不需要孩子們的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30671422</id>
+        <link href="https://news.ycombinator.com/item?id=30671422"/>
+        <updated>2022-03-14T12:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Kids don't need tools for kids]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我更喜歡Makefiles而不是Package.json腳本？]]></title>
         <id>https://news.ycombinator.com/item?id=30671572</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PG&E與福特合作開發雙向電動汽車充電技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30648741</id>
-        <link href="https://news.ycombinator.com/item?id=30648741"/>
-        <updated>2022-03-12T03:26:26.000Z</updated>
-        <summary type="html"><![CDATA[PG&E and Ford Collaborate on Bidirectional Electric Vehicle Charging Technology]]></summary>
-        <author>
-            <name>karmaniak</name>
-            <uri>https://news.ycombinator.com/user?id=karmaniak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由於油價飆升，Uber增加了燃油附加費]]></title>
-        <id>https://news.ycombinator.com/item?id=30648736</id>
-        <link href="https://news.ycombinator.com/item?id=30648736"/>
-        <updated>2022-03-12T03:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Uber adds fuel surcharge due to spike in gas prices]]></summary>
-        <author>
-            <name>karmaniak</name>
-            <uri>https://news.ycombinator.com/user?id=karmaniak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要把我們帶回到1917年]]></title>
-        <id>https://news.ycombinator.com/item?id=30648729</id>
-        <link href="https://news.ycombinator.com/item?id=30648729"/>
-        <updated>2022-03-12T03:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Don't take us back to 1917]]></summary>
-        <author>
-            <name>html5web</name>
-            <uri>https://news.ycombinator.com/user?id=html5web</uri>
         </author>
     </entry>
 </feed>
