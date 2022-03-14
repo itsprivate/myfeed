@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T08:14:47.360Z</updated>
+    <updated>2022-03-14T08:36:49.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將你保存的文章送到Kindle上]]></title>
+        <id>https://news.ycombinator.com/item?id=30669487</id>
+        <link href="https://news.ycombinator.com/item?id=30669487"/>
+        <updated>2022-03-14T07:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Serve your saved articles to a Kindle]]></summary>
+        <author>
+            <name>edgartaor</name>
+            <uri>https://news.ycombinator.com/user?id=edgartaor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prolog有什麼不同之處，在其他語言中找不到？]]></title>
+        <id>https://news.ycombinator.com/item?id=30669348</id>
+        <link href="https://news.ycombinator.com/item?id=30669348"/>
+        <updated>2022-03-14T07:18:13.000Z</updated>
+        <summary type="html"><![CDATA[What’s different in Prolog that can’t be found in other languages?]]></summary>
+        <author>
+            <name>gfrison1</name>
+            <uri>https://news.ycombinator.com/user?id=gfrison1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紅矮星將是人類在宇宙消亡前的最後家園]]></title>
         <id>https://news.ycombinator.com/item?id=30669483</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MilnerRoute</name>
             <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[壟斷企業拿走了你五分之一的工資]]></title>
-        <id>https://news.ycombinator.com/item?id=30648172</id>
-        <link href="https://news.ycombinator.com/item?id=30648172"/>
-        <updated>2022-03-12T01:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Monopolies Take a Fifth of Your Wages]]></summary>
-        <author>
-            <name>abawany</name>
-            <uri>https://news.ycombinator.com/user?id=abawany</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenZFS 2.1.3]]></title>
-        <id>https://news.ycombinator.com/item?id=30648150</id>
-        <link href="https://news.ycombinator.com/item?id=30648150"/>
-        <updated>2022-03-12T01:32:25.000Z</updated>
-        <summary type="html"><![CDATA[OpenZFS 2.1.3]]></summary>
-        <author>
-            <name>chungy</name>
-            <uri>https://news.ycombinator.com/user?id=chungy</uri>
         </author>
     </entry>
 </feed>
