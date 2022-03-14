@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T21:30:50.829Z</updated>
+    <updated>2022-03-14T21:38:33.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，我是俄罗斯人。西方国家没有意识到关于俄罗斯的好消息和坏消息]]></title>
+        <id>https://news.ycombinator.com/item?id=30678400</id>
+        <link href="https://news.ycombinator.com/item?id=30678400"/>
+        <updated>2022-03-14T21:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m Russian. The West doesn’t realize the good and the bad news about Russia]]></summary>
+        <author>
+            <name>Procedural</name>
+            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顺丰现在正在抵制美国的大部分地区]]></title>
+        <id>https://news.ycombinator.com/item?id=30678349</id>
+        <link href="https://news.ycombinator.com/item?id=30678349"/>
+        <updated>2022-03-14T21:08:18.000Z</updated>
+        <summary type="html"><![CDATA[SF is now boycotting most of the United States]]></summary>
+        <author>
+            <name>kelnos</name>
+            <uri>https://news.ycombinator.com/user?id=kelnos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国锁定2400万人口的省份，因为新的科威德感染者增加了]]></title>
+        <id>https://news.ycombinator.com/item?id=30678280</id>
+        <link href="https://news.ycombinator.com/item?id=30678280"/>
+        <updated>2022-03-14T21:03:51.000Z</updated>
+        <summary type="html"><![CDATA[China locks down province of 24m as new Covid infections rise]]></summary>
+        <author>
+            <name>22222</name>
+            <uri>https://news.ycombinator.com/user?id=22222</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的国家媒体新闻被打断了。他们在对你撒谎]]></title>
         <id>https://news.ycombinator.com/item?id=30678304</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>vpj</name>
             <uri>https://news.ycombinator.com/user?id=vpj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[镍的首次发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30650480</id>
-        <link href="https://news.ycombinator.com/item?id=30650480"/>
-        <updated>2022-03-12T10:40:25.000Z</updated>
-        <summary type="html"><![CDATA[First Release of Nickel]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机漏洞 "一词的起源]]></title>
-        <id>https://news.ycombinator.com/item?id=30650459</id>
-        <link href="https://news.ycombinator.com/item?id=30650459"/>
-        <updated>2022-03-12T10:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The Origin of the Term 'Computer Bug']]></summary>
-        <author>
-            <name>alanfranz</name>
-            <uri>https://news.ycombinator.com/user?id=alanfranz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[争夺我们的注意力]]></title>
-        <id>https://news.ycombinator.com/item?id=30650449</id>
-        <link href="https://news.ycombinator.com/item?id=30650449"/>
-        <updated>2022-03-12T10:33:22.000Z</updated>
-        <summary type="html"><![CDATA[The Fight for Our Attention]]></summary>
-        <author>
-            <name>t0bia_s</name>
-            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
         </author>
     </entry>
 </feed>
