@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T05:35:03.035Z</updated>
+    <updated>2022-03-14T05:55:07.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯向中国寻求军事帮助]]></title>
+        <id>https://news.ycombinator.com/item?id=30668064</id>
+        <link href="https://news.ycombinator.com/item?id=30668064"/>
+        <updated>2022-03-14T02:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Russia asked China for military help]]></summary>
+        <author>
+            <name>737min</name>
+            <uri>https://news.ycombinator.com/user?id=737min</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript数组是如何在内部工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30667127</id>
+        <link href="https://news.ycombinator.com/item?id=30667127"/>
+        <updated>2022-03-14T00:14:57.000Z</updated>
+        <summary type="html"><![CDATA[How JavaScript Array Works Internally?]]></summary>
+        <author>
+            <name>ScottWRobinson</name>
+            <uri>https://news.ycombinator.com/user?id=ScottWRobinson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富士康停止生产，深圳进入封锁状态]]></title>
         <id>https://news.ycombinator.com/item?id=30668539</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>danielyaa5</name>
             <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约翰-坎贝尔博士。辉瑞公司的文件[视频］]]></title>
-        <id>https://news.ycombinator.com/item?id=30647561</id>
-        <link href="https://news.ycombinator.com/item?id=30647561"/>
-        <updated>2022-03-11T23:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Dr. John Campbell: The Pfizer Documents [video]]]></summary>
-        <author>
-            <name>throw_666</name>
-            <uri>https://news.ycombinator.com/user?id=throw_666</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兰维尔-布拉尔（Ranveer Brar）。希望香菜成为印度国家香草的厨师]]></title>
-        <id>https://news.ycombinator.com/item?id=30647815</id>
-        <link href="https://news.ycombinator.com/item?id=30647815"/>
-        <updated>2022-03-12T00:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Ranveer Brar: The chef who wants coriander as India's national herb]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
         </author>
     </entry>
 </feed>
