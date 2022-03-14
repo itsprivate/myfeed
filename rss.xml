@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 14 Mar 2022 22:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 23:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于服务机构如何处理账户删除的一些令人沮丧的轶事]]></title>
+            <link>https://news.ycombinator.com/item?id=30678847</link>
+            <guid>https://news.ycombinator.com/item?id=30678847</guid>
+            <pubDate>Mon, 14 Mar 2022 21:48:19 GMT</pubDate>
+            <description><![CDATA[Some discouraging anecdotes on how services handle account deletions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Podman可以在没有注册表的情况下传输容器镜像]]></title>
+            <link>https://news.ycombinator.com/item?id=30678375</link>
+            <guid>https://news.ycombinator.com/item?id=30678375</guid>
+            <pubDate>Mon, 14 Mar 2022 21:10:10 GMT</pubDate>
+            <description><![CDATA[Podman can transfer container images without a registry]]></description>
+        </item>
+        <item>
+            <title><![CDATA[莫吉克的页面数超过了50亿]]></title>
+            <link>https://news.ycombinator.com/item?id=30677916</link>
+            <guid>https://news.ycombinator.com/item?id=30677916</guid>
+            <pubDate>Mon, 14 Mar 2022 20:37:01 GMT</pubDate>
+            <description><![CDATA[Mojeek Surpasses 5B Pages]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯国家客户可获得使用未授权软件的权利]]></title>
             <link>https://news.ycombinator.com/item?id=30678835</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30650808</guid>
             <pubDate>Sat, 12 Mar 2022 12:04:00 GMT</pubDate>
             <description><![CDATA[Imaging and stellar kinematics in galaxy merger remnants]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C++ - 为什么在Clang/Win下std:swap对向量元素不起作用？]]></title>
-            <link>https://news.ycombinator.com/item?id=30650807</link>
-            <guid>https://news.ycombinator.com/item?id=30650807</guid>
-            <pubDate>Sat, 12 Mar 2022 12:03:58 GMT</pubDate>
-            <description><![CDATA[C++ – Why doesn't std:swap work on vector elements under Clang/Win?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利用移动应用或游戏赚钱的4大方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30650783</link>
-            <guid>https://news.ycombinator.com/item?id=30650783</guid>
-            <pubDate>Sat, 12 Mar 2022 11:59:13 GMT</pubDate>
-            <description><![CDATA[Top 4 ways to earn money with a mobile app or game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[交易成瘾]]></title>
-            <link>https://news.ycombinator.com/item?id=30650767</link>
-            <guid>https://news.ycombinator.com/item?id=30650767</guid>
-            <pubDate>Sat, 12 Mar 2022 11:54:58 GMT</pubDate>
-            <description><![CDATA[Trading Addiction]]></description>
         </item>
     </channel>
 </rss>

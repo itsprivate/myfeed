@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T22:51:11.946Z</updated>
+    <updated>2022-03-14T23:13:29.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于服务机构如何处理账户删除的一些令人沮丧的轶事]]></title>
+        <id>https://news.ycombinator.com/item?id=30678847</id>
+        <link href="https://news.ycombinator.com/item?id=30678847"/>
+        <updated>2022-03-14T21:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Some discouraging anecdotes on how services handle account deletions]]></summary>
+        <author>
+            <name>nathan_phoenix</name>
+            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman可以在没有注册表的情况下传输容器镜像]]></title>
+        <id>https://news.ycombinator.com/item?id=30678375</id>
+        <link href="https://news.ycombinator.com/item?id=30678375"/>
+        <updated>2022-03-14T21:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Podman can transfer container images without a registry]]></summary>
+        <author>
+            <name>kukx</name>
+            <uri>https://news.ycombinator.com/user?id=kukx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫吉克的页面数超过了50亿]]></title>
+        <id>https://news.ycombinator.com/item?id=30677916</id>
+        <link href="https://news.ycombinator.com/item?id=30677916"/>
+        <updated>2022-03-14T20:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Mojeek Surpasses 5B Pages]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯国家客户可获得使用未授权软件的权利]]></title>
         <id>https://news.ycombinator.com/item?id=30678835</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ - 为什么在Clang/Win下std:swap对向量元素不起作用？]]></title>
-        <id>https://news.ycombinator.com/item?id=30650807</id>
-        <link href="https://news.ycombinator.com/item?id=30650807"/>
-        <updated>2022-03-12T12:03:58.000Z</updated>
-        <summary type="html"><![CDATA[C++ – Why doesn't std:swap work on vector elements under Clang/Win?]]></summary>
-        <author>
-            <name>flipchart</name>
-            <uri>https://news.ycombinator.com/user?id=flipchart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用移动应用或游戏赚钱的4大方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30650783</id>
-        <link href="https://news.ycombinator.com/item?id=30650783"/>
-        <updated>2022-03-12T11:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Top 4 ways to earn money with a mobile app or game]]></summary>
-        <author>
-            <name>svprdga</name>
-            <uri>https://news.ycombinator.com/user?id=svprdga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[交易成瘾]]></title>
-        <id>https://news.ycombinator.com/item?id=30650767</id>
-        <link href="https://news.ycombinator.com/item?id=30650767"/>
-        <updated>2022-03-12T11:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Trading Addiction]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
         </author>
     </entry>
 </feed>
