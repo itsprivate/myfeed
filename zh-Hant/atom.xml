@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T23:32:08.452Z</updated>
+    <updated>2022-03-14T23:41:09.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道org-mode的源代碼包含5000多個例子嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679783</id>
+        <link href="https://news.ycombinator.com/item?id=30679783"/>
+        <updated>2022-03-14T23:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Did you know org-mode's source code contains more than 5000 examples?]]></summary>
+        <author>
+            <name>davesailer</name>
+            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汽車修理廠為當地部隊改裝繳獲的俄羅斯武器]]></title>
         <id>https://news.ycombinator.com/item?id=30679540</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何銷售？旋轉銷售。形勢、問題、含義、需求-回報]]></title>
-        <id>https://news.ycombinator.com/item?id=30650838</id>
-        <link href="https://news.ycombinator.com/item?id=30650838"/>
-        <updated>2022-03-12T12:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Sell? Spin Selling: Situation, Problem, Implication, Need-Payoff]]></summary>
-        <author>
-            <name>turboz747</name>
-            <uri>https://news.ycombinator.com/user?id=turboz747</uri>
         </author>
     </entry>
 </feed>
