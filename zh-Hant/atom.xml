@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T07:12:19.087Z</updated>
+    <updated>2022-03-14T07:30:36.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Pi-Day快樂]]></title>
+        <id>https://news.ycombinator.com/item?id=30669299</id>
+        <link href="https://news.ycombinator.com/item?id=30669299"/>
+        <updated>2022-03-14T07:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Happy Pi-Day]]></summary>
+        <author>
+            <name>garritfra</name>
+            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三分之一的美國兒童科維德死亡事件發生在奧米克朗激增期間]]></title>
+        <id>https://news.ycombinator.com/item?id=30669062</id>
+        <link href="https://news.ycombinator.com/item?id=30669062"/>
+        <updated>2022-03-14T06:16:24.000Z</updated>
+        <summary type="html"><![CDATA[One-third of all US child Covid deaths occurred during Omicron surge]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯要求中國提供軍事和經濟援助以幫助烏克蘭]]></title>
+        <id>https://news.ycombinator.com/item?id=30668315</id>
+        <link href="https://news.ycombinator.com/item?id=30668315"/>
+        <updated>2022-03-14T03:43:22.000Z</updated>
+        <summary type="html"><![CDATA[Russia asks China for military and economic aid to help in Ukraine]]></summary>
+        <author>
+            <name>rascul</name>
+            <uri>https://news.ycombinator.com/user?id=rascul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯人看不到的戰爭]]></title>
+        <id>https://news.ycombinator.com/item?id=30667424</id>
+        <link href="https://news.ycombinator.com/item?id=30667424"/>
+        <updated>2022-03-14T01:03:36.000Z</updated>
+        <summary type="html"><![CDATA[The War That Russians Do Not See]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於俄羅斯設備損失的最新情況。奧瑞克斯的數字]]></title>
         <id>https://news.ycombinator.com/item?id=30668334</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>cwillu</name>
             <uri>https://news.ycombinator.com/user?id=cwillu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印加人如何用繩結來講述故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30647973</id>
-        <link href="https://news.ycombinator.com/item?id=30647973"/>
-        <updated>2022-03-12T00:57:51.000Z</updated>
-        <summary type="html"><![CDATA[How the Inca used knots to tell stories]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grin News #153: ASIC市場升溫]]></title>
-        <id>https://news.ycombinator.com/item?id=30647967</id>
-        <link href="https://news.ycombinator.com/item?id=30647967"/>
-        <updated>2022-03-12T00:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Grin News #153: ASIC Markets Heating Up]]></summary>
-        <author>
-            <name>biosupdate2020</name>
-            <uri>https://news.ycombinator.com/user?id=biosupdate2020</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於深度學習的輕量級TCN用於日誌異常檢測]]></title>
-        <id>https://news.ycombinator.com/item?id=30647965</id>
-        <link href="https://news.ycombinator.com/item?id=30647965"/>
-        <updated>2022-03-12T00:56:52.000Z</updated>
-        <summary type="html"><![CDATA[An deep learning based lightweight TCN for log anomaly detection]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國如何用14納米的舊技術製造出超大規模的超級計算機]]></title>
-        <id>https://news.ycombinator.com/item?id=30647929</id>
-        <link href="https://news.ycombinator.com/item?id=30647929"/>
-        <updated>2022-03-12T00:52:27.000Z</updated>
-        <summary type="html"><![CDATA[How China Made an Exascale Supercomputer Out of Old 14nm Tech]]></summary>
-        <author>
-            <name>keponefactory77</name>
-            <uri>https://news.ycombinator.com/user?id=keponefactory77</uri>
         </author>
     </entry>
 </feed>
