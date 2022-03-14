@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T07:30:36.704Z</updated>
+    <updated>2022-03-14T07:37:35.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VLC 3.0.17.3 "Vetinari" 已經發布 - VideoLAN Media Player]]></title>
+        <id>https://news.ycombinator.com/item?id=30669322</id>
+        <link href="https://news.ycombinator.com/item?id=30669322"/>
+        <updated>2022-03-14T07:12:49.000Z</updated>
+        <summary type="html"><![CDATA[VLC 3.0.17.3 “Vetinari” has been released – VideoLAN Media Player]]></summary>
+        <author>
+            <name>neustradamus</name>
+            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：Pi-Day快樂]]></title>
         <id>https://news.ycombinator.com/item?id=30669299</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bardc</name>
             <uri>https://news.ycombinator.com/user?id=bardc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽和地球哪個大？自己檢查一下]]></title>
-        <id>https://news.ycombinator.com/item?id=30647976</id>
-        <link href="https://news.ycombinator.com/item?id=30647976"/>
-        <updated>2022-03-12T00:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Which Is Bigger, the Sun or the Earth? Check It Yourself]]></summary>
-        <author>
-            <name>cwillu</name>
-            <uri>https://news.ycombinator.com/user?id=cwillu</uri>
         </author>
     </entry>
 </feed>
