@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T03:23:21.121Z</updated>
+    <updated>2022-03-14T03:43:48.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用shot-scraper从命令行抓取网页]]></title>
+        <id>https://news.ycombinator.com/item?id=30667588</id>
+        <link href="https://news.ycombinator.com/item?id=30667588"/>
+        <updated>2022-03-14T01:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Scraping web pages from the command-line with shot-scraper]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯维基百科页面的知名编辑在白俄罗斯被拘留]]></title>
         <id>https://news.ycombinator.com/item?id=30667933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>re_re</name>
             <uri>https://news.ycombinator.com/user?id=re_re</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juniper - 使用泛型对Go标准库进行扩展]]></title>
-        <id>https://news.ycombinator.com/item?id=30647600</id>
-        <link href="https://news.ycombinator.com/item?id=30647600"/>
-        <updated>2022-03-11T23:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Juniper – an extension to the Go standard library using generics]]></summary>
-        <author>
-            <name>jamespwilliams</name>
-            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用shot-scraper从命令行抓取网页]]></title>
+            <link>https://news.ycombinator.com/item?id=30667588</link>
+            <guid>https://news.ycombinator.com/item?id=30667588</guid>
+            <pubDate>Mon, 14 Mar 2022 01:33:25 GMT</pubDate>
+            <description><![CDATA[Scraping web pages from the command-line with shot-scraper]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯维基百科页面的知名编辑在白俄罗斯被拘留]]></title>
             <link>https://news.ycombinator.com/item?id=30667933</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647607</guid>
             <pubDate>Fri, 11 Mar 2022 23:55:40 GMT</pubDate>
             <description><![CDATA[The NSA is probing the sabotage of satellite internet during Russia's invasion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Juniper - 使用泛型对Go标准库进行扩展]]></title>
-            <link>https://news.ycombinator.com/item?id=30647600</link>
-            <guid>https://news.ycombinator.com/item?id=30647600</guid>
-            <pubDate>Fri, 11 Mar 2022 23:54:50 GMT</pubDate>
-            <description><![CDATA[Juniper – an extension to the Go standard library using generics]]></description>
         </item>
     </channel>
 </rss>
