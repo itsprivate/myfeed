@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T18:53:37.144Z</updated>
+    <updated>2022-03-14T19:11:01.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["從零到生產的鐵鏽 "已經完成]]></title>
+        <id>https://news.ycombinator.com/item?id=30675809</id>
+        <link href="https://news.ycombinator.com/item?id=30675809"/>
+        <updated>2022-03-14T18:07:41.000Z</updated>
+        <summary type="html"><![CDATA[“Zero To Production In Rust” is complete]]></summary>
+        <author>
+            <name>cercatrova</name>
+            <uri>https://news.ycombinator.com/user?id=cercatrova</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2007-2008年世界糧食價格危機]]></title>
+        <id>https://news.ycombinator.com/item?id=30675104</id>
+        <link href="https://news.ycombinator.com/item?id=30675104"/>
+        <updated>2022-03-14T17:15:53.000Z</updated>
+        <summary type="html"><![CDATA[2007–2008 world food price crisis]]></summary>
+        <author>
+            <name>niklasbuschmann</name>
+            <uri>https://news.ycombinator.com/user?id=niklasbuschmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大疆創新否認扼殺烏克蘭無人機，證實烏克蘭AeroScope公司遭遇麻煩]]></title>
         <id>https://news.ycombinator.com/item?id=30676085</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>limoce</name>
             <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[細胞再生療法安全地逆轉了小鼠的衰老跡象]]></title>
-        <id>https://news.ycombinator.com/item?id=30649823</id>
-        <link href="https://news.ycombinator.com/item?id=30649823"/>
-        <updated>2022-03-12T08:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Cellular Rejuvenation Therapy safely reverses signs of Aging in Mice]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼現代電影很糟糕]]></title>
-        <id>https://news.ycombinator.com/item?id=30649814</id>
-        <link href="https://news.ycombinator.com/item?id=30649814"/>
-        <updated>2022-03-12T08:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Why Modern Movies Suck]]></summary>
-        <author>
-            <name>jdkee</name>
-            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
         </author>
     </entry>
 </feed>
