@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T06:56:38.524Z</updated>
+    <updated>2022-03-14T07:12:18.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于俄罗斯设备损失的最新情况。奥瑞克斯的数字]]></title>
+        <id>https://news.ycombinator.com/item?id=30668334</id>
+        <link href="https://news.ycombinator.com/item?id=30668334"/>
+        <updated>2022-03-14T03:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Update on Russian equipment losses: Oryx numbers]]></summary>
+        <author>
+            <name>stanislavb</name>
+            <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立陶宛总理英格丽达-西蒙尼特说俄罗斯的入侵是可以预见的]]></title>
         <id>https://news.ycombinator.com/item?id=30667517</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>keponefactory77</name>
             <uri>https://news.ycombinator.com/user?id=keponefactory77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于俄罗斯的冲突，NightCoreMaker在3月底关闭了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30647918</id>
-        <link href="https://news.ycombinator.com/item?id=30647918"/>
-        <updated>2022-03-12T00:50:25.000Z</updated>
-        <summary type="html"><![CDATA[NightCoreMaker shutting down at the end of March due to Russia conflict]]></summary>
-        <author>
-            <name>Gamemaster1379</name>
-            <uri>https://news.ycombinator.com/user?id=Gamemaster1379</uri>
         </author>
     </entry>
 </feed>
