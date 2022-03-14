@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T15:37:36.386Z</updated>
+    <updated>2022-03-14T15:54:40.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit的衰落--为什么Reddit很糟糕，以及如何修复它]]></title>
+        <id>https://news.ycombinator.com/item?id=30673482</id>
+        <link href="https://news.ycombinator.com/item?id=30673482"/>
+        <updated>2022-03-14T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[The Downfall of Reddit – Why Reddit Sucks, and How to Fix It]]></summary>
+        <author>
+            <name>JSavageOne</name>
+            <uri>https://news.ycombinator.com/user?id=JSavageOne</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯进攻性运动评估，3月13日]]></title>
+        <id>https://news.ycombinator.com/item?id=30673354</id>
+        <link href="https://news.ycombinator.com/item?id=30673354"/>
+        <updated>2022-03-14T15:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Russian Offensive Campaign Assessment, March 13]]></summary>
+        <author>
+            <name>gnull</name>
+            <uri>https://news.ycombinator.com/user?id=gnull</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对RSA的费马攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30672999</id>
+        <link href="https://news.ycombinator.com/item?id=30672999"/>
+        <updated>2022-03-14T14:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Fermat Attack on RSA]]></summary>
+        <author>
+            <name>hannob</name>
+            <uri>https://news.ycombinator.com/user?id=hannob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建谷歌照片的网络用户界面。窥视引擎内部]]></title>
+        <id>https://news.ycombinator.com/item?id=30672883</id>
+        <link href="https://news.ycombinator.com/item?id=30672883"/>
+        <updated>2022-03-14T14:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Building the Google Photos Web UI: A peek under the hood]]></summary>
+        <author>
+            <name>mjshashank</name>
+            <uri>https://news.ycombinator.com/user?id=mjshashank</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矩阵式网络规划是一种分布式的在线审核方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30671202</id>
+        <link href="https://news.ycombinator.com/item?id=30671202"/>
+        <updated>2022-03-14T11:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Matrix network planning a distributed approach to online moderation]]></summary>
+        <author>
+            <name>dexwell</name>
+            <uri>https://news.ycombinator.com/user?id=dexwell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[统一的游戏。农民偷窃坦克]]></title>
         <id>https://news.ycombinator.com/item?id=30673336</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时间的方向有一天会改变吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30649193</id>
-        <link href="https://news.ycombinator.com/item?id=30649193"/>
-        <updated>2022-03-12T05:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Can the direction of Time one day change?]]></summary>
-        <author>
-            <name>codemaniac</name>
-            <uri>https://news.ycombinator.com/user?id=codemaniac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有界精度递归神经网络的图灵完备性]]></title>
-        <id>https://news.ycombinator.com/item?id=30649182</id>
-        <link href="https://news.ycombinator.com/item?id=30649182"/>
-        <updated>2022-03-12T05:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Turing Completeness of Bounded-Precision Recurrent Neural Networks]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator如何开始 (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=30649169</id>
-        <link href="https://news.ycombinator.com/item?id=30649169"/>
-        <updated>2022-03-12T05:16:02.000Z</updated>
-        <summary type="html"><![CDATA[How Y Combinator Started (2012)]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid Air是一台时间机器 - Jason Cammisa]]></title>
-        <id>https://news.ycombinator.com/item?id=30649168</id>
-        <link href="https://news.ycombinator.com/item?id=30649168"/>
-        <updated>2022-03-12T05:15:12.000Z</updated>
-        <summary type="html"><![CDATA[The Lucid Air is a time machine – Jason Cammisa]]></summary>
-        <author>
-            <name>CHB0403085482</name>
-            <uri>https://news.ycombinator.com/user?id=CHB0403085482</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水库计算机的神经编程语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30649137</id>
-        <link href="https://news.ycombinator.com/item?id=30649137"/>
-        <updated>2022-03-12T05:05:54.000Z</updated>
-        <summary type="html"><![CDATA[A Neural Programming Language for the Reservoir Computer]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>
