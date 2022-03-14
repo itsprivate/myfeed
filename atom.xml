@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T11:52:09.133Z</updated>
+    <updated>2022-03-14T12:17:24.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[南希-格雷斯罗马太空望远镜]]></title>
+        <id>https://news.ycombinator.com/item?id=30671169</id>
+        <link href="https://news.ycombinator.com/item?id=30671169"/>
+        <updated>2022-03-14T11:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Nancy Grace Roman Space Telescope]]></summary>
+        <author>
+            <name>worldvoyageur</name>
+            <uri>https://news.ycombinator.com/user?id=worldvoyageur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃马克思的22年]]></title>
+        <id>https://news.ycombinator.com/item?id=30668726</id>
+        <link href="https://news.ycombinator.com/item?id=30668726"/>
+        <updated>2022-03-14T05:11:31.000Z</updated>
+        <summary type="html"><![CDATA[22 Years of Emacs]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pi公式、算法和计算方法]]></title>
         <id>https://news.ycombinator.com/item?id=30671184</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预爆5个常见的移民神话]]></title>
-        <id>https://news.ycombinator.com/item?id=30648554</id>
-        <link href="https://news.ycombinator.com/item?id=30648554"/>
-        <updated>2022-03-12T02:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Prebunking 5 Common Migration Myths]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟委员会要求谷歌将RT和Sputnik从搜索结果中删除]]></title>
-        <id>https://news.ycombinator.com/item?id=30648519</id>
-        <link href="https://news.ycombinator.com/item?id=30648519"/>
-        <updated>2022-03-12T02:43:51.000Z</updated>
-        <summary type="html"><![CDATA[EU Commission demands Google takedown RT and Sputnik from search results]]></summary>
-        <author>
-            <name>hirundo</name>
-            <uri>https://news.ycombinator.com/user?id=hirundo</uri>
         </author>
     </entry>
 </feed>
