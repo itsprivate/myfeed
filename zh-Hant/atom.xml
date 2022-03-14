@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T10:52:21.748Z</updated>
+    <updated>2022-03-14T11:36:42.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯Ingress玩家在莫斯科上空創造了一隻和平鴿]]></title>
+        <id>https://news.ycombinator.com/item?id=30670865</id>
+        <link href="https://news.ycombinator.com/item?id=30670865"/>
+        <updated>2022-03-14T11:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Russian Ingress players create a dove of peace over Moscow]]></summary>
+        <author>
+            <name>chippy</name>
+            <uri>https://news.ycombinator.com/user?id=chippy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年美國國家航空航天局Pi日挑戰賽]]></title>
+        <id>https://news.ycombinator.com/item?id=30670558</id>
+        <link href="https://news.ycombinator.com/item?id=30670558"/>
+        <updated>2022-03-14T10:15:53.000Z</updated>
+        <summary type="html"><![CDATA[The NASA Pi Day Challenge 2022]]></summary>
+        <author>
+            <name>grunthos</name>
+            <uri>https://news.ycombinator.com/user?id=grunthos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摸清並查封寡頭的資產]]></title>
         <id>https://news.ycombinator.com/item?id=30670545</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白俄羅斯可能正準備入侵烏克蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=30648404</id>
-        <link href="https://news.ycombinator.com/item?id=30648404"/>
-        <updated>2022-03-12T02:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Belarus may be preparing to invade Ukraine]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tron的創始人Justin Sun和他的多次逃亡經歷]]></title>
-        <id>https://news.ycombinator.com/item?id=30648381</id>
-        <link href="https://news.ycombinator.com/item?id=30648381"/>
-        <updated>2022-03-12T02:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Tron founder Justin Sun and his many escapes]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
