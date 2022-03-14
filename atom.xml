@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T23:41:09.189Z</updated>
+    <updated>2022-03-14T23:51:37.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当一所精英公立学校向所有人开放时，会发生什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679206</id>
+        <link href="https://news.ycombinator.com/item?id=30679206"/>
+        <updated>2022-03-14T22:20:05.000Z</updated>
+        <summary type="html"><![CDATA[What Happens When an Élite Public School Becomes Open to All?]]></summary>
+        <author>
+            <name>crackercrews</name>
+            <uri>https://news.ycombinator.com/user?id=crackercrews</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道org-mode的源代码包含5000多个例子吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30679783</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ashitlerferad</name>
             <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯最富有的商人告诉普京--"不要把我们带回1917年]]></title>
-        <id>https://news.ycombinator.com/item?id=30650840</id>
-        <link href="https://news.ycombinator.com/item?id=30650840"/>
-        <updated>2022-03-12T12:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Russia's Richest Businessman tells Putin – 'Don't take us back to 1917']]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
