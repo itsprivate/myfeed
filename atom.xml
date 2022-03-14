@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T16:15:41.930Z</updated>
+    <updated>2022-03-14T16:50:22.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[专业 "已经失去了所有的意义，而苹果也知道这一点]]></title>
+        <id>https://news.ycombinator.com/item?id=30674438</id>
+        <link href="https://news.ycombinator.com/item?id=30674438"/>
+        <updated>2022-03-14T16:28:57.000Z</updated>
+        <summary type="html"><![CDATA[‘Pro’ has lost all meaning, and Apple knows it]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决两只股票的概率难题]]></title>
+        <id>https://news.ycombinator.com/item?id=30674098</id>
+        <link href="https://news.ycombinator.com/item?id=30674098"/>
+        <updated>2022-03-14T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Solving the two stocks probability puzzle]]></summary>
+        <author>
+            <name>cmrfrd</name>
+            <uri>https://news.ycombinator.com/user?id=cmrfrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果第三次世界大战已经开始了呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30673971</id>
+        <link href="https://news.ycombinator.com/item?id=30673971"/>
+        <updated>2022-03-14T15:56:21.000Z</updated>
+        <summary type="html"><![CDATA[What If World War III Has Already Started?]]></summary>
+        <author>
+            <name>gamechangr</name>
+            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松编辑、注释和分享文章 - Smort.io]]></title>
+        <id>https://news.ycombinator.com/item?id=30673502</id>
+        <link href="https://news.ycombinator.com/item?id=30673502"/>
+        <updated>2022-03-14T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Edit, annotate and share articles easily – Smort.io]]></summary>
+        <author>
+            <name>sabr</name>
+            <uri>https://news.ycombinator.com/user?id=sabr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs更新：新的分配器已被合并]]></title>
+        <id>https://news.ycombinator.com/item?id=30672289</id>
+        <link href="https://news.ycombinator.com/item?id=30672289"/>
+        <updated>2022-03-14T13:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Bcachefs update: New allocator has been merged]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我写了一本初学SRE的书，今天是免费的]]></title>
+        <id>https://news.ycombinator.com/item?id=30672041</id>
+        <link href="https://news.ycombinator.com/item?id=30672041"/>
+        <updated>2022-03-14T13:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote a beginner SRE book, and it's free today]]></summary>
+        <author>
+            <name>dm03514</name>
+            <uri>https://news.ycombinator.com/user?id=dm03514</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个灵活的、轻量级的、旋转锁定的屏障]]></title>
+        <id>https://news.ycombinator.com/item?id=30671979</id>
+        <link href="https://news.ycombinator.com/item?id=30671979"/>
+        <updated>2022-03-14T13:10:01.000Z</updated>
+        <summary type="html"><![CDATA[A flexible, lightweight, spin-lock barrier]]></summary>
+        <author>
+            <name>kencausey</name>
+            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯对乌克兰的入侵是如何撕裂全球粮食系统的]]></title>
+        <id>https://news.ycombinator.com/item?id=30671727</id>
+        <link href="https://news.ycombinator.com/item?id=30671727"/>
+        <updated>2022-03-14T12:45:05.000Z</updated>
+        <summary type="html"><![CDATA[How Russia’s Invasion of Ukraine Is Tearing Apart the Global Food System]]></summary>
+        <author>
+            <name>imartin2k</name>
+            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ace, CodeMirror, and Monaco: A Comparison of Code Editors You Use in Browser]]></title>
         <id>https://news.ycombinator.com/item?id=30673759</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>agnosticmantis</name>
             <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArXiv允许在线复制ML模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30649371</id>
-        <link href="https://news.ycombinator.com/item?id=30649371"/>
-        <updated>2022-03-12T06:16:08.000Z</updated>
-        <summary type="html"><![CDATA[ArXiv allows replicating ML Models online]]></summary>
-        <author>
-            <name>NmAmDa</name>
-            <uri>https://news.ycombinator.com/user?id=NmAmDa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穿透云层的盔甲--谷歌云平台WAF中的8KB绕道]]></title>
-        <id>https://news.ycombinator.com/item?id=30649328</id>
-        <link href="https://news.ycombinator.com/item?id=30649328"/>
-        <updated>2022-03-12T06:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Piercing the Cloud Armor – The 8KB Bypass in Google Cloud Platform WAF]]></summary>
-        <author>
-            <name>robin_reala</name>
-            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上最长的汽车，超过100英尺，恢复了昔日的荣光]]></title>
-        <id>https://news.ycombinator.com/item?id=30649327</id>
-        <link href="https://news.ycombinator.com/item?id=30649327"/>
-        <updated>2022-03-12T06:05:22.000Z</updated>
-        <summary type="html"><![CDATA[World’s longest car, over 100 ft, restored to its former glory]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰。建立垃圾邮件网站，以接触数百万俄罗斯人]]></title>
-        <id>https://news.ycombinator.com/item?id=30649269</id>
-        <link href="https://news.ycombinator.com/item?id=30649269"/>
-        <updated>2022-03-12T05:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine: Spam website set up to reach millions of Russians]]></summary>
-        <author>
-            <name>jw1224</name>
-            <uri>https://news.ycombinator.com/user?id=jw1224</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNN的杰夫-扎克和他的亲信们操纵了新闻]]></title>
-        <id>https://news.ycombinator.com/item?id=30649266</id>
-        <link href="https://news.ycombinator.com/item?id=30649266"/>
-        <updated>2022-03-12T05:47:50.000Z</updated>
-        <summary type="html"><![CDATA[CNN's Jeff Zucker and His Cronies Manipulated the News]]></summary>
-        <author>
-            <name>LittleMoveBig</name>
-            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将电动打字机与现代计算机连接起来]]></title>
-        <id>https://news.ycombinator.com/item?id=30649257</id>
-        <link href="https://news.ycombinator.com/item?id=30649257"/>
-        <updated>2022-03-12T05:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Connecting an electric typewriter to a modern computer]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT工作者离职到另一家公司的原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30649252</id>
-        <link href="https://news.ycombinator.com/item?id=30649252"/>
-        <updated>2022-03-12T05:45:01.000Z</updated>
-        <summary type="html"><![CDATA[The reason why IT workers leave to another company]]></summary>
-        <author>
-            <name>tomerbd</name>
-            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯人利用塞尔维亚的漏洞来避免欧盟的飞行禁令]]></title>
-        <id>https://news.ycombinator.com/item?id=30649250</id>
-        <link href="https://news.ycombinator.com/item?id=30649250"/>
-        <updated>2022-03-12T05:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Russians using Serbian loophole to avoid EU flights ban]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
         </author>
     </entry>
 </feed>
