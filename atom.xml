@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T14:39:36.824Z</updated>
+    <updated>2022-03-14T14:52:57.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三个CISO走进一家创业公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30672761</id>
+        <link href="https://news.ycombinator.com/item?id=30672761"/>
+        <updated>2022-03-14T14:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Three CISOs Walk into a Startup]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名微软员工辞职。然后，该公司完全打破了规则]]></title>
+        <id>https://news.ycombinator.com/item?id=30672379</id>
+        <link href="https://news.ycombinator.com/item?id=30672379"/>
+        <updated>2022-03-14T13:47:09.000Z</updated>
+        <summary type="html"><![CDATA[A Microsoft employee quit. Then the company completely broke the rules]]></summary>
+        <author>
+            <name>orangebanana1</name>
+            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京签署法案。租用的飞机属于俄罗斯航空公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30672268</id>
+        <link href="https://news.ycombinator.com/item?id=30672268"/>
+        <updated>2022-03-14T13:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Putin Signs Bill: Leased Aircraft Belong to Russian Airlines]]></summary>
+        <author>
+            <name>velmu</name>
+            <uri>https://news.ycombinator.com/user?id=velmu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启动HN：活碳（YC W20）--能捕获和储存更多二氧化碳的树木]]></title>
         <id>https://news.ycombinator.com/item?id=30672841</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Turing_Machine</name>
             <uri>https://news.ycombinator.com/user?id=Turing_Machine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moderna将为世界上15种最严重的疾病开发mRNA疫苗]]></title>
-        <id>https://news.ycombinator.com/item?id=30649043</id>
-        <link href="https://news.ycombinator.com/item?id=30649043"/>
-        <updated>2022-03-12T04:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Moderna Will Develop mRNA Vaccines for 15 of the World’s Worst Diseases]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[600多名滞留在乌克兰的印度学生利用社交媒体回国]]></title>
-        <id>https://news.ycombinator.com/item?id=30649036</id>
-        <link href="https://news.ycombinator.com/item?id=30649036"/>
-        <updated>2022-03-12T04:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Over 600 Indian students stranded in Ukraine used social media to make it home]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mgitstatus - 检查你所有的 Git 仓库的状态]]></title>
-        <id>https://news.ycombinator.com/item?id=30649015</id>
-        <link href="https://news.ycombinator.com/item?id=30649015"/>
-        <updated>2022-03-12T04:32:02.000Z</updated>
-        <summary type="html"><![CDATA[mgitstatus – Check the status of all your Git repos]]></summary>
-        <author>
-            <name>pqvst</name>
-            <uri>https://news.ycombinator.com/user?id=pqvst</uri>
         </author>
     </entry>
 </feed>
