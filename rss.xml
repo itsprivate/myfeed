@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纳斯达克不能处理超过32位无符号int的价格]]></title>
+            <link>https://news.ycombinator.com/item?id=30669731</link>
+            <guid>https://news.ycombinator.com/item?id=30669731</guid>
+            <pubDate>Mon, 14 Mar 2022 08:20:53 GMT</pubDate>
+            <description><![CDATA[Nasdaq can't handle prices that exceed 32 bit unsigned int]]></description>
+        </item>
         <item>
             <title><![CDATA[Offpunk 1.0: 离线双子座/Gopher/网络浏览]]></title>
             <link>https://news.ycombinator.com/item?id=30669799</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30648255</guid>
             <pubDate>Sat, 12 Mar 2022 01:52:20 GMT</pubDate>
             <description><![CDATA[The Timeline of Fortran]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有145年历史的交易所停止交易，因为价格上涨了一倍多]]></title>
-            <link>https://news.ycombinator.com/item?id=30648247</link>
-            <guid>https://news.ycombinator.com/item?id=30648247</guid>
-            <pubDate>Sat, 12 Mar 2022 01:50:34 GMT</pubDate>
-            <description><![CDATA[145-year-old exchange halts trading as price more than doubles]]></description>
         </item>
     </channel>
 </rss>

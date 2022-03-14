@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T09:32:56.745Z</updated>
+    <updated>2022-03-14T09:41:33.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[納斯達克不能處理超過32位無符號int的價格]]></title>
+        <id>https://news.ycombinator.com/item?id=30669731</id>
+        <link href="https://news.ycombinator.com/item?id=30669731"/>
+        <updated>2022-03-14T08:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq can't handle prices that exceed 32 bit unsigned int]]></summary>
+        <author>
+            <name>carlsborg</name>
+            <uri>https://news.ycombinator.com/user?id=carlsborg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Offpunk 1.0: 離線雙子座/Gopher/網絡瀏覽]]></title>
         <id>https://news.ycombinator.com/item?id=30669799</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Bostonian</name>
             <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有145年曆史的交易所停止交易，因為價格上漲了一倍多]]></title>
-        <id>https://news.ycombinator.com/item?id=30648247</id>
-        <link href="https://news.ycombinator.com/item?id=30648247"/>
-        <updated>2022-03-12T01:50:34.000Z</updated>
-        <summary type="html"><![CDATA[145-year-old exchange halts trading as price more than doubles]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
