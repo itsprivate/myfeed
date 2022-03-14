@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T08:36:49.038Z</updated>
+    <updated>2022-03-14T08:52:29.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沙特刚刚在一天内斩首81人]]></title>
+        <id>https://news.ycombinator.com/item?id=30669802</id>
+        <link href="https://news.ycombinator.com/item?id=30669802"/>
+        <updated>2022-03-14T08:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Saudi Arabia Just Beheaded 81 People in One Day]]></summary>
+        <author>
+            <name>chewz</name>
+            <uri>https://news.ycombinator.com/user?id=chewz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士康因Covid封锁而停止了iPhone深圳工厂的生产]]></title>
+        <id>https://news.ycombinator.com/item?id=30669450</id>
+        <link href="https://news.ycombinator.com/item?id=30669450"/>
+        <updated>2022-03-14T07:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Foxconn Halts iPhone Shenzhen Site Due to Covid Lockdown]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将你保存的文章送到Kindle上]]></title>
         <id>https://news.ycombinator.com/item?id=30669487</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>shamoo</name>
             <uri>https://news.ycombinator.com/user?id=shamoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个没有无线功能的无线耳机充电器]]></title>
-        <id>https://news.ycombinator.com/item?id=30648193</id>
-        <link href="https://news.ycombinator.com/item?id=30648193"/>
-        <updated>2022-03-12T01:39:52.000Z</updated>
-        <summary type="html"><![CDATA[A Wireless Headphone Charger Without the Wireless]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情报显示俄罗斯在乌克兰发动化学袭击的风险加大]]></title>
-        <id>https://news.ycombinator.com/item?id=30648173</id>
-        <link href="https://news.ycombinator.com/item?id=30648173"/>
-        <updated>2022-03-12T01:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Intelligence points to heightened risk of Russian chemical attack in Ukraine]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
         </author>
     </entry>
 </feed>
