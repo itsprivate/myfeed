@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T16:50:22.697Z</updated>
+    <updated>2022-03-14T17:04:53.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊因犯罪而将员工迁出西雅图市中心的办公室]]></title>
+        <id>https://news.ycombinator.com/item?id=30674661</id>
+        <link href="https://news.ycombinator.com/item?id=30674661"/>
+        <updated>2022-03-14T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon moves employees out of downtown Seattle office due to crime]]></summary>
+        <author>
+            <name>ghostoftiber</name>
+            <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RP2040厄运]]></title>
+        <id>https://news.ycombinator.com/item?id=30672527</id>
+        <link href="https://news.ycombinator.com/item?id=30672527"/>
+        <updated>2022-03-14T13:59:45.000Z</updated>
+        <summary type="html"><![CDATA[RP2040 Doom]]></summary>
+        <author>
+            <name>xkriva11</name>
+            <uri>https://news.ycombinator.com/user?id=xkriva11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专业 "已经失去了所有的意义，而苹果也知道这一点]]></title>
         <id>https://news.ycombinator.com/item?id=30674438</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gscott</name>
             <uri>https://news.ycombinator.com/user?id=gscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语音驱动开发入门]]></title>
-        <id>https://news.ycombinator.com/item?id=30649401</id>
-        <link href="https://news.ycombinator.com/item?id=30649401"/>
-        <updated>2022-03-12T06:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Getting Started with Voice Driven Development]]></summary>
-        <author>
-            <name>birriel</name>
-            <uri>https://news.ycombinator.com/user?id=birriel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为业余软件开发的科学]]></title>
-        <id>https://news.ycombinator.com/item?id=30649374</id>
-        <link href="https://news.ycombinator.com/item?id=30649374"/>
-        <updated>2022-03-12T06:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Science as Amateur Software Development]]></summary>
-        <author>
-            <name>agnosticmantis</name>
-            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
         </author>
     </entry>
 </feed>
