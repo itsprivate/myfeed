@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T13:52:01.623Z</updated>
+    <updated>2022-03-14T14:13:06.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司。M1超標的意義和後果]]></title>
+        <id>https://news.ycombinator.com/item?id=30672500</id>
+        <link href="https://news.ycombinator.com/item?id=30672500"/>
+        <updated>2022-03-14T13:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Apple: M1 Ultra Meanings and Consequences]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國的間諜是否滲透到了美國的校園？]]></title>
+        <id>https://news.ycombinator.com/item?id=30672367</id>
+        <link href="https://news.ycombinator.com/item?id=30672367"/>
+        <updated>2022-03-14T13:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於視覺特效和運動圖像的開源合成軟件]]></title>
+        <id>https://news.ycombinator.com/item?id=30671847</id>
+        <link href="https://news.ycombinator.com/item?id=30671847"/>
+        <updated>2022-03-14T12:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Compositing Software for VFX and Motion Graphics]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的終局：戰爭會如何發展？]]></title>
+        <id>https://news.ycombinator.com/item?id=30671238</id>
+        <link href="https://news.ycombinator.com/item?id=30671238"/>
+        <updated>2022-03-14T11:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Endgame in Ukraine: how could the war play out?]]></summary>
+        <author>
+            <name>mizzao</name>
+            <uri>https://news.ycombinator.com/user?id=mizzao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN關於俄烏衝突的帖子]]></title>
         <id>https://news.ycombinator.com/item?id=30672016</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>buitreVirtual</name>
             <uri>https://news.ycombinator.com/user?id=buitreVirtual</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表徵流行的開源Python項目中的單語句Bug]]></title>
-        <id>https://news.ycombinator.com/item?id=30648940</id>
-        <link href="https://news.ycombinator.com/item?id=30648940"/>
-        <updated>2022-03-12T04:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Characterizing Single-Statement Bugs in Popular Open-Source Python Projects]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Iifes重寫文本]]></title>
-        <id>https://news.ycombinator.com/item?id=30648931</id>
-        <link href="https://news.ycombinator.com/item?id=30648931"/>
-        <updated>2022-03-12T04:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Text Rewriting with Iifes]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoverDrop: 確保舉報人的初步聯繫]]></title>
-        <id>https://news.ycombinator.com/item?id=30648916</id>
-        <link href="https://news.ycombinator.com/item?id=30648916"/>
-        <updated>2022-03-12T04:07:10.000Z</updated>
-        <summary type="html"><![CDATA[CoverDrop: Securing Initial Contact for Whistleblowers]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗拉基米爾-普京和第三次世界大戰的風險--喬治-索羅斯專欄文章]]></title>
-        <id>https://news.ycombinator.com/item?id=30648879</id>
-        <link href="https://news.ycombinator.com/item?id=30648879"/>
-        <updated>2022-03-12T03:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Vladimir Putin and the Risk of World War Three – George Soros Op Ed]]></summary>
-        <author>
-            <name>gamechangr</name>
-            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
         </author>
     </entry>
 </feed>
