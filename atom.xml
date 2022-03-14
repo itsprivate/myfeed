@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T12:17:24.624Z</updated>
+    <updated>2022-03-14T12:51:30.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我更喜欢Makefiles而不是Package.json脚本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30671572</id>
+        <link href="https://news.ycombinator.com/item?id=30671572"/>
+        <updated>2022-03-14T12:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Why I Prefer Makefiles over Package.json Scripts]]></summary>
+        <author>
+            <name>ducaale</name>
+            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度正在酝酿与俄罗斯贸易的卢比-卢布支付系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30671437</id>
+        <link href="https://news.ycombinator.com/item?id=30671437"/>
+        <updated>2022-03-14T12:09:57.000Z</updated>
+        <summary type="html"><![CDATA[India Is Mulling Rupee-Ruble Payments System for Trade with Russia]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDP-11简介，有史以来最具影响力的微型计算机]]></title>
+        <id>https://news.ycombinator.com/item?id=30671391</id>
+        <link href="https://news.ycombinator.com/item?id=30671391"/>
+        <updated>2022-03-14T12:03:10.000Z</updated>
+        <summary type="html"><![CDATA[A brief tour of the PDP-11, the most influential minicomputer of all time]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1991年出生的美国人很特别]]></title>
+        <id>https://news.ycombinator.com/item?id=30671143</id>
+        <link href="https://news.ycombinator.com/item?id=30671143"/>
+        <updated>2022-03-14T11:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Americans born in 1991 are special]]></summary>
+        <author>
+            <name>KoftaBob</name>
+            <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扩大编译器对_FORTIFY_SOURCE中缓冲区溢出的检查（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30671043</id>
+        <link href="https://news.ycombinator.com/item?id=30671043"/>
+        <updated>2022-03-14T11:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Broadening compiler checks for buffer overflows in _FORTIFY_SOURCE (2021)]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南希-格雷斯罗马太空望远镜]]></title>
         <id>https://news.ycombinator.com/item?id=30671169</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>html5web</name>
             <uri>https://news.ycombinator.com/user?id=html5web</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5亿美元的大流行病刺激资金的去向]]></title>
-        <id>https://news.ycombinator.com/item?id=30648728</id>
-        <link href="https://news.ycombinator.com/item?id=30648728"/>
-        <updated>2022-03-12T03:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Where $5T in Pandemic Stimulus Money Went]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordrl (Roguelike Wordle)]]></title>
-        <id>https://news.ycombinator.com/item?id=30648709</id>
-        <link href="https://news.ycombinator.com/item?id=30648709"/>
-        <updated>2022-03-12T03:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Wordrl (Roguelike Wordle)]]></summary>
-        <author>
-            <name>zeebeecee</name>
-            <uri>https://news.ycombinator.com/user?id=zeebeecee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克在推特上发表关于比特币创造者中本聪的阴谋论]]></title>
-        <id>https://news.ycombinator.com/item?id=30648679</id>
-        <link href="https://news.ycombinator.com/item?id=30648679"/>
-        <updated>2022-03-12T03:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Tweets Conspiracy Theory about Bitcoin Creator Satoshi Nakamoto]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘑菇控制合成器。玩转冬虫夏草森林（视频）]]></title>
-        <id>https://news.ycombinator.com/item?id=30648649</id>
-        <link href="https://news.ycombinator.com/item?id=30648649"/>
-        <updated>2022-03-12T03:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Mushrooms Controlling Synths: Playing a Forest of Cordyceps (video)]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情报--俄罗斯试图干扰北约飞机的雷达]]></title>
-        <id>https://news.ycombinator.com/item?id=30648569</id>
-        <link href="https://news.ycombinator.com/item?id=30648569"/>
-        <updated>2022-03-12T02:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Intelligence – Russia Trying to Jam NATO Plane's Radar]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
