@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的CS之路和對CS教育的看法]]></title>
+            <link>https://news.ycombinator.com/item?id=30668314</link>
+            <guid>https://news.ycombinator.com/item?id=30668314</guid>
+            <pubDate>Mon, 14 Mar 2022 03:43:21 GMT</pubDate>
+            <description><![CDATA[My path to CS and opinions on CS Education]]></description>
+        </item>
+        <item>
+            <title><![CDATA[烏克蘭已開始在戰爭中使用Clearview AI的面部識別技術]]></title>
+            <link>https://news.ycombinator.com/item?id=30668250</link>
+            <guid>https://news.ycombinator.com/item?id=30668250</guid>
+            <pubDate>Mon, 14 Mar 2022 03:30:23 GMT</pubDate>
+            <description><![CDATA[Ukraine has started using Clearview AI’s facial recognition during war]]></description>
+        </item>
         <item>
             <title><![CDATA[用shot-scraper從命令行抓取網頁]]></title>
             <link>https://news.ycombinator.com/item?id=30667588</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647671</guid>
             <pubDate>Sat, 12 Mar 2022 00:05:13 GMT</pubDate>
             <description><![CDATA[Compelling data with a wearable health device]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美達公司工人哀嘆失去了免費洗衣服務]]></title>
-            <link>https://news.ycombinator.com/item?id=30647615</link>
-            <guid>https://news.ycombinator.com/item?id=30647615</guid>
-            <pubDate>Fri, 11 Mar 2022 23:56:30 GMT</pubDate>
-            <description><![CDATA[Meta worker bemoans loss of free laundry service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國國家安全局正在調查俄羅斯入侵期間對衛星互聯網的破壞情況]]></title>
-            <link>https://news.ycombinator.com/item?id=30647607</link>
-            <guid>https://news.ycombinator.com/item?id=30647607</guid>
-            <pubDate>Fri, 11 Mar 2022 23:55:40 GMT</pubDate>
-            <description><![CDATA[The NSA is probing the sabotage of satellite internet during Russia's invasion]]></description>
         </item>
     </channel>
 </rss>

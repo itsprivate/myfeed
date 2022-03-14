@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-14T03:43:48.200Z</updated>
+    <updated>2022-03-14T03:54:17.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的CS之路和對CS教育的看法]]></title>
+        <id>https://news.ycombinator.com/item?id=30668314</id>
+        <link href="https://news.ycombinator.com/item?id=30668314"/>
+        <updated>2022-03-14T03:43:21.000Z</updated>
+        <summary type="html"><![CDATA[My path to CS and opinions on CS Education]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭已開始在戰爭中使用Clearview AI的面部識別技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30668250</id>
+        <link href="https://news.ycombinator.com/item?id=30668250"/>
+        <updated>2022-03-14T03:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has started using Clearview AI’s facial recognition during war]]></summary>
+        <author>
+            <name>pgodzin</name>
+            <uri>https://news.ycombinator.com/user?id=pgodzin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用shot-scraper從命令行抓取網頁]]></title>
         <id>https://news.ycombinator.com/item?id=30667588</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>GillyYildirim</name>
             <uri>https://news.ycombinator.com/user?id=GillyYildirim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司工人哀嘆失去了免費洗衣服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30647615</id>
-        <link href="https://news.ycombinator.com/item?id=30647615"/>
-        <updated>2022-03-11T23:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Meta worker bemoans loss of free laundry service]]></summary>
-        <author>
-            <name>jeffthechimp</name>
-            <uri>https://news.ycombinator.com/user?id=jeffthechimp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國家安全局正在調查俄羅斯入侵期間對衛星互聯網的破壞情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30647607</id>
-        <link href="https://news.ycombinator.com/item?id=30647607"/>
-        <updated>2022-03-11T23:55:40.000Z</updated>
-        <summary type="html"><![CDATA[The NSA is probing the sabotage of satellite internet during Russia's invasion]]></summary>
-        <author>
-            <name>re_re</name>
-            <uri>https://news.ycombinator.com/user?id=re_re</uri>
         </author>
     </entry>
 </feed>
