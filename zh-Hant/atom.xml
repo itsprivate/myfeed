@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T05:12:29.340Z</updated>
+    <updated>2022-03-15T05:29:45.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SVG SMIL動畫編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=30681771</id>
+        <link href="https://news.ycombinator.com/item?id=30681771"/>
+        <updated>2022-03-15T04:47:05.000Z</updated>
+        <summary type="html"><![CDATA[SVG SMIL Animation Editor]]></summary>
+        <author>
+            <name>exzerpt</name>
+            <uri>https://news.ycombinator.com/user?id=exzerpt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約翰-米爾斯海默談為什麼西方要對烏克蘭危機負主要責任]]></title>
         <id>https://news.ycombinator.com/item?id=30681665</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司的NPE團隊推出了一個新的任務應用程序Move，用於小組組織和todos。]]></title>
-        <id>https://news.ycombinator.com/item?id=30652152</id>
-        <link href="https://news.ycombinator.com/item?id=30652152"/>
-        <updated>2022-03-12T15:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Meta’s NPE Team launches a new tasks app, Move, for group organization and todos]]></summary>
-        <author>
-            <name>fhrow4484</name>
-            <uri>https://news.ycombinator.com/user?id=fhrow4484</uri>
         </author>
     </entry>
 </feed>
