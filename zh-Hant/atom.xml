@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T14:52:58.093Z</updated>
+    <updated>2022-03-15T15:14:53.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Golang中建立一個Backconnect Proxy]]></title>
+        <id>https://news.ycombinator.com/item?id=30686063</id>
+        <link href="https://news.ycombinator.com/item?id=30686063"/>
+        <updated>2022-03-15T14:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Building a Backconnect Proxy in Golang]]></summary>
+        <author>
+            <name>LegionDev</name>
+            <uri>https://news.ycombinator.com/user?id=LegionDev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Vimmerse (YC W22) - 創建和播放3D視頻的平臺和SDKs]]></title>
+        <id>https://news.ycombinator.com/item?id=30686027</id>
+        <link href="https://news.ycombinator.com/item?id=30686027"/>
+        <updated>2022-03-15T14:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Vimmerse (YC W22) – Platform and SDKs to create and play 3D video]]></summary>
+        <author>
+            <name>jillboyce</name>
+            <uri>https://news.ycombinator.com/user?id=jillboyce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：方法金融（YC S19）--將債務償還嵌入你的應用程序的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30685921</id>
+        <link href="https://news.ycombinator.com/item?id=30685921"/>
+        <updated>2022-03-15T14:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app]]></summary>
+        <author>
+            <name>joseb</name>
+            <uri>https://news.ycombinator.com/user?id=joseb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙特考慮接受人民幣而不是美元來銷售中國石油]]></title>
+        <id>https://news.ycombinator.com/item?id=30685883</id>
+        <link href="https://news.ycombinator.com/item?id=30685883"/>
+        <updated>2022-03-15T14:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales]]></summary>
+        <author>
+            <name>mrleiter</name>
+            <uri>https://news.ycombinator.com/user?id=mrleiter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Marina Ovsyannikova "的虛假推特賬戶--以及如何識別此類假貨]]></title>
+        <id>https://news.ycombinator.com/item?id=30685858</id>
+        <link href="https://news.ycombinator.com/item?id=30685858"/>
+        <updated>2022-03-15T14:36:19.000Z</updated>
+        <summary type="html"><![CDATA[The fake Twitter account of “Marina Ovsyannikova” – and how to spot such fakes]]></summary>
+        <author>
+            <name>esquivalience</name>
+            <uri>https://news.ycombinator.com/user?id=esquivalience</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特爾宣佈在歐盟投資超過330億歐元用於研發和生產]]></title>
+        <id>https://news.ycombinator.com/item?id=30685084</id>
+        <link href="https://news.ycombinator.com/item?id=30685084"/>
+        <updated>2022-03-15T13:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Intel Announces Investment of Over €33B for R&D and Manufacturing in EU]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六個月來，薩爾瓦多的比特幣賭博正在崩潰]]></title>
+        <id>https://news.ycombinator.com/item?id=30684187</id>
+        <link href="https://news.ycombinator.com/item?id=30684187"/>
+        <updated>2022-03-15T11:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Six months in, El Salvador’s Bitcoin gamble is crumbling]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜因西雅圖市中心的暴力事件失控而重新安置工人]]></title>
         <id>https://news.ycombinator.com/item?id=30685822</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100秒內完成COBOL]]></title>
-        <id>https://news.ycombinator.com/item?id=30655131</id>
-        <link href="https://news.ycombinator.com/item?id=30655131"/>
-        <updated>2022-03-12T21:38:50.000Z</updated>
-        <summary type="html"><![CDATA[COBOL in 100 Seconds]]></summary>
-        <author>
-            <name>ohjeez</name>
-            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京對美國科技巨頭的戰前舉措]]></title>
-        <id>https://news.ycombinator.com/item?id=30654833</id>
-        <link href="https://news.ycombinator.com/item?id=30654833"/>
-        <updated>2022-03-12T21:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s pre-war moves against U.S. tech giants]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibSM64的Blender客戶端]]></title>
-        <id>https://news.ycombinator.com/item?id=30656457</id>
-        <link href="https://news.ycombinator.com/item?id=30656457"/>
-        <updated>2022-03-13T00:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Blender Client for LibSM64]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多枚火箭彈落在伊拉克北部的埃爾比勒市]]></title>
-        <id>https://news.ycombinator.com/item?id=30656340</id>
-        <link href="https://news.ycombinator.com/item?id=30656340"/>
-        <updated>2022-03-12T23:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Multiple rockets fall in Erbil, northern Iraq]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[導彈瞄準美國駐伊拉克埃爾比勒的領事館]]></title>
-        <id>https://news.ycombinator.com/item?id=30656124</id>
-        <link href="https://news.ycombinator.com/item?id=30656124"/>
-        <updated>2022-03-12T23:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Missiles target US consulate in Erbil, Iraq]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被關押的納瓦爾尼呼籲週日在俄羅斯各地舉行反戰抗議活動]]></title>
-        <id>https://news.ycombinator.com/item?id=30655961</id>
-        <link href="https://news.ycombinator.com/item?id=30655961"/>
-        <updated>2022-03-12T23:15:14.000Z</updated>
-        <summary type="html"><![CDATA[Jailed Navalny calls for anti-war protests across Russia on Sunday]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯在入侵烏克蘭期間關閉了自由媒體。冒著坐牢的危險說真話]]></title>
-        <id>https://news.ycombinator.com/item?id=30655778</id>
-        <link href="https://news.ycombinator.com/item?id=30655778"/>
-        <updated>2022-03-12T22:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Russia Shut Down Free Press During Ukraine Invasion. Risk Jail to Tell the Truth]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>
