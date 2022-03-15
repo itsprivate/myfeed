@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T18:38:31.677Z</updated>
+    <updated>2022-03-15T18:54:44.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[参议院一致投票通过法案，使夏令时成为永久性时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30689221</id>
+        <link href="https://news.ycombinator.com/item?id=30689221"/>
+        <updated>2022-03-15T18:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Senate votes unanimously to pass bill making Daylight Savings Time permanent]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国参议院一致投票决定将夏令时永久化]]></title>
+        <id>https://news.ycombinator.com/item?id=30689043</id>
+        <link href="https://news.ycombinator.com/item?id=30689043"/>
+        <updated>2022-03-15T18:29:09.000Z</updated>
+        <summary type="html"><![CDATA[US Senate unanimously votes to make daylight savings time permanent]]></summary>
+        <author>
+            <name>enraged_camel</name>
+            <uri>https://news.ycombinator.com/user?id=enraged_camel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100多个组织呼吁拜登赦免史蒂芬-唐兹格]]></title>
+        <id>https://news.ycombinator.com/item?id=30689032</id>
+        <link href="https://news.ycombinator.com/item?id=30689032"/>
+        <updated>2022-03-15T18:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Over 100 organizations call for Biden to pardon Steven Donziger]]></summary>
+        <author>
+            <name>34679</name>
+            <uri>https://news.ycombinator.com/user?id=34679</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功能性的未来。与Tim McNamara一起现场编码Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30688447</id>
+        <link href="https://news.ycombinator.com/item?id=30688447"/>
+        <updated>2022-03-15T17:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Functional Futures: Live-Coding Rust with Tim McNamara]]></summary>
+        <author>
+            <name>aroccoli</name>
+            <uri>https://news.ycombinator.com/user?id=aroccoli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DynamoDB关键分区策略]]></title>
         <id>https://news.ycombinator.com/item?id=30688813</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>quantum5</name>
             <uri>https://news.ycombinator.com/user?id=quantum5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manim - 用于创建数学动画的Python库]]></title>
-        <id>https://news.ycombinator.com/item?id=30658390</id>
-        <link href="https://news.ycombinator.com/item?id=30658390"/>
-        <updated>2022-03-13T05:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Manim – Python library for creating mathematical animations]]></summary>
-        <author>
-            <name>sytelus</name>
-            <uri>https://news.ycombinator.com/user?id=sytelus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过记录CLI工具的帮助输出来跟踪其变化]]></title>
-        <id>https://news.ycombinator.com/item?id=30658310</id>
-        <link href="https://news.ycombinator.com/item?id=30658310"/>
-        <updated>2022-03-13T05:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Track changes to CLI tools by recording their help output]]></summary>
-        <author>
-            <name>appwiz</name>
-            <uri>https://news.ycombinator.com/user?id=appwiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯的抗议活动日益增多，他们因持有空白标语而被逮捕]]></title>
-        <id>https://news.ycombinator.com/item?id=30659712</id>
-        <link href="https://news.ycombinator.com/item?id=30659712"/>
-        <updated>2022-03-13T09:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Protests grow in Russia where they are being arrested for holding blank signs]]></summary>
-        <author>
-            <name>cuu508</name>
-            <uri>https://news.ycombinator.com/user?id=cuu508</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[储存UTC不是银弹]]></title>
-        <id>https://news.ycombinator.com/item?id=30659164</id>
-        <link href="https://news.ycombinator.com/item?id=30659164"/>
-        <updated>2022-03-13T08:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Storing UTC is not a silver bullet]]></summary>
-        <author>
-            <name>nickkell</name>
-            <uri>https://news.ycombinator.com/user?id=nickkell</uri>
         </author>
     </entry>
 </feed>
