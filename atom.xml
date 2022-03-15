@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T07:30:35.555Z</updated>
+    <updated>2022-03-15T07:38:13.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vercel免费计划将于2022年5月废止]]></title>
+        <id>https://news.ycombinator.com/item?id=30680645</id>
+        <link href="https://news.ycombinator.com/item?id=30680645"/>
+        <updated>2022-03-15T01:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Vercel free plan will be deprecated in May 2022]]></summary>
+        <author>
+            <name>thangngoc89</name>
+            <uri>https://news.ycombinator.com/user?id=thangngoc89</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京已经部署了一种化学武器。在索尔兹伯里]]></title>
         <id>https://news.ycombinator.com/item?id=30682466</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古罗马的物价是多少]]></title>
-        <id>https://news.ycombinator.com/item?id=30653366</id>
-        <link href="https://news.ycombinator.com/item?id=30653366"/>
-        <updated>2022-03-12T18:08:47.000Z</updated>
-        <summary type="html"><![CDATA[What things cost in Ancient Rome]]></summary>
-        <author>
-            <name>leonry</name>
-            <uri>https://news.ycombinator.com/user?id=leonry</uri>
         </author>
     </entry>
 </feed>
