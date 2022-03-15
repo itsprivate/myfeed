@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T19:36:57.191Z</updated>
+    <updated>2022-03-15T19:52:22.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[社交媒體向遺忘的緩慢行進]]></title>
+        <id>https://news.ycombinator.com/item?id=30690228</id>
+        <link href="https://news.ycombinator.com/item?id=30690228"/>
+        <updated>2022-03-15T19:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Social Media's Slow March to Oblivion]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織和擴大一個有效的數據團隊]]></title>
+        <id>https://news.ycombinator.com/item?id=30689987</id>
+        <link href="https://news.ycombinator.com/item?id=30689987"/>
+        <updated>2022-03-15T19:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Organizing and scaling an effective data team]]></summary>
+        <author>
+            <name>rfdearborn</name>
+            <uri>https://news.ycombinator.com/user?id=rfdearborn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3的新功能：編輯和插入]]></title>
+        <id>https://news.ycombinator.com/item?id=30689902</id>
+        <link href="https://news.ycombinator.com/item?id=30689902"/>
+        <updated>2022-03-15T19:16:51.000Z</updated>
+        <summary type="html"><![CDATA[New Capabilities for GPT-3: Edit and Insert]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌終於宣佈為Chrome OS提供Steam服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30689481</id>
+        <link href="https://news.ycombinator.com/item?id=30689481"/>
+        <updated>2022-03-15T18:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Google Finally Announces Steam for Chrome OS]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的VPN中的HTTPS：Caddy現在使用Tailscale的TLS證書]]></title>
+        <id>https://news.ycombinator.com/item?id=30688989</id>
+        <link href="https://news.ycombinator.com/item?id=30688989"/>
+        <updated>2022-03-15T18:25:53.000Z</updated>
+        <summary type="html"><![CDATA[HTTPS in your VPN: Caddy now uses TLS certificates from Tailscale]]></summary>
+        <author>
+            <name>mholt</name>
+            <uri>https://news.ycombinator.com/user?id=mholt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rpath，或者為什麼ld在NixOS上不工作]]></title>
         <id>https://news.ycombinator.com/item?id=30688815</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>ArtWomb</name>
             <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球流媒體的繁榮正在造成翻譯人員的短缺 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30660971</id>
-        <link href="https://news.ycombinator.com/item?id=30660971"/>
-        <updated>2022-03-13T13:16:35.000Z</updated>
-        <summary type="html"><![CDATA[The global streaming boom is creating a translator shortage (2021)]]></summary>
-        <author>
-            <name>donohoe</name>
-            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新編：數學課上的惡作劇（所有惡作劇的最佳部分）[視頻］]]></title>
-        <id>https://news.ycombinator.com/item?id=30660643</id>
-        <link href="https://news.ycombinator.com/item?id=30660643"/>
-        <updated>2022-03-13T12:27:19.000Z</updated>
-        <summary type="html"><![CDATA[New COMPILATION: Math Class Pranks (Best parts of all the pranks) [video]]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為了拯救C，我們必須拯救ABI]]></title>
-        <id>https://news.ycombinator.com/item?id=30660528</id>
-        <link href="https://news.ycombinator.com/item?id=30660528"/>
-        <updated>2022-03-13T12:07:57.000Z</updated>
-        <summary type="html"><![CDATA[To Save C, We Must Save ABI]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes的未來]]></title>
-        <id>https://news.ycombinator.com/item?id=30660534</id>
-        <link href="https://news.ycombinator.com/item?id=30660534"/>
-        <updated>2022-03-13T12:09:05.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Kubernetes]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狄奧索斯 用於在Rust中構建跨平臺用戶界面的類React庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30659833</id>
-        <link href="https://news.ycombinator.com/item?id=30659833"/>
-        <updated>2022-03-13T10:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Dioxus: React-like library for building cross-platform user interfaces in Rust]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>

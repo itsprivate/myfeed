@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 19:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[社交媒體向遺忘的緩慢行進]]></title>
+            <link>https://news.ycombinator.com/item?id=30690228</link>
+            <guid>https://news.ycombinator.com/item?id=30690228</guid>
+            <pubDate>Tue, 15 Mar 2022 19:32:05 GMT</pubDate>
+            <description><![CDATA[Social Media's Slow March to Oblivion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[組織和擴大一個有效的數據團隊]]></title>
+            <link>https://news.ycombinator.com/item?id=30689987</link>
+            <guid>https://news.ycombinator.com/item?id=30689987</guid>
+            <pubDate>Tue, 15 Mar 2022 19:21:25 GMT</pubDate>
+            <description><![CDATA[Organizing and scaling an effective data team]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GPT-3的新功能：編輯和插入]]></title>
+            <link>https://news.ycombinator.com/item?id=30689902</link>
+            <guid>https://news.ycombinator.com/item?id=30689902</guid>
+            <pubDate>Tue, 15 Mar 2022 19:16:51 GMT</pubDate>
+            <description><![CDATA[New Capabilities for GPT-3: Edit and Insert]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌終於宣佈為Chrome OS提供Steam服務]]></title>
+            <link>https://news.ycombinator.com/item?id=30689481</link>
+            <guid>https://news.ycombinator.com/item?id=30689481</guid>
+            <pubDate>Tue, 15 Mar 2022 18:57:43 GMT</pubDate>
+            <description><![CDATA[Google Finally Announces Steam for Chrome OS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的VPN中的HTTPS：Caddy現在使用Tailscale的TLS證書]]></title>
+            <link>https://news.ycombinator.com/item?id=30688989</link>
+            <guid>https://news.ycombinator.com/item?id=30688989</guid>
+            <pubDate>Tue, 15 Mar 2022 18:25:53 GMT</pubDate>
+            <description><![CDATA[HTTPS in your VPN: Caddy now uses TLS certificates from Tailscale]]></description>
+        </item>
         <item>
             <title><![CDATA[Rpath，或者為什麼ld在NixOS上不工作]]></title>
             <link>https://news.ycombinator.com/item?id=30688815</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30660948</guid>
             <pubDate>Sun, 13 Mar 2022 13:13:30 GMT</pubDate>
             <description><![CDATA[Qgis2threejs: Visualize DEM Maps and 3D Vector Data on Web]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球流媒體的繁榮正在造成翻譯人員的短缺 (2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=30660971</link>
-            <guid>https://news.ycombinator.com/item?id=30660971</guid>
-            <pubDate>Sun, 13 Mar 2022 13:16:35 GMT</pubDate>
-            <description><![CDATA[The global streaming boom is creating a translator shortage (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新編：數學課上的惡作劇（所有惡作劇的最佳部分）[視頻］]]></title>
-            <link>https://news.ycombinator.com/item?id=30660643</link>
-            <guid>https://news.ycombinator.com/item?id=30660643</guid>
-            <pubDate>Sun, 13 Mar 2022 12:27:19 GMT</pubDate>
-            <description><![CDATA[New COMPILATION: Math Class Pranks (Best parts of all the pranks) [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為了拯救C，我們必須拯救ABI]]></title>
-            <link>https://news.ycombinator.com/item?id=30660528</link>
-            <guid>https://news.ycombinator.com/item?id=30660528</guid>
-            <pubDate>Sun, 13 Mar 2022 12:07:57 GMT</pubDate>
-            <description><![CDATA[To Save C, We Must Save ABI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kubernetes的未來]]></title>
-            <link>https://news.ycombinator.com/item?id=30660534</link>
-            <guid>https://news.ycombinator.com/item?id=30660534</guid>
-            <pubDate>Sun, 13 Mar 2022 12:09:05 GMT</pubDate>
-            <description><![CDATA[The Future of Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[狄奧索斯 用於在Rust中構建跨平臺用戶界面的類React庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30659833</link>
-            <guid>https://news.ycombinator.com/item?id=30659833</guid>
-            <pubDate>Sun, 13 Mar 2022 10:10:21 GMT</pubDate>
-            <description><![CDATA[Dioxus: React-like library for building cross-platform user interfaces in Rust]]></description>
         </item>
     </channel>
 </rss>
