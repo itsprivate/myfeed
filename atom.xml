@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T11:36:45.908Z</updated>
+    <updated>2022-03-15T11:51:29.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[EuroBSDCon 2022征集活动正式开始]]></title>
+        <id>https://news.ycombinator.com/item?id=30682210</id>
+        <link href="https://news.ycombinator.com/item?id=30682210"/>
+        <updated>2022-03-15T06:24:16.000Z</updated>
+        <summary type="html"><![CDATA[EuroBSDCon 2022 Call for Participation is open]]></summary>
+        <author>
+            <name>peter_hansteen</name>
+            <uri>https://news.ycombinator.com/user?id=peter_hansteen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复活一个Dataman S4 PROM编程器]]></title>
         <id>https://news.ycombinator.com/item?id=30683260</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lifeisstillgood</name>
             <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33年前的今天，我提交了一份名为万维网的系统提案。]]></title>
-        <id>https://news.ycombinator.com/item?id=30654801</id>
-        <link href="https://news.ycombinator.com/item?id=30654801"/>
-        <updated>2022-03-12T20:56:12.000Z</updated>
-        <summary type="html"><![CDATA[33 years ago today I submitted a proposal for a system called the World Wide Web]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
         </author>
     </entry>
 </feed>
