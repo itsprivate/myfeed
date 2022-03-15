@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T19:14:02.525Z</updated>
+    <updated>2022-03-15T19:27:59.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[針對GraphQL API運行Apache Superset]]></title>
+        <id>https://news.ycombinator.com/item?id=30689645</id>
+        <link href="https://news.ycombinator.com/item?id=30689645"/>
+        <updated>2022-03-15T19:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Running Apache Superset Against a GraphQL API]]></summary>
+        <author>
+            <name>agrothberg</name>
+            <uri>https://news.ycombinator.com/user?id=agrothberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
+        <id>https://news.ycombinator.com/item?id=30688691</id>
+        <link href="https://news.ycombinator.com/item?id=30688691"/>
+        <updated>2022-03-15T18:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></summary>
+        <author>
+            <name>quackduck</name>
+            <uri>https://news.ycombinator.com/user?id=quackduck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯面臨IT危機，僅剩兩個月的數據存儲時間]]></title>
+        <id>https://news.ycombinator.com/item?id=30688689</id>
+        <link href="https://news.ycombinator.com/item?id=30688689"/>
+        <updated>2022-03-15T18:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Russia faces IT crisis with just two months of data storage left]]></summary>
+        <author>
+            <name>K5EiS</name>
+            <uri>https://news.ycombinator.com/user?id=K5EiS</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LemonadeJS 2--微型（6KB）反應式庫--無轉碼，無依賴性]]></title>
         <id>https://news.ycombinator.com/item?id=30689646</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiBlast。用Godot 4和Blender製作的自由多人FPS遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30660000</id>
-        <link href="https://news.ycombinator.com/item?id=30660000"/>
-        <updated>2022-03-13T10:36:44.000Z</updated>
-        <summary type="html"><![CDATA[LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tempora (GCHQ)]]></title>
-        <id>https://news.ycombinator.com/item?id=30659863</id>
-        <link href="https://news.ycombinator.com/item?id=30659863"/>
-        <updated>2022-03-13T10:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Tempora (GCHQ)]]></summary>
-        <author>
-            <name>abno525</name>
-            <uri>https://news.ycombinator.com/user?id=abno525</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用sed編寫的數字電路仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30660203</id>
-        <link href="https://news.ycombinator.com/item?id=30660203"/>
-        <updated>2022-03-13T11:11:32.000Z</updated>
-        <summary type="html"><![CDATA[A digital circuit simulator written in sed]]></summary>
-        <author>
-            <name>curiousfab</name>
-            <uri>https://news.ycombinator.com/user?id=curiousfab</uri>
         </author>
     </entry>
 </feed>
