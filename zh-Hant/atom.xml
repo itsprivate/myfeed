@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T06:56:27.050Z</updated>
+    <updated>2022-03-15T07:13:19.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[城市不應該為新的體育場館買單]]></title>
+        <id>https://news.ycombinator.com/item?id=30682137</id>
+        <link href="https://news.ycombinator.com/item?id=30682137"/>
+        <updated>2022-03-15T06:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Cities should not pay for new stadiums]]></summary>
+        <author>
+            <name>droptablemain</name>
+            <uri>https://news.ycombinator.com/user?id=droptablemain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡框架解決了什麼問題，以及如何不使用這些框架？]]></title>
         <id>https://news.ycombinator.com/item?id=30682031</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>retrac</name>
             <uri>https://news.ycombinator.com/user?id=retrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特阿拉伯在其最大規模的集體處決中處死了81人]]></title>
-        <id>https://news.ycombinator.com/item?id=30653350</id>
-        <link href="https://news.ycombinator.com/item?id=30653350"/>
-        <updated>2022-03-12T18:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Saudi Arabia puts 81 to death in its largest mass execution]]></summary>
-        <author>
-            <name>nojonestownpls</name>
-            <uri>https://news.ycombinator.com/user?id=nojonestownpls</uri>
         </author>
     </entry>
 </feed>
