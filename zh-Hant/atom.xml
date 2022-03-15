@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T14:38:19.093Z</updated>
+    <updated>2022-03-15T14:52:58.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜因西雅圖市中心的暴力事件失控而重新安置工人]]></title>
+        <id>https://news.ycombinator.com/item?id=30685822</id>
+        <link href="https://news.ycombinator.com/item?id=30685822"/>
+        <updated>2022-03-15T14:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relocates Workers Due to Out-of-Control Violence in Downtown Seattle]]></summary>
+        <author>
+            <name>bluedino</name>
+            <uri>https://news.ycombinator.com/user?id=bluedino</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟議會通過立法草案。智能手機電池必須是可拆卸的]]></title>
+        <id>https://news.ycombinator.com/item?id=30685414</id>
+        <link href="https://news.ycombinator.com/item?id=30685414"/>
+        <updated>2022-03-15T14:03:46.000Z</updated>
+        <summary type="html"><![CDATA[EU Parliament adopts draft legislation: Smartphone batteries must be removable]]></summary>
+        <author>
+            <name>mg</name>
+            <uri>https://news.ycombinator.com/user?id=mg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[據報道，Slack刪除了所有使用俄羅斯卡支付的商業賬戶]]></title>
         <id>https://news.ycombinator.com/item?id=30685571</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rmason</name>
             <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成功的創業公司創始人的平均年齡是45歲（2018年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30655956</id>
-        <link href="https://news.ycombinator.com/item?id=30655956"/>
-        <updated>2022-03-12T23:14:08.000Z</updated>
-        <summary type="html"><![CDATA[The average age of a successful startup founder is 45 (2018)]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思科公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30652886</id>
-        <link href="https://news.ycombinator.com/item?id=30652886"/>
-        <updated>2022-03-12T17:16:50.000Z</updated>
-        <summary type="html"><![CDATA[ThinkComposer]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
