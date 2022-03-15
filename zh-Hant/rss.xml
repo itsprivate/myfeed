@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 22:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[現代性的配偶選擇]]></title>
+            <link>https://news.ycombinator.com/item?id=30692364</link>
+            <guid>https://news.ycombinator.com/item?id=30692364</guid>
+            <pubDate>Tue, 15 Mar 2022 21:57:32 GMT</pubDate>
+            <description><![CDATA[Mate Selection for Modernity]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DevTerm Kit R-01]]></title>
+            <link>https://news.ycombinator.com/item?id=30689508</link>
+            <guid>https://news.ycombinator.com/item?id=30689508</guid>
+            <pubDate>Tue, 15 Mar 2022 18:59:20 GMT</pubDate>
+            <description><![CDATA[DevTerm Kit R-01]]></description>
+        </item>
         <item>
             <title><![CDATA[國家安全局、CISA發佈Kubernetes加固指南 [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30692794</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30662056</guid>
             <pubDate>Sun, 13 Mar 2022 15:28:34 GMT</pubDate>
             <description><![CDATA[PyTorch vs. TensorFlow in Academic Papers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[華爾街與散戶投資者--Jon Stewart的問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30662008</link>
-            <guid>https://news.ycombinator.com/item?id=30662008</guid>
-            <pubDate>Sun, 13 Mar 2022 15:23:35 GMT</pubDate>
-            <description><![CDATA[Wall Street vs. Retail Investors – The Problem with Jon Stewart]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Node.js中的自我託管後端解決方案]]></title>
-            <link>https://news.ycombinator.com/item?id=30661577</link>
-            <guid>https://news.ycombinator.com/item?id=30661577</guid>
-            <pubDate>Sun, 13 Mar 2022 14:38:13 GMT</pubDate>
-            <description><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></description>
         </item>
     </channel>
 </rss>

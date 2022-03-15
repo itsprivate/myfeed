@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T22:43:26.892Z</updated>
+    <updated>2022-03-15T22:51:23.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现代性的配偶选择]]></title>
+        <id>https://news.ycombinator.com/item?id=30692364</id>
+        <link href="https://news.ycombinator.com/item?id=30692364"/>
+        <updated>2022-03-15T21:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Mate Selection for Modernity]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTerm Kit R-01]]></title>
+        <id>https://news.ycombinator.com/item?id=30689508</id>
+        <link href="https://news.ycombinator.com/item?id=30689508"/>
+        <updated>2022-03-15T18:59:20.000Z</updated>
+        <summary type="html"><![CDATA[DevTerm Kit R-01]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国家安全局、CISA发布Kubernetes加固指南 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30692794</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>m3at</name>
             <uri>https://news.ycombinator.com/user?id=m3at</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华尔街与散户投资者--Jon Stewart的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30662008</id>
-        <link href="https://news.ycombinator.com/item?id=30662008"/>
-        <updated>2022-03-13T15:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Wall Street vs. Retail Investors – The Problem with Jon Stewart]]></summary>
-        <author>
-            <name>drunkpotato</name>
-            <uri>https://news.ycombinator.com/user?id=drunkpotato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js中的自我托管后端解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30661577</id>
-        <link href="https://news.ycombinator.com/item?id=30661577"/>
-        <updated>2022-03-13T14:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></summary>
-        <author>
-            <name>kkopanidis</name>
-            <uri>https://news.ycombinator.com/user?id=kkopanidis</uri>
         </author>
     </entry>
 </feed>
