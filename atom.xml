@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T21:25:45.306Z</updated>
+    <updated>2022-03-15T21:36:38.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么谷歌AMP是对开放网络的一种威胁？]]></title>
+        <id>https://news.ycombinator.com/item?id=30691564</id>
+        <link href="https://news.ycombinator.com/item?id=30691564"/>
+        <updated>2022-03-15T20:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Why Google AMP Is a Threat to the Open Web]]></summary>
+        <author>
+            <name>zikohh</name>
+            <uri>https://news.ycombinator.com/user?id=zikohh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软将广告滑入Windows内部人员的文件管理器中]]></title>
+        <id>https://news.ycombinator.com/item?id=30691318</id>
+        <link href="https://news.ycombinator.com/item?id=30691318"/>
+        <updated>2022-03-15T20:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Slides Ads into Windows Insiders' File Explorer]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴黎圣母院地下出土的古墓和石棺]]></title>
+        <id>https://news.ycombinator.com/item?id=30690682</id>
+        <link href="https://news.ycombinator.com/item?id=30690682"/>
+        <updated>2022-03-15T19:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Ancient tombs and sarcophagus unearthed beneath Paris’ Notre Dame]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果园部分区域因 "可能出现危险品 "而被疏散]]></title>
         <id>https://news.ycombinator.com/item?id=30691642</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerOne从白俄罗斯黑客那里拿走25000美元以回应制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30661585</id>
-        <link href="https://news.ycombinator.com/item?id=30661585"/>
-        <updated>2022-03-13T14:38:57.000Z</updated>
-        <summary type="html"><![CDATA[HackerOne takes $25,000 from Belarusian hacker in response to sanctions]]></summary>
-        <author>
-            <name>phwd</name>
-            <uri>https://news.ycombinator.com/user?id=phwd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一个下午内写出一个树人的语法]]></title>
-        <id>https://news.ycombinator.com/item?id=30661127</id>
-        <link href="https://news.ycombinator.com/item?id=30661127"/>
-        <updated>2022-03-13T13:42:43.000Z</updated>
-        <summary type="html"><![CDATA[How to write a tree-sitter grammar in an afternoon]]></summary>
-        <author>
-            <name>siraben</name>
-            <uri>https://news.ycombinator.com/user?id=siraben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2：计算几何和球体上的空间索引]]></title>
-        <id>https://news.ycombinator.com/item?id=30661478</id>
-        <link href="https://news.ycombinator.com/item?id=30661478"/>
-        <updated>2022-03-13T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[S2: Computational geometry and spatial indexing on the sphere]]></summary>
-        <author>
-            <name>ofou</name>
-            <uri>https://news.ycombinator.com/user?id=ofou</uri>
         </author>
     </entry>
 </feed>
