@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T14:13:46.461Z</updated>
+    <updated>2022-03-15T14:31:50.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[光線模式，黑暗模式，以及Gen-Z模式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30685587</id>
+        <link href="https://news.ycombinator.com/item?id=30685587"/>
+        <updated>2022-03-15T14:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></summary>
+        <author>
+            <name>beweinreich</name>
+            <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特勤局的新報告詳細介紹了日益增長的不倫戀恐怖主義威脅]]></title>
+        <id>https://news.ycombinator.com/item?id=30685246</id>
+        <link href="https://news.ycombinator.com/item?id=30685246"/>
+        <updated>2022-03-15T13:52:29.000Z</updated>
+        <summary type="html"><![CDATA[New Secret Service report details growing incel terrorism threat]]></summary>
+        <author>
+            <name>DocFeind</name>
+            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中情局黑窩點被拘留者被當作訓練道具傳授酷刑技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30685066</id>
+        <link href="https://news.ycombinator.com/item?id=30685066"/>
+        <updated>2022-03-15T13:37:17.000Z</updated>
+        <summary type="html"><![CDATA[CIA black site detainee served as training prop to teach torture techniques]]></summary>
+        <author>
+            <name>LittleMoveBig</name>
+            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向所有人的WAF：保護網絡免受高嚴重度漏洞的影響]]></title>
+        <id>https://news.ycombinator.com/item?id=30684828</id>
+        <link href="https://news.ycombinator.com/item?id=30684828"/>
+        <updated>2022-03-15T13:16:26.000Z</updated>
+        <summary type="html"><![CDATA[WAF for everyone: protecting the web from high severity vulnerabilities]]></summary>
+        <author>
+            <name>yarapavan</name>
+            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愉快的React文件結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30684777</id>
+        <link href="https://news.ycombinator.com/item?id=30684777"/>
+        <updated>2022-03-15T13:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Delightful React File Structure]]></summary>
+        <author>
+            <name>joshwcomeau</name>
+            <uri>https://news.ycombinator.com/user?id=joshwcomeau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD推出7款新芯片，旗艦產品Ryzen 7 5800X3D售價449美元，4月20日上市]]></title>
         <id>https://news.ycombinator.com/item?id=30685100</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>areoform</name>
             <uri>https://news.ycombinator.com/user?id=areoform</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於動物飼料的深支流、二氧化碳轉化為蛋白質的平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30654152</id>
-        <link href="https://news.ycombinator.com/item?id=30654152"/>
-        <updated>2022-03-12T19:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Deep Branch, CO₂-to-protein platform for animal feed]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯央行決定下週不重新開放股市交易]]></title>
-        <id>https://news.ycombinator.com/item?id=30655705</id>
-        <link href="https://news.ycombinator.com/item?id=30655705"/>
-        <updated>2022-03-12T22:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Russian central bank decides not to reopen stock market trading next week]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Pi-Hole的Smart-TV Blocklist]]></title>
-        <id>https://news.ycombinator.com/item?id=30655479</id>
-        <link href="https://news.ycombinator.com/item?id=30655479"/>
-        <updated>2022-03-12T22:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Smart-TV Blocklist for Pi-Hole]]></summary>
-        <author>
-            <name>LeoPanthera</name>
-            <uri>https://news.ycombinator.com/user?id=LeoPanthera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巡邏隊 36]]></title>
-        <id>https://news.ycombinator.com/item?id=30653788</id>
-        <link href="https://news.ycombinator.com/item?id=30653788"/>
-        <updated>2022-03-12T18:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Patrol 36]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sci-Hub Scholar - 火狐瀏覽器擴展更新 v1.2]]></title>
-        <id>https://news.ycombinator.com/item?id=30653736</id>
-        <link href="https://news.ycombinator.com/item?id=30653736"/>
-        <updated>2022-03-12T18:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sci-Hub Scholar – Firefox Extension Update v1.2]]></summary>
-        <author>
-            <name>djfdat</name>
-            <uri>https://news.ycombinator.com/user?id=djfdat</uri>
         </author>
     </entry>
 </feed>
