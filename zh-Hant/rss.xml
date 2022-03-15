@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OpenSSL安全公告：解析證書時可達到無限循環]]></title>
+            <link>https://news.ycombinator.com/item?id=30687678</link>
+            <guid>https://news.ycombinator.com/item?id=30687678</guid>
+            <pubDate>Tue, 15 Mar 2022 16:54:55 GMT</pubDate>
+            <description><![CDATA[OpenSSL security advisory: Infinite loop reachable when parsing certificates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德國警告不要使用俄羅斯卡巴斯基公司生產的反病毒軟件]]></title>
+            <link>https://news.ycombinator.com/item?id=30687632</link>
+            <guid>https://news.ycombinator.com/item?id=30687632</guid>
+            <pubDate>Tue, 15 Mar 2022 16:51:24 GMT</pubDate>
+            <description><![CDATA[Germany warns against use of anti-virus software made by Russia’s Kaspersky]]></description>
+        </item>
+        <item>
+            <title><![CDATA[芯片巨頭Arm在交易失敗後將裁減15%的員工]]></title>
+            <link>https://news.ycombinator.com/item?id=30687312</link>
+            <guid>https://news.ycombinator.com/item?id=30687312</guid>
+            <pubDate>Tue, 15 Mar 2022 16:28:09 GMT</pubDate>
+            <description><![CDATA[Chip giant Arm set to axe 15% of its staff after deal fails]]></description>
+        </item>
         <item>
             <title><![CDATA[卡車司機的生活已經演變成了一個烏托邦式的噩夢]]></title>
             <link>https://news.ycombinator.com/item?id=30686524</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30657655</guid>
             <pubDate>Sun, 13 Mar 2022 03:33:54 GMT</pubDate>
             <description><![CDATA[Brave takes on the creepy websites that override your privacy settings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在Decentraland的NFT Metaverse呆了一天，所以你不必如此。]]></title>
-            <link>https://news.ycombinator.com/item?id=30657236</link>
-            <guid>https://news.ycombinator.com/item?id=30657236</guid>
-            <pubDate>Sun, 13 Mar 2022 02:16:57 GMT</pubDate>
-            <description><![CDATA[I Spent a Day in Decentraland's NFT Metaverse So You Don't Have To]]></description>
-        </item>
-        <item>
-            <title><![CDATA[能打敗普京的好策略]]></title>
-            <link>https://news.ycombinator.com/item?id=30657499</link>
-            <guid>https://news.ycombinator.com/item?id=30657499</guid>
-            <pubDate>Sun, 13 Mar 2022 03:05:06 GMT</pubDate>
-            <description><![CDATA[A Good Strategy That Can Defeat Putin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對於我的第一份初級軟件工作，我應該學習多少CS理論？]]></title>
-            <link>https://news.ycombinator.com/item?id=30657438</link>
-            <guid>https://news.ycombinator.com/item?id=30657438</guid>
-            <pubDate>Sun, 13 Mar 2022 02:56:33 GMT</pubDate>
-            <description><![CDATA[How much CS theory should I learn for my first entry level software job?]]></description>
         </item>
     </channel>
 </rss>

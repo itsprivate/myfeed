@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T17:04:55.751Z</updated>
+    <updated>2022-03-15T17:23:26.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL安全公告：解析证书时可达到无限循环]]></title>
+        <id>https://news.ycombinator.com/item?id=30687678</id>
+        <link href="https://news.ycombinator.com/item?id=30687678"/>
+        <updated>2022-03-15T16:54:55.000Z</updated>
+        <summary type="html"><![CDATA[OpenSSL security advisory: Infinite loop reachable when parsing certificates]]></summary>
+        <author>
+            <name>psanford</name>
+            <uri>https://news.ycombinator.com/user?id=psanford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国警告不要使用俄罗斯卡巴斯基公司生产的反病毒软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30687632</id>
+        <link href="https://news.ycombinator.com/item?id=30687632"/>
+        <updated>2022-03-15T16:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Germany warns against use of anti-virus software made by Russia’s Kaspersky]]></summary>
+        <author>
+            <name>tiahura</name>
+            <uri>https://news.ycombinator.com/user?id=tiahura</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芯片巨头Arm在交易失败后将裁减15%的员工]]></title>
+        <id>https://news.ycombinator.com/item?id=30687312</id>
+        <link href="https://news.ycombinator.com/item?id=30687312"/>
+        <updated>2022-03-15T16:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Chip giant Arm set to axe 15% of its staff after deal fails]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡车司机的生活已经演变成了一个乌托邦式的噩梦]]></title>
         <id>https://news.ycombinator.com/item?id=30686524</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>perihelions</name>
             <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在Decentraland的NFT Metaverse呆了一天，所以你不必如此。]]></title>
-        <id>https://news.ycombinator.com/item?id=30657236</id>
-        <link href="https://news.ycombinator.com/item?id=30657236"/>
-        <updated>2022-03-13T02:16:57.000Z</updated>
-        <summary type="html"><![CDATA[I Spent a Day in Decentraland's NFT Metaverse So You Don't Have To]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能打败普京的好策略]]></title>
-        <id>https://news.ycombinator.com/item?id=30657499</id>
-        <link href="https://news.ycombinator.com/item?id=30657499"/>
-        <updated>2022-03-13T03:05:06.000Z</updated>
-        <summary type="html"><![CDATA[A Good Strategy That Can Defeat Putin]]></summary>
-        <author>
-            <name>gamechangr</name>
-            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对于我的第一份初级软件工作，我应该学习多少CS理论？]]></title>
-        <id>https://news.ycombinator.com/item?id=30657438</id>
-        <link href="https://news.ycombinator.com/item?id=30657438"/>
-        <updated>2022-03-13T02:56:33.000Z</updated>
-        <summary type="html"><![CDATA[How much CS theory should I learn for my first entry level software job?]]></summary>
-        <author>
-            <name>jobhdez</name>
-            <uri>https://news.ycombinator.com/user?id=jobhdez</uri>
         </author>
     </entry>
 </feed>
