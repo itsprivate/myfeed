@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T03:13:51.655Z</updated>
+    <updated>2022-03-15T03:45:39.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帕爾默-勒基說用武器工作不如VR有趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30681167</id>
+        <link href="https://news.ycombinator.com/item?id=30681167"/>
+        <updated>2022-03-15T02:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Palmer Luckey Says Working with Weapons Isn't as Fun as VR]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["外星無人機群 "在奧斯汀上空形成巨大的懸停二維碼，宣傳 "光環"。]]></title>
         <id>https://news.ycombinator.com/item?id=30680672</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一把有很多鑰匙的鎖。欺騙8.8.8.8中的DNSSEC簽名的域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30651840</id>
-        <link href="https://news.ycombinator.com/item?id=30651840"/>
-        <updated>2022-03-12T15:04:39.000Z</updated>
-        <summary type="html"><![CDATA[A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8]]></summary>
-        <author>
-            <name>sintax</name>
-            <uri>https://news.ycombinator.com/user?id=sintax</uri>
         </author>
     </entry>
 </feed>

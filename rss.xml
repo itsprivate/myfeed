@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帕尔默-勒基说用武器工作不如VR有趣]]></title>
+            <link>https://news.ycombinator.com/item?id=30681167</link>
+            <guid>https://news.ycombinator.com/item?id=30681167</guid>
+            <pubDate>Tue, 15 Mar 2022 02:43:49 GMT</pubDate>
+            <description><![CDATA[Palmer Luckey Says Working with Weapons Isn't as Fun as VR]]></description>
+        </item>
         <item>
             <title><![CDATA["外星无人机群 "在奥斯汀上空形成巨大的悬停二维码，宣传 "光环"。]]></title>
             <link>https://news.ycombinator.com/item?id=30680672</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30651501</guid>
             <pubDate>Sat, 12 Mar 2022 14:13:23 GMT</pubDate>
             <description><![CDATA[Historical Redlining and Present-Day Air Pollution Disparities in U.S. Cities]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一把有很多钥匙的锁。欺骗8.8.8.8中的DNSSEC签名的域名]]></title>
-            <link>https://news.ycombinator.com/item?id=30651840</link>
-            <guid>https://news.ycombinator.com/item?id=30651840</guid>
-            <pubDate>Sat, 12 Mar 2022 15:04:39 GMT</pubDate>
-            <description><![CDATA[A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8]]></description>
         </item>
     </channel>
 </rss>
