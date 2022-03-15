@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T18:16:18.830Z</updated>
+    <updated>2022-03-15T18:38:31.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DynamoDB關鍵分區策略]]></title>
+        <id>https://news.ycombinator.com/item?id=30688813</id>
+        <link href="https://news.ycombinator.com/item?id=30688813"/>
+        <updated>2022-03-15T18:11:19.000Z</updated>
+        <summary type="html"><![CDATA[DynamoDB Key Partition Strategies]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭。建立垃圾郵件網站，以接觸數百萬俄羅斯人]]></title>
+        <id>https://news.ycombinator.com/item?id=30688755</id>
+        <link href="https://news.ycombinator.com/item?id=30688755"/>
+        <updated>2022-03-15T18:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine: Spam website set up to reach millions of Russians]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌域名已退出測試版]]></title>
+        <id>https://news.ycombinator.com/item?id=30688552</id>
+        <link href="https://news.ycombinator.com/item?id=30688552"/>
+        <updated>2022-03-15T17:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Google Domains is out of beta]]></summary>
+        <author>
+            <name>Garbage</name>
+            <uri>https://news.ycombinator.com/user?id=Garbage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殺死瑞典MeToo的案件]]></title>
+        <id>https://news.ycombinator.com/item?id=30687756</id>
+        <link href="https://news.ycombinator.com/item?id=30687756"/>
+        <updated>2022-03-15T16:59:24.000Z</updated>
+        <summary type="html"><![CDATA[The Case That Killed MeToo in Sweden]]></summary>
+        <author>
+            <name>klenwell</name>
+            <uri>https://news.ycombinator.com/user?id=klenwell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌員工對薪酬、晉升和執行力越來越不滿意]]></title>
+        <id>https://news.ycombinator.com/item?id=30687288</id>
+        <link href="https://news.ycombinator.com/item?id=30687288"/>
+        <updated>2022-03-15T16:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Google employees are becoming unhappy with pay, promotions and execution]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Caddy來管理Tailscale HTTPS證書]]></title>
+        <id>https://news.ycombinator.com/item?id=30687282</id>
+        <link href="https://news.ycombinator.com/item?id=30687282"/>
+        <updated>2022-03-15T16:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Use Caddy to manage Tailscale HTTPS certificates]]></summary>
+        <author>
+            <name>decrypt</name>
+            <uri>https://news.ycombinator.com/user?id=decrypt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艱難地建立實時數據系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30686693</id>
+        <link href="https://news.ycombinator.com/item?id=30686693"/>
+        <updated>2022-03-15T15:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Building Real-Time Data Systems the Hard Way]]></summary>
+        <author>
+            <name>krisajenkins</name>
+            <uri>https://news.ycombinator.com/user?id=krisajenkins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phront - 與你的同學們同步、分享和聊天。學生用的Slack]]></title>
         <id>https://news.ycombinator.com/item?id=30688593</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>nickkell</name>
             <uri>https://news.ycombinator.com/user?id=nickkell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[達到工作人員以上的工程職位的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30659096</id>
-        <link href="https://news.ycombinator.com/item?id=30659096"/>
-        <updated>2022-03-13T08:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Stories of reaching Staff-plus engineering roles]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯面臨人才流失，成千上萬的人逃往國外]]></title>
-        <id>https://news.ycombinator.com/item?id=30658907</id>
-        <link href="https://news.ycombinator.com/item?id=30658907"/>
-        <updated>2022-03-13T07:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Russia faces brain drain as thousands flee abroad]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男性國家"--支持普京戰爭的俄羅斯在線仇恨團體]]></title>
-        <id>https://news.ycombinator.com/item?id=30658625</id>
-        <link href="https://news.ycombinator.com/item?id=30658625"/>
-        <updated>2022-03-13T06:48:16.000Z</updated>
-        <summary type="html"><![CDATA['Male State' – The Russian Online Hate-Group Backing Putin’s War]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠普首次推出8個處理器的Windows NT服務器 (1997)]]></title>
-        <id>https://news.ycombinator.com/item?id=30658588</id>
-        <link href="https://news.ycombinator.com/item?id=30658588"/>
-        <updated>2022-03-13T06:41:48.000Z</updated>
-        <summary type="html"><![CDATA[HP debuts 8-processor Windows NT server (1997)]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國修改《搏擊俱樂部》電影結局，讓當局獲勝]]></title>
-        <id>https://news.ycombinator.com/item?id=30659027</id>
-        <link href="https://news.ycombinator.com/item?id=30659027"/>
-        <updated>2022-03-13T08:03:04.000Z</updated>
-        <summary type="html"><![CDATA[China changes Fight Club film ending so the authorities win]]></summary>
-        <author>
-            <name>kvee</name>
-            <uri>https://news.ycombinator.com/user?id=kvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們的裙帶資本主義指數為了解俄羅斯的億萬富翁財富提供了一個窗口]]></title>
-        <id>https://news.ycombinator.com/item?id=30658829</id>
-        <link href="https://news.ycombinator.com/item?id=30658829"/>
-        <updated>2022-03-13T07:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Our crony-capitalism index offers a window into Russia’s billionaire wealth]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber經濟 "如何扼殺創新、繁榮和創業精神]]></title>
-        <id>https://news.ycombinator.com/item?id=30658835</id>
-        <link href="https://news.ycombinator.com/item?id=30658835"/>
-        <updated>2022-03-13T07:26:50.000Z</updated>
-        <summary type="html"><![CDATA[How the “Uber Economy” Is Killing Innovation, Prosperity and Entrepreneurship]]></summary>
-        <author>
-            <name>version_five</name>
-            <uri>https://news.ycombinator.com/user?id=version_five</uri>
         </author>
     </entry>
 </feed>
