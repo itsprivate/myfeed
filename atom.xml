@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T17:23:26.697Z</updated>
+    <updated>2022-03-15T17:39:34.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30688208</id>
+        <link href="https://news.ycombinator.com/item?id=30688208"/>
+        <updated>2022-03-15T17:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.18 Released]]></summary>
+        <author>
+            <name>mjlee</name>
+            <uri>https://news.ycombinator.com/user?id=mjlee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受欢迎的藏族歌手才旺诺布在自焚抗议中去世]]></title>
+        <id>https://news.ycombinator.com/item?id=30688013</id>
+        <link href="https://news.ycombinator.com/item?id=30688013"/>
+        <updated>2022-03-15T17:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Popular Tibetan singer Tsewang Norbu dies of self-immolation protest]]></summary>
+        <author>
+            <name>ilamont</name>
+            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSSL安全公告：解析证书时可达到无限循环]]></title>
         <id>https://news.ycombinator.com/item?id=30687678</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年的流感疫苗基本上没有价值。疾病预防控制中心说只有16%有效]]></title>
-        <id>https://news.ycombinator.com/item?id=30658135</id>
-        <link href="https://news.ycombinator.com/item?id=30658135"/>
-        <updated>2022-03-13T05:02:31.000Z</updated>
-        <summary type="html"><![CDATA[This Year's Flu Vaccine Was Basically Worthless: CDC Says Only 16% Effective]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇敢的人对付那些凌驾于你的隐私设置之上的令人毛骨悚然的网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30657655</id>
-        <link href="https://news.ycombinator.com/item?id=30657655"/>
-        <updated>2022-03-13T03:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Brave takes on the creepy websites that override your privacy settings]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
         </author>
     </entry>
 </feed>
