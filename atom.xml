@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T19:52:22.364Z</updated>
+    <updated>2022-03-15T20:13:45.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人员用379年的算法破解在野外发现的密码钥匙]]></title>
+        <id>https://news.ycombinator.com/item?id=30690581</id>
+        <link href="https://news.ycombinator.com/item?id=30690581"/>
+        <updated>2022-03-15T19:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Researcher uses 379-year-old algorithm to crack crypto keys found in the wild]]></summary>
+        <author>
+            <name>8bitsrule</name>
+            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让雇主在招聘启事中分享薪酬有助于解决性别薪酬差距吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30690308</id>
+        <link href="https://news.ycombinator.com/item?id=30690308"/>
+        <updated>2022-03-15T19:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Can making employers share pay in job postings help fix the gender pay gap?]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推出DirectStorage API，承诺重塑游戏存储方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30689962</id>
+        <link href="https://news.ycombinator.com/item?id=30689962"/>
+        <updated>2022-03-15T19:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft introduces its DirectStorage API, promises to reinvent game storage]]></summary>
+        <author>
+            <name>belltaco</name>
+            <uri>https://news.ycombinator.com/user?id=belltaco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报道，印度探索在与俄罗斯的石油贸易中使用人民币]]></title>
+        <id>https://news.ycombinator.com/item?id=30687913</id>
+        <link href="https://news.ycombinator.com/item?id=30687913"/>
+        <updated>2022-03-15T17:08:42.000Z</updated>
+        <summary type="html"><![CDATA[India reportedly explores yuan in oil trade with Russia]]></summary>
+        <author>
+            <name>LittleMoveBig</name>
+            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交媒体向遗忘的缓慢行进]]></title>
         <id>https://news.ycombinator.com/item?id=30690228</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>heikrana</name>
             <uri>https://news.ycombinator.com/user?id=heikrana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snmalloc: 高性能的基于消息传递的分配器]]></title>
-        <id>https://news.ycombinator.com/item?id=30659690</id>
-        <link href="https://news.ycombinator.com/item?id=30659690"/>
-        <updated>2022-03-13T09:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Snmalloc: High-performance message passing based allocator]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞士加入制裁俄罗斯的行列，打破了中立状态]]></title>
-        <id>https://news.ycombinator.com/item?id=30660968</id>
-        <link href="https://news.ycombinator.com/item?id=30660968"/>
-        <updated>2022-03-13T13:16:16.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland joins Russia sanctions in break from neutrality]]></summary>
-        <author>
-            <name>hliyan</name>
-            <uri>https://news.ycombinator.com/user?id=hliyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一点也不含糊，早就该如此了--用户可更换电池]]></title>
-        <id>https://news.ycombinator.com/item?id=30660953</id>
-        <link href="https://news.ycombinator.com/item?id=30660953"/>
-        <updated>2022-03-13T13:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Not dodgy at all and long overdue – user replaceable batteries]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qgis2threejs: 在网络上实现DEM地图和三维矢量数据的可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=30660948</id>
-        <link href="https://news.ycombinator.com/item?id=30660948"/>
-        <updated>2022-03-13T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Qgis2threejs: Visualize DEM Maps and 3D Vector Data on Web]]></summary>
-        <author>
-            <name>ArtWomb</name>
-            <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
         </author>
     </entry>
 </feed>
