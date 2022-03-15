@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T15:35:03.367Z</updated>
+    <updated>2022-03-15T15:45:40.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SSH和Git，遇見1Password]]></title>
+        <id>https://news.ycombinator.com/item?id=30685035</id>
+        <link href="https://news.ycombinator.com/item?id=30685035"/>
+        <updated>2022-03-15T13:34:53.000Z</updated>
+        <summary type="html"><![CDATA[SSH and Git, Meet 1Password]]></summary>
+        <author>
+            <name>techiedude</name>
+            <uri>https://news.ycombinator.com/user?id=techiedude</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password開發者工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30684881</id>
+        <link href="https://news.ycombinator.com/item?id=30684881"/>
+        <updated>2022-03-15T13:20:52.000Z</updated>
+        <summary type="html"><![CDATA[1Password Developer Tools]]></summary>
+        <author>
+            <name>davweb</name>
+            <uri>https://news.ycombinator.com/user?id=davweb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Flow v10]]></title>
+        <id>https://news.ycombinator.com/item?id=30684625</id>
+        <link href="https://news.ycombinator.com/item?id=30684625"/>
+        <updated>2022-03-15T12:54:40.000Z</updated>
+        <summary type="html"><![CDATA[React Flow v10]]></summary>
+        <author>
+            <name>chrtze</name>
+            <uri>https://news.ycombinator.com/user?id=chrtze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用無服務器的死人開關來監測我們的監控]]></title>
         <id>https://news.ycombinator.com/item?id=30686417</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>madacol</name>
             <uri>https://news.ycombinator.com/user?id=madacol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT兄弟的 "Metaverse "狂歡節看起來很無聊、很死板]]></title>
-        <id>https://news.ycombinator.com/item?id=30656649</id>
-        <link href="https://news.ycombinator.com/item?id=30656649"/>
-        <updated>2022-03-13T00:36:59.000Z</updated>
-        <summary type="html"><![CDATA[NFT Bro’s ‘Metaverse’ Rave Looks Boring, Dead]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[縮放比電動汽車在減少排放方面做得更多]]></title>
-        <id>https://news.ycombinator.com/item?id=30657167</id>
-        <link href="https://news.ycombinator.com/item?id=30657167"/>
-        <updated>2022-03-13T02:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Zoom has done more to reduce emissions than electric vehicles]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Phaser 3把我的個人網站做成了口袋妖怪式的迷你遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30656961</id>
-        <link href="https://news.ycombinator.com/item?id=30656961"/>
-        <updated>2022-03-13T01:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made my personal website a Pokémon-style minigame using Phaser 3]]></summary>
-        <author>
-            <name>cartucho1</name>
-            <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
         </author>
     </entry>
 </feed>
