@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T08:14:21.258Z</updated>
+    <updated>2022-03-15T08:37:05.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國出版商為安撫中國而對西方讀者的書籍進行審查]]></title>
+        <id>https://news.ycombinator.com/item?id=30682816</id>
+        <link href="https://news.ycombinator.com/item?id=30682816"/>
+        <updated>2022-03-15T08:16:41.000Z</updated>
+        <summary type="html"><![CDATA[British publishers censor books for western readers to appease China]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國的間諜是否滲透到了美國的校園？]]></title>
+        <id>https://news.ycombinator.com/item?id=30682669</id>
+        <link href="https://news.ycombinator.com/item?id=30682669"/>
+        <updated>2022-03-15T07:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
+        <author>
+            <name>alanwong</name>
+            <uri>https://news.ycombinator.com/user?id=alanwong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國下令封鎖5100萬輛汽車，因為包括深圳在內的科威德公司激增。]]></title>
+        <id>https://news.ycombinator.com/item?id=30682158</id>
+        <link href="https://news.ycombinator.com/item?id=30682158"/>
+        <updated>2022-03-15T06:16:03.000Z</updated>
+        <summary type="html"><![CDATA[China orders 51M into lockdown as Covid surges, including Shenzen]]></summary>
+        <author>
+            <name>wrycoder</name>
+            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調查顯示，谷歌員工對薪酬和晉升越來越不滿意]]></title>
+        <id>https://news.ycombinator.com/item?id=30681920</id>
+        <link href="https://news.ycombinator.com/item?id=30681920"/>
+        <updated>2022-03-15T05:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Google employees growing unhappy with pay and promotions, survey shows]]></summary>
+        <author>
+            <name>lladnar</name>
+            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歡迎來到Web 3.0]]></title>
         <id>https://news.ycombinator.com/item?id=30682731</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>qwertyuiop_</name>
             <uri>https://news.ycombinator.com/user?id=qwertyuiop_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司員工因福利被削減而不得不自己洗衣服]]></title>
-        <id>https://news.ycombinator.com/item?id=30654194</id>
-        <link href="https://news.ycombinator.com/item?id=30654194"/>
-        <updated>2022-03-12T19:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Meta employees left to do their own laundry as perks get cut]]></summary>
-        <author>
-            <name>ForHackernews</name>
-            <uri>https://news.ycombinator.com/user?id=ForHackernews</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究為圖坦卡蒙的神秘匕首從隕石中 "誕生 "提供了新的線索]]></title>
-        <id>https://news.ycombinator.com/item?id=30653801</id>
-        <link href="https://news.ycombinator.com/item?id=30653801"/>
-        <updated>2022-03-12T18:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Study sheds new light on Tutankhamun’s mysterious dagger ‘born’ from meteorite]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解本福德定律的一些線索]]></title>
-        <id>https://news.ycombinator.com/item?id=30651754</id>
-        <link href="https://news.ycombinator.com/item?id=30651754"/>
-        <updated>2022-03-12T14:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Some clues to understanding Benford's law]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hubfs - GitHub的文件系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30653916</id>
-        <link href="https://news.ycombinator.com/item?id=30653916"/>
-        <updated>2022-03-12T19:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hubfs – File System for GitHub]]></summary>
-        <author>
-            <name>billziss</name>
-            <uri>https://news.ycombinator.com/user?id=billziss</uri>
         </author>
     </entry>
 </feed>
