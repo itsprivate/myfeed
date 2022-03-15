@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T22:33:14.637Z</updated>
+    <updated>2022-03-15T22:43:26.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國家安全局、CISA發佈Kubernetes加固指南 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30692794</id>
+        <link href="https://news.ycombinator.com/item?id=30692794"/>
+        <updated>2022-03-15T22:30:21.000Z</updated>
+        <summary type="html"><![CDATA[NSA, CISA Release Kubernetes Hardening Guidance [pdf]]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git和GitHub API的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30692615</id>
+        <link href="https://news.ycombinator.com/item?id=30692615"/>
+        <updated>2022-03-15T22:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Gotchas with Git and the GitHub API]]></summary>
+        <author>
+            <name>lord_sudo</name>
+            <uri>https://news.ycombinator.com/user?id=lord_sudo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜推出奇異的類似元數據的遊戲來訓練人們如何使用AWS]]></title>
+        <id>https://news.ycombinator.com/item?id=30692224</id>
+        <link href="https://news.ycombinator.com/item?id=30692224"/>
+        <updated>2022-03-15T21:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon introduces a bizarre metaverse-like game to train people how to use AWS]]></summary>
+        <author>
+            <name>PieUser</name>
+            <uri>https://news.ycombinator.com/user?id=PieUser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎克伯格確認NFT即將登陸Instagram]]></title>
+        <id>https://news.ycombinator.com/item?id=30692142</id>
+        <link href="https://news.ycombinator.com/item?id=30692142"/>
+        <updated>2022-03-15T21:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Zuckerberg confirms NFTs are coming to Instagram]]></summary>
+        <author>
+            <name>almog</name>
+            <uri>https://news.ycombinator.com/user?id=almog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯正朝著1500億美元的違約噩夢螺旋式上升]]></title>
         <id>https://news.ycombinator.com/item?id=30692232</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kkopanidis</name>
             <uri>https://news.ycombinator.com/user?id=kkopanidis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的入侵將對世界糧食供應產生 "巨大影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30660667</id>
-        <link href="https://news.ycombinator.com/item?id=30660667"/>
-        <updated>2022-03-13T12:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Russia's invasion to have 'enormous impact' on world food supplies]]></summary>
-        <author>
-            <name>Paul_S</name>
-            <uri>https://news.ycombinator.com/user?id=Paul_S</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼照片中的黑暗和光明是複雜的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30662066</id>
-        <link href="https://news.ycombinator.com/item?id=30662066"/>
-        <updated>2022-03-13T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Why Dark and Light Is Complicated in Photographs]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯網民正在學習如何戰勝普京的互聯網鎮壓]]></title>
-        <id>https://news.ycombinator.com/item?id=30661531</id>
-        <link href="https://news.ycombinator.com/item?id=30661531"/>
-        <updated>2022-03-13T14:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Russian Internet Users are learning how to beat Putin's Internet Crackdown]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國新的超大規模超級計算機運行 "大腦規模的人工智能]]></title>
-        <id>https://news.ycombinator.com/item?id=30661278</id>
-        <link href="https://news.ycombinator.com/item?id=30661278"/>
-        <updated>2022-03-13T14:01:26.000Z</updated>
-        <summary type="html"><![CDATA[New Chinese exascale supercomputer runs 'brain-scale AI']]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
