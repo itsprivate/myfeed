@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T20:33:36.491Z</updated>
+    <updated>2022-03-15T21:10:41.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小小的多肉植物正受到国际犯罪团伙的围追堵截]]></title>
+        <id>https://news.ycombinator.com/item?id=30691482</id>
+        <link href="https://news.ycombinator.com/item?id=30691482"/>
+        <updated>2022-03-15T20:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Tiny succulents are under siege from international crime rings]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[请不要问创始人的生存问题]]></title>
         <id>https://news.ycombinator.com/item?id=30690920</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mertkavi</name>
             <uri>https://news.ycombinator.com/user?id=mertkavi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这么多的死亡是如何变成正常的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30661076</id>
-        <link href="https://news.ycombinator.com/item?id=30661076"/>
-        <updated>2022-03-13T13:36:13.000Z</updated>
-        <summary type="html"><![CDATA[How did this many deaths become normal?]]></summary>
-        <author>
-            <name>kareemm</name>
-            <uri>https://news.ycombinator.com/user?id=kareemm</uri>
         </author>
     </entry>
 </feed>
