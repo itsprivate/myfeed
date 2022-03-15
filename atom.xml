@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T15:14:53.749Z</updated>
+    <updated>2022-03-15T15:35:03.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用无服务器的死人开关来监测我们的监控]]></title>
+        <id>https://news.ycombinator.com/item?id=30686417</id>
+        <link href="https://news.ycombinator.com/item?id=30686417"/>
+        <updated>2022-03-15T15:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Using a serverless dead man's switch to monitor our monitoring]]></summary>
+        <author>
+            <name>miedwar</name>
+            <uri>https://news.ycombinator.com/user?id=miedwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔和Arm遭遇另一个数据泄露的Spectre芯片漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30686406</id>
+        <link href="https://news.ycombinator.com/item?id=30686406"/>
+        <updated>2022-03-15T15:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel, Arm hit with another data-leaking Spectre chip bug]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们推出了一个AR脸部过滤器SDK和]]></title>
+        <id>https://news.ycombinator.com/item?id=30686396</id>
+        <link href="https://news.ycombinator.com/item?id=30686396"/>
+        <updated>2022-03-15T15:19:43.000Z</updated>
+        <summary type="html"><![CDATA[We've Launched an AR Face Filters SDK and]]></summary>
+        <author>
+            <name>hopeyourewell</name>
+            <uri>https://news.ycombinator.com/user?id=hopeyourewell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用广义相对论的光线追踪法实现黑洞的可视化]]></title>
+        <id>https://news.ycombinator.com/item?id=30686349</id>
+        <link href="https://news.ycombinator.com/item?id=30686349"/>
+        <updated>2022-03-15T15:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing Black Holes with General Relativistic Ray Tracing]]></summary>
+        <author>
+            <name>betolink</name>
+            <uri>https://news.ycombinator.com/user?id=betolink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杓子。可替代故事书，即时启动，速度快4倍，体积小20倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30686306</id>
+        <link href="https://news.ycombinator.com/item?id=30686306"/>
+        <updated>2022-03-15T15:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Ladle: A drop-in alternative to Storybook, instant start, 4x faster, 20x smaller]]></summary>
+        <author>
+            <name>tajo</name>
+            <uri>https://news.ycombinator.com/user?id=tajo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zipy--通过会话回放和监控来即时调试网络应用程序。]]></title>
+        <id>https://news.ycombinator.com/item?id=30686278</id>
+        <link href="https://news.ycombinator.com/item?id=30686278"/>
+        <updated>2022-03-15T15:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zipy- Debug webapps instantly with session replay and monitoring in one]]></summary>
+        <author>
+            <name>msnkarthik</name>
+            <uri>https://news.ycombinator.com/user?id=msnkarthik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Golang中建立一个Backconnect Proxy]]></title>
         <id>https://news.ycombinator.com/item?id=30686063</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>cartucho1</name>
             <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰。建立垃圾邮件网站，以接触数百万俄罗斯人]]></title>
-        <id>https://news.ycombinator.com/item?id=30655775</id>
-        <link href="https://news.ycombinator.com/item?id=30655775"/>
-        <updated>2022-03-12T22:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine: Spam website set up to reach millions of Russians]]></summary>
-        <author>
-            <name>stuartmemo</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmemo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国是否一直在押注俄罗斯的失败？]]></title>
-        <id>https://news.ycombinator.com/item?id=30656842</id>
-        <link href="https://news.ycombinator.com/item?id=30656842"/>
-        <updated>2022-03-13T01:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Was China Betting on Russian Defeat All Along?]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在莫斯科，麦当劳打包了，广播陷入沉默，人才开始流失]]></title>
-        <id>https://news.ycombinator.com/item?id=30656668</id>
-        <link href="https://news.ycombinator.com/item?id=30656668"/>
-        <updated>2022-03-13T00:40:44.000Z</updated>
-        <summary type="html"><![CDATA[In Moscow, McDonald's packs up, radio falls silent and the brain drain begins]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯/莫斯科目前正在发生什么。一个相当随机的主题]]></title>
-        <id>https://news.ycombinator.com/item?id=30656561</id>
-        <link href="https://news.ycombinator.com/item?id=30656561"/>
-        <updated>2022-03-13T00:23:30.000Z</updated>
-        <summary type="html"><![CDATA[What's happening in Russia/Moscow rn. A pretty random thread]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永久性炖菜]]></title>
-        <id>https://news.ycombinator.com/item?id=30656392</id>
-        <link href="https://news.ycombinator.com/item?id=30656392"/>
-        <updated>2022-03-13T00:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Perpetual Stew]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么要花钱买自己的钱]]></title>
-        <id>https://news.ycombinator.com/item?id=30656059</id>
-        <link href="https://news.ycombinator.com/item?id=30656059"/>
-        <updated>2022-03-12T23:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Why it costs money to get your own money]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
