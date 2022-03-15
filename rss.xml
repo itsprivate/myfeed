@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go 1.18发布了]]></title>
+            <link>https://news.ycombinator.com/item?id=30688346</link>
+            <guid>https://news.ycombinator.com/item?id=30688346</guid>
+            <pubDate>Tue, 15 Mar 2022 17:39:25 GMT</pubDate>
+            <description><![CDATA[Go 1.18 Is Released]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么现在的电影和电视如此黑暗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30688224</link>
+            <guid>https://news.ycombinator.com/item?id=30688224</guid>
+            <pubDate>Tue, 15 Mar 2022 17:30:42 GMT</pubDate>
+            <description><![CDATA[Why Are Movies and TV So Dark Now?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什么导致了战争的发生？历史背景下的乌克兰和俄罗斯 [视频］]]></title>
+            <link>https://news.ycombinator.com/item?id=30687922</link>
+            <guid>https://news.ycombinator.com/item?id=30687922</guid>
+            <pubDate>Tue, 15 Mar 2022 17:09:26 GMT</pubDate>
+            <description><![CDATA[What Caused the War? Ukraine and Russia in Historical Context [video]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英特尔将在德国建立一个价值170亿欧元的新半导体制造中心]]></title>
+            <link>https://news.ycombinator.com/item?id=30687894</link>
+            <guid>https://news.ycombinator.com/item?id=30687894</guid>
+            <pubDate>Tue, 15 Mar 2022 17:07:50 GMT</pubDate>
+            <description><![CDATA[Intel is building a new €17B semiconductor manufacturing hub in Germany]]></description>
+        </item>
+        <item>
+            <title><![CDATA[正如我们所想的那样 (1945)]]></title>
+            <link>https://news.ycombinator.com/item?id=30687828</link>
+            <guid>https://news.ycombinator.com/item?id=30687828</guid>
+            <pubDate>Tue, 15 Mar 2022 17:03:20 GMT</pubDate>
+            <description><![CDATA[As We May Think (1945)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Go 1.18 版本说明]]></title>
+            <link>https://news.ycombinator.com/item?id=30686059</link>
+            <guid>https://news.ycombinator.com/item?id=30686059</guid>
+            <pubDate>Tue, 15 Mar 2022 14:52:10 GMT</pubDate>
+            <description><![CDATA[Go 1.18 Release Notes]]></description>
+        </item>
         <item>
             <title><![CDATA[Go 1.18版发布]]></title>
             <link>https://news.ycombinator.com/item?id=30688208</link>
@@ -4171,48 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30658644</guid>
             <pubDate>Sun, 13 Mar 2022 06:51:36 GMT</pubDate>
             <description><![CDATA[Finnish govt agency warns of unusual aircraft GPS interference]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯现在声称美国训练鸟类来运送乌克兰生物武器]]></title>
-            <link>https://news.ycombinator.com/item?id=30658117</link>
-            <guid>https://news.ycombinator.com/item?id=30658117</guid>
-            <pubDate>Sun, 13 Mar 2022 04:57:48 GMT</pubDate>
-            <description><![CDATA[Russia Is Now Claiming the US Trained Birds to Deliver Ukrainian Bioweapons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哈雷德iOS应用程序的错误修复在最初批准后被拒绝 18个月前]]></title>
-            <link>https://news.ycombinator.com/item?id=30658628</link>
-            <guid>https://news.ycombinator.com/item?id=30658628</guid>
-            <pubDate>Sun, 13 Mar 2022 06:48:31 GMT</pubDate>
-            <description><![CDATA[Halide iOS app bug fix rejected after initial approval 18 months ago]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯特工因抗议投票应用程序威胁苹果和谷歌员工]]></title>
-            <link>https://news.ycombinator.com/item?id=30658567</link>
-            <guid>https://news.ycombinator.com/item?id=30658567</guid>
-            <pubDate>Sun, 13 Mar 2022 06:37:49 GMT</pubDate>
-            <description><![CDATA[Russian agents threatened Apple and Google employees over protest vote apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德州男子起诉电话销售商非法机器人电话，赢得7.5万美元奖金]]></title>
-            <link>https://news.ycombinator.com/item?id=30658321</link>
-            <guid>https://news.ycombinator.com/item?id=30658321</guid>
-            <pubDate>Sun, 13 Mar 2022 05:38:30 GMT</pubDate>
-            <description><![CDATA[Texas man wins $75K suing telemarketers for illegal robo-calls]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Archive.today向Cloudflare Resolvers返回假的IP]]></title>
-            <link>https://news.ycombinator.com/item?id=30658091</link>
-            <guid>https://news.ycombinator.com/item?id=30658091</guid>
-            <pubDate>Sun, 13 Mar 2022 04:52:29 GMT</pubDate>
-            <description><![CDATA[Archive.today returning bogus IP to Cloudflare Resolvers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰称俄方炮击马里乌波尔80人藏身的清真寺]]></title>
-            <link>https://news.ycombinator.com/item?id=30658454</link>
-            <guid>https://news.ycombinator.com/item?id=30658454</guid>
-            <pubDate>Sun, 13 Mar 2022 06:12:57 GMT</pubDate>
-            <description><![CDATA[Ukraine says Russians Shelled Mosque where 80-people were Sheltering in Mariupol]]></description>
         </item>
     </channel>
 </rss>
