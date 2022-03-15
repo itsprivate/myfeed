@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T23:32:11.737Z</updated>
+    <updated>2022-03-15T23:41:16.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐刪除Yandex搜索，受影響用戶將自動切換到谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30693253</id>
+        <link href="https://news.ycombinator.com/item?id=30693253"/>
+        <updated>2022-03-15T23:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Firefox removes Yandex search, will auto-switch affected users to Google]]></summary>
+        <author>
+            <name>Jerry2</name>
+            <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃爾福威茨學說]]></title>
+        <id>https://news.ycombinator.com/item?id=30692979</id>
+        <link href="https://news.ycombinator.com/item?id=30692979"/>
+        <updated>2022-03-15T22:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Wolfowitz Doctrine]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 MacBook Pros揚聲器出現噼啪聲問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30692512</id>
+        <link href="https://news.ycombinator.com/item?id=30692512"/>
+        <updated>2022-03-15T22:07:47.000Z</updated>
+        <summary type="html"><![CDATA[M1 MacBook Pros Speakers Have a Crackling Problem]]></summary>
+        <author>
+            <name>acdanger</name>
+            <uri>https://news.ycombinator.com/user?id=acdanger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯威脅要將微軟和其他西方公司國有化]]></title>
         <id>https://news.ycombinator.com/item?id=30692931</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI可能已經解決了一個基本的AI瓶頸問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30662176</id>
-        <link href="https://news.ycombinator.com/item?id=30662176"/>
-        <updated>2022-03-13T15:37:49.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI may have solved a fundamental AI bottleneck]]></summary>
-        <author>
-            <name>the__prestige</name>
-            <uri>https://news.ycombinator.com/user?id=the__prestige</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再見了，Sonos。迎接永遠不會消亡的開源音頻系統(2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30661231</id>
-        <link href="https://news.ycombinator.com/item?id=30661231"/>
-        <updated>2022-03-13T13:56:25.000Z</updated>
-        <summary type="html"><![CDATA[So long, Sonos: Meet the open-source audio system that will never die (2020)]]></summary>
-        <author>
-            <name>airstrike</name>
-            <uri>https://news.ycombinator.com/user?id=airstrike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首席執行官要求所有員工全職返回辦公室。只有一半的人出現了]]></title>
-        <id>https://news.ycombinator.com/item?id=30662795</id>
-        <link href="https://news.ycombinator.com/item?id=30662795"/>
-        <updated>2022-03-13T16:28:30.000Z</updated>
-        <summary type="html"><![CDATA[CEO demanded all employees return full-time to the office. Only half showed up]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
