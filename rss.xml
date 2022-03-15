@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:56:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网络框架解决了什么问题，以及如何不使用这些框架？]]></title>
+            <link>https://news.ycombinator.com/item?id=30682031</link>
+            <guid>https://news.ycombinator.com/item?id=30682031</guid>
+            <pubDate>Tue, 15 Mar 2022 05:46:16 GMT</pubDate>
+            <description><![CDATA[What Web Frameworks Solve and How to Do Without Them]]></description>
+        </item>
+        <item>
+            <title><![CDATA[姆姆语]]></title>
+            <link>https://news.ycombinator.com/item?id=30681960</link>
+            <guid>https://news.ycombinator.com/item?id=30681960</guid>
+            <pubDate>Tue, 15 Mar 2022 05:32:38 GMT</pubDate>
+            <description><![CDATA[Umeshisms]]></description>
+        </item>
+        <item>
+            <title><![CDATA[来自我们在Kubernetes SoC 2合规性方面的经验提示]]></title>
+            <link>https://news.ycombinator.com/item?id=30680959</link>
+            <guid>https://news.ycombinator.com/item?id=30680959</guid>
+            <pubDate>Tue, 15 Mar 2022 02:05:24 GMT</pubDate>
+            <description><![CDATA[Tips from Our Experience with Kubernetes SoC 2 Compliance]]></description>
+        </item>
         <item>
             <title><![CDATA[北京与乌克兰签订了核协议]]></title>
             <link>https://news.ycombinator.com/item?id=30682117</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30653350</guid>
             <pubDate>Sat, 12 Mar 2022 18:06:09 GMT</pubDate>
             <description><![CDATA[Saudi Arabia puts 81 to death in its largest mass execution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux 5.18计划从C89切换到C11/GNU11 C版本]]></title>
-            <link>https://news.ycombinator.com/item?id=30653236</link>
-            <guid>https://news.ycombinator.com/item?id=30653236</guid>
-            <pubDate>Sat, 12 Mar 2022 17:53:11 GMT</pubDate>
-            <description><![CDATA[Linux 5.18 Plans to Switch from C89 to C11/GNU11 C Version]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬兰启动拖延已久的核电站，给电力市场带来喘息机会]]></title>
-            <link>https://news.ycombinator.com/item?id=30653220</link>
-            <guid>https://news.ycombinator.com/item?id=30653220</guid>
-            <pubDate>Sat, 12 Mar 2022 17:51:52 GMT</pubDate>
-            <description><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰的战争才刚刚开始]]></title>
-            <link>https://news.ycombinator.com/item?id=30653189</link>
-            <guid>https://news.ycombinator.com/item?id=30653189</guid>
-            <pubDate>Sat, 12 Mar 2022 17:49:16 GMT</pubDate>
-            <description><![CDATA[The War in Ukraine Is Just Beginning]]></description>
         </item>
     </channel>
 </rss>

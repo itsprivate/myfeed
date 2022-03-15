@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T06:38:39.838Z</updated>
+    <updated>2022-03-15T06:56:26.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网络框架解决了什么问题，以及如何不使用这些框架？]]></title>
+        <id>https://news.ycombinator.com/item?id=30682031</id>
+        <link href="https://news.ycombinator.com/item?id=30682031"/>
+        <updated>2022-03-15T05:46:16.000Z</updated>
+        <summary type="html"><![CDATA[What Web Frameworks Solve and How to Do Without Them]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姆姆语]]></title>
+        <id>https://news.ycombinator.com/item?id=30681960</id>
+        <link href="https://news.ycombinator.com/item?id=30681960"/>
+        <updated>2022-03-15T05:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Umeshisms]]></summary>
+        <author>
+            <name>duck</name>
+            <uri>https://news.ycombinator.com/user?id=duck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自我们在Kubernetes SoC 2合规性方面的经验提示]]></title>
+        <id>https://news.ycombinator.com/item?id=30680959</id>
+        <link href="https://news.ycombinator.com/item?id=30680959"/>
+        <updated>2022-03-15T02:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Tips from Our Experience with Kubernetes SoC 2 Compliance]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北京与乌克兰签订了核协议]]></title>
         <id>https://news.ycombinator.com/item?id=30682117</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nojonestownpls</name>
             <uri>https://news.ycombinator.com/user?id=nojonestownpls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.18计划从C89切换到C11/GNU11 C版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30653236</id>
-        <link href="https://news.ycombinator.com/item?id=30653236"/>
-        <updated>2022-03-12T17:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Linux 5.18 Plans to Switch from C89 to C11/GNU11 C Version]]></summary>
-        <author>
-            <name>andrew-ld</name>
-            <uri>https://news.ycombinator.com/user?id=andrew-ld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬兰启动拖延已久的核电站，给电力市场带来喘息机会]]></title>
-        <id>https://news.ycombinator.com/item?id=30653220</id>
-        <link href="https://news.ycombinator.com/item?id=30653220"/>
-        <updated>2022-03-12T17:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的战争才刚刚开始]]></title>
-        <id>https://news.ycombinator.com/item?id=30653189</id>
-        <link href="https://news.ycombinator.com/item?id=30653189"/>
-        <updated>2022-03-12T17:49:16.000Z</updated>
-        <summary type="html"><![CDATA[The War in Ukraine Is Just Beginning]]></summary>
-        <author>
-            <name>gamechangr</name>
-            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
         </author>
     </entry>
 </feed>
