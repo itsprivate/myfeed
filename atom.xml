@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T16:49:57.524Z</updated>
+    <updated>2022-03-15T17:04:55.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡车司机的生活已经演变成了一个乌托邦式的噩梦]]></title>
+        <id>https://news.ycombinator.com/item?id=30686524</id>
+        <link href="https://news.ycombinator.com/item?id=30686524"/>
+        <updated>2022-03-15T15:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Life as a Trucker Has Devolved into a Dystopian Nightmare]]></summary>
+        <author>
+            <name>jgwil2</name>
+            <uri>https://news.ycombinator.com/user?id=jgwil2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["高级CPU "的挑战]]></title>
         <id>https://news.ycombinator.com/item?id=30687279</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jobhdez</name>
             <uri>https://news.ycombinator.com/user?id=jobhdez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事实证明，在美国，欧米茄对儿童的影响是致命的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30657918</id>
-        <link href="https://news.ycombinator.com/item?id=30657918"/>
-        <updated>2022-03-13T04:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Omicron is proving to be deadly serious for children in the US]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
