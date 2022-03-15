@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T11:51:29.497Z</updated>
+    <updated>2022-03-15T12:17:30.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有沒有想過，也許你是一個冒牌貨？(2020) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30684290</id>
+        <link href="https://news.ycombinator.com/item?id=30684290"/>
+        <updated>2022-03-15T12:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Has it ever occurred to you that maybe you are an imposter? (2020) [pdf]]]></summary>
+        <author>
+            <name>danielam</name>
+            <uri>https://news.ycombinator.com/user?id=danielam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EuroBSDCon 2022徵集活動正式開始]]></title>
         <id>https://news.ycombinator.com/item?id=30682210</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我讀了有史以來的前100篇科學論文]]></title>
-        <id>https://news.ycombinator.com/item?id=30654870</id>
-        <link href="https://news.ycombinator.com/item?id=30654870"/>
-        <updated>2022-03-12T21:04:36.000Z</updated>
-        <summary type="html"><![CDATA[I read the top 100 Scientific papers of all time]]></summary>
-        <author>
-            <name>lifeisstillgood</name>
-            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
         </author>
     </entry>
 </feed>
