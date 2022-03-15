@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T19:27:59.830Z</updated>
+    <updated>2022-03-15T19:36:57.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rpath，或者為什麼ld在NixOS上不工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30688815</id>
+        <link href="https://news.ycombinator.com/item?id=30688815"/>
+        <updated>2022-03-15T18:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Rpath, or why lld doesn’t work on NixOS]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust編寫的快速子域枚舉器]]></title>
+        <id>https://news.ycombinator.com/item?id=30688516</id>
+        <link href="https://news.ycombinator.com/item?id=30688516"/>
+        <updated>2022-03-15T17:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></summary>
+        <author>
+            <name>chockchocschoir</name>
+            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[延遲正在推動邊緣和無服務器計算基礎設施的發展]]></title>
+        <id>https://news.ycombinator.com/item?id=30687912</id>
+        <link href="https://news.ycombinator.com/item?id=30687912"/>
+        <updated>2022-03-15T17:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Latency is driving edge and serverless computing infrastructure]]></summary>
+        <author>
+            <name>uberdru</name>
+            <uri>https://news.ycombinator.com/user?id=uberdru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[針對GraphQL API運行Apache Superset]]></title>
         <id>https://news.ycombinator.com/item?id=30689645</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>losfair</name>
             <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建隨機頭像的自我託管服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30660316</id>
-        <link href="https://news.ycombinator.com/item?id=30660316"/>
-        <updated>2022-03-13T11:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Self-hosted service for creating random avatars]]></summary>
-        <author>
-            <name>frncsdrk</name>
-            <uri>https://news.ycombinator.com/user?id=frncsdrk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯創建自己的TLS證書機構以繞過制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30660196</id>
-        <link href="https://news.ycombinator.com/item?id=30660196"/>
-        <updated>2022-03-13T11:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Russia creates its own TLS certificate authority to bypass sanctions]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑克-凱魯亞克：100年後仍可上路]]></title>
-        <id>https://news.ycombinator.com/item?id=30660072</id>
-        <link href="https://news.ycombinator.com/item?id=30660072"/>
-        <updated>2022-03-13T10:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Jack Kerouac: still roadworthy after 100 years]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
