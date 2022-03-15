@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T11:29:04.003Z</updated>
+    <updated>2022-03-15T11:36:45.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[復活一個Dataman S4 PROM編程器]]></title>
+        <id>https://news.ycombinator.com/item?id=30683260</id>
+        <link href="https://news.ycombinator.com/item?id=30683260"/>
+        <updated>2022-03-15T09:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Resurrecting a Dataman S4 PROM Programmer]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arti 0.1.0。用Rust重寫的Tor現在有了一個穩定的API]]></title>
         <id>https://news.ycombinator.com/item?id=30683879</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>app4soft</name>
             <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電磁爐烹飪的案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30654693</id>
-        <link href="https://news.ycombinator.com/item?id=30654693"/>
-        <updated>2022-03-12T20:40:34.000Z</updated>
-        <summary type="html"><![CDATA[The Case for Induction Cooking]]></summary>
-        <author>
-            <name>mathieutd</name>
-            <uri>https://news.ycombinator.com/user?id=mathieutd</uri>
         </author>
     </entry>
 </feed>
