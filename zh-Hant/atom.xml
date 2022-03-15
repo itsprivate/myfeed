@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T13:43:31.812Z</updated>
+    <updated>2022-03-15T13:52:10.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們如何在1周內獲得1500顆GitHub之星]]></title>
+        <id>https://news.ycombinator.com/item?id=30685019</id>
+        <link href="https://news.ycombinator.com/item?id=30685019"/>
+        <updated>2022-03-15T13:33:28.000Z</updated>
+        <summary type="html"><![CDATA[How we got 1500 GitHub stars in 1 week]]></summary>
+        <author>
+            <name>eandre</name>
+            <uri>https://news.ycombinator.com/user?id=eandre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手臂將減少多達15%的員工--約1千人]]></title>
         <id>https://news.ycombinator.com/item?id=30684888</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jacobr</name>
             <uri>https://news.ycombinator.com/user?id=jacobr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於烏克蘭的大衛和俄羅斯的歌利亞]]></title>
-        <id>https://news.ycombinator.com/item?id=30655196</id>
-        <link href="https://news.ycombinator.com/item?id=30655196"/>
-        <updated>2022-03-12T21:45:23.000Z</updated>
-        <summary type="html"><![CDATA[On the Ukrainian David, and the Russian Goliath]]></summary>
-        <author>
-            <name>ShivShankaran</name>
-            <uri>https://news.ycombinator.com/user?id=ShivShankaran</uri>
         </author>
     </entry>
 </feed>
