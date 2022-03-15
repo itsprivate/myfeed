@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-15T08:37:05.053Z</updated>
+    <updated>2022-03-15T09:13:02.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Osm.el - Emacs的OpenStreetMap瀏覽器]]></title>
+        <id>https://news.ycombinator.com/item?id=30682841</id>
+        <link href="https://news.ycombinator.com/item?id=30682841"/>
+        <updated>2022-03-15T08:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Osm.el – OpenStreetMap Viewer for Emacs]]></summary>
+        <author>
+            <name>okasaki</name>
+            <uri>https://news.ycombinator.com/user?id=okasaki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國出版商為安撫中國而對西方讀者的書籍進行審查]]></title>
         <id>https://news.ycombinator.com/item?id=30682816</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vaghetti</name>
             <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國無人機制造商大疆創新為烏克蘭軍隊提供的能力有限]]></title>
-        <id>https://news.ycombinator.com/item?id=30654306</id>
-        <link href="https://news.ycombinator.com/item?id=30654306"/>
-        <updated>2022-03-12T19:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Chinese drone manufacturer DJI has limited capability for the Ukrainian army]]></summary>
-        <author>
-            <name>qwertyuiop_</name>
-            <uri>https://news.ycombinator.com/user?id=qwertyuiop_</uri>
         </author>
     </entry>
 </feed>
