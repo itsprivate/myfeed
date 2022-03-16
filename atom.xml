@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T14:19:41.491Z</updated>
+    <updated>2022-03-16T15:04:26.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌似乎在没有询问的情况下为我注册了谷歌支付。]]></title>
+        <id>https://news.ycombinator.com/item?id=30698962</id>
+        <link href="https://news.ycombinator.com/item?id=30698962"/>
+        <updated>2022-03-16T14:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Google seems to have signed me up for Google Pay without asking]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家安全局、NIST和后量子密码学（Daniel J. Bernstein的FOIA请求）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30698832</id>
+        <link href="https://news.ycombinator.com/item?id=30698832"/>
+        <updated>2022-03-16T13:53:46.000Z</updated>
+        <summary type="html"><![CDATA[NSA, NIST, and post-quantum cryptography (FOIA request by Daniel J. Bernstein)]]></summary>
+        <author>
+            <name>ttybird2</name>
+            <uri>https://news.ycombinator.com/user?id=ttybird2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级速率限制]]></title>
+        <id>https://news.ycombinator.com/item?id=30698830</id>
+        <link href="https://news.ycombinator.com/item?id=30698830"/>
+        <updated>2022-03-16T13:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Rate Limiting]]></summary>
+        <author>
+            <name>sahin</name>
+            <uri>https://news.ycombinator.com/user?id=sahin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Python可以执行1个FLOP的时间里，A100可以吃掉975万FLOPS。]]></title>
+        <id>https://news.ycombinator.com/item?id=30697061</id>
+        <link href="https://news.ycombinator.com/item?id=30697061"/>
+        <updated>2022-03-16T10:15:14.000Z</updated>
+        <summary type="html"><![CDATA[In the time Python can perform 1 FLOP, an A100 can chew through 9.75M FLOPS]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[友好的机器人]]></title>
         <id>https://news.ycombinator.com/item?id=30698840</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>fagnerbrack</name>
             <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毛泽东最小值]]></title>
-        <id>https://news.ycombinator.com/item?id=30667340</id>
-        <link href="https://news.ycombinator.com/item?id=30667340"/>
-        <updated>2022-03-14T00:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Maunder Minimum]]></summary>
-        <author>
-            <name>jlaurito</name>
-            <uri>https://news.ycombinator.com/user?id=jlaurito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉-赫特去世了]]></title>
-        <id>https://news.ycombinator.com/item?id=30667165</id>
-        <link href="https://news.ycombinator.com/item?id=30667165"/>
-        <updated>2022-03-14T00:21:30.000Z</updated>
-        <summary type="html"><![CDATA[William Hurt Has Died]]></summary>
-        <author>
-            <name>quantified</name>
-            <uri>https://news.ycombinator.com/user?id=quantified</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿根廷家庭在环游世界22年后回到家乡]]></title>
-        <id>https://news.ycombinator.com/item?id=30667938</id>
-        <link href="https://news.ycombinator.com/item?id=30667938"/>
-        <updated>2022-03-14T02:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Argentine family comes home after 22-year drive around the world]]></summary>
-        <author>
-            <name>thematrixturtle</name>
-            <uri>https://news.ycombinator.com/user?id=thematrixturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无法抗拒 "西化 "乌克兰的美国专家们]]></title>
-        <id>https://news.ycombinator.com/item?id=30667464</id>
-        <link href="https://news.ycombinator.com/item?id=30667464"/>
-        <updated>2022-03-14T01:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The American Pundits Who Can’t Resist “Westsplaining” Ukraine]]></summary>
-        <author>
-            <name>zekrioca</name>
-            <uri>https://news.ycombinator.com/user?id=zekrioca</uri>
         </author>
     </entry>
 </feed>
