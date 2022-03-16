@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 10:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尽管存在漏洞，GitHub也不会恢复HTTPie的粉丝，没有通知]]></title>
+            <link>https://news.ycombinator.com/item?id=30696255</link>
+            <guid>https://news.ycombinator.com/item?id=30696255</guid>
+            <pubDate>Wed, 16 Mar 2022 07:40:36 GMT</pubDate>
+            <description><![CDATA[GitHub won’t restore HTTPie followers despite vulnerability, no notifications]]></description>
+        </item>
         <item>
             <title><![CDATA[我无法辨别两者的区别]]></title>
             <link>https://news.ycombinator.com/item?id=30696914</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30665875</guid>
             <pubDate>Sun, 13 Mar 2022 21:23:59 GMT</pubDate>
             <description><![CDATA[War in Ukraine: Uni to uniform – Ukraine's new teenage army recruits]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对公用事业感到失望，一些加州人正在离开电网]]></title>
-            <link>https://news.ycombinator.com/item?id=30665845</link>
-            <guid>https://news.ycombinator.com/item?id=30665845</guid>
-            <pubDate>Sun, 13 Mar 2022 21:21:26 GMT</pubDate>
-            <description><![CDATA[Frustrated with Utilities, Some Californians Are Leaving the Grid]]></description>
         </item>
     </channel>
 </rss>
