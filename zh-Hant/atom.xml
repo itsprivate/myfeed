@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T08:36:22.040Z</updated>
+    <updated>2022-03-16T08:52:20.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[納丁-多里斯，英國的大型科技殺手]]></title>
+        <id>https://news.ycombinator.com/item?id=30696435</id>
+        <link href="https://news.ycombinator.com/item?id=30696435"/>
+        <updated>2022-03-16T08:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Nadine Dorries, Britain’s Big Tech Slayer]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack已經開始在俄羅斯斷開客戶的連接]]></title>
+        <id>https://news.ycombinator.com/item?id=30695666</id>
+        <link href="https://news.ycombinator.com/item?id=30695666"/>
+        <updated>2022-03-16T05:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Slack has started disconnecting customers in Russia]]></summary>
+        <author>
+            <name>fomine3</name>
+            <uri>https://news.ycombinator.com/user?id=fomine3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[F1英國廣播公司2022年，秘密空氣動力學家：40年來的最大同比變化]]></title>
         <id>https://news.ycombinator.com/item?id=30696392</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>westcort</name>
             <uri>https://news.ycombinator.com/user?id=westcort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽能與玉米乙醇]]></title>
-        <id>https://news.ycombinator.com/item?id=30663997</id>
-        <link href="https://news.ycombinator.com/item?id=30663997"/>
-        <updated>2022-03-13T18:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Solar vs. Corn Ethanol]]></summary>
-        <author>
-            <name>scranglis</name>
-            <uri>https://news.ycombinator.com/user?id=scranglis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好，我是俄羅斯人。烏克蘭和俄羅斯是一個離婚的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30665459</id>
-        <link href="https://news.ycombinator.com/item?id=30665459"/>
-        <updated>2022-03-13T20:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I’m Russian. Ukraine and Russia is a story of a divorce]]></summary>
-        <author>
-            <name>Procedural</name>
-            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
         </author>
     </entry>
 </feed>
