@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 11:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 11:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國有一個決定性的選擇要做]]></title>
+            <link>https://news.ycombinator.com/item?id=30696984</link>
+            <guid>https://news.ycombinator.com/item?id=30696984</guid>
+            <pubDate>Wed, 16 Mar 2022 10:01:07 GMT</pubDate>
+            <description><![CDATA[China has a fateful choice to make]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nbb: 使用SCI在Node.js上進行臨時性的CLJS腳本編寫]]></title>
+            <link>https://news.ycombinator.com/item?id=30696860</link>
+            <guid>https://news.ycombinator.com/item?id=30696860</guid>
+            <pubDate>Wed, 16 Mar 2022 09:34:53 GMT</pubDate>
+            <description><![CDATA[Nbb: Ad-hoc CLJS scripting on Node.js using SCI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[唯一牢不可破的法律]]></title>
+            <link>https://news.ycombinator.com/item?id=30695443</link>
+            <guid>https://news.ycombinator.com/item?id=30695443</guid>
+            <pubDate>Wed, 16 Mar 2022 04:49:27 GMT</pubDate>
+            <description><![CDATA[The Only Unbreakable Law]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯面臨IT危機，僅剩兩個月的數據存儲時間]]></title>
             <link>https://news.ycombinator.com/item?id=30697163</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30666680</guid>
             <pubDate>Sun, 13 Mar 2022 23:07:58 GMT</pubDate>
             <description><![CDATA[A detailed shaded relief map of Manhattan New York rendered from Lidar data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用速率限制來阻擋RDP的暴力攻擊]]></title>
-            <link>https://news.ycombinator.com/item?id=30665912</link>
-            <guid>https://news.ycombinator.com/item?id=30665912</guid>
-            <pubDate>Sun, 13 Mar 2022 21:29:08 GMT</pubDate>
-            <description><![CDATA[Blunting RDP brute-force attacks with rate limiting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SmoothWAN一個簡單的家庭互聯網綁定路由器，使用Speedify]]></title>
-            <link>https://news.ycombinator.com/item?id=30666248</link>
-            <guid>https://news.ycombinator.com/item?id=30666248</guid>
-            <pubDate>Sun, 13 Mar 2022 22:09:24 GMT</pubDate>
-            <description><![CDATA[Show HN: SmoothWAN a simple home internet bonding router using Speedify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯的 "假新聞 "法]]></title>
-            <link>https://news.ycombinator.com/item?id=30665953</link>
-            <guid>https://news.ycombinator.com/item?id=30665953</guid>
-            <pubDate>Sun, 13 Mar 2022 21:34:44 GMT</pubDate>
-            <description><![CDATA[Russia's “Fake News” Law]]></description>
         </item>
     </channel>
 </rss>
