@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T11:36:27.842Z</updated>
+    <updated>2022-03-16T12:17:23.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源设计--开放设计流程的设计师和开发者社区]]></title>
+        <id>https://news.ycombinator.com/item?id=30696610</id>
+        <link href="https://news.ycombinator.com/item?id=30696610"/>
+        <updated>2022-03-16T08:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Design – community of designers and devs for open design processes]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Traceroute测量地球]]></title>
+        <id>https://news.ycombinator.com/item?id=30696499</id>
+        <link href="https://news.ycombinator.com/item?id=30696499"/>
+        <updated>2022-03-16T08:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Measuring the Earth with Traceroute]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为您的StackOverflow简历/CV提供JSON备份]]></title>
+        <id>https://news.ycombinator.com/item?id=30696196</id>
+        <link href="https://news.ycombinator.com/item?id=30696196"/>
+        <updated>2022-03-16T07:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JSON Backup for your StackOverflow resume/CV]]></summary>
+        <author>
+            <name>jesstelford</name>
+            <uri>https://news.ycombinator.com/user?id=jesstelford</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSFT展示了以前难以捉摸的物理学，需要建立可扩展的量子比特]]></title>
         <id>https://news.ycombinator.com/item?id=30697374</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bardc</name>
             <uri>https://news.ycombinator.com/user?id=bardc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司为类似于ZX Spectrum、C64和rPi 400的 "创新 "申请专利]]></title>
-        <id>https://news.ycombinator.com/item?id=30666568</id>
-        <link href="https://news.ycombinator.com/item?id=30666568"/>
-        <updated>2022-03-13T22:52:20.000Z</updated>
-        <summary type="html"><![CDATA[Apple seeks patent for 'innovation' resembling the ZX Spectrum, C64 and rPi 400]]></summary>
-        <author>
-            <name>daniel_iversen</name>
-            <uri>https://news.ycombinator.com/user?id=daniel_iversen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯蒂芬-科特金谈普京、乌克兰和俄罗斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30665022</id>
-        <link href="https://news.ycombinator.com/item?id=30665022"/>
-        <updated>2022-03-13T19:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Kotkin on Putin, Ukraine and Russia]]></summary>
-        <author>
-            <name>avrionov</name>
-            <uri>https://news.ycombinator.com/user?id=avrionov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最高法院使用扭曲的逻辑来保护实施酷刑的美国特工]]></title>
-        <id>https://news.ycombinator.com/item?id=30664658</id>
-        <link href="https://news.ycombinator.com/item?id=30664658"/>
-        <updated>2022-03-13T19:07:58.000Z</updated>
-        <summary type="html"><![CDATA[The Supreme Court Uses Twisted Logic to Protect US Agents Committing Torture]]></summary>
-        <author>
-            <name>aww_dang</name>
-            <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
         </author>
     </entry>
 </feed>
