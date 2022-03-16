@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 19:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 19:52:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[.NET 7預覽版2]]></title>
+            <link>https://news.ycombinator.com/item?id=30702842</link>
+            <guid>https://news.ycombinator.com/item?id=30702842</guid>
+            <pubDate>Wed, 16 Mar 2022 19:21:42 GMT</pubDate>
+            <description><![CDATA[.NET 7 Preview 2]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2021年辭去工作的大多數工人認為工資低，沒有晉升空間]]></title>
+            <link>https://news.ycombinator.com/item?id=30702109</link>
+            <guid>https://news.ycombinator.com/item?id=30702109</guid>
+            <pubDate>Wed, 16 Mar 2022 18:12:43 GMT</pubDate>
+            <description><![CDATA[Majority of workers who quit a job in 2021 cite low pay, no advancement]]></description>
+        </item>
         <item>
             <title><![CDATA[美聯儲加息25個基點，2018年以來首次加息]]></title>
             <link>https://news.ycombinator.com/item?id=30702823</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30672589</guid>
             <pubDate>Mon, 14 Mar 2022 14:05:11 GMT</pubDate>
             <description><![CDATA[Employee burnout now recognized by WHO as a “syndrome”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯將從其外匯儲備中使用人民幣]]></title>
-            <link>https://news.ycombinator.com/item?id=30672373</link>
-            <guid>https://news.ycombinator.com/item?id=30672373</guid>
-            <pubDate>Mon, 14 Mar 2022 13:46:29 GMT</pubDate>
-            <description><![CDATA[Russia to use yuan from its forex reserves]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用圍棋泛型來破解總和類型]]></title>
-            <link>https://news.ycombinator.com/item?id=30671883</link>
-            <guid>https://news.ycombinator.com/item?id=30671883</guid>
-            <pubDate>Mon, 14 Mar 2022 13:00:14 GMT</pubDate>
-            <description><![CDATA[Hacking sum types with Go generics]]></description>
         </item>
     </channel>
 </rss>

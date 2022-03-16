@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T19:37:28.763Z</updated>
+    <updated>2022-03-16T19:52:06.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[.NET 7預覽版2]]></title>
+        <id>https://news.ycombinator.com/item?id=30702842</id>
+        <link href="https://news.ycombinator.com/item?id=30702842"/>
+        <updated>2022-03-16T19:21:42.000Z</updated>
+        <summary type="html"><![CDATA[.NET 7 Preview 2]]></summary>
+        <author>
+            <name>DeWilde</name>
+            <uri>https://news.ycombinator.com/user?id=DeWilde</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年辭去工作的大多數工人認為工資低，沒有晉升空間]]></title>
+        <id>https://news.ycombinator.com/item?id=30702109</id>
+        <link href="https://news.ycombinator.com/item?id=30702109"/>
+        <updated>2022-03-16T18:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Majority of workers who quit a job in 2021 cite low pay, no advancement]]></summary>
+        <author>
+            <name>MattGaiser</name>
+            <uri>https://news.ycombinator.com/user?id=MattGaiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲加息25個基點，2018年以來首次加息]]></title>
         <id>https://news.ycombinator.com/item?id=30702823</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>danaris</name>
             <uri>https://news.ycombinator.com/user?id=danaris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯將從其外匯儲備中使用人民幣]]></title>
-        <id>https://news.ycombinator.com/item?id=30672373</id>
-        <link href="https://news.ycombinator.com/item?id=30672373"/>
-        <updated>2022-03-14T13:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Russia to use yuan from its forex reserves]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用圍棋泛型來破解總和類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30671883</id>
-        <link href="https://news.ycombinator.com/item?id=30671883"/>
-        <updated>2022-03-14T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Hacking sum types with Go generics]]></summary>
-        <author>
-            <name>lawrjone</name>
-            <uri>https://news.ycombinator.com/user?id=lawrjone</uri>
         </author>
     </entry>
 </feed>
