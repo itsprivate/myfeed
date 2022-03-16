@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T22:30:21.732Z</updated>
+    <updated>2022-03-16T22:38:37.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微軟衛士將Office更新標記為勒索軟件活動]]></title>
+        <id>https://news.ycombinator.com/item?id=30704698</id>
+        <link href="https://news.ycombinator.com/item?id=30704698"/>
+        <updated>2022-03-16T22:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Defender tags Office updates as ransomware activity]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C不再是一種編程語言了]]></title>
+        <id>https://news.ycombinator.com/item?id=30704642</id>
+        <link href="https://news.ycombinator.com/item?id=30704642"/>
+        <updated>2022-03-16T21:56:35.000Z</updated>
+        <summary type="html"><![CDATA[C Isn't a Programming Language Anymore]]></summary>
+        <author>
+            <name>jasonpeacock</name>
+            <uri>https://news.ycombinator.com/user?id=jasonpeacock</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將俄羅斯在烏克蘭的戰爭和伊朗核協議聯繫起來的全球棋局]]></title>
+        <id>https://news.ycombinator.com/item?id=30704510</id>
+        <link href="https://news.ycombinator.com/item?id=30704510"/>
+        <updated>2022-03-16T21:43:37.000Z</updated>
+        <summary type="html"><![CDATA[The global chess game linking Russia's war in Ukraine and the Iran nuclear deal]]></summary>
+        <author>
+            <name>grupthink</name>
+            <uri>https://news.ycombinator.com/user?id=grupthink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是如何從種子開始種植牛油果植物的]]></title>
+        <id>https://news.ycombinator.com/item?id=30704388</id>
+        <link href="https://news.ycombinator.com/item?id=30704388"/>
+        <updated>2022-03-16T21:33:51.000Z</updated>
+        <summary type="html"><![CDATA[How I grew my avocado plant from seed]]></summary>
+        <author>
+            <name>roboben</name>
+            <uri>https://news.ycombinator.com/user?id=roboben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京因入侵事件而對主管人員實施 "軟禁 "的俄羅斯間諜主管人員]]></title>
         <id>https://news.ycombinator.com/item?id=30704751</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pastalex</name>
             <uri>https://news.ycombinator.com/user?id=pastalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗吉尼亞州立法者同意解除對面部技術使用的禁令]]></title>
-        <id>https://news.ycombinator.com/item?id=30675037</id>
-        <link href="https://news.ycombinator.com/item?id=30675037"/>
-        <updated>2022-03-14T17:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Virginia lawmakers OK lifting ban on facial technology use]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第六版Unix操作系統的評論]]></title>
-        <id>https://news.ycombinator.com/item?id=30674862</id>
-        <link href="https://news.ycombinator.com/item?id=30674862"/>
-        <updated>2022-03-14T16:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Commentary on the Sixth Edition Unix Operating System]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印第安納州差點兒做成π=3.2]]></title>
-        <id>https://news.ycombinator.com/item?id=30674470</id>
-        <link href="https://news.ycombinator.com/item?id=30674470"/>
-        <updated>2022-03-14T16:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Indiana Almost Made pi = 3.2]]></summary>
-        <author>
-            <name>azhenley</name>
-            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國聯邦支出法案免除了對牲畜排放的監管和報告]]></title>
-        <id>https://news.ycombinator.com/item?id=30674285</id>
-        <link href="https://news.ycombinator.com/item?id=30674285"/>
-        <updated>2022-03-14T16:18:13.000Z</updated>
-        <summary type="html"><![CDATA[US federal spending bill exempts livestock emissions from regulation, reporting]]></summary>
-        <author>
-            <name>floor2</name>
-            <uri>https://news.ycombinator.com/user?id=floor2</uri>
         </author>
     </entry>
 </feed>
