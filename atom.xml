@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T21:12:43.595Z</updated>
+    <updated>2022-03-16T21:30:28.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯轰炸了数百人避难的剧院，"儿童 "被写在地上]]></title>
+        <id>https://news.ycombinator.com/item?id=30704148</id>
+        <link href="https://news.ycombinator.com/item?id=30704148"/>
+        <updated>2022-03-16T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Russia bombs theater where hundreds sheltered and 'children' written on grounds]]></summary>
+        <author>
+            <name>trhway</name>
+            <uri>https://news.ycombinator.com/user?id=trhway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解Web3的意义]]></title>
+        <id>https://news.ycombinator.com/item?id=30704064</id>
+        <link href="https://news.ycombinator.com/item?id=30704064"/>
+        <updated>2022-03-16T21:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Making Sense of Web3]]></summary>
+        <author>
+            <name>gregdoesit</name>
+            <uri>https://news.ycombinator.com/user?id=gregdoesit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe将在您提交之前审查您的YC申请]]></title>
+        <id>https://news.ycombinator.com/item?id=30703363</id>
+        <link href="https://news.ycombinator.com/item?id=30703363"/>
+        <updated>2022-03-16T20:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Stripe will review your YC application before you submit]]></summary>
+        <author>
+            <name>philipjoubert</name>
+            <uri>https://news.ycombinator.com/user?id=philipjoubert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac上的Java黄金时代]]></title>
+        <id>https://news.ycombinator.com/item?id=30702122</id>
+        <link href="https://news.ycombinator.com/item?id=30702122"/>
+        <updated>2022-03-16T18:14:12.000Z</updated>
+        <summary type="html"><![CDATA[The Golden Age of Java on the Mac]]></summary>
+        <author>
+            <name>lycopodiopsida</name>
+            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NPM软件包被作者泄露：安装时删除RU/BY电脑上的文件]]></title>
         <id>https://news.ycombinator.com/item?id=30703817</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>dm03514</name>
             <uri>https://news.ycombinator.com/user?id=dm03514</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个灵活的、轻量级的、旋转锁定的屏障]]></title>
-        <id>https://news.ycombinator.com/item?id=30671979</id>
-        <link href="https://news.ycombinator.com/item?id=30671979"/>
-        <updated>2022-03-14T13:10:01.000Z</updated>
-        <summary type="html"><![CDATA[A flexible, lightweight, spin-lock barrier]]></summary>
-        <author>
-            <name>kencausey</name>
-            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯对乌克兰的入侵是如何撕裂全球粮食系统的]]></title>
-        <id>https://news.ycombinator.com/item?id=30671727</id>
-        <link href="https://news.ycombinator.com/item?id=30671727"/>
-        <updated>2022-03-14T12:45:05.000Z</updated>
-        <summary type="html"><![CDATA[How Russia’s Invasion of Ukraine Is Tearing Apart the Global Food System]]></summary>
-        <author>
-            <name>imartin2k</name>
-            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace, CodeMirror, and Monaco: A Comparison of Code Editors You Use in Browser]]></title>
-        <id>https://news.ycombinator.com/item?id=30673759</id>
-        <link href="https://news.ycombinator.com/item?id=30673759"/>
-        <updated>2022-03-14T15:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in Browser]]></summary>
-        <author>
-            <name>williamstein</name>
-            <uri>https://news.ycombinator.com/user?id=williamstein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEP 594 "从标准库中删除死电池 "被接受]]></title>
-        <id>https://news.ycombinator.com/item?id=30673597</id>
-        <link href="https://news.ycombinator.com/item?id=30673597"/>
-        <updated>2022-03-14T15:31:45.000Z</updated>
-        <summary type="html"><![CDATA[PEP 594 “Removing dead batteries from the standard library” accepted]]></summary>
-        <author>
-            <name>williamsmj</name>
-            <uri>https://news.ycombinator.com/user?id=williamsmj</uri>
         </author>
     </entry>
 </feed>
