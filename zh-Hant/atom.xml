@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T12:53:49.629Z</updated>
+    <updated>2022-03-16T13:31:36.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marina Ovsyannikova是自由的]]></title>
+        <id>https://news.ycombinator.com/item?id=30698324</id>
+        <link href="https://news.ycombinator.com/item?id=30698324"/>
+        <updated>2022-03-16T13:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Marina Ovsyannikova Is Free]]></summary>
+        <author>
+            <name>FpUser</name>
+            <uri>https://news.ycombinator.com/user?id=FpUser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Sarus（YC W22）--在敏感數據上的工作具有不同的隱私性]]></title>
+        <id>https://news.ycombinator.com/item?id=30698215</id>
+        <link href="https://news.ycombinator.com/item?id=30698215"/>
+        <updated>2022-03-16T13:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Sarus (YC W22) – Work on sensitive data with differential privacy]]></summary>
+        <author>
+            <name>maximeago</name>
+            <uri>https://news.ycombinator.com/user?id=maximeago</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經濟增長是否有極限？]]></title>
+        <id>https://news.ycombinator.com/item?id=30698140</id>
+        <link href="https://news.ycombinator.com/item?id=30698140"/>
+        <updated>2022-03-16T12:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Are there limits to economic growth?]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curl現在支持JSON輸入]]></title>
+        <id>https://news.ycombinator.com/item?id=30697695</id>
+        <link href="https://news.ycombinator.com/item?id=30697695"/>
+        <updated>2022-03-16T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Curl Now Supports JSON Input]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有史以來第一次戰爭的深層假象。祝賀你]]></title>
         <id>https://news.ycombinator.com/item?id=30697932</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>FailMore</name>
             <uri>https://news.ycombinator.com/user?id=FailMore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veloren是一個用Rust編寫的多人體素RPG遊戲。]]></title>
-        <id>https://news.ycombinator.com/item?id=30667022</id>
-        <link href="https://news.ycombinator.com/item?id=30667022"/>
-        <updated>2022-03-13T23:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Veloren is a multiplayer voxel RPG written in Rust]]></summary>
-        <author>
-            <name>albertzeyer</name>
-            <uri>https://news.ycombinator.com/user?id=albertzeyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼不常見的嬰兒名字正在激增]]></title>
-        <id>https://news.ycombinator.com/item?id=30667002</id>
-        <link href="https://news.ycombinator.com/item?id=30667002"/>
-        <updated>2022-03-13T23:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Why uncommon baby names are surging]]></summary>
-        <author>
-            <name>pmontra</name>
-            <uri>https://news.ycombinator.com/user?id=pmontra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[諾姆-喬姆斯基。美國對俄羅斯的軍事升級不會有勝利者]]></title>
-        <id>https://news.ycombinator.com/item?id=30666989</id>
-        <link href="https://news.ycombinator.com/item?id=30666989"/>
-        <updated>2022-03-13T23:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Noam Chomsky: US Military Escalation Against Russia Would Have No Victors]]></summary>
-        <author>
-            <name>bardc</name>
-            <uri>https://news.ycombinator.com/user?id=bardc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用谷歌表格製作的Wordle克隆]]></title>
-        <id>https://news.ycombinator.com/item?id=30666936</id>
-        <link href="https://news.ycombinator.com/item?id=30666936"/>
-        <updated>2022-03-13T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Wordle clone made in Google Sheets]]></summary>
-        <author>
-            <name>dajas</name>
-            <uri>https://news.ycombinator.com/user?id=dajas</uri>
         </author>
     </entry>
 </feed>
