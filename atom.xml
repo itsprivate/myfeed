@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T05:36:45.392Z</updated>
+    <updated>2022-03-16T05:51:53.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可塑性是艺术家的CAD]]></title>
+        <id>https://news.ycombinator.com/item?id=30695360</id>
+        <link href="https://news.ycombinator.com/item?id=30695360"/>
+        <updated>2022-03-16T04:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Plasticity Is CAD for Artists]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分片数据库可以使其更快]]></title>
+        <id>https://news.ycombinator.com/item?id=30695323</id>
+        <link href="https://news.ycombinator.com/item?id=30695323"/>
+        <updated>2022-03-16T04:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Sharding a database can make it faster]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食品频道因非西方观点而被取消资格]]></title>
+        <id>https://news.ycombinator.com/item?id=30694938</id>
+        <link href="https://news.ycombinator.com/item?id=30694938"/>
+        <updated>2022-03-16T03:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Food channel demonetized for non-western perspectives]]></summary>
+        <author>
+            <name>azinman2</name>
+            <uri>https://news.ycombinator.com/user?id=azinman2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在电视直播中抗议战争的俄罗斯人拒绝撤回其声明]]></title>
         <id>https://news.ycombinator.com/item?id=30695426</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>badrabbit</name>
             <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯对亚沃洛夫军事基地进行导弹打击，击毙志愿者]]></title>
-        <id>https://news.ycombinator.com/item?id=30665145</id>
-        <link href="https://news.ycombinator.com/item?id=30665145"/>
-        <updated>2022-03-13T20:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Russia conducts missiles strikes against Yavoriv military base, kills volunteers]]></summary>
-        <author>
-            <name>throwawaybutwhy</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯要求中国为其入侵乌克兰提供军事援助]]></title>
-        <id>https://news.ycombinator.com/item?id=30665106</id>
-        <link href="https://news.ycombinator.com/item?id=30665106"/>
-        <updated>2022-03-13T19:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Russia asks China for military assistance in its invasion of Ukraine]]></summary>
-        <author>
-            <name>labrador</name>
-            <uri>https://news.ycombinator.com/user?id=labrador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一个反客户的时代，我从Windows到Linux的转变]]></title>
-        <id>https://news.ycombinator.com/item?id=30664681</id>
-        <link href="https://news.ycombinator.com/item?id=30664681"/>
-        <updated>2022-03-13T19:10:14.000Z</updated>
-        <summary type="html"><![CDATA[My transition from Windows to Linux in an anti-customer age]]></summary>
-        <author>
-            <name>trinsic2</name>
-            <uri>https://news.ycombinator.com/user?id=trinsic2</uri>
         </author>
     </entry>
 </feed>
