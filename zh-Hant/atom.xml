@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T23:40:44.900Z</updated>
+    <updated>2022-03-16T23:51:59.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韋伯太空望遠鏡的工作情況與天文學家夢想的一樣好]]></title>
+        <id>https://news.ycombinator.com/item?id=30705429</id>
+        <link href="https://news.ycombinator.com/item?id=30705429"/>
+        <updated>2022-03-16T23:19:44.000Z</updated>
+        <summary type="html"><![CDATA[The James Webb Space Telescope is working as well as astronomers dreamed]]></summary>
+        <author>
+            <name>sharkweek</name>
+            <uri>https://news.ycombinator.com/user?id=sharkweek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是的，PHP比C#快]]></title>
+        <id>https://news.ycombinator.com/item?id=30705396</id>
+        <link href="https://news.ycombinator.com/item?id=30705396"/>
+        <updated>2022-03-16T23:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Yes, PHP is faster than C#]]></summary>
+        <author>
+            <name>withinboredom</name>
+            <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道德機器實驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30704631</id>
+        <link href="https://news.ycombinator.com/item?id=30704631"/>
+        <updated>2022-03-16T21:55:47.000Z</updated>
+        <summary type="html"><![CDATA[The Moral Machine Experiment]]></summary>
+        <author>
+            <name>nothrowaways</name>
+            <uri>https://news.ycombinator.com/user?id=nothrowaways</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN：條紋偷走了我們的15.9萬美元]]></title>
         <id>https://news.ycombinator.com/item?id=30705500</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>fbriggs</name>
             <uri>https://news.ycombinator.com/user?id=fbriggs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["弗吉尼亞州水晶城的步行標誌只是在重複 "更改密碼"。"]]></title>
-        <id>https://news.ycombinator.com/item?id=30675727</id>
-        <link href="https://news.ycombinator.com/item?id=30675727"/>
-        <updated>2022-03-14T18:00:55.000Z</updated>
-        <summary type="html"><![CDATA[“The walk signs in Crystal City, VA are just repeating ”CHANGE PASSWORD“.”]]></summary>
-        <author>
-            <name>Shank</name>
-            <uri>https://news.ycombinator.com/user?id=Shank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[醫學生通過手術將藍牙植入自己的耳朵以在決賽中作弊]]></title>
-        <id>https://news.ycombinator.com/item?id=30675666</id>
-        <link href="https://news.ycombinator.com/item?id=30675666"/>
-        <updated>2022-03-14T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Medical student surgically implants Bluetooth into own ear to cheat in final]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單眼視頻的實時相干三維重建]]></title>
-        <id>https://news.ycombinator.com/item?id=30675581</id>
-        <link href="https://news.ycombinator.com/item?id=30675581"/>
-        <updated>2022-03-14T17:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Real-Time Coherent 3D Reconstruction from Monocular Video]]></summary>
-        <author>
-            <name>samber</name>
-            <uri>https://news.ycombinator.com/user?id=samber</uri>
         </author>
     </entry>
 </feed>
