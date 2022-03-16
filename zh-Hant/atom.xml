@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T07:31:58.578Z</updated>
+    <updated>2022-03-16T07:51:20.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為了讓學生留在莖部領域，讓我們淘汰那些被淘汰的數學課吧]]></title>
+        <id>https://news.ycombinator.com/item?id=30695743</id>
+        <link href="https://news.ycombinator.com/item?id=30695743"/>
+        <updated>2022-03-16T05:49:36.000Z</updated>
+        <summary type="html"><![CDATA[To Keep Students in Stem Fields, Let’s Weed Out the Weed-Out Math Classes]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LibreTube主要開發者賬戶被GitHub暫停，沒有任何理由]]></title>
         <id>https://news.ycombinator.com/item?id=30696077</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>oger</name>
             <uri>https://news.ycombinator.com/user?id=oger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[託卡馬克能源公司實現了商業核聚變的溫度閾值]]></title>
-        <id>https://news.ycombinator.com/item?id=30665140</id>
-        <link href="https://news.ycombinator.com/item?id=30665140"/>
-        <updated>2022-03-13T20:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Tokamak Energy achieves temperature threshold for commercial fusion]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
