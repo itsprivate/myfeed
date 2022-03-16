@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T10:51:46.122Z</updated>
+    <updated>2022-03-16T11:10:49.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯面临IT危机，仅剩两个月的数据存储时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30697163</id>
+        <link href="https://news.ycombinator.com/item?id=30697163"/>
+        <updated>2022-03-16T10:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Russia faces IT crisis with just two months of data storage left]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随着气候变化，花粉季节越来越长，强度越来越大]]></title>
+        <id>https://news.ycombinator.com/item?id=30696985</id>
+        <link href="https://news.ycombinator.com/item?id=30696985"/>
+        <updated>2022-03-16T10:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Pollen season is getting longer and more intense with climate change]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界没有阻止阿塞拜疆和土耳其，所以历史在乌克兰重演]]></title>
         <id>https://news.ycombinator.com/item?id=30697014</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡住了]]></title>
-        <id>https://news.ycombinator.com/item?id=30664484</id>
-        <link href="https://news.ycombinator.com/item?id=30664484"/>
-        <updated>2022-03-13T18:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Stuck]]></summary>
-        <author>
-            <name>chesterfield</name>
-            <uri>https://news.ycombinator.com/user?id=chesterfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS代码扩展到文档代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30665821</id>
-        <link href="https://news.ycombinator.com/item?id=30665821"/>
-        <updated>2022-03-13T21:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VS Code Extension to Document Code]]></summary>
-        <author>
-            <name>calum-bird</name>
-            <uri>https://news.ycombinator.com/user?id=calum-bird</uri>
         </author>
     </entry>
 </feed>
