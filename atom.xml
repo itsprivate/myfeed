@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T13:31:36.904Z</updated>
+    <updated>2022-03-16T13:37:02.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能驱动的药物发现的双重用途]]></title>
+        <id>https://news.ycombinator.com/item?id=30698097</id>
+        <link href="https://news.ycombinator.com/item?id=30698097"/>
+        <updated>2022-03-16T12:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Dual use of artificial-intelligence-powered drug discovery]]></summary>
+        <author>
+            <name>heliostatic</name>
+            <uri>https://news.ycombinator.com/user?id=heliostatic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家得宝通过矢量搜索找到了DIY的成功之道]]></title>
+        <id>https://news.ycombinator.com/item?id=30698065</id>
+        <link href="https://news.ycombinator.com/item?id=30698065"/>
+        <updated>2022-03-16T12:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Home Depot Finds DIY Success with Vector Search]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marina Ovsyannikova是自由的]]></title>
         <id>https://news.ycombinator.com/item?id=30698324</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>potiuper</name>
             <uri>https://news.ycombinator.com/user?id=potiuper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双重收入的陷阱 (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30667070</id>
-        <link href="https://news.ycombinator.com/item?id=30667070"/>
-        <updated>2022-03-14T00:04:43.000Z</updated>
-        <summary type="html"><![CDATA[The Two-Income Trap (2014)]]></summary>
-        <author>
-            <name>vwoolf</name>
-            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正在进行的采访，你可以关注。Apache Kafka的内容、原因和方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30667045</id>
-        <link href="https://news.ycombinator.com/item?id=30667045"/>
-        <updated>2022-03-14T00:00:59.000Z</updated>
-        <summary type="html"><![CDATA[In progress interview you can follow: The what, why and how of Apache Kafka]]></summary>
-        <author>
-            <name>FailMore</name>
-            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
         </author>
     </entry>
 </feed>
