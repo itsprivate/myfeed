@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T05:51:53.699Z</updated>
+    <updated>2022-03-16T06:14:27.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BiglyBT是一个功能丰富、开源、无广告的BitTorrent客户端。]]></title>
+        <id>https://news.ycombinator.com/item?id=30695734</id>
+        <link href="https://news.ycombinator.com/item?id=30695734"/>
+        <updated>2022-03-16T05:47:35.000Z</updated>
+        <summary type="html"><![CDATA[BiglyBT is a feature filled, open source, ad-free, BitTorrent client]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰独立游戏集锦]]></title>
+        <id>https://news.ycombinator.com/item?id=30695608</id>
+        <link href="https://news.ycombinator.com/item?id=30695608"/>
+        <updated>2022-03-16T05:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Indie Games Bundle]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可塑性是艺术家的CAD]]></title>
         <id>https://news.ycombinator.com/item?id=30695360</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>politelemon</name>
             <uri>https://news.ycombinator.com/user?id=politelemon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬兰大学邀请逃离乌克兰的学生]]></title>
-        <id>https://news.ycombinator.com/item?id=30664707</id>
-        <link href="https://news.ycombinator.com/item?id=30664707"/>
-        <updated>2022-03-13T19:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Finnish University invites students fleeing Ukraine]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长枪短炮项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30664304</id>
-        <link href="https://news.ycombinator.com/item?id=30664304"/>
-        <updated>2022-03-13T18:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Project Longshot]]></summary>
-        <author>
-            <name>badrabbit</name>
-            <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
         </author>
     </entry>
 </feed>
