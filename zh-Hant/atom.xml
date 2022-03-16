@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T05:11:55.847Z</updated>
+    <updated>2022-03-16T05:29:34.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[激進的互操作性是一個政治議程]]></title>
+        <id>https://news.ycombinator.com/item?id=30695470</id>
+        <link href="https://news.ycombinator.com/item?id=30695470"/>
+        <updated>2022-03-16T04:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Radical Interoperability Is a Political Agenda]]></summary>
+        <author>
+            <name>cambel</name>
+            <uri>https://news.ycombinator.com/user?id=cambel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：Mailchimp鎖定了我的賬戶，因為我是俄羅斯人]]></title>
         <id>https://news.ycombinator.com/item?id=30695453</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>green-eclipse</name>
             <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員發現人類大腦是如何分離、存儲和檢索記憶的]]></title>
-        <id>https://news.ycombinator.com/item?id=30664733</id>
-        <link href="https://news.ycombinator.com/item?id=30664733"/>
-        <updated>2022-03-13T19:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Researchers uncover how the human-brain separates, stores and retrieves-memories]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
