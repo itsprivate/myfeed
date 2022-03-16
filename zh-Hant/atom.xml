@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T20:14:34.282Z</updated>
+    <updated>2022-03-16T20:33:39.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德諾是韋比]]></title>
+        <id>https://news.ycombinator.com/item?id=30703531</id>
+        <link href="https://news.ycombinator.com/item?id=30703531"/>
+        <updated>2022-03-16T20:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Deno Is Webby]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
+        <id>https://news.ycombinator.com/item?id=30703161</id>
+        <link href="https://news.ycombinator.com/item?id=30703161"/>
+        <updated>2022-03-16T19:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></summary>
+        <author>
+            <name>higgins</name>
+            <uri>https://news.ycombinator.com/user?id=higgins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[內容審核和褻瀆過濾的最佳做法]]></title>
+        <id>https://news.ycombinator.com/item?id=30703065</id>
+        <link href="https://news.ycombinator.com/item?id=30703065"/>
+        <updated>2022-03-16T19:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Content Moderation and Profanity Filtering Best Practices]]></summary>
+        <author>
+            <name>bewalt</name>
+            <uri>https://news.ycombinator.com/user?id=bewalt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使Docker鏡像更小]]></title>
         <id>https://news.ycombinator.com/item?id=30703202</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dexwell</name>
             <uri>https://news.ycombinator.com/user?id=dexwell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[統一的遊戲。農民偷竊坦克]]></title>
-        <id>https://news.ycombinator.com/item?id=30673336</id>
-        <link href="https://news.ycombinator.com/item?id=30673336"/>
-        <updated>2022-03-14T15:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Unity Game: Farmers stealing tanks]]></summary>
-        <author>
-            <name>danfritz</name>
-            <uri>https://news.ycombinator.com/user?id=danfritz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微小的星系揭示了超大質量黑洞的秘密]]></title>
-        <id>https://news.ycombinator.com/item?id=30673142</id>
-        <link href="https://news.ycombinator.com/item?id=30673142"/>
-        <updated>2022-03-14T14:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Tiny Galaxies Reveal Secrets of Supermassive Black Holes]]></summary>
-        <author>
-            <name>theafh</name>
-            <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國農業部宣佈計劃支持創新的美國製造的化肥]]></title>
-        <id>https://news.ycombinator.com/item?id=30672942</id>
-        <link href="https://news.ycombinator.com/item?id=30672942"/>
-        <updated>2022-03-14T14:37:55.000Z</updated>
-        <summary type="html"><![CDATA[USDA announces plans to support innovative American-made fertilizer]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>

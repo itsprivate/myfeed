@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 20:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德諾是韋比]]></title>
+            <link>https://news.ycombinator.com/item?id=30703531</link>
+            <guid>https://news.ycombinator.com/item?id=30703531</guid>
+            <pubDate>Wed, 16 Mar 2022 20:21:09 GMT</pubDate>
+            <description><![CDATA[Deno Is Webby]]></description>
+        </item>
+        <item>
+            <title><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
+            <link>https://news.ycombinator.com/item?id=30703161</link>
+            <guid>https://news.ycombinator.com/item?id=30703161</guid>
+            <pubDate>Wed, 16 Mar 2022 19:48:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[內容審核和褻瀆過濾的最佳做法]]></title>
+            <link>https://news.ycombinator.com/item?id=30703065</link>
+            <guid>https://news.ycombinator.com/item?id=30703065</guid>
+            <pubDate>Wed, 16 Mar 2022 19:41:45 GMT</pubDate>
+            <description><![CDATA[Content Moderation and Profanity Filtering Best Practices]]></description>
+        </item>
         <item>
             <title><![CDATA[如何使Docker鏡像更小]]></title>
             <link>https://news.ycombinator.com/item?id=30703202</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30671202</guid>
             <pubDate>Mon, 14 Mar 2022 11:40:13 GMT</pubDate>
             <description><![CDATA[Matrix network planning a distributed approach to online moderation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[統一的遊戲。農民偷竊坦克]]></title>
-            <link>https://news.ycombinator.com/item?id=30673336</link>
-            <guid>https://news.ycombinator.com/item?id=30673336</guid>
-            <pubDate>Mon, 14 Mar 2022 15:09:37 GMT</pubDate>
-            <description><![CDATA[Unity Game: Farmers stealing tanks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微小的星系揭示了超大質量黑洞的秘密]]></title>
-            <link>https://news.ycombinator.com/item?id=30673142</link>
-            <guid>https://news.ycombinator.com/item?id=30673142</guid>
-            <pubDate>Mon, 14 Mar 2022 14:53:56 GMT</pubDate>
-            <description><![CDATA[Tiny Galaxies Reveal Secrets of Supermassive Black Holes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國農業部宣佈計劃支持創新的美國製造的化肥]]></title>
-            <link>https://news.ycombinator.com/item?id=30672942</link>
-            <guid>https://news.ycombinator.com/item?id=30672942</guid>
-            <pubDate>Mon, 14 Mar 2022 14:37:55 GMT</pubDate>
-            <description><![CDATA[USDA announces plans to support innovative American-made fertilizer]]></description>
         </item>
     </channel>
 </rss>
