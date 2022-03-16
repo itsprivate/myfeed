@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 20:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微波爐及其危害]]></title>
+            <link>https://news.ycombinator.com/item?id=30703508</link>
+            <guid>https://news.ycombinator.com/item?id=30703508</guid>
+            <pubDate>Wed, 16 Mar 2022 20:19:02 GMT</pubDate>
+            <description><![CDATA[Microwave Ovens and Their Hazards]]></description>
+        </item>
+        <item>
+            <title><![CDATA[構建一個加載條組件]]></title>
+            <link>https://news.ycombinator.com/item?id=30703175</link>
+            <guid>https://news.ycombinator.com/item?id=30703175</guid>
+            <pubDate>Wed, 16 Mar 2022 19:49:04 GMT</pubDate>
+            <description><![CDATA[Building a Loading Bar Component]]></description>
+        </item>
         <item>
             <title><![CDATA[德諾是韋比]]></title>
             <link>https://news.ycombinator.com/item?id=30703531</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30672999</guid>
             <pubDate>Mon, 14 Mar 2022 14:42:05 GMT</pubDate>
             <description><![CDATA[Fermat Attack on RSA]]></description>
-        </item>
-        <item>
-            <title><![CDATA[構建谷歌照片的網絡用戶界面。窺視引擎內部]]></title>
-            <link>https://news.ycombinator.com/item?id=30672883</link>
-            <guid>https://news.ycombinator.com/item?id=30672883</guid>
-            <pubDate>Mon, 14 Mar 2022 14:32:14 GMT</pubDate>
-            <description><![CDATA[Building the Google Photos Web UI: A peek under the hood]]></description>
-        </item>
-        <item>
-            <title><![CDATA[矩陣式網絡規劃是一種分佈式的在線審核方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30671202</link>
-            <guid>https://news.ycombinator.com/item?id=30671202</guid>
-            <pubDate>Mon, 14 Mar 2022 11:40:13 GMT</pubDate>
-            <description><![CDATA[Matrix network planning a distributed approach to online moderation]]></description>
         </item>
     </channel>
 </rss>
