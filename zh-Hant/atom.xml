@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T21:30:28.239Z</updated>
+    <updated>2022-03-16T21:38:24.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[敖德薩迷宮般的地下墓穴可能是俄羅斯入侵者的壞消息]]></title>
+        <id>https://news.ycombinator.com/item?id=30704161</id>
+        <link href="https://news.ycombinator.com/item?id=30704161"/>
+        <updated>2022-03-16T21:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Odesa's Maze-Like Catacombs Could Be Bad News for Russian Invaders]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯轟炸了數百人避難的劇院，"兒童 "被寫在地上]]></title>
         <id>https://news.ycombinator.com/item?id=30704148</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫了一本初學SRE的書，今天是免費的]]></title>
-        <id>https://news.ycombinator.com/item?id=30672041</id>
-        <link href="https://news.ycombinator.com/item?id=30672041"/>
-        <updated>2022-03-14T13:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a beginner SRE book, and it's free today]]></summary>
-        <author>
-            <name>dm03514</name>
-            <uri>https://news.ycombinator.com/user?id=dm03514</uri>
         </author>
     </entry>
 </feed>
