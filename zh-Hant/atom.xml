@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T10:33:46.422Z</updated>
+    <updated>2022-03-16T10:44:03.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[挪威為烏克蘭難民開發的招聘網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30696998</id>
+        <link href="https://news.ycombinator.com/item?id=30696998"/>
+        <updated>2022-03-16T10:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Norwegian developer job board for Ukrainian refugees]]></summary>
+        <author>
+            <name>retrojorgen</name>
+            <uri>https://news.ycombinator.com/user?id=retrojorgen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[儘管存在漏洞，GitHub也不會恢復HTTPie的粉絲，沒有通知]]></title>
         <id>https://news.ycombinator.com/item?id=30696255</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kinrany</name>
             <uri>https://news.ycombinator.com/user?id=Kinrany</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的戰爭。統一著裝--烏克蘭新招募的青少年軍隊]]></title>
-        <id>https://news.ycombinator.com/item?id=30665875</id>
-        <link href="https://news.ycombinator.com/item?id=30665875"/>
-        <updated>2022-03-13T21:23:59.000Z</updated>
-        <summary type="html"><![CDATA[War in Ukraine: Uni to uniform – Ukraine's new teenage army recruits]]></summary>
-        <author>
-            <name>LittleMoveBig</name>
-            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
         </author>
     </entry>
 </feed>
