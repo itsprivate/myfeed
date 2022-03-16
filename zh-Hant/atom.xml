@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T11:29:30.159Z</updated>
+    <updated>2022-03-16T11:36:27.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MSFT展示了以前難以捉摸的物理學，需要建立可擴展的量子比特]]></title>
+        <id>https://news.ycombinator.com/item?id=30697374</id>
+        <link href="https://news.ycombinator.com/item?id=30697374"/>
+        <updated>2022-03-16T11:06:40.000Z</updated>
+        <summary type="html"><![CDATA[MSFT demonstrates formerly elusive physics needed to build scalable qubits]]></summary>
+        <author>
+            <name>rahulravu96</name>
+            <uri>https://news.ycombinator.com/user?id=rahulravu96</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國有一個決定性的選擇要做]]></title>
         <id>https://news.ycombinator.com/item?id=30696984</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aww_dang</name>
             <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據激光雷達數據繪製的紐約曼哈頓的詳細陰影浮雕地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30666680</id>
-        <link href="https://news.ycombinator.com/item?id=30666680"/>
-        <updated>2022-03-13T23:07:58.000Z</updated>
-        <summary type="html"><![CDATA[A detailed shaded relief map of Manhattan New York rendered from Lidar data]]></summary>
-        <author>
-            <name>beatthatflight</name>
-            <uri>https://news.ycombinator.com/user?id=beatthatflight</uri>
         </author>
     </entry>
 </feed>
