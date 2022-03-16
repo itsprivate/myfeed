@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 16 Mar 2022 10:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[世界沒有阻止阿塞拜疆和土耳其，所以歷史在烏克蘭重演]]></title>
+            <link>https://news.ycombinator.com/item?id=30697014</link>
+            <guid>https://news.ycombinator.com/item?id=30697014</guid>
+            <pubDate>Wed, 16 Mar 2022 10:06:19 GMT</pubDate>
+            <description><![CDATA[The world didn’t stop Azerbaijan and Turkey, so history repeats in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個像Firestore和Algolia一樣的數據存儲，合二為一]]></title>
+            <link>https://news.ycombinator.com/item?id=30696718</link>
+            <guid>https://news.ycombinator.com/item?id=30696718</guid>
+            <pubDate>Wed, 16 Mar 2022 09:08:30 GMT</pubDate>
+            <description><![CDATA[Show HN: A data store like Firestore and Algolia all in one]]></description>
+        </item>
         <item>
             <title><![CDATA[挪威為烏克蘭難民開發的招聘網站]]></title>
             <link>https://news.ycombinator.com/item?id=30696998</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30665821</guid>
             <pubDate>Sun, 13 Mar 2022 21:18:50 GMT</pubDate>
             <description><![CDATA[Show HN: VS Code Extension to Document Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯流向歐洲的天然氣，每日更新]]></title>
-            <link>https://news.ycombinator.com/item?id=30664797</link>
-            <guid>https://news.ycombinator.com/item?id=30664797</guid>
-            <pubDate>Sun, 13 Mar 2022 19:22:19 GMT</pubDate>
-            <description><![CDATA[Russian gas flows to Europe, updated daily]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QSN：一種熟悉的字符串交換格式]]></title>
-            <link>https://news.ycombinator.com/item?id=30665929</link>
-            <guid>https://news.ycombinator.com/item?id=30665929</guid>
-            <pubDate>Sun, 13 Mar 2022 21:31:08 GMT</pubDate>
-            <description><![CDATA[QSN: A Familiar String Interchange Format]]></description>
         </item>
     </channel>
 </rss>
