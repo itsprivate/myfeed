@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-16T20:43:04.624Z</updated>
+    <updated>2022-03-16T20:52:13.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们的宇宙可能有一个在时间上向后运行的孪生兄弟]]></title>
+        <id>https://news.ycombinator.com/item?id=30703690</id>
+        <link href="https://news.ycombinator.com/item?id=30703690"/>
+        <updated>2022-03-16T20:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Our universe may have a twin that runs backward in time]]></summary>
+        <author>
+            <name>grogu88</name>
+            <uri>https://news.ycombinator.com/user?id=grogu88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑成像研究因数据集小而受阻]]></title>
+        <id>https://news.ycombinator.com/item?id=30703260</id>
+        <link href="https://news.ycombinator.com/item?id=30703260"/>
+        <updated>2022-03-16T19:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Brain-Imaging Studies Hampered by Small Data Sets]]></summary>
+        <author>
+            <name>cafebeen</name>
+            <uri>https://news.ycombinator.com/user?id=cafebeen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[决定。红帽公司对丹尼尔-波克/软件自由研究所SA的诉讼]]></title>
+        <id>https://news.ycombinator.com/item?id=30702991</id>
+        <link href="https://news.ycombinator.com/item?id=30702991"/>
+        <updated>2022-03-16T19:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Decision: Red Hat, Inc. vs. Daniel Pocock / Software Freedom Institute SA]]></summary>
+        <author>
+            <name>jaboutboul</name>
+            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的Ubuntu标志在这里]]></title>
+        <id>https://news.ycombinator.com/item?id=30702201</id>
+        <link href="https://news.ycombinator.com/item?id=30702201"/>
+        <updated>2022-03-16T18:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Ubuntu logo is here]]></summary>
+        <author>
+            <name>vedikan123</name>
+            <uri>https://news.ycombinator.com/user?id=vedikan123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微波炉及其危害]]></title>
         <id>https://news.ycombinator.com/item?id=30703508</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>media_hacker</name>
             <uri>https://news.ycombinator.com/user?id=media_hacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的新法律。网络攻击应在72小时内报告]]></title>
-        <id>https://news.ycombinator.com/item?id=30672292</id>
-        <link href="https://news.ycombinator.com/item?id=30672292"/>
-        <updated>2022-03-14T13:40:47.000Z</updated>
-        <summary type="html"><![CDATA[New US law: Cyberattacks to be reported within 72 hours]]></summary>
-        <author>
-            <name>zinekeller</name>
-            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit的衰落--为什么Reddit很糟糕，以及如何修复它]]></title>
-        <id>https://news.ycombinator.com/item?id=30673482</id>
-        <link href="https://news.ycombinator.com/item?id=30673482"/>
-        <updated>2022-03-14T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[The Downfall of Reddit – Why Reddit Sucks, and How to Fix It]]></summary>
-        <author>
-            <name>JSavageOne</name>
-            <uri>https://news.ycombinator.com/user?id=JSavageOne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯进攻性运动评估，3月13日]]></title>
-        <id>https://news.ycombinator.com/item?id=30673354</id>
-        <link href="https://news.ycombinator.com/item?id=30673354"/>
-        <updated>2022-03-14T15:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Russian Offensive Campaign Assessment, March 13]]></summary>
-        <author>
-            <name>gnull</name>
-            <uri>https://news.ycombinator.com/user?id=gnull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对RSA的费马攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=30672999</id>
-        <link href="https://news.ycombinator.com/item?id=30672999"/>
-        <updated>2022-03-14T14:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Fermat Attack on RSA]]></summary>
-        <author>
-            <name>hannob</name>
-            <uri>https://news.ycombinator.com/user?id=hannob</uri>
         </author>
     </entry>
 </feed>
