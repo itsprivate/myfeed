@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T23:12:52.979Z</updated>
+    <updated>2022-03-17T23:32:28.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯面临IT危机，仅剩两个月的数据存储时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30716895</id>
+        <link href="https://news.ycombinator.com/item?id=30716895"/>
+        <updated>2022-03-17T23:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Russia faces IT crisis with just two months of data storage left]]></summary>
+        <author>
+            <name>indus</name>
+            <uri>https://news.ycombinator.com/user?id=indus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国围棋选手因在全国比赛中使用人工智能被禁赛一年]]></title>
+        <id>https://news.ycombinator.com/item?id=30716863</id>
+        <link href="https://news.ycombinator.com/item?id=30716863"/>
+        <updated>2022-03-17T23:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Chinese Go player gets one-year ban for using AI during national competition]]></summary>
+        <author>
+            <name>indus</name>
+            <uri>https://news.ycombinator.com/user?id=indus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[围绕无房的创新失败得很厉害]]></title>
+        <id>https://news.ycombinator.com/item?id=30716852</id>
+        <link href="https://news.ycombinator.com/item?id=30716852"/>
+        <updated>2022-03-17T23:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Innovation around houselessness fails so much]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python终于卸下了一些电池]]></title>
+        <id>https://news.ycombinator.com/item?id=30716844</id>
+        <link href="https://news.ycombinator.com/item?id=30716844"/>
+        <updated>2022-03-17T23:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Python finally offloads some batteries]]></summary>
+        <author>
+            <name>jwilk</name>
+            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在大流行期间，HN讨论的质量是否有变化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30716771</id>
+        <link href="https://news.ycombinator.com/item?id=30716771"/>
+        <updated>2022-03-17T22:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Has the quality of HN Discussion changed during the pandemic?]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯大厦在遭受巨大损失后面临着不确定的未来]]></title>
+        <id>https://news.ycombinator.com/item?id=30716762</id>
+        <link href="https://news.ycombinator.com/item?id=30716762"/>
+        <updated>2022-03-17T22:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Russia House Faces an Uncertain Future After Sustaining Costly Damage]]></summary>
+        <author>
+            <name>counternotions</name>
+            <uri>https://news.ycombinator.com/user?id=counternotions</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[94岁的尤金-N-帕克逝世；预测了太阳风的存在]]></title>
+        <id>https://news.ycombinator.com/item?id=30716747</id>
+        <link href="https://news.ycombinator.com/item?id=30716747"/>
+        <updated>2022-03-17T22:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Eugene N. Parker, 94, Dies; Predicted the Existence of Solar Wind]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深度伪造的视频似乎显示普京宣布和平]]></title>
         <id>https://news.ycombinator.com/item?id=30716794</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于 Debian 的 RDP 客户端。一个不完整的回顾]]></title>
-        <id>https://news.ycombinator.com/item?id=30693370</id>
-        <link href="https://news.ycombinator.com/item?id=30693370"/>
-        <updated>2022-03-15T23:35:32.000Z</updated>
-        <summary type="html"><![CDATA[RDP Clients for Debian: An incomplete review]]></summary>
-        <author>
-            <name>smackeyacky</name>
-            <uri>https://news.ycombinator.com/user?id=smackeyacky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子游戏对大脑的影响]]></title>
-        <id>https://news.ycombinator.com/item?id=30693322</id>
-        <link href="https://news.ycombinator.com/item?id=30693322"/>
-        <updated>2022-03-15T23:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Video Games Affect the Brain]]></summary>
-        <author>
-            <name>TheGreenElement</name>
-            <uri>https://news.ycombinator.com/user?id=TheGreenElement</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷水浴、热桑拿和驯服压力的新方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30692461</id>
-        <link href="https://news.ycombinator.com/item?id=30692461"/>
-        <updated>2022-03-15T22:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Cold Showers, Hot Saunas and the New Way to Tame Stress]]></summary>
-        <author>
-            <name>captainill</name>
-            <uri>https://news.ycombinator.com/user?id=captainill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到2030年。我一无所有，没有隐私，生活从来没有这么好过]]></title>
-        <id>https://news.ycombinator.com/item?id=30693738</id>
-        <link href="https://news.ycombinator.com/item?id=30693738"/>
-        <updated>2022-03-16T00:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to 2030. I own nothing, have no privacy, and life has never been better]]></summary>
-        <author>
-            <name>Gigachad</name>
-            <uri>https://news.ycombinator.com/user?id=Gigachad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自俄罗斯的乌克兰战争新闻是什么样子]]></title>
-        <id>https://news.ycombinator.com/item?id=30693620</id>
-        <link href="https://news.ycombinator.com/item?id=30693620"/>
-        <updated>2022-03-16T00:08:31.000Z</updated>
-        <summary type="html"><![CDATA[What Ukraine war news looks like from Russia]]></summary>
-        <author>
-            <name>stoicanalyst</name>
-            <uri>https://news.ycombinator.com/user?id=stoicanalyst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热狗Linux - 可怕的过时的字体和可怕的屏幕上的图形]]></title>
-        <id>https://news.ycombinator.com/item?id=30693301</id>
-        <link href="https://news.ycombinator.com/item?id=30693301"/>
-        <updated>2022-03-15T23:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics]]></summary>
-        <author>
-            <name>Epiphany21</name>
-            <uri>https://news.ycombinator.com/user?id=Epiphany21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们正在辞去全职工作，从事合同工作，并赚取六位数的收入]]></title>
-        <id>https://news.ycombinator.com/item?id=30692684</id>
-        <link href="https://news.ycombinator.com/item?id=30692684"/>
-        <updated>2022-03-15T22:21:44.000Z</updated>
-        <summary type="html"><![CDATA[People Are Quitting Full-Time Jobs for Contract Work–and Making Six Figures]]></summary>
-        <author>
-            <name>Apocryphon</name>
-            <uri>https://news.ycombinator.com/user?id=Apocryphon</uri>
         </author>
     </entry>
 </feed>
