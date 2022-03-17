@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T02:53:31.696Z</updated>
+    <updated>2022-03-17T03:14:34.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源的不對稱性]]></title>
+        <id>https://news.ycombinator.com/item?id=30706650</id>
+        <link href="https://news.ycombinator.com/item?id=30706650"/>
+        <updated>2022-03-17T01:51:43.000Z</updated>
+        <summary type="html"><![CDATA[The Asymmetry of Open Source]]></summary>
+        <author>
+            <name>mholt</name>
+            <uri>https://news.ycombinator.com/user?id=mholt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走出山谷]]></title>
+        <id>https://news.ycombinator.com/item?id=30705843</id>
+        <link href="https://news.ycombinator.com/item?id=30705843"/>
+        <updated>2022-03-17T00:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Out of the Valley]]></summary>
+        <author>
+            <name>allenleein</name>
+            <uri>https://news.ycombinator.com/user?id=allenleein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在普京的俄羅斯，"假新聞 "現在意味著真正的新聞]]></title>
         <id>https://news.ycombinator.com/item?id=30706874</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>CodinM</name>
             <uri>https://news.ycombinator.com/user?id=CodinM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年輕人中的中風率正在上升]]></title>
-        <id>https://news.ycombinator.com/item?id=30677084</id>
-        <link href="https://news.ycombinator.com/item?id=30677084"/>
-        <updated>2022-03-14T19:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Stroke Rates Are Increasing Among Young People]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我關懷的證明]]></title>
-        <id>https://news.ycombinator.com/item?id=30677062</id>
-        <link href="https://news.ycombinator.com/item?id=30677062"/>
-        <updated>2022-03-14T19:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Proof of Self Care]]></summary>
-        <author>
-            <name>NoahBuscher</name>
-            <uri>https://news.ycombinator.com/user?id=NoahBuscher</uri>
         </author>
     </entry>
 </feed>
