@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T23:32:28.656Z</updated>
+    <updated>2022-03-17T23:40:30.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[企业退出俄罗斯，科氏工业公司继续推进]]></title>
+        <id>https://news.ycombinator.com/item?id=30717039</id>
+        <link href="https://news.ycombinator.com/item?id=30717039"/>
+        <updated>2022-03-17T23:34:46.000Z</updated>
+        <summary type="html"><![CDATA[As Corporations Pull Out of Russia, Koch Industries Pushes On]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯面临IT危机，仅剩两个月的数据存储时间]]></title>
         <id>https://news.ycombinator.com/item?id=30716895</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>csomar</name>
             <uri>https://news.ycombinator.com/user?id=csomar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[化石发现表明，八爪鱼在恐龙之前就已经存在了]]></title>
-        <id>https://news.ycombinator.com/item?id=30693629</id>
-        <link href="https://news.ycombinator.com/item?id=30693629"/>
-        <updated>2022-03-16T00:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Octopuses were around before dinosaurs, fossil find suggests]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
