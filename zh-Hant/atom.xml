@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T17:23:31.729Z</updated>
+    <updated>2022-03-17T17:42:56.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實事求是的Fauci導致我在福布斯的工作被取消]]></title>
+        <id>https://news.ycombinator.com/item?id=30713591</id>
+        <link href="https://news.ycombinator.com/item?id=30713591"/>
+        <updated>2022-03-17T17:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Fact-Finding Fauci Led to My Cancellation at Forbes]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[檢測節點事件循環阻斷器]]></title>
+        <id>https://news.ycombinator.com/item?id=30713567</id>
+        <link href="https://news.ycombinator.com/item?id=30713567"/>
+        <updated>2022-03-17T17:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Detecting Node Event Loop Blockers]]></summary>
+        <author>
+            <name>Ben-G</name>
+            <uri>https://news.ycombinator.com/user?id=Ben-G</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將Eldon Ring的1200萬銷售額與背景相結合]]></title>
+        <id>https://news.ycombinator.com/item?id=30713460</id>
+        <link href="https://news.ycombinator.com/item?id=30713460"/>
+        <updated>2022-03-17T17:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Putting Elden Ring’s 12M sales in context]]></summary>
+        <author>
+            <name>idianal</name>
+            <uri>https://news.ycombinator.com/user?id=idianal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果工作室顯示器回顧。沒什麼可看的]]></title>
+        <id>https://news.ycombinator.com/item?id=30713420</id>
+        <link href="https://news.ycombinator.com/item?id=30713420"/>
+        <updated>2022-03-17T17:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Apple Studio Display Review: Nothing to See Here]]></summary>
+        <author>
+            <name>trauco</name>
+            <uri>https://news.ycombinator.com/user?id=trauco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit向gRPC的轉變]]></title>
+        <id>https://news.ycombinator.com/item?id=30713234</id>
+        <link href="https://news.ycombinator.com/item?id=30713234"/>
+        <updated>2022-03-17T16:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Reddit’s Move to gRPC]]></summary>
+        <author>
+            <name>anuragsoni</name>
+            <uri>https://news.ycombinator.com/user?id=anuragsoni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基輔動盪背後的美國運動 (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=30713164</id>
+        <link href="https://news.ycombinator.com/item?id=30713164"/>
+        <updated>2022-03-17T16:45:35.000Z</updated>
+        <summary type="html"><![CDATA[US campaign behind the turmoil in Kiev (2004)]]></summary>
+        <author>
+            <name>yessirwhatever</name>
+            <uri>https://news.ycombinator.com/user?id=yessirwhatever</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每個人都對參議院通過永久DST感到驚訝。特別是參議員們]]></title>
+        <id>https://news.ycombinator.com/item?id=30713082</id>
+        <link href="https://news.ycombinator.com/item?id=30713082"/>
+        <updated>2022-03-17T16:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Everyone Surprised by the Senate Passing Permanent DST. Especially the Senators]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撒哈拉沙塵使歐洲的天空變成橙色]]></title>
+        <id>https://news.ycombinator.com/item?id=30712456</id>
+        <link href="https://news.ycombinator.com/item?id=30712456"/>
+        <updated>2022-03-17T15:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Saharan dust turns skies orange over Europe]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯對烏克蘭不存在的 "生物實驗室 "的宣傳得到美國極右派的支持]]></title>
         <id>https://news.ycombinator.com/item?id=30713190</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宜家傢俱的高成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30684340</id>
-        <link href="https://news.ycombinator.com/item?id=30684340"/>
-        <updated>2022-03-15T12:13:59.000Z</updated>
-        <summary type="html"><![CDATA[The high cost of IKEA furniture]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集裝箱船EVERFORWARD在切薩皮克灣擱淺了]]></title>
-        <id>https://news.ycombinator.com/item?id=30684325</id>
-        <link href="https://news.ycombinator.com/item?id=30684325"/>
-        <updated>2022-03-15T12:10:24.000Z</updated>
-        <summary type="html"><![CDATA[Container ship EVERFORWARD has run aground in the Chesapeake Bay]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓12強迫你選擇一個默認瀏覽器，除非你禁用Chrome瀏覽器]]></title>
-        <id>https://news.ycombinator.com/item?id=30684289</id>
-        <link href="https://news.ycombinator.com/item?id=30684289"/>
-        <updated>2022-03-15T12:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Android 12 forces you to choose a default browser unless you disable Chrome]]></summary>
-        <author>
-            <name>notRobot</name>
-            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特雷弗-諾亞與法國在種族、身份和非洲方面的爭執]]></title>
-        <id>https://news.ycombinator.com/item?id=30682426</id>
-        <link href="https://news.ycombinator.com/item?id=30682426"/>
-        <updated>2022-03-15T07:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Trevor Noah’s feud with France over race, identity, and Africa]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有沒有想過，也許你是一個冒牌貨？(2020) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30684290</id>
-        <link href="https://news.ycombinator.com/item?id=30684290"/>
-        <updated>2022-03-15T12:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Has it ever occurred to you that maybe you are an imposter? (2020) [pdf]]]></summary>
-        <author>
-            <name>danielam</name>
-            <uri>https://news.ycombinator.com/user?id=danielam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EuroBSDCon 2022徵集活動正式開始]]></title>
-        <id>https://news.ycombinator.com/item?id=30682210</id>
-        <link href="https://news.ycombinator.com/item?id=30682210"/>
-        <updated>2022-03-15T06:24:16.000Z</updated>
-        <summary type="html"><![CDATA[EuroBSDCon 2022 Call for Participation is open]]></summary>
-        <author>
-            <name>peter_hansteen</name>
-            <uri>https://news.ycombinator.com/user?id=peter_hansteen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[復活一個Dataman S4 PROM編程器]]></title>
-        <id>https://news.ycombinator.com/item?id=30683260</id>
-        <link href="https://news.ycombinator.com/item?id=30683260"/>
-        <updated>2022-03-15T09:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Resurrecting a Dataman S4 PROM Programmer]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arti 0.1.0。用Rust重寫的Tor現在有了一個穩定的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30683879</id>
-        <link href="https://news.ycombinator.com/item?id=30683879"/>
-        <updated>2022-03-15T11:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Arti 0.1.0: Tor re-written in Rust now has a stable API]]></summary>
-        <author>
-            <name>solanav</name>
-            <uri>https://news.ycombinator.com/user?id=solanav</uri>
         </author>
     </entry>
 </feed>
