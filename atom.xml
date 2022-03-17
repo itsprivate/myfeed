@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T06:58:44.314Z</updated>
+    <updated>2022-03-17T07:39:03.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科学家声称毛发黑洞可以解释霍金悖论]]></title>
+        <id>https://news.ycombinator.com/item?id=30708320</id>
+        <link href="https://news.ycombinator.com/item?id=30708320"/>
+        <updated>2022-03-17T06:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Scientists claim hairy black holes explain Hawking paradox]]></summary>
+        <author>
+            <name>account-5</name>
+            <uri>https://news.ycombinator.com/user?id=account-5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在世界人口中的地位是什么，我还能活多久？]]></title>
         <id>https://news.ycombinator.com/item?id=30708217</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊S3存储200T对象并处理100M RPS]]></title>
-        <id>https://news.ycombinator.com/item?id=30676235</id>
-        <link href="https://news.ycombinator.com/item?id=30676235"/>
-        <updated>2022-03-14T18:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Stores 200T Objects and Handles 100M RPS]]></summary>
-        <author>
-            <name>jeffbarr</name>
-            <uri>https://news.ycombinator.com/user?id=jeffbarr</uri>
         </author>
     </entry>
 </feed>
