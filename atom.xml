@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T18:39:15.800Z</updated>
+    <updated>2022-03-17T18:56:43.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌发布开源的太阳能大气水发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30714506</id>
+        <link href="https://news.ycombinator.com/item?id=30714506"/>
+        <updated>2022-03-17T18:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Google releases open sources solar atmospheric water generator]]></summary>
+        <author>
+            <name>johmathe</name>
+            <uri>https://news.ycombinator.com/user?id=johmathe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复古的初创企业员工的包袱？]]></title>
+        <id>https://news.ycombinator.com/item?id=30714463</id>
+        <link href="https://news.ycombinator.com/item?id=30714463"/>
+        <updated>2022-03-17T18:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Vintage Startup Employee Swag?]]></summary>
+        <author>
+            <name>joshqharris</name>
+            <uri>https://news.ycombinator.com/user?id=joshqharris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院的新口罩政策禁止要求或要求他人戴口罩]]></title>
+        <id>https://news.ycombinator.com/item?id=30714333</id>
+        <link href="https://news.ycombinator.com/item?id=30714333"/>
+        <updated>2022-03-17T18:26:26.000Z</updated>
+        <summary type="html"><![CDATA[MIT’s new mask policy forbids requesting or requiring that others wear masks]]></summary>
+        <author>
+            <name>jmeister</name>
+            <uri>https://news.ycombinator.com/user?id=jmeister</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌、苹果、Cloudflare被敦促留在俄罗斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30713955</id>
+        <link href="https://news.ycombinator.com/item?id=30713955"/>
+        <updated>2022-03-17T17:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Google, Apple, Cloudflare urged to stay in Russia]]></summary>
+        <author>
+            <name>babelfish</name>
+            <uri>https://news.ycombinator.com/user?id=babelfish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找 "龙 "推动进步]]></title>
+        <id>https://news.ycombinator.com/item?id=30713516</id>
+        <link href="https://news.ycombinator.com/item?id=30713516"/>
+        <updated>2022-03-17T17:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Looking for Dragons Drives Progress]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊的新角色扮演游戏可以帮助你建立你的AWS技能]]></title>
         <id>https://news.ycombinator.com/item?id=30714288</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>msnkarthik</name>
             <uri>https://news.ycombinator.com/user?id=msnkarthik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Golang中建立一个Backconnect Proxy]]></title>
-        <id>https://news.ycombinator.com/item?id=30686063</id>
-        <link href="https://news.ycombinator.com/item?id=30686063"/>
-        <updated>2022-03-15T14:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Building a Backconnect Proxy in Golang]]></summary>
-        <author>
-            <name>LegionDev</name>
-            <uri>https://news.ycombinator.com/user?id=LegionDev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Vimmerse (YC W22) - 创建和播放3D视频的平台和SDKs]]></title>
-        <id>https://news.ycombinator.com/item?id=30686027</id>
-        <link href="https://news.ycombinator.com/item?id=30686027"/>
-        <updated>2022-03-15T14:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Vimmerse (YC W22) – Platform and SDKs to create and play 3D video]]></summary>
-        <author>
-            <name>jillboyce</name>
-            <uri>https://news.ycombinator.com/user?id=jillboyce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：方法金融（YC S19）--将债务偿还嵌入你的应用程序的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30685921</id>
-        <link href="https://news.ycombinator.com/item?id=30685921"/>
-        <updated>2022-03-15T14:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app]]></summary>
-        <author>
-            <name>joseb</name>
-            <uri>https://news.ycombinator.com/user?id=joseb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特考虑接受人民币而不是美元来销售中国石油]]></title>
-        <id>https://news.ycombinator.com/item?id=30685883</id>
-        <link href="https://news.ycombinator.com/item?id=30685883"/>
-        <updated>2022-03-15T14:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales]]></summary>
-        <author>
-            <name>mrleiter</name>
-            <uri>https://news.ycombinator.com/user?id=mrleiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Marina Ovsyannikova "的虚假推特账户--以及如何识别此类假货]]></title>
-        <id>https://news.ycombinator.com/item?id=30685858</id>
-        <link href="https://news.ycombinator.com/item?id=30685858"/>
-        <updated>2022-03-15T14:36:19.000Z</updated>
-        <summary type="html"><![CDATA[The fake Twitter account of “Marina Ovsyannikova” – and how to spot such fakes]]></summary>
-        <author>
-            <name>esquivalience</name>
-            <uri>https://news.ycombinator.com/user?id=esquivalience</uri>
         </author>
     </entry>
 </feed>
