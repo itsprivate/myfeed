@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T16:16:27.701Z</updated>
+    <updated>2022-03-17T16:46:53.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们开源了我们的薪酬计算器，以实现公平和透明的薪酬]]></title>
+        <id>https://news.ycombinator.com/item?id=30712766</id>
+        <link href="https://news.ycombinator.com/item?id=30712766"/>
+        <updated>2022-03-17T16:14:59.000Z</updated>
+        <summary type="html"><![CDATA[We open-sourced our pay calculator for fair and transparent pay]]></summary>
+        <author>
+            <name>ocbdrum</name>
+            <uri>https://news.ycombinator.com/user?id=ocbdrum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读手册]]></title>
+        <id>https://news.ycombinator.com/item?id=30712684</id>
+        <link href="https://news.ycombinator.com/item?id=30712684"/>
+        <updated>2022-03-17T16:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Readme]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个乌克兰小镇给俄罗斯带来了战争中最具决定性的一击]]></title>
+        <id>https://news.ycombinator.com/item?id=30712675</id>
+        <link href="https://news.ycombinator.com/item?id=30712675"/>
+        <updated>2022-03-17T16:06:40.000Z</updated>
+        <summary type="html"><![CDATA[A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs]]></summary>
+        <author>
+            <name>mudil</name>
+            <uri>https://news.ycombinator.com/user?id=mudil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[士气低落的俄罗斯士兵讲述了对被 "欺骗 "进入战争的愤怒]]></title>
+        <id>https://news.ycombinator.com/item?id=30712641</id>
+        <link href="https://news.ycombinator.com/item?id=30712641"/>
+        <updated>2022-03-17T16:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Demoralised Russian soldiers tell of anger at being ‘duped’ into war]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为播客剧集引入自然语言搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30711165</id>
+        <link href="https://news.ycombinator.com/item?id=30711165"/>
+        <updated>2022-03-17T13:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Natural Language Search for Podcast Episodes]]></summary>
+        <author>
+            <name>el_duderino</name>
+            <uri>https://news.ycombinator.com/user?id=el_duderino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Covid-Net和BlindAI进行机密的医学图像分析]]></title>
         <id>https://news.ycombinator.com/item?id=30712425</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>readonthegoapp</name>
             <uri>https://news.ycombinator.com/user?id=readonthegoapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osm.el - Emacs的OpenStreetMap浏览器]]></title>
-        <id>https://news.ycombinator.com/item?id=30682841</id>
-        <link href="https://news.ycombinator.com/item?id=30682841"/>
-        <updated>2022-03-15T08:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Osm.el – OpenStreetMap Viewer for Emacs]]></summary>
-        <author>
-            <name>okasaki</name>
-            <uri>https://news.ycombinator.com/user?id=okasaki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国出版商为安抚中国而对西方读者的书籍进行审查]]></title>
-        <id>https://news.ycombinator.com/item?id=30682816</id>
-        <link href="https://news.ycombinator.com/item?id=30682816"/>
-        <updated>2022-03-15T08:16:41.000Z</updated>
-        <summary type="html"><![CDATA[British publishers censor books for western readers to appease China]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国的间谍是否渗透到了美国的校园？]]></title>
-        <id>https://news.ycombinator.com/item?id=30682669</id>
-        <link href="https://news.ycombinator.com/item?id=30682669"/>
-        <updated>2022-03-15T07:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Have Chinese Spies Infiltrated American Campuses?]]></summary>
-        <author>
-            <name>alanwong</name>
-            <uri>https://news.ycombinator.com/user?id=alanwong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国下令封锁5100万辆汽车，因为包括深圳在内的科威德公司激增。]]></title>
-        <id>https://news.ycombinator.com/item?id=30682158</id>
-        <link href="https://news.ycombinator.com/item?id=30682158"/>
-        <updated>2022-03-15T06:16:03.000Z</updated>
-        <summary type="html"><![CDATA[China orders 51M into lockdown as Covid surges, including Shenzen]]></summary>
-        <author>
-            <name>wrycoder</name>
-            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示，谷歌员工对薪酬和晋升越来越不满意]]></title>
-        <id>https://news.ycombinator.com/item?id=30681920</id>
-        <link href="https://news.ycombinator.com/item?id=30681920"/>
-        <updated>2022-03-15T05:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Google employees growing unhappy with pay and promotions, survey shows]]></summary>
-        <author>
-            <name>lladnar</name>
-            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
         </author>
     </entry>
 </feed>
