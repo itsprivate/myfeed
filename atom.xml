@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T02:11:25.410Z</updated>
+    <updated>2022-03-17T02:53:31.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在普京的俄罗斯，"假新闻 "现在意味着真正的新闻]]></title>
+        <id>https://news.ycombinator.com/item?id=30706874</id>
+        <link href="https://news.ycombinator.com/item?id=30706874"/>
+        <updated>2022-03-17T02:21:20.000Z</updated>
+        <summary type="html"><![CDATA[In Putin’s Russia, ‘fake news’ now means real news]]></summary>
+        <author>
+            <name>already</name>
+            <uri>https://news.ycombinator.com/user?id=already</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脸书删除乌克兰总统泽伦斯基的 "深层假象]]></title>
+        <id>https://news.ycombinator.com/item?id=30706836</id>
+        <link href="https://news.ycombinator.com/item?id=30706836"/>
+        <updated>2022-03-17T02:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Facebook removes ‘deepfake’ of Ukrainian President Zelenskyy]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用谷歌分析4为未来做准备]]></title>
+        <id>https://news.ycombinator.com/item?id=30706829</id>
+        <link href="https://news.ycombinator.com/item?id=30706829"/>
+        <updated>2022-03-17T02:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for the future with Google Analytics 4]]></summary>
+        <author>
+            <name>WalterSobchak</name>
+            <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行的NPM模块node-ipc添加了针对俄罗斯开发者的恶意软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30706602</id>
+        <link href="https://news.ycombinator.com/item?id=30706602"/>
+        <updated>2022-03-17T01:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Popular NPM module node-ipc added malware targeting Russian developers]]></summary>
+        <author>
+            <name>zimmund</name>
+            <uri>https://news.ycombinator.com/user?id=zimmund</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国会法案将禁止超过50亿美元的科技企业合并]]></title>
         <id>https://news.ycombinator.com/item?id=30706531</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>NoahBuscher</name>
             <uri>https://news.ycombinator.com/user?id=NoahBuscher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰危机。美国警告中国不要帮助俄罗斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30676851</id>
-        <link href="https://news.ycombinator.com/item?id=30676851"/>
-        <updated>2022-03-14T19:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine crisis: US warns China against helping Russia]]></summary>
-        <author>
-            <name>ohiovr</name>
-            <uri>https://news.ycombinator.com/user?id=ohiovr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件开发人员社区研究]]></title>
-        <id>https://news.ycombinator.com/item?id=30676716</id>
-        <link href="https://news.ycombinator.com/item?id=30676716"/>
-        <updated>2022-03-14T19:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Software Developer Community Research]]></summary>
-        <author>
-            <name>lamocopter</name>
-            <uri>https://news.ycombinator.com/user?id=lamocopter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为静态网站建立了一个开源的虚拟主机平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30676595</id>
-        <link href="https://news.ycombinator.com/item?id=30676595"/>
-        <updated>2022-03-14T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an open source web hosting platform for static sites]]></summary>
-        <author>
-            <name>symkat</name>
-            <uri>https://news.ycombinator.com/user?id=symkat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift 5.6发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30677044</id>
-        <link href="https://news.ycombinator.com/item?id=30677044"/>
-        <updated>2022-03-14T19:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Swift 5.6 Released]]></summary>
-        <author>
-            <name>dagmx</name>
-            <uri>https://news.ycombinator.com/user?id=dagmx</uri>
         </author>
     </entry>
 </feed>
