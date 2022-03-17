@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要在没有反对意见的情况下假设达成共识]]></title>
+            <link>https://news.ycombinator.com/item?id=30708151</link>
+            <guid>https://news.ycombinator.com/item?id=30708151</guid>
+            <pubDate>Thu, 17 Mar 2022 06:08:40 GMT</pubDate>
+            <description><![CDATA[Don't Assume Consensus in the Absence of Objection]]></description>
+        </item>
         <item>
             <title><![CDATA[科学家声称毛发黑洞可以解释霍金悖论]]></title>
             <link>https://news.ycombinator.com/item?id=30708320</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30678100</guid>
             <pubDate>Mon, 14 Mar 2022 20:51:15 GMT</pubDate>
             <description><![CDATA[Solito – React Native and Next.js, Unified]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯可能在几天内拖欠债务]]></title>
-            <link>https://news.ycombinator.com/item?id=30678020</link>
-            <guid>https://news.ycombinator.com/item?id=30678020</guid>
-            <pubDate>Mon, 14 Mar 2022 20:45:31 GMT</pubDate>
-            <description><![CDATA[Russia could Default on its Debt within Days]]></description>
         </item>
     </channel>
 </rss>

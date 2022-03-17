@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T07:39:03.262Z</updated>
+    <updated>2022-03-17T07:53:46.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要在没有反对意见的情况下假设达成共识]]></title>
+        <id>https://news.ycombinator.com/item?id=30708151</id>
+        <link href="https://news.ycombinator.com/item?id=30708151"/>
+        <updated>2022-03-17T06:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Don't Assume Consensus in the Absence of Objection]]></summary>
+        <author>
+            <name>absolute100</name>
+            <uri>https://news.ycombinator.com/user?id=absolute100</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家声称毛发黑洞可以解释霍金悖论]]></title>
         <id>https://news.ycombinator.com/item?id=30708320</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>reimertz</name>
             <uri>https://news.ycombinator.com/user?id=reimertz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯可能在几天内拖欠债务]]></title>
-        <id>https://news.ycombinator.com/item?id=30678020</id>
-        <link href="https://news.ycombinator.com/item?id=30678020"/>
-        <updated>2022-03-14T20:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Russia could Default on its Debt within Days]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
