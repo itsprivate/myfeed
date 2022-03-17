@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T10:54:58.013Z</updated>
+    <updated>2022-03-17T11:14:14.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[喬治-R.R.馬丁不是你的婊子 (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=30709624</id>
+        <link href="https://news.ycombinator.com/item?id=30709624"/>
+        <updated>2022-03-17T10:44:37.000Z</updated>
+        <summary type="html"><![CDATA[George R.R. Martin is not your bitch (2009)]]></summary>
+        <author>
+            <name>tta</name>
+            <uri>https://news.ycombinator.com/user?id=tta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟將在芬蘭建造節能產熱的數據中心]]></title>
+        <id>https://news.ycombinator.com/item?id=30709591</id>
+        <link href="https://news.ycombinator.com/item?id=30709591"/>
+        <updated>2022-03-17T10:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft to build energy efficient, heat-producing data centre in Finland]]></summary>
+        <author>
+            <name>Hamuko</name>
+            <uri>https://news.ycombinator.com/user?id=Hamuko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix計劃開始對密碼共享收費，客戶並不滿意]]></title>
+        <id>https://news.ycombinator.com/item?id=30709491</id>
+        <link href="https://news.ycombinator.com/item?id=30709491"/>
+        <updated>2022-03-17T10:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Netflix plans to start charging for password sharing, and customers aren't happy]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭戰爭中，韓國將取消對芯片製造用稀有氣體的關稅]]></title>
+        <id>https://news.ycombinator.com/item?id=30709437</id>
+        <link href="https://news.ycombinator.com/item?id=30709437"/>
+        <updated>2022-03-17T10:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Korea to remove tariff on rare gases for chip manufacturing amid Ukraine war]]></summary>
+        <author>
+            <name>sjreese</name>
+            <uri>https://news.ycombinator.com/user?id=sjreese</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當美國關注烏克蘭時，也門卻在捱餓]]></title>
+        <id>https://news.ycombinator.com/item?id=30709125</id>
+        <link href="https://news.ycombinator.com/item?id=30709125"/>
+        <updated>2022-03-17T09:13:09.000Z</updated>
+        <summary type="html"><![CDATA[As U.S. Focuses on Ukraine, Yemen Starves]]></summary>
+        <author>
+            <name>bardc</name>
+            <uri>https://news.ycombinator.com/user?id=bardc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國國家航空航天局的 "巨型月球火箭 "正向發射臺進發]]></title>
         <id>https://news.ycombinator.com/item?id=30709512</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>tomohawk</name>
             <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於服務機構如何處理賬戶刪除的一些令人沮喪的軼事]]></title>
-        <id>https://news.ycombinator.com/item?id=30678847</id>
-        <link href="https://news.ycombinator.com/item?id=30678847"/>
-        <updated>2022-03-14T21:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Some discouraging anecdotes on how services handle account deletions]]></summary>
-        <author>
-            <name>nathan_phoenix</name>
-            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podman可以在沒有註冊表的情況下傳輸容器鏡像]]></title>
-        <id>https://news.ycombinator.com/item?id=30678375</id>
-        <link href="https://news.ycombinator.com/item?id=30678375"/>
-        <updated>2022-03-14T21:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Podman can transfer container images without a registry]]></summary>
-        <author>
-            <name>kukx</name>
-            <uri>https://news.ycombinator.com/user?id=kukx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫吉克的頁面數超過了50億]]></title>
-        <id>https://news.ycombinator.com/item?id=30677916</id>
-        <link href="https://news.ycombinator.com/item?id=30677916"/>
-        <updated>2022-03-14T20:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Mojeek Surpasses 5B Pages]]></summary>
-        <author>
-            <name>Sami_Lehtinen</name>
-            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯國家客戶可獲得使用未授權軟件的權利]]></title>
-        <id>https://news.ycombinator.com/item?id=30678835</id>
-        <link href="https://news.ycombinator.com/item?id=30678835"/>
-        <updated>2022-03-14T21:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Russian state customers may obtain right to use unlicensed software]]></summary>
-        <author>
-            <name>nwellnhof</name>
-            <uri>https://news.ycombinator.com/user?id=nwellnhof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抵制俄羅斯天然氣和石油 "可能導致德國的大規模貧困]]></title>
-        <id>https://news.ycombinator.com/item?id=30679017</id>
-        <link href="https://news.ycombinator.com/item?id=30679017"/>
-        <updated>2022-03-14T22:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Boycott of Russian gas and oil ‘could cause mass poverty in Germany’]]></summary>
-        <author>
-            <name>zqna</name>
-            <uri>https://news.ycombinator.com/user?id=zqna</uri>
         </author>
     </entry>
 </feed>
