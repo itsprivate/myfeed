@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T20:35:32.190Z</updated>
+    <updated>2022-03-17T20:42:25.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[充分利用你的所有薪酬數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30715462</id>
+        <link href="https://news.ycombinator.com/item?id=30715462"/>
+        <updated>2022-03-17T20:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Making the most of all your compensation data]]></summary>
+        <author>
+            <name>kwang88</name>
+            <uri>https://news.ycombinator.com/user?id=kwang88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在減少你的AWS賬單方面獲得第一次機會]]></title>
+        <id>https://news.ycombinator.com/item?id=30715440</id>
+        <link href="https://news.ycombinator.com/item?id=30715440"/>
+        <updated>2022-03-17T20:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Get a first pass at reducing your AWS bill]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流化你的音頻]]></title>
+        <id>https://news.ycombinator.com/item?id=30715138</id>
+        <link href="https://news.ycombinator.com/item?id=30715138"/>
+        <updated>2022-03-17T19:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Stream Your Audio]]></summary>
+        <author>
+            <name>matagus</name>
+            <uri>https://news.ycombinator.com/user?id=matagus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家聲稱毛髮黑洞可以解釋霍金悖論]]></title>
         <id>https://news.ycombinator.com/item?id=30715502</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust編寫的快速子域枚舉器]]></title>
-        <id>https://news.ycombinator.com/item?id=30688516</id>
-        <link href="https://news.ycombinator.com/item?id=30688516"/>
-        <updated>2022-03-15T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[延遲正在推動邊緣和無服務器計算基礎設施的發展]]></title>
-        <id>https://news.ycombinator.com/item?id=30687912</id>
-        <link href="https://news.ycombinator.com/item?id=30687912"/>
-        <updated>2022-03-15T17:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Latency is driving edge and serverless computing infrastructure]]></summary>
-        <author>
-            <name>uberdru</name>
-            <uri>https://news.ycombinator.com/user?id=uberdru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[針對GraphQL API運行Apache Superset]]></title>
-        <id>https://news.ycombinator.com/item?id=30689645</id>
-        <link href="https://news.ycombinator.com/item?id=30689645"/>
-        <updated>2022-03-15T19:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Running Apache Superset Against a GraphQL API]]></summary>
-        <author>
-            <name>agrothberg</name>
-            <uri>https://news.ycombinator.com/user?id=agrothberg</uri>
         </author>
     </entry>
 </feed>

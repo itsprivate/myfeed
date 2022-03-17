@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 20:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[充分利用你的所有薪酬數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30715462</link>
+            <guid>https://news.ycombinator.com/item?id=30715462</guid>
+            <pubDate>Thu, 17 Mar 2022 20:20:32 GMT</pubDate>
+            <description><![CDATA[Making the most of all your compensation data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在減少你的AWS賬單方面獲得第一次機會]]></title>
+            <link>https://news.ycombinator.com/item?id=30715440</link>
+            <guid>https://news.ycombinator.com/item?id=30715440</guid>
+            <pubDate>Thu, 17 Mar 2022 20:18:04 GMT</pubDate>
+            <description><![CDATA[Get a first pass at reducing your AWS bill]]></description>
+        </item>
+        <item>
+            <title><![CDATA[流化你的音頻]]></title>
+            <link>https://news.ycombinator.com/item?id=30715138</link>
+            <guid>https://news.ycombinator.com/item?id=30715138</guid>
+            <pubDate>Thu, 17 Mar 2022 19:45:41 GMT</pubDate>
+            <description><![CDATA[Stream Your Audio]]></description>
+        </item>
         <item>
             <title><![CDATA[科學家聲稱毛髮黑洞可以解釋霍金悖論]]></title>
             <link>https://news.ycombinator.com/item?id=30715502</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688815</guid>
             <pubDate>Tue, 15 Mar 2022 18:11:31 GMT</pubDate>
             <description><![CDATA[Rpath, or why lld doesn’t work on NixOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust編寫的快速子域枚舉器]]></title>
-            <link>https://news.ycombinator.com/item?id=30688516</link>
-            <guid>https://news.ycombinator.com/item?id=30688516</guid>
-            <pubDate>Tue, 15 Mar 2022 17:51:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[延遲正在推動邊緣和無服務器計算基礎設施的發展]]></title>
-            <link>https://news.ycombinator.com/item?id=30687912</link>
-            <guid>https://news.ycombinator.com/item?id=30687912</guid>
-            <pubDate>Tue, 15 Mar 2022 17:08:39 GMT</pubDate>
-            <description><![CDATA[Latency is driving edge and serverless computing infrastructure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[針對GraphQL API運行Apache Superset]]></title>
-            <link>https://news.ycombinator.com/item?id=30689645</link>
-            <guid>https://news.ycombinator.com/item?id=30689645</guid>
-            <pubDate>Tue, 15 Mar 2022 19:04:34 GMT</pubDate>
-            <description><![CDATA[Running Apache Superset Against a GraphQL API]]></description>
         </item>
     </channel>
 </rss>
