@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T04:40:55.716Z</updated>
+    <updated>2022-03-17T05:11:42.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紫红色的IDL概述]]></title>
+        <id>https://news.ycombinator.com/item?id=30707696</id>
+        <link href="https://news.ycombinator.com/item?id=30707696"/>
+        <updated>2022-03-17T04:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Fuchsia IDL Overview]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心理学行动（美国）]]></title>
         <id>https://news.ycombinator.com/item?id=30707375</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌正在挟持你所有的免费G套件账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30677320</id>
-        <link href="https://news.ycombinator.com/item?id=30677320"/>
-        <updated>2022-03-14T19:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Google Is Holding All Your Old Free G Suite Accounts Hostage]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
         </author>
     </entry>
 </feed>
