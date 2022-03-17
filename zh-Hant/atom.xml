@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T09:14:30.939Z</updated>
+    <updated>2022-03-17T09:33:33.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[請告訴我有關數據洩露的情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30708530</id>
+        <link href="https://news.ycombinator.com/item?id=30708530"/>
+        <updated>2022-03-17T07:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Please tell me about data breaches]]></summary>
+        <author>
+            <name>gracie_k_t</name>
+            <uri>https://news.ycombinator.com/user?id=gracie_k_t</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他的軟件唱出了上帝的話語。然後它就沉默了]]></title>
         <id>https://news.ycombinator.com/item?id=30708762</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ambolia</name>
             <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好，我是俄羅斯人。西方國家沒有意識到關於俄羅斯的好消息和壞消息]]></title>
-        <id>https://news.ycombinator.com/item?id=30678400</id>
-        <link href="https://news.ycombinator.com/item?id=30678400"/>
-        <updated>2022-03-14T21:12:16.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I’m Russian. The West doesn’t realize the good and the bad news about Russia]]></summary>
-        <author>
-            <name>Procedural</name>
-            <uri>https://news.ycombinator.com/user?id=Procedural</uri>
         </author>
     </entry>
 </feed>
