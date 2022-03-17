@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T03:44:59.668Z</updated>
+    <updated>2022-03-17T03:51:05.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯飞行员别无选择，只能直接飞过便携式导弹]]></title>
+        <id>https://news.ycombinator.com/item?id=30706711</id>
+        <link href="https://news.ycombinator.com/item?id=30706711"/>
+        <updated>2022-03-17T01:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Russian Pilots Have No Choice But To Fly Straight Through Man Portable Missiles]]></summary>
+        <author>
+            <name>optimalsolver</name>
+            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1989年天安门广场示威者被法律当事人刺伤致死]]></title>
         <id>https://news.ycombinator.com/item?id=30707285</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维基解密创始人朱利安-阿桑奇被拒绝对引渡进行上诉]]></title>
-        <id>https://news.ycombinator.com/item?id=30677553</id>
-        <link href="https://news.ycombinator.com/item?id=30677553"/>
-        <updated>2022-03-14T20:08:27.000Z</updated>
-        <summary type="html"><![CDATA[WikiLeaks Founder Julian Assange Denied Permission To Appeal Extradition]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
