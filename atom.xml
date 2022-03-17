@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T20:42:25.440Z</updated>
+    <updated>2022-03-17T20:51:43.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯轰炸马里乌波尔剧院，剧院外有 "儿童 "标志 - 庇护所幸存下来]]></title>
+        <id>https://news.ycombinator.com/item?id=30715624</id>
+        <link href="https://news.ycombinator.com/item?id=30715624"/>
+        <updated>2022-03-17T20:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Russia Bombed a Mariupol Theater with 'Children' Sign Outside – Shelter Survived]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战前的战争游戏：俄罗斯攻击乌克兰]]></title>
+        <id>https://news.ycombinator.com/item?id=30715497</id>
+        <link href="https://news.ycombinator.com/item?id=30715497"/>
+        <updated>2022-03-17T20:24:49.000Z</updated>
+        <summary type="html"><![CDATA[The Wargame Before the War: Russia Attacks Ukraine]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱因里德推出远程卡车操作员舱]]></title>
+        <id>https://news.ycombinator.com/item?id=30715019</id>
+        <link href="https://news.ycombinator.com/item?id=30715019"/>
+        <updated>2022-03-17T19:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Einride Introduces Remote Truck Operator Pods]]></summary>
+        <author>
+            <name>gurjeet</name>
+            <uri>https://news.ycombinator.com/user?id=gurjeet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哥伦比亚大学教授挑战《美国新闻与世界报道》大学排名]]></title>
+        <id>https://news.ycombinator.com/item?id=30714957</id>
+        <link href="https://news.ycombinator.com/item?id=30714957"/>
+        <updated>2022-03-17T19:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Columbia Professor Challenges U.S. News and World Report College Ranking]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[充分利用你的所有薪酬数据]]></title>
         <id>https://news.ycombinator.com/item?id=30715462</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>rfdearborn</name>
             <uri>https://news.ycombinator.com/user?id=rfdearborn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3的新功能：编辑和插入]]></title>
-        <id>https://news.ycombinator.com/item?id=30689902</id>
-        <link href="https://news.ycombinator.com/item?id=30689902"/>
-        <updated>2022-03-15T19:16:51.000Z</updated>
-        <summary type="html"><![CDATA[New Capabilities for GPT-3: Edit and Insert]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌终于宣布为Chrome OS提供Steam服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30689481</id>
-        <link href="https://news.ycombinator.com/item?id=30689481"/>
-        <updated>2022-03-15T18:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Google Finally Announces Steam for Chrome OS]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的VPN中的HTTPS：Caddy现在使用Tailscale的TLS证书]]></title>
-        <id>https://news.ycombinator.com/item?id=30688989</id>
-        <link href="https://news.ycombinator.com/item?id=30688989"/>
-        <updated>2022-03-15T18:25:53.000Z</updated>
-        <summary type="html"><![CDATA[HTTPS in your VPN: Caddy now uses TLS certificates from Tailscale]]></summary>
-        <author>
-            <name>mholt</name>
-            <uri>https://news.ycombinator.com/user?id=mholt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rpath，或者为什么ld在NixOS上不工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30688815</id>
-        <link href="https://news.ycombinator.com/item?id=30688815"/>
-        <updated>2022-03-15T18:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Rpath, or why lld doesn’t work on NixOS]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
