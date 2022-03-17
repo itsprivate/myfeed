@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T11:30:35.693Z</updated>
+    <updated>2022-03-17T11:38:17.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Liveblocks的存儲塊：輕鬆為你的網絡應用添加實時協作]]></title>
+        <id>https://news.ycombinator.com/item?id=30709841</id>
+        <link href="https://news.ycombinator.com/item?id=30709841"/>
+        <updated>2022-03-17T11:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Storage block by Liveblocks: easily add real-time collaboration to your web app]]></summary>
+        <author>
+            <name>mxstbr</name>
+            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transneft（俄羅斯管道公司）研發部門的80GB電子郵件被洩露]]></title>
         <id>https://news.ycombinator.com/item?id=30709723</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反戰示威者打斷俄羅斯電視新聞節目]]></title>
-        <id>https://news.ycombinator.com/item?id=30679274</id>
-        <link href="https://news.ycombinator.com/item?id=30679274"/>
-        <updated>2022-03-14T22:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Anti-war protester interrupts Russian TV news show]]></summary>
-        <author>
-            <name>musiciangames</name>
-            <uri>https://news.ycombinator.com/user?id=musiciangames</uri>
         </author>
     </entry>
 </feed>
