@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T13:24:43.799Z</updated>
+    <updated>2022-03-17T13:43:43.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[后台现在是v1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30710977</id>
+        <link href="https://news.ycombinator.com/item?id=30710977"/>
+        <updated>2022-03-17T13:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Backstage is now v1.0]]></summary>
+        <author>
+            <name>62646c</name>
+            <uri>https://news.ycombinator.com/user?id=62646c</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baserow让用户在飞行中生成Django模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30710777</id>
+        <link href="https://news.ycombinator.com/item?id=30710777"/>
+        <updated>2022-03-17T13:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Baserow lets users generate Django models on the fly]]></summary>
+        <author>
+            <name>bram2w</name>
+            <uri>https://news.ycombinator.com/user?id=bram2w</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线安全变得危险]]></title>
+        <id>https://news.ycombinator.com/item?id=30710570</id>
+        <link href="https://news.ycombinator.com/item?id=30710570"/>
+        <updated>2022-03-17T12:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Online Safety Made Dangerous]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯明星芭蕾舞演员退出大剧院芭蕾舞团 "我们不能无动于衷"]]></title>
+        <id>https://news.ycombinator.com/item?id=30709205</id>
+        <link href="https://news.ycombinator.com/item?id=30709205"/>
+        <updated>2022-03-17T09:25:33.000Z</updated>
+        <summary type="html"><![CDATA[“We Cannot Remain Indifferent” – Russian Star-Ballerina Quits Bolshoi Ballet]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H.264的魔力：技术演练]]></title>
         <id>https://news.ycombinator.com/item?id=30710574</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>DarkContinent</name>
             <uri>https://news.ycombinator.com/user?id=DarkContinent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场学术上的恩怨变成了一场 "MeToo "的恐慌]]></title>
-        <id>https://news.ycombinator.com/item?id=30680956</id>
-        <link href="https://news.ycombinator.com/item?id=30680956"/>
-        <updated>2022-03-15T02:03:55.000Z</updated>
-        <summary type="html"><![CDATA[An Academic Grudge Turned into a MeToo Panic]]></summary>
-        <author>
-            <name>vwoolf</name>
-            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不能再在谷歌之外写软件了]]></title>
-        <id>https://news.ycombinator.com/item?id=30680953</id>
-        <link href="https://news.ycombinator.com/item?id=30680953"/>
-        <updated>2022-03-15T02:01:29.000Z</updated>
-        <summary type="html"><![CDATA[I cannot write software outside of Google anymore]]></summary>
-        <author>
-            <name>lladnar</name>
-            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[睡眠中的光照会损害心脏代谢功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30680939</id>
-        <link href="https://news.ycombinator.com/item?id=30680939"/>
-        <updated>2022-03-15T01:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Light exposure during sleep impairs cardiometabolic function]]></summary>
-        <author>
-            <name>sndean</name>
-            <uri>https://news.ycombinator.com/user?id=sndean</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基辅汽车修理厂为当地部队改装缴获的俄罗斯武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30680842</id>
-        <link href="https://news.ycombinator.com/item?id=30680842"/>
-        <updated>2022-03-15T01:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Kyiv auto repair shop adapts captured Russian weapons for local forces]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
         </author>
     </entry>
 </feed>
