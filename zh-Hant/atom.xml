@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T19:27:54.833Z</updated>
+    <updated>2022-03-17T19:37:23.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AI在短短6小時內提出了4萬種新的可能的化學武器]]></title>
+        <id>https://news.ycombinator.com/item?id=30714785</id>
+        <link href="https://news.ycombinator.com/item?id=30714785"/>
+        <updated>2022-03-17T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[AI suggested 40k new possible chemical weapons in just six hours]]></summary>
+        <author>
+            <name>vyrotek</name>
+            <uri>https://news.ycombinator.com/user?id=vyrotek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[國會議員，而不是技術老闆，將決定什麼是 "合法但有害 "的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30714698</id>
+        <link href="https://news.ycombinator.com/item?id=30714698"/>
+        <updated>2022-03-17T19:02:35.000Z</updated>
+        <summary type="html"><![CDATA[MPs, not tech bosses, will decide what is “legal but harmful” content]]></summary>
+        <author>
+            <name>ColinHayhurst</name>
+            <uri>https://news.ycombinator.com/user?id=ColinHayhurst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌以31億美元收購DoubleClick (2007)]]></title>
         <id>https://news.ycombinator.com/item?id=30714736</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Naijoko</name>
             <uri>https://news.ycombinator.com/user?id=Naijoko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH和Git，遇見1Password]]></title>
-        <id>https://news.ycombinator.com/item?id=30685035</id>
-        <link href="https://news.ycombinator.com/item?id=30685035"/>
-        <updated>2022-03-15T13:34:53.000Z</updated>
-        <summary type="html"><![CDATA[SSH and Git, Meet 1Password]]></summary>
-        <author>
-            <name>techiedude</name>
-            <uri>https://news.ycombinator.com/user?id=techiedude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Password開發者工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30684881</id>
-        <link href="https://news.ycombinator.com/item?id=30684881"/>
-        <updated>2022-03-15T13:20:52.000Z</updated>
-        <summary type="html"><![CDATA[1Password Developer Tools]]></summary>
-        <author>
-            <name>davweb</name>
-            <uri>https://news.ycombinator.com/user?id=davweb</uri>
         </author>
     </entry>
 </feed>
