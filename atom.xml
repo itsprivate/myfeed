@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T09:42:35.884Z</updated>
+    <updated>2022-03-17T09:53:44.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mozilla bug 13474: 文本区的外部进程/过滤器 (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=30709192</id>
+        <link href="https://news.ycombinator.com/item?id=30709192"/>
+        <updated>2022-03-17T09:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla bug 13474: external processes/filters for textareas (2002)]]></summary>
+        <author>
+            <name>ciprian_craciun</name>
+            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[裂缝]]></title>
+        <id>https://news.ycombinator.com/item?id=30708854</id>
+        <link href="https://news.ycombinator.com/item?id=30708854"/>
+        <updated>2022-03-17T08:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Crackmes]]></summary>
+        <author>
+            <name>manjana</name>
+            <uri>https://news.ycombinator.com/user?id=manjana</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无家可归是一个住房问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30708256</id>
+        <link href="https://news.ycombinator.com/item?id=30708256"/>
+        <updated>2022-03-17T06:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Homelessness Is a Housing Problem]]></summary>
+        <author>
+            <name>vwoolf</name>
+            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerenityOS：从零开始构建一个操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30706635</id>
+        <link href="https://news.ycombinator.com/item?id=30706635"/>
+        <updated>2022-03-17T01:50:25.000Z</updated>
+        <summary type="html"><![CDATA[SerenityOS: Building an Operating System from Scratch]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带衣架和银器的机上手术]]></title>
         <id>https://news.ycombinator.com/item?id=30709193</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女权主义者为忘记生育的权利而斗争]]></title>
-        <id>https://news.ycombinator.com/item?id=30677735</id>
-        <link href="https://news.ycombinator.com/item?id=30677735"/>
-        <updated>2022-03-14T20:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Feminists Fought for the Right to Forget Childbirth]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型互联网公司回避2020年禁止掠夺性调制解调器 "租赁 "费用的法律]]></title>
-        <id>https://news.ycombinator.com/item?id=30678076</id>
-        <link href="https://news.ycombinator.com/item?id=30678076"/>
-        <updated>2022-03-14T20:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Big ISPs Avoided 2020 Law Banning Predatory Modem ‘Rental’ Fees]]></summary>
-        <author>
-            <name>Jason_Protell</name>
-            <uri>https://news.ycombinator.com/user?id=Jason_Protell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件的麦克斯韦方程]]></title>
-        <id>https://news.ycombinator.com/item?id=30677834</id>
-        <link href="https://news.ycombinator.com/item?id=30677834"/>
-        <updated>2022-03-14T20:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Maxwell's Equations of Software]]></summary>
-        <author>
-            <name>hegzploit</name>
-            <uri>https://news.ycombinator.com/user?id=hegzploit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectStorage API现在在PC上可用]]></title>
-        <id>https://news.ycombinator.com/item?id=30677675</id>
-        <link href="https://news.ycombinator.com/item?id=30677675"/>
-        <updated>2022-03-14T20:16:42.000Z</updated>
-        <summary type="html"><![CDATA[DirectStorage API Now Available on PC]]></summary>
-        <author>
-            <name>kastden</name>
-            <uri>https://news.ycombinator.com/user?id=kastden</uri>
         </author>
     </entry>
 </feed>
