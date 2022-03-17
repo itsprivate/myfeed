@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T05:37:21.363Z</updated>
+    <updated>2022-03-17T05:51:39.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客新闻的个人排名应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30707800</id>
+        <link href="https://news.ycombinator.com/item?id=30707800"/>
+        <updated>2022-03-17T04:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Hacker News personal ranking app]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node-ipc开发者添加恶意软件，清除俄罗斯的IP]]></title>
+        <id>https://news.ycombinator.com/item?id=30707730</id>
+        <link href="https://news.ycombinator.com/item?id=30707730"/>
+        <updated>2022-03-17T04:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Node-ipc developers add malware which wipes Russian IP's]]></summary>
+        <author>
+            <name>bobobob420</name>
+            <uri>https://news.ycombinator.com/user?id=bobobob420</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾尔邦承诺接待乌克兰难民的做法得到了现实的检验]]></title>
+        <id>https://news.ycombinator.com/item?id=30706793</id>
+        <link href="https://news.ycombinator.com/item?id=30706793"/>
+        <updated>2022-03-17T02:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb's Pledge to Host Ukrainian Refugees Gets a Reality Check]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["只要把办公室打扫干净：" 走出抑郁症/焦虑症的漩涡]]></title>
+        <id>https://news.ycombinator.com/item?id=30706209</id>
+        <link href="https://news.ycombinator.com/item?id=30706209"/>
+        <updated>2022-03-17T00:56:13.000Z</updated>
+        <summary type="html"><![CDATA[“Just clean the office:” Get out of the depression/anxiety spiral]]></summary>
+        <author>
+            <name>pavlov</name>
+            <uri>https://news.ycombinator.com/user?id=pavlov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle证明了我们可以在互联网上拥有美好的事物吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30707891</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>karmanyaahm</name>
             <uri>https://news.ycombinator.com/user?id=karmanyaahm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朱利安-阿桑奇被拒绝对美国的引渡提出上诉的许可]]></title>
-        <id>https://news.ycombinator.com/item?id=30677876</id>
-        <link href="https://news.ycombinator.com/item?id=30677876"/>
-        <updated>2022-03-14T20:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Julian Assange denied permission to appeal against US extradition]]></summary>
-        <author>
-            <name>ciconia</name>
-            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯指责基辅对顿涅茨克进行致命的导弹袭击]]></title>
-        <id>https://news.ycombinator.com/item?id=30677823</id>
-        <link href="https://news.ycombinator.com/item?id=30677823"/>
-        <updated>2022-03-14T20:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Russia accuses Kyiv of deadly missile attack on Donetsk]]></summary>
-        <author>
-            <name>des1nderlase</name>
-            <uri>https://news.ycombinator.com/user?id=des1nderlase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯可能为其廉价石油找到了买家--印度]]></title>
-        <id>https://news.ycombinator.com/item?id=30677710</id>
-        <link href="https://news.ycombinator.com/item?id=30677710"/>
-        <updated>2022-03-14T20:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Russia may-have found a Buyer for its Cheap Oil – India]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰停止了世界上一半的芯片霓虹灯输出，使前景蒙上阴影]]></title>
-        <id>https://news.ycombinator.com/item?id=30677645</id>
-        <link href="https://news.ycombinator.com/item?id=30677645"/>
-        <updated>2022-03-14T20:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine halts half of world's neon output for chips, clouding outlook]]></summary>
-        <author>
-            <name>swamp40</name>
-            <uri>https://news.ycombinator.com/user?id=swamp40</uri>
         </author>
     </entry>
 </feed>
