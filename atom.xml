@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T11:53:37.546Z</updated>
+    <updated>2022-03-17T12:19:46.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Liveblocks的存储块：轻松为你的网络应用添加实时协作]]></title>
+        <id>https://news.ycombinator.com/item?id=30710154</id>
+        <link href="https://news.ycombinator.com/item?id=30710154"/>
+        <updated>2022-03-17T11:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Storage block by Liveblocks: easily add real-time collaboration to your web app]]></summary>
+        <author>
+            <name>mxstbr</name>
+            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Go和Mantil在AWS上构建一个实时无服务器的聊天应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30709176</id>
+        <link href="https://news.ycombinator.com/item?id=30709176"/>
+        <updated>2022-03-17T09:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Build a real-time serverless chat app on AWS with Go and Mantil]]></summary>
+        <author>
+            <name>akokor</name>
+            <uri>https://news.ycombinator.com/user?id=akokor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changethistext.com]]></title>
         <id>https://news.ycombinator.com/item?id=30709706</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gjvc</name>
             <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员用379年的算法破解在野外发现的密码钥匙]]></title>
-        <id>https://news.ycombinator.com/item?id=30679351</id>
-        <link href="https://news.ycombinator.com/item?id=30679351"/>
-        <updated>2022-03-14T22:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Researcher uses 379-year-old algorithm to crack crypto keys found in the wild]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS启动环境的革命]]></title>
-        <id>https://news.ycombinator.com/item?id=30677827</id>
-        <link href="https://news.ycombinator.com/item?id=30677827"/>
-        <updated>2022-03-14T20:29:00.000Z</updated>
-        <summary type="html"><![CDATA[ZFS Boot Environments Revolutions]]></summary>
-        <author>
-            <name>vermaden</name>
-            <uri>https://news.ycombinator.com/user?id=vermaden</uri>
         </author>
     </entry>
 </feed>

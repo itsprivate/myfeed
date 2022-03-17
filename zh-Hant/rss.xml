@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 17 Mar 2022 11:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Liveblocks的存儲塊：輕鬆為你的網絡應用添加實時協作]]></title>
+            <link>https://news.ycombinator.com/item?id=30710154</link>
+            <guid>https://news.ycombinator.com/item?id=30710154</guid>
+            <pubDate>Thu, 17 Mar 2022 11:59:03 GMT</pubDate>
+            <description><![CDATA[Storage block by Liveblocks: easily add real-time collaboration to your web app]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Go和Mantil在AWS上構建一個實時無服務器的聊天應用]]></title>
+            <link>https://news.ycombinator.com/item?id=30709176</link>
+            <guid>https://news.ycombinator.com/item?id=30709176</guid>
+            <pubDate>Thu, 17 Mar 2022 09:20:06 GMT</pubDate>
+            <description><![CDATA[Build a real-time serverless chat app on AWS with Go and Mantil]]></description>
+        </item>
         <item>
             <title><![CDATA[Changethistext.com]]></title>
             <link>https://news.ycombinator.com/item?id=30709706</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30679651</guid>
             <pubDate>Mon, 14 Mar 2022 23:00:57 GMT</pubDate>
             <description><![CDATA[Emacs pretest 28.0.92 is out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究人員用379年的算法破解在野外發現的密碼鑰匙]]></title>
-            <link>https://news.ycombinator.com/item?id=30679351</link>
-            <guid>https://news.ycombinator.com/item?id=30679351</guid>
-            <pubDate>Mon, 14 Mar 2022 22:31:48 GMT</pubDate>
-            <description><![CDATA[Researcher uses 379-year-old algorithm to crack crypto keys found in the wild]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZFS啟動環境的革命]]></title>
-            <link>https://news.ycombinator.com/item?id=30677827</link>
-            <guid>https://news.ycombinator.com/item?id=30677827</guid>
-            <pubDate>Mon, 14 Mar 2022 20:29:00 GMT</pubDate>
-            <description><![CDATA[ZFS Boot Environments Revolutions]]></description>
         </item>
     </channel>
 </rss>
