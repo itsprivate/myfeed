@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T05:29:25.934Z</updated>
+    <updated>2022-03-17T05:37:21.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle證明了我們可以在互聯網上擁有美好的事物嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707891</id>
+        <link href="https://news.ycombinator.com/item?id=30707891"/>
+        <updated>2022-03-17T05:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Does Wordle Prove That We Can Have Nice Things on the Internet?]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-23812：node-ipc包含針對俄羅斯和白俄羅斯的惡意代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30707728</id>
+        <link href="https://news.ycombinator.com/item?id=30707728"/>
+        <updated>2022-03-17T04:40:19.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-23812: node-ipc contains malicious code targeting Russia and Belarus]]></summary>
+        <author>
+            <name>lvass</name>
+            <uri>https://news.ycombinator.com/user?id=lvass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京是如何在短短8年內將東烏克蘭貶低的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707620</id>
+        <link href="https://news.ycombinator.com/item?id=30707620"/>
+        <updated>2022-03-17T04:16:35.000Z</updated>
+        <summary type="html"><![CDATA[How Putin managed to derussify East Ukraine in just 8 years?]]></summary>
+        <author>
+            <name>eveningcoffee</name>
+            <uri>https://news.ycombinator.com/user?id=eveningcoffee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法國結束對燃氣熱水器的補貼]]></title>
         <id>https://news.ycombinator.com/item?id=30707022</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>swamp40</name>
             <uri>https://news.ycombinator.com/user?id=swamp40</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧利弗-斯通2017年與普京一起觀看《奇愛博士》，贈予他DVD]]></title>
-        <id>https://news.ycombinator.com/item?id=30677605</id>
-        <link href="https://news.ycombinator.com/item?id=30677605"/>
-        <updated>2022-03-14T20:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Oliver Stone watched Dr. Strangelove with Putin in 2017, gifted him the DVD]]></summary>
-        <author>
-            <name>doomlaser</name>
-            <uri>https://news.ycombinator.com/user?id=doomlaser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab公佈2022財年業績]]></title>
-        <id>https://news.ycombinator.com/item?id=30677588</id>
-        <link href="https://news.ycombinator.com/item?id=30677588"/>
-        <updated>2022-03-14T20:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Gitlab Reports FY 2022 Results]]></summary>
-        <author>
-            <name>marc__1</name>
-            <uri>https://news.ycombinator.com/user?id=marc__1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[氣氛、心情、能量]]></title>
-        <id>https://news.ycombinator.com/item?id=30677537</id>
-        <link href="https://news.ycombinator.com/item?id=30677537"/>
-        <updated>2022-03-14T20:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Vibe, Mood, Energy]]></summary>
-        <author>
-            <name>agronaut</name>
-            <uri>https://news.ycombinator.com/user?id=agronaut</uri>
         </author>
     </entry>
 </feed>
