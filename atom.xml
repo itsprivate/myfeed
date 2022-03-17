@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T08:15:56.206Z</updated>
+    <updated>2022-03-17T08:38:24.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我写了一份关于空投的5分钟值得阅读的报告]]></title>
+        <id>https://news.ycombinator.com/item?id=30708446</id>
+        <link href="https://news.ycombinator.com/item?id=30708446"/>
+        <updated>2022-03-17T07:12:57.000Z</updated>
+        <summary type="html"><![CDATA[I've written a 5-minute worth-of-reading report about Airdrops]]></summary>
+        <author>
+            <name>muzikman1</name>
+            <uri>https://news.ycombinator.com/user?id=muzikman1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lapce - 快如闪电、功能强大的代码编辑器，用Rust编写]]></title>
         <id>https://news.ycombinator.com/item?id=30708505</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>22222</name>
             <uri>https://news.ycombinator.com/user?id=22222</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的国家媒体新闻被打断了。他们在对你撒谎]]></title>
-        <id>https://news.ycombinator.com/item?id=30678304</id>
-        <link href="https://news.ycombinator.com/item?id=30678304"/>
-        <updated>2022-03-14T21:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s State Media News Is Interrupted: ‘They’re Lying to You’]]></summary>
-        <author>
-            <name>virtualwhys</name>
-            <uri>https://news.ycombinator.com/user?id=virtualwhys</uri>
         </author>
     </entry>
 </feed>
