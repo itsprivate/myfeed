@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-17T11:38:16.939Z</updated>
+    <updated>2022-03-17T11:53:37.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Changethistext.com]]></title>
+        <id>https://news.ycombinator.com/item?id=30709706</id>
+        <link href="https://news.ycombinator.com/item?id=30709706"/>
+        <updated>2022-03-17T10:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Changethistext.com]]></summary>
+        <author>
+            <name>kiru_io</name>
+            <uri>https://news.ycombinator.com/user?id=kiru_io</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战争时期的假话]]></title>
+        <id>https://news.ycombinator.com/item?id=30709304</id>
+        <link href="https://news.ycombinator.com/item?id=30709304"/>
+        <updated>2022-03-17T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Falsehood in War-Time]]></summary>
+        <author>
+            <name>kshatrea</name>
+            <uri>https://news.ycombinator.com/user?id=kshatrea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作头衔和级别。每个软件工程师需要知道的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30707846</id>
+        <link href="https://news.ycombinator.com/item?id=30707846"/>
+        <updated>2022-03-17T05:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Job Titles and Levels: What Every Software Engineer Needs to Know]]></summary>
+        <author>
+            <name>Ozzie_osman</name>
+            <uri>https://news.ycombinator.com/user?id=Ozzie_osman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liveblocks的存储块：轻松为你的网络应用添加实时协作]]></title>
         <id>https://news.ycombinator.com/item?id=30709841</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>vermaden</name>
             <uri>https://news.ycombinator.com/user?id=vermaden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当一所精英公立学校向所有人开放时，会发生什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30679206</id>
-        <link href="https://news.ycombinator.com/item?id=30679206"/>
-        <updated>2022-03-14T22:20:05.000Z</updated>
-        <summary type="html"><![CDATA[What Happens When an Élite Public School Becomes Open to All?]]></summary>
-        <author>
-            <name>crackercrews</name>
-            <uri>https://news.ycombinator.com/user?id=crackercrews</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道org-mode的源代码包含5000多个例子吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30679783</id>
-        <link href="https://news.ycombinator.com/item?id=30679783"/>
-        <updated>2022-03-14T23:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Did you know org-mode's source code contains more than 5000 examples?]]></summary>
-        <author>
-            <name>davesailer</name>
-            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车修理厂为当地部队改装缴获的俄罗斯武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30679540</id>
-        <link href="https://news.ycombinator.com/item?id=30679540"/>
-        <updated>2022-03-14T22:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Auto repair shop adapts captured Russian weapons for local forces]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
