@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T07:30:34.402Z</updated>
+    <updated>2022-03-18T07:37:22.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[托尼-霍尔的无效参考资料。十亿美金的错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30719472</id>
+        <link href="https://news.ycombinator.com/item?id=30719472"/>
+        <updated>2022-03-18T07:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Tony Hoare's Null References: The Billion Dollar Mistake]]></summary>
+        <author>
+            <name>dlcmh</name>
+            <uri>https://news.ycombinator.com/user?id=dlcmh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["你撒谎了。你杀了那么多的人"]]></title>
+        <id>https://news.ycombinator.com/item?id=30719406</id>
+        <link href="https://news.ycombinator.com/item?id=30719406"/>
+        <updated>2022-03-18T07:14:43.000Z</updated>
+        <summary type="html"><![CDATA[“You lied. You killed so many people”]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教你的小学年龄的孩子如何编码，要采取的第一步]]></title>
+        <id>https://news.ycombinator.com/item?id=30719232</id>
+        <link href="https://news.ycombinator.com/item?id=30719232"/>
+        <updated>2022-03-18T06:30:17.000Z</updated>
+        <summary type="html"><![CDATA[The first step to take in teaching your elementary-school-aged child how to code]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果俄罗斯拥有核武器，他们会入侵乌克兰吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30719352</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德克萨斯州的一个团队想出了一种可能改变全球游戏规则的科维德疫苗]]></title>
-        <id>https://news.ycombinator.com/item?id=30699717</id>
-        <link href="https://news.ycombinator.com/item?id=30699717"/>
-        <updated>2022-03-16T15:07:44.000Z</updated>
-        <summary type="html"><![CDATA[A Texas team comes up with a Covid vaccine that could be a global game changer]]></summary>
-        <author>
-            <name>akbarnama</name>
-            <uri>https://news.ycombinator.com/user?id=akbarnama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必要品种法 (2001)]]></title>
-        <id>https://news.ycombinator.com/item?id=30699695</id>
-        <link href="https://news.ycombinator.com/item?id=30699695"/>
-        <updated>2022-03-16T15:05:41.000Z</updated>
-        <summary type="html"><![CDATA[The Law of Requisite Variety (2001)]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter在所有不重要的方面都比React Native好]]></title>
-        <id>https://news.ycombinator.com/item?id=30699664</id>
-        <link href="https://news.ycombinator.com/item?id=30699664"/>
-        <updated>2022-03-16T15:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is better than React Native in all the ways that don’t matter]]></summary>
-        <author>
-            <name>tut-urut-utut</name>
-            <uri>https://news.ycombinator.com/user?id=tut-urut-utut</uri>
         </author>
     </entry>
 </feed>
