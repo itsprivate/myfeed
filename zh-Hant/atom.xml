@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T04:57:45.822Z</updated>
+    <updated>2022-03-18T05:11:18.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[長期核廢料警告信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30718843</id>
+        <link href="https://news.ycombinator.com/item?id=30718843"/>
+        <updated>2022-03-18T04:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Long-term nuclear waste warning messages]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Igalia在2021年的GNU/Linux圖形堆棧中工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30718258</id>
+        <link href="https://news.ycombinator.com/item?id=30718258"/>
+        <updated>2022-03-18T02:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Igalia work within the GNU/Linux graphics stack in 2021]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我愛俄羅斯人民。這就是為什麼我必須告訴你真相]]></title>
         <id>https://news.ycombinator.com/item?id=30718756</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gk1</name>
             <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marina Ovsyannikova是自由的]]></title>
-        <id>https://news.ycombinator.com/item?id=30698324</id>
-        <link href="https://news.ycombinator.com/item?id=30698324"/>
-        <updated>2022-03-16T13:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Marina Ovsyannikova Is Free]]></summary>
-        <author>
-            <name>FpUser</name>
-            <uri>https://news.ycombinator.com/user?id=FpUser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：Sarus（YC W22）--在敏感數據上的工作具有不同的隱私性]]></title>
-        <id>https://news.ycombinator.com/item?id=30698215</id>
-        <link href="https://news.ycombinator.com/item?id=30698215"/>
-        <updated>2022-03-16T13:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Sarus (YC W22) – Work on sensitive data with differential privacy]]></summary>
-        <author>
-            <name>maximeago</name>
-            <uri>https://news.ycombinator.com/user?id=maximeago</uri>
         </author>
     </entry>
 </feed>
