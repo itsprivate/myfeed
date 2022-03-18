@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[越来越多的工人表示，如果公司终止在家工作的选择，他们将辞职。]]></title>
+            <link>https://news.ycombinator.com/item?id=30719660</link>
+            <guid>https://news.ycombinator.com/item?id=30719660</guid>
+            <pubDate>Fri, 18 Mar 2022 08:04:05 GMT</pubDate>
+            <description><![CDATA[More and more workers say they'll quit if companies end work-from-home option]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯在乌克兰的杀手级无人机引发对战争中人工智能的担忧]]></title>
+            <link>https://news.ycombinator.com/item?id=30719468</link>
+            <guid>https://news.ycombinator.com/item?id=30719468</guid>
+            <pubDate>Fri, 18 Mar 2022 07:26:01 GMT</pubDate>
+            <description><![CDATA[Russia's Killer Drone in Ukraine Raises Fears About AI in Warfare]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果M1 Ultra的64核GPU未能打败强大的RTX 3090]]></title>
             <link>https://news.ycombinator.com/item?id=30719654</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30699841</guid>
             <pubDate>Wed, 16 Mar 2022 15:17:36 GMT</pubDate>
             <description><![CDATA[The Last Time Congress Amended § 230 (Of the Communications Decency Act)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[libmill - C语言中的Go式并发性]]></title>
-            <link>https://news.ycombinator.com/item?id=30699829</link>
-            <guid>https://news.ycombinator.com/item?id=30699829</guid>
-            <pubDate>Wed, 16 Mar 2022 15:16:10 GMT</pubDate>
-            <description><![CDATA[libmill - Go-style concurrency in C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究人员利用Dirty Pipe漏洞，对Pixel 6 Pro和三星S22进行完全root]]></title>
-            <link>https://news.ycombinator.com/item?id=30699798</link>
-            <guid>https://news.ycombinator.com/item?id=30699798</guid>
-            <pubDate>Wed, 16 Mar 2022 15:13:56 GMT</pubDate>
-            <description><![CDATA[Researcher uses Dirty Pipe exploit to fully root a Pixel 6 Pro and Samsung S22]]></description>
         </item>
     </channel>
 </rss>

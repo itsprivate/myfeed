@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T08:14:17.232Z</updated>
+    <updated>2022-03-18T08:36:42.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[越來越多的工人表示，如果公司終止在家工作的選擇，他們將辭職。]]></title>
+        <id>https://news.ycombinator.com/item?id=30719660</id>
+        <link href="https://news.ycombinator.com/item?id=30719660"/>
+        <updated>2022-03-18T08:04:05.000Z</updated>
+        <summary type="html"><![CDATA[More and more workers say they'll quit if companies end work-from-home option]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯在烏克蘭的殺手級無人機引發對戰爭中人工智能的擔憂]]></title>
+        <id>https://news.ycombinator.com/item?id=30719468</id>
+        <link href="https://news.ycombinator.com/item?id=30719468"/>
+        <updated>2022-03-18T07:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Killer Drone in Ukraine Raises Fears About AI in Warfare]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果M1 Ultra的64核GPU未能打敗強大的RTX 3090]]></title>
         <id>https://news.ycombinator.com/item?id=30719654</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>CapitalistCartr</name>
             <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libmill - C語言中的Go式併發性]]></title>
-        <id>https://news.ycombinator.com/item?id=30699829</id>
-        <link href="https://news.ycombinator.com/item?id=30699829"/>
-        <updated>2022-03-16T15:16:10.000Z</updated>
-        <summary type="html"><![CDATA[libmill - Go-style concurrency in C]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員利用Dirty Pipe漏洞，對Pixel 6 Pro和三星S22進行完全root]]></title>
-        <id>https://news.ycombinator.com/item?id=30699798</id>
-        <link href="https://news.ycombinator.com/item?id=30699798"/>
-        <updated>2022-03-16T15:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Researcher uses Dirty Pipe exploit to fully root a Pixel 6 Pro and Samsung S22]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>
