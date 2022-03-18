@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T05:36:37.113Z</updated>
+    <updated>2022-03-18T05:51:49.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我有話要對我的俄羅斯朋友說--阿諾德-施瓦辛格]]></title>
+        <id>https://news.ycombinator.com/item?id=30719034</id>
+        <link href="https://news.ycombinator.com/item?id=30719034"/>
+        <updated>2022-03-18T05:32:59.000Z</updated>
+        <summary type="html"><![CDATA[I Have a Message for My Russian Friends - Arnold Schwarzenegger]]></summary>
+        <author>
+            <name>gamechangr</name>
+            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Hugo、Docker和一點Python在2022年從頭開始建立一個博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30718757</id>
+        <link href="https://news.ycombinator.com/item?id=30718757"/>
+        <updated>2022-03-18T04:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python]]></summary>
+        <author>
+            <name>shoobs</name>
+            <uri>https://news.ycombinator.com/user?id=shoobs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全棧開放2022年]]></title>
+        <id>https://news.ycombinator.com/item?id=30718743</id>
+        <link href="https://news.ycombinator.com/item?id=30718743"/>
+        <updated>2022-03-18T04:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Full Stack Open 2022]]></summary>
+        <author>
+            <name>2143</name>
+            <uri>https://news.ycombinator.com/user?id=2143</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEETS。海軍電氣和電子培訓系列]]></title>
+        <id>https://news.ycombinator.com/item?id=30718387</id>
+        <link href="https://news.ycombinator.com/item?id=30718387"/>
+        <updated>2022-03-18T03:11:23.000Z</updated>
+        <summary type="html"><![CDATA[NEETS: Naval Electricity and Electronics Training Series]]></summary>
+        <author>
+            <name>l8rlump</name>
+            <uri>https://news.ycombinator.com/user?id=l8rlump</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadertoy蘋果I模擬器]]></title>
         <id>https://news.ycombinator.com/item?id=30718854</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>high_byte</name>
             <uri>https://news.ycombinator.com/user?id=high_byte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare API網關]]></title>
-        <id>https://news.ycombinator.com/item?id=30698491</id>
-        <link href="https://news.ycombinator.com/item?id=30698491"/>
-        <updated>2022-03-16T13:24:27.000Z</updated>
-        <summary type="html"><![CDATA[The Cloudflare API Gateway]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外交的目的是為了避免愚蠢的戰爭，而不是所有的戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30698460</id>
-        <link href="https://news.ycombinator.com/item?id=30698460"/>
-        <updated>2022-03-16T13:22:12.000Z</updated>
-        <summary type="html"><![CDATA[The goal of diplomacy is to avoid stupid wars, not all wars]]></summary>
-        <author>
-            <name>22222</name>
-            <uri>https://news.ycombinator.com/user?id=22222</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯合國稱緬甸的軍事暴力事件可能是 "反人類罪]]></title>
-        <id>https://news.ycombinator.com/item?id=30698458</id>
-        <link href="https://news.ycombinator.com/item?id=30698458"/>
-        <updated>2022-03-16T13:22:09.000Z</updated>
-        <summary type="html"><![CDATA[U.N. Says Military-Violence in Myanmar Maybe 'Crimes Against Humanity']]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國檢察官指控3人在Wirecard倒閉事件中犯有欺詐罪]]></title>
-        <id>https://news.ycombinator.com/item?id=30697155</id>
-        <link href="https://news.ycombinator.com/item?id=30697155"/>
-        <updated>2022-03-16T10:31:44.000Z</updated>
-        <summary type="html"><![CDATA[German prosecutors charge 3 with fraud in Wirecard collapse]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
