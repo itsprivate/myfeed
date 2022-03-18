@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T05:11:18.620Z</updated>
+    <updated>2022-03-18T05:29:50.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拥有短波电台再次成为一种颠覆性活动]]></title>
+        <id>https://news.ycombinator.com/item?id=30718978</id>
+        <link href="https://news.ycombinator.com/item?id=30718978"/>
+        <updated>2022-03-18T05:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Owning a ShortWave Radio Is Once Again a Subversive Activity]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于React的__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED背景]]></title>
+        <id>https://news.ycombinator.com/item?id=30718919</id>
+        <link href="https://news.ycombinator.com/item?id=30718919"/>
+        <updated>2022-03-18T05:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Background on React's __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echo Prof - 一个可以与之对话的学习应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30717887</id>
+        <link href="https://news.ycombinator.com/item?id=30717887"/>
+        <updated>2022-03-18T01:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></summary>
+        <author>
+            <name>david_d12345</name>
+            <uri>https://news.ycombinator.com/user?id=david_d12345</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长期核废料警告信息]]></title>
         <id>https://news.ycombinator.com/item?id=30718843</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>withinboredom</name>
             <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机视觉偏见三部曲。数据表征性]]></title>
-        <id>https://news.ycombinator.com/item?id=30698506</id>
-        <link href="https://news.ycombinator.com/item?id=30698506"/>
-        <updated>2022-03-16T13:26:14.000Z</updated>
-        <summary type="html"><![CDATA[The computer vision bias trilogy: Data representativity]]></summary>
-        <author>
-            <name>msharpe</name>
-            <uri>https://news.ycombinator.com/user?id=msharpe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能驱动的药物发现的双重用途]]></title>
-        <id>https://news.ycombinator.com/item?id=30698097</id>
-        <link href="https://news.ycombinator.com/item?id=30698097"/>
-        <updated>2022-03-16T12:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Dual use of artificial-intelligence-powered drug discovery]]></summary>
-        <author>
-            <name>heliostatic</name>
-            <uri>https://news.ycombinator.com/user?id=heliostatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家得宝通过矢量搜索找到了DIY的成功之道]]></title>
-        <id>https://news.ycombinator.com/item?id=30698065</id>
-        <link href="https://news.ycombinator.com/item?id=30698065"/>
-        <updated>2022-03-16T12:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Home Depot Finds DIY Success with Vector Search]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
