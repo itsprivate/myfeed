@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T09:51:35.670Z</updated>
+    <updated>2022-03-18T10:14:49.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snappass。安全地分享密碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30720150</id>
+        <link href="https://news.ycombinator.com/item?id=30720150"/>
+        <updated>2022-03-18T09:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Snappass: Share Passwords Securely]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個波蘭程序員團隊建立了一個數字工具來規避俄羅斯的審查制度]]></title>
+        <id>https://news.ycombinator.com/item?id=30720135</id>
+        <link href="https://news.ycombinator.com/item?id=30720135"/>
+        <updated>2022-03-18T09:35:11.000Z</updated>
+        <summary type="html"><![CDATA[A team of Polish programmers built a digital tool to evade Russian censorship]]></summary>
+        <author>
+            <name>oedmarap</name>
+            <uri>https://news.ycombinator.com/user?id=oedmarap</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享Jupyter筆記本作為網絡應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30720120</id>
+        <link href="https://news.ycombinator.com/item?id=30720120"/>
+        <updated>2022-03-18T09:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Share Jupyter Notebook as web app]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[構建硬件加速器的離線優化]]></title>
+        <id>https://news.ycombinator.com/item?id=30719844</id>
+        <link href="https://news.ycombinator.com/item?id=30719844"/>
+        <updated>2022-03-18T08:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Offline Optimization for Architecting Hardware Accelerators]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[銥星公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30719764</id>
+        <link href="https://news.ycombinator.com/item?id=30719764"/>
+        <updated>2022-03-18T08:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Irradix]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分佈式系統中的數據所有權]]></title>
+        <id>https://news.ycombinator.com/item?id=30719706</id>
+        <link href="https://news.ycombinator.com/item?id=30719706"/>
+        <updated>2022-03-18T08:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Data Ownership in Distributed Systems]]></summary>
+        <author>
+            <name>ayende</name>
+            <uri>https://news.ycombinator.com/user?id=ayende</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新版本：nuxt-speedkit 2.0--更快，更容易實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30719657</id>
+        <link href="https://news.ycombinator.com/item?id=30719657"/>
+        <updated>2022-03-18T08:02:43.000Z</updated>
+        <summary type="html"><![CDATA[New release: nuxt-speedkit 2.0 – even faster and easier to implement]]></summary>
+        <author>
+            <name>sgerbeth</name>
+            <uri>https://news.ycombinator.com/user?id=sgerbeth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修復Traefik代理問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30719644</id>
+        <link href="https://news.ycombinator.com/item?id=30719644"/>
+        <updated>2022-03-18T07:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Fixing Traefik Proxy Issues]]></summary>
+        <author>
+            <name>garritfra</name>
+            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[匿名者針對俄羅斯石油公司的德國分公司，竊取了20TB的數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30719575</id>
+        <link href="https://news.ycombinator.com/item?id=30719575"/>
+        <updated>2022-03-18T07:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Anonymous Targets German Branch of Rosneft, Steals 20TB of Data]]></summary>
+        <author>
+            <name>keydutch</name>
+            <uri>https://news.ycombinator.com/user?id=keydutch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紐約時報》承認拜登的筆記本電腦--被錯誤地稱為 "俄羅斯虛假信息"--是真實的。]]></title>
         <id>https://news.ycombinator.com/item?id=30720172</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>moinnadeem</name>
             <uri>https://news.ycombinator.com/user?id=moinnadeem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟稱Win11瀏覽器廣告 "不打算對外發布]]></title>
-        <id>https://news.ycombinator.com/item?id=30701289</id>
-        <link href="https://news.ycombinator.com/item?id=30701289"/>
-        <updated>2022-03-16T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft says Win11 Explorer ads were ‘not intended to be published externally’]]></summary>
-        <author>
-            <name>weinzierl</name>
-            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我作為一個開放源碼開發者的界限]]></title>
-        <id>https://news.ycombinator.com/item?id=30701251</id>
-        <link href="https://news.ycombinator.com/item?id=30701251"/>
-        <updated>2022-03-16T16:57:20.000Z</updated>
-        <summary type="html"><![CDATA[My boundaries as an open source developer]]></summary>
-        <author>
-            <name>cakeplease</name>
-            <uri>https://news.ycombinator.com/user?id=cakeplease</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯政權正在濫用面部識別系統來檢測抗議者]]></title>
-        <id>https://news.ycombinator.com/item?id=30701245</id>
-        <link href="https://news.ycombinator.com/item?id=30701245"/>
-        <updated>2022-03-16T16:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Russian regime is abusing facial recognition systems to detect protesters]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員用379年的算法破解在野外發現的密碼鑰匙]]></title>
-        <id>https://news.ycombinator.com/item?id=30701244</id>
-        <link href="https://news.ycombinator.com/item?id=30701244"/>
-        <updated>2022-03-16T16:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Researcher uses 379-year-old algorithm to crack crypto keys found in the wild]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone SE]]></title>
-        <id>https://news.ycombinator.com/item?id=30701189</id>
-        <link href="https://news.ycombinator.com/item?id=30701189"/>
-        <updated>2022-03-16T16:52:50.000Z</updated>
-        <summary type="html"><![CDATA[iPhone SE]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頂級編程語言。Java實現了意想不到的飛躍]]></title>
-        <id>https://news.ycombinator.com/item?id=30701173</id>
-        <link href="https://news.ycombinator.com/item?id=30701173"/>
-        <updated>2022-03-16T16:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Top programming languages: Java takes an unexpected leap forwards]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：我正在報道人類重返月球的每一個重大進展]]></title>
-        <id>https://news.ycombinator.com/item?id=30701161</id>
-        <link href="https://news.ycombinator.com/item?id=30701161"/>
-        <updated>2022-03-16T16:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: I'm covering every major development in humanity's return to the Moon]]></summary>
-        <author>
-            <name>uncertainquark</name>
-            <uri>https://news.ycombinator.com/user?id=uncertainquark</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是溫壓武器？ 以及為什麼要禁止它們？]]></title>
-        <id>https://news.ycombinator.com/item?id=30701148</id>
-        <link href="https://news.ycombinator.com/item?id=30701148"/>
-        <updated>2022-03-16T16:49:33.000Z</updated>
-        <summary type="html"><![CDATA[What Are Thermobaric Weapons? and Why They Should Be Banned]]></summary>
-        <author>
-            <name>amelius</name>
-            <uri>https://news.ycombinator.com/user?id=amelius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlyZero公佈最終的氫動力客機概念圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30701144</id>
-        <link href="https://news.ycombinator.com/item?id=30701144"/>
-        <updated>2022-03-16T16:49:18.000Z</updated>
-        <summary type="html"><![CDATA[FlyZero Unveils Final Hydrogen-Powered Airliner Concepts]]></summary>
-        <author>
-            <name>hindsightbias</name>
-            <uri>https://news.ycombinator.com/user?id=hindsightbias</uri>
         </author>
     </entry>
 </feed>
