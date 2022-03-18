@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T05:29:50.655Z</updated>
+    <updated>2022-03-18T05:36:37.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shadertoy苹果I模拟器]]></title>
+        <id>https://news.ycombinator.com/item?id=30718854</id>
+        <link href="https://news.ycombinator.com/item?id=30718854"/>
+        <updated>2022-03-18T04:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Shadertoy Apple I Emulator]]></summary>
+        <author>
+            <name>weinzierl</name>
+            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拥有短波电台再次成为一种颠覆性活动]]></title>
         <id>https://news.ycombinator.com/item?id=30718978</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我最喜欢的语言变成了PHP]]></title>
-        <id>https://news.ycombinator.com/item?id=30697055</id>
-        <link href="https://news.ycombinator.com/item?id=30697055"/>
-        <updated>2022-03-16T10:14:02.000Z</updated>
-        <summary type="html"><![CDATA[My Favorite Language Has Changed to PHP]]></summary>
-        <author>
-            <name>withinboredom</name>
-            <uri>https://news.ycombinator.com/user?id=withinboredom</uri>
         </author>
     </entry>
 </feed>
