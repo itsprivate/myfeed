@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-18T09:41:30.431Z</updated>
+    <updated>2022-03-18T09:51:35.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紐約時報》承認拜登的筆記本電腦--被錯誤地稱為 "俄羅斯虛假信息"--是真實的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30720172</id>
+        <link href="https://news.ycombinator.com/item?id=30720172"/>
+        <updated>2022-03-18T09:40:50.000Z</updated>
+        <summary type="html"><![CDATA[NYT Admits Biden Laptop – Falsely Called “Russian Disinformation” – Is Authentic]]></summary>
+        <author>
+            <name>koolba</name>
+            <uri>https://news.ycombinator.com/user?id=koolba</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla和Open Web Docs在MDN上的合作]]></title>
+        <id>https://news.ycombinator.com/item?id=30720171</id>
+        <link href="https://news.ycombinator.com/item?id=30720171"/>
+        <updated>2022-03-18T09:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla and Open Web Docs Working Together on MDN]]></summary>
+        <author>
+            <name>Vinnl</name>
+            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify推出自然語言搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30720100</id>
+        <link href="https://news.ycombinator.com/item?id=30720100"/>
+        <updated>2022-03-18T09:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Spotify Introducing Natural Language Search]]></summary>
+        <author>
+            <name>jkb79</name>
+            <uri>https://news.ycombinator.com/user?id=jkb79</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯正在建設自己的互聯網以屏蔽 "可能的外部影響" 2018年]]></title>
         <id>https://news.ycombinator.com/item?id=30720083</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hindsightbias</name>
             <uri>https://news.ycombinator.com/user?id=hindsightbias</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星洩露的源代碼中發現超過6K個憑證]]></title>
-        <id>https://news.ycombinator.com/item?id=30700994</id>
-        <link href="https://news.ycombinator.com/item?id=30700994"/>
-        <updated>2022-03-16T16:37:37.000Z</updated>
-        <summary type="html"><![CDATA[More than 6K credentials found inside Samsung leaked source code]]></summary>
-        <author>
-            <name>advocatemack</name>
-            <uri>https://news.ycombinator.com/user?id=advocatemack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對《聯邦法規彙編》進行矢量化]]></title>
-        <id>https://news.ycombinator.com/item?id=30700973</id>
-        <link href="https://news.ycombinator.com/item?id=30700973"/>
-        <updated>2022-03-16T16:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Vectorizing the Code of Federal Regulations]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實踐PostgreSQL授權 - 第二部分 - 行級安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30700899</id>
-        <link href="https://news.ycombinator.com/item?id=30700899"/>
-        <updated>2022-03-16T16:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Hands-On with PostgreSQL Authorization – Part 2 – Row-Level Security]]></summary>
-        <author>
-            <name>grschafer</name>
-            <uri>https://news.ycombinator.com/user?id=grschafer</uri>
         </author>
     </entry>
 </feed>
