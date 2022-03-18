@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 18 Mar 2022 06:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要扩大规模：99.999%的正常运行时间是针对沃尔玛的]]></title>
+            <link>https://news.ycombinator.com/item?id=30719268</link>
+            <guid>https://news.ycombinator.com/item?id=30719268</guid>
+            <pubDate>Fri, 18 Mar 2022 06:39:33 GMT</pubDate>
+            <description><![CDATA[Don’t scale: 99.999% uptime is for Wal-Mart]]></description>
+        </item>
         <item>
             <title><![CDATA[有人用AMZN的股票将1.7万美元变成了63万美元]]></title>
             <link>https://news.ycombinator.com/item?id=30719280</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30698596</guid>
             <pubDate>Wed, 16 Mar 2022 13:34:25 GMT</pubDate>
             <description><![CDATA[Making Deep Learning Go Brrrr from First Principles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[发动机ECU软件从单核到多核的迁移]]></title>
-            <link>https://news.ycombinator.com/item?id=30698592</link>
-            <guid>https://news.ycombinator.com/item?id=30698592</guid>
-            <pubDate>Wed, 16 Mar 2022 13:33:49 GMT</pubDate>
-            <description><![CDATA[The Migration Of Engine ECU Software From Single-Core To Multi-Core]]></description>
         </item>
     </channel>
 </rss>
