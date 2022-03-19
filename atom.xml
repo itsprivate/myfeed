@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T20:11:51.652Z</updated>
+    <updated>2022-03-19T20:32:15.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火星轨道飞行器从太空捕捉到中国探测器的图像]]></title>
+        <id>https://news.ycombinator.com/item?id=30737189</id>
+        <link href="https://news.ycombinator.com/item?id=30737189"/>
+        <updated>2022-03-19T20:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Mars Orbiter Captures Images of China’s Rover from Space]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能的数学]]></title>
+        <id>https://news.ycombinator.com/item?id=30736953</id>
+        <link href="https://news.ycombinator.com/item?id=30736953"/>
+        <updated>2022-03-19T19:44:32.000Z</updated>
+        <summary type="html"><![CDATA[The Mathematics of Artificial Intelligence]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年全球汽车产量预计将减少260万辆]]></title>
+        <id>https://news.ycombinator.com/item?id=30736574</id>
+        <link href="https://news.ycombinator.com/item?id=30736574"/>
+        <updated>2022-03-19T18:53:01.000Z</updated>
+        <summary type="html"><![CDATA[2.6M cars cut from global production forecast this year]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fzf - 一个命令行的模糊搜索器]]></title>
+        <id>https://news.ycombinator.com/item?id=30736518</id>
+        <link href="https://news.ycombinator.com/item?id=30736518"/>
+        <updated>2022-03-19T18:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Fzf – a command-line fuzzy finder]]></summary>
+        <author>
+            <name>ewuhic</name>
+            <uri>https://news.ycombinator.com/user?id=ewuhic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器狗加入纽约消防局]]></title>
+        <id>https://news.ycombinator.com/item?id=30736315</id>
+        <link href="https://news.ycombinator.com/item?id=30736315"/>
+        <updated>2022-03-19T18:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Robot Dogs Join the New York Fire Department]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迄今为止，8万小时研究发现的影响最大的职业道路是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30736891</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>shukantpal</name>
             <uri>https://news.ycombinator.com/user?id=shukantpal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建本地PHP开发环境的DDEV开源工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30718329</id>
-        <link href="https://news.ycombinator.com/item?id=30718329"/>
-        <updated>2022-03-18T02:59:13.000Z</updated>
-        <summary type="html"><![CDATA[DDEV open source tool to create local PHP development environments]]></summary>
-        <author>
-            <name>thevagrant</name>
-            <uri>https://news.ycombinator.com/user?id=thevagrant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[駕駛員在駕駛過程中，因伺服器維修而無法駕駛的情況屢見不鮮，這就是「Gran Turismo 7（跑車浪漫旅）」。]]></title>
-        <id>https://news.ycombinator.com/item?id=30718305</id>
-        <link href="https://news.ycombinator.com/item?id=30718305"/>
-        <updated>2022-03-18T02:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Gran Turismo 7 has been largely unplayable for hours due to server maintenance]]></summary>
-        <author>
-            <name>spike021</name>
-            <uri>https://news.ycombinator.com/user?id=spike021</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub仍然阻止俄罗斯政府要求的存储库（在俄罗斯）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30718094</id>
-        <link href="https://news.ycombinator.com/item?id=30718094"/>
-        <updated>2022-03-18T02:18:54.000Z</updated>
-        <summary type="html"><![CDATA[GitHub still blocks repositories (in Russia) requested by Russian government]]></summary>
-        <author>
-            <name>asdfsfkwqe</name>
-            <uri>https://news.ycombinator.com/user?id=asdfsfkwqe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希望找出作弊者，一位教授起诉了自己的学生]]></title>
-        <id>https://news.ycombinator.com/item?id=30718086</id>
-        <link href="https://news.ycombinator.com/item?id=30718086"/>
-        <updated>2022-03-18T02:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Hoping to Identify Cheaters, a Professor Sues His Own Students]]></summary>
-        <author>
-            <name>duxup</name>
-            <uri>https://news.ycombinator.com/user?id=duxup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入的好奇心激发了 "为什么 "播客的乐趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30718060</id>
-        <link href="https://news.ycombinator.com/item?id=30718060"/>
-        <updated>2022-03-18T02:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Deep Curiosity Inspires the Joy of Why Podcast]]></summary>
-        <author>
-            <name>sdht0</name>
-            <uri>https://news.ycombinator.com/user?id=sdht0</uri>
         </author>
     </entry>
 </feed>
