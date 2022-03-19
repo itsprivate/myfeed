@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T22:31:11.173Z</updated>
+    <updated>2022-03-19T22:39:56.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能藥物算法可被翻轉用於發明生物武器]]></title>
+        <id>https://news.ycombinator.com/item?id=30737919</id>
+        <link href="https://news.ycombinator.com/item?id=30737919"/>
+        <updated>2022-03-19T21:57:09.000Z</updated>
+        <summary type="html"><![CDATA[AI drug algorithms can be flipped to invent bioweapons]]></summary>
+        <author>
+            <name>tejohnso</name>
+            <uri>https://news.ycombinator.com/user?id=tejohnso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你這老蛇]]></title>
         <id>https://news.ycombinator.com/item?id=30738103</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echo Prof - 一個可以與之對話的學習應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30717887</id>
-        <link href="https://news.ycombinator.com/item?id=30717887"/>
-        <updated>2022-03-18T01:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></summary>
-        <author>
-            <name>david_d12345</name>
-            <uri>https://news.ycombinator.com/user?id=david_d12345</uri>
         </author>
     </entry>
 </feed>
