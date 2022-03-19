@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T16:48:25.487Z</updated>
+    <updated>2022-03-19T17:02:09.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[男人的孩子》正在上演]]></title>
+        <id>https://news.ycombinator.com/item?id=30735230</id>
+        <link href="https://news.ycombinator.com/item?id=30735230"/>
+        <updated>2022-03-19T16:41:24.000Z</updated>
+        <summary type="html"><![CDATA['Children of Men' is happening]]></summary>
+        <author>
+            <name>rwmj</name>
+            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airflow/Prefect/Airbyte/Dagster的免费开源替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30735225</id>
+        <link href="https://news.ycombinator.com/item?id=30735225"/>
+        <updated>2022-03-19T16:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free open-source alternative to Airflow/Prefect/Airbyte/Dagster]]></summary>
+        <author>
+            <name>uskrokette</name>
+            <uri>https://news.ycombinator.com/user?id=uskrokette</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疏散乌克兰的资源]]></title>
+        <id>https://news.ycombinator.com/item?id=30734885</id>
+        <link href="https://news.ycombinator.com/item?id=30734885"/>
+        <updated>2022-03-19T16:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Resources for Evacuating Ukraine]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monarch升级会删除$HOME中的所有文件]]></title>
         <id>https://news.ycombinator.com/item?id=30735099</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>walnutclosefarm</name>
             <uri>https://news.ycombinator.com/user?id=walnutclosefarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridgetown - 渐进式网站生成器和框架，由Ruby驱动]]></title>
-        <id>https://news.ycombinator.com/item?id=30716727</id>
-        <link href="https://news.ycombinator.com/item?id=30716727"/>
-        <updated>2022-03-17T22:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Bridgetown - progressive site generator and framework, powered by Ruby]]></summary>
-        <author>
-            <name>obahareth</name>
-            <uri>https://news.ycombinator.com/user?id=obahareth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以光波存储数据的新方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30716572</id>
-        <link href="https://news.ycombinator.com/item?id=30716572"/>
-        <updated>2022-03-17T22:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Novel ways to store data in light waves]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API安全评估工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30716698</id>
-        <link href="https://news.ycombinator.com/item?id=30716698"/>
-        <updated>2022-03-17T22:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API Security Assessment Tool]]></summary>
-        <author>
-            <name>intesar</name>
-            <uri>https://news.ycombinator.com/user?id=intesar</uri>
         </author>
     </entry>
 </feed>
