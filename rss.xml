@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 19 Mar 2022 22:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 22:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你这老蛇]]></title>
+            <link>https://news.ycombinator.com/item?id=30738103</link>
+            <guid>https://news.ycombinator.com/item?id=30738103</guid>
+            <pubDate>Sat, 19 Mar 2022 22:24:49 GMT</pubDate>
+            <description><![CDATA[Thou Old Serpent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不要再自称是狗家长]]></title>
+            <link>https://news.ycombinator.com/item?id=30738078</link>
+            <guid>https://news.ycombinator.com/item?id=30738078</guid>
+            <pubDate>Sat, 19 Mar 2022 22:21:41 GMT</pubDate>
+            <description><![CDATA[Stop calling yourself a dog parent]]></description>
+        </item>
         <item>
             <title><![CDATA[论贝尔-霍克斯和仪式的慰藉(2021)]]></title>
             <link>https://news.ycombinator.com/item?id=30737440</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30717887</guid>
             <pubDate>Fri, 18 Mar 2022 01:48:46 GMT</pubDate>
             <description><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></description>
-        </item>
-        <item>
-            <title><![CDATA[长期核废料警告信息]]></title>
-            <link>https://news.ycombinator.com/item?id=30718843</link>
-            <guid>https://news.ycombinator.com/item?id=30718843</guid>
-            <pubDate>Fri, 18 Mar 2022 04:51:54 GMT</pubDate>
-            <description><![CDATA[Long-term nuclear waste warning messages]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Igalia在2021年的GNU/Linux图形堆栈中工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30718258</link>
-            <guid>https://news.ycombinator.com/item?id=30718258</guid>
-            <pubDate>Fri, 18 Mar 2022 02:47:01 GMT</pubDate>
-            <description><![CDATA[Igalia work within the GNU/Linux graphics stack in 2021]]></description>
         </item>
     </channel>
 </rss>
