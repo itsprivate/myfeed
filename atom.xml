@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T13:34:20.241Z</updated>
+    <updated>2022-03-19T13:42:15.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[越来越多的人对 "变红 "感到不安]]></title>
+        <id>https://news.ycombinator.com/item?id=30733537</id>
+        <link href="https://news.ycombinator.com/item?id=30733537"/>
+        <updated>2022-03-19T13:27:43.000Z</updated>
+        <summary type="html"><![CDATA[A Growing Furry over 'Turning Red']]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter的Chonky Boi指标]]></title>
+        <id>https://news.ycombinator.com/item?id=30733511</id>
+        <link href="https://news.ycombinator.com/item?id=30733511"/>
+        <updated>2022-03-19T13:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Twitter's Chonky Boi Metrics]]></summary>
+        <author>
+            <name>oedmarap</name>
+            <uri>https://news.ycombinator.com/user?id=oedmarap</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑人团队 (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=30733502</id>
+        <link href="https://news.ycombinator.com/item?id=30733502"/>
+        <updated>2022-03-19T13:20:48.000Z</updated>
+        <summary type="html"><![CDATA[The Black Team (2002)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候变化导致全球可用土地的大量净增加]]></title>
+        <id>https://news.ycombinator.com/item?id=30733500</id>
+        <link href="https://news.ycombinator.com/item?id=30733500"/>
+        <updated>2022-03-19T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Large net gain of usable global land due to climate change]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治激进分子不评价自己的错误--关于任何事情 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30733497</id>
+        <link href="https://news.ycombinator.com/item?id=30733497"/>
+        <updated>2022-03-19T13:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Political radicals don’t evaluate their own errors–about anything (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京对国际司法进行审判--打赌有罪不罚现象将继续存在]]></title>
         <id>https://news.ycombinator.com/item?id=30733444</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>visaals</name>
             <uri>https://news.ycombinator.com/user?id=visaals</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我可以保留多长时间的豁免权？]]></title>
-        <id>https://news.ycombinator.com/item?id=30715178</id>
-        <link href="https://news.ycombinator.com/item?id=30715178"/>
-        <updated>2022-03-17T19:49:53.000Z</updated>
-        <summary type="html"><![CDATA[How Long Do I Retain Immunity?]]></summary>
-        <author>
-            <name>tiahura</name>
-            <uri>https://news.ycombinator.com/user?id=tiahura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软面临OVHcloud的欧盟反垄断投诉]]></title>
-        <id>https://news.ycombinator.com/item?id=30715169</id>
-        <link href="https://news.ycombinator.com/item?id=30715169"/>
-        <updated>2022-03-17T19:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft faces EU antitrust complaint from OVHcloud]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的Graphviz实现]]></title>
-        <id>https://news.ycombinator.com/item?id=30715168</id>
-        <link href="https://news.ycombinator.com/item?id=30715168"/>
-        <updated>2022-03-17T19:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Graphviz Implementation in Rust]]></summary>
-        <author>
-            <name>Q26124</name>
-            <uri>https://news.ycombinator.com/user?id=Q26124</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个火狐浏览器的下载都有一个独特的标识符]]></title>
-        <id>https://news.ycombinator.com/item?id=30715163</id>
-        <link href="https://news.ycombinator.com/item?id=30715163"/>
-        <updated>2022-03-17T19:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Each Firefox download has a unique identifier]]></summary>
-        <author>
-            <name>gslin</name>
-            <uri>https://news.ycombinator.com/user?id=gslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node-ipc中的供应链攻击，删除了所有系统文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30715087</id>
-        <link href="https://news.ycombinator.com/item?id=30715087"/>
-        <updated>2022-03-17T19:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Supply Chain Attack in node-ipc that deletes all system files]]></summary>
-        <author>
-            <name>sansui12</name>
-            <uri>https://news.ycombinator.com/user?id=sansui12</uri>
         </author>
     </entry>
 </feed>
