@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T19:26:06.267Z</updated>
+    <updated>2022-03-19T19:37:05.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伊万-克拉斯特夫谈俄罗斯对乌克兰的入侵]]></title>
+        <id>https://news.ycombinator.com/item?id=30736834</id>
+        <link href="https://news.ycombinator.com/item?id=30736834"/>
+        <updated>2022-03-19T19:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Ivan Krastev on Russia's Invasion of Ukraine]]></summary>
+        <author>
+            <name>ivank</name>
+            <uri>https://news.ycombinator.com/user?id=ivank</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共API情况，一个免费API的集体列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30736765</id>
+        <link href="https://news.ycombinator.com/item?id=30736765"/>
+        <updated>2022-03-19T19:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Public APIs Situation, a collective list of free APIs]]></summary>
+        <author>
+            <name>matheusfelipeog</name>
+            <uri>https://news.ycombinator.com/user?id=matheusfelipeog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狗狗可能因为和人类一样的原因而感到焦虑]]></title>
+        <id>https://news.ycombinator.com/item?id=30736488</id>
+        <link href="https://news.ycombinator.com/item?id=30736488"/>
+        <updated>2022-03-19T18:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Dogs might be anxious for the same reasons as humans]]></summary>
+        <author>
+            <name>whack</name>
+            <uri>https://news.ycombinator.com/user?id=whack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯宇航员身着乌克兰国旗的颜色抵达国际空间站]]></title>
         <id>https://news.ycombinator.com/item?id=30736783</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从太空中看到的印第安纳州沃尔玛超市火灾]]></title>
-        <id>https://news.ycombinator.com/item?id=30717728</id>
-        <link href="https://news.ycombinator.com/item?id=30717728"/>
-        <updated>2022-03-18T01:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Indiana Walmart fire seen from space]]></summary>
-        <author>
-            <name>h2odragon</name>
-            <uri>https://news.ycombinator.com/user?id=h2odragon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月的扫描。食品包装]]></title>
-        <id>https://news.ycombinator.com/item?id=30717785</id>
-        <link href="https://news.ycombinator.com/item?id=30717785"/>
-        <updated>2022-03-18T01:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Scan of the Month: Food Packaging]]></summary>
-        <author>
-            <name>aemreunal</name>
-            <uri>https://news.ycombinator.com/user?id=aemreunal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OpenAI的代码-达芬奇模型通过自然语言构建游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30717773</id>
-        <link href="https://news.ycombinator.com/item?id=30717773"/>
-        <updated>2022-03-18T01:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Building games through natural language using OpenAI’s code-DaVinci model]]></summary>
-        <author>
-            <name>dahjelle</name>
-            <uri>https://news.ycombinator.com/user?id=dahjelle</uri>
         </author>
     </entry>
 </feed>
