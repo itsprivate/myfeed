@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T21:52:25.223Z</updated>
+    <updated>2022-03-19T22:11:36.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[論貝爾-霍克斯和儀式的慰藉(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30737440</id>
+        <link href="https://news.ycombinator.com/item?id=30737440"/>
+        <updated>2022-03-19T20:44:53.000Z</updated>
+        <summary type="html"><![CDATA[On bell hooks and the Solace of Ritual (2021)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio Code在最新的更新中隨機刪除了包含的頭文件]]></title>
         <id>https://news.ycombinator.com/item?id=30737777</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我愛俄羅斯人民。這就是為什麼我必須告訴你真相]]></title>
-        <id>https://news.ycombinator.com/item?id=30718756</id>
-        <link href="https://news.ycombinator.com/item?id=30718756"/>
-        <updated>2022-03-18T04:31:52.000Z</updated>
-        <summary type="html"><![CDATA[I love the Russian people. That is why I have to tell you the truth]]></summary>
-        <author>
-            <name>latchkey</name>
-            <uri>https://news.ycombinator.com/user?id=latchkey</uri>
         </author>
     </entry>
 </feed>
