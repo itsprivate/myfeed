@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T12:51:34.139Z</updated>
+    <updated>2022-03-19T13:08:34.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[秘魯沙漠中發現3600萬年前的鯨魚化石]]></title>
+        <id>https://news.ycombinator.com/item?id=30733393</id>
+        <link href="https://news.ycombinator.com/item?id=30733393"/>
+        <updated>2022-03-19T12:59:08.000Z</updated>
+        <summary type="html"><![CDATA[36M-year-old whale fossil found in Peruvian desert]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南極洲的溫度高了70度。科學家們大吃一驚]]></title>
+        <id>https://news.ycombinator.com/item?id=30733387</id>
+        <link href="https://news.ycombinator.com/item?id=30733387"/>
+        <updated>2022-03-19T12:58:39.000Z</updated>
+        <summary type="html"><![CDATA[It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加油機恰好和你的典型路由器一樣不安全]]></title>
+        <id>https://news.ycombinator.com/item?id=30733337</id>
+        <link href="https://news.ycombinator.com/item?id=30733337"/>
+        <updated>2022-03-19T12:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Gas pumps happen to be about as insecure as your typical router]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科學的美和奇蹟促進了研究人員的幸福感]]></title>
+        <id>https://news.ycombinator.com/item?id=30733328</id>
+        <link href="https://news.ycombinator.com/item?id=30733328"/>
+        <updated>2022-03-19T12:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Beauty and wonder of science boosts researchers’ well-being]]></summary>
+        <author>
+            <name>seedie</name>
+            <uri>https://news.ycombinator.com/user?id=seedie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京威脅要清洗俄羅斯叛徒，私人飛機離開俄羅斯前往迪拜]]></title>
+        <id>https://news.ycombinator.com/item?id=30733327</id>
+        <link href="https://news.ycombinator.com/item?id=30733327"/>
+        <updated>2022-03-19T12:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Private Jets Leave Russia for Dubai as Putin Threatens to Purge Russian Traitors]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間的標準化 (1982)]]></title>
+        <id>https://news.ycombinator.com/item?id=30733311</id>
+        <link href="https://news.ycombinator.com/item?id=30733311"/>
+        <updated>2022-03-19T12:44:06.000Z</updated>
+        <summary type="html"><![CDATA[The Standardization of Time (1982)]]></summary>
+        <author>
+            <name>gotmedium</name>
+            <uri>https://news.ycombinator.com/user?id=gotmedium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疾病預防控制中心刪除了3萬例Covid死亡病例--減少了24%的小兒死亡病例]]></title>
+        <id>https://news.ycombinator.com/item?id=30733301</id>
+        <link href="https://news.ycombinator.com/item?id=30733301"/>
+        <updated>2022-03-19T12:42:05.000Z</updated>
+        <summary type="html"><![CDATA[CDC removes 30K Covid deaths – reduces pediatric deaths by 24%]]></summary>
+        <author>
+            <name>SQL2219</name>
+            <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科威德之後的美麗]]></title>
         <id>https://news.ycombinator.com/item?id=30733220</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>somenameforme</name>
             <uri>https://news.ycombinator.com/user?id=somenameforme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用RP2040驅動TFEL液晶面板。逐步卸載CPU]]></title>
-        <id>https://news.ycombinator.com/item?id=30714943</id>
-        <link href="https://news.ycombinator.com/item?id=30714943"/>
-        <updated>2022-03-17T19:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Driving TFEL LCD Panels with RP2040: Offloading the CPU Step by Step]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓混合型工作發揮作用]]></title>
-        <id>https://news.ycombinator.com/item?id=30714939</id>
-        <link href="https://news.ycombinator.com/item?id=30714939"/>
-        <updated>2022-03-17T19:25:07.000Z</updated>
-        <summary type="html"><![CDATA[Making Hybrid Work work]]></summary>
-        <author>
-            <name>swernli</name>
-            <uri>https://news.ycombinator.com/user?id=swernli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舒緩的YouTube數字房間]]></title>
-        <id>https://news.ycombinator.com/item?id=30714933</id>
-        <link href="https://news.ycombinator.com/item?id=30714933"/>
-        <updated>2022-03-17T19:24:42.000Z</updated>
-        <summary type="html"><![CDATA[The Soothing, Digital Rooms of YouTube]]></summary>
-        <author>
-            <name>atomroflbomber</name>
-            <uri>https://news.ycombinator.com/user?id=atomroflbomber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panfrost的Vulkan驅動在計算著色器方面取得進展]]></title>
-        <id>https://news.ycombinator.com/item?id=30714908</id>
-        <link href="https://news.ycombinator.com/item?id=30714908"/>
-        <updated>2022-03-17T19:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Panfrost's Vulkan Driver Progressing on Compute Shaders]]></summary>
-        <author>
-            <name>mfilion</name>
-            <uri>https://news.ycombinator.com/user?id=mfilion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[噪聲協議框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30714892</id>
-        <link href="https://news.ycombinator.com/item?id=30714892"/>
-        <updated>2022-03-17T19:21:09.000Z</updated>
-        <summary type="html"><![CDATA[The Noise Protocol Framework]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僅在德國（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30714856</id>
-        <link href="https://news.ycombinator.com/item?id=30714856"/>
-        <updated>2022-03-17T19:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Only in Germany (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌對Nest Hub進行促銷，但在產品頁面上沒有任何描述]]></title>
-        <id>https://news.ycombinator.com/item?id=30714817</id>
-        <link href="https://news.ycombinator.com/item?id=30714817"/>
-        <updated>2022-03-17T19:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Google has a sale on the Nest Hub but includes no description on product page]]></summary>
-        <author>
-            <name>tomcam</name>
-            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
         </author>
     </entry>
 </feed>
