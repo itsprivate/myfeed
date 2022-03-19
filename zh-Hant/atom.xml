@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T20:51:52.010Z</updated>
+    <updated>2022-03-19T21:11:06.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯聲稱在烏克蘭首次使用高超音速的Kinzhal導彈]]></title>
+        <id>https://news.ycombinator.com/item?id=30737544</id>
+        <link href="https://news.ycombinator.com/item?id=30737544"/>
+        <updated>2022-03-19T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Russia claims first use of hypersonic Kinzhal missile in Ukraine]]></summary>
+        <author>
+            <name>trhway</name>
+            <uri>https://news.ycombinator.com/user?id=trhway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼俄羅斯無法贏得對西方的勝利]]></title>
+        <id>https://news.ycombinator.com/item?id=30737369</id>
+        <link href="https://news.ycombinator.com/item?id=30737369"/>
+        <updated>2022-03-19T20:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Why Russia can't win against the West]]></summary>
+        <author>
+            <name>yread</name>
+            <uri>https://news.ycombinator.com/user?id=yread</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬里蘭州立即取消汽油稅，為期30天]]></title>
+        <id>https://news.ycombinator.com/item?id=30737303</id>
+        <link href="https://news.ycombinator.com/item?id=30737303"/>
+        <updated>2022-03-19T20:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Maryland immediately lifts gas tax for 30 days]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成藝術和現場編碼工具清單]]></title>
+        <id>https://news.ycombinator.com/item?id=30737017</id>
+        <link href="https://news.ycombinator.com/item?id=30737017"/>
+        <updated>2022-03-19T19:53:17.000Z</updated>
+        <summary type="html"><![CDATA[List of Generative Art and Live Coding Tools]]></summary>
+        <author>
+            <name>vegadw</name>
+            <uri>https://news.ycombinator.com/user?id=vegadw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌Fi突然出擊]]></title>
         <id>https://news.ycombinator.com/item?id=30737431</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>samuel246</name>
             <uri>https://news.ycombinator.com/user?id=samuel246</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用HammerDB對Citus和Postgres進行基準測試的開源工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30718063</id>
-        <link href="https://news.ycombinator.com/item?id=30718063"/>
-        <updated>2022-03-18T02:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Open source tooling for benchmarking Citus and Postgres with HammerDB]]></summary>
-        <author>
-            <name>clairegiordano</name>
-            <uri>https://news.ycombinator.com/user?id=clairegiordano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL-Powered書單]]></title>
-        <id>https://news.ycombinator.com/item?id=30717549</id>
-        <link href="https://news.ycombinator.com/item?id=30717549"/>
-        <updated>2022-03-18T00:56:50.000Z</updated>
-        <summary type="html"><![CDATA[SQL-Powered Book List]]></summary>
-        <author>
-            <name>whatrocks</name>
-            <uri>https://news.ycombinator.com/user?id=whatrocks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最差的Linux電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=30718599</id>
-        <link href="https://news.ycombinator.com/item?id=30718599"/>
-        <updated>2022-03-18T03:55:49.000Z</updated>
-        <summary type="html"><![CDATA[The Worst Linux PC Ever]]></summary>
-        <author>
-            <name>ductionist</name>
-            <uri>https://news.ycombinator.com/user?id=ductionist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顯然，macOS 12.3在一些MacBooks上出現了故障]]></title>
-        <id>https://news.ycombinator.com/item?id=30718547</id>
-        <link href="https://news.ycombinator.com/item?id=30718547"/>
-        <updated>2022-03-18T03:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Apparently macOS 12.3 is broken on some MacBooks]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
