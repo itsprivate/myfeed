@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T15:44:33.290Z</updated>
+    <updated>2022-03-19T15:52:41.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Go中实施的BGP]]></title>
+        <id>https://news.ycombinator.com/item?id=30734712</id>
+        <link href="https://news.ycombinator.com/item?id=30734712"/>
+        <updated>2022-03-19T15:46:15.000Z</updated>
+        <summary type="html"><![CDATA[BGP Implemented in Go]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过测试学习围棋语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30734652</id>
+        <link href="https://news.ycombinator.com/item?id=30734652"/>
+        <updated>2022-03-19T15:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Learn Go Language with Tests]]></summary>
+        <author>
+            <name>patternexon</name>
+            <uri>https://news.ycombinator.com/user?id=patternexon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁是博士？]]></title>
+        <id>https://news.ycombinator.com/item?id=30734596</id>
+        <link href="https://news.ycombinator.com/item?id=30734596"/>
+        <updated>2022-03-19T15:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Doctor Who?]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果M1系统上的OpenBSD/arm64]]></title>
+        <id>https://news.ycombinator.com/item?id=30734527</id>
+        <link href="https://news.ycombinator.com/item?id=30734527"/>
+        <updated>2022-03-19T15:27:13.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD/arm64 on Apple M1 systems]]></summary>
+        <author>
+            <name>brynet</name>
+            <uri>https://news.ycombinator.com/user?id=brynet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Bootstrapping GHC的思考（2018）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30734514</id>
+        <link href="https://news.ycombinator.com/item?id=30734514"/>
+        <updated>2022-03-19T15:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on Bootstrapping GHC (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帝国的案例 (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=30734510</id>
+        <link href="https://news.ycombinator.com/item?id=30734510"/>
+        <updated>2022-03-19T15:25:06.000Z</updated>
+        <summary type="html"><![CDATA[The Case for the Empire (2002)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publii 0.39更新发布。插件、UI翻译和更多]]></title>
+        <id>https://news.ycombinator.com/item?id=30734222</id>
+        <link href="https://news.ycombinator.com/item?id=30734222"/>
+        <updated>2022-03-19T14:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Publii 0.39 update released: Plugins, UI translations and more]]></summary>
+        <author>
+            <name>Katymi</name>
+            <uri>https://news.ycombinator.com/user?id=Katymi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[围绕系统设计有哪些好的资源？]]></title>
         <id>https://news.ycombinator.com/item?id=30734632</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯在乌克兰的伤亡人数不断增加--关于其军事准备的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30716263</id>
-        <link href="https://news.ycombinator.com/item?id=30716263"/>
-        <updated>2022-03-17T21:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Mounting Russian Casualties in Ukraine – Questions about Its Military Readiness]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄乌战争以及为什么不能依赖云服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30716256</id>
-        <link href="https://news.ycombinator.com/item?id=30716256"/>
-        <updated>2022-03-17T21:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Russian-Ukrainian war and why you can't rely on cloud services]]></summary>
-        <author>
-            <name>levashovbiz</name>
-            <uri>https://news.ycombinator.com/user?id=levashovbiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果Mac Studio评测：最终]]></title>
-        <id>https://news.ycombinator.com/item?id=30716022</id>
-        <link href="https://news.ycombinator.com/item?id=30716022"/>
-        <updated>2022-03-17T21:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Apple Mac Studio review: finally]]></summary>
-        <author>
-            <name>occamschainsaw</name>
-            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型无电池设备像蒲公英的种子一样在风中飘荡]]></title>
-        <id>https://news.ycombinator.com/item?id=30716018</id>
-        <link href="https://news.ycombinator.com/item?id=30716018"/>
-        <updated>2022-03-17T21:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Tiny battery-free devices float in the wind like dandelion seeds]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京称亲西方的俄罗斯人是 "叛徒"，威胁要 "自我清洗]]></title>
-        <id>https://news.ycombinator.com/item?id=30716234</id>
-        <link href="https://news.ycombinator.com/item?id=30716234"/>
-        <updated>2022-03-17T21:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Putin calls pro-Western Russians 'traitors,' threatens 'self-cleansing']]></summary>
-        <author>
-            <name>asats</name>
-            <uri>https://news.ycombinator.com/user?id=asats</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Zig热代码重载Native macOS/arm64应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30716177</id>
-        <link href="https://news.ycombinator.com/item?id=30716177"/>
-        <updated>2022-03-17T21:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Hot-code reloading Native macOS/arm64 apps with Zig]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影不是客观的，艺术是一系列的选择]]></title>
-        <id>https://news.ycombinator.com/item?id=30716128</id>
-        <link href="https://news.ycombinator.com/item?id=30716128"/>
-        <updated>2022-03-17T21:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Photography is not Objective, Art is a Set of Choices]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
         </author>
     </entry>
 </feed>
