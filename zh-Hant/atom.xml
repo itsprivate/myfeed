@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T22:39:56.437Z</updated>
+    <updated>2022-03-19T22:51:57.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridle: Wordle的二維版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30738163</id>
+        <link href="https://news.ycombinator.com/item?id=30738163"/>
+        <updated>2022-03-19T22:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Gridle: Two Dimensional Version of Wordle]]></summary>
+        <author>
+            <name>major4x</name>
+            <uri>https://news.ycombinator.com/user?id=major4x</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們無法為美國無保險人的Covid治療提供資金。]]></title>
+        <id>https://news.ycombinator.com/item?id=30738008</id>
+        <link href="https://news.ycombinator.com/item?id=30738008"/>
+        <updated>2022-03-19T22:11:09.000Z</updated>
+        <summary type="html"><![CDATA[We Can't Fund Covid Treatments for the Uninsured in the U.S.]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯貝爾警告說，在線申請中存在危險]]></title>
+        <id>https://news.ycombinator.com/item?id=30737725</id>
+        <link href="https://news.ycombinator.com/item?id=30737725"/>
+        <updated>2022-03-19T21:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Sber warned about the danger in the online application]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我想創建一個新的VR控制器]]></title>
+        <id>https://news.ycombinator.com/item?id=30737329</id>
+        <link href="https://news.ycombinator.com/item?id=30737329"/>
+        <updated>2022-03-19T20:30:28.000Z</updated>
+        <summary type="html"><![CDATA[I want to create a new VR controller]]></summary>
+        <author>
+            <name>Nickiler</name>
+            <uri>https://news.ycombinator.com/user?id=Nickiler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能藥物算法可被翻轉用於發明生物武器]]></title>
         <id>https://news.ycombinator.com/item?id=30737919</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>2143</name>
             <uri>https://news.ycombinator.com/user?id=2143</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEETS。海軍電氣和電子培訓系列]]></title>
-        <id>https://news.ycombinator.com/item?id=30718387</id>
-        <link href="https://news.ycombinator.com/item?id=30718387"/>
-        <updated>2022-03-18T03:11:23.000Z</updated>
-        <summary type="html"><![CDATA[NEETS: Naval Electricity and Electronics Training Series]]></summary>
-        <author>
-            <name>l8rlump</name>
-            <uri>https://news.ycombinator.com/user?id=l8rlump</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadertoy蘋果I模擬器]]></title>
-        <id>https://news.ycombinator.com/item?id=30718854</id>
-        <link href="https://news.ycombinator.com/item?id=30718854"/>
-        <updated>2022-03-18T04:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Shadertoy Apple I Emulator]]></summary>
-        <author>
-            <name>weinzierl</name>
-            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁有短波電臺再次成為一種顛覆性活動]]></title>
-        <id>https://news.ycombinator.com/item?id=30718978</id>
-        <link href="https://news.ycombinator.com/item?id=30718978"/>
-        <updated>2022-03-18T05:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Owning a ShortWave Radio Is Once Again a Subversive Activity]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於React的__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED背景]]></title>
-        <id>https://news.ycombinator.com/item?id=30718919</id>
-        <link href="https://news.ycombinator.com/item?id=30718919"/>
-        <updated>2022-03-18T05:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Background on React's __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
