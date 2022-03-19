@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-19T15:33:43.243Z</updated>
+    <updated>2022-03-19T15:44:33.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[围绕系统设计有哪些好的资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30734632</id>
+        <link href="https://news.ycombinator.com/item?id=30734632"/>
+        <updated>2022-03-19T15:37:59.000Z</updated>
+        <summary type="html"><![CDATA[What are some good resources around System Design?]]></summary>
+        <author>
+            <name>avrmav</name>
+            <uri>https://news.ycombinator.com/user?id=avrmav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实时周期表：所有事件驱动的汇编]]></title>
         <id>https://news.ycombinator.com/item?id=30734451</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>smbv</name>
             <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狭义相对论中的光线追踪]]></title>
-        <id>https://news.ycombinator.com/item?id=30716023</id>
-        <link href="https://news.ycombinator.com/item?id=30716023"/>
-        <updated>2022-03-17T21:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Raytracing in Special Relativity]]></summary>
-        <author>
-            <name>pzs</name>
-            <uri>https://news.ycombinator.com/user?id=pzs</uri>
         </author>
     </entry>
 </feed>
