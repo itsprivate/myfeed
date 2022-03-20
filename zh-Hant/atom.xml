@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T05:10:59.605Z</updated>
+    <updated>2022-03-20T05:37:04.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器現在在中國阻止廣告過濾插件（uBlock Origin，AdBlock）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30740366</id>
+        <link href="https://news.ycombinator.com/item?id=30740366"/>
+        <updated>2022-03-20T05:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Firefox now blocks Ad-filtering add-ons (uBlock Origin, AdBlock) in China]]></summary>
+        <author>
+            <name>ground_cat</name>
+            <uri>https://news.ycombinator.com/user?id=ground_cat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T正在部署由路燈供電的5G小電池]]></title>
+        <id>https://news.ycombinator.com/item?id=30740185</id>
+        <link href="https://news.ycombinator.com/item?id=30740185"/>
+        <updated>2022-03-20T04:41:21.000Z</updated>
+        <summary type="html"><![CDATA[AT&T is deploying streetlight-powered 5G small cells]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[擔心急於求成的風力發電會危及多格島的失落世界]]></title>
         <id>https://news.ycombinator.com/item?id=30740192</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是否在武裝我們的敵人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30720111</id>
-        <link href="https://news.ycombinator.com/item?id=30720111"/>
-        <updated>2022-03-18T09:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Are we arming our enemies?]]></summary>
-        <author>
-            <name>nonrandomstring</name>
-            <uri>https://news.ycombinator.com/user?id=nonrandomstring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moderna公司為成人的第二支Covid-19增效針尋求批准]]></title>
-        <id>https://news.ycombinator.com/item?id=30719904</id>
-        <link href="https://news.ycombinator.com/item?id=30719904"/>
-        <updated>2022-03-18T08:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Moderna Seeks Approval for Second Covid-19 Booster-Shot for Adults]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
