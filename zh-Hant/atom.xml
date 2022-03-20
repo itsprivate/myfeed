@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T04:43:30.100Z</updated>
+    <updated>2022-03-20T04:57:52.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過Git的core.fsmonitor進行開發，影響到IDE、shell提示和掠奪者。]]></title>
+        <id>https://news.ycombinator.com/item?id=30740206</id>
+        <link href="https://news.ycombinator.com/item?id=30740206"/>
+        <updated>2022-03-20T04:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Exploitation via Git's core.fsmonitor, affects IDEs, shell prompts and pillagers]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[康蒂勒索軟件團伙洩密：網上有6萬條信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30740199</id>
+        <link href="https://news.ycombinator.com/item?id=30740199"/>
+        <updated>2022-03-20T04:43:57.000Z</updated>
+        <summary type="html"><![CDATA[Conti ransomware gang leak: 60k messages online]]></summary>
+        <author>
+            <name>zaik</name>
+            <uri>https://news.ycombinator.com/user?id=zaik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯人利用VPN瞭解烏克蘭的真相，在朋友和家人之間引發爭吵]]></title>
+        <id>https://news.ycombinator.com/item?id=30740180</id>
+        <link href="https://news.ycombinator.com/item?id=30740180"/>
+        <updated>2022-03-20T04:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Russians using VPNs for truth on Ukraine starts fights among friends and family]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信用報告機構將抹去大部分醫療債務]]></title>
+        <id>https://news.ycombinator.com/item?id=30740165</id>
+        <link href="https://news.ycombinator.com/item?id=30740165"/>
+        <updated>2022-03-20T04:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Credit reporting agencies will wipe out most medical debt]]></summary>
+        <author>
+            <name>hippich</name>
+            <uri>https://news.ycombinator.com/user?id=hippich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯間諜頭目被捕，官員們對入侵烏克蘭問題意見分歧]]></title>
+        <id>https://news.ycombinator.com/item?id=30740107</id>
+        <link href="https://news.ycombinator.com/item?id=30740107"/>
+        <updated>2022-03-20T04:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Russian spy chief arrested, officials split over Ukraine invasion]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修復美國永無止境的網絡安全失敗的計劃]]></title>
+        <id>https://news.ycombinator.com/item?id=30740058</id>
+        <link href="https://news.ycombinator.com/item?id=30740058"/>
+        <updated>2022-03-20T04:17:12.000Z</updated>
+        <summary type="html"><![CDATA[The plan to fix America’s never-ending cybersecurity failures]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽油太貴了？讓我們讓它變得便宜 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30738999</id>
+        <link href="https://news.ycombinator.com/item?id=30738999"/>
+        <updated>2022-03-20T00:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Gas is too expensive? Let’s make it cheap (2018)]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯是否在為使用戰術核彈編造藉口？]]></title>
         <id>https://news.ycombinator.com/item?id=30740099</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snappass。安全地分享密碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30720150</id>
-        <link href="https://news.ycombinator.com/item?id=30720150"/>
-        <updated>2022-03-18T09:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Snappass: Share Passwords Securely]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個波蘭程序員團隊建立了一個數字工具來規避俄羅斯的審查制度]]></title>
-        <id>https://news.ycombinator.com/item?id=30720135</id>
-        <link href="https://news.ycombinator.com/item?id=30720135"/>
-        <updated>2022-03-18T09:35:11.000Z</updated>
-        <summary type="html"><![CDATA[A team of Polish programmers built a digital tool to evade Russian censorship]]></summary>
-        <author>
-            <name>oedmarap</name>
-            <uri>https://news.ycombinator.com/user?id=oedmarap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享Jupyter筆記本作為網絡應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30720120</id>
-        <link href="https://news.ycombinator.com/item?id=30720120"/>
-        <updated>2022-03-18T09:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Share Jupyter Notebook as web app]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建硬件加速器的離線優化]]></title>
-        <id>https://news.ycombinator.com/item?id=30719844</id>
-        <link href="https://news.ycombinator.com/item?id=30719844"/>
-        <updated>2022-03-18T08:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Offline Optimization for Architecting Hardware Accelerators]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銥星公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30719764</id>
-        <link href="https://news.ycombinator.com/item?id=30719764"/>
-        <updated>2022-03-18T08:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Irradix]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分佈式系統中的數據所有權]]></title>
-        <id>https://news.ycombinator.com/item?id=30719706</id>
-        <link href="https://news.ycombinator.com/item?id=30719706"/>
-        <updated>2022-03-18T08:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Data Ownership in Distributed Systems]]></summary>
-        <author>
-            <name>ayende</name>
-            <uri>https://news.ycombinator.com/user?id=ayende</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新版本：nuxt-speedkit 2.0--更快，更容易實現]]></title>
-        <id>https://news.ycombinator.com/item?id=30719657</id>
-        <link href="https://news.ycombinator.com/item?id=30719657"/>
-        <updated>2022-03-18T08:02:43.000Z</updated>
-        <summary type="html"><![CDATA[New release: nuxt-speedkit 2.0 – even faster and easier to implement]]></summary>
-        <author>
-            <name>sgerbeth</name>
-            <uri>https://news.ycombinator.com/user?id=sgerbeth</uri>
         </author>
     </entry>
 </feed>
