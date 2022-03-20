@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T19:52:00.327Z</updated>
+    <updated>2022-03-20T20:12:27.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不舒服的聯繫]]></title>
+        <id>https://news.ycombinator.com/item?id=30746004</id>
+        <link href="https://news.ycombinator.com/item?id=30746004"/>
+        <updated>2022-03-20T19:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Uncomfortable Connection]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何為您的自定義類型創建LLDB類型摘要和合成子類型]]></title>
+        <id>https://news.ycombinator.com/item?id=30745969</id>
+        <link href="https://news.ycombinator.com/item?id=30745969"/>
+        <updated>2022-03-20T19:49:04.000Z</updated>
+        <summary type="html"><![CDATA[How to create LLDB type summaries and synthetic children for your custom types]]></summary>
+        <author>
+            <name>sudara</name>
+            <uri>https://news.ycombinator.com/user?id=sudara</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約600小時後，切爾諾貝利核電站的64名工人終於解脫了]]></title>
+        <id>https://news.ycombinator.com/item?id=30745931</id>
+        <link href="https://news.ycombinator.com/item?id=30745931"/>
+        <updated>2022-03-20T19:44:34.000Z</updated>
+        <summary type="html"><![CDATA[After about 600 hours, 64 Workers at Chernobyl nuclear plant finally relieved]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[傅式]]></title>
+        <id>https://news.ycombinator.com/item?id=30745893</id>
+        <link href="https://news.ycombinator.com/item?id=30745893"/>
+        <updated>2022-03-20T19:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Type-Fu]]></summary>
+        <author>
+            <name>xcambar</name>
+            <uri>https://news.ycombinator.com/user?id=xcambar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天才的車票理論]]></title>
+        <id>https://news.ycombinator.com/item?id=30745705</id>
+        <link href="https://news.ycombinator.com/item?id=30745705"/>
+        <updated>2022-03-20T19:20:48.000Z</updated>
+        <summary type="html"><![CDATA[The bus ticket theory of genius]]></summary>
+        <author>
+            <name>arkj</name>
+            <uri>https://news.ycombinator.com/user?id=arkj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鮑勃-查普克和鮑勃-艾格鬧翻了--裂痕籠罩著迪士尼的未來]]></title>
+        <id>https://news.ycombinator.com/item?id=30745661</id>
+        <link href="https://news.ycombinator.com/item?id=30745661"/>
+        <updated>2022-03-20T19:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Bob Chapek and Bob Iger had a falling out – the rift looms over Disney’s future]]></summary>
+        <author>
+            <name>dglass</name>
+            <uri>https://news.ycombinator.com/user?id=dglass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - asciinema/asciinema：終端會話記錄器]]></title>
         <id>https://news.ycombinator.com/item?id=30745754</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Rust中製作一個錯別字檢測工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30731290</id>
-        <link href="https://news.ycombinator.com/item?id=30731290"/>
-        <updated>2022-03-19T05:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Making a typo detection tool in Rust]]></summary>
-        <author>
-            <name>ahmadrosid</name>
-            <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自適應實驗平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30731203</id>
-        <link href="https://news.ycombinator.com/item?id=30731203"/>
-        <updated>2022-03-19T04:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Adaptive Experimentation Platform]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是代幣化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30731169</id>
-        <link href="https://news.ycombinator.com/item?id=30731169"/>
-        <updated>2022-03-19T04:52:07.000Z</updated>
-        <summary type="html"><![CDATA[What Is Tokenization?]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Grafana和其他開源解決方案照顧好你的親人]]></title>
-        <id>https://news.ycombinator.com/item?id=30731165</id>
-        <link href="https://news.ycombinator.com/item?id=30731165"/>
-        <updated>2022-03-19T04:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Taking care of your loved ones with Grafana and other open source solutions]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個27歲的德州人如何成為俄羅斯美國電視網的代言人]]></title>
-        <id>https://news.ycombinator.com/item?id=30731162</id>
-        <link href="https://news.ycombinator.com/item?id=30731162"/>
-        <updated>2022-03-19T04:50:39.000Z</updated>
-        <summary type="html"><![CDATA[How a 27-Year-Old Texan Became the Face of Russia’s American TV Network]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miredo: Teredo IPv6 Tunneling for Linux and BSD]]></title>
-        <id>https://news.ycombinator.com/item?id=30731123</id>
-        <link href="https://news.ycombinator.com/item?id=30731123"/>
-        <updated>2022-03-19T04:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Miredo: Teredo IPv6 Tunneling for Linux and BSD]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
