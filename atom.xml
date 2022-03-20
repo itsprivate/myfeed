@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T21:30:03.316Z</updated>
+    <updated>2022-03-20T21:37:26.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太空第一人尤里-加加林的名字已从募捐活动中删除]]></title>
+        <id>https://news.ycombinator.com/item?id=30746737</id>
+        <link href="https://news.ycombinator.com/item?id=30746737"/>
+        <updated>2022-03-20T21:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Yuri Gagarin, first person in space, has had his name removed from fundraiser]]></summary>
+        <author>
+            <name>opisthenar84</name>
+            <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受保护和持久的RAM文件系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30746687</id>
+        <link href="https://news.ycombinator.com/item?id=30746687"/>
+        <updated>2022-03-20T21:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Protected and Persistent RAM Filesystem]]></summary>
+        <author>
+            <name>kaladin-jasnah</name>
+            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的PowerVR驱动程序对移动设备意味着什么]]></title>
         <id>https://news.ycombinator.com/item?id=30746681</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jdjdieiordnb</name>
             <uri>https://news.ycombinator.com/user?id=jdjdieiordnb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对资格认证主义]]></title>
-        <id>https://news.ycombinator.com/item?id=30732259</id>
-        <link href="https://news.ycombinator.com/item?id=30732259"/>
-        <updated>2022-03-19T08:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Against Credentialism]]></summary>
-        <author>
-            <name>barry-cotter</name>
-            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓝天思维：新规则允许数字游民在阳光下工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30732073</id>
-        <link href="https://news.ycombinator.com/item?id=30732073"/>
-        <updated>2022-03-19T08:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Blue-sky thinking: new rules allow digital nomads to work in the sun]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
