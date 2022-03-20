@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T02:51:12.764Z</updated>
+    <updated>2022-03-20T03:02:34.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何让Xfce看起来更好 - 2.0版]]></title>
+        <id>https://news.ycombinator.com/item?id=30739631</id>
+        <link href="https://news.ycombinator.com/item?id=30739631"/>
+        <updated>2022-03-20T02:55:15.000Z</updated>
+        <summary type="html"><![CDATA[How to Make Xfce Look Better – Ver. 2.0]]></summary>
+        <author>
+            <name>linuxscoop</name>
+            <uri>https://news.ycombinator.com/user?id=linuxscoop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust的不安全指针类型需要大修]]></title>
+        <id>https://news.ycombinator.com/item?id=30739557</id>
+        <link href="https://news.ycombinator.com/item?id=30739557"/>
+        <updated>2022-03-20T02:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Rust's Unsafe Pointer Types Need an Overhaul]]></summary>
+        <author>
+            <name>faitswulff</name>
+            <uri>https://news.ycombinator.com/user?id=faitswulff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊仓库在一名工人获得3000美元雇佣奖金前1天解雇了他]]></title>
         <id>https://news.ycombinator.com/item?id=30739393</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>AdriaanvRossum</name>
             <uri>https://news.ycombinator.com/user?id=AdriaanvRossum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年不可能注册GCP (Twitter thread)]]></title>
-        <id>https://news.ycombinator.com/item?id=30719923</id>
-        <link href="https://news.ycombinator.com/item?id=30719923"/>
-        <updated>2022-03-18T08:51:14.000Z</updated>
-        <summary type="html"><![CDATA[It's impossible to sign up for GCP in 2022 (Twitter thread)]]></summary>
-        <author>
-            <name>sixhobbits</name>
-            <uri>https://news.ycombinator.com/user?id=sixhobbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超导HUSIR W波段发射器 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30719871</id>
-        <link href="https://news.ycombinator.com/item?id=30719871"/>
-        <updated>2022-03-18T08:40:08.000Z</updated>
-        <summary type="html"><![CDATA[The super-conducting HUSIR W-Band Transmitter [pdf]]]></summary>
-        <author>
-            <name>lokimedes</name>
-            <uri>https://news.ycombinator.com/user?id=lokimedes</uri>
         </author>
     </entry>
 </feed>
