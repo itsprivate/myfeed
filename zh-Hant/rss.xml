@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Mar 2022 16:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 17:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[測試，請勿投票]]></title>
+            <link>https://news.ycombinator.com/item?id=30744277</link>
+            <guid>https://news.ycombinator.com/item?id=30744277</guid>
+            <pubDate>Sun, 20 Mar 2022 16:51:27 GMT</pubDate>
+            <description><![CDATA[Test, Do Not Upvote]]></description>
+        </item>
+        <item>
+            <title><![CDATA[iPod修改者賦予蘋果公司被遺棄的音樂播放器新的生命]]></title>
+            <link>https://news.ycombinator.com/item?id=30744143</link>
+            <guid>https://news.ycombinator.com/item?id=30744143</guid>
+            <pubDate>Sun, 20 Mar 2022 16:36:33 GMT</pubDate>
+            <description><![CDATA[iPod Modders Give Apple’s Abandoned Music Player New Life]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zig是一個每天尋找最佳路徑的謎題]]></title>
+            <link>https://news.ycombinator.com/item?id=30744124</link>
+            <guid>https://news.ycombinator.com/item?id=30744124</guid>
+            <pubDate>Sun, 20 Mar 2022 16:34:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Zig a daily find-the-best-path puzzle]]></description>
+        </item>
         <item>
             <title><![CDATA[在生物多樣性喪失的時代，新物種的重要性]]></title>
             <link>https://news.ycombinator.com/item?id=30744126</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30723736</guid>
             <pubDate>Fri, 18 Mar 2022 15:48:21 GMT</pubDate>
             <description><![CDATA[From zero to Tailscale in five minutes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌TAG暴露了與康蒂勒索軟件集團有關的 "異國百合 "訪問經紀人]]></title>
-            <link>https://news.ycombinator.com/item?id=30723714</link>
-            <guid>https://news.ycombinator.com/item?id=30723714</guid>
-            <pubDate>Fri, 18 Mar 2022 15:46:12 GMT</pubDate>
-            <description><![CDATA[Google TAG exposes 'Exotic Lily' access broker linked to Conti ransomware group]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京要求償還阿薩德的債務，敘利亞人加入俄羅斯在烏克蘭的行列]]></title>
-            <link>https://news.ycombinator.com/item?id=30723713</link>
-            <guid>https://news.ycombinator.com/item?id=30723713</guid>
-            <pubDate>Fri, 18 Mar 2022 15:46:05 GMT</pubDate>
-            <description><![CDATA[Syrians join Russian ranks in Ukraine as Putin calls in Assad’s debt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[習近平呼籲與華盛頓合作結束俄烏衝突]]></title>
-            <link>https://news.ycombinator.com/item?id=30723682</link>
-            <guid>https://news.ycombinator.com/item?id=30723682</guid>
-            <pubDate>Fri, 18 Mar 2022 15:44:26 GMT</pubDate>
-            <description><![CDATA[Xi Jinping calls for cooperation with Washington ending Russia-Ukraine conflict]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T16:45:53.529Z</updated>
+    <updated>2022-03-20T17:02:00.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測試，請勿投票]]></title>
+        <id>https://news.ycombinator.com/item?id=30744277</id>
+        <link href="https://news.ycombinator.com/item?id=30744277"/>
+        <updated>2022-03-20T16:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Test, Do Not Upvote]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPod修改者賦予蘋果公司被遺棄的音樂播放器新的生命]]></title>
+        <id>https://news.ycombinator.com/item?id=30744143</id>
+        <link href="https://news.ycombinator.com/item?id=30744143"/>
+        <updated>2022-03-20T16:36:33.000Z</updated>
+        <summary type="html"><![CDATA[iPod Modders Give Apple’s Abandoned Music Player New Life]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zig是一個每天尋找最佳路徑的謎題]]></title>
+        <id>https://news.ycombinator.com/item?id=30744124</id>
+        <link href="https://news.ycombinator.com/item?id=30744124"/>
+        <updated>2022-03-20T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zig a daily find-the-best-path puzzle]]></summary>
+        <author>
+            <name>karaokeyoga</name>
+            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在生物多樣性喪失的時代，新物種的重要性]]></title>
         <id>https://news.ycombinator.com/item?id=30744126</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Gadiguibou</name>
             <uri>https://news.ycombinator.com/user?id=Gadiguibou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌TAG暴露了與康蒂勒索軟件集團有關的 "異國百合 "訪問經紀人]]></title>
-        <id>https://news.ycombinator.com/item?id=30723714</id>
-        <link href="https://news.ycombinator.com/item?id=30723714"/>
-        <updated>2022-03-18T15:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Google TAG exposes 'Exotic Lily' access broker linked to Conti ransomware group]]></summary>
-        <author>
-            <name>matbilodeau</name>
-            <uri>https://news.ycombinator.com/user?id=matbilodeau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京要求償還阿薩德的債務，敘利亞人加入俄羅斯在烏克蘭的行列]]></title>
-        <id>https://news.ycombinator.com/item?id=30723713</id>
-        <link href="https://news.ycombinator.com/item?id=30723713"/>
-        <updated>2022-03-18T15:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Syrians join Russian ranks in Ukraine as Putin calls in Assad’s debt]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[習近平呼籲與華盛頓合作結束俄烏衝突]]></title>
-        <id>https://news.ycombinator.com/item?id=30723682</id>
-        <link href="https://news.ycombinator.com/item?id=30723682"/>
-        <updated>2022-03-18T15:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Xi Jinping calls for cooperation with Washington ending Russia-Ukraine conflict]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
