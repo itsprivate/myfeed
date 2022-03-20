@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T11:12:36.465Z</updated>
+    <updated>2022-03-20T11:28:30.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LimeWire创始人对陌生人利用品牌进行NFT市场的行为 "不感到兴奋"]]></title>
+        <id>https://news.ycombinator.com/item?id=30741621</id>
+        <link href="https://news.ycombinator.com/item?id=30741621"/>
+        <updated>2022-03-20T10:51:20.000Z</updated>
+        <summary type="html"><![CDATA[LimeWire Founder “Not Thrilled” That Strangers Exploit Brand for NFT Marketplace]]></summary>
+        <author>
+            <name>schleck8</name>
+            <uri>https://news.ycombinator.com/user?id=schleck8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事实证明，伟大的辞职之后可能会有伟大的后悔。]]></title>
         <id>https://news.ycombinator.com/item?id=30741662</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Linuxfromscratch.com是一个骗局网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30721951</id>
-        <link href="https://news.ycombinator.com/item?id=30721951"/>
-        <updated>2022-03-18T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Linuxfromscratch.com Is a Scam Website]]></summary>
-        <author>
-            <name>quazar</name>
-            <uri>https://news.ycombinator.com/user?id=quazar</uri>
         </author>
     </entry>
 </feed>
