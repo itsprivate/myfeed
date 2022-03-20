@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T18:37:22.977Z</updated>
+    <updated>2022-03-20T18:54:40.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Owarezaka，一个针对iOS/Android的Gitlab移动平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30745322</id>
+        <link href="https://news.ycombinator.com/item?id=30745322"/>
+        <updated>2022-03-20T18:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Owarezaka, a Gitlab mobile platform for iOS/Android]]></summary>
+        <author>
+            <name>alperakgun</name>
+            <uri>https://news.ycombinator.com/user?id=alperakgun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware v2.0的Ida分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30745099</id>
+        <link href="https://news.ycombinator.com/item?id=30745099"/>
+        <updated>2022-03-20T18:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Ida analysis of LockBit Ransomware v2.0]]></summary>
+        <author>
+            <name>joshbaptiste</name>
+            <uri>https://news.ycombinator.com/user?id=joshbaptiste</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霓虹灯短缺是个坏兆头]]></title>
+        <id>https://news.ycombinator.com/item?id=30744982</id>
+        <link href="https://news.ycombinator.com/item?id=30744982"/>
+        <updated>2022-03-20T18:02:06.000Z</updated>
+        <summary type="html"><![CDATA[The neon shortage is a bad sign]]></summary>
+        <author>
+            <name>imartin2k</name>
+            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个并不试图成为TikTok克隆的照片分享应用]]></title>
         <id>https://news.ycombinator.com/item?id=30745237</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>gnfargbl</name>
             <uri>https://news.ycombinator.com/user?id=gnfargbl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中咖喱的综合指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30723826</id>
-        <link href="https://news.ycombinator.com/item?id=30723826"/>
-        <updated>2022-03-18T15:55:52.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide to currying in Python]]></summary>
-        <author>
-            <name>specbug</name>
-            <uri>https://news.ycombinator.com/user?id=specbug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚历山大搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30724592</id>
-        <link href="https://news.ycombinator.com/item?id=30724592"/>
-        <updated>2022-03-18T16:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Alexandria Search]]></summary>
-        <author>
-            <name>nafnlj</name>
-            <uri>https://news.ycombinator.com/user?id=nafnlj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：1Password6在Chrome 99上已经死亡。 无限期许可证是有限的]]></title>
-        <id>https://news.ycombinator.com/item?id=30724511</id>
-        <link href="https://news.ycombinator.com/item?id=30724511"/>
-        <updated>2022-03-18T16:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: 1Password6 is dead on Chrome 99. Indefinite license is finite]]></summary>
-        <author>
-            <name>fhub</name>
-            <uri>https://news.ycombinator.com/user?id=fhub</uri>
         </author>
     </entry>
 </feed>
