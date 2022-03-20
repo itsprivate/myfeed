@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T06:55:51.851Z</updated>
+    <updated>2022-03-20T07:29:05.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PHP流媒体音频]]></title>
+        <id>https://news.ycombinator.com/item?id=30740774</id>
+        <link href="https://news.ycombinator.com/item?id=30740774"/>
+        <updated>2022-03-20T07:07:22.000Z</updated>
+        <summary type="html"><![CDATA[PHP Streaming Audio]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[异步堆栈和作用域]]></title>
+        <id>https://news.ycombinator.com/item?id=30740707</id>
+        <link href="https://news.ycombinator.com/item?id=30740707"/>
+        <updated>2022-03-20T06:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Asynchronous Stacks and Scopes]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程类博客（21k星）在过去9个月内不活跃]]></title>
+        <id>https://news.ycombinator.com/item?id=30740700</id>
+        <link href="https://news.ycombinator.com/item?id=30740700"/>
+        <updated>2022-03-20T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineering Blogs (21k stars) inactive from last 9 months]]></summary>
+        <author>
+            <name>sivunq</name>
+            <uri>https://news.ycombinator.com/user?id=sivunq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富人的社会主义"：不良经济的恶果]]></title>
         <id>https://news.ycombinator.com/item?id=30740687</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>unripe_syntax</name>
             <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机会均等的混蛋 "辩护。无礼可以掩盖性别偏见]]></title>
-        <id>https://news.ycombinator.com/item?id=30720426</id>
-        <link href="https://news.ycombinator.com/item?id=30720426"/>
-        <updated>2022-03-18T10:26:24.000Z</updated>
-        <summary type="html"><![CDATA[The ‘Equal-Opportunity Jerk’ Defense: Rudeness Can Obfuscate Gender Bias]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游泳运动员利亚-托马斯成为第一个赢得第一级国家冠军的变性运动员]]></title>
-        <id>https://news.ycombinator.com/item?id=30720703</id>
-        <link href="https://news.ycombinator.com/item?id=30720703"/>
-        <updated>2022-03-18T11:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Swimmer Lia Thomas becomes first trans athlete to win Division I national title]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今为止最大规模的试验中，伊维菌素没有减少Covid-19的住院人数]]></title>
-        <id>https://news.ycombinator.com/item?id=30720662</id>
-        <link href="https://news.ycombinator.com/item?id=30720662"/>
-        <updated>2022-03-18T11:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Ivermectin Didn’t Reduce Covid-19 Hospitalizations in Largest Trial to Date]]></summary>
-        <author>
-            <name>elmalto</name>
-            <uri>https://news.ycombinator.com/user?id=elmalto</uri>
         </author>
     </entry>
 </feed>
