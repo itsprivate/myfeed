@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T10:51:55.958Z</updated>
+    <updated>2022-03-20T11:12:36.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事實證明，偉大的辭職之後可能會有偉大的後悔。]]></title>
+        <id>https://news.ycombinator.com/item?id=30741662</id>
+        <link href="https://news.ycombinator.com/item?id=30741662"/>
+        <updated>2022-03-20T11:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Turns out the Great Resignation may be followed by the Great Regret]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux中的髒管道漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30741595</id>
+        <link href="https://news.ycombinator.com/item?id=30741595"/>
+        <updated>2022-03-20T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Dirty Pipe Vulnerability in Linux]]></summary>
+        <author>
+            <name>StephanStS</name>
+            <uri>https://news.ycombinator.com/user?id=StephanStS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZAP-Hosting數據洩露（60GB，746k獨特的電子郵件地址）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30741593</id>
+        <link href="https://news.ycombinator.com/item?id=30741593"/>
+        <updated>2022-03-20T10:44:08.000Z</updated>
+        <summary type="html"><![CDATA[ZAP-Hosting Data Breach (60GB, 746k unique email addresses)]]></summary>
+        <author>
+            <name>Nickwasused</name>
+            <uri>https://news.ycombinator.com/user?id=Nickwasused</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年系統管理員需要知道的sudo新功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30741562</id>
+        <link href="https://news.ycombinator.com/item?id=30741562"/>
+        <updated>2022-03-20T10:36:48.000Z</updated>
+        <summary type="html"><![CDATA[New sudo features sysadmins need to know in 2022]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用代幣桶和斷路器來解決重試問題]]></title>
         <id>https://news.ycombinator.com/item?id=30741583</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>quazar</name>
             <uri>https://news.ycombinator.com/user?id=quazar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網並不像你想象的那樣新]]></title>
-        <id>https://news.ycombinator.com/item?id=30721882</id>
-        <link href="https://news.ycombinator.com/item?id=30721882"/>
-        <updated>2022-03-18T13:23:18.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Is Not as New as You Think]]></summary>
-        <author>
-            <name>Digit-Al</name>
-            <uri>https://news.ycombinator.com/user?id=Digit-Al</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRI-O中的關鍵容器逃逸缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30721877</id>
-        <link href="https://news.ycombinator.com/item?id=30721877"/>
-        <updated>2022-03-18T13:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Critical Container Escape Flaw in CRI-O]]></summary>
-        <author>
-            <name>whiteyford</name>
-            <uri>https://news.ycombinator.com/user?id=whiteyford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月球上的古老磁場可能在保護珍貴的冰塊]]></title>
-        <id>https://news.ycombinator.com/item?id=30721782</id>
-        <link href="https://news.ycombinator.com/item?id=30721782"/>
-        <updated>2022-03-18T13:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Ancient magnetic fields on the Moon could be protecting precious ice]]></summary>
-        <author>
-            <name>lsllc</name>
-            <uri>https://news.ycombinator.com/user?id=lsllc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們對無DRM遊戲的承諾]]></title>
-        <id>https://news.ycombinator.com/item?id=30721734</id>
-        <link href="https://news.ycombinator.com/item?id=30721734"/>
-        <updated>2022-03-18T13:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Our commitment to DRM-free gaming]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
         </author>
     </entry>
 </feed>

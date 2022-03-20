@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 11:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[事實證明，偉大的辭職之後可能會有偉大的後悔。]]></title>
+            <link>https://news.ycombinator.com/item?id=30741662</link>
+            <guid>https://news.ycombinator.com/item?id=30741662</guid>
+            <pubDate>Sun, 20 Mar 2022 11:02:48 GMT</pubDate>
+            <description><![CDATA[Turns out the Great Resignation may be followed by the Great Regret]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Linux中的髒管道漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=30741595</link>
+            <guid>https://news.ycombinator.com/item?id=30741595</guid>
+            <pubDate>Sun, 20 Mar 2022 10:44:12 GMT</pubDate>
+            <description><![CDATA[Dirty Pipe Vulnerability in Linux]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ZAP-Hosting數據洩露（60GB，746k獨特的電子郵件地址）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30741593</link>
+            <guid>https://news.ycombinator.com/item?id=30741593</guid>
+            <pubDate>Sun, 20 Mar 2022 10:44:08 GMT</pubDate>
+            <description><![CDATA[ZAP-Hosting Data Breach (60GB, 746k unique email addresses)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022年系統管理員需要知道的sudo新功能]]></title>
+            <link>https://news.ycombinator.com/item?id=30741562</link>
+            <guid>https://news.ycombinator.com/item?id=30741562</guid>
+            <pubDate>Sun, 20 Mar 2022 10:36:48 GMT</pubDate>
+            <description><![CDATA[New sudo features sysadmins need to know in 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[用代幣桶和斷路器來解決重試問題]]></title>
             <link>https://news.ycombinator.com/item?id=30741583</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30721951</guid>
             <pubDate>Fri, 18 Mar 2022 13:29:00 GMT</pubDate>
             <description><![CDATA[Tell HN: Linuxfromscratch.com Is a Scam Website]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互聯網並不像你想象的那樣新]]></title>
-            <link>https://news.ycombinator.com/item?id=30721882</link>
-            <guid>https://news.ycombinator.com/item?id=30721882</guid>
-            <pubDate>Fri, 18 Mar 2022 13:23:18 GMT</pubDate>
-            <description><![CDATA[The Internet Is Not as New as You Think]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CRI-O中的關鍵容器逃逸缺陷]]></title>
-            <link>https://news.ycombinator.com/item?id=30721877</link>
-            <guid>https://news.ycombinator.com/item?id=30721877</guid>
-            <pubDate>Fri, 18 Mar 2022 13:23:05 GMT</pubDate>
-            <description><![CDATA[Critical Container Escape Flaw in CRI-O]]></description>
-        </item>
-        <item>
-            <title><![CDATA[月球上的古老磁場可能在保護珍貴的冰塊]]></title>
-            <link>https://news.ycombinator.com/item?id=30721782</link>
-            <guid>https://news.ycombinator.com/item?id=30721782</guid>
-            <pubDate>Fri, 18 Mar 2022 13:14:24 GMT</pubDate>
-            <description><![CDATA[Ancient magnetic fields on the Moon could be protecting precious ice]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們對無DRM遊戲的承諾]]></title>
-            <link>https://news.ycombinator.com/item?id=30721734</link>
-            <guid>https://news.ycombinator.com/item?id=30721734</guid>
-            <pubDate>Fri, 18 Mar 2022 13:10:56 GMT</pubDate>
-            <description><![CDATA[Our commitment to DRM-free gaming]]></description>
         </item>
     </channel>
 </rss>
