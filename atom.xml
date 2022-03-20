@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T15:45:48.107Z</updated>
+    <updated>2022-03-20T15:53:15.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐浏览器中的Rust有多少？2022年3月]]></title>
+        <id>https://news.ycombinator.com/item?id=30743577</id>
+        <link href="https://news.ycombinator.com/item?id=30743577"/>
+        <updated>2022-03-20T15:41:25.000Z</updated>
+        <summary type="html"><![CDATA[How much Rust in Firefox? March 2022]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员权力 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30743439</id>
+        <link href="https://news.ycombinator.com/item?id=30743439"/>
+        <updated>2022-03-20T15:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Programmer Power (2020)]]></summary>
+        <author>
+            <name>mwcampbell</name>
+            <uri>https://news.ycombinator.com/user?id=mwcampbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vimeo: "我们是一个B2B解决方案，而不是独立版的YouTube"。]]></title>
         <id>https://news.ycombinator.com/item?id=30743371</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb的微服务架构的人性一面]]></title>
-        <id>https://news.ycombinator.com/item?id=30723325</id>
-        <link href="https://news.ycombinator.com/item?id=30723325"/>
-        <updated>2022-03-18T15:13:50.000Z</updated>
-        <summary type="html"><![CDATA[The Human Side of Airbnb’s Microservice Architecture]]></summary>
-        <author>
-            <name>arberavdullahu</name>
-            <uri>https://news.ycombinator.com/user?id=arberavdullahu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯告诉谷歌停止在YouTube上散布对俄罗斯人的威胁]]></title>
-        <id>https://news.ycombinator.com/item?id=30723308</id>
-        <link href="https://news.ycombinator.com/item?id=30723308"/>
-        <updated>2022-03-18T15:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Russia tells Google to stop spreading threats against Russians on YouTube]]></summary>
-        <author>
-            <name>SQL2219</name>
-            <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
         </author>
     </entry>
 </feed>

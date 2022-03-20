@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 20 Mar 2022 15:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:53:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[火狐瀏覽器中的Rust有多少？2022年3月]]></title>
+            <link>https://news.ycombinator.com/item?id=30743577</link>
+            <guid>https://news.ycombinator.com/item?id=30743577</guid>
+            <pubDate>Sun, 20 Mar 2022 15:41:25 GMT</pubDate>
+            <description><![CDATA[How much Rust in Firefox? March 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[程序員權力 (2020)]]></title>
+            <link>https://news.ycombinator.com/item?id=30743439</link>
+            <guid>https://news.ycombinator.com/item?id=30743439</guid>
+            <pubDate>Sun, 20 Mar 2022 15:29:58 GMT</pubDate>
+            <description><![CDATA[Programmer Power (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[Vimeo: "我們是一個B2B解決方案，而不是獨立版的YouTube"。]]></title>
             <link>https://news.ycombinator.com/item?id=30743371</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30723352</guid>
             <pubDate>Fri, 18 Mar 2022 15:16:29 GMT</pubDate>
             <description><![CDATA[Event Horizon Telescope Rules Out Axion Dark Matter in Specific Mass Range]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Airbnb的微服務架構的人性一面]]></title>
-            <link>https://news.ycombinator.com/item?id=30723325</link>
-            <guid>https://news.ycombinator.com/item?id=30723325</guid>
-            <pubDate>Fri, 18 Mar 2022 15:13:50 GMT</pubDate>
-            <description><![CDATA[The Human Side of Airbnb’s Microservice Architecture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯告訴谷歌停止在YouTube上散佈對俄羅斯人的威脅]]></title>
-            <link>https://news.ycombinator.com/item?id=30723308</link>
-            <guid>https://news.ycombinator.com/item?id=30723308</guid>
-            <pubDate>Fri, 18 Mar 2022 15:11:50 GMT</pubDate>
-            <description><![CDATA[Russia tells Google to stop spreading threats against Russians on YouTube]]></description>
         </item>
     </channel>
 </rss>
