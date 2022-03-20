@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T17:15:44.176Z</updated>
+    <updated>2022-03-20T17:31:18.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬裡烏波爾醫院襲擊事件剖析]]></title>
+        <id>https://news.ycombinator.com/item?id=30744332</id>
+        <link href="https://news.ycombinator.com/item?id=30744332"/>
+        <updated>2022-03-20T16:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Anatomy of the Mariupol Hospital Attack]]></summary>
+        <author>
+            <name>leron</name>
+            <uri>https://news.ycombinator.com/user?id=leron</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟的祝福讓Xbox雲遊戲登陸Steam平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30744011</id>
+        <link href="https://news.ycombinator.com/item?id=30744011"/>
+        <updated>2022-03-20T16:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Cloud Gaming Lands on the Steam Deck with Microsoft's Blessing]]></summary>
+        <author>
+            <name>ekianjo</name>
+            <uri>https://news.ycombinator.com/user?id=ekianjo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司前僱員被指控詐騙1000萬美元]]></title>
         <id>https://news.ycombinator.com/item?id=30744406</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jermaustin1</name>
             <uri>https://news.ycombinator.com/user?id=jermaustin1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS 12.3用Pico取代Nano]]></title>
-        <id>https://news.ycombinator.com/item?id=30723925</id>
-        <link href="https://news.ycombinator.com/item?id=30723925"/>
-        <updated>2022-03-18T16:03:04.000Z</updated>
-        <summary type="html"><![CDATA[macOS 12.3 Replaces Nano with Pico]]></summary>
-        <author>
-            <name>cjv</name>
-            <uri>https://news.ycombinator.com/user?id=cjv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare與微軟合作，保護聯合客戶]]></title>
-        <id>https://news.ycombinator.com/item?id=30723886</id>
-        <link href="https://news.ycombinator.com/item?id=30723886"/>
-        <updated>2022-03-18T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare partners with Microsoft to protect joint customers]]></summary>
-        <author>
-            <name>b0ner_t0ner</name>
-            <uri>https://news.ycombinator.com/user?id=b0ner_t0ner</uri>
         </author>
     </entry>
 </feed>
