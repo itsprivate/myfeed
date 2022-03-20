@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T13:34:23.956Z</updated>
+    <updated>2022-03-20T13:41:51.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法国警方在Netflix "鲁邦 "片场抢劫案中指控7人]]></title>
+        <id>https://news.ycombinator.com/item?id=30742436</id>
+        <link href="https://news.ycombinator.com/item?id=30742436"/>
+        <updated>2022-03-20T13:26:17.000Z</updated>
+        <summary type="html"><![CDATA[French police charge seven in Netflix ‘Lupin’ set heist]]></summary>
+        <author>
+            <name>rock_artist</name>
+            <uri>https://news.ycombinator.com/user?id=rock_artist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MossChat - 通过Telegram Bot提供客户支持]]></title>
         <id>https://news.ycombinator.com/item?id=30742447</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>blopeur</name>
             <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局的巨型新SLS月球火箭首次亮相]]></title>
-        <id>https://news.ycombinator.com/item?id=30722448</id>
-        <link href="https://news.ycombinator.com/item?id=30722448"/>
-        <updated>2022-03-18T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[NASA's giant new SLS Moon rocket makes its debut]]></summary>
-        <author>
-            <name>csomar</name>
-            <uri>https://news.ycombinator.com/user?id=csomar</uri>
         </author>
     </entry>
 </feed>
