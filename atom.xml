@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T09:31:53.010Z</updated>
+    <updated>2022-03-20T09:39:58.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[商品房语言列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30741048</id>
+        <link href="https://news.ycombinator.com/item?id=30741048"/>
+        <updated>2022-03-20T08:22:58.000Z</updated>
+        <summary type="html"><![CDATA[Commodore Languages List]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件开发中的机构风险]]></title>
         <id>https://news.ycombinator.com/item?id=30741222</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vertnerd</name>
             <uri>https://news.ycombinator.com/user?id=vertnerd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes是一个云操作系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30721242</id>
-        <link href="https://news.ycombinator.com/item?id=30721242"/>
-        <updated>2022-03-18T12:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes is a cloud operating system]]></summary>
-        <author>
-            <name>nyellin</name>
-            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
         </author>
     </entry>
 </feed>
