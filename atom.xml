@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T18:16:03.073Z</updated>
+    <updated>2022-03-20T18:37:22.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个并不试图成为TikTok克隆的照片分享应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30745237</id>
+        <link href="https://news.ycombinator.com/item?id=30745237"/>
+        <updated>2022-03-20T18:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A photo sharing app that isn't trying to be a TikTok clone]]></summary>
+        <author>
+            <name>Fnalsk</name>
+            <uri>https://news.ycombinator.com/user?id=Fnalsk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical公司的面试过程--申请被撤回]]></title>
+        <id>https://news.ycombinator.com/item?id=30745082</id>
+        <link href="https://news.ycombinator.com/item?id=30745082"/>
+        <updated>2022-03-20T18:13:09.000Z</updated>
+        <summary type="html"><![CDATA[The Interview Process at Canonical - application withdrawn]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python中的指针和内存管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30744698</id>
+        <link href="https://news.ycombinator.com/item?id=30744698"/>
+        <updated>2022-03-20T17:36:27.000Z</updated>
+        <summary type="html"><![CDATA[Pointers and Memory Management in Python]]></summary>
+        <author>
+            <name>zerointensity</name>
+            <uri>https://news.ycombinator.com/user?id=zerointensity</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向月球发射激光以探测早期宇宙的引力波]]></title>
         <id>https://news.ycombinator.com/item?id=30744983</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>fhub</name>
             <uri>https://news.ycombinator.com/user?id=fhub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌地图崩溃了]]></title>
-        <id>https://news.ycombinator.com/item?id=30724510</id>
-        <link href="https://news.ycombinator.com/item?id=30724510"/>
-        <updated>2022-03-18T16:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Google Maps Is Down]]></summary>
-        <author>
-            <name>staplung</name>
-            <uri>https://news.ycombinator.com/user?id=staplung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法院确认进口牛肉仍被允许标注 "美国产品 "的标签]]></title>
-        <id>https://news.ycombinator.com/item?id=30724475</id>
-        <link href="https://news.ycombinator.com/item?id=30724475"/>
-        <updated>2022-03-18T16:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Court affirms imported beef still allowed to be labeled "Product of USA"]]></summary>
-        <author>
-            <name>maxwell</name>
-            <uri>https://news.ycombinator.com/user?id=maxwell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果在吹捧iPad Air 5的新广告中打赌 "你的下一台电脑不是电脑]]></title>
-        <id>https://news.ycombinator.com/item?id=30724454</id>
-        <link href="https://news.ycombinator.com/item?id=30724454"/>
-        <updated>2022-03-18T16:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Apple bets ‘your next computer is not a computer’ in new ad touting iPad Air 5]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
         </author>
     </entry>
 </feed>
