@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T22:41:09.641Z</updated>
+    <updated>2022-03-20T22:51:27.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows操作系统需要改变优先次序]]></title>
+        <id>https://news.ycombinator.com/item?id=30747332</id>
+        <link href="https://news.ycombinator.com/item?id=30747332"/>
+        <updated>2022-03-20T22:24:22.000Z</updated>
+        <summary type="html"><![CDATA[The Windows OS needs a change in priorities]]></summary>
+        <author>
+            <name>dend</name>
+            <uri>https://news.ycombinator.com/user?id=dend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星联的互联网服务抵达乌克兰后发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30747297</id>
+        <link href="https://news.ycombinator.com/item?id=30747297"/>
+        <updated>2022-03-20T22:20:37.000Z</updated>
+        <summary type="html"><![CDATA[What happened after Starlink's internet service arrived in Ukraine?]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中情局简单破坏行动手册》（1944年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30746714</id>
+        <link href="https://news.ycombinator.com/item?id=30746714"/>
+        <updated>2022-03-20T21:16:13.000Z</updated>
+        <summary type="html"><![CDATA[CIA Simple Sabotage Field Manual (1944)]]></summary>
+        <author>
+            <name>enaaem</name>
+            <uri>https://news.ycombinator.com/user?id=enaaem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vanced团队详细介绍了Vanced的停产情况]]></title>
         <id>https://news.ycombinator.com/item?id=30747352</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>VariableStar</name>
             <uri>https://news.ycombinator.com/user?id=VariableStar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯称在打击中使用了金沙尔高超音速导弹]]></title>
-        <id>https://news.ycombinator.com/item?id=30732626</id>
-        <link href="https://news.ycombinator.com/item?id=30732626"/>
-        <updated>2022-03-19T10:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Russia Says Used Kinzhal Hypersonic Missile in Strike]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲隐藏的野生动物天堂]]></title>
-        <id>https://news.ycombinator.com/item?id=30732615</id>
-        <link href="https://news.ycombinator.com/item?id=30732615"/>
-        <updated>2022-03-19T10:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Europe’s Hidden Wildlife Paradise]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于能源的高成本，我们将在4月4日关闭你的服务器。]]></title>
-        <id>https://news.ycombinator.com/item?id=30732606</id>
-        <link href="https://news.ycombinator.com/item?id=30732606"/>
-        <updated>2022-03-19T10:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Due to the high cost of energy we will shutdown your server on April 4th]]></summary>
-        <author>
-            <name>janmo</name>
-            <uri>https://news.ycombinator.com/user?id=janmo</uri>
         </author>
     </entry>
 </feed>
