@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-20T17:40:08.240Z</updated>
+    <updated>2022-03-20T17:51:24.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hipchat的Karma系统，但用于Slack]]></title>
+        <id>https://news.ycombinator.com/item?id=30744747</id>
+        <link href="https://news.ycombinator.com/item?id=30744747"/>
+        <updated>2022-03-20T17:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Hipchat's Karma System, but for Slack]]></summary>
+        <author>
+            <name>samweb3</name>
+            <uri>https://news.ycombinator.com/user?id=samweb3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[处理不断变化的世界秩序的原则，作者：雷-达利欧 [视频]]]></title>
         <id>https://news.ycombinator.com/item?id=30744281</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对无服务器的案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30723948</id>
-        <link href="https://news.ycombinator.com/item?id=30723948"/>
-        <updated>2022-03-18T16:04:13.000Z</updated>
-        <summary type="html"><![CDATA[The Case Against Serverless]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
