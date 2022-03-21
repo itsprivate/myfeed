@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T09:41:42.093Z</updated>
+    <updated>2022-03-21T09:51:41.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[青蛙的启示 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30752095</id>
+        <link href="https://news.ycombinator.com/item?id=30752095"/>
+        <updated>2022-03-21T09:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Frogpocalypse Now (2017)]]></summary>
+        <author>
+            <name>breathnow</name>
+            <uri>https://news.ycombinator.com/user?id=breathnow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
+        <id>https://news.ycombinator.com/item?id=30752067</id>
+        <link href="https://news.ycombinator.com/item?id=30752067"/>
+        <updated>2022-03-21T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可打印的拼图项目]]></title>
         <id>https://news.ycombinator.com/item?id=30752051</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>divan</name>
             <uri>https://news.ycombinator.com/user?id=divan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请不要让我使用Databricks的笔记本]]></title>
-        <id>https://news.ycombinator.com/item?id=30735062</id>
-        <link href="https://news.ycombinator.com/item?id=30735062"/>
-        <updated>2022-03-19T16:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Please don’t make me use Databricks notebooks]]></summary>
-        <author>
-            <name>deeptake</name>
-            <uri>https://news.ycombinator.com/user?id=deeptake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Livedocs（YC W22）--在你的文件中的实时数据，无需代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30735058</id>
-        <link href="https://news.ycombinator.com/item?id=30735058"/>
-        <updated>2022-03-19T16:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Livedocs (YC W22) – Live data in your documents, without code]]></summary>
-        <author>
-            <name>arsalanb</name>
-            <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
         </author>
     </entry>
 </feed>

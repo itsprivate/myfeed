@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Mar 2022 09:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[青蛙的启示 (2017)]]></title>
+            <link>https://news.ycombinator.com/item?id=30752095</link>
+            <guid>https://news.ycombinator.com/item?id=30752095</guid>
+            <pubDate>Mon, 21 Mar 2022 09:44:40 GMT</pubDate>
+            <description><![CDATA[Frogpocalypse Now (2017)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在同一地点搜索域名和用户名]]></title>
+            <link>https://news.ycombinator.com/item?id=30752067</link>
+            <guid>https://news.ycombinator.com/item?id=30752067</guid>
+            <pubDate>Mon, 21 Mar 2022 09:40:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Search Domain and Username in the same place]]></description>
+        </item>
         <item>
             <title><![CDATA[可打印的拼图项目]]></title>
             <link>https://news.ycombinator.com/item?id=30752051</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30735099</guid>
             <pubDate>Sat, 19 Mar 2022 16:29:50 GMT</pubDate>
             <description><![CDATA[Monarch upgrade deletes all files in $HOME]]></description>
-        </item>
-        <item>
-            <title><![CDATA[请不要让我使用Databricks的笔记本]]></title>
-            <link>https://news.ycombinator.com/item?id=30735062</link>
-            <guid>https://news.ycombinator.com/item?id=30735062</guid>
-            <pubDate>Sat, 19 Mar 2022 16:25:44 GMT</pubDate>
-            <description><![CDATA[Please don’t make me use Databricks notebooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启动HN：Livedocs（YC W22）--在你的文件中的实时数据，无需代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30735058</link>
-            <guid>https://news.ycombinator.com/item?id=30735058</guid>
-            <pubDate>Sat, 19 Mar 2022 16:25:10 GMT</pubDate>
-            <description><![CDATA[Launch HN: Livedocs (YC W22) – Live data in your documents, without code]]></description>
         </item>
     </channel>
 </rss>
