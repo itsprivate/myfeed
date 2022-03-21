@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T23:32:41.941Z</updated>
+    <updated>2022-03-21T23:41:16.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[索尼正在收购黑文工作室]]></title>
+        <id>https://news.ycombinator.com/item?id=30761038</id>
+        <link href="https://news.ycombinator.com/item?id=30761038"/>
+        <updated>2022-03-21T23:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Sony is buying Haven Studios]]></summary>
+        <author>
+            <name>tumidpandora</name>
+            <uri>https://news.ycombinator.com/user?id=tumidpandora</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninthfloor.org正在收尾。]]></title>
+        <id>https://news.ycombinator.com/item?id=30760929</id>
+        <link href="https://news.ycombinator.com/item?id=30760929"/>
+        <updated>2022-03-21T23:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Ninthfloor.org Is Winding Down]]></summary>
+        <author>
+            <name>blmt42</name>
+            <uri>https://news.ycombinator.com/user?id=blmt42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[躲在防空洞里的Veon员工维持乌克兰最大的移动网络运行]]></title>
         <id>https://news.ycombinator.com/item?id=30760950</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒸汽到Chrome OS]]></title>
-        <id>https://news.ycombinator.com/item?id=30746181</id>
-        <link href="https://news.ycombinator.com/item?id=30746181"/>
-        <updated>2022-03-20T20:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Steam to Chrome OS]]></summary>
-        <author>
-            <name>LopRabbit</name>
-            <uri>https://news.ycombinator.com/user?id=LopRabbit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按年龄和性别划分的握力]]></title>
-        <id>https://news.ycombinator.com/item?id=30746145</id>
-        <link href="https://news.ycombinator.com/item?id=30746145"/>
-        <updated>2022-03-20T20:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Grip Strength by Age and Sex]]></summary>
-        <author>
-            <name>version_five</name>
-            <uri>https://news.ycombinator.com/user?id=version_five</uri>
         </author>
     </entry>
 </feed>
