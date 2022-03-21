@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T07:12:29.393Z</updated>
+    <updated>2022-03-21T07:30:28.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用一个微小的HC32L110 ARM芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30751094</id>
+        <link href="https://news.ycombinator.com/item?id=30751094"/>
+        <updated>2022-03-21T07:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Using a tiny HC32L110 ARM chip]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mindscape.pub (合作式思维导图)]]></title>
+        <id>https://news.ycombinator.com/item?id=30751005</id>
+        <link href="https://news.ycombinator.com/item?id=30751005"/>
+        <updated>2022-03-21T06:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mindscape.pub (Collaborative mind-mapping)]]></summary>
+        <author>
+            <name>weihz</name>
+            <uri>https://news.ycombinator.com/user?id=weihz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将自行车-火车视为一个交通系统的九个论点(2015)]]></title>
         <id>https://news.ycombinator.com/item?id=30751002</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凉爽-回溯-期限]]></title>
-        <id>https://news.ycombinator.com/item?id=30734137</id>
-        <link href="https://news.ycombinator.com/item?id=30734137"/>
-        <updated>2022-03-19T14:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Cool-Retro-Term]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP拥塞避免和控制 (1988) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30733912</id>
-        <link href="https://news.ycombinator.com/item?id=30733912"/>
-        <updated>2022-03-19T14:21:05.000Z</updated>
-        <summary type="html"><![CDATA[TCP Congestion Avoidance and Control (1988) [pdf]]]></summary>
-        <author>
-            <name>rrampage</name>
-            <uri>https://news.ycombinator.com/user?id=rrampage</uri>
         </author>
     </entry>
 </feed>
