@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T06:57:20.878Z</updated>
+    <updated>2022-03-21T07:12:29.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將自行車-火車視為一個交通系統的九個論點(2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30751002</id>
+        <link href="https://news.ycombinator.com/item?id=30751002"/>
+        <updated>2022-03-21T06:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Nine arguments for seeing bicycle-train as one mobility system (2015)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於PowerPoint的圖靈完備性(YouTube)]]></title>
+        <id>https://news.ycombinator.com/item?id=30750892</id>
+        <link href="https://news.ycombinator.com/item?id=30750892"/>
+        <updated>2022-03-21T06:27:17.000Z</updated>
+        <summary type="html"><![CDATA[On the Turing Completeness of PowerPoint (YouTube)]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發現歐洲初創企業]]></title>
         <id>https://news.ycombinator.com/item?id=30750923</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rrampage</name>
             <uri>https://news.ycombinator.com/user?id=rrampage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krusader - 桌面的雙面板文件管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30733798</id>
-        <link href="https://news.ycombinator.com/item?id=30733798"/>
-        <updated>2022-03-19T14:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Krusader – Twin panel file management for your desktop]]></summary>
-        <author>
-            <name>VariableStar</name>
-            <uri>https://news.ycombinator.com/user?id=VariableStar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我還是不理解Rust中的*操作符]]></title>
-        <id>https://news.ycombinator.com/item?id=30733590</id>
-        <link href="https://news.ycombinator.com/item?id=30733590"/>
-        <updated>2022-03-19T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[I still don’t understand the * operator in Rust]]></summary>
-        <author>
-            <name>micouay</name>
-            <uri>https://news.ycombinator.com/user?id=micouay</uri>
         </author>
     </entry>
 </feed>
