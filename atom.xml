@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T07:30:28.906Z</updated>
+    <updated>2022-03-21T07:51:46.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux达到 "早期阿尔法"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30751292</id>
+        <link href="https://news.ycombinator.com/item?id=30751292"/>
+        <updated>2022-03-21T07:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Asahi Linux reaches 'early Alpha']]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人想要永久的夏令时吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30751182</id>
+        <link href="https://news.ycombinator.com/item?id=30751182"/>
+        <updated>2022-03-21T07:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Do Americans Want Permanent Daylight Saving Time?]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算美国北意大利基地核爆炸的影响 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30750760</id>
+        <link href="https://news.ycombinator.com/item?id=30750760"/>
+        <updated>2022-03-21T05:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Calculating the effects of a nuclear explosion at U.S. base in North-Italy [pdf]]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用一个微小的HC32L110 ARM芯片]]></title>
         <id>https://news.ycombinator.com/item?id=30751094</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rrampage</name>
             <uri>https://news.ycombinator.com/user?id=rrampage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G移动网络的同步化]]></title>
-        <id>https://news.ycombinator.com/item?id=30734249</id>
-        <link href="https://news.ycombinator.com/item?id=30734249"/>
-        <updated>2022-03-19T14:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Synchronizing 5G Mobile Networks]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[升级的概念和模型 1984 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30734144</id>
-        <link href="https://news.ycombinator.com/item?id=30734144"/>
-        <updated>2022-03-19T14:46:07.000Z</updated>
-        <summary type="html"><![CDATA[Concepts and Models of Escalation 1984 [pdf]]]></summary>
-        <author>
-            <name>vipulved</name>
-            <uri>https://news.ycombinator.com/user?id=vipulved</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04让你选择一个自定义的重点颜色]]></title>
-        <id>https://news.ycombinator.com/item?id=30734141</id>
-        <link href="https://news.ycombinator.com/item?id=30734141"/>
-        <updated>2022-03-19T14:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 Lets You Pick a Custom Accent Colour]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
         </author>
     </entry>
 </feed>
