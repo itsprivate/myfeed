@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Mar 2022 11:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 11:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘋果工作室顯示器包含64GB存儲空間，但只用了2GB]]></title>
+            <link>https://news.ycombinator.com/item?id=30752629</link>
+            <guid>https://news.ycombinator.com/item?id=30752629</guid>
+            <pubDate>Mon, 21 Mar 2022 11:12:42 GMT</pubDate>
+            <description><![CDATA[Apple Studio Display Contains 64GB of Storage, but Only 2GB Used]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用CSS修復Googlebot隨機移動可用性問題報告]]></title>
+            <link>https://news.ycombinator.com/item?id=30752536</link>
+            <guid>https://news.ycombinator.com/item?id=30752536</guid>
+            <pubDate>Mon, 21 Mar 2022 10:57:16 GMT</pubDate>
+            <description><![CDATA[Fixing Googlebot random mobile usability issue reports with CSS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[20世紀80年代的10臺微型電腦]]></title>
+            <link>https://news.ycombinator.com/item?id=30752420</link>
+            <guid>https://news.ycombinator.com/item?id=30752420</guid>
+            <pubDate>Mon, 21 Mar 2022 10:38:50 GMT</pubDate>
+            <description><![CDATA[10 Tiny PCs of the 1980s]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Go和Mantil在AWS上構建一個實時無服務器的聊天應用]]></title>
+            <link>https://news.ycombinator.com/item?id=30752303</link>
+            <guid>https://news.ycombinator.com/item?id=30752303</guid>
+            <pubDate>Mon, 21 Mar 2022 10:19:48 GMT</pubDate>
+            <description><![CDATA[Build a real-time serverless chat app on AWS with Go and Mantil]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LMAX Disruptor：在線程間交換數據的高性能方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30752285</link>
+            <guid>https://news.ycombinator.com/item?id=30752285</guid>
+            <pubDate>Mon, 21 Mar 2022 10:14:53 GMT</pubDate>
+            <description><![CDATA[LMAX Disruptor: High performance method for exchanging data between threads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學術。Crypto不是去中心化的。它是由少數幾個大人物管理的。]]></title>
+            <link>https://news.ycombinator.com/item?id=30752207</link>
+            <guid>https://news.ycombinator.com/item?id=30752207</guid>
+            <pubDate>Mon, 21 Mar 2022 10:01:56 GMT</pubDate>
+            <description><![CDATA[Academic: Crypto isn't decentralized. It's run by a handful of big wigs.]]></description>
+        </item>
         <item>
             <title><![CDATA[簡單的電路可以自己學習--不需要計算機的幫助]]></title>
             <link>https://news.ycombinator.com/item?id=30752231</link>
@@ -4171,48 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30735646</guid>
             <pubDate>Sat, 19 Mar 2022 17:25:38 GMT</pubDate>
             <description><![CDATA[Absolute Power]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭遊戲捆綁包在一天內籌集到500萬美元，還有6天。]]></title>
-            <link>https://news.ycombinator.com/item?id=30735630</link>
-            <guid>https://news.ycombinator.com/item?id=30735630</guid>
-            <pubDate>Sat, 19 Mar 2022 17:23:52 GMT</pubDate>
-            <description><![CDATA[Ukraine Game Bundle Raises $5M in a Day, 6 Days to Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印度為何不譴責俄羅斯的烏克蘭戰爭？]]></title>
-            <link>https://news.ycombinator.com/item?id=30735558</link>
-            <guid>https://news.ycombinator.com/item?id=30735558</guid>
-            <pubDate>Sat, 19 Mar 2022 17:14:53 GMT</pubDate>
-            <description><![CDATA[Why India isn’t denouncing Russia’s Ukraine war]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯新的 "可信的根CA"]]></title>
-            <link>https://news.ycombinator.com/item?id=30735552</link>
-            <guid>https://news.ycombinator.com/item?id=30735552</guid>
-            <pubDate>Sat, 19 Mar 2022 17:14:09 GMT</pubDate>
-            <description><![CDATA[Russia’s New “Trusted Root CA”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將一個前端轉移到Rust和WASM上]]></title>
-            <link>https://news.ycombinator.com/item?id=30735518</link>
-            <guid>https://news.ycombinator.com/item?id=30735518</guid>
-            <pubDate>Sat, 19 Mar 2022 17:09:16 GMT</pubDate>
-            <description><![CDATA[Moving a front-end to Rust and WASM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全力投入可再生能源。人類的一個錯誤？]]></title>
-            <link>https://news.ycombinator.com/item?id=30735476</link>
-            <guid>https://news.ycombinator.com/item?id=30735476</guid>
-            <pubDate>Sat, 19 Mar 2022 17:05:46 GMT</pubDate>
-            <description><![CDATA[All-In on Renewables: A Mistake for Humanity?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[宇航員身著黃色和藍色衣服抵達空間站]]></title>
-            <link>https://news.ycombinator.com/item?id=30735379</link>
-            <guid>https://news.ycombinator.com/item?id=30735379</guid>
-            <pubDate>Sat, 19 Mar 2022 16:54:43 GMT</pubDate>
-            <description><![CDATA[Cosmonauts arrive at space station in yellow and blue]]></description>
         </item>
     </channel>
 </rss>

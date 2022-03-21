@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T11:11:43.002Z</updated>
+    <updated>2022-03-21T11:30:16.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果工作室显示器包含64GB存储空间，但只用了2GB]]></title>
+        <id>https://news.ycombinator.com/item?id=30752629</id>
+        <link href="https://news.ycombinator.com/item?id=30752629"/>
+        <updated>2022-03-21T11:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Apple Studio Display Contains 64GB of Storage, but Only 2GB Used]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用CSS修复Googlebot随机移动可用性问题报告]]></title>
+        <id>https://news.ycombinator.com/item?id=30752536</id>
+        <link href="https://news.ycombinator.com/item?id=30752536"/>
+        <updated>2022-03-21T10:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Fixing Googlebot random mobile usability issue reports with CSS]]></summary>
+        <author>
+            <name>rikschennink</name>
+            <uri>https://news.ycombinator.com/user?id=rikschennink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20世纪80年代的10台微型电脑]]></title>
+        <id>https://news.ycombinator.com/item?id=30752420</id>
+        <link href="https://news.ycombinator.com/item?id=30752420"/>
+        <updated>2022-03-21T10:38:50.000Z</updated>
+        <summary type="html"><![CDATA[10 Tiny PCs of the 1980s]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Go和Mantil在AWS上构建一个实时无服务器的聊天应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30752303</id>
+        <link href="https://news.ycombinator.com/item?id=30752303"/>
+        <updated>2022-03-21T10:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Build a real-time serverless chat app on AWS with Go and Mantil]]></summary>
+        <author>
+            <name>akokor</name>
+            <uri>https://news.ycombinator.com/user?id=akokor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMAX Disruptor：在线程间交换数据的高性能方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30752285</id>
+        <link href="https://news.ycombinator.com/item?id=30752285"/>
+        <updated>2022-03-21T10:14:53.000Z</updated>
+        <summary type="html"><![CDATA[LMAX Disruptor: High performance method for exchanging data between threads]]></summary>
+        <author>
+            <name>ranit</name>
+            <uri>https://news.ycombinator.com/user?id=ranit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学术。Crypto不是去中心化的。它是由少数几个大人物管理的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30752207</id>
+        <link href="https://news.ycombinator.com/item?id=30752207"/>
+        <updated>2022-03-21T10:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Academic: Crypto isn't decentralized. It's run by a handful of big wigs.]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单的电路可以自己学习--不需要计算机的帮助]]></title>
         <id>https://news.ycombinator.com/item?id=30752231</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>MrJagil</name>
             <uri>https://news.ycombinator.com/user?id=MrJagil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰游戏捆绑包在一天内筹集到500万美元，还有6天。]]></title>
-        <id>https://news.ycombinator.com/item?id=30735630</id>
-        <link href="https://news.ycombinator.com/item?id=30735630"/>
-        <updated>2022-03-19T17:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Game Bundle Raises $5M in a Day, 6 Days to Go]]></summary>
-        <author>
-            <name>spacemarine1</name>
-            <uri>https://news.ycombinator.com/user?id=spacemarine1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度为何不谴责俄罗斯的乌克兰战争？]]></title>
-        <id>https://news.ycombinator.com/item?id=30735558</id>
-        <link href="https://news.ycombinator.com/item?id=30735558"/>
-        <updated>2022-03-19T17:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Why India isn’t denouncing Russia’s Ukraine war]]></summary>
-        <author>
-            <name>amardeep</name>
-            <uri>https://news.ycombinator.com/user?id=amardeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯新的 "可信的根CA"]]></title>
-        <id>https://news.ycombinator.com/item?id=30735552</id>
-        <link href="https://news.ycombinator.com/item?id=30735552"/>
-        <updated>2022-03-19T17:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s New “Trusted Root CA”]]></summary>
-        <author>
-            <name>intunderflow</name>
-            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将一个前端转移到Rust和WASM上]]></title>
-        <id>https://news.ycombinator.com/item?id=30735518</id>
-        <link href="https://news.ycombinator.com/item?id=30735518"/>
-        <updated>2022-03-19T17:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Moving a front-end to Rust and WASM]]></summary>
-        <author>
-            <name>marcosdumay</name>
-            <uri>https://news.ycombinator.com/user?id=marcosdumay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全力投入可再生能源。人类的一个错误？]]></title>
-        <id>https://news.ycombinator.com/item?id=30735476</id>
-        <link href="https://news.ycombinator.com/item?id=30735476"/>
-        <updated>2022-03-19T17:05:46.000Z</updated>
-        <summary type="html"><![CDATA[All-In on Renewables: A Mistake for Humanity?]]></summary>
-        <author>
-            <name>1as</name>
-            <uri>https://news.ycombinator.com/user?id=1as</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇航员身着黄色和蓝色衣服抵达空间站]]></title>
-        <id>https://news.ycombinator.com/item?id=30735379</id>
-        <link href="https://news.ycombinator.com/item?id=30735379"/>
-        <updated>2022-03-19T16:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cosmonauts arrive at space station in yellow and blue]]></summary>
-        <author>
-            <name>myth_drannon</name>
-            <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
         </author>
     </entry>
 </feed>
