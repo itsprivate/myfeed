@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T05:52:14.230Z</updated>
+    <updated>2022-03-21T06:15:22.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宜家调整其产品以招揽印度购物者]]></title>
+        <id>https://news.ycombinator.com/item?id=30750765</id>
+        <link href="https://news.ycombinator.com/item?id=30750765"/>
+        <updated>2022-03-21T05:58:01.000Z</updated>
+        <summary type="html"><![CDATA[IKEA tweaked its products to woo India's shoppers]]></summary>
+        <author>
+            <name>vijayr02</name>
+            <uri>https://news.ycombinator.com/user?id=vijayr02</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莱纳斯-托瓦尔兹发布了5.17版内核]]></title>
+        <id>https://news.ycombinator.com/item?id=30750731</id>
+        <link href="https://news.ycombinator.com/item?id=30750731"/>
+        <updated>2022-03-21T05:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds has Released the 5.17 Kernel]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钓鱼工具包让任何人都可以创建假的Chrome（SSO）浏览器-窗口 - (BitB)]]></title>
+        <id>https://news.ycombinator.com/item?id=30750389</id>
+        <link href="https://news.ycombinator.com/item?id=30750389"/>
+        <updated>2022-03-21T04:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Phishing Toolkit lets anyone create fake Chrome (SSO) browser-windows – (BitB)]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[氨气泄漏污染了乌克兰东部（泄漏半径为5公里）]]></title>
+        <id>https://news.ycombinator.com/item?id=30750373</id>
+        <link href="https://news.ycombinator.com/item?id=30750373"/>
+        <updated>2022-03-21T04:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Ammonia leak contaminates east Ukraine (leak radius of 5km)]]></summary>
+        <author>
+            <name>MichaelMoser123</name>
+            <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：Wayland上的Gnome很不错]]></title>
         <id>https://news.ycombinator.com/item?id=30750710</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>burlesona</name>
             <uri>https://news.ycombinator.com/user?id=burlesona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FleetZero公司希望用电动船颠覆航运界]]></title>
-        <id>https://news.ycombinator.com/item?id=30734008</id>
-        <link href="https://news.ycombinator.com/item?id=30734008"/>
-        <updated>2022-03-19T14:31:35.000Z</updated>
-        <summary type="html"><![CDATA[FleetZero looks to capsize the shipping world with electric vessels]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当前的生产问题 - 谷歌地图平台 - 多个API]]></title>
-        <id>https://news.ycombinator.com/item?id=30734002</id>
-        <link href="https://news.ycombinator.com/item?id=30734002"/>
-        <updated>2022-03-19T14:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Current Production Issue – Google Maps Platform – Multiple APIs]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个淹没的世界。肯尼亚在水下的悄然滑落]]></title>
-        <id>https://news.ycombinator.com/item?id=30733998</id>
-        <link href="https://news.ycombinator.com/item?id=30733998"/>
-        <updated>2022-03-19T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[A drowning world: Kenya’s quiet slide underwater]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印加人用绳结来讲述故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30733873</id>
-        <link href="https://news.ycombinator.com/item?id=30733873"/>
-        <updated>2022-03-19T14:16:12.000Z</updated>
-        <summary type="html"><![CDATA[The Inca Used Knots to Tell Stories]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
