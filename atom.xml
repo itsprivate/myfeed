@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T22:33:20.556Z</updated>
+    <updated>2022-03-21T22:43:03.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ParrotOS -S.E. (为五角大楼/红队行动设计的特殊用途操作系统)]]></title>
+        <id>https://news.ycombinator.com/item?id=30760514</id>
+        <link href="https://news.ycombinator.com/item?id=30760514"/>
+        <updated>2022-03-21T22:24:31.000Z</updated>
+        <summary type="html"><![CDATA[ParrotOS -S.E. (A special purpose OS designed for Pentesters/Red Team Ops)]]></summary>
+        <author>
+            <name>NotAWorkNick</name>
+            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GömböC：不应该存在的物体]]></title>
+        <id>https://news.ycombinator.com/item?id=30760492</id>
+        <link href="https://news.ycombinator.com/item?id=30760492"/>
+        <updated>2022-03-21T22:23:37.000Z</updated>
+        <summary type="html"><![CDATA[The GömböC: The object that shouldn't exist]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么美国宇航局让男性宇航员在太空中停留的时间比女性长？]]></title>
+        <id>https://news.ycombinator.com/item?id=30760481</id>
+        <link href="https://news.ycombinator.com/item?id=30760481"/>
+        <updated>2022-03-21T22:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Why does NASA let male astronauts stay in space longer than females?]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samba 4.16发布，改善Windows文件/打印服务器的互操作性]]></title>
+        <id>https://news.ycombinator.com/item?id=30760069</id>
+        <link href="https://news.ycombinator.com/item?id=30760069"/>
+        <updated>2022-03-21T21:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Samba 4.16 Released for Improving Windows File/Print Server Interoperability]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追踪。在LTE中对移动电话进行隐蔽跟踪]]></title>
         <id>https://news.ycombinator.com/item?id=30760569</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>haunter</name>
             <uri>https://news.ycombinator.com/user?id=haunter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取消 "蜂群"、取消 "全景 "和取消 "勒索"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30745031</id>
-        <link href="https://news.ycombinator.com/item?id=30745031"/>
-        <updated>2022-03-20T18:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Cancel Swarm, Cancel Panopticon, and Cancel Extortion]]></summary>
-        <author>
-            <name>laurex</name>
-            <uri>https://news.ycombinator.com/user?id=laurex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米特拉]]></title>
-        <id>https://news.ycombinator.com/item?id=30745635</id>
-        <link href="https://news.ycombinator.com/item?id=30745635"/>
-        <updated>2022-03-20T19:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Mitra]]></summary>
-        <author>
-            <name>manjana</name>
-            <uri>https://news.ycombinator.com/user?id=manjana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果手机是否更有利于保护隐私？iOS和Android应用程序的比较研究 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30745584</id>
-        <link href="https://news.ycombinator.com/item?id=30745584"/>
-        <updated>2022-03-20T19:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Are iPhones Better for Privacy? Comparative Study of iOS and Android Apps [pdf]]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不关心加密货币--直到一个假的加拿大 "紧急情况 "向我表明原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30745504</id>
-        <link href="https://news.ycombinator.com/item?id=30745504"/>
-        <updated>2022-03-20T19:00:08.000Z</updated>
-        <summary type="html"><![CDATA[I Didn’t Care About Crypto–Until a Fake Canadian ‘Emergency’ Showed Me Why]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
