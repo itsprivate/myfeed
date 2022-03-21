@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T07:51:46.621Z</updated>
+    <updated>2022-03-21T08:14:59.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网络框架能解决什么问题，以及如何不使用这些框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30751491</id>
+        <link href="https://news.ycombinator.com/item?id=30751491"/>
+        <updated>2022-03-21T08:04:18.000Z</updated>
+        <summary type="html"><![CDATA[What web frameworks solve, and how not use them]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix的新密码共享费只是昂贵的冰山一角]]></title>
+        <id>https://news.ycombinator.com/item?id=30751249</id>
+        <link href="https://news.ycombinator.com/item?id=30751249"/>
+        <updated>2022-03-21T07:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Netflix's new password-sharing fee is just the tip of an expensive iceberg]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Golang中求解黎曼假设 - 设置]]></title>
+        <id>https://news.ycombinator.com/item?id=30751239</id>
+        <link href="https://news.ycombinator.com/item?id=30751239"/>
+        <updated>2022-03-21T07:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Solving Riemann Hypothesis in Golang – Setup]]></summary>
+        <author>
+            <name>alexsanjoseph</name>
+            <uri>https://news.ycombinator.com/user?id=alexsanjoseph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄纸在俄罗斯市场上消失了]]></title>
+        <id>https://news.ycombinator.com/item?id=30751191</id>
+        <link href="https://news.ycombinator.com/item?id=30751191"/>
+        <updated>2022-03-21T07:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Yellow paper disappeared from Russia market]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asahi Linux达到 "早期阿尔法"。]]></title>
         <id>https://news.ycombinator.com/item?id=30751292</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让学生留在茎部领域，让我们淘汰那些被淘汰的数学课吧]]></title>
-        <id>https://news.ycombinator.com/item?id=30734355</id>
-        <link href="https://news.ycombinator.com/item?id=30734355"/>
-        <updated>2022-03-19T15:07:47.000Z</updated>
-        <summary type="html"><![CDATA[To Keep Students in Stem Fields, Let’s Weed Out the Weed-Out Math Classes]]></summary>
-        <author>
-            <name>Merrill</name>
-            <uri>https://news.ycombinator.com/user?id=Merrill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单元测试的大误解]]></title>
-        <id>https://news.ycombinator.com/item?id=30734241</id>
-        <link href="https://news.ycombinator.com/item?id=30734241"/>
-        <updated>2022-03-19T14:55:47.000Z</updated>
-        <summary type="html"><![CDATA[The Big Unit Test Misunderstanding]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学是人类用来帮助我们理解现实的一种构造，还是数学是现实？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734338</id>
-        <link href="https://news.ycombinator.com/item?id=30734338"/>
-        <updated>2022-03-19T15:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Is maths a human construct to help us make sense of reality Or is maths reality?]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setuid Demystified [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30734250</id>
-        <link href="https://news.ycombinator.com/item?id=30734250"/>
-        <updated>2022-03-19T14:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Setuid Demystified [pdf]]]></summary>
-        <author>
-            <name>rrampage</name>
-            <uri>https://news.ycombinator.com/user?id=rrampage</uri>
         </author>
     </entry>
 </feed>
