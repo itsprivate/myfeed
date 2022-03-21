@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[发现欧洲初创企业]]></title>
+            <link>https://news.ycombinator.com/item?id=30750923</link>
+            <guid>https://news.ycombinator.com/item?id=30750923</guid>
+            <pubDate>Mon, 21 Mar 2022 06:33:58 GMT</pubDate>
+            <description><![CDATA[Discover European Startups]]></description>
+        </item>
+        <item>
+            <title><![CDATA[学习TLA+]]></title>
+            <link>https://news.ycombinator.com/item?id=30750811</link>
+            <guid>https://news.ycombinator.com/item?id=30750811</guid>
+            <pubDate>Mon, 21 Mar 2022 06:08:00 GMT</pubDate>
+            <description><![CDATA[Learn TLA+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[旧金山的任务街有30个墨西哥人的心脏宽广]]></title>
+            <link>https://news.ycombinator.com/item?id=30750589</link>
+            <guid>https://news.ycombinator.com/item?id=30750589</guid>
+            <pubDate>Mon, 21 Mar 2022 05:21:44 GMT</pubDate>
+            <description><![CDATA[San Francisco's Mission Street Is 30 Mexica Hearts Wide]]></description>
+        </item>
         <item>
             <title><![CDATA[Konstantin Olmezov RIP]]></title>
             <link>https://news.ycombinator.com/item?id=30750722</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30733590</guid>
             <pubDate>Sat, 19 Mar 2022 13:37:00 GMT</pubDate>
             <description><![CDATA[I still don’t understand the * operator in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在短短2个月内破解FAANG的面试？]]></title>
-            <link>https://news.ycombinator.com/item?id=30734140</link>
-            <guid>https://news.ycombinator.com/item?id=30734140</guid>
-            <pubDate>Sat, 19 Mar 2022 14:45:25 GMT</pubDate>
-            <description><![CDATA[How to crack FAANG interview in just 2 months?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX猎鹰9号火箭创造了可重复使用的记录，发射了迄今为止最重的有效载荷]]></title>
-            <link>https://news.ycombinator.com/item?id=30734138</link>
-            <guid>https://news.ycombinator.com/item?id=30734138</guid>
-            <pubDate>Sat, 19 Mar 2022 14:44:52 GMT</pubDate>
-            <description><![CDATA[SpaceX Falcon 9 rocket sets reusability record, launches heaviest payload yet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[举报公务员腐败的应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30734094</link>
-            <guid>https://news.ycombinator.com/item?id=30734094</guid>
-            <pubDate>Sat, 19 Mar 2022 14:40:35 GMT</pubDate>
-            <description><![CDATA[An app for reporting corruption by civil servants]]></description>
         </item>
     </channel>
 </rss>

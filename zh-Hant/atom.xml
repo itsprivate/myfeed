@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T06:39:03.786Z</updated>
+    <updated>2022-03-21T06:57:20.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[發現歐洲初創企業]]></title>
+        <id>https://news.ycombinator.com/item?id=30750923</id>
+        <link href="https://news.ycombinator.com/item?id=30750923"/>
+        <updated>2022-03-21T06:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Discover European Startups]]></summary>
+        <author>
+            <name>dianaNG</name>
+            <uri>https://news.ycombinator.com/user?id=dianaNG</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學習TLA+]]></title>
+        <id>https://news.ycombinator.com/item?id=30750811</id>
+        <link href="https://news.ycombinator.com/item?id=30750811"/>
+        <updated>2022-03-21T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn TLA+]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舊金山的任務街有30個墨西哥人的心臟寬廣]]></title>
+        <id>https://news.ycombinator.com/item?id=30750589</id>
+        <link href="https://news.ycombinator.com/item?id=30750589"/>
+        <updated>2022-03-21T05:21:44.000Z</updated>
+        <summary type="html"><![CDATA[San Francisco's Mission Street Is 30 Mexica Hearts Wide]]></summary>
+        <author>
+            <name>chema</name>
+            <uri>https://news.ycombinator.com/user?id=chema</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konstantin Olmezov RIP]]></title>
         <id>https://news.ycombinator.com/item?id=30750722</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>micouay</name>
             <uri>https://news.ycombinator.com/user?id=micouay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在短短2個月內破解FAANG的面試？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734140</id>
-        <link href="https://news.ycombinator.com/item?id=30734140"/>
-        <updated>2022-03-19T14:45:25.000Z</updated>
-        <summary type="html"><![CDATA[How to crack FAANG interview in just 2 months?]]></summary>
-        <author>
-            <name>Navita</name>
-            <uri>https://news.ycombinator.com/user?id=Navita</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX獵鷹9號火箭創造了可重複使用的記錄，發射了迄今為止最重的有效載荷]]></title>
-        <id>https://news.ycombinator.com/item?id=30734138</id>
-        <link href="https://news.ycombinator.com/item?id=30734138"/>
-        <updated>2022-03-19T14:44:52.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX Falcon 9 rocket sets reusability record, launches heaviest payload yet]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舉報公務員腐敗的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30734094</id>
-        <link href="https://news.ycombinator.com/item?id=30734094"/>
-        <updated>2022-03-19T14:40:35.000Z</updated>
-        <summary type="html"><![CDATA[An app for reporting corruption by civil servants]]></summary>
-        <author>
-            <name>ftyers</name>
-            <uri>https://news.ycombinator.com/user?id=ftyers</uri>
         </author>
     </entry>
 </feed>
