@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T19:13:00.297Z</updated>
+    <updated>2022-03-21T19:27:14.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉/询问HN：Uber Eats不能正确地进行数学运算，而支持部门却不承认这一点]]></title>
+        <id>https://news.ycombinator.com/item?id=30758417</id>
+        <link href="https://news.ycombinator.com/item?id=30758417"/>
+        <updated>2022-03-21T19:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Tell/Ask HN: Uber Eats Cannot Do Math Correctly and Support Won't Acknowledge It]]></summary>
+        <author>
+            <name>throw2003</name>
+            <uri>https://news.ycombinator.com/user?id=throw2003</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBC上的500个MicroSD基准测试结果]]></title>
+        <id>https://news.ycombinator.com/item?id=30758386</id>
+        <link href="https://news.ycombinator.com/item?id=30758386"/>
+        <updated>2022-03-21T19:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Results of 500 MicroSD Benchmarks on SBCs]]></summary>
+        <author>
+            <name>bmlw</name>
+            <uri>https://news.ycombinator.com/user?id=bmlw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故障导致大多数苹果服务瘫痪，包括iCloud和iMessage]]></title>
+        <id>https://news.ycombinator.com/item?id=30758338</id>
+        <link href="https://news.ycombinator.com/item?id=30758338"/>
+        <updated>2022-03-21T19:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Outage brought down most Apple services, including iCloud and iMessage]]></summary>
+        <author>
+            <name>alphabettsy</name>
+            <uri>https://news.ycombinator.com/user?id=alphabettsy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音737-800 NG在世界各地广泛使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30758217</id>
+        <link href="https://news.ycombinator.com/item?id=30758217"/>
+        <updated>2022-03-21T18:57:11.000Z</updated>
+        <summary type="html"><![CDATA[The Boeing 737-800 NG is widely used around the world]]></summary>
+        <author>
+            <name>remarkEon</name>
+            <uri>https://news.ycombinator.com/user?id=remarkEon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年有趣的开放源码软件项目]]></title>
         <id>https://news.ycombinator.com/item?id=30758304</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>hippich</name>
             <uri>https://news.ycombinator.com/user?id=hippich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比利时因乌克兰战争而推迟10年退出核能市场]]></title>
-        <id>https://news.ycombinator.com/item?id=30742123</id>
-        <link href="https://news.ycombinator.com/item?id=30742123"/>
-        <updated>2022-03-20T12:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Belgium delays nuclear energy exit 10 years due to Ukraine war]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typebeat。键盘控制的音乐音序器、采样器和合成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30742073</id>
-        <link href="https://news.ycombinator.com/item?id=30742073"/>
-        <updated>2022-03-20T12:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth]]></summary>
-        <author>
-            <name>hkgumbs</name>
-            <uri>https://news.ycombinator.com/user?id=hkgumbs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲是如何成为世界上最富裕的地区的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742048</id>
-        <link href="https://news.ycombinator.com/item?id=30742048"/>
-        <updated>2022-03-20T12:19:54.000Z</updated>
-        <summary type="html"><![CDATA[How did Europe become the richest part of the world?]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Python中处理大型JSON文件而不耗尽内存]]></title>
-        <id>https://news.ycombinator.com/item?id=30742030</id>
-        <link href="https://news.ycombinator.com/item?id=30742030"/>
-        <updated>2022-03-20T12:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Processing large JSON files in Python without running out of memory]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
