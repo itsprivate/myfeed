@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T13:25:20.599Z</updated>
+    <updated>2022-03-21T13:43:30.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于解决费米悖论的天体假说]]></title>
+        <id>https://news.ycombinator.com/item?id=30753819</id>
+        <link href="https://news.ycombinator.com/item?id=30753819"/>
+        <updated>2022-03-21T13:23:05.000Z</updated>
+        <summary type="html"><![CDATA[The aestivation hypothesis for resolving Fermi’s paradox]]></summary>
+        <author>
+            <name>tcpekin</name>
+            <uri>https://news.ycombinator.com/user?id=tcpekin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华沙男子每天扮成恐龙为乌克兰难民儿童打气]]></title>
+        <id>https://news.ycombinator.com/item?id=30753803</id>
+        <link href="https://news.ycombinator.com/item?id=30753803"/>
+        <updated>2022-03-21T13:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Warsaw man dresses as dinosaur every day to cheer up Ukrainian refugee children]]></summary>
+        <author>
+            <name>stared</name>
+            <uri>https://news.ycombinator.com/user?id=stared</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯开始进行多仪器校准]]></title>
+        <id>https://news.ycombinator.com/item?id=30753780</id>
+        <link href="https://news.ycombinator.com/item?id=30753780"/>
+        <updated>2022-03-21T13:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Webb Begins Multi-Instrument Alignment]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust修补了偷偷摸摸的ReDoS漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30753758</id>
+        <link href="https://news.ycombinator.com/item?id=30753758"/>
+        <updated>2022-03-21T13:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Rust patches sneaky ReDoS bug]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改善中国人对你网站的访问]]></title>
+        <id>https://news.ycombinator.com/item?id=30753749</id>
+        <link href="https://news.ycombinator.com/item?id=30753749"/>
+        <updated>2022-03-21T13:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Improving Chinese access to your website]]></summary>
+        <author>
+            <name>uwu_wong</name>
+            <uri>https://news.ycombinator.com/user?id=uwu_wong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["以色列取消了对乌克兰人的免签证旅行"]]></title>
+        <id>https://news.ycombinator.com/item?id=30753742</id>
+        <link href="https://news.ycombinator.com/item?id=30753742"/>
+        <updated>2022-03-21T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[“Israel cancelled visa-free travel for Ukrainians”]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理资产负债表。俱乐部之夜背后的成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30753583</id>
+        <link href="https://news.ycombinator.com/item?id=30753583"/>
+        <updated>2022-03-21T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Managing balance sheets: The cost behind club nights]]></summary>
+        <author>
+            <name>rutierut</name>
+            <uri>https://news.ycombinator.com/user?id=rutierut</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风险投资普遍存在的、令人头疼的、风险爆炸性的问题（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30753506</id>
+        <link href="https://news.ycombinator.com/item?id=30753506"/>
+        <updated>2022-03-21T12:52:30.000Z</updated>
+        <summary type="html"><![CDATA[The Pervasive, Head-Scratching, Risk-Exploding Problem with VC (2020)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jax - 可组合的转换：区分、矢量化、JIT到TPU]]></title>
         <id>https://news.ycombinator.com/item?id=30753741</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>LaserPineapple</name>
             <uri>https://news.ycombinator.com/user?id=LaserPineapple</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows关机菜单开发]]></title>
-        <id>https://news.ycombinator.com/item?id=30736045</id>
-        <link href="https://news.ycombinator.com/item?id=30736045"/>
-        <updated>2022-03-19T18:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Windows Shutdown Menu Development]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚利桑那州采取行动禁止录制警察视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30737311</id>
-        <link href="https://news.ycombinator.com/item?id=30737311"/>
-        <updated>2022-03-19T20:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Arizona moves to ban recording video of police]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟官员酝酿将受制裁的俄罗斯人的资产用于乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30737302</id>
-        <link href="https://news.ycombinator.com/item?id=30737302"/>
-        <updated>2022-03-19T20:27:46.000Z</updated>
-        <summary type="html"><![CDATA[EU Officials Mull Using Sanctioned Russians’ Assets for Ukraine]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泄露的勒索软件文件显示孔蒂从暗处帮助普京]]></title>
-        <id>https://news.ycombinator.com/item?id=30737279</id>
-        <link href="https://news.ycombinator.com/item?id=30737279"/>
-        <updated>2022-03-19T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Leaked Ransomware Docs Show Conti Helping Putin from the Shadows]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上出现了新的最长的吊桥]]></title>
-        <id>https://news.ycombinator.com/item?id=30737274</id>
-        <link href="https://news.ycombinator.com/item?id=30737274"/>
-        <updated>2022-03-19T20:24:05.000Z</updated>
-        <summary type="html"><![CDATA[There's a New Longest Suspension Bridge in the World]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检查你的隐藏帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30737232</id>
-        <link href="https://news.ycombinator.com/item?id=30737232"/>
-        <updated>2022-03-19T20:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Check Your Hidden Posts]]></summary>
-        <author>
-            <name>MaxLeiter</name>
-            <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的能源安全正在崩溃]]></title>
-        <id>https://news.ycombinator.com/item?id=30737143</id>
-        <link href="https://news.ycombinator.com/item?id=30737143"/>
-        <updated>2022-03-19T20:11:18.000Z</updated>
-        <summary type="html"><![CDATA[America’s Energy Security Is Falling Apart]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰：众包如何将人们从战区解救出来]]></title>
-        <id>https://news.ycombinator.com/item?id=30736990</id>
-        <link href="https://news.ycombinator.com/item?id=30736990"/>
-        <updated>2022-03-19T19:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine: How crowdsourcing is rescuing people from the war zone]]></summary>
-        <author>
-            <name>ngcc_hk</name>
-            <uri>https://news.ycombinator.com/user?id=ngcc_hk</uri>
         </author>
     </entry>
 </feed>
