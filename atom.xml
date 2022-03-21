@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T14:38:10.253Z</updated>
+    <updated>2022-03-21T14:53:11.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix的 "跳过介绍 "按钮每天为观众节省了195年的观看时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30754675</id>
+        <link href="https://news.ycombinator.com/item?id=30754675"/>
+        <updated>2022-03-21T14:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Netflix's “Skip Intro” button saves 195 years of watch time per day to viewers]]></summary>
+        <author>
+            <name>Aissen</name>
+            <uri>https://news.ycombinator.com/user?id=Aissen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聚集掉你数据中的信号]]></title>
+        <id>https://news.ycombinator.com/item?id=30754654</id>
+        <link href="https://news.ycombinator.com/item?id=30754654"/>
+        <updated>2022-03-21T14:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Aggregating away the signal in your data]]></summary>
+        <author>
+            <name>yurivish</name>
+            <uri>https://news.ycombinator.com/user?id=yurivish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被诅咒的军团。乌克兰的失足者、退伍军人和战争游客的军队]]></title>
+        <id>https://news.ycombinator.com/item?id=30754538</id>
+        <link href="https://news.ycombinator.com/item?id=30754538"/>
+        <updated>2022-03-21T14:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Legion of the damned: Ukraine’s army of misfits, veterans, and war tourists]]></summary>
+        <author>
+            <name>jitl</name>
+            <uri>https://news.ycombinator.com/user?id=jitl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD发布带有3D V-缓存的Milan-X CPU。EPYC 7003高达64个内核，768MB L3]]></title>
+        <id>https://news.ycombinator.com/item?id=30754459</id>
+        <link href="https://news.ycombinator.com/item?id=30754459"/>
+        <updated>2022-03-21T14:22:16.000Z</updated>
+        <summary type="html"><![CDATA[AMD Releases Milan-X CPUs With 3D V-Cache: EPYC 7003 Up to 64 Cores, 768 MB L3]]></summary>
+        <author>
+            <name>neogodless</name>
+            <uri>https://news.ycombinator.com/user?id=neogodless</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找暗物质的新工具一无所获]]></title>
+        <id>https://news.ycombinator.com/item?id=30754245</id>
+        <link href="https://news.ycombinator.com/item?id=30754245"/>
+        <updated>2022-03-21T14:04:48.000Z</updated>
+        <summary type="html"><![CDATA[A New Tool for Finding Dark Matter Digs Up Nothing]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[平均数的白痴--以及为什么它是重要的（2018）。]]></title>
         <id>https://news.ycombinator.com/item?id=30754484</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>drdee</name>
             <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再自称是狗家长]]></title>
-        <id>https://news.ycombinator.com/item?id=30738078</id>
-        <link href="https://news.ycombinator.com/item?id=30738078"/>
-        <updated>2022-03-19T22:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Stop calling yourself a dog parent]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[论贝尔-霍克斯和仪式的慰藉(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30737440</id>
-        <link href="https://news.ycombinator.com/item?id=30737440"/>
-        <updated>2022-03-19T20:44:53.000Z</updated>
-        <summary type="html"><![CDATA[On bell hooks and the Solace of Ritual (2021)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code在最新的更新中随机删除了包含的头文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30737777</id>
-        <link href="https://news.ycombinator.com/item?id=30737777"/>
-        <updated>2022-03-19T21:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is randomly erasing included header files with latest update]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错误信息的传播。我们反复看到的一种模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30737768</id>
-        <link href="https://news.ycombinator.com/item?id=30737768"/>
-        <updated>2022-03-19T21:33:04.000Z</updated>
-        <summary type="html"><![CDATA[The spread of misinformation: A pattern we see over and over]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是新来的]]></title>
-        <id>https://news.ycombinator.com/item?id=30737767</id>
-        <link href="https://news.ycombinator.com/item?id=30737767"/>
-        <updated>2022-03-19T21:33:01.000Z</updated>
-        <summary type="html"><![CDATA[I'm New Here]]></summary>
-        <author>
-            <name>Hoings</name>
-            <uri>https://news.ycombinator.com/user?id=Hoings</uri>
         </author>
     </entry>
 </feed>
