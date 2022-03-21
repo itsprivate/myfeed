@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T11:30:16.915Z</updated>
+    <updated>2022-03-21T11:36:47.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的GitHub的README中添加一個活的明星曆史圖表的單行本]]></title>
+        <id>https://news.ycombinator.com/item?id=30752746</id>
+        <link href="https://news.ycombinator.com/item?id=30752746"/>
+        <updated>2022-03-21T11:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: One liner adding a LIVE star history chart to your GitHub README]]></summary>
+        <author>
+            <name>tianzhou</name>
+            <uri>https://news.ycombinator.com/user?id=tianzhou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：你不需要Karabiner來實現簡單的macOS按鍵重映射]]></title>
+        <id>https://news.ycombinator.com/item?id=30752190</id>
+        <link href="https://news.ycombinator.com/item?id=30752190"/>
+        <updated>2022-03-21T09:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: You don't need Karabiner for simple macOS key remappings]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果工作室顯示器包含64GB存儲空間，但只用了2GB]]></title>
         <id>https://news.ycombinator.com/item?id=30752629</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSP56300逆向工程。訪問病毒仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30735683</id>
-        <link href="https://news.ycombinator.com/item?id=30735683"/>
-        <updated>2022-03-19T17:29:12.000Z</updated>
-        <summary type="html"><![CDATA[DSP56300 Reverse Engineering: Access Virus Emulator]]></summary>
-        <author>
-            <name>raaxe</name>
-            <uri>https://news.ycombinator.com/user?id=raaxe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[絕對權力]]></title>
-        <id>https://news.ycombinator.com/item?id=30735646</id>
-        <link href="https://news.ycombinator.com/item?id=30735646"/>
-        <updated>2022-03-19T17:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Absolute Power]]></summary>
-        <author>
-            <name>MrJagil</name>
-            <uri>https://news.ycombinator.com/user?id=MrJagil</uri>
         </author>
     </entry>
 </feed>
