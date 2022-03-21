@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T08:38:54.475Z</updated>
+    <updated>2022-03-21T08:54:35.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌拨号器和短信应用窃取所有对话元数据和内容哈希值 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30751751</id>
+        <link href="https://news.ycombinator.com/item?id=30751751"/>
+        <updated>2022-03-21T08:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Google Dialer and SMS App steals all conversation metadata and content hashes [pdf]]]></summary>
+        <author>
+            <name>exceptione</name>
+            <uri>https://news.ycombinator.com/user?id=exceptione</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给我一个浏览器，我就给你一个外壳]]></title>
+        <id>https://news.ycombinator.com/item?id=30751410</id>
+        <link href="https://news.ycombinator.com/item?id=30751410"/>
+        <updated>2022-03-21T07:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Give me a browser, I’ll give you a Shell]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向数据的编程的不合理的有效性]]></title>
+        <id>https://news.ycombinator.com/item?id=30751332</id>
+        <link href="https://news.ycombinator.com/item?id=30751332"/>
+        <updated>2022-03-21T07:42:34.000Z</updated>
+        <summary type="html"><![CDATA[The unreasonable effectiveness of data-oriented programming]]></summary>
+        <author>
+            <name>viebel</name>
+            <uri>https://news.ycombinator.com/user?id=viebel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澳大利亚聪明的鸟儿不同意这项科学实验]]></title>
         <id>https://news.ycombinator.com/item?id=30751639</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过测试学习围棋语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30734652</id>
-        <link href="https://news.ycombinator.com/item?id=30734652"/>
-        <updated>2022-03-19T15:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Learn Go Language with Tests]]></summary>
-        <author>
-            <name>patternexon</name>
-            <uri>https://news.ycombinator.com/user?id=patternexon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁是博士？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734596</id>
-        <link href="https://news.ycombinator.com/item?id=30734596"/>
-        <updated>2022-03-19T15:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Doctor Who?]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果M1系统上的OpenBSD/arm64]]></title>
-        <id>https://news.ycombinator.com/item?id=30734527</id>
-        <link href="https://news.ycombinator.com/item?id=30734527"/>
-        <updated>2022-03-19T15:27:13.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD/arm64 on Apple M1 systems]]></summary>
-        <author>
-            <name>brynet</name>
-            <uri>https://news.ycombinator.com/user?id=brynet</uri>
         </author>
     </entry>
 </feed>

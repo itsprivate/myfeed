@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌撥號器和短信應用竊取所有對話元數據和內容哈希值 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30751751</link>
+            <guid>https://news.ycombinator.com/item?id=30751751</guid>
+            <pubDate>Mon, 21 Mar 2022 08:46:41 GMT</pubDate>
+            <description><![CDATA[Google Dialer and SMS App steals all conversation metadata and content hashes [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[給我一個瀏覽器，我就給你一個外殼]]></title>
+            <link>https://news.ycombinator.com/item?id=30751410</link>
+            <guid>https://news.ycombinator.com/item?id=30751410</guid>
+            <pubDate>Mon, 21 Mar 2022 07:52:19 GMT</pubDate>
+            <description><![CDATA[Give me a browser, I’ll give you a Shell]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面向數據的編程的不合理的有效性]]></title>
+            <link>https://news.ycombinator.com/item?id=30751332</link>
+            <guid>https://news.ycombinator.com/item?id=30751332</guid>
+            <pubDate>Mon, 21 Mar 2022 07:42:34 GMT</pubDate>
+            <description><![CDATA[The unreasonable effectiveness of data-oriented programming]]></description>
+        </item>
         <item>
             <title><![CDATA[澳大利亞聰明的鳥兒不同意這項科學實驗]]></title>
             <link>https://news.ycombinator.com/item?id=30751639</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30734712</guid>
             <pubDate>Sat, 19 Mar 2022 15:46:15 GMT</pubDate>
             <description><![CDATA[BGP Implemented in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過測試學習圍棋語言]]></title>
-            <link>https://news.ycombinator.com/item?id=30734652</link>
-            <guid>https://news.ycombinator.com/item?id=30734652</guid>
-            <pubDate>Sat, 19 Mar 2022 15:39:57 GMT</pubDate>
-            <description><![CDATA[Learn Go Language with Tests]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰是博士？]]></title>
-            <link>https://news.ycombinator.com/item?id=30734596</link>
-            <guid>https://news.ycombinator.com/item?id=30734596</guid>
-            <pubDate>Sat, 19 Mar 2022 15:34:05 GMT</pubDate>
-            <description><![CDATA[Doctor Who?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果M1系統上的OpenBSD/arm64]]></title>
-            <link>https://news.ycombinator.com/item?id=30734527</link>
-            <guid>https://news.ycombinator.com/item?id=30734527</guid>
-            <pubDate>Sat, 19 Mar 2022 15:27:13 GMT</pubDate>
-            <description><![CDATA[OpenBSD/arm64 on Apple M1 systems]]></description>
         </item>
     </channel>
 </rss>
