@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T08:14:59.513Z</updated>
+    <updated>2022-03-21T08:38:54.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚聪明的鸟儿不同意这项科学实验]]></title>
+        <id>https://news.ycombinator.com/item?id=30751639</id>
+        <link href="https://news.ycombinator.com/item?id=30751639"/>
+        <updated>2022-03-21T08:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Australia’s Clever Birds Did Not Consent to This Science Experiment]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰数学家康斯坦丁-奥尔梅佐夫在俄罗斯自杀身亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30751623</id>
+        <link href="https://news.ycombinator.com/item?id=30751623"/>
+        <updated>2022-03-21T08:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian mathematician Konstantin Olmezov commits suicide in Russia]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆向工程：8008令人惊讶的先进ALU (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30751539</id>
+        <link href="https://news.ycombinator.com/item?id=30751539"/>
+        <updated>2022-03-21T08:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Reverse-engineering the surprisingly advanced ALU of the 8008 (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于托尔金和奥威尔]]></title>
+        <id>https://news.ycombinator.com/item?id=30751495</id>
+        <link href="https://news.ycombinator.com/item?id=30751495"/>
+        <updated>2022-03-21T08:04:37.000Z</updated>
+        <summary type="html"><![CDATA[On Tolkien and Orwell]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在英国获得凡人的人才签证]]></title>
+        <id>https://news.ycombinator.com/item?id=30751362</id>
+        <link href="https://news.ycombinator.com/item?id=30751362"/>
+        <updated>2022-03-21T07:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Getting a talent visa in the UK for mortals]]></summary>
+        <author>
+            <name>aigoncharov</name>
+            <uri>https://news.ycombinator.com/user?id=aigoncharov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络框架能解决什么问题，以及如何不使用这些框架]]></title>
         <id>https://news.ycombinator.com/item?id=30751491</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>brynet</name>
             <uri>https://news.ycombinator.com/user?id=brynet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Bootstrapping GHC的思考（2018）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30734514</id>
-        <link href="https://news.ycombinator.com/item?id=30734514"/>
-        <updated>2022-03-19T15:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on Bootstrapping GHC (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帝国的案例 (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=30734510</id>
-        <link href="https://news.ycombinator.com/item?id=30734510"/>
-        <updated>2022-03-19T15:25:06.000Z</updated>
-        <summary type="html"><![CDATA[The Case for the Empire (2002)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publii 0.39更新发布。插件、UI翻译和更多]]></title>
-        <id>https://news.ycombinator.com/item?id=30734222</id>
-        <link href="https://news.ycombinator.com/item?id=30734222"/>
-        <updated>2022-03-19T14:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Publii 0.39 update released: Plugins, UI translations and more]]></summary>
-        <author>
-            <name>Katymi</name>
-            <uri>https://news.ycombinator.com/user?id=Katymi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[围绕系统设计有哪些好的资源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734632</id>
-        <link href="https://news.ycombinator.com/item?id=30734632"/>
-        <updated>2022-03-19T15:37:59.000Z</updated>
-        <summary type="html"><![CDATA[What are some good resources around System Design?]]></summary>
-        <author>
-            <name>avrmav</name>
-            <uri>https://news.ycombinator.com/user?id=avrmav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实时周期表：所有事件驱动的汇编]]></title>
-        <id>https://news.ycombinator.com/item?id=30734451</id>
-        <link href="https://news.ycombinator.com/item?id=30734451"/>
-        <updated>2022-03-19T15:19:19.000Z</updated>
-        <summary type="html"><![CDATA[The Periodic Table of Realtime: a compendium for all things event-driven]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
