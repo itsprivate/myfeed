@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T09:33:29.180Z</updated>
+    <updated>2022-03-21T09:41:42.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可打印的拼圖項目]]></title>
+        <id>https://news.ycombinator.com/item?id=30752051</id>
+        <link href="https://news.ycombinator.com/item?id=30752051"/>
+        <updated>2022-03-21T09:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Printable Puzzle Project]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬德里的鐵路因軟件故障而出現混亂]]></title>
+        <id>https://news.ycombinator.com/item?id=30752035</id>
+        <link href="https://news.ycombinator.com/item?id=30752035"/>
+        <updated>2022-03-21T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Chaos on Madrid's Railways because of software failure]]></summary>
+        <author>
+            <name>Maciek_Kl</name>
+            <uri>https://news.ycombinator.com/user?id=Maciek_Kl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[論古代睡眠的危險性]]></title>
         <id>https://news.ycombinator.com/item?id=30751985</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arsalanb</name>
             <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的入侵告訴我們右翼的邏輯是什麼]]></title>
-        <id>https://news.ycombinator.com/item?id=30735044</id>
-        <link href="https://news.ycombinator.com/item?id=30735044"/>
-        <updated>2022-03-19T16:23:45.000Z</updated>
-        <summary type="html"><![CDATA[What the Russia Invasion Teaches Us About Right-Wing Logic]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯軍隊在烏克蘭的戰爭中已經沒有卡車了]]></title>
-        <id>https://news.ycombinator.com/item?id=30735017</id>
-        <link href="https://news.ycombinator.com/item?id=30735017"/>
-        <updated>2022-03-19T16:20:46.000Z</updated>
-        <summary type="html"><![CDATA[The Russian Army Is Running Out Of Trucks For Its War In Ukraine]]></summary>
-        <author>
-            <name>optimalsolver</name>
-            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
         </author>
     </entry>
 </feed>
