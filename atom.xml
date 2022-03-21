@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-21T23:41:16.504Z</updated>
+    <updated>2022-03-21T23:51:26.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mac工作室。这些不是固态硬盘。那些是原始存储模块]]></title>
+        <id>https://news.ycombinator.com/item?id=30761048</id>
+        <link href="https://news.ycombinator.com/item?id=30761048"/>
+        <updated>2022-03-21T23:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Mac Studio: Those aren't SSDs. Those are raw storage modules]]></summary>
+        <author>
+            <name>akeck</name>
+            <uri>https://news.ycombinator.com/user?id=akeck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用obsdfreqd保持你的OpenBSD系统的温度]]></title>
+        <id>https://news.ycombinator.com/item?id=30760874</id>
+        <link href="https://news.ycombinator.com/item?id=30760874"/>
+        <updated>2022-03-21T23:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Keep your OpenBSD system cool with obsdfreqd]]></summary>
+        <author>
+            <name>hucste</name>
+            <uri>https://news.ycombinator.com/user?id=hucste</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰科技初创企业的支点]]></title>
+        <id>https://news.ycombinator.com/item?id=30760858</id>
+        <link href="https://news.ycombinator.com/item?id=30760858"/>
+        <updated>2022-03-21T23:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Tech Startups Pivot]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[索尼正在收购黑文工作室]]></title>
         <id>https://news.ycombinator.com/item?id=30761038</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>akvadrako</name>
             <uri>https://news.ycombinator.com/user?id=akvadrako</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字不朽。我只在Facebook上查看哪些同学死了]]></title>
-        <id>https://news.ycombinator.com/item?id=30746317</id>
-        <link href="https://news.ycombinator.com/item?id=30746317"/>
-        <updated>2022-03-20T20:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Digital Immortality: I only check Facebook to see which classmates died]]></summary>
-        <author>
-            <name>iamjasonlevin</name>
-            <uri>https://news.ycombinator.com/user?id=iamjasonlevin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clingo是一个用于C语言的标准库]]></title>
-        <id>https://news.ycombinator.com/item?id=30746024</id>
-        <link href="https://news.ycombinator.com/item?id=30746024"/>
-        <updated>2022-03-20T19:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Clingo is a standard library for C]]></summary>
-        <author>
-            <name>aiq</name>
-            <uri>https://news.ycombinator.com/user?id=aiq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国和北约努力破解俄罗斯和乌克兰之间的谈判现状]]></title>
-        <id>https://news.ycombinator.com/item?id=30746191</id>
-        <link href="https://news.ycombinator.com/item?id=30746191"/>
-        <updated>2022-03-20T20:17:22.000Z</updated>
-        <summary type="html"><![CDATA[US and NATO Struggle to Decipher Status of Negotiations Twixt Russia and Ukraine]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
