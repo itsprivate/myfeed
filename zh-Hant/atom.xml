@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T10:14:39.831Z</updated>
+    <updated>2022-03-22T10:35:39.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[挫折。使用R的一年]]></title>
+        <id>https://news.ycombinator.com/item?id=30764505</id>
+        <link href="https://news.ycombinator.com/item?id=30764505"/>
+        <updated>2022-03-22T10:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Frustration: One Year with R]]></summary>
+        <author>
+            <name>_dain_</name>
+            <uri>https://news.ycombinator.com/user?id=_dain_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[單一性的。請別這樣 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30764260</id>
+        <link href="https://news.ycombinator.com/item?id=30764260"/>
+        <updated>2022-03-22T09:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Monorepos: Please Don’t (2019)]]></summary>
+        <author>
+            <name>fmax30</name>
+            <uri>https://news.ycombinator.com/user?id=fmax30</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML模塊解釋器]]></title>
+        <id>https://news.ycombinator.com/item?id=30764256</id>
+        <link href="https://news.ycombinator.com/item?id=30764256"/>
+        <updated>2022-03-22T09:41:24.000Z</updated>
+        <summary type="html"><![CDATA[HTML Modules Explainer]]></summary>
+        <author>
+            <name>OJFord</name>
+            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年沒有OpenTTD安卓版更新，我被徵召到烏克蘭軍隊了]]></title>
         <id>https://news.ycombinator.com/item?id=30764347</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Golang中求解黎曼假設 - 設置]]></title>
-        <id>https://news.ycombinator.com/item?id=30751239</id>
-        <link href="https://news.ycombinator.com/item?id=30751239"/>
-        <updated>2022-03-21T07:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Solving Riemann Hypothesis in Golang – Setup]]></summary>
-        <author>
-            <name>alexsanjoseph</name>
-            <uri>https://news.ycombinator.com/user?id=alexsanjoseph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃紙在俄羅斯市場上消失了]]></title>
-        <id>https://news.ycombinator.com/item?id=30751191</id>
-        <link href="https://news.ycombinator.com/item?id=30751191"/>
-        <updated>2022-03-21T07:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Yellow paper disappeared from Russia market]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux達到 "早期阿爾法"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30751292</id>
-        <link href="https://news.ycombinator.com/item?id=30751292"/>
-        <updated>2022-03-21T07:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Asahi Linux reaches 'early Alpha']]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
