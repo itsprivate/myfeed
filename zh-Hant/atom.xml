@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T10:45:33.436Z</updated>
+    <updated>2022-03-22T10:53:10.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta被黑了兩個多月]]></title>
+        <id>https://news.ycombinator.com/item?id=30764600</id>
+        <link href="https://news.ycombinator.com/item?id=30764600"/>
+        <updated>2022-03-22T10:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Okta Hacked for over Two Months]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網絡是世界復原力的終極工具 - W3C博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30764424</id>
+        <link href="https://news.ycombinator.com/item?id=30764424"/>
+        <updated>2022-03-22T10:09:36.000Z</updated>
+        <summary type="html"><![CDATA[The Web as the ultimate tool of resilience for the world – W3C Blog]]></summary>
+        <author>
+            <name>0066cc</name>
+            <uri>https://news.ycombinator.com/user?id=0066cc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京的下一次升級可能是直接對美國進行網絡攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30764332</id>
+        <link href="https://news.ycombinator.com/item?id=30764332"/>
+        <updated>2022-03-22T09:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Putin's next escalation could be a direct cyberattack on the US]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞歷山大-杜金。一個幫助說服普京入侵的俄羅斯法西斯分子]]></title>
+        <id>https://news.ycombinator.com/item?id=30764184</id>
+        <link href="https://news.ycombinator.com/item?id=30764184"/>
+        <updated>2022-03-22T09:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Alexander Dugin: A Russian fascist who helped to convince Putin to invade]]></summary>
+        <author>
+            <name>thomassmith65</name>
+            <uri>https://news.ycombinator.com/user?id=thomassmith65</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用FFS快照、ZFS和dump(8)進行全系統備份 - UnitedBSD]]></title>
         <id>https://news.ycombinator.com/item?id=30764547</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逆向工程：8008令人驚訝的先進ALU (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30751539</id>
-        <link href="https://news.ycombinator.com/item?id=30751539"/>
-        <updated>2022-03-21T08:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Reverse-engineering the surprisingly advanced ALU of the 8008 (2017)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於托爾金和奧威爾]]></title>
-        <id>https://news.ycombinator.com/item?id=30751495</id>
-        <link href="https://news.ycombinator.com/item?id=30751495"/>
-        <updated>2022-03-21T08:04:37.000Z</updated>
-        <summary type="html"><![CDATA[On Tolkien and Orwell]]></summary>
-        <author>
-            <name>BerislavLopac</name>
-            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在英國獲得凡人的人才簽證]]></title>
-        <id>https://news.ycombinator.com/item?id=30751362</id>
-        <link href="https://news.ycombinator.com/item?id=30751362"/>
-        <updated>2022-03-21T07:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Getting a talent visa in the UK for mortals]]></summary>
-        <author>
-            <name>aigoncharov</name>
-            <uri>https://news.ycombinator.com/user?id=aigoncharov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡框架能解決什麼問題，以及如何不使用這些框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30751491</id>
-        <link href="https://news.ycombinator.com/item?id=30751491"/>
-        <updated>2022-03-21T08:04:18.000Z</updated>
-        <summary type="html"><![CDATA[What web frameworks solve, and how not use them]]></summary>
-        <author>
-            <name>adrianomartins</name>
-            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
         </author>
     </entry>
 </feed>
