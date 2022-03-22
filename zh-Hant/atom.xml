@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T05:30:07.790Z</updated>
+    <updated>2022-03-22T05:36:38.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[突破了Okta的安全性]]></title>
+        <id>https://news.ycombinator.com/item?id=30762982</id>
+        <link href="https://news.ycombinator.com/item?id=30762982"/>
+        <updated>2022-03-22T05:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Okta security breached]]></summary>
+        <author>
+            <name>wcdolphin</name>
+            <uri>https://news.ycombinator.com/user?id=wcdolphin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[認證服務公司Okta稱正在調查漏洞報告]]></title>
         <id>https://news.ycombinator.com/item?id=30762967</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arduino愛好者打造最小的 "太空入侵者 "遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30749572</id>
-        <link href="https://news.ycombinator.com/item?id=30749572"/>
-        <updated>2022-03-21T02:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Arduino fan builds the smallest 'Space Invaders' game]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
         </author>
     </entry>
 </feed>

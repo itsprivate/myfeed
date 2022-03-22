@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[突破了Okta的安全性]]></title>
+            <link>https://news.ycombinator.com/item?id=30762982</link>
+            <guid>https://news.ycombinator.com/item?id=30762982</guid>
+            <pubDate>Tue, 22 Mar 2022 05:23:22 GMT</pubDate>
+            <description><![CDATA[Okta security breached]]></description>
+        </item>
         <item>
             <title><![CDATA[认证服务公司Okta称正在调查漏洞报告]]></title>
             <link>https://news.ycombinator.com/item?id=30762967</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30749075</guid>
             <pubDate>Mon, 21 Mar 2022 01:42:23 GMT</pubDate>
             <description><![CDATA[Amazon Aurora: Design Considerations and on Avoiding Distributed Consensus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Arduino爱好者打造最小的 "太空入侵者 "游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30749572</link>
-            <guid>https://news.ycombinator.com/item?id=30749572</guid>
-            <pubDate>Mon, 21 Mar 2022 02:49:20 GMT</pubDate>
-            <description><![CDATA[Arduino fan builds the smallest 'Space Invaders' game]]></description>
         </item>
     </channel>
 </rss>
