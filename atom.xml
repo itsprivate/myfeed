@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T13:45:20.506Z</updated>
+    <updated>2022-03-22T13:52:00.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代数数据类型介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30766030</id>
+        <link href="https://news.ycombinator.com/item?id=30766030"/>
+        <updated>2022-03-22T13:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Algebraic Data Types]]></summary>
+        <author>
+            <name>aroccoli</name>
+            <uri>https://news.ycombinator.com/user?id=aroccoli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在俄罗斯宣传网的生活 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30765872</id>
+        <link href="https://news.ycombinator.com/item?id=30765872"/>
+        <updated>2022-03-22T13:34:04.000Z</updated>
+        <summary type="html"><![CDATA[My Life at a Russian Propaganda Network (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个乌克兰小镇给俄罗斯带来了战争中最具决定性的一击]]></title>
+        <id>https://news.ycombinator.com/item?id=30765847</id>
+        <link href="https://news.ycombinator.com/item?id=30765847"/>
+        <updated>2022-03-22T13:32:23.000Z</updated>
+        <summary type="html"><![CDATA[A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs]]></summary>
+        <author>
+            <name>mchan</name>
+            <uri>https://news.ycombinator.com/user?id=mchan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于React的静态网站生成器，不输出客户端JS]]></title>
         <id>https://news.ycombinator.com/item?id=30765892</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dnetesn</name>
             <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国东方航空公司。载有132人的飞机在广西山区坠毁]]></title>
-        <id>https://news.ycombinator.com/item?id=30752945</id>
-        <link href="https://news.ycombinator.com/item?id=30752945"/>
-        <updated>2022-03-21T11:48:28.000Z</updated>
-        <summary type="html"><![CDATA[China Eastern: Plane carrying 132 people crashes in Guangxi mountains]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众汽车因意外刹车召回超过24.6万辆SUV车型]]></title>
-        <id>https://news.ycombinator.com/item?id=30752626</id>
-        <link href="https://news.ycombinator.com/item?id=30752626"/>
-        <updated>2022-03-21T11:12:25.000Z</updated>
-        <summary type="html"><![CDATA[VW recalls over 246,000 SUVs due to unexpected braking]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红杉推出Arc "离群创业者 "计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30752254</id>
-        <link href="https://news.ycombinator.com/item?id=30752254"/>
-        <updated>2022-03-21T10:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Sequoia launches Arc “Outlier Founder” program]]></summary>
-        <author>
-            <name>L_226</name>
-            <uri>https://news.ycombinator.com/user?id=L_226</uri>
         </author>
     </entry>
 </feed>
