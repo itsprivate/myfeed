@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T05:36:37.995Z</updated>
+    <updated>2022-03-22T05:51:55.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[赞扬背诵]]></title>
+        <id>https://news.ycombinator.com/item?id=30763003</id>
+        <link href="https://news.ycombinator.com/item?id=30763003"/>
+        <updated>2022-03-22T05:31:22.000Z</updated>
+        <summary type="html"><![CDATA[In Praise of Memorization]]></summary>
+        <author>
+            <name>exaltation</name>
+            <uri>https://news.ycombinator.com/user?id=exaltation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沼泽生活。学习佛罗里达州的沼泽生态系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30762990</id>
+        <link href="https://news.ycombinator.com/item?id=30762990"/>
+        <updated>2022-03-22T05:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Swamp Life: Learning the Florida Swamp Ecosystem]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子计算机是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30762939</id>
+        <link href="https://news.ycombinator.com/item?id=30762939"/>
+        <updated>2022-03-22T05:13:32.000Z</updated>
+        <summary type="html"><![CDATA[How does a quantum computer work?]]></summary>
+        <author>
+            <name>the-mitr</name>
+            <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Netlify功能进行基于电子邮件的评论审核]]></title>
+        <id>https://news.ycombinator.com/item?id=30762859</id>
+        <link href="https://news.ycombinator.com/item?id=30762859"/>
+        <updated>2022-03-22T04:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Email-based comment moderation with Netlify Functions]]></summary>
+        <author>
+            <name>jaza</name>
+            <uri>https://news.ycombinator.com/user?id=jaza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国航空安全十年后发生的空中悲剧]]></title>
+        <id>https://news.ycombinator.com/item?id=30762772</id>
+        <link href="https://news.ycombinator.com/item?id=30762772"/>
+        <updated>2022-03-22T04:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Air tragedy in China after a decade of aviation safety]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突破了Okta的安全性]]></title>
         <id>https://news.ycombinator.com/item?id=30762982</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>mavelikara</name>
             <uri>https://news.ycombinator.com/user?id=mavelikara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习模型可被用于制造新的化学武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30749256</id>
-        <link href="https://news.ycombinator.com/item?id=30749256"/>
-        <updated>2022-03-21T02:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Machine Learning model could be used to create new chemical weapons]]></summary>
-        <author>
-            <name>giacaglia</name>
-            <uri>https://news.ycombinator.com/user?id=giacaglia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恳切性]]></title>
-        <id>https://news.ycombinator.com/item?id=30749809</id>
-        <link href="https://news.ycombinator.com/item?id=30749809"/>
-        <updated>2022-03-21T03:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Earnestness]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软选择奇特的 "拓扑库比特 "作为量子计算的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30749676</id>
-        <link href="https://news.ycombinator.com/item?id=30749676"/>
-        <updated>2022-03-21T02:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Chooses Exotic “Topological Qubits” as Future of Quantum Computing]]></summary>
-        <author>
-            <name>danny00</name>
-            <uri>https://news.ycombinator.com/user?id=danny00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加油机恰好和你的典型路由器一样不安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30749405</id>
-        <link href="https://news.ycombinator.com/item?id=30749405"/>
-        <updated>2022-03-21T02:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Gas pumps happen to be about as insecure as your typical router]]></summary>
-        <author>
-            <name>wyclif</name>
-            <uri>https://news.ycombinator.com/user?id=wyclif</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊奥罗拉。设计考虑和关于避免分布式共识的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30749075</id>
-        <link href="https://news.ycombinator.com/item?id=30749075"/>
-        <updated>2022-03-21T01:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora: Design Considerations and on Avoiding Distributed Consensus]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
