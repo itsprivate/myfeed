@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T20:33:55.163Z</updated>
+    <updated>2022-03-22T20:42:03.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenShift 4.10：紅帽與Nvidia合作，增加AI和機器學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30771171</id>
+        <link href="https://news.ycombinator.com/item?id=30771171"/>
+        <updated>2022-03-22T20:36:15.000Z</updated>
+        <summary type="html"><![CDATA[OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning]]></summary>
+        <author>
+            <name>CrankyBear</name>
+            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用它或失去它。為什麼要以使用量為基礎定價（第一部分）]]></title>
+        <id>https://news.ycombinator.com/item?id=30771099</id>
+        <link href="https://news.ycombinator.com/item?id=30771099"/>
+        <updated>2022-03-22T20:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Use It or Lose It: Why Usage-Based Pricing (Part 1)]]></summary>
+        <author>
+            <name>rosslazer</name>
+            <uri>https://news.ycombinator.com/user?id=rosslazer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據搜索引擎，使用你的內部數據]]></title>
         <id>https://news.ycombinator.com/item?id=30771050</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>talhof8</name>
             <uri>https://news.ycombinator.com/user?id=talhof8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國鹿角的大繁榮]]></title>
-        <id>https://news.ycombinator.com/item?id=30758065</id>
-        <link href="https://news.ycombinator.com/item?id=30758065"/>
-        <updated>2022-03-21T18:45:01.000Z</updated>
-        <summary type="html"><![CDATA[The Great American Antler Boom]]></summary>
-        <author>
-            <name>chapulin</name>
-            <uri>https://news.ycombinator.com/user?id=chapulin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自助文化的殘忍之處]]></title>
-        <id>https://news.ycombinator.com/item?id=30757993</id>
-        <link href="https://news.ycombinator.com/item?id=30757993"/>
-        <updated>2022-03-21T18:39:38.000Z</updated>
-        <summary type="html"><![CDATA[The cruelties of self-help culture]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
