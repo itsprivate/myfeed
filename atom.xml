@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T08:36:43.362Z</updated>
+    <updated>2022-03-22T08:53:16.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fedora 认为 curl-minimal：限制协议可能会提高安全性]]></title>
+        <id>https://news.ycombinator.com/item?id=30763512</id>
+        <link href="https://news.ycombinator.com/item?id=30763512"/>
+        <updated>2022-03-22T07:29:19.000Z</updated>
+        <summary type="html"><![CDATA[Fedora considers curl-minimal: restricting protocols may increase security]]></summary>
+        <author>
+            <name>laktak</name>
+            <uri>https://news.ycombinator.com/user?id=laktak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯法院认定克里姆林宫批评者纳瓦尔尼犯有欺诈罪]]></title>
         <id>https://news.ycombinator.com/item?id=30763800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vijayr02</name>
             <uri>https://news.ycombinator.com/user?id=vijayr02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱纳斯-托瓦尔兹发布了5.17版内核]]></title>
-        <id>https://news.ycombinator.com/item?id=30750731</id>
-        <link href="https://news.ycombinator.com/item?id=30750731"/>
-        <updated>2022-03-21T05:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds has Released the 5.17 Kernel]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>

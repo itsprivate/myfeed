@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:53:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fedora 認為 curl-minimal：限制協議可能會提高安全性]]></title>
+            <link>https://news.ycombinator.com/item?id=30763512</link>
+            <guid>https://news.ycombinator.com/item?id=30763512</guid>
+            <pubDate>Tue, 22 Mar 2022 07:29:19 GMT</pubDate>
+            <description><![CDATA[Fedora considers curl-minimal: restricting protocols may increase security]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯法院認定克里姆林宮批評者納瓦爾尼犯有欺詐罪]]></title>
             <link>https://news.ycombinator.com/item?id=30763800</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30750765</guid>
             <pubDate>Mon, 21 Mar 2022 05:58:01 GMT</pubDate>
             <description><![CDATA[IKEA tweaked its products to woo India's shoppers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[萊納斯-託瓦爾茲發佈了5.17版內核]]></title>
-            <link>https://news.ycombinator.com/item?id=30750731</link>
-            <guid>https://news.ycombinator.com/item?id=30750731</guid>
-            <pubDate>Mon, 21 Mar 2022 05:50:40 GMT</pubDate>
-            <description><![CDATA[Linus Torvalds has Released the 5.17 Kernel]]></description>
         </item>
     </channel>
 </rss>
