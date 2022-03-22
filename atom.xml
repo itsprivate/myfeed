@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T04:40:45.614Z</updated>
+    <updated>2022-03-22T04:57:41.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于睡眠的反面论述]]></title>
+        <id>https://news.ycombinator.com/item?id=30762775</id>
+        <link href="https://news.ycombinator.com/item?id=30762775"/>
+        <updated>2022-03-22T04:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Counter-Theses on Sleep]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当他到达新大陆时]]></title>
+        <id>https://news.ycombinator.com/item?id=30762088</id>
+        <link href="https://news.ycombinator.com/item?id=30762088"/>
+        <updated>2022-03-22T02:15:43.000Z</updated>
+        <summary type="html"><![CDATA[And when he reached the New World]]></summary>
+        <author>
+            <name>macinjosh</name>
+            <uri>https://news.ycombinator.com/user?id=macinjosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lapsus$勒索软件组声称入侵Okta]]></title>
         <id>https://news.ycombinator.com/item?id=30762730</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>web3d3v</name>
             <uri>https://news.ycombinator.com/user?id=web3d3v</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果应重新生产家庭Wi-Fi路由器作为Mac重启的一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30748878</id>
-        <link href="https://news.ycombinator.com/item?id=30748878"/>
-        <updated>2022-03-21T01:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Apple Should Make Home Wi-Fi Routers Again as Part of Mac Reboot]]></summary>
-        <author>
-            <name>alwillis</name>
-            <uri>https://news.ycombinator.com/user?id=alwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找离群索居者]]></title>
-        <id>https://news.ycombinator.com/item?id=30748050</id>
-        <link href="https://news.ycombinator.com/item?id=30748050"/>
-        <updated>2022-03-20T23:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Searching for Outliers]]></summary>
-        <author>
-            <name>yurivish</name>
-            <uri>https://news.ycombinator.com/user?id=yurivish</uri>
         </author>
     </entry>
 </feed>
