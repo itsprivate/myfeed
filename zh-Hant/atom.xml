@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T06:56:03.202Z</updated>
+    <updated>2022-03-22T07:12:24.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一份新報告顯示，特斯拉是一個完全的氣候尷尬]]></title>
+        <id>https://news.ycombinator.com/item?id=30763352</id>
+        <link href="https://news.ycombinator.com/item?id=30763352"/>
+        <updated>2022-03-22T06:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Tesla is a complete climate embarrassment, a new report shows]]></summary>
+        <author>
+            <name>mhoad</name>
+            <uri>https://news.ycombinator.com/user?id=mhoad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭為何暫停11個 "親俄 "政黨？]]></title>
         <id>https://news.ycombinator.com/item?id=30763251</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fraintdz</name>
             <uri>https://news.ycombinator.com/user?id=fraintdz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone相機是否變得太聰明瞭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30750031</id>
-        <link href="https://news.ycombinator.com/item?id=30750031"/>
-        <updated>2022-03-21T03:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Have iPhone Cameras Become Too Smart?]]></summary>
-        <author>
-            <name>goindeep</name>
-            <uri>https://news.ycombinator.com/user?id=goindeep</uri>
         </author>
     </entry>
 </feed>
