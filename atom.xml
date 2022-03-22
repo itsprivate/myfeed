@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T10:35:39.095Z</updated>
+    <updated>2022-03-22T10:45:33.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用FFS快照、ZFS和dump(8)进行全系统备份 - UnitedBSD]]></title>
+        <id>https://news.ycombinator.com/item?id=30764547</id>
+        <link href="https://news.ycombinator.com/item?id=30764547"/>
+        <updated>2022-03-22T10:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Full system backups with FFS snapshots, ZFS and dump(8) – UnitedBSD]]></summary>
+        <author>
+            <name>rodrigo975</name>
+            <uri>https://news.ycombinator.com/user?id=rodrigo975</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[挫折。使用R的一年]]></title>
         <id>https://news.ycombinator.com/item?id=30764505</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adrianomartins</name>
             <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix的新密码共享费只是昂贵的冰山一角]]></title>
-        <id>https://news.ycombinator.com/item?id=30751249</id>
-        <link href="https://news.ycombinator.com/item?id=30751249"/>
-        <updated>2022-03-21T07:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Netflix's new password-sharing fee is just the tip of an expensive iceberg]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>

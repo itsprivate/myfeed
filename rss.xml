@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 10:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用FFS快照、ZFS和dump(8)进行全系统备份 - UnitedBSD]]></title>
+            <link>https://news.ycombinator.com/item?id=30764547</link>
+            <guid>https://news.ycombinator.com/item?id=30764547</guid>
+            <pubDate>Tue, 22 Mar 2022 10:36:39 GMT</pubDate>
+            <description><![CDATA[Full system backups with FFS snapshots, ZFS and dump(8) – UnitedBSD]]></description>
+        </item>
         <item>
             <title><![CDATA[挫折。使用R的一年]]></title>
             <link>https://news.ycombinator.com/item?id=30764505</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30751491</guid>
             <pubDate>Mon, 21 Mar 2022 08:04:18 GMT</pubDate>
             <description><![CDATA[What web frameworks solve, and how not use them]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netflix的新密码共享费只是昂贵的冰山一角]]></title>
-            <link>https://news.ycombinator.com/item?id=30751249</link>
-            <guid>https://news.ycombinator.com/item?id=30751249</guid>
-            <pubDate>Mon, 21 Mar 2022 07:28:55 GMT</pubDate>
-            <description><![CDATA[Netflix's new password-sharing fee is just the tip of an expensive iceberg]]></description>
         </item>
     </channel>
 </rss>
