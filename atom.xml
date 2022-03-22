@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T11:37:23.053Z</updated>
+    <updated>2022-03-22T11:51:39.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伦敦价值250亿美元的新 "超级地铁 "的内部情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30764148</id>
+        <link href="https://news.ycombinator.com/item?id=30764148"/>
+        <updated>2022-03-22T09:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Inside London's new $25B 'Super Tube']]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲对美国的依赖都是计划的一部分 (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30764805</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术对道德的影响]]></title>
-        <id>https://news.ycombinator.com/item?id=30751840</id>
-        <link href="https://news.ycombinator.com/item?id=30751840"/>
-        <updated>2022-03-21T09:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Technology’s Impact on Morality]]></summary>
-        <author>
-            <name>anticrisis</name>
-            <uri>https://news.ycombinator.com/user?id=anticrisis</uri>
         </author>
     </entry>
 </feed>
