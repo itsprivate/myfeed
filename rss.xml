@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Java 18全面上市]]></title>
+            <link>https://news.ycombinator.com/item?id=30766700</link>
+            <guid>https://news.ycombinator.com/item?id=30766700</guid>
+            <pubDate>Tue, 22 Mar 2022 14:45:51 GMT</pubDate>
+            <description><![CDATA[Java 18 General Availability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JavaOne回来了]]></title>
+            <link>https://news.ycombinator.com/item?id=30766683</link>
+            <guid>https://news.ycombinator.com/item?id=30766683</guid>
+            <pubDate>Tue, 22 Mar 2022 14:44:29 GMT</pubDate>
+            <description><![CDATA[JavaOne Is Back]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Java 18 / JDK 18：全面上市]]></title>
+            <link>https://news.ycombinator.com/item?id=30766650</link>
+            <guid>https://news.ycombinator.com/item?id=30766650</guid>
+            <pubDate>Tue, 22 Mar 2022 14:41:15 GMT</pubDate>
+            <description><![CDATA[Java 18 / JDK 18: General Availability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一位诺贝尔奖得主的俄罗斯编辑将把他的奖章捐给乌克兰赈灾]]></title>
+            <link>https://news.ycombinator.com/item?id=30766588</link>
+            <guid>https://news.ycombinator.com/item?id=30766588</guid>
+            <pubDate>Tue, 22 Mar 2022 14:35:25 GMT</pubDate>
+            <description><![CDATA[A Nobel Prize-Winning Russian Editor Will Donate His Medal for Ukraine Relief]]></description>
+        </item>
+        <item>
+            <title><![CDATA[始终在你的开发浏览器中打开localhost]]></title>
+            <link>https://news.ycombinator.com/item?id=30766579</link>
+            <guid>https://news.ycombinator.com/item?id=30766579</guid>
+            <pubDate>Tue, 22 Mar 2022 14:35:01 GMT</pubDate>
+            <description><![CDATA[Always open localhost in your development browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰暂停与俄罗斯有联系的11个政党的活动]]></title>
+            <link>https://news.ycombinator.com/item?id=30766549</link>
+            <guid>https://news.ycombinator.com/item?id=30766549</guid>
+            <pubDate>Tue, 22 Mar 2022 14:33:22 GMT</pubDate>
+            <description><![CDATA[Ukraine suspends 11 political parties with links to Russia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Git分支之间快速切换 用rust编写的CLI]]></title>
+            <link>https://news.ycombinator.com/item?id=30766361</link>
+            <guid>https://news.ycombinator.com/item?id=30766361</guid>
+            <pubDate>Tue, 22 Mar 2022 14:16:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly switch between Git branches CLI written in rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国皇家铸币厂将建立 "世界第一 "工厂，将英国的电子垃圾变成黄金]]></title>
+            <link>https://news.ycombinator.com/item?id=30766302</link>
+            <guid>https://news.ycombinator.com/item?id=30766302</guid>
+            <pubDate>Tue, 22 Mar 2022 14:11:27 GMT</pubDate>
+            <description><![CDATA[Royal Mint to build ‘world first’ plant to turn UK’s electronic waste into gold]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蛇形恶意软件活动滥用Chocolatey Windows软件包管理器]]></title>
+            <link>https://news.ycombinator.com/item?id=30766293</link>
+            <guid>https://news.ycombinator.com/item?id=30766293</guid>
+            <pubDate>Tue, 22 Mar 2022 14:10:25 GMT</pubDate>
+            <description><![CDATA[Serpent malware campaign abuses Chocolatey Windows package manager]]></description>
+        </item>
+        <item>
+            <title><![CDATA[世邦魏理仕。多伦多是北美第三大科技中心，仅次于纽约市和SV。]]></title>
+            <link>https://news.ycombinator.com/item?id=30766165</link>
+            <guid>https://news.ycombinator.com/item?id=30766165</guid>
+            <pubDate>Tue, 22 Mar 2022 14:00:40 GMT</pubDate>
+            <description><![CDATA[CBRE: Toronto is the third-largest tech hub in North America, behind NYC and SV]]></description>
+        </item>
         <item>
             <title><![CDATA[Nebullvm，一个加速人工智能推理的开源库，速度为5-20倍]]></title>
             <link>https://news.ycombinator.com/item?id=30766589</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30753603</guid>
             <pubDate>Mon, 21 Mar 2022 13:02:21 GMT</pubDate>
             <description><![CDATA[Activists are targeting Russians with open-source “protestware”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非阻塞性两阶段提交]]></title>
-            <link>https://news.ycombinator.com/item?id=30753601</link>
-            <guid>https://news.ycombinator.com/item?id=30753601</guid>
-            <pubDate>Mon, 21 Mar 2022 13:02:13 GMT</pubDate>
-            <description><![CDATA[Non-blocking two-phase commit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Metacil(メタシル)，一种无需削尖即可书写16公里的铅笔]]></title>
-            <link>https://news.ycombinator.com/item?id=30753563</link>
-            <guid>https://news.ycombinator.com/item?id=30753563</guid>
-            <pubDate>Mon, 21 Mar 2022 12:58:22 GMT</pubDate>
-            <description><![CDATA[Metacil(メタシル), a Pencil which can write for 16km without sharpening]]></description>
-        </item>
-        <item>
-            <title><![CDATA[希腊邮局的信息服务在 "网络攻击 "后关闭]]></title>
-            <link>https://news.ycombinator.com/item?id=30753543</link>
-            <guid>https://news.ycombinator.com/item?id=30753543</guid>
-            <pubDate>Mon, 21 Mar 2022 12:56:04 GMT</pubDate>
-            <description><![CDATA[Greek Post Office information services offline after “cyberattack”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[糟糕的经济学]]></title>
-            <link>https://news.ycombinator.com/item?id=30753501</link>
-            <guid>https://news.ycombinator.com/item?id=30753501</guid>
-            <pubDate>Mon, 21 Mar 2022 12:51:55 GMT</pubDate>
-            <description><![CDATA[Bad Economics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文件资源管理器的惨败。微软的混合动机之窗]]></title>
-            <link>https://news.ycombinator.com/item?id=30753491</link>
-            <guid>https://news.ycombinator.com/item?id=30753491</guid>
-            <pubDate>Mon, 21 Mar 2022 12:51:00 GMT</pubDate>
-            <description><![CDATA[File Explorer fiasco: Window to Microsoft's mixed-up motivations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[地球两极的热浪让气候科学家感到震惊]]></title>
-            <link>https://news.ycombinator.com/item?id=30753483</link>
-            <guid>https://news.ycombinator.com/item?id=30753483</guid>
-            <pubDate>Mon, 21 Mar 2022 12:49:54 GMT</pubDate>
-            <description><![CDATA[Heatwaves at both of Earth’s poles alarm climate scientists]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多莉-帕顿刚刚做了 "你能想象到的最庞克摇滚的事"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30753379</link>
-            <guid>https://news.ycombinator.com/item?id=30753379</guid>
-            <pubDate>Mon, 21 Mar 2022 12:40:07 GMT</pubDate>
-            <description><![CDATA[Dolly Parton Just Did the ‘Most Punk Rock Thing You Could Imagine’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自制的核磁共振成像系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30752983</link>
-            <guid>https://news.ycombinator.com/item?id=30752983</guid>
-            <pubDate>Mon, 21 Mar 2022 11:53:17 GMT</pubDate>
-            <description><![CDATA[Home-Made MRI System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZeroAcquire - 出售、购买和发现收入前的副业项目]]></title>
-            <link>https://news.ycombinator.com/item?id=30753465</link>
-            <guid>https://news.ycombinator.com/item?id=30753465</guid>
-            <pubDate>Mon, 21 Mar 2022 12:48:14 GMT</pubDate>
-            <description><![CDATA[Show HN: ZeroAcquire – Sell, buy and discover pre-revenue side projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[早期英语课程具有持久的影响]]></title>
-            <link>https://news.ycombinator.com/item?id=30753453</link>
-            <guid>https://news.ycombinator.com/item?id=30753453</guid>
-            <pubDate>Mon, 21 Mar 2022 12:46:48 GMT</pubDate>
-            <description><![CDATA[Early English lessons have lasting effects]]></description>
         </item>
     </channel>
 </rss>
