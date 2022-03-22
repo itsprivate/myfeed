@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T11:12:21.429Z</updated>
+    <updated>2022-03-22T11:29:10.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[KeePassXC 2.7.0版發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=30764736</id>
+        <link href="https://news.ycombinator.com/item?id=30764736"/>
+        <updated>2022-03-22T11:12:28.000Z</updated>
+        <summary type="html"><![CDATA[KeePassXC 2.7.0 Released]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過分析咳嗽和打噴嚏來預測《沙丘》將獲得最佳影片獎]]></title>
+        <id>https://news.ycombinator.com/item?id=30764701</id>
+        <link href="https://news.ycombinator.com/item?id=30764701"/>
+        <updated>2022-03-22T11:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Predicting that Dune will win Best Picture by analyzing coughs and sneezes]]></summary>
+        <author>
+            <name>codenberg</name>
+            <uri>https://news.ycombinator.com/user?id=codenberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix哲學的基礎知識]]></title>
+        <id>https://news.ycombinator.com/item?id=30764664</id>
+        <link href="https://news.ycombinator.com/item?id=30764664"/>
+        <updated>2022-03-22T10:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Basics of the Unix Philosophy]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Budibase - 開源的Retool替代品 - 推出他們的公共API]]></title>
         <id>https://news.ycombinator.com/item?id=30764687</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[說出真實的事情是很難的]]></title>
-        <id>https://news.ycombinator.com/item?id=30751666</id>
-        <link href="https://news.ycombinator.com/item?id=30751666"/>
-        <updated>2022-03-21T08:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Saying true things is hard]]></summary>
-        <author>
-            <name>ivanvas</name>
-            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國東航MU5735航班墜毀，機上有132人]]></title>
-        <id>https://news.ycombinator.com/item?id=30751785</id>
-        <link href="https://news.ycombinator.com/item?id=30751785"/>
-        <updated>2022-03-21T08:50:20.000Z</updated>
-        <summary type="html"><![CDATA[China Eastern flight MU5735 crashes, 132 people were on board]]></summary>
-        <author>
-            <name>ammo1662</name>
-            <uri>https://news.ycombinator.com/user?id=ammo1662</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐100將在Windows上獲得AV1硬件解碼支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30751707</id>
-        <link href="https://news.ycombinator.com/item?id=30751707"/>
-        <updated>2022-03-21T08:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 100 is getting AV1 hardware decoding support on Windows]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
         </author>
     </entry>
 </feed>
