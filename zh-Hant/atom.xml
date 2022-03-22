@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T07:12:24.943Z</updated>
+    <updated>2022-03-22T07:30:12.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：一家價值400億美元的公司殺害了我兩歲的兒子。現在他們強迫我保持沉默]]></title>
+        <id>https://news.ycombinator.com/item?id=30763464</id>
+        <link href="https://news.ycombinator.com/item?id=30763464"/>
+        <updated>2022-03-22T07:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent]]></summary>
+        <author>
+            <name>bereavedparent</name>
+            <uri>https://news.ycombinator.com/user?id=bereavedparent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一份新報告顯示，特斯拉是一個完全的氣候尷尬]]></title>
         <id>https://news.ycombinator.com/item?id=30763352</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xbmcuser</name>
             <uri>https://news.ycombinator.com/user?id=xbmcuser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何優化圖片Alt標籤以利於SEO - Techstacker]]></title>
-        <id>https://news.ycombinator.com/item?id=30750276</id>
-        <link href="https://news.ycombinator.com/item?id=30750276"/>
-        <updated>2022-03-21T04:29:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Optimize Image Alt Tags for SEO – Techstacker]]></summary>
-        <author>
-            <name>fraintdz</name>
-            <uri>https://news.ycombinator.com/user?id=fraintdz</uri>
         </author>
     </entry>
 </feed>
