@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T08:15:46.646Z</updated>
+    <updated>2022-03-22T08:36:43.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯法院認定克里姆林宮批評者納瓦爾尼犯有欺詐罪]]></title>
+        <id>https://news.ycombinator.com/item?id=30763800</id>
+        <link href="https://news.ycombinator.com/item?id=30763800"/>
+        <updated>2022-03-22T08:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Russian court finds Kremlin critic Navalny guilty of fraud]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓我們去荷蘭--通過比特幣閃電分割你的賬單]]></title>
         <id>https://news.ycombinator.com/item?id=30763641</id>
@@ -6599,17 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30750731"/>
         <updated>2022-03-21T05:50:40.000Z</updated>
         <summary type="html"><![CDATA[Linus Torvalds has Released the 5.17 Kernel]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[釣魚工具包讓任何人都可以創建假的Chrome（SSO）瀏覽器-窗口 - (BitB)]]></title>
-        <id>https://news.ycombinator.com/item?id=30750389</id>
-        <link href="https://news.ycombinator.com/item?id=30750389"/>
-        <updated>2022-03-21T04:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Phishing Toolkit lets anyone create fake Chrome (SSO) browser-windows – (BitB)]]></summary>
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
