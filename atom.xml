@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T03:56:13.272Z</updated>
+    <updated>2022-03-22T04:13:40.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查看表格。使用变形器从少数图像中进行无神经渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=30762578</id>
+        <link href="https://news.ycombinator.com/item?id=30762578"/>
+        <updated>2022-03-22T03:56:46.000Z</updated>
+        <summary type="html"><![CDATA[ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸣叫。"LAPSUS$勒索集团声称已攻破Okta。"]]></title>
+        <id>https://news.ycombinator.com/item?id=30762539</id>
+        <link href="https://news.ycombinator.com/item?id=30762539"/>
+        <updated>2022-03-22T03:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Tweet: “LAPSUS$ extortion group claims to have breached Okta.”]]></summary>
+        <author>
+            <name>Shank</name>
+            <uri>https://news.ycombinator.com/user?id=Shank</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超过5万星的GitHub存储库]]></title>
+        <id>https://news.ycombinator.com/item?id=30762278</id>
+        <link href="https://news.ycombinator.com/item?id=30762278"/>
+        <updated>2022-03-22T02:59:42.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Repositories over 50k Stars]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓的信息、拨号程序悄悄向谷歌发送短信、通话信息]]></title>
         <id>https://news.ycombinator.com/item?id=30762549</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>senzilla</name>
             <uri>https://news.ycombinator.com/user?id=senzilla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方的精英们阻止我们对俄罗斯的超级富豪的资产采取行动]]></title>
-        <id>https://news.ycombinator.com/item?id=30748486</id>
-        <link href="https://news.ycombinator.com/item?id=30748486"/>
-        <updated>2022-03-21T00:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Western elite preventing us from going after the assets of Russia’s hyper-rich]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fzf-WiFi。通过fzf（和其他fzf脚本）列出并连接到WiFi网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30748466</id>
-        <link href="https://news.ycombinator.com/item?id=30748466"/>
-        <updated>2022-03-21T00:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Fzf-WiFi: List and connect to WiFi networks via fzf (and other fzf scripts)]]></summary>
-        <author>
-            <name>ethanpil</name>
-            <uri>https://news.ycombinator.com/user?id=ethanpil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名博士转为创始人，我学到了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30748449</id>
-        <link href="https://news.ycombinator.com/item?id=30748449"/>
-        <updated>2022-03-21T00:28:38.000Z</updated>
-        <summary type="html"><![CDATA[What I learned as a PhD turned founder]]></summary>
-        <author>
-            <name>mizzao</name>
-            <uri>https://news.ycombinator.com/user?id=mizzao</uri>
         </author>
     </entry>
 </feed>
