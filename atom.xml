@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-22T09:43:42.524Z</updated>
+    <updated>2022-03-22T09:51:14.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究表明，人们认为数据分析师和会计师很无聊]]></title>
+        <id>https://news.ycombinator.com/item?id=30764152</id>
+        <link href="https://news.ycombinator.com/item?id=30764152"/>
+        <updated>2022-03-22T09:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Study show that people think that data analysts and accountants are boring]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟哥白尼海洋服务 我的海洋服务]]></title>
         <id>https://news.ycombinator.com/item?id=30764103</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用一个微小的HC32L110 ARM芯片]]></title>
-        <id>https://news.ycombinator.com/item?id=30751094</id>
-        <link href="https://news.ycombinator.com/item?id=30751094"/>
-        <updated>2022-03-21T07:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Using a tiny HC32L110 ARM chip]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
         </author>
     </entry>
 </feed>
