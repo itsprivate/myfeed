@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开源编码课程]]></title>
+            <link>https://news.ycombinator.com/item?id=30784289</link>
+            <guid>https://news.ycombinator.com/item?id=30784289</guid>
+            <pubDate>Wed, 23 Mar 2022 22:21:36 GMT</pubDate>
+            <description><![CDATA[Open Source Coding Curriculums]]></description>
+        </item>
         <item>
             <title><![CDATA[芬兰海关表示，制裁对贸易的打击比苏联解体更严重]]></title>
             <link>https://news.ycombinator.com/item?id=30784463</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30769920</guid>
             <pubDate>Tue, 22 Mar 2022 18:50:09 GMT</pubDate>
             <description><![CDATA[Egypt's newly discovered ancient tombs are more than 4k years old]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你能用AWS EventBridge做什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30769919</link>
-            <guid>https://news.ycombinator.com/item?id=30769919</guid>
-            <pubDate>Tue, 22 Mar 2022 18:49:58 GMT</pubDate>
-            <description><![CDATA[What can you do with AWS EventBridge?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T22:42:22.672Z</updated>
+    <updated>2022-03-23T22:52:21.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源编码课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30784289</id>
+        <link href="https://news.ycombinator.com/item?id=30784289"/>
+        <updated>2022-03-23T22:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Coding Curriculums]]></summary>
+        <author>
+            <name>ayyonet</name>
+            <uri>https://news.ycombinator.com/user?id=ayyonet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芬兰海关表示，制裁对贸易的打击比苏联解体更严重]]></title>
         <id>https://news.ycombinator.com/item?id=30784463</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能用AWS EventBridge做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30769919</id>
-        <link href="https://news.ycombinator.com/item?id=30769919"/>
-        <updated>2022-03-22T18:49:58.000Z</updated>
-        <summary type="html"><![CDATA[What can you do with AWS EventBridge?]]></summary>
-        <author>
-            <name>loige</name>
-            <uri>https://news.ycombinator.com/user?id=loige</uri>
         </author>
     </entry>
 </feed>
