@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T14:31:54.377Z</updated>
+    <updated>2022-03-23T14:38:32.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OLAP数据库中的多阶段分布式查询（Apache Druid）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30778806</id>
+        <link href="https://news.ycombinator.com/item?id=30778806"/>
+        <updated>2022-03-23T14:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Multi-stage distributed queries in OLAP databases (Apache Druid)]]></summary>
+        <author>
+            <name>pedreschi</name>
+            <uri>https://news.ycombinator.com/user?id=pedreschi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[费城ETE会议。Cory Doctorow, Charity Majors, Bruce Eckel, Many Others]]></title>
+        <id>https://news.ycombinator.com/item?id=30778799</id>
+        <link href="https://news.ycombinator.com/item?id=30778799"/>
+        <updated>2022-03-23T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Philly ETE Conference: Cory Doctorow, Charity Majors, Bruce Eckel, Many Others]]></summary>
+        <author>
+            <name>chariotsolution</name>
+            <uri>https://news.ycombinator.com/user?id=chariotsolution</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LPC55S69 ROM中的另一个漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30778778</id>
+        <link href="https://news.ycombinator.com/item?id=30778778"/>
+        <updated>2022-03-23T14:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Another Vulnerability in the LPC55S69 ROM]]></summary>
+        <author>
+            <name>bcantrill</name>
+            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL球员研究：童年的逆境伤害了以后的神经精神健康]]></title>
+        <id>https://news.ycombinator.com/item?id=30778765</id>
+        <link href="https://news.ycombinator.com/item?id=30778765"/>
+        <updated>2022-03-23T14:25:36.000Z</updated>
+        <summary type="html"><![CDATA[NFL players study: childhood adversities hurt neuropsychiatric health later]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯股市为不寻常的重新开盘做准备]]></title>
+        <id>https://news.ycombinator.com/item?id=30778637</id>
+        <link href="https://news.ycombinator.com/item?id=30778637"/>
+        <updated>2022-03-23T14:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Russian Stock Market Prepares for an Unusual Reopening]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大数据游戏--帮助8位数据工程师获取数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30778605</id>
+        <link href="https://news.ycombinator.com/item?id=30778605"/>
+        <updated>2022-03-23T14:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Big Data Game – Help the 8-bit data engineer to get the data]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2008年动画电影 "功夫熊猫 "中的智慧]]></title>
         <id>https://news.ycombinator.com/item?id=30778692</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>mhb</name>
             <uri>https://news.ycombinator.com/user?id=mhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript框架Unpoly和HTML Over-the-Wire趋势]]></title>
-        <id>https://news.ycombinator.com/item?id=30764755</id>
-        <link href="https://news.ycombinator.com/item?id=30764755"/>
-        <updated>2022-03-22T11:17:45.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript Framework Unpoly and the HTML Over-the-Wire Trend]]></summary>
-        <author>
-            <name>triskweline</name>
-            <uri>https://news.ycombinator.com/user?id=triskweline</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta黑客攻击使成千上万的企业处于高度警戒状态]]></title>
-        <id>https://news.ycombinator.com/item?id=30764543</id>
-        <link href="https://news.ycombinator.com/item?id=30764543"/>
-        <updated>2022-03-22T10:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Okta hack puts thousands of businesses on high alert]]></summary>
-        <author>
-            <name>crivabene</name>
-            <uri>https://news.ycombinator.com/user?id=crivabene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伦敦价值250亿美元的新 "超级地铁 "的内部情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30764148</id>
-        <link href="https://news.ycombinator.com/item?id=30764148"/>
-        <updated>2022-03-22T09:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Inside London's new $25B 'Super Tube']]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲对美国的依赖都是计划的一部分 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30764805</id>
-        <link href="https://news.ycombinator.com/item?id=30764805"/>
-        <updated>2022-03-22T11:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Europe’s Dependence on the U.S. Was All Part of the Plan (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare使我无法取消对营销邮件的订阅]]></title>
-        <id>https://news.ycombinator.com/item?id=30764757</id>
-        <link href="https://news.ycombinator.com/item?id=30764757"/>
-        <updated>2022-03-22T11:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare have made it impossible for me to unsubscribe from marketing emails]]></summary>
-        <author>
-            <name>sdflhasjd</name>
-            <uri>https://news.ycombinator.com/user?id=sdflhasjd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nim网站创建者。开源网站框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30763686</id>
-        <link href="https://news.ycombinator.com/item?id=30763686"/>
-        <updated>2022-03-22T08:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Nim Website Creator: Open-source website framework]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
         </author>
     </entry>
 </feed>
