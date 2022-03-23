@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T13:45:33.262Z</updated>
+    <updated>2022-03-23T13:52:50.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NoRedInk - 资助Roc编程语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30778388</id>
+        <link href="https://news.ycombinator.com/item?id=30778388"/>
+        <updated>2022-03-23T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[NoRedInk – Funding the Roc Programming Language]]></summary>
+        <author>
+            <name>myth_drannon</name>
+            <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杜姆。一个用Rust编写的NPM脚本运行器]]></title>
+        <id>https://news.ycombinator.com/item?id=30778321</id>
+        <link href="https://news.ycombinator.com/item?id=30778321"/>
+        <updated>2022-03-23T13:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Dum: An NPM scripts runner written in Rust]]></summary>
+        <author>
+            <name>vvoyer</name>
+            <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国新闻》将哥伦比亚大学列为第二名，但一位数学教授对此表示怀疑]]></title>
+        <id>https://news.ycombinator.com/item?id=30778278</id>
+        <link href="https://news.ycombinator.com/item?id=30778278"/>
+        <updated>2022-03-23T13:33:10.000Z</updated>
+        <summary type="html"><![CDATA[U.S. News Ranked Columbia No. 2, but a Math Professor Has His Doubts]]></summary>
+        <author>
+            <name>trauco</name>
+            <uri>https://news.ycombinator.com/user?id=trauco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学的Linux]]></title>
         <id>https://news.ycombinator.com/item?id=30778275</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rodrigo975</name>
             <uri>https://news.ycombinator.com/user?id=rodrigo975</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挫折。使用R的一年]]></title>
-        <id>https://news.ycombinator.com/item?id=30764505</id>
-        <link href="https://news.ycombinator.com/item?id=30764505"/>
-        <updated>2022-03-22T10:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Frustration: One Year with R]]></summary>
-        <author>
-            <name>_dain_</name>
-            <uri>https://news.ycombinator.com/user?id=_dain_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单一性的。请别这样 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30764260</id>
-        <link href="https://news.ycombinator.com/item?id=30764260"/>
-        <updated>2022-03-22T09:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Monorepos: Please Don’t (2019)]]></summary>
-        <author>
-            <name>fmax30</name>
-            <uri>https://news.ycombinator.com/user?id=fmax30</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML模块解释器]]></title>
-        <id>https://news.ycombinator.com/item?id=30764256</id>
-        <link href="https://news.ycombinator.com/item?id=30764256"/>
-        <updated>2022-03-22T09:41:24.000Z</updated>
-        <summary type="html"><![CDATA[HTML Modules Explainer]]></summary>
-        <author>
-            <name>OJFord</name>
-            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
         </author>
     </entry>
 </feed>

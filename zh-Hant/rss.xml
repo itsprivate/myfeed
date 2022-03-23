@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 23 Mar 2022 13:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NoRedInk - 資助Roc編程語言]]></title>
+            <link>https://news.ycombinator.com/item?id=30778388</link>
+            <guid>https://news.ycombinator.com/item?id=30778388</guid>
+            <pubDate>Wed, 23 Mar 2022 13:46:15 GMT</pubDate>
+            <description><![CDATA[NoRedInk – Funding the Roc Programming Language]]></description>
+        </item>
+        <item>
+            <title><![CDATA[杜姆。一個用Rust編寫的NPM腳本運行器]]></title>
+            <link>https://news.ycombinator.com/item?id=30778321</link>
+            <guid>https://news.ycombinator.com/item?id=30778321</guid>
+            <pubDate>Wed, 23 Mar 2022 13:39:19 GMT</pubDate>
+            <description><![CDATA[Dum: An NPM scripts runner written in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國新聞》將哥倫比亞大學列為第二名，但一位數學教授對此表示懷疑]]></title>
+            <link>https://news.ycombinator.com/item?id=30778278</link>
+            <guid>https://news.ycombinator.com/item?id=30778278</guid>
+            <pubDate>Wed, 23 Mar 2022 13:33:10 GMT</pubDate>
+            <description><![CDATA[U.S. News Ranked Columbia No. 2, but a Math Professor Has His Doubts]]></description>
+        </item>
         <item>
             <title><![CDATA[科學的Linux]]></title>
             <link>https://news.ycombinator.com/item?id=30778275</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30764547</guid>
             <pubDate>Tue, 22 Mar 2022 10:36:39 GMT</pubDate>
             <description><![CDATA[Full system backups with FFS snapshots, ZFS and dump(8) – UnitedBSD]]></description>
-        </item>
-        <item>
-            <title><![CDATA[挫折。使用R的一年]]></title>
-            <link>https://news.ycombinator.com/item?id=30764505</link>
-            <guid>https://news.ycombinator.com/item?id=30764505</guid>
-            <pubDate>Tue, 22 Mar 2022 10:27:41 GMT</pubDate>
-            <description><![CDATA[Frustration: One Year with R]]></description>
-        </item>
-        <item>
-            <title><![CDATA[單一性的。請別這樣 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30764260</link>
-            <guid>https://news.ycombinator.com/item?id=30764260</guid>
-            <pubDate>Tue, 22 Mar 2022 09:42:15 GMT</pubDate>
-            <description><![CDATA[Monorepos: Please Don’t (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HTML模塊解釋器]]></title>
-            <link>https://news.ycombinator.com/item?id=30764256</link>
-            <guid>https://news.ycombinator.com/item?id=30764256</guid>
-            <pubDate>Tue, 22 Mar 2022 09:41:24 GMT</pubDate>
-            <description><![CDATA[HTML Modules Explainer]]></description>
         </item>
     </channel>
 </rss>
