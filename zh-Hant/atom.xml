@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T11:28:30.779Z</updated>
+    <updated>2022-03-23T11:38:02.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯入侵烏克蘭，紐約時報如何改變其地圖符號學]]></title>
+        <id>https://news.ycombinator.com/item?id=30777309</id>
+        <link href="https://news.ycombinator.com/item?id=30777309"/>
+        <updated>2022-03-23T11:24:14.000Z</updated>
+        <summary type="html"><![CDATA[How the NYT has changed its map symbology as Russia invaded Ukraine]]></summary>
+        <author>
+            <name>impostervt</name>
+            <uri>https://news.ycombinator.com/user?id=impostervt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在其推出近37年後，有人在Windows 1.0中發現了一個復活節彩蛋]]></title>
+        <id>https://news.ycombinator.com/item?id=30777228</id>
+        <link href="https://news.ycombinator.com/item?id=30777228"/>
+        <updated>2022-03-23T11:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Almost 37 years after its launch, someone found an Easter egg in Windows 1.0]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[睡眠科學家說，為什麼永久的夏令時對你的健康有害？]]></title>
+        <id>https://news.ycombinator.com/item?id=30777089</id>
+        <link href="https://news.ycombinator.com/item?id=30777089"/>
+        <updated>2022-03-23T10:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Why Permanent Daylight-Saving Time Is Bad for Your Health, Sleep Scientists Say]]></summary>
+        <author>
+            <name>pondsider</name>
+            <uri>https://news.ycombinator.com/user?id=pondsider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NLAW反坦克發射器開箱檢查]]></title>
         <id>https://news.ycombinator.com/item?id=30777235</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>exaltation</name>
             <uri>https://news.ycombinator.com/user?id=exaltation</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沼澤生活。學習佛羅里達州的沼澤生態系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30762990</id>
-        <link href="https://news.ycombinator.com/item?id=30762990"/>
-        <updated>2022-03-22T05:25:55.000Z</updated>
-        <summary type="html"><![CDATA[Swamp Life: Learning the Florida Swamp Ecosystem]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子計算機是如何工作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30762939</id>
-        <link href="https://news.ycombinator.com/item?id=30762939"/>
-        <updated>2022-03-22T05:13:32.000Z</updated>
-        <summary type="html"><![CDATA[How does a quantum computer work?]]></summary>
-        <author>
-            <name>the-mitr</name>
-            <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Netlify功能進行基於電子郵件的評論審核]]></title>
-        <id>https://news.ycombinator.com/item?id=30762859</id>
-        <link href="https://news.ycombinator.com/item?id=30762859"/>
-        <updated>2022-03-22T04:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Email-based comment moderation with Netlify Functions]]></summary>
-        <author>
-            <name>jaza</name>
-            <uri>https://news.ycombinator.com/user?id=jaza</uri>
         </author>
     </entry>
 </feed>
