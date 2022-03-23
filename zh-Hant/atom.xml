@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T05:36:52.303Z</updated>
+    <updated>2022-03-23T05:51:14.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像女孩一樣飛翔"。向女飛行員致敬的士氣徽章背後的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30775290</id>
+        <link href="https://news.ycombinator.com/item?id=30775290"/>
+        <updated>2022-03-23T05:32:04.000Z</updated>
+        <summary type="html"><![CDATA[‘Fly Like a Girl’: The Story Behind a Morale Patch That Honors Female Aviators]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紐約警察局被指控非法獲取數千人的DNA樣本]]></title>
         <id>https://news.ycombinator.com/item?id=30775270</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cdykema</name>
             <uri>https://news.ycombinator.com/user?id=cdykema</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘆葦索洛蒙用於軟件突襲]]></title>
-        <id>https://news.ycombinator.com/item?id=30760299</id>
-        <link href="https://news.ycombinator.com/item?id=30760299"/>
-        <updated>2022-03-21T22:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Reed-Solomon for Software Raid]]></summary>
-        <author>
-            <name>corsix</name>
-            <uri>https://news.ycombinator.com/user?id=corsix</uri>
         </author>
     </entry>
 </feed>
