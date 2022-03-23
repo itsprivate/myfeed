@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T05:30:26.769Z</updated>
+    <updated>2022-03-23T05:36:52.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约警察局被指控非法获取数千人的DNA样本]]></title>
+        <id>https://news.ycombinator.com/item?id=30775270</id>
+        <link href="https://news.ycombinator.com/item?id=30775270"/>
+        <updated>2022-03-23T05:28:17.000Z</updated>
+        <summary type="html"><![CDATA[NYPD accused of illegally obtaining DNA samples from thousands of people]]></summary>
+        <author>
+            <name>fuzzfactor</name>
+            <uri>https://news.ycombinator.com/user?id=fuzzfactor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta对2022年1月妥协事件的调查]]></title>
         <id>https://news.ycombinator.com/item?id=30775180</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>corsix</name>
             <uri>https://news.ycombinator.com/user?id=corsix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac工作室。这些不是固态硬盘。那些是原始存储模块]]></title>
-        <id>https://news.ycombinator.com/item?id=30761048</id>
-        <link href="https://news.ycombinator.com/item?id=30761048"/>
-        <updated>2022-03-21T23:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Mac Studio: Those aren't SSDs. Those are raw storage modules]]></summary>
-        <author>
-            <name>akeck</name>
-            <uri>https://news.ycombinator.com/user?id=akeck</uri>
         </author>
     </entry>
 </feed>
