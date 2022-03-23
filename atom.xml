@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T13:25:13.150Z</updated>
+    <updated>2022-03-23T13:45:33.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科学的Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=30778275</id>
+        <link href="https://news.ycombinator.com/item?id=30778275"/>
+        <updated>2022-03-23T13:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Linux]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果收购英国开放银行初创公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30778240</id>
+        <link href="https://news.ycombinator.com/item?id=30778240"/>
+        <updated>2022-03-23T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple acquires UK open banking startup]]></summary>
+        <author>
+            <name>rmesters</name>
+            <uri>https://news.ycombinator.com/user?id=rmesters</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软确认Lapsus$黑客通过 "有限的 "访问窃取了源代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30778197</id>
+        <link href="https://news.ycombinator.com/item?id=30778197"/>
+        <updated>2022-03-23T13:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft confirms Lapsus$ hackers stole source code via ‘limited’ access]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术联盟称其更接近于消灭密码]]></title>
+        <id>https://news.ycombinator.com/item?id=30778138</id>
+        <link href="https://news.ycombinator.com/item?id=30778138"/>
+        <updated>2022-03-23T13:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Technology Alliance Says It Is Closer to Killing Off Passwords]]></summary>
+        <author>
+            <name>tharne</name>
+            <uri>https://news.ycombinator.com/user?id=tharne</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C：每个人都喜欢的编程语言不是一种编程语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30778102</id>
+        <link href="https://news.ycombinator.com/item?id=30778102"/>
+        <updated>2022-03-23T13:13:06.000Z</updated>
+        <summary type="html"><![CDATA[C: Everyone's favourite programming language isn't a programming language]]></summary>
+        <author>
+            <name>Katydid</name>
+            <uri>https://news.ycombinator.com/user?id=Katydid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们做了一个开源的个性化引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30778100</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>OJFord</name>
             <uri>https://news.ycombinator.com/user?id=OJFord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年没有OpenTTD安卓版更新，我被征召到乌克兰军队了]]></title>
-        <id>https://news.ycombinator.com/item?id=30764347</id>
-        <link href="https://news.ycombinator.com/item?id=30764347"/>
-        <updated>2022-03-22T09:57:13.000Z</updated>
-        <summary type="html"><![CDATA[No OpenTTD Android update this year, I was conscripted into Ukrainian army]]></summary>
-        <author>
-            <name>jandeboevrie</name>
-            <uri>https://news.ycombinator.com/user?id=jandeboevrie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读CSS层叠式图层]]></title>
-        <id>https://news.ycombinator.com/item?id=30764293</id>
-        <link href="https://news.ycombinator.com/item?id=30764293"/>
-        <updated>2022-03-22T09:47:40.000Z</updated>
-        <summary type="html"><![CDATA[CSS Cascade Layers Explained]]></summary>
-        <author>
-            <name>MelissaRBL</name>
-            <uri>https://news.ycombinator.com/user?id=MelissaRBL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，人们认为数据分析师和会计师很无聊]]></title>
-        <id>https://news.ycombinator.com/item?id=30764152</id>
-        <link href="https://news.ycombinator.com/item?id=30764152"/>
-        <updated>2022-03-22T09:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Study show that people think that data analysts and accountants are boring]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟哥白尼海洋服务 我的海洋服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30764103</id>
-        <link href="https://news.ycombinator.com/item?id=30764103"/>
-        <updated>2022-03-22T09:13:57.000Z</updated>
-        <summary type="html"><![CDATA[EU Copernicus Marine Service My Ocean Service]]></summary>
-        <author>
-            <name>VariableStar</name>
-            <uri>https://news.ycombinator.com/user?id=VariableStar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诉讼促使Grubhub增加对隐藏费用的披露]]></title>
-        <id>https://news.ycombinator.com/item?id=30763600</id>
-        <link href="https://news.ycombinator.com/item?id=30763600"/>
-        <updated>2022-03-22T07:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit prompts Grubhub to add disclosures about hidden fees]]></summary>
-        <author>
-            <name>shmde</name>
-            <uri>https://news.ycombinator.com/user?id=shmde</uri>
         </author>
     </entry>
 </feed>
