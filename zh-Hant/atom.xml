@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T04:40:43.464Z</updated>
+    <updated>2022-03-23T04:58:00.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科拉多-伯姆的瑰寶]]></title>
+        <id>https://news.ycombinator.com/item?id=30774888</id>
+        <link href="https://news.ycombinator.com/item?id=30774888"/>
+        <updated>2022-03-23T04:17:23.000Z</updated>
+        <summary type="html"><![CDATA[Gems of Corrado Böhm]]></summary>
+        <author>
+            <name>simplicialset</name>
+            <uri>https://news.ycombinator.com/user?id=simplicialset</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由於我對Emacs的貢獻，我獲得了FSF頒發的獎項]]></title>
+        <id>https://news.ycombinator.com/item?id=30774724</id>
+        <link href="https://news.ycombinator.com/item?id=30774724"/>
+        <updated>2022-03-23T03:50:53.000Z</updated>
+        <summary type="html"><![CDATA[I won an award from the FSF for my contributions to Emacs]]></summary>
+        <author>
+            <name>codingquark</name>
+            <uri>https://news.ycombinator.com/user?id=codingquark</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭剛剛繳獲了俄羅斯能力最強的電子戰系統的1部分]]></title>
         <id>https://news.ycombinator.com/item?id=30774848</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Victerius</name>
             <uri>https://news.ycombinator.com/user?id=Victerius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fathom：來自未來的播客播放器]]></title>
-        <id>https://news.ycombinator.com/item?id=30760659</id>
-        <link href="https://news.ycombinator.com/item?id=30760659"/>
-        <updated>2022-03-21T22:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Fathom: The Podcast Player from the Future]]></summary>
-        <author>
-            <name>fpsantora</name>
-            <uri>https://news.ycombinator.com/user?id=fpsantora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過容器雜誌的Kubernetes可靠性的最佳實踐]]></title>
-        <id>https://news.ycombinator.com/item?id=30760446</id>
-        <link href="https://news.ycombinator.com/item?id=30760446"/>
-        <updated>2022-03-21T22:18:39.000Z</updated>
-        <summary type="html"><![CDATA[Best Practices for Kubernetes Reliability via Container Journal]]></summary>
-        <author>
-            <name>JordanTen</name>
-            <uri>https://news.ycombinator.com/user?id=JordanTen</uri>
         </author>
     </entry>
 </feed>
