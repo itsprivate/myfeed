@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T09:51:54.311Z</updated>
+    <updated>2022-03-23T10:16:10.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太網從施樂帕克公司興起]]></title>
+        <id>https://news.ycombinator.com/item?id=30776803</id>
+        <link href="https://news.ycombinator.com/item?id=30776803"/>
+        <updated>2022-03-23T09:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Ethernet's Emergence from Xerox PARC]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS無法從奧地利註冊域名（.at）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30776774</id>
+        <link href="https://news.ycombinator.com/item?id=30776774"/>
+        <updated>2022-03-23T09:53:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS is unable to register domains from Austria (.at)]]></summary>
+        <author>
+            <name>renbef</name>
+            <uri>https://news.ycombinator.com/user?id=renbef</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子機器學習。從零到英雄]]></title>
+        <id>https://news.ycombinator.com/item?id=30776735</id>
+        <link href="https://news.ycombinator.com/item?id=30776735"/>
+        <updated>2022-03-23T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Machine Learning: From Zero to Hero]]></summary>
+        <author>
+            <name>thegurus</name>
+            <uri>https://news.ycombinator.com/user?id=thegurus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抗議的機場工作人員稱前往烏克蘭的援助航班裝載有武器]]></title>
+        <id>https://news.ycombinator.com/item?id=30776702</id>
+        <link href="https://news.ycombinator.com/item?id=30776702"/>
+        <updated>2022-03-23T09:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Aid flights for Ukraine loaded with weapons, protesting airport workers claim]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐現在只能在Ubuntu上通過snap使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30776698</id>
+        <link href="https://news.ycombinator.com/item?id=30776698"/>
+        <updated>2022-03-23T09:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Firefox now only available via snap on Ubuntu]]></summary>
+        <author>
+            <name>sm4rk0</name>
+            <uri>https://news.ycombinator.com/user?id=sm4rk0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JDK 18 G1/並行/串行 GC 變更]]></title>
+        <id>https://news.ycombinator.com/item?id=30776427</id>
+        <link href="https://news.ycombinator.com/item?id=30776427"/>
+        <updated>2022-03-23T08:55:14.000Z</updated>
+        <summary type="html"><![CDATA[JDK 18 G1/Parallel/Serial GC Changes]]></summary>
+        <author>
+            <name>krnaveen14</name>
+            <uri>https://news.ycombinator.com/user?id=krnaveen14</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個免費的Chrome瀏覽器插件可以讓你更好地開會]]></title>
         <id>https://news.ycombinator.com/item?id=30776726</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>anchpop</name>
             <uri>https://news.ycombinator.com/user?id=anchpop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南亞變性人群體的秘密語言]]></title>
-        <id>https://news.ycombinator.com/item?id=30762381</id>
-        <link href="https://news.ycombinator.com/item?id=30762381"/>
-        <updated>2022-03-22T03:19:56.000Z</updated>
-        <summary type="html"><![CDATA[The secret language of South Asia’s transgender community]]></summary>
-        <author>
-            <name>Ice_cream_suit</name>
-            <uri>https://news.ycombinator.com/user?id=Ice_cream_suit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用Rust構建一個大項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30762333</id>
-        <link href="https://news.ycombinator.com/item?id=30762333"/>
-        <updated>2022-03-22T03:10:50.000Z</updated>
-        <summary type="html"><![CDATA[How to structure a big project in Rust]]></summary>
-        <author>
-            <name>ahmadrosid</name>
-            <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首款由樹莓派提供動力的超小尺寸堅固耐用的國防、航天產品]]></title>
-        <id>https://news.ycombinator.com/item?id=30762316</id>
-        <link href="https://news.ycombinator.com/item?id=30762316"/>
-        <updated>2022-03-22T03:07:30.000Z</updated>
-        <summary type="html"><![CDATA[First Raspberry Pi Powered Ultra-Small Form Factor Rugged for Defense, Aerospace]]></summary>
-        <author>
-            <name>harambae</name>
-            <uri>https://news.ycombinator.com/user?id=harambae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最沉悶的編輯部推出恐慌症]]></title>
-        <id>https://news.ycombinator.com/item?id=30762311</id>
-        <link href="https://news.ycombinator.com/item?id=30762311"/>
-        <updated>2022-03-22T03:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Dullest Editorial Launches Panic]]></summary>
-        <author>
-            <name>andrenth</name>
-            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音737飛機在墜毀前的瞬間以350英里/小時的速度急劇下降]]></title>
-        <id>https://news.ycombinator.com/item?id=30762279</id>
-        <link href="https://news.ycombinator.com/item?id=30762279"/>
-        <updated>2022-03-22T02:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Boeing 737 Was Plunging at 350MPH in Moments Before Crash]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[識別國有互聯網運營商的自治系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30762234</id>
-        <link href="https://news.ycombinator.com/item?id=30762234"/>
-        <updated>2022-03-22T02:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Identifying Autonomous Systems of State-Owned Internet-Operators]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
