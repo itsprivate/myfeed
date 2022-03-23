@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-23T03:57:40.020Z</updated>
+    <updated>2022-03-23T04:13:07.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[温彻斯特神秘屋的密码谜题]]></title>
+        <id>https://news.ycombinator.com/item?id=30774789</id>
+        <link href="https://news.ycombinator.com/item?id=30774789"/>
+        <updated>2022-03-23T03:59:56.000Z</updated>
+        <summary type="html"><![CDATA[The Cipher Puzzles of the Winchester Mystery House]]></summary>
+        <author>
+            <name>fintler</name>
+            <uri>https://news.ycombinator.com/user?id=fintler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保持家的整洁]]></title>
         <id>https://news.ycombinator.com/item?id=30774619</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>increscent</name>
             <uri>https://news.ycombinator.com/user?id=increscent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挖掘加密货币的快速方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30760821</id>
-        <link href="https://news.ycombinator.com/item?id=30760821"/>
-        <updated>2022-03-21T22:55:23.000Z</updated>
-        <summary type="html"><![CDATA[A quick way into mining crypto]]></summary>
-        <author>
-            <name>auxtmp</name>
-            <uri>https://news.ycombinator.com/user?id=auxtmp</uri>
         </author>
     </entry>
 </feed>
