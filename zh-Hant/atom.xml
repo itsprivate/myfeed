@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T07:31:25.404Z</updated>
+    <updated>2022-03-24T07:38:32.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不情願地停止使用火狐瀏覽器]]></title>
+        <id>https://news.ycombinator.com/item?id=30787151</id>
+        <link href="https://news.ycombinator.com/item?id=30787151"/>
+        <updated>2022-03-24T07:33:59.000Z</updated>
+        <summary type="html"><![CDATA[I unwillingly stopped using Firefox]]></summary>
+        <author>
+            <name>mudroljub</name>
+            <uri>https://news.ycombinator.com/user?id=mudroljub</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長棍麵包大小的飛行炸彈即將在烏克蘭投入使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30787098</id>
+        <link href="https://news.ycombinator.com/item?id=30787098"/>
+        <updated>2022-03-24T07:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Baguette-sized flying bombs are about to enter service in Ukraine]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[螺旋狀頻譜圖和音調圖解]]></title>
+        <id>https://news.ycombinator.com/item?id=30787074</id>
+        <link href="https://news.ycombinator.com/item?id=30787074"/>
+        <updated>2022-03-24T07:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Spiral Spectrograms and Intonation Illustrations]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全理事會未能通過要求保護烏克蘭平民的案文]]></title>
         <id>https://news.ycombinator.com/item?id=30787081</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的後門以獨特的攻擊鏈針對法國實體機構]]></title>
-        <id>https://news.ycombinator.com/item?id=30773283</id>
-        <link href="https://news.ycombinator.com/item?id=30773283"/>
-        <updated>2022-03-23T00:12:59.000Z</updated>
-        <summary type="html"><![CDATA[New Backdoor Targets French Entities with Unique Attack Chain]]></summary>
-        <author>
-            <name>matbilodeau</name>
-            <uri>https://news.ycombinator.com/user?id=matbilodeau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子幾十年來一直冒用另一個身份，直到被打了一針科維德才暴露了身份]]></title>
-        <id>https://news.ycombinator.com/item?id=30773275</id>
-        <link href="https://news.ycombinator.com/item?id=30773275"/>
-        <updated>2022-03-23T00:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Man assumed another identity for decades until getting a Covid shot outed him]]></summary>
-        <author>
-            <name>gscott</name>
-            <uri>https://news.ycombinator.com/user?id=gscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼普京不會在烏克蘭使用核彈 - 傳遞信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30773245</id>
-        <link href="https://news.ycombinator.com/item?id=30773245"/>
-        <updated>2022-03-23T00:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Why Putin won’t use nukes in Ukraine – Pass it on]]></summary>
-        <author>
-            <name>cyunker</name>
-            <uri>https://news.ycombinator.com/user?id=cyunker</uri>
         </author>
     </entry>
 </feed>
