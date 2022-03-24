@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T02:20:08.991Z</updated>
+    <updated>2022-03-24T03:03:59.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[功能性隊列]]></title>
+        <id>https://news.ycombinator.com/item?id=30785803</id>
+        <link href="https://news.ycombinator.com/item?id=30785803"/>
+        <updated>2022-03-24T02:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Functional Queues]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在墜機地點發現了一個黑匣子，被轉移到了解碼的地方。]]></title>
+        <id>https://news.ycombinator.com/item?id=30785768</id>
+        <link href="https://news.ycombinator.com/item?id=30785768"/>
+        <updated>2022-03-24T02:12:58.000Z</updated>
+        <summary type="html"><![CDATA[One black box found at crash site, transferred for decoding]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰創造了&lt;&gt; 符號？]]></title>
+        <id>https://news.ycombinator.com/item?id=30785755</id>
+        <link href="https://news.ycombinator.com/item?id=30785755"/>
+        <updated>2022-03-24T02:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Who Created the &lt; & &gt; Symbols?]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空中客車公司重新設計A350駕駛艙，因為灑出的飲料關閉了發動機]]></title>
+        <id>https://news.ycombinator.com/item?id=30785749</id>
+        <link href="https://news.ycombinator.com/item?id=30785749"/>
+        <updated>2022-03-24T02:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Airbus Redesigns A350 Cockpit After Spilled Drinks Shut Down Engines]]></summary>
+        <author>
+            <name>gok</name>
+            <uri>https://news.ycombinator.com/user?id=gok</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高選擇性蝕刻技術為下一代芯片服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30785737</id>
+        <link href="https://news.ycombinator.com/item?id=30785737"/>
+        <updated>2022-03-24T02:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Highly Selective Etch Rolls Out for Next-Gen Chips]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18中的泛型介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=30785668</id>
+        <link href="https://news.ycombinator.com/item?id=30785668"/>
+        <updated>2022-03-24T01:54:18.000Z</updated>
+        <summary type="html"><![CDATA[An Introduction to Generics in Go 1.18]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛津大學研究人員用一個簡單的數學技巧將人工智能訓練的速度提高了2倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30785605</id>
+        <link href="https://news.ycombinator.com/item?id=30785605"/>
+        <updated>2022-03-24T01:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Oxford Researchers Train AI Two Times Faster with a Simple Mathematical Trick]]></summary>
+        <author>
+            <name>leirbagarc</name>
+            <uri>https://news.ycombinator.com/user?id=leirbagarc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼一些比特幣開發者說激光可以減少採礦的能源成本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30785371</id>
+        <link href="https://news.ycombinator.com/item?id=30785371"/>
+        <updated>2022-03-24T00:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Why Some Bitcoin Devs Say Lasers Can Cut Mining’s Energy Costs]]></summary>
+        <author>
+            <name>MBCook</name>
+            <uri>https://news.ycombinator.com/user?id=MBCook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動暫停（帶恢復和媒體控制）。]]></title>
         <id>https://news.ycombinator.com/item?id=30785712</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>jaza</name>
             <uri>https://news.ycombinator.com/user?id=jaza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ht3搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30771335</id>
-        <link href="https://news.ycombinator.com/item?id=30771335"/>
-        <updated>2022-03-22T20:48:34.000Z</updated>
-        <summary type="html"><![CDATA[ht3 Search]]></summary>
-        <author>
-            <name>ajani</name>
-            <uri>https://news.ycombinator.com/user?id=ajani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里姆林宮呼籲國際棋聯推翻謝爾蓋-卡爾亞金的世界象棋禁令]]></title>
-        <id>https://news.ycombinator.com/item?id=30771951</id>
-        <link href="https://news.ycombinator.com/item?id=30771951"/>
-        <updated>2022-03-22T21:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Kremlin calls on FIDE to overturn Sergey Karjakin's worldwide chess ban]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小到可以放在手提行李中的摺疊式自行車]]></title>
-        <id>https://news.ycombinator.com/item?id=30771928</id>
-        <link href="https://news.ycombinator.com/item?id=30771928"/>
-        <updated>2022-03-22T21:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Folding bicycle small enough to fit in hand luggage]]></summary>
-        <author>
-            <name>bwindels</name>
-            <uri>https://news.ycombinator.com/user?id=bwindels</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抹去俄羅斯計算機的節點-ipc的去模糊化的抗議軟件代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30771848</id>
-        <link href="https://news.ycombinator.com/item?id=30771848"/>
-        <updated>2022-03-22T21:32:40.000Z</updated>
-        <summary type="html"><![CDATA[The De-obfuscated Protestware code from node-ipc that wiped Russian computers]]></summary>
-        <author>
-            <name>freeqaz</name>
-            <uri>https://news.ycombinator.com/user?id=freeqaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些地熱廠可以解決美國的鋰供應緊張問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30771838</id>
-        <link href="https://news.ycombinator.com/item?id=30771838"/>
-        <updated>2022-03-22T21:32:10.000Z</updated>
-        <summary type="html"><![CDATA[A few geothermal plants could solve America's lithium supply crunch]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅潘達的第一印象]]></title>
-        <id>https://news.ycombinator.com/item?id=30771789</id>
-        <link href="https://news.ycombinator.com/item?id=30771789"/>
-        <updated>2022-03-22T21:27:04.000Z</updated>
-        <summary type="html"><![CDATA[First Impressions of Redpanda]]></summary>
-        <author>
-            <name>northstar702</name>
-            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30771739</id>
-        <link href="https://news.ycombinator.com/item?id=30771739"/>
-        <updated>2022-03-22T21:22:31.000Z</updated>
-        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
-        <author>
-            <name>nyuszika7h</name>
-            <uri>https://news.ycombinator.com/user?id=nyuszika7h</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瘋狂三月，但對最被誤解的法律概念而言]]></title>
-        <id>https://news.ycombinator.com/item?id=30770736</id>
-        <link href="https://news.ycombinator.com/item?id=30770736"/>
-        <updated>2022-03-22T19:58:55.000Z</updated>
-        <summary type="html"><![CDATA[March Madness, but for the Most Misunderstood Legal Concept]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
         </author>
     </entry>
 </feed>
