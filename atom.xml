@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T10:47:02.038Z</updated>
+    <updated>2022-03-24T10:52:37.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更大的15英寸MacBook Air预计在2023年上市 - MacRumors]]></title>
+        <id>https://news.ycombinator.com/item?id=30788009</id>
+        <link href="https://news.ycombinator.com/item?id=30788009"/>
+        <updated>2022-03-24T10:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Larger 15-Inch MacBook Air Expected in 2023 – MacRumors]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[针对SQL/NoSQL数据库的实用工具和程序清单]]></title>
         <id>https://news.ycombinator.com/item?id=30787992</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>colinprince</name>
             <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1880-2021年间全球月度温度异常的可视化分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30775057</id>
-        <link href="https://news.ycombinator.com/item?id=30775057"/>
-        <updated>2022-03-23T04:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Visualization of monthly global temperature anomalies between 1880-2021]]></summary>
-        <author>
-            <name>gslin</name>
-            <uri>https://news.ycombinator.com/user?id=gslin</uri>
         </author>
     </entry>
 </feed>
