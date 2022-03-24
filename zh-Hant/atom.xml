@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T21:40:01.804Z</updated>
+    <updated>2022-03-24T21:52:15.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果是一家銀行]]></title>
+        <id>https://news.ycombinator.com/item?id=30795537</id>
+        <link href="https://news.ycombinator.com/item?id=30795537"/>
+        <updated>2022-03-24T21:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Apple as a Bank]]></summary>
+        <author>
+            <name>somid3</name>
+            <uri>https://news.ycombinator.com/user?id=somid3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac StudiO's早餐麥片]]></title>
+        <id>https://news.ycombinator.com/item?id=30795508</id>
+        <link href="https://news.ycombinator.com/item?id=30795508"/>
+        <updated>2022-03-24T21:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Mac StudiO's Breakfast Cereal]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pix-2203.07: 支持DirectStorage]]></title>
+        <id>https://news.ycombinator.com/item?id=30795461</id>
+        <link href="https://news.ycombinator.com/item?id=30795461"/>
+        <updated>2022-03-24T21:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Pix-2203.07: Support for DirectStorage]]></summary>
+        <author>
+            <name>petermcalister</name>
+            <uri>https://news.ycombinator.com/user?id=petermcalister</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hydra（YC W22）發佈Postgres數據倉庫]]></title>
         <id>https://news.ycombinator.com/item?id=30795589</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mapehe</name>
             <uri>https://news.ycombinator.com/user?id=mapehe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mogenius - 開發人員在雲中運行任何應用程序的最簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30782501</id>
-        <link href="https://news.ycombinator.com/item?id=30782501"/>
-        <updated>2022-03-23T19:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mogenius – The easiest way for devs to run any application in the cloud]]></summary>
-        <author>
-            <name>JanLepsky</name>
-            <uri>https://news.ycombinator.com/user?id=JanLepsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赫爾維蒂卡的15年]]></title>
-        <id>https://news.ycombinator.com/item?id=30782483</id>
-        <link href="https://news.ycombinator.com/item?id=30782483"/>
-        <updated>2022-03-23T19:46:14.000Z</updated>
-        <summary type="html"><![CDATA[15 Years of Helvetica]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬德琳-奧爾布賴特去世了]]></title>
-        <id>https://news.ycombinator.com/item?id=30782455</id>
-        <link href="https://news.ycombinator.com/item?id=30782455"/>
-        <updated>2022-03-23T19:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Madeleine Albright Has Died]]></summary>
-        <author>
-            <name>t0bia_s</name>
-            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
         </author>
     </entry>
 </feed>
