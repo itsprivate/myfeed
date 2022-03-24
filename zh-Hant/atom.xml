@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T10:35:56.137Z</updated>
+    <updated>2022-03-24T10:47:02.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[針對SQL/NoSQL數據庫的實用工具和程序清單]]></title>
+        <id>https://news.ycombinator.com/item?id=30787992</id>
+        <link href="https://news.ycombinator.com/item?id=30787992"/>
+        <updated>2022-03-24T10:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Useful Tools and Programs List for SQL/NoSQL Databases]]></summary>
+        <author>
+            <name>jamie-vesoft</name>
+            <uri>https://news.ycombinator.com/user?id=jamie-vesoft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[證明計算機不能做所有事情（停頓問題） [視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30787906</id>
+        <link href="https://news.ycombinator.com/item?id=30787906"/>
+        <updated>2022-03-24T10:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Proof That Computers Can't Do Everything (The Halting Problem) [video]]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在AWS美國東部總是陽光燦爛-1：該團伙的業務連續性]]></title>
+        <id>https://news.ycombinator.com/item?id=30787659</id>
+        <link href="https://news.ycombinator.com/item?id=30787659"/>
+        <updated>2022-03-24T09:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Its Always Sunny in AWS us-east-1: The gang does business continuity]]></summary>
+        <author>
+            <name>korostelevm</name>
+            <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭拔掉俄羅斯的插頭，加入歐洲的電網]]></title>
         <id>https://news.ycombinator.com/item?id=30788000</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>gslin</name>
             <uri>https://news.ycombinator.com/user?id=gslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UserLAnd - 在Android上輕鬆運行Linux發行版和應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30774930</id>
-        <link href="https://news.ycombinator.com/item?id=30774930"/>
-        <updated>2022-03-23T04:24:06.000Z</updated>
-        <summary type="html"><![CDATA[UserLAnd – Run Linux Distros and Apps on Android Easily]]></summary>
-        <author>
-            <name>nwotnagrom</name>
-            <uri>https://news.ycombinator.com/user?id=nwotnagrom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷戰2.0？對俄羅斯制裁的全球經濟影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30774809</id>
-        <link href="https://news.ycombinator.com/item?id=30774809"/>
-        <updated>2022-03-23T04:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Cold War 2.0? The Global Economic Impact of Sanctions Against Russia]]></summary>
-        <author>
-            <name>bardc</name>
-            <uri>https://news.ycombinator.com/user?id=bardc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科拉多-伯姆的瑰寶]]></title>
-        <id>https://news.ycombinator.com/item?id=30774888</id>
-        <link href="https://news.ycombinator.com/item?id=30774888"/>
-        <updated>2022-03-23T04:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Gems of Corrado Böhm]]></summary>
-        <author>
-            <name>simplicialset</name>
-            <uri>https://news.ycombinator.com/user?id=simplicialset</uri>
         </author>
     </entry>
 </feed>
