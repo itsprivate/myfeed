@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T14:54:04.741Z</updated>
+    <updated>2022-03-24T15:25:04.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一場神秘的衛星黑客攻擊的受害者遠遠超過了烏克蘭]]></title>
+        <id>https://news.ycombinator.com/item?id=30790645</id>
+        <link href="https://news.ycombinator.com/item?id=30790645"/>
+        <updated>2022-03-24T14:48:49.000Z</updated>
+        <summary type="html"><![CDATA[A mysterious satellite hack has victims far beyond Ukraine]]></summary>
+        <author>
+            <name>FridayoLeary</name>
+            <uri>https://news.ycombinator.com/user?id=FridayoLeary</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是無頭BI？]]></title>
+        <id>https://news.ycombinator.com/item?id=30790597</id>
+        <link href="https://news.ycombinator.com/item?id=30790597"/>
+        <updated>2022-03-24T14:46:31.000Z</updated>
+        <summary type="html"><![CDATA[What Is Headless BI?]]></summary>
+        <author>
+            <name>igorlukanin</name>
+            <uri>https://news.ycombinator.com/user?id=igorlukanin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub事件: 2022/03/24]]></title>
+        <id>https://news.ycombinator.com/item?id=30790593</id>
+        <link href="https://news.ycombinator.com/item?id=30790593"/>
+        <updated>2022-03-24T14:46:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub incident: 2022/03/24]]></summary>
+        <author>
+            <name>rsstack</name>
+            <uri>https://news.ycombinator.com/user?id=rsstack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play被剝奪了電影和電視節目的銷售權]]></title>
+        <id>https://news.ycombinator.com/item?id=30790546</id>
+        <link href="https://news.ycombinator.com/item?id=30790546"/>
+        <updated>2022-03-24T14:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Google Play is stripped of movie and TV show sales]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為喜歡使用Amiga API創建應用程序的應用程序開發人員提供AxRT]]></title>
         <id>https://news.ycombinator.com/item?id=30790409</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>dhruv_tek</name>
             <uri>https://news.ycombinator.com/user?id=dhruv_tek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理學家闡明瞭對稱性和莫特物理學之間的聯繫]]></title>
-        <id>https://news.ycombinator.com/item?id=30777399</id>
-        <link href="https://news.ycombinator.com/item?id=30777399"/>
-        <updated>2022-03-23T11:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Physicists elucidate connection between symmetry and Mott physics]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用程序將散戶投資者變成價值投資者]]></title>
-        <id>https://news.ycombinator.com/item?id=30777620</id>
-        <link href="https://news.ycombinator.com/item?id=30777620"/>
-        <updated>2022-03-23T12:12:56.000Z</updated>
-        <summary type="html"><![CDATA[App turning retail investors into value investors]]></summary>
-        <author>
-            <name>saule_ke</name>
-            <uri>https://news.ycombinator.com/user?id=saule_ke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完整的《塞爾達：時之笛》PC移植版現已完成並可在網上查閱]]></title>
-        <id>https://news.ycombinator.com/item?id=30777603</id>
-        <link href="https://news.ycombinator.com/item?id=30777603"/>
-        <updated>2022-03-23T12:09:44.000Z</updated>
-        <summary type="html"><![CDATA[A full Zelda: Ocarina of Time PC port is now complete and available online]]></summary>
-        <author>
-            <name>jayflux</name>
-            <uri>https://news.ycombinator.com/user?id=jayflux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM / Clang 14.0準備與Armv9、Bolt、更多C++20和C23一起發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30777585</id>
-        <link href="https://news.ycombinator.com/item?id=30777585"/>
-        <updated>2022-03-23T12:06:06.000Z</updated>
-        <summary type="html"><![CDATA[LLVM / Clang 14.0 Prepared for Release with with Armv9, Bolt, More C++20 and C23]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
