@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T23:33:55.187Z</updated>
+    <updated>2022-03-24T23:41:34.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教授說，準備好迎接實時適應你的防禦的武器化人工智能吧]]></title>
+        <id>https://news.ycombinator.com/item?id=30796811</id>
+        <link href="https://news.ycombinator.com/item?id=30796811"/>
+        <updated>2022-03-24T23:26:51.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for weaponized AI that adapts in real-time to your defenses, says prof]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯合國大學實驗室的險情說明了冠狀病毒的事故風險 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30795754</id>
+        <link href="https://news.ycombinator.com/item?id=30795754"/>
+        <updated>2022-03-24T21:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Near Misses at UNC's Lab Illustrate Risk of Accidents with Coronaviruses (2020)]]></summary>
+        <author>
+            <name>LiminalRealm</name>
+            <uri>https://news.ycombinator.com/user?id=LiminalRealm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno為Rust調用提供了顯著的更快的性能]]></title>
         <id>https://news.ycombinator.com/item?id=30796750</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>testmasterflex</name>
             <uri>https://news.ycombinator.com/user?id=testmasterflex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷諾暫停莫斯科工廠，調整2022年的發展前景]]></title>
-        <id>https://news.ycombinator.com/item?id=30783309</id>
-        <link href="https://news.ycombinator.com/item?id=30783309"/>
-        <updated>2022-03-23T21:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Renault suspends Moscow plant, adjusts 2022 outlook]]></summary>
-        <author>
-            <name>zqna</name>
-            <uri>https://news.ycombinator.com/user?id=zqna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國證券交易委員會的文件顯示了勒索軟件攻擊的真實成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30783197</id>
-        <link href="https://news.ycombinator.com/item?id=30783197"/>
-        <updated>2022-03-23T20:52:48.000Z</updated>
-        <summary type="html"><![CDATA[SEC Filings Show the True Cost of Ransomware Attacks]]></summary>
-        <author>
-            <name>Ranns</name>
-            <uri>https://news.ycombinator.com/user?id=Ranns</uri>
         </author>
     </entry>
 </feed>
