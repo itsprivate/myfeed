@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T07:38:32.001Z</updated>
+    <updated>2022-03-24T07:52:01.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[登上Hacker News的榜首=3萬名訪客]]></title>
+        <id>https://news.ycombinator.com/item?id=30787135</id>
+        <link href="https://news.ycombinator.com/item?id=30787135"/>
+        <updated>2022-03-24T07:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Hitting the top of Hacker News = 30k Visitors]]></summary>
+        <author>
+            <name>maguay</name>
+            <uri>https://news.ycombinator.com/user?id=maguay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭編碼員在工作和網絡戰之間分身乏術]]></title>
+        <id>https://news.ycombinator.com/item?id=30787133</id>
+        <link href="https://news.ycombinator.com/item?id=30787133"/>
+        <updated>2022-03-24T07:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian coders are splitting their time between work and cyber warfare]]></summary>
+        <author>
+            <name>crate_barre</name>
+            <uri>https://news.ycombinator.com/user?id=crate_barre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[認知建模。從GOMS到深度強化學習（4月26-27日在線）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30786897</id>
+        <link href="https://news.ycombinator.com/item?id=30786897"/>
+        <updated>2022-03-24T06:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Cognitive Modeling: From GOMS to Deep Reinforcement Learning(Online April 26-27)]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[門的問題 (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30786802</id>
+        <link href="https://news.ycombinator.com/item?id=30786802"/>
+        <updated>2022-03-24T06:14:47.000Z</updated>
+        <summary type="html"><![CDATA[The Door Problem (2014)]]></summary>
+        <author>
+            <name>kergonath</name>
+            <uri>https://news.ycombinator.com/user?id=kergonath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不情願地停止使用火狐瀏覽器]]></title>
         <id>https://news.ycombinator.com/item?id=30787151</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭戰爭場景的三維重建]]></title>
-        <id>https://news.ycombinator.com/item?id=30772804</id>
-        <link href="https://news.ycombinator.com/item?id=30772804"/>
-        <updated>2022-03-22T23:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 3D Reconstructions of scenes from the war in Ukraine]]></summary>
-        <author>
-            <name>thot_experiment</name>
-            <uri>https://news.ycombinator.com/user?id=thot_experiment</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能研究居住計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30773415</id>
-        <link href="https://news.ycombinator.com/item?id=30773415"/>
-        <updated>2022-03-23T00:32:35.000Z</updated>
-        <summary type="html"><![CDATA[The AI Research Residency Program]]></summary>
-        <author>
-            <name>simplicialset</name>
-            <uri>https://news.ycombinator.com/user?id=simplicialset</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在SAR圖像上用計算機視覺加速烏克蘭情報分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30773398</id>
-        <link href="https://news.ycombinator.com/item?id=30773398"/>
-        <updated>2022-03-23T00:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Accelerating Ukraine Intelligence Analysis with Computer Vision on SAR Imagery]]></summary>
-        <author>
-            <name>ritwikgupta</name>
-            <uri>https://news.ycombinator.com/user?id=ritwikgupta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天然氣價格推動歐洲的技工罷工]]></title>
-        <id>https://news.ycombinator.com/item?id=30773335</id>
-        <link href="https://news.ycombinator.com/item?id=30773335"/>
-        <updated>2022-03-23T00:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Gas Prices Push Europe’s Gig Workers to Strike]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
