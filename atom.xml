@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T22:34:38.822Z</updated>
+    <updated>2022-03-24T22:43:35.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux上的苹果M1。基准测试优于预期]]></title>
+        <id>https://news.ycombinator.com/item?id=30796273</id>
+        <link href="https://news.ycombinator.com/item?id=30796273"/>
+        <updated>2022-03-24T22:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Apple M1 on Linux: Benchmarks better than expected]]></summary>
+        <author>
+            <name>geerlingguy</name>
+            <uri>https://news.ycombinator.com/user?id=geerlingguy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 被遗忘的物理学]]></title>
+        <id>https://news.ycombinator.com/item?id=30796189</id>
+        <link href="https://news.ycombinator.com/item?id=30796189"/>
+        <updated>2022-03-24T22:29:29.000Z</updated>
+        <summary type="html"><![CDATA[ Forgotten Physics]]></summary>
+        <author>
+            <name>rpz</name>
+            <uri>https://news.ycombinator.com/user?id=rpz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIF已死。GIF万岁]]></title>
+        <id>https://news.ycombinator.com/item?id=30796051</id>
+        <link href="https://news.ycombinator.com/item?id=30796051"/>
+        <updated>2022-03-24T22:15:58.000Z</updated>
+        <summary type="html"><![CDATA[The GIF Is Dead. Long Live the GIF]]></summary>
+        <author>
+            <name>ihsoj</name>
+            <uri>https://news.ycombinator.com/user?id=ihsoj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Readability.js和shot-scraper提取网页内容]]></title>
+        <id>https://news.ycombinator.com/item?id=30795254</id>
+        <link href="https://news.ycombinator.com/item?id=30795254"/>
+        <updated>2022-03-24T20:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Extracting web page content using Readability.js and shot-scraper]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互联网档案馆图书图片Flickr账户已被删除]]></title>
         <id>https://news.ycombinator.com/item?id=30796136</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kelseyfrog</name>
             <uri>https://news.ycombinator.com/user?id=kelseyfrog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人敬畏的自助服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30782848</id>
-        <link href="https://news.ycombinator.com/item?id=30782848"/>
-        <updated>2022-03-23T20:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Awesome Self-Hosted]]></summary>
-        <author>
-            <name>jaboutboul</name>
-            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更新约会有助于解决深层时间的窘境]]></title>
-        <id>https://news.ycombinator.com/item?id=30782844</id>
-        <link href="https://news.ycombinator.com/item?id=30782844"/>
-        <updated>2022-03-23T20:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Updating Dating Helps Tackle Deep-Time Quandaries]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉迪亚-帕尔曼解释她是如何发明生成树的]]></title>
-        <id>https://news.ycombinator.com/item?id=30782652</id>
-        <link href="https://news.ycombinator.com/item?id=30782652"/>
-        <updated>2022-03-23T20:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Radia Perlman explains how she invented Spanning Tree]]></summary>
-        <author>
-            <name>kloch</name>
-            <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火箭。用于静态网站的现代网络设置，并撒上一些JavaScript。]]></title>
-        <id>https://news.ycombinator.com/item?id=30782637</id>
-        <link href="https://news.ycombinator.com/item?id=30782637"/>
-        <updated>2022-03-23T20:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Rocket: The modern web setup for static sites with a sprinkle of JavaScript]]></summary>
-        <author>
-            <name>mwheeler</name>
-            <uri>https://news.ycombinator.com/user?id=mwheeler</uri>
         </author>
     </entry>
 </feed>
