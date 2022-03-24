@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T05:29:37.972Z</updated>
+    <updated>2022-03-24T05:36:57.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冷酷樂隊風格的鮑多特代碼發生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30786547</id>
+        <link href="https://news.ycombinator.com/item?id=30786547"/>
+        <updated>2022-03-24T05:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Baudot Code Generator in the Style of Coldplay]]></summary>
+        <author>
+            <name>Bondi_Blue</name>
+            <uri>https://news.ycombinator.com/user?id=Bondi_Blue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓷磚中的魔法。我打算放棄玩拼字遊戲的比賽]]></title>
+        <id>https://news.ycombinator.com/item?id=30786204</id>
+        <link href="https://news.ycombinator.com/item?id=30786204"/>
+        <updated>2022-03-24T03:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Magic in the Tiles: I was going to quit playing Scrabble competitively]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SFFA在最高法院爭辯說，哈佛大學實施了非法的 "亞洲懲罰"。]]></title>
         <id>https://news.ycombinator.com/item?id=30786533</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF壓縮的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30772567</id>
-        <link href="https://news.ycombinator.com/item?id=30772567"/>
-        <updated>2022-03-22T22:43:48.000Z</updated>
-        <summary type="html"><![CDATA[A Tale of PDF Compression]]></summary>
-        <author>
-            <name>daitya</name>
-            <uri>https://news.ycombinator.com/user?id=daitya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POC：加載新的普羅米修斯服務發現而不增加二進制大小]]></title>
-        <id>https://news.ycombinator.com/item?id=30772518</id>
-        <link href="https://news.ycombinator.com/item?id=30772518"/>
-        <updated>2022-03-22T22:38:27.000Z</updated>
-        <summary type="html"><![CDATA[POC: Loading new Prometheus Service Discoveries without increasing binary size]]></summary>
-        <author>
-            <name>roidelapluie</name>
-            <uri>https://news.ycombinator.com/user?id=roidelapluie</uri>
         </author>
     </entry>
 </feed>
