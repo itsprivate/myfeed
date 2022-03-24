@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T17:49:47.031Z</updated>
+    <updated>2022-03-24T17:58:28.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Figma to WordPress]]></title>
+        <id>https://news.ycombinator.com/item?id=30793166</id>
+        <link href="https://news.ycombinator.com/item?id=30793166"/>
+        <updated>2022-03-24T17:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Figma to WordPress]]></summary>
+        <author>
+            <name>HolaMan</name>
+            <uri>https://news.ycombinator.com/user?id=HolaMan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有时你可以用硬链接做一些愚蠢的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30793131</id>
+        <link href="https://news.ycombinator.com/item?id=30793131"/>
+        <updated>2022-03-24T17:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Dumb things you can sometimes do with hard links]]></summary>
+        <author>
+            <name>contr-error</name>
+            <uri>https://news.ycombinator.com/user?id=contr-error</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[启动HN：碳粉碎机（YC W22）--负碳路]]></title>
+        <id>https://news.ycombinator.com/item?id=30793076</id>
+        <link href="https://news.ycombinator.com/item?id=30793076"/>
+        <updated>2022-03-24T17:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Carbon Crusher (YC W22) – Carbon Negative Roads]]></summary>
+        <author>
+            <name>haakonzen</name>
+            <uri>https://news.ycombinator.com/user?id=haakonzen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯已经输了]]></title>
         <id>https://news.ycombinator.com/item?id=30792907</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>softwarebeware</name>
             <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中越战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30780471</id>
-        <link href="https://news.ycombinator.com/item?id=30780471"/>
-        <updated>2022-03-23T16:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Sino-Vietnamese War]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：充电机器人（YC S21）--建造太阳能农场的机器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30780455</id>
-        <link href="https://news.ycombinator.com/item?id=30780455"/>
-        <updated>2022-03-23T16:47:44.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Charge Robotics (YC S21) - Robots that build solar farms]]></summary>
-        <author>
-            <name>justicz</name>
-            <uri>https://news.ycombinator.com/user?id=justicz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一张巨大的图表，解释了一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30780428</id>
-        <link href="https://news.ycombinator.com/item?id=30780428"/>
-        <updated>2022-03-23T16:45:45.000Z</updated>
-        <summary type="html"><![CDATA[A gigantic chart that explains everything]]></summary>
-        <author>
-            <name>memish</name>
-            <uri>https://news.ycombinator.com/user?id=memish</uri>
         </author>
     </entry>
 </feed>
