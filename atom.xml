@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T09:51:33.225Z</updated>
+    <updated>2022-03-24T10:13:58.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美达公司的促销活动]]></title>
+        <id>https://news.ycombinator.com/item?id=30787887</id>
+        <link href="https://news.ycombinator.com/item?id=30787887"/>
+        <updated>2022-03-24T10:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Promotions at Meta]]></summary>
+        <author>
+            <name>instakill</name>
+            <uri>https://news.ycombinator.com/user?id=instakill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什么让Angular成为许多初创公司的首选框架选项？]]></title>
+        <id>https://news.ycombinator.com/item?id=30787843</id>
+        <link href="https://news.ycombinator.com/item?id=30787843"/>
+        <updated>2022-03-24T09:54:03.000Z</updated>
+        <summary type="html"><![CDATA[What makes Angular the preferred framework option for many startups?]]></summary>
+        <author>
+            <name>TechMagic</name>
+            <uri>https://news.ycombinator.com/user?id=TechMagic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[意大利的科学家们已经研制出了不含酵母的比萨面团]]></title>
+        <id>https://news.ycombinator.com/item?id=30787837</id>
+        <link href="https://news.ycombinator.com/item?id=30787837"/>
+        <updated>2022-03-24T09:53:12.000Z</updated>
+        <summary type="html"><![CDATA[A pizza dough without yeast has been risen by scientists in Italy]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯入侵乌克兰在中国引发了激烈的辩论]]></title>
+        <id>https://news.ycombinator.com/item?id=30787767</id>
+        <link href="https://news.ycombinator.com/item?id=30787767"/>
+        <updated>2022-03-24T09:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s invasion of Ukraine sparks fierce debate in China]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用HTML5和Ionic做了一个手机游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30787372</id>
+        <link href="https://news.ycombinator.com/item?id=30787372"/>
+        <updated>2022-03-24T08:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a mobile game using HTML5 with Ionic]]></summary>
+        <author>
+            <name>RupertWiser</name>
+            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幽灵CVE的剖析]]></title>
         <id>https://news.ycombinator.com/item?id=30787339</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>fintler</name>
             <uri>https://news.ycombinator.com/user?id=fintler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保持家的整洁]]></title>
-        <id>https://news.ycombinator.com/item?id=30774619</id>
-        <link href="https://news.ycombinator.com/item?id=30774619"/>
-        <updated>2022-03-23T03:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Keeping One’s Home Tidy]]></summary>
-        <author>
-            <name>dragonsh</name>
-            <uri>https://news.ycombinator.com/user?id=dragonsh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimo智能眼镜想取代你的笔记本电脑]]></title>
-        <id>https://news.ycombinator.com/item?id=30774464</id>
-        <link href="https://news.ycombinator.com/item?id=30774464"/>
-        <updated>2022-03-23T03:14:50.000Z</updated>
-        <summary type="html"><![CDATA[The Nimo Smart Glasses Want to Replace Your Laptop]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参数化、执行和分析笔记本]]></title>
-        <id>https://news.ycombinator.com/item?id=30773652</id>
-        <link href="https://news.ycombinator.com/item?id=30773652"/>
-        <updated>2022-03-23T01:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Parameterize, Execute, and Analyze Notebooks]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络开发者的macOS键盘导航怪癖]]></title>
-        <id>https://news.ycombinator.com/item?id=30774472</id>
-        <link href="https://news.ycombinator.com/item?id=30774472"/>
-        <updated>2022-03-23T03:15:44.000Z</updated>
-        <summary type="html"><![CDATA[macOS Keyboard Navigation Quirks for Web Developers]]></summary>
-        <author>
-            <name>pkilgore</name>
-            <uri>https://news.ycombinator.com/user?id=pkilgore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3是集中式的（而且效率不高）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30774457</id>
-        <link href="https://news.ycombinator.com/item?id=30774457"/>
-        <updated>2022-03-23T03:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Is Centralized (and Inefficient)]]></summary>
-        <author>
-            <name>neelc</name>
-            <uri>https://news.ycombinator.com/user?id=neelc</uri>
         </author>
     </entry>
 </feed>
