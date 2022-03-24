@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T09:42:44.615Z</updated>
+    <updated>2022-03-24T09:51:33.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幽灵CVE的剖析]]></title>
+        <id>https://news.ycombinator.com/item?id=30787339</id>
+        <link href="https://news.ycombinator.com/item?id=30787339"/>
+        <updated>2022-03-24T08:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Anatomy of a Ghost CVE]]></summary>
+        <author>
+            <name>onlydnaq</name>
+            <uri>https://news.ycombinator.com/user?id=onlydnaq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新发现互联网]]></title>
         <id>https://news.ycombinator.com/item?id=30787698</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>neelc</name>
             <uri>https://news.ycombinator.com/user?id=neelc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEV-0537 (LAPSUS$) 针对组织的犯罪行为人]]></title>
-        <id>https://news.ycombinator.com/item?id=30774406</id>
-        <link href="https://news.ycombinator.com/item?id=30774406"/>
-        <updated>2022-03-23T03:05:53.000Z</updated>
-        <summary type="html"><![CDATA[DEV-0537 (LAPSUS$) Criminal actor targeting organizations]]></summary>
-        <author>
-            <name>Hawxy</name>
-            <uri>https://news.ycombinator.com/user?id=Hawxy</uri>
         </author>
     </entry>
 </feed>

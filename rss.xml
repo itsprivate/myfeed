@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[幽灵CVE的剖析]]></title>
+            <link>https://news.ycombinator.com/item?id=30787339</link>
+            <guid>https://news.ycombinator.com/item?id=30787339</guid>
+            <pubDate>Thu, 24 Mar 2022 08:13:31 GMT</pubDate>
+            <description><![CDATA[Anatomy of a Ghost CVE]]></description>
+        </item>
         <item>
             <title><![CDATA[重新发现互联网]]></title>
             <link>https://news.ycombinator.com/item?id=30787698</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30774457</guid>
             <pubDate>Wed, 23 Mar 2022 03:12:40 GMT</pubDate>
             <description><![CDATA[Web3 Is Centralized (and Inefficient)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DEV-0537 (LAPSUS$) 针对组织的犯罪行为人]]></title>
-            <link>https://news.ycombinator.com/item?id=30774406</link>
-            <guid>https://news.ycombinator.com/item?id=30774406</guid>
-            <pubDate>Wed, 23 Mar 2022 03:05:53 GMT</pubDate>
-            <description><![CDATA[DEV-0537 (LAPSUS$) Criminal actor targeting organizations]]></description>
         </item>
     </channel>
 </rss>
