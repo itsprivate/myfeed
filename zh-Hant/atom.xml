@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T08:15:00.512Z</updated>
+    <updated>2022-03-24T08:37:14.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為自我託管的用戶實現零停機時間的數據遷移]]></title>
+        <id>https://news.ycombinator.com/item?id=30787348</id>
+        <link href="https://news.ycombinator.com/item?id=30787348"/>
+        <updated>2022-03-24T08:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Enabling zero downtime data migrations for self-hosted users]]></summary>
+        <author>
+            <name>yakkomajuri</name>
+            <uri>https://news.ycombinator.com/user?id=yakkomajuri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每個組織在JDK 11-18上修復的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30787300</id>
+        <link href="https://news.ycombinator.com/item?id=30787300"/>
+        <updated>2022-03-24T08:06:10.000Z</updated>
+        <summary type="html"><![CDATA[Issues fixed on JDK 11 – 18 per organisation]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯股市在創紀錄的長期停工後在當地交易中上漲]]></title>
+        <id>https://news.ycombinator.com/item?id=30787199</id>
+        <link href="https://news.ycombinator.com/item?id=30787199"/>
+        <updated>2022-03-24T07:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Russian Stocks Gain in Local Trading After Record Long Shutdown]]></summary>
+        <author>
+            <name>throwaway4good</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zlib在deflate（即壓縮）上的內存損壞]]></title>
+        <id>https://news.ycombinator.com/item?id=30787013</id>
+        <link href="https://news.ycombinator.com/item?id=30787013"/>
+        <updated>2022-03-24T07:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Zlib memory corruption on deflate (i.e. compress)]]></summary>
+        <author>
+            <name>jwilk</name>
+            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解釋2022年人工智能狀況的圖表]]></title>
+        <id>https://news.ycombinator.com/item?id=30786539</id>
+        <link href="https://news.ycombinator.com/item?id=30786539"/>
+        <updated>2022-03-24T05:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Graphs That Explain the State of AI in 2022]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有裝飾性的不斷變化的沙面的DYI桌子]]></title>
         <id>https://news.ycombinator.com/item?id=30787213</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>hardmaru</name>
             <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[營養標籤上的卡路里數是否使我們變胖？]]></title>
-        <id>https://news.ycombinator.com/item?id=30773712</id>
-        <link href="https://news.ycombinator.com/item?id=30773712"/>
-        <updated>2022-03-23T01:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Are Calorie Counts on Nutrition Labels Making Us Fat?]]></summary>
-        <author>
-            <name>jasonhansel</name>
-            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯最大的科技公司大到不能再大了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30773653</id>
-        <link href="https://news.ycombinator.com/item?id=30773653"/>
-        <updated>2022-03-23T01:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Is Russia’s Largest Tech Company Too Big to Fail?]]></summary>
-        <author>
-            <name>gixo</name>
-            <uri>https://news.ycombinator.com/user?id=gixo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舊的imageshack圖片有1：5的機會顯示烏克蘭國旗]]></title>
-        <id>https://news.ycombinator.com/item?id=30773633</id>
-        <link href="https://news.ycombinator.com/item?id=30773633"/>
-        <updated>2022-03-23T01:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Old imageshack images have a 1:5 chance of showing a Ukranian flag]]></summary>
-        <author>
-            <name>lucb1e</name>
-            <uri>https://news.ycombinator.com/user?id=lucb1e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國家安全局負責網絡技術的副局長Anne Neuberger的特別新聞簡報會]]></title>
-        <id>https://news.ycombinator.com/item?id=30773575</id>
-        <link href="https://news.ycombinator.com/item?id=30773575"/>
-        <updated>2022-03-23T00:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Special Press Briefing by Anne Neuberger, Deputy NSA for Cyber Technologies]]></summary>
-        <author>
-            <name>jasonhansel</name>
-            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另一個時代，另一個地方，另一個故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30773562</id>
-        <link href="https://news.ycombinator.com/item?id=30773562"/>
-        <updated>2022-03-23T00:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Another Time, Another Place, Another Story]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
