@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-24T06:15:10.760Z</updated>
+    <updated>2022-03-24T06:38:23.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DIY志願者正在修復烏克蘭被破壞的互聯網基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=30786738</id>
+        <link href="https://news.ycombinator.com/item?id=30786738"/>
+        <updated>2022-03-24T05:57:20.000Z</updated>
+        <summary type="html"><![CDATA[DIY Volunteers Are Repairing Ukraine’s Destroyed Internet Infrastructure]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何利用Kotlin中的函數式編程來編寫更好、更簡潔的代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30786660</id>
+        <link href="https://news.ycombinator.com/item?id=30786660"/>
+        <updated>2022-03-24T05:40:06.000Z</updated>
+        <summary type="html"><![CDATA[How to leverage functional programming in Kotlin to write better, cleaner code]]></summary>
+        <author>
+            <name>cglong</name>
+            <uri>https://news.ycombinator.com/user?id=cglong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃石公園間歇泉下的熱水的新圖片]]></title>
+        <id>https://news.ycombinator.com/item?id=30786658</id>
+        <link href="https://news.ycombinator.com/item?id=30786658"/>
+        <updated>2022-03-24T05:39:39.000Z</updated>
+        <summary type="html"><![CDATA[A new picture of the hot water beneath Yellowstone’s geysers]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.au直接域名的推出]]></title>
+        <id>https://news.ycombinator.com/item?id=30786469</id>
+        <link href="https://news.ycombinator.com/item?id=30786469"/>
+        <updated>2022-03-24T04:50:26.000Z</updated>
+        <summary type="html"><![CDATA[.au direct domain names launch]]></summary>
+        <author>
+            <name>YPPH</name>
+            <uri>https://news.ycombinator.com/user?id=YPPH</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIF的發明者之一斯蒂芬-E-威爾海特已經去世。]]></title>
         <id>https://news.ycombinator.com/item?id=30786649</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Olshansky</name>
             <uri>https://news.ycombinator.com/user?id=Olshansky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們認為]]></title>
-        <id>https://news.ycombinator.com/item?id=30773106</id>
-        <link href="https://news.ycombinator.com/item?id=30773106"/>
-        <updated>2022-03-22T23:48:04.000Z</updated>
-        <summary type="html"><![CDATA[People Think]]></summary>
-        <author>
-            <name>enigmatic02</name>
-            <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦宇宙。去中心化的人類社會媒體]]></title>
-        <id>https://news.ycombinator.com/item?id=30773098</id>
-        <link href="https://news.ycombinator.com/item?id=30773098"/>
-        <updated>2022-03-22T23:46:01.000Z</updated>
-        <summary type="html"><![CDATA[The Fediverse: Decentralized Social Media for Human Beings]]></summary>
-        <author>
-            <name>dddavid</name>
-            <uri>https://news.ycombinator.com/user?id=dddavid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格拉斯通過一個老式的電影鏡頭重新思考智能手機的攝像頭]]></title>
-        <id>https://news.ycombinator.com/item?id=30773078</id>
-        <link href="https://news.ycombinator.com/item?id=30773078"/>
-        <updated>2022-03-22T23:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Glass rethinks the smartphone camera through an old-school cinema lens]]></summary>
-        <author>
-            <name>hyperfocal</name>
-            <uri>https://news.ycombinator.com/user?id=hyperfocal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類不是一個零和遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30773049</id>
-        <link href="https://news.ycombinator.com/item?id=30773049"/>
-        <updated>2022-03-22T23:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Humanity is not a Zero-Sum Game]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
         </author>
     </entry>
 </feed>
