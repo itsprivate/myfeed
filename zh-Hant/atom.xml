@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T05:37:33.840Z</updated>
+    <updated>2022-03-25T05:51:38.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[魔方：無頭BI]]></title>
+        <id>https://news.ycombinator.com/item?id=30798964</id>
+        <link href="https://news.ycombinator.com/item?id=30798964"/>
+        <updated>2022-03-25T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Cube: Headless BI]]></summary>
+        <author>
+            <name>omarfarooq</name>
+            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發現2000年前最偉大的中國哲學家的中心]]></title>
         <id>https://news.ycombinator.com/item?id=30798939</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>myth_drannon</name>
             <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤利婭的夢想]]></title>
-        <id>https://news.ycombinator.com/item?id=30785187</id>
-        <link href="https://news.ycombinator.com/item?id=30785187"/>
-        <updated>2022-03-24T00:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Yulia's Dream]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
