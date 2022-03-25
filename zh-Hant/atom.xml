@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T04:42:01.905Z</updated>
+    <updated>2022-03-25T04:58:56.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創建靜態網站的最佳/最快的方法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30798634</id>
+        <link href="https://news.ycombinator.com/item?id=30798634"/>
+        <updated>2022-03-25T04:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Best/Fastest Way to Create Static Website?]]></summary>
+        <author>
+            <name>jdcampolargo</name>
+            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenParsec - 快節奏的多人跨平臺3D互聯網太空戰鬥]]></title>
+        <id>https://news.ycombinator.com/item?id=30798607</id>
+        <link href="https://news.ycombinator.com/item?id=30798607"/>
+        <updated>2022-03-25T04:18:33.000Z</updated>
+        <summary type="html"><![CDATA[OpenParsec – Fast-paced multiplayer cross-platform 3D Internet space combat]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pipy 0.30.0]]></title>
         <id>https://news.ycombinator.com/item?id=30798577</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>skarz</name>
             <uri>https://news.ycombinator.com/user?id=skarz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nim上的XML/HTML提取和刪除。功能 Nim的優點]]></title>
-        <id>https://news.ycombinator.com/item?id=30784860</id>
-        <link href="https://news.ycombinator.com/item?id=30784860"/>
-        <updated>2022-03-23T23:27:04.000Z</updated>
-        <summary type="html"><![CDATA[XML/HTML Extraction and Removal on Nim. Features Nim Excellences]]></summary>
-        <author>
-            <name>mardiyah</name>
-            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cppawk]]></title>
-        <id>https://news.ycombinator.com/item?id=30784722</id>
-        <link href="https://news.ycombinator.com/item?id=30784722"/>
-        <updated>2022-03-23T23:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cppawk]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>
