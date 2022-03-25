@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T09:33:21.107Z</updated>
+    <updated>2022-03-25T09:52:42.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為Linux帶來可重啟序列的5年曆程（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30800152</id>
+        <link href="https://news.ycombinator.com/item?id=30800152"/>
+        <updated>2022-03-25T09:38:27.000Z</updated>
+        <summary type="html"><![CDATA[The 5-year journey to bring restartable sequences to Linux (2019)]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAP - 使用鐵鏽的家庭植物滴灌技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30800122</id>
+        <link href="https://news.ycombinator.com/item?id=30800122"/>
+        <updated>2022-03-25T09:35:03.000Z</updated>
+        <summary type="html"><![CDATA[WAP – Drip Irrigation for House Plants using Rust]]></summary>
+        <author>
+            <name>mogambo1</name>
+            <uri>https://news.ycombinator.com/user?id=mogambo1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle Haiku]]></title>
+        <id>https://news.ycombinator.com/item?id=30800113</id>
+        <link href="https://news.ycombinator.com/item?id=30800113"/>
+        <updated>2022-03-25T09:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Wordle Haiku]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地方第一的合作。邊緣的自治，由加密貨幣保障，100%可用]]></title>
+        <id>https://news.ycombinator.com/item?id=30800069</id>
+        <link href="https://news.ycombinator.com/item?id=30800069"/>
+        <updated>2022-03-25T09:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Local-First Cooperation: Autonomy at the Edge, Secured by Crypto, 100% Available]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鏽是極簡主義]]></title>
+        <id>https://news.ycombinator.com/item?id=30799985</id>
+        <link href="https://news.ycombinator.com/item?id=30799985"/>
+        <updated>2022-03-25T09:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Rust Is Minimalist]]></summary>
+        <author>
+            <name>cjg</name>
+            <uri>https://news.ycombinator.com/user?id=cjg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們為什麼和如何使用原始地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30799818</id>
+        <link href="https://news.ycombinator.com/item?id=30799818"/>
+        <updated>2022-03-25T08:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Why and how we use primitive maps]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS中斷--來自作戰室的一個小故事]]></title>
         <id>https://news.ycombinator.com/item?id=30800050</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>freedomben</name>
             <uri>https://news.ycombinator.com/user?id=freedomben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼編碼面試並不那麼糟糕]]></title>
-        <id>https://news.ycombinator.com/item?id=30786135</id>
-        <link href="https://news.ycombinator.com/item?id=30786135"/>
-        <updated>2022-03-24T03:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Why coding interviews aren't all that bad]]></summary>
-        <author>
-            <name>DougMellon</name>
-            <uri>https://news.ycombinator.com/user?id=DougMellon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bashchain: 一個用Bash編寫的區塊鏈]]></title>
-        <id>https://news.ycombinator.com/item?id=30786078</id>
-        <link href="https://news.ycombinator.com/item?id=30786078"/>
-        <updated>2022-03-24T03:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Bashchain: A Blockchain Written in Bash]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年齡歧視案中被封存的IBM機密文件公開亮相]]></title>
-        <id>https://news.ycombinator.com/item?id=30785849</id>
-        <link href="https://news.ycombinator.com/item?id=30785849"/>
-        <updated>2022-03-24T02:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Sealed, confidential IBM files from age-discrimination case surface in public]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大腦化學物質幫助向神經元發出何時開始運動的信號]]></title>
-        <id>https://news.ycombinator.com/item?id=30785614</id>
-        <link href="https://news.ycombinator.com/item?id=30785614"/>
-        <updated>2022-03-24T01:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Brain Chemical Helps Signal to Neurons When to Start a Movement]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIF的創造者去世了]]></title>
-        <id>https://news.ycombinator.com/item?id=30786178</id>
-        <link href="https://news.ycombinator.com/item?id=30786178"/>
-        <updated>2022-03-24T03:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Creator of the GIF Passes Away]]></summary>
-        <author>
-            <name>kaptain</name>
-            <uri>https://news.ycombinator.com/user?id=kaptain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推出數週後，Island以1.15億美元的融資達到13億美元的估值]]></title>
-        <id>https://news.ycombinator.com/item?id=30786113</id>
-        <link href="https://news.ycombinator.com/item?id=30786113"/>
-        <updated>2022-03-24T03:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Weeks after launch, Island hits $1.3B valuation with $115M round]]></summary>
-        <author>
-            <name>taytus</name>
-            <uri>https://news.ycombinator.com/user?id=taytus</uri>
         </author>
     </entry>
 </feed>
