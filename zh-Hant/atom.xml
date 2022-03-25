@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T09:52:42.080Z</updated>
+    <updated>2022-03-25T10:15:32.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國警方逮捕與Lapsus$黑客有關的7人]]></title>
+        <id>https://news.ycombinator.com/item?id=30800266</id>
+        <link href="https://news.ycombinator.com/item?id=30800266"/>
+        <updated>2022-03-25T10:02:02.000Z</updated>
+        <summary type="html"><![CDATA[UK Police Arrest 7 People in Connection with Lapsus$ Hacks]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[振興的藝術市場仍然必須駕馭Covid-19的持續影響]]></title>
+        <id>https://news.ycombinator.com/item?id=30800188</id>
+        <link href="https://news.ycombinator.com/item?id=30800188"/>
+        <updated>2022-03-25T09:45:27.000Z</updated>
+        <summary type="html"><![CDATA[A revitalised art market must still navigate the ongoing impact of Covid-19]]></summary>
+        <author>
+            <name>valprop1</name>
+            <uri>https://news.ycombinator.com/user?id=valprop1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再有十年的漫遊時間而不需要額外費用]]></title>
+        <id>https://news.ycombinator.com/item?id=30800101</id>
+        <link href="https://news.ycombinator.com/item?id=30800101"/>
+        <updated>2022-03-25T09:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Ten more years of roaming without additional fees]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在30年的軟件開發中吸取的經驗教訓]]></title>
+        <id>https://news.ycombinator.com/item?id=30799743</id>
+        <link href="https://news.ycombinator.com/item?id=30799743"/>
+        <updated>2022-03-25T08:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Lessons learnt the hard way in 30 years of Software Development]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為Linux帶來可重啟序列的5年曆程（2019年）]]></title>
         <id>https://news.ycombinator.com/item?id=30800152</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>notmysql_</name>
             <uri>https://news.ycombinator.com/user?id=notmysql_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動化對美國長途卡車運輸操作時間的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30786306</id>
-        <link href="https://news.ycombinator.com/item?id=30786306"/>
-        <updated>2022-03-24T04:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Impact of automation on long haul trucking operator-hours in the United States]]></summary>
-        <author>
-            <name>olivermarks</name>
-            <uri>https://news.ycombinator.com/user?id=olivermarks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國製定應急計劃，以防俄羅斯使用其最強大的武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30786216</id>
-        <link href="https://news.ycombinator.com/item?id=30786216"/>
-        <updated>2022-03-24T03:49:12.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Makes Contingency Plans in Case Russia Uses Its Most Powerful Weapons]]></summary>
-        <author>
-            <name>westcort</name>
-            <uri>https://news.ycombinator.com/user?id=westcort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經辭去了我的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30786179</id>
-        <link href="https://news.ycombinator.com/item?id=30786179"/>
-        <updated>2022-03-24T03:38:51.000Z</updated>
-        <summary type="html"><![CDATA[I have quit my job]]></summary>
-        <author>
-            <name>bitspook</name>
-            <uri>https://news.ycombinator.com/user?id=bitspook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Bitwarden CLI帶來一個RESTful API]]></title>
-        <id>https://news.ycombinator.com/item?id=30786136</id>
-        <link href="https://news.ycombinator.com/item?id=30786136"/>
-        <updated>2022-03-24T03:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Bringing a RESTful API to the Bitwarden CLI]]></summary>
-        <author>
-            <name>freedomben</name>
-            <uri>https://news.ycombinator.com/user?id=freedomben</uri>
         </author>
     </entry>
 </feed>
