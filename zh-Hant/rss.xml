@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fedora 36 測試版已上線]]></title>
+            <link>https://news.ycombinator.com/item?id=30798840</link>
+            <guid>https://news.ycombinator.com/item?id=30798840</guid>
+            <pubDate>Fri, 25 Mar 2022 05:12:15 GMT</pubDate>
+            <description><![CDATA[Fedora 36 beta is GO]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DDoS俄羅斯政府網站是否危險或不道德？]]></title>
+            <link>https://news.ycombinator.com/item?id=30798839</link>
+            <guid>https://news.ycombinator.com/item?id=30798839</guid>
+            <pubDate>Fri, 25 Mar 2022 05:11:55 GMT</pubDate>
+            <description><![CDATA[Is it dangerous or unethical to DDoS Russian gov sites?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[積極的解體理論]]></title>
+            <link>https://news.ycombinator.com/item?id=30798834</link>
+            <guid>https://news.ycombinator.com/item?id=30798834</guid>
+            <pubDate>Fri, 25 Mar 2022 05:10:41 GMT</pubDate>
+            <description><![CDATA[Theory of Positive Disintegration]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯考慮接受比特幣購買石油和天然氣]]></title>
+            <link>https://news.ycombinator.com/item?id=30798807</link>
+            <guid>https://news.ycombinator.com/item?id=30798807</guid>
+            <pubDate>Fri, 25 Mar 2022 05:05:37 GMT</pubDate>
+            <description><![CDATA[Russia considers accepting Bitcoin for oil and gas]]></description>
+        </item>
+        <item>
+            <title><![CDATA[衛星數據顯示南極洲的整個康格冰架已經崩塌]]></title>
+            <link>https://news.ycombinator.com/item?id=30798770</link>
+            <guid>https://news.ycombinator.com/item?id=30798770</guid>
+            <pubDate>Fri, 25 Mar 2022 04:56:01 GMT</pubDate>
+            <description><![CDATA[Satellite data shows entire Conger ice shelf has collapsed in Antarctica]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Eu新規則將影響蘋果、谷歌和元數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30798761</link>
+            <guid>https://news.ycombinator.com/item?id=30798761</guid>
+            <pubDate>Fri, 25 Mar 2022 04:53:00 GMT</pubDate>
+            <description><![CDATA[Eu new rules would affect Apple, Google and meta]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基努-裡維斯的電影因支持西藏而被撤出中國的流媒體平臺]]></title>
+            <link>https://news.ycombinator.com/item?id=30798747</link>
+            <guid>https://news.ycombinator.com/item?id=30798747</guid>
+            <pubDate>Fri, 25 Mar 2022 04:50:48 GMT</pubDate>
+            <description><![CDATA[Keanu Reeves Films Pulled from Chinese Streaming Platforms over Tibet Support]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為創業公司的CTO們建立一個discord服務器]]></title>
+            <link>https://news.ycombinator.com/item?id=30798726</link>
+            <guid>https://news.ycombinator.com/item?id=30798726</guid>
+            <pubDate>Fri, 25 Mar 2022 04:44:32 GMT</pubDate>
+            <description><![CDATA[Building a discord server for startup CTOs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netflix通過向共享密碼的用戶收取額外費用，每年可獲得16億美元的收益]]></title>
+            <link>https://news.ycombinator.com/item?id=30798724</link>
+            <guid>https://news.ycombinator.com/item?id=30798724</guid>
+            <pubDate>Fri, 25 Mar 2022 04:44:05 GMT</pubDate>
+            <description><![CDATA[Netflix Could Reap $1.6B/Year by Charging Password-Sharing Users Extra]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我在一年的功能編程工作中學到的東西]]></title>
+            <link>https://news.ycombinator.com/item?id=30798293</link>
+            <guid>https://news.ycombinator.com/item?id=30798293</guid>
+            <pubDate>Fri, 25 Mar 2022 03:20:57 GMT</pubDate>
+            <description><![CDATA[Things I Learned in 1 Year Working with Functional Programming]]></description>
+        </item>
         <item>
             <title><![CDATA[僅僅因為你知道如何編碼，並不意味著你應該給自己的網站編碼]]></title>
             <link>https://news.ycombinator.com/item?id=30798760</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30785094</guid>
             <pubDate>Thu, 24 Mar 2022 00:01:19 GMT</pubDate>
             <description><![CDATA[Any tools can randomly generate the source code according to a language grammar?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何生成合成數據。可互換數據集的工具和技術]]></title>
-            <link>https://news.ycombinator.com/item?id=30785074</link>
-            <guid>https://news.ycombinator.com/item?id=30785074</guid>
-            <pubDate>Wed, 23 Mar 2022 23:58:10 GMT</pubDate>
-            <description><![CDATA[How to Generate Synthetic Data: Tools and Techniques to Interchangeable Datasets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分析了烏克蘭境內俄羅斯人之間的幾十次戰場無線電傳輸。]]></title>
-            <link>https://news.ycombinator.com/item?id=30785070</link>
-            <guid>https://news.ycombinator.com/item?id=30785070</guid>
-            <pubDate>Wed, 23 Mar 2022 23:57:31 GMT</pubDate>
-            <description><![CDATA[Analyzed dozens of battlefield radio transmissions between Russians in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們是如何分析並修復Golang的內存洩漏的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30785057</link>
-            <guid>https://news.ycombinator.com/item?id=30785057</guid>
-            <pubDate>Wed, 23 Mar 2022 23:54:42 GMT</pubDate>
-            <description><![CDATA[How we analyzed and fixed a Golang memory leak]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Igalia幫助Chrome追趕Safari的偉大工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30785046</link>
-            <guid>https://news.ycombinator.com/item?id=30785046</guid>
-            <pubDate>Wed, 23 Mar 2022 23:53:20 GMT</pubDate>
-            <description><![CDATA[Great work from Igalia helping Chrome catch up with Safari]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯正面臨著技術工人外流的問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30785013</link>
-            <guid>https://news.ycombinator.com/item?id=30785013</guid>
-            <pubDate>Wed, 23 Mar 2022 23:48:16 GMT</pubDate>
-            <description><![CDATA[Russia Is Facing a Tech Worker Exodus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非阻塞式算法和可擴展的多核編程]]></title>
-            <link>https://news.ycombinator.com/item?id=30785001</link>
-            <guid>https://news.ycombinator.com/item?id=30785001</guid>
-            <pubDate>Wed, 23 Mar 2022 23:45:36 GMT</pubDate>
-            <description><![CDATA[Nonblocking Algorithms and Scalable Multicore Programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go 1.18的編譯時間可能比Go.17慢18%左右（泛型）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30784999</link>
-            <guid>https://news.ycombinator.com/item?id=30784999</guid>
-            <pubDate>Wed, 23 Mar 2022 23:45:24 GMT</pubDate>
-            <description><![CDATA[Go 1.18 compile time may be about 18% slower than Go.17 (generics)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不，俄羅斯不能被從聯合國安理會中除名]]></title>
-            <link>https://news.ycombinator.com/item?id=30784992</link>
-            <guid>https://news.ycombinator.com/item?id=30784992</guid>
-            <pubDate>Wed, 23 Mar 2022 23:43:58 GMT</pubDate>
-            <description><![CDATA[No, Russia cannot be removed from the UN Security Council]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於Twitter上的社區]]></title>
-            <link>https://news.ycombinator.com/item?id=30784986</link>
-            <guid>https://news.ycombinator.com/item?id=30784986</guid>
-            <pubDate>Wed, 23 Mar 2022 23:42:50 GMT</pubDate>
-            <description><![CDATA[About Communities on Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特爾推出新的ATX PSU規格]]></title>
-            <link>https://news.ycombinator.com/item?id=30784958</link>
-            <guid>https://news.ycombinator.com/item?id=30784958</guid>
-            <pubDate>Wed, 23 Mar 2022 23:38:28 GMT</pubDate>
-            <description><![CDATA[Intel Introduces New ATX PSU Specifications]]></description>
         </item>
     </channel>
 </rss>
