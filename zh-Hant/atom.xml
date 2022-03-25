@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T10:37:39.522Z</updated>
+    <updated>2022-03-25T10:52:50.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Conductor能否每天處理1億個工作流？]]></title>
+        <id>https://news.ycombinator.com/item?id=30800516</id>
+        <link href="https://news.ycombinator.com/item?id=30800516"/>
+        <updated>2022-03-25T10:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Can Conductor handle 100M workflows per day?]]></summary>
+        <author>
+            <name>CherishS</name>
+            <uri>https://news.ycombinator.com/user?id=CherishS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TablePlus：用於數據庫管理的現代、本地工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30800502</id>
+        <link href="https://news.ycombinator.com/item?id=30800502"/>
+        <updated>2022-03-25T10:40:42.000Z</updated>
+        <summary type="html"><![CDATA[TablePlus: Modern, Native Tool for DB Management]]></summary>
+        <author>
+            <name>charlieirish</name>
+            <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCLSRing：保持進程狀態的模塊化]]></title>
+        <id>https://news.ycombinator.com/item?id=30800414</id>
+        <link href="https://news.ycombinator.com/item?id=30800414"/>
+        <updated>2022-03-25T10:27:25.000Z</updated>
+        <summary type="html"><![CDATA[PCLSRing: Keeping Process State Modular]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安蒂內特-澤特卡斯特(Antinet Zettelkasten)]]></title>
+        <id>https://news.ycombinator.com/item?id=30800318</id>
+        <link href="https://news.ycombinator.com/item?id=30800318"/>
+        <updated>2022-03-25T10:11:32.000Z</updated>
+        <summary type="html"><![CDATA[The Antinet Zettelkasten]]></summary>
+        <author>
+            <name>for_i_in_range</name>
+            <uri>https://news.ycombinator.com/user?id=for_i_in_range</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPRS加密算法GEA-1和GEA-2的加密分析 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30800031</id>
+        <link href="https://news.ycombinator.com/item?id=30800031"/>
+        <updated>2022-03-25T09:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2 [pdf]]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在2022年改善你的投資組合]]></title>
         <id>https://news.ycombinator.com/item?id=30800434</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不能從烏克蘭的視頻中得出偉大的結論]]></title>
-        <id>https://news.ycombinator.com/item?id=30785675</id>
-        <link href="https://news.ycombinator.com/item?id=30785675"/>
-        <updated>2022-03-24T01:55:08.000Z</updated>
-        <summary type="html"><![CDATA[You can't draw great conclusions from the Ukraine videos]]></summary>
-        <author>
-            <name>rgoulter</name>
-            <uri>https://news.ycombinator.com/user?id=rgoulter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷酷樂隊風格的鮑多特代碼發生器]]></title>
-        <id>https://news.ycombinator.com/item?id=30786547</id>
-        <link href="https://news.ycombinator.com/item?id=30786547"/>
-        <updated>2022-03-24T05:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Baudot Code Generator in the Style of Coldplay]]></summary>
-        <author>
-            <name>Bondi_Blue</name>
-            <uri>https://news.ycombinator.com/user?id=Bondi_Blue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瓷磚中的魔法。我打算放棄玩拼字遊戲的比賽]]></title>
-        <id>https://news.ycombinator.com/item?id=30786204</id>
-        <link href="https://news.ycombinator.com/item?id=30786204"/>
-        <updated>2022-03-24T03:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Magic in the Tiles: I was going to quit playing Scrabble competitively]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFFA在最高法院爭辯說，哈佛大學實施了非法的 "亞洲懲罰"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30786533</id>
-        <link href="https://news.ycombinator.com/item?id=30786533"/>
-        <updated>2022-03-24T05:06:38.000Z</updated>
-        <summary type="html"><![CDATA[SFFA argues in Supreme Court that Harvard imposed an illegal “Asian penalty”]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Studio v27 免費和開源的視頻錄製和流媒體軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30786524</id>
-        <link href="https://news.ycombinator.com/item?id=30786524"/>
-        <updated>2022-03-24T05:03:56.000Z</updated>
-        <summary type="html"><![CDATA[OBS Studio v27 Free and open-source software for video recording and streaming]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>
