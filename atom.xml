@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T08:36:16.065Z</updated>
+    <updated>2022-03-25T08:52:49.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果M1上的Java开发--一年回顾]]></title>
+        <id>https://news.ycombinator.com/item?id=30799686</id>
+        <link href="https://news.ycombinator.com/item?id=30799686"/>
+        <updated>2022-03-25T08:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Java Development on an Apple M1 – A One Year Review]]></summary>
+        <author>
+            <name>rieckpil</name>
+            <uri>https://news.ycombinator.com/user?id=rieckpil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slidev - 开发人员的演示幻灯片]]></title>
         <id>https://news.ycombinator.com/item?id=30799718</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭网络安全。Firewalla Blue+]]></title>
-        <id>https://news.ycombinator.com/item?id=30785947</id>
-        <link href="https://news.ycombinator.com/item?id=30785947"/>
-        <updated>2022-03-24T02:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Home Network Security: Firewalla Blue+]]></summary>
-        <author>
-            <name>ashitlerferad</name>
-            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
         </author>
     </entry>
 </feed>
