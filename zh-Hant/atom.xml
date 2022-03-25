@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T04:58:56.286Z</updated>
+    <updated>2022-03-25T05:12:01.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[僅僅因為你知道如何編碼，並不意味著你應該給自己的網站編碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30798760</id>
+        <link href="https://news.ycombinator.com/item?id=30798760"/>
+        <updated>2022-03-25T04:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Just because you know how to code, doesn't mean you should code your own website]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭將向俄羅斯飛行員支付100萬美元懸賞金以示叛逃]]></title>
+        <id>https://news.ycombinator.com/item?id=30798524</id>
+        <link href="https://news.ycombinator.com/item?id=30798524"/>
+        <updated>2022-03-25T03:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Will Pay Russian Pilots $1M Bounty to Defect]]></summary>
+        <author>
+            <name>systemvoltage</name>
+            <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創建靜態網站的最佳/最快的方法？]]></title>
         <id>https://news.ycombinator.com/item?id=30798634</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chockchocschoir</name>
             <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensoRF - 來自張量分解的NeRFs]]></title>
-        <id>https://news.ycombinator.com/item?id=30784957</id>
-        <link href="https://news.ycombinator.com/item?id=30784957"/>
-        <updated>2022-03-23T23:38:27.000Z</updated>
-        <summary type="html"><![CDATA[TensoRF – NeRFs from Tensor Decomposition]]></summary>
-        <author>
-            <name>hwers</name>
-            <uri>https://news.ycombinator.com/user?id=hwers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅虎收購Del.icio.us (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=30784916</id>
-        <link href="https://news.ycombinator.com/item?id=30784916"/>
-        <updated>2022-03-23T23:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Yahoo Acquires Del.icio.us (2005)]]></summary>
-        <author>
-            <name>skarz</name>
-            <uri>https://news.ycombinator.com/user?id=skarz</uri>
         </author>
     </entry>
 </feed>
