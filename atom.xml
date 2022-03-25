@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-25T20:51:41.403Z</updated>
+    <updated>2022-03-25T21:13:40.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌刚刚审查了更多 "不受欢迎 "的媒体]]></title>
+        <id>https://news.ycombinator.com/item?id=30807029</id>
+        <link href="https://news.ycombinator.com/item?id=30807029"/>
+        <updated>2022-03-25T21:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Google just censored more “undesired” media]]></summary>
+        <author>
+            <name>datalist</name>
+            <uri>https://news.ycombinator.com/user?id=datalist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[95GeV希格斯玻色子的大量证据]]></title>
+        <id>https://news.ycombinator.com/item?id=30807022</id>
+        <link href="https://news.ycombinator.com/item?id=30807022"/>
+        <updated>2022-03-25T21:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Mounting evidence for a 95 GeV Higgs boson]]></summary>
+        <author>
+            <name>kloch</name>
+            <uri>https://news.ycombinator.com/user?id=kloch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类血液中发现微塑料]]></title>
+        <id>https://news.ycombinator.com/item?id=30806974</id>
+        <link href="https://news.ycombinator.com/item?id=30806974"/>
+        <updated>2022-03-25T20:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Microplastics Found in Human Blood]]></summary>
+        <author>
+            <name>gabea</name>
+            <uri>https://news.ycombinator.com/user?id=gabea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia的研究在眨眼间将2D照片变成3D场景的AI]]></title>
+        <id>https://news.ycombinator.com/item?id=30806925</id>
+        <link href="https://news.ycombinator.com/item?id=30806925"/>
+        <updated>2022-03-25T20:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI]]></summary>
+        <author>
+            <name>bcaulfield</name>
+            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MParticle将AWS的成本降低了80%，而使用量增加了20%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30806915</id>
+        <link href="https://news.ycombinator.com/item?id=30806915"/>
+        <updated>2022-03-25T20:49:26.000Z</updated>
+        <summary type="html"><![CDATA[MParticle cut AWS costs by 80% while usage increased 20%]]></summary>
+        <author>
+            <name>elbac</name>
+            <uri>https://news.ycombinator.com/user?id=elbac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook的面孔]]></title>
+        <id>https://news.ycombinator.com/item?id=30806801</id>
+        <link href="https://news.ycombinator.com/item?id=30806801"/>
+        <updated>2022-03-25T20:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Facebook's Faces]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们需要就如何处理这些危险的技术达成国际协议]]></title>
+        <id>https://news.ycombinator.com/item?id=30806634</id>
+        <link href="https://news.ycombinator.com/item?id=30806634"/>
+        <updated>2022-03-25T20:18:29.000Z</updated>
+        <summary type="html"><![CDATA[We Need International Agreement on How to Handle These Dangerous Technologies]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DokuWiki的WCAG审核（2021年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30806385</id>
+        <link href="https://news.ycombinator.com/item?id=30806385"/>
+        <updated>2022-03-25T19:49:30.000Z</updated>
+        <summary type="html"><![CDATA[WCAG Audit of DokuWiki (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pg_auto_failover_health_monitor。跟踪Postgres服务健康状况的简单服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30806326</id>
+        <link href="https://news.ycombinator.com/item?id=30806326"/>
+        <updated>2022-03-25T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[pg_auto_failover_health_monitor: Simple service to track Postgres service health]]></summary>
+        <author>
+            <name>ancieque</name>
+            <uri>https://news.ycombinator.com/user?id=ancieque</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N2：替代性忍者的实施]]></title>
         <id>https://news.ycombinator.com/item?id=30806875</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>chmaynard</name>
             <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假性研究者因伦理问题失去了恋兽癖的论文]]></title>
-        <id>https://news.ycombinator.com/item?id=30792303</id>
-        <link href="https://news.ycombinator.com/item?id=30792303"/>
-        <updated>2022-03-24T16:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Fake sex researcher loses zoophilia paper over ethical concerns]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在其他团队的代码库中工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30792279</id>
-        <link href="https://news.ycombinator.com/item?id=30792279"/>
-        <updated>2022-03-24T16:40:31.000Z</updated>
-        <summary type="html"><![CDATA[How to work in other team’s codebases]]></summary>
-        <author>
-            <name>meow_mix</name>
-            <uri>https://news.ycombinator.com/user?id=meow_mix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瓦尼亚叔叔》取代了RU的麦当劳]]></title>
-        <id>https://news.ycombinator.com/item?id=30791958</id>
-        <link href="https://news.ycombinator.com/item?id=30791958"/>
-        <updated>2022-03-24T16:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Uncle Vanya Replaces McDonald's in RU]]></summary>
-        <author>
-            <name>daenz</name>
-            <uri>https://news.ycombinator.com/user?id=daenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的替代品不会像谷歌那样]]></title>
-        <id>https://news.ycombinator.com/item?id=30792534</id>
-        <link href="https://news.ycombinator.com/item?id=30792534"/>
-        <updated>2022-03-24T16:59:47.000Z</updated>
-        <summary type="html"><![CDATA[A Google Replacement Will Not Look Like Google]]></summary>
-        <author>
-            <name>researchers</name>
-            <uri>https://news.ycombinator.com/user?id=researchers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国因台湾问题阻止维基媒体和其他机构进入联合国机构]]></title>
-        <id>https://news.ycombinator.com/item?id=30792449</id>
-        <link href="https://news.ycombinator.com/item?id=30792449"/>
-        <updated>2022-03-24T16:53:11.000Z</updated>
-        <summary type="html"><![CDATA[PRC blocks Wikimedia and others from UN agencies over Taiwan issue]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学券骗局。我们是不是太不懂数学了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30792388</id>
-        <link href="https://news.ycombinator.com/item?id=30792388"/>
-        <updated>2022-03-24T16:47:58.000Z</updated>
-        <summary type="html"><![CDATA[The Voucher Scam: Are We Too Mathematically Illiterate to Notice]]></summary>
-        <author>
-            <name>TimPC</name>
-            <uri>https://news.ycombinator.com/user?id=TimPC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国呼吁YouTube撤下被俄罗斯 "篡改 "的视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30792384</id>
-        <link href="https://news.ycombinator.com/item?id=30792384"/>
-        <updated>2022-03-24T16:47:37.000Z</updated>
-        <summary type="html"><![CDATA[UK calls on YouTube to take down videos 'doctored' by Russia]]></summary>
-        <author>
-            <name>Leary</name>
-            <uri>https://news.ycombinator.com/user?id=Leary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰马里乌波尔1950-2000年代复古计算机博物馆被炸毁]]></title>
-        <id>https://news.ycombinator.com/item?id=30792377</id>
-        <link href="https://news.ycombinator.com/item?id=30792377"/>
-        <updated>2022-03-24T16:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Mariupol Museum of retro computing from 1950s-2000s destroyed by bomb in Ukraine]]></summary>
-        <author>
-            <name>smaili</name>
-            <uri>https://news.ycombinator.com/user?id=smaili</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - biemster/ESPGeiger: 用于ESP8266盖革计数器的MicroPython库]]></title>
-        <id>https://news.ycombinator.com/item?id=30792371</id>
-        <link href="https://news.ycombinator.com/item?id=30792371"/>
-        <updated>2022-03-24T16:46:52.000Z</updated>
-        <summary type="html"><![CDATA[GitHub – biemster/ESPGeiger: MicroPython library for the ESP8266 Geiger counter]]></summary>
-        <author>
-            <name>rolph</name>
-            <uri>https://news.ycombinator.com/user?id=rolph</uri>
         </author>
     </entry>
 </feed>
