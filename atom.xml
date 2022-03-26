@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T20:13:13.685Z</updated>
+    <updated>2022-03-26T20:32:44.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我辞去产品管理的工作只是为了离开PowerPoint]]></title>
+        <id>https://news.ycombinator.com/item?id=30814795</id>
+        <link href="https://news.ycombinator.com/item?id=30814795"/>
+        <updated>2022-03-26T19:50:49.000Z</updated>
+        <summary type="html"><![CDATA[I Quit My Product Management Job Just to Get Away from PowerPoint]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[源代码中的模式是一个坏兆头，不是一个好兆头]]></title>
+        <id>https://news.ycombinator.com/item?id=30814347</id>
+        <link href="https://news.ycombinator.com/item?id=30814347"/>
+        <updated>2022-03-26T19:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Patterns in source code are a bad sign, not a good one]]></summary>
+        <author>
+            <name>ComradePhil</name>
+            <uri>https://news.ycombinator.com/user?id=ComradePhil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国太空部队]]></title>
         <id>https://news.ycombinator.com/item?id=30814831</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们在设计标识符时是如何使用Go 1.18的泛型的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30801539</id>
-        <link href="https://news.ycombinator.com/item?id=30801539"/>
-        <updated>2022-03-25T12:53:49.000Z</updated>
-        <summary type="html"><![CDATA[How we used Go 1.18 generics when designing our Identifiers]]></summary>
-        <author>
-            <name>DomBlack</name>
-            <uri>https://news.ycombinator.com/user?id=DomBlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们如何理解天空中星星的数量？]]></title>
-        <id>https://news.ycombinator.com/item?id=30801528</id>
-        <link href="https://news.ycombinator.com/item?id=30801528"/>
-        <updated>2022-03-25T12:50:58.000Z</updated>
-        <summary type="html"><![CDATA[How can we understand the number of stars in the sky?]]></summary>
-        <author>
-            <name>moultano</name>
-            <uri>https://news.ycombinator.com/user?id=moultano</uri>
         </author>
     </entry>
 </feed>
