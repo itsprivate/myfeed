@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T20:32:44.862Z</updated>
+    <updated>2022-03-26T20:41:19.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡瀏覽器中的Python 3.11]]></title>
+        <id>https://news.ycombinator.com/item?id=30815122</id>
+        <link href="https://news.ycombinator.com/item?id=30815122"/>
+        <updated>2022-03-26T20:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.11 in the Web Browser]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一名谷歌工程師，被告知他們可能會被裁員]]></title>
+        <id>https://news.ycombinator.com/item?id=30815106</id>
+        <link href="https://news.ycombinator.com/item?id=30815106"/>
+        <updated>2022-03-26T20:32:43.000Z</updated>
+        <summary type="html"><![CDATA[I'm a Google Engineer Who Was Told They May Be Laid Off]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為食譜的古代美索不達米亞石板（約公元前1730年/公元2019年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30814501</id>
+        <link href="https://news.ycombinator.com/item?id=30814501"/>
+        <updated>2022-03-26T19:16:54.000Z</updated>
+        <summary type="html"><![CDATA[The Ancient Mesopotamian Tablet as Cookbook (c. 1730 BC / 2019 AD)]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我辭去產品管理的工作只是為了離開PowerPoint]]></title>
         <id>https://news.ycombinator.com/item?id=30814795</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭特種部隊。我們為什麼不談論他們？]]></title>
-        <id>https://news.ycombinator.com/item?id=30801700</id>
-        <link href="https://news.ycombinator.com/item?id=30801700"/>
-        <updated>2022-03-25T13:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian special forces. Why don't we talk about them?]]></summary>
-        <author>
-            <name>behindai</name>
-            <uri>https://news.ycombinator.com/user?id=behindai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Pipy中管理HTTP頭信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30801617</id>
-        <link href="https://news.ycombinator.com/item?id=30801617"/>
-        <updated>2022-03-25T13:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Managing HTTP Headers in Pipy]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所羅門群島確認中國的軍事交易，澳大利亞和新西蘭感到不安]]></title>
-        <id>https://news.ycombinator.com/item?id=30801549</id>
-        <link href="https://news.ycombinator.com/item?id=30801549"/>
-        <updated>2022-03-25T12:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Australia, New Zealand unsettled as Solomon Islands confirms China military deal]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
