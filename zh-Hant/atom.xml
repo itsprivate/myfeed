@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T10:35:40.666Z</updated>
+    <updated>2022-03-26T10:44:08.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slint：用於Rust、C++或JavaScript的本地GUI工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30810533</id>
+        <link href="https://news.ycombinator.com/item?id=30810533"/>
+        <updated>2022-03-26T09:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Slint: Native GUI Toolkit for Rust, C++ or JavaScript]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDL_sound 2.0]]></title>
         <id>https://news.ycombinator.com/item?id=30810629</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>srirangr</name>
             <uri>https://news.ycombinator.com/user?id=srirangr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私有網絡中IPFS的性能評估]]></title>
-        <id>https://news.ycombinator.com/item?id=30797568</id>
-        <link href="https://news.ycombinator.com/item?id=30797568"/>
-        <updated>2022-03-25T00:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Performance Evaluation of IPFS in Private Networks]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
         </author>
     </entry>
 </feed>

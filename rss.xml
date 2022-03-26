@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 26 Mar 2022 10:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Slint：用于Rust、C++或JavaScript的本地GUI工具箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30810533</link>
+            <guid>https://news.ycombinator.com/item?id=30810533</guid>
+            <pubDate>Sat, 26 Mar 2022 09:51:31 GMT</pubDate>
+            <description><![CDATA[Slint: Native GUI Toolkit for Rust, C++ or JavaScript]]></description>
+        </item>
         <item>
             <title><![CDATA[SDL_sound 2.0]]></title>
             <link>https://news.ycombinator.com/item?id=30810629</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30797630</guid>
             <pubDate>Fri, 25 Mar 2022 01:08:52 GMT</pubDate>
             <description><![CDATA[Capitalism Is Ruining Science]]></description>
-        </item>
-        <item>
-            <title><![CDATA[私有网络中IPFS的性能评估]]></title>
-            <link>https://news.ycombinator.com/item?id=30797568</link>
-            <guid>https://news.ycombinator.com/item?id=30797568</guid>
-            <pubDate>Fri, 25 Mar 2022 00:59:55 GMT</pubDate>
-            <description><![CDATA[Performance Evaluation of IPFS in Private Networks]]></description>
         </item>
     </channel>
 </rss>
