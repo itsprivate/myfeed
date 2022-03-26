@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T11:30:31.830Z</updated>
+    <updated>2022-03-26T11:36:55.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微宏公司。犯罪之城》可玩演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30810505</id>
+        <link href="https://news.ycombinator.com/item?id=30810505"/>
+        <updated>2022-03-26T09:44:41.000Z</updated>
+        <summary type="html"><![CDATA[MicroMacro: Crime City Playable Demo]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[切尔诺贝利监测实验室的脏弹成分不翼而飞]]></title>
         <id>https://news.ycombinator.com/item?id=30810890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Stratoscope</name>
             <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丹尼斯-帕内尔-沙利文获得2022年阿贝尔奖[pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30797922</id>
-        <link href="https://news.ycombinator.com/item?id=30797922"/>
-        <updated>2022-03-25T02:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Dennis Parnell Sullivan awarded the 2022 Abel Prize [pdf]]]></summary>
-        <author>
-            <name>senthil_rajasek</name>
-            <uri>https://news.ycombinator.com/user?id=senthil_rajasek</uri>
         </author>
     </entry>
 </feed>
