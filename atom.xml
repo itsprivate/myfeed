@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T19:26:04.688Z</updated>
+    <updated>2022-03-26T19:37:12.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法律学者对金妮-托马斯的 "停止偷窃 "文本感到震惊]]></title>
+        <id>https://news.ycombinator.com/item?id=30814611</id>
+        <link href="https://news.ycombinator.com/item?id=30814611"/>
+        <updated>2022-03-26T19:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Legal Scholars Are Shocked by Ginni Thomas’s “Stop the Steal” Texts]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国将释放24亿只转基因蚊子来对抗致命的疾病]]></title>
+        <id>https://news.ycombinator.com/item?id=30814543</id>
+        <link href="https://news.ycombinator.com/item?id=30814543"/>
+        <updated>2022-03-26T19:20:36.000Z</updated>
+        <summary type="html"><![CDATA[US to release 2.4bn genetically modified mosquitoes to battle deadly diseases]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么热泵是非常重要的]]></title>
+        <id>https://news.ycombinator.com/item?id=30814536</id>
+        <link href="https://news.ycombinator.com/item?id=30814536"/>
+        <updated>2022-03-26T19:20:01.000Z</updated>
+        <summary type="html"><![CDATA[Why Heat Pumps Are Immensely Important]]></summary>
+        <author>
+            <name>herbstein</name>
+            <uri>https://news.ycombinator.com/user?id=herbstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登谴责普京，称其 "不能继续执政]]></title>
         <id>https://news.ycombinator.com/item?id=30814373</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>MarcellusDrum</name>
             <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马切蒂的常数]]></title>
-        <id>https://news.ycombinator.com/item?id=30800724</id>
-        <link href="https://news.ycombinator.com/item?id=30800724"/>
-        <updated>2022-03-25T11:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Marchetti's Constant]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修改微软飞行模拟器4以在三个沉浸式显示器上运行]]></title>
-        <id>https://news.ycombinator.com/item?id=30800694</id>
-        <link href="https://news.ycombinator.com/item?id=30800694"/>
-        <updated>2022-03-25T11:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Modifying Microsoft Flight Simulator 4 to run on three immersive monitors]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在ShardingSphere-Proxy上部署Prometheus和Zipkin可观察数据插件]]></title>
-        <id>https://news.ycombinator.com/item?id=30800977</id>
-        <link href="https://news.ycombinator.com/item?id=30800977"/>
-        <updated>2022-03-25T11:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Deploy Prometheus and Zipkin observable data plugins on ShardingSphere-Proxy]]></summary>
-        <author>
-            <name>y2so</name>
-            <uri>https://news.ycombinator.com/user?id=y2so</uri>
         </author>
     </entry>
 </feed>
