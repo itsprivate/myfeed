@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T13:43:00.837Z</updated>
+    <updated>2022-03-26T13:51:47.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人们如何思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30811708</id>
+        <link href="https://news.ycombinator.com/item?id=30811708"/>
+        <updated>2022-03-26T13:42:11.000Z</updated>
+        <summary type="html"><![CDATA[How People Think]]></summary>
+        <author>
+            <name>civeng</name>
+            <uri>https://news.ycombinator.com/user?id=civeng</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland上Podman中的GUI应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30811661</id>
+        <link href="https://news.ycombinator.com/item?id=30811661"/>
+        <updated>2022-03-26T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></summary>
+        <author>
+            <name>moody5bundle</name>
+            <uri>https://news.ycombinator.com/user?id=moody5bundle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成为国际象棋明星的巴西女仆]]></title>
+        <id>https://news.ycombinator.com/item?id=30811633</id>
+        <link href="https://news.ycombinator.com/item?id=30811633"/>
+        <updated>2022-03-26T13:32:12.000Z</updated>
+        <summary type="html"><![CDATA[The Brazilian Maid Who Became a Chess Star]]></summary>
+        <author>
+            <name>gotmedium</name>
+            <uri>https://news.ycombinator.com/user?id=gotmedium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typebot。一个对话式的表单生成器，你可以自我托管]]></title>
+        <id>https://news.ycombinator.com/item?id=30811499</id>
+        <link href="https://news.ycombinator.com/item?id=30811499"/>
+        <updated>2022-03-26T13:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Typebot: A conversational form builder that you can self-host]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荷兰建筑创新展示了如何快速改造每座建筑]]></title>
+        <id>https://news.ycombinator.com/item?id=30811495</id>
+        <link href="https://news.ycombinator.com/item?id=30811495"/>
+        <updated>2022-03-26T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Dutch construction innovation shows how to quickly retrofit every building]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube因播放俄罗斯外长的讲话而封锁了新闻频道]]></title>
+        <id>https://news.ycombinator.com/item?id=30811410</id>
+        <link href="https://news.ycombinator.com/item?id=30811410"/>
+        <updated>2022-03-26T12:55:50.000Z</updated>
+        <summary type="html"><![CDATA[YouTube blocked news channel for showing Russian foreign minister's speach]]></summary>
+        <author>
+            <name>deven88</name>
+            <uri>https://news.ycombinator.com/user?id=deven88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前谷歌人工智能怀疑论者蒂姆尼特-格布鲁重新出发]]></title>
+        <id>https://news.ycombinator.com/item?id=30811285</id>
+        <link href="https://news.ycombinator.com/item?id=30811285"/>
+        <updated>2022-03-26T12:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Ex-Google AI skeptic Timnit Gebru starts anew]]></summary>
+        <author>
+            <name>olvy0</name>
+            <uri>https://news.ycombinator.com/user?id=olvy0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个寻找公共钢琴的网站]]></title>
         <id>https://news.ycombinator.com/item?id=30811648</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个莱克斯岛医生的幻灭之路]]></title>
-        <id>https://news.ycombinator.com/item?id=30798912</id>
-        <link href="https://news.ycombinator.com/item?id=30798912"/>
-        <updated>2022-03-25T05:27:02.000Z</updated>
-        <summary type="html"><![CDATA[The Disillusionment of a Rikers Island Doctor]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 36 测试版已上线]]></title>
-        <id>https://news.ycombinator.com/item?id=30798840</id>
-        <link href="https://news.ycombinator.com/item?id=30798840"/>
-        <updated>2022-03-25T05:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 36 beta is GO]]></summary>
-        <author>
-            <name>jamesy0ung</name>
-            <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDoS俄罗斯政府网站是否危险或不道德？]]></title>
-        <id>https://news.ycombinator.com/item?id=30798839</id>
-        <link href="https://news.ycombinator.com/item?id=30798839"/>
-        <updated>2022-03-25T05:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Is it dangerous or unethical to DDoS Russian gov sites?]]></summary>
-        <author>
-            <name>vpbusvltsmtk</name>
-            <uri>https://news.ycombinator.com/user?id=vpbusvltsmtk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[积极的解体理论]]></title>
-        <id>https://news.ycombinator.com/item?id=30798834</id>
-        <link href="https://news.ycombinator.com/item?id=30798834"/>
-        <updated>2022-03-25T05:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Theory of Positive Disintegration]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯考虑接受比特币购买石油和天然气]]></title>
-        <id>https://news.ycombinator.com/item?id=30798807</id>
-        <link href="https://news.ycombinator.com/item?id=30798807"/>
-        <updated>2022-03-25T05:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Russia considers accepting Bitcoin for oil and gas]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星数据显示南极洲的整个康格冰架已经崩塌]]></title>
-        <id>https://news.ycombinator.com/item?id=30798770</id>
-        <link href="https://news.ycombinator.com/item?id=30798770"/>
-        <updated>2022-03-25T04:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Satellite data shows entire Conger ice shelf has collapsed in Antarctica]]></summary>
-        <author>
-            <name>mindracer</name>
-            <uri>https://news.ycombinator.com/user?id=mindracer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eu新规则将影响苹果、谷歌和元数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30798761</id>
-        <link href="https://news.ycombinator.com/item?id=30798761"/>
-        <updated>2022-03-25T04:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Eu new rules would affect Apple, Google and meta]]></summary>
-        <author>
-            <name>ngcc_hk</name>
-            <uri>https://news.ycombinator.com/user?id=ngcc_hk</uri>
         </author>
     </entry>
 </feed>
