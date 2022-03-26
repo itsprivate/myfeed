@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T14:11:47.862Z</updated>
+    <updated>2022-03-26T14:29:12.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用AWS步骤函数和亚马逊API网关运行跨账户工作流]]></title>
+        <id>https://news.ycombinator.com/item?id=30811980</id>
+        <link href="https://news.ycombinator.com/item?id=30811980"/>
+        <updated>2022-03-26T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Filter_var Shenanigans]]></title>
+        <id>https://news.ycombinator.com/item?id=30811842</id>
+        <link href="https://news.ycombinator.com/item?id=30811842"/>
+        <updated>2022-03-26T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[PHP Filter_var Shenanigans]]></summary>
+        <author>
+            <name>mkeeter</name>
+            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你从未听说过的浏览器现在价值10亿美元]]></title>
         <id>https://news.ycombinator.com/item?id=30811808</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mysto</name>
             <uri>https://news.ycombinator.com/user?id=mysto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字市场法》。欧盟就大科技的新监管达成协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30798850</id>
-        <link href="https://news.ycombinator.com/item?id=30798850"/>
-        <updated>2022-03-25T05:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Digital Markets Act: Agreement in EU on new regulation of big tech]]></summary>
-        <author>
-            <name>dybber</name>
-            <uri>https://news.ycombinator.com/user?id=dybber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用纯功能语言超越Imperative（视频，35分钟）]]></title>
-        <id>https://news.ycombinator.com/item?id=30798383</id>
-        <link href="https://news.ycombinator.com/item?id=30798383"/>
-        <updated>2022-03-25T03:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Outperforming Imperative with Pure Functional Languages (Video, 35min)]]></summary>
-        <author>
-            <name>latexr</name>
-            <uri>https://news.ycombinator.com/user?id=latexr</uri>
         </author>
     </entry>
 </feed>
