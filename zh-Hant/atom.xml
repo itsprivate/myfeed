@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T22:40:31.745Z</updated>
+    <updated>2022-03-26T22:51:17.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝶變11.3版發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=30815948</id>
+        <link href="https://news.ycombinator.com/item?id=30815948"/>
+        <updated>2022-03-26T22:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Debian 11.3 released]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個自由職業者在美國衛生保健系統中的四十三年經歷]]></title>
+        <id>https://news.ycombinator.com/item?id=30815945</id>
+        <link href="https://news.ycombinator.com/item?id=30815945"/>
+        <updated>2022-03-26T22:32:04.000Z</updated>
+        <summary type="html"><![CDATA[A Freelancer's Forty-Three Years in the American Health-Care System]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ramfs, Rootfs 和 Initramfs]]></title>
         <id>https://news.ycombinator.com/item?id=30815954</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>eldridgea</name>
             <uri>https://news.ycombinator.com/user?id=eldridgea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[認識論的可讀性：容易爭論是一種美德]]></title>
-        <id>https://news.ycombinator.com/item?id=30802349</id>
-        <link href="https://news.ycombinator.com/item?id=30802349"/>
-        <updated>2022-03-25T14:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Epistemic legibility: being easy to argue with is a virtue]]></summary>
-        <author>
-            <name>shrikant</name>
-            <uri>https://news.ycombinator.com/user?id=shrikant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幽靈CVE的剖析]]></title>
-        <id>https://news.ycombinator.com/item?id=30802323</id>
-        <link href="https://news.ycombinator.com/item?id=30802323"/>
-        <updated>2022-03-25T14:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Anatomy of a Ghost CVE]]></summary>
-        <author>
-            <name>leephillips</name>
-            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
         </author>
     </entry>
 </feed>
