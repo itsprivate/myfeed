@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T09:12:13.608Z</updated>
+    <updated>2022-03-26T09:31:31.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Docker容器内运行GUI应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30810410</id>
+        <link href="https://news.ycombinator.com/item?id=30810410"/>
+        <updated>2022-03-26T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Running GUI apps within Docker containers]]></summary>
+        <author>
+            <name>rl1987</name>
+            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌。我们将不相关的搜索结果减少了50%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30810397</id>
+        <link href="https://news.ycombinator.com/item?id=30810397"/>
+        <updated>2022-03-26T09:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Google: We Reduced Irrelevant Search Results by 50%]]></summary>
+        <author>
+            <name>vincent_s</name>
+            <uri>https://news.ycombinator.com/user?id=vincent_s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿尔文，1989年的自动驾驶汽车]]></title>
+        <id>https://news.ycombinator.com/item?id=30810309</id>
+        <link href="https://news.ycombinator.com/item?id=30810309"/>
+        <updated>2022-03-26T08:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Alvinn, the self-driving car from 1989]]></summary>
+        <author>
+            <name>Febra33</name>
+            <uri>https://news.ycombinator.com/user?id=Febra33</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯国家核能公司的15.3GB数据被泄露]]></title>
+        <id>https://news.ycombinator.com/item?id=30810279</id>
+        <link href="https://news.ycombinator.com/item?id=30810279"/>
+        <updated>2022-03-26T08:47:19.000Z</updated>
+        <summary type="html"><![CDATA[15.3GB from Rosatom State Nuclear Energy Corporation Leaked]]></summary>
+        <author>
+            <name>chockchocschoir</name>
+            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube内容屏蔽器]]></title>
+        <id>https://news.ycombinator.com/item?id=30810183</id>
+        <link href="https://news.ycombinator.com/item?id=30810183"/>
+        <updated>2022-03-26T08:19:41.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Content Blocker]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯中央银行22.5GB数据被泄露]]></title>
         <id>https://news.ycombinator.com/item?id=30810275</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>kurthr</name>
             <uri>https://news.ycombinator.com/user?id=kurthr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVKSS：学术文章的黑暗存档]]></title>
-        <id>https://news.ycombinator.com/item?id=30797097</id>
-        <link href="https://news.ycombinator.com/item?id=30797097"/>
-        <updated>2022-03-24T23:57:13.000Z</updated>
-        <summary type="html"><![CDATA[CLOVKSS: A dark archive for scholarly articles]]></summary>
-        <author>
-            <name>Gadiguibou</name>
-            <uri>https://news.ycombinator.com/user?id=Gadiguibou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟通过全面的新反垄断法瞄准大科技公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30797058</id>
-        <link href="https://news.ycombinator.com/item?id=30797058"/>
-        <updated>2022-03-24T23:52:47.000Z</updated>
-        <summary type="html"><![CDATA[EU targets Big Tech with sweeping new antitrust legislation]]></summary>
-        <author>
-            <name>pier25</name>
-            <uri>https://news.ycombinator.com/user?id=pier25</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列阻止乌克兰购买飞马间谍软件，担心俄罗斯的愤怒]]></title>
-        <id>https://news.ycombinator.com/item?id=30796929</id>
-        <link href="https://news.ycombinator.com/item?id=30796929"/>
-        <updated>2022-03-24T23:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Israel blocked Ukraine from buying Pegasus spyware, fearing Russia’s anger]]></summary>
-        <author>
-            <name>SquibblesRedux</name>
-            <uri>https://news.ycombinator.com/user?id=SquibblesRedux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMA：欧盟机构就大科技的新规则达成共识]]></title>
-        <id>https://news.ycombinator.com/item?id=30796880</id>
-        <link href="https://news.ycombinator.com/item?id=30796880"/>
-        <updated>2022-03-24T23:33:31.000Z</updated>
-        <summary type="html"><![CDATA[DMA: EU institutions agree on new rules for Big Tech]]></summary>
-        <author>
-            <name>Vespasian</name>
-            <uri>https://news.ycombinator.com/user?id=Vespasian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌高管反驳员工薪酬问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30796495</id>
-        <link href="https://news.ycombinator.com/item?id=30796495"/>
-        <updated>2022-03-24T22:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Google execs push back on employee pay concerns]]></summary>
-        <author>
-            <name>theduder99</name>
-            <uri>https://news.ycombinator.com/user?id=theduder99</uri>
         </author>
     </entry>
 </feed>
