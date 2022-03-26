@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T13:07:26.018Z</updated>
+    <updated>2022-03-26T13:35:07.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们需要Lisp机]]></title>
+        <id>https://news.ycombinator.com/item?id=30811592</id>
+        <link href="https://news.ycombinator.com/item?id=30811592"/>
+        <updated>2022-03-26T13:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Why We Need Lisp Machines]]></summary>
+        <author>
+            <name>otacust</name>
+            <uri>https://news.ycombinator.com/user?id=otacust</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[处于边缘的农民]]></title>
+        <id>https://news.ycombinator.com/item?id=30811554</id>
+        <link href="https://news.ycombinator.com/item?id=30811554"/>
+        <updated>2022-03-26T13:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Farmers on the Brink]]></summary>
+        <author>
+            <name>baq</name>
+            <uri>https://news.ycombinator.com/user?id=baq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1994年与CRT同步的智能手表]]></title>
+        <id>https://news.ycombinator.com/item?id=30811549</id>
+        <link href="https://news.ycombinator.com/item?id=30811549"/>
+        <updated>2022-03-26T13:17:17.000Z</updated>
+        <summary type="html"><![CDATA[The 1994 Smartwatch That Syncs with a CRT]]></summary>
+        <author>
+            <name>david_acm</name>
+            <uri>https://news.ycombinator.com/user?id=david_acm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟将要求信息传递平台之间具有互操作性]]></title>
+        <id>https://news.ycombinator.com/item?id=30811480</id>
+        <link href="https://news.ycombinator.com/item?id=30811480"/>
+        <updated>2022-03-26T13:05:15.000Z</updated>
+        <summary type="html"><![CDATA[EU is going to require interoperability between messaging platforms]]></summary>
+        <author>
+            <name>goodpoint</name>
+            <uri>https://news.ycombinator.com/user?id=goodpoint</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[结束贫困的最简单、最革命性的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30811055</id>
+        <link href="https://news.ycombinator.com/item?id=30811055"/>
+        <updated>2022-03-26T11:50:31.000Z</updated>
+        <summary type="html"><![CDATA[The simplest, most revolutionary approach to ending poverty]]></summary>
+        <author>
+            <name>ContrarianBrit</name>
+            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
         <id>https://news.ycombinator.com/item?id=30811275</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰将向俄罗斯飞行员支付100万美元悬赏金以示叛逃]]></title>
-        <id>https://news.ycombinator.com/item?id=30798524</id>
-        <link href="https://news.ycombinator.com/item?id=30798524"/>
-        <updated>2022-03-25T03:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Will Pay Russian Pilots $1M Bounty to Defect]]></summary>
-        <author>
-            <name>systemvoltage</name>
-            <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建静态网站的最佳/最快的方法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30798634</id>
-        <link href="https://news.ycombinator.com/item?id=30798634"/>
-        <updated>2022-03-25T04:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Best/Fastest Way to Create Static Website?]]></summary>
-        <author>
-            <name>jdcampolargo</name>
-            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenParsec - 快节奏的多人跨平台3D互联网太空战斗]]></title>
-        <id>https://news.ycombinator.com/item?id=30798607</id>
-        <link href="https://news.ycombinator.com/item?id=30798607"/>
-        <updated>2022-03-25T04:18:33.000Z</updated>
-        <summary type="html"><![CDATA[OpenParsec – Fast-paced multiplayer cross-platform 3D Internet space combat]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipy 0.30.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30798577</id>
-        <link href="https://news.ycombinator.com/item?id=30798577"/>
-        <updated>2022-03-25T04:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipy 0.30.0]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收缩包装。驯服动态共享对象]]></title>
-        <id>https://news.ycombinator.com/item?id=30798569</id>
-        <link href="https://news.ycombinator.com/item?id=30798569"/>
-        <updated>2022-03-25T04:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Shrinkwrap: Taming Dynamic Shared Objects]]></summary>
-        <author>
-            <name>smasher164</name>
-            <uri>https://news.ycombinator.com/user?id=smasher164</uri>
         </author>
     </entry>
 </feed>
