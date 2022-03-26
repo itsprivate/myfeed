@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T17:34:36.446Z</updated>
+    <updated>2022-03-26T17:41:29.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MS Word缺少一个Settings.json]]></title>
+        <id>https://news.ycombinator.com/item?id=30812956</id>
+        <link href="https://news.ycombinator.com/item?id=30812956"/>
+        <updated>2022-03-26T15:56:13.000Z</updated>
+        <summary type="html"><![CDATA[MS Word Lacks a Settings.json]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个计算器来计算Stripe的费用]]></title>
+        <id>https://news.ycombinator.com/item?id=30812872</id>
+        <link href="https://news.ycombinator.com/item?id=30812872"/>
+        <updated>2022-03-26T15:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a calculator to figure out Stripe fees]]></summary>
+        <author>
+            <name>samlevy</name>
+            <uri>https://news.ycombinator.com/user?id=samlevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太阳轨道飞行器在周六历史性地接近太阳]]></title>
         <id>https://news.ycombinator.com/item?id=30813548</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hardmaru</name>
             <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Kaggle获胜（2022年）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30800348</id>
-        <link href="https://news.ycombinator.com/item?id=30800348"/>
-        <updated>2022-03-25T10:15:29.000Z</updated>
-        <summary type="html"><![CDATA[How to Win at Kaggle (2022)]]></summary>
-        <author>
-            <name>hcarlens</name>
-            <uri>https://news.ycombinator.com/user?id=hcarlens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年全球音乐市场价值260亿美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30800341</id>
-        <link href="https://news.ycombinator.com/item?id=30800341"/>
-        <updated>2022-03-25T10:14:45.000Z</updated>
-        <summary type="html"><![CDATA[The global music market was worth $26bn in 2021]]></summary>
-        <author>
-            <name>amech006</name>
-            <uri>https://news.ycombinator.com/user?id=amech006</uri>
         </author>
     </entry>
 </feed>
