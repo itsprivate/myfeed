@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T03:38:57.514Z</updated>
+    <updated>2022-03-26T03:53:33.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dagger - 便攜式CI/CD管道]]></title>
+        <id>https://news.ycombinator.com/item?id=30808912</id>
+        <link href="https://news.ycombinator.com/item?id=30808912"/>
+        <updated>2022-03-26T03:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Dagger – portable CI/CD pipeline]]></summary>
+        <author>
+            <name>rammy1234</name>
+            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原始傳說]]></title>
+        <id>https://news.ycombinator.com/item?id=30808438</id>
+        <link href="https://news.ycombinator.com/item?id=30808438"/>
+        <updated>2022-03-26T01:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Raw Lore]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立法者喝生牛奶慶祝合法化，立即生病 (2016)]]></title>
         <id>https://news.ycombinator.com/item?id=30808990</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chapulin</name>
             <uri>https://news.ycombinator.com/user?id=chapulin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電動汽車檢查站。蘋果汽車會是保時捷嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30794903</id>
-        <link href="https://news.ycombinator.com/item?id=30794903"/>
-        <updated>2022-03-24T20:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Electric Vehicle Checkpoint: Will the Apple Car Be a Porsche?]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結案。ESP是真實的]]></title>
-        <id>https://news.ycombinator.com/item?id=30794830</id>
-        <link href="https://news.ycombinator.com/item?id=30794830"/>
-        <updated>2022-03-24T20:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Case Closed: ESP Is Real]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
