@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T22:51:17.883Z</updated>
+    <updated>2022-03-26T23:12:04.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[理查德-費曼（Richard Feynman）。為什麼是磁鐵]]></title>
+        <id>https://news.ycombinator.com/item?id=30816040</id>
+        <link href="https://news.ycombinator.com/item?id=30816040"/>
+        <updated>2022-03-26T22:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Richard Feynman: Why Magnets]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西雅圖的衰落。喬治-弗洛伊德死後，這個城市轉向了警察]]></title>
+        <id>https://news.ycombinator.com/item?id=30816027</id>
+        <link href="https://news.ycombinator.com/item?id=30816027"/>
+        <updated>2022-03-26T22:43:52.000Z</updated>
+        <summary type="html"><![CDATA[The Fall of Seattle: After George Floyd died, the city turned on the police]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiscoverKiller--用你想要的東西取代谷歌發現的主屏幕]]></title>
+        <id>https://news.ycombinator.com/item?id=30816000</id>
+        <link href="https://news.ycombinator.com/item?id=30816000"/>
+        <updated>2022-03-26T22:38:19.000Z</updated>
+        <summary type="html"><![CDATA[DiscoverKiller- Replace the Google Discover home screen with whatever you want]]></summary>
+        <author>
+            <name>yonz</name>
+            <uri>https://news.ycombinator.com/user?id=yonz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC 1925 - 十二個網絡真理]]></title>
+        <id>https://news.ycombinator.com/item?id=30815614</id>
+        <link href="https://news.ycombinator.com/item?id=30815614"/>
+        <updated>2022-03-26T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[RFC 1925 – The Twelve Networking Truths]]></summary>
+        <author>
+            <name>throwoutway</name>
+            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝶變11.3版發佈]]></title>
         <id>https://news.ycombinator.com/item?id=30815948</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>amrrs</name>
             <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Colossal Biosciences的首席執行官Ben Lamm要為初創企業去粗取精？]]></title>
-        <id>https://news.ycombinator.com/item?id=30802086</id>
-        <link href="https://news.ycombinator.com/item?id=30802086"/>
-        <updated>2022-03-25T13:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Why Colossal Biosciences CEO Ben Lamm wants to de-glorify startups]]></summary>
-        <author>
-            <name>kjhughes</name>
-            <uri>https://news.ycombinator.com/user?id=kjhughes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的替代品--谷歌公墓]]></title>
-        <id>https://news.ycombinator.com/item?id=30801642</id>
-        <link href="https://news.ycombinator.com/item?id=30801642"/>
-        <updated>2022-03-25T13:04:09.000Z</updated>
-        <summary type="html"><![CDATA[Google Alternatives – The Google Cemetery]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你試著把你的獵物和呼吸同時束縛起來]]></title>
-        <id>https://news.ycombinator.com/item?id=30802508</id>
-        <link href="https://news.ycombinator.com/item?id=30802508"/>
-        <updated>2022-03-25T14:22:19.000Z</updated>
-        <summary type="html"><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易於使用的Cloudflare隧道]]></title>
-        <id>https://news.ycombinator.com/item?id=30802430</id>
-        <link href="https://news.ycombinator.com/item?id=30802430"/>
-        <updated>2022-03-25T14:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Easy to Use Cloudflare Tunnels]]></summary>
-        <author>
-            <name>eldridgea</name>
-            <uri>https://news.ycombinator.com/user?id=eldridgea</uri>
         </author>
     </entry>
 </feed>
