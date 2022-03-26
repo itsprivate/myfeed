@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T21:51:25.980Z</updated>
+    <updated>2022-03-26T22:11:14.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[暂时感到尴尬的百万富翁]]></title>
+        <id>https://news.ycombinator.com/item?id=30815674</id>
+        <link href="https://news.ycombinator.com/item?id=30815674"/>
+        <updated>2022-03-26T21:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Temporarily Embarrassed Millionaires]]></summary>
+        <author>
+            <name>slater</name>
+            <uri>https://news.ycombinator.com/user?id=slater</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链作为一个信心机器。信任的问题和挑战（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30815580</id>
+        <link href="https://news.ycombinator.com/item?id=30815580"/>
+        <updated>2022-03-26T21:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain as a confidence machine: The problem of trust and challenges (2020)]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否需要一个新的平台（Twitter）？]]></title>
         <id>https://news.ycombinator.com/item?id=30815383</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kitkat_new</name>
             <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字市场法》（DMA）。理事会和欧洲议会之间的协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30801848</id>
-        <link href="https://news.ycombinator.com/item?id=30801848"/>
-        <updated>2022-03-25T13:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Digital Markets Act (DMA): Agreement Between the Council and European Parliament]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因要求提供关于 "Covid错误信息 "的信息而对外科主任提起诉讼]]></title>
-        <id>https://news.ycombinator.com/item?id=30801834</id>
-        <link href="https://news.ycombinator.com/item?id=30801834"/>
-        <updated>2022-03-25T13:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit against Surgeon General over request for info on “Covid misinformation”]]></summary>
-        <author>
-            <name>LiminalRealm</name>
-            <uri>https://news.ycombinator.com/user?id=LiminalRealm</uri>
         </author>
     </entry>
 </feed>
