@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T22:31:15.922Z</updated>
+    <updated>2022-03-26T22:40:31.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ramfs, Rootfs 和 Initramfs]]></title>
+        <id>https://news.ycombinator.com/item?id=30815954</id>
+        <link href="https://news.ycombinator.com/item?id=30815954"/>
+        <updated>2022-03-26T22:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Ramfs, Rootfs and Initramfs]]></summary>
+        <author>
+            <name>anderspitman</name>
+            <uri>https://news.ycombinator.com/user?id=anderspitman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs DWIM: swiper vs. isearch vs. phi-search]]></title>
+        <id>https://news.ycombinator.com/item?id=30815828</id>
+        <link href="https://news.ycombinator.com/item?id=30815828"/>
+        <updated>2022-03-26T22:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Emacs DWIM: swiper vs. isearch vs. phi-search]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大联邦小组提议将数字身份证与疫苗护照联系起来]]></title>
+        <id>https://news.ycombinator.com/item?id=30815780</id>
+        <link href="https://news.ycombinator.com/item?id=30815780"/>
+        <updated>2022-03-26T22:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Canada federal panel proposes digital IDs tied to vaccine passports]]></summary>
+        <author>
+            <name>verisimi</name>
+            <uri>https://news.ycombinator.com/user?id=verisimi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维吾尔人 "自发 "的视频中反复出现政府的看管人员]]></title>
         <id>https://news.ycombinator.com/item?id=30815805</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare仪表板问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30802286</id>
-        <link href="https://news.ycombinator.com/item?id=30802286"/>
-        <updated>2022-03-25T14:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare Dashboard Issues]]></summary>
-        <author>
-            <name>uxx</name>
-            <uri>https://news.ycombinator.com/user?id=uxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安德鲁-吴预测未来10年的人工智能领域]]></title>
-        <id>https://news.ycombinator.com/item?id=30802285</id>
-        <link href="https://news.ycombinator.com/item?id=30802285"/>
-        <updated>2022-03-25T14:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Ng predicts the next 10 years in AI]]></summary>
-        <author>
-            <name>lorenzfx</name>
-            <uri>https://news.ycombinator.com/user?id=lorenzfx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语音信箱（VoWiFi]]></title>
-        <id>https://news.ycombinator.com/item?id=30802246</id>
-        <link href="https://news.ycombinator.com/item?id=30802246"/>
-        <updated>2022-03-25T13:59:32.000Z</updated>
-        <summary type="html"><![CDATA[VoWiFi]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
