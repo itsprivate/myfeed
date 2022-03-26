@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T07:31:26.396Z</updated>
+    <updated>2022-03-26T07:51:27.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python中字体渲染一致性的乐趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30809753</id>
+        <link href="https://news.ycombinator.com/item?id=30809753"/>
+        <updated>2022-03-26T06:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Fun with font rendering consistency in Python]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英吉利海的月球漩涡内的地形相关性]]></title>
+        <id>https://news.ycombinator.com/item?id=30809706</id>
+        <link href="https://news.ycombinator.com/item?id=30809706"/>
+        <updated>2022-03-26T06:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Topographic Correlations Within Lunar Swirls in Mare Ingenii]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的分析将木材与朝圣者时代的传奇船 "雀鹰 "号联系起来]]></title>
+        <id>https://news.ycombinator.com/item?id=30809702</id>
+        <link href="https://news.ycombinator.com/item?id=30809702"/>
+        <updated>2022-03-26T06:17:24.000Z</updated>
+        <summary type="html"><![CDATA[New analysis links timbers to the legendary Pilgrim-era boat Sparrow-Hawk]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASK HN]如何从YouTube上过滤掉MSM媒体？]]></title>
         <id>https://news.ycombinator.com/item?id=30809976</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kumare3</name>
             <uri>https://news.ycombinator.com/user?id=kumare3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字市场法》。欧盟规则确保公平竞争和用户的选择]]></title>
-        <id>https://news.ycombinator.com/item?id=30796540</id>
-        <link href="https://news.ycombinator.com/item?id=30796540"/>
-        <updated>2022-03-24T22:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Digital Markets Act: EU rules to ensure fair competition and choice for users]]></summary>
-        <author>
-            <name>tech234a</name>
-            <uri>https://news.ycombinator.com/user?id=tech234a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人在使用会所吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30796525</id>
-        <link href="https://news.ycombinator.com/item?id=30796525"/>
-        <updated>2022-03-24T22:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Is anyone still using Clubhouse?]]></summary>
-        <author>
-            <name>jkuria</name>
-            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟通过《数字市场法》，要求在2023年前实现信息互操作性]]></title>
-        <id>https://news.ycombinator.com/item?id=30796521</id>
-        <link href="https://news.ycombinator.com/item?id=30796521"/>
-        <updated>2022-03-24T22:57:56.000Z</updated>
-        <summary type="html"><![CDATA[EU Adopts Digital Markets Act, Messaging Interoperability Required by 2023]]></summary>
-        <author>
-            <name>coloneltcb</name>
-            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
         </author>
     </entry>
 </feed>
