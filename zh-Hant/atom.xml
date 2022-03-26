@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T16:45:26.965Z</updated>
+    <updated>2022-03-26T17:02:22.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立一個更快的文件傳輸協議]]></title>
+        <id>https://news.ycombinator.com/item?id=30813345</id>
+        <link href="https://news.ycombinator.com/item?id=30813345"/>
+        <updated>2022-03-26T16:44:54.000Z</updated>
+        <summary type="html"><![CDATA[How to build a faster file transfer protocol]]></summary>
+        <author>
+            <name>mcharawi</name>
+            <uri>https://news.ycombinator.com/user?id=mcharawi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDF不能被標記化（修復Go的PDF支持base85）]]></title>
+        <id>https://news.ycombinator.com/item?id=30813343</id>
+        <link href="https://news.ycombinator.com/item?id=30813343"/>
+        <updated>2022-03-26T16:44:44.000Z</updated>
+        <summary type="html"><![CDATA[PDF cannot be tokenized (fixing Go's PDF support for base85)]]></summary>
+        <author>
+            <name>t8sr</name>
+            <uri>https://news.ycombinator.com/user?id=t8sr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是一個二十年的卡車司機，第二部分：卡車司機是如何獲得報酬的]]></title>
+        <id>https://news.ycombinator.com/item?id=30813331</id>
+        <link href="https://news.ycombinator.com/item?id=30813331"/>
+        <updated>2022-03-26T16:42:40.000Z</updated>
+        <summary type="html"><![CDATA[I Am a Twenty Year Truck Driver, Part 2: How Truckers Are Paid]]></summary>
+        <author>
+            <name>Geekette</name>
+            <uri>https://news.ycombinator.com/user?id=Geekette</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個異常簡單的萬物理論]]></title>
+        <id>https://news.ycombinator.com/item?id=30813313</id>
+        <link href="https://news.ycombinator.com/item?id=30813313"/>
+        <updated>2022-03-26T16:39:51.000Z</updated>
+        <summary type="html"><![CDATA[An Exceptionally Simple Theory of Everything]]></summary>
+        <author>
+            <name>hsnewman</name>
+            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯合國的烏克蘭投票顯示了全球政治的種族潛臺詞]]></title>
+        <id>https://news.ycombinator.com/item?id=30813299</id>
+        <link href="https://news.ycombinator.com/item?id=30813299"/>
+        <updated>2022-03-26T16:38:09.000Z</updated>
+        <summary type="html"><![CDATA[UN’s Ukraine vote shows the racial subtext of global politics]]></summary>
+        <author>
+            <name>webmobdev</name>
+            <uri>https://news.ycombinator.com/user?id=webmobdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大腦化學物質幫助向神經元發出何時開始運動的信號]]></title>
+        <id>https://news.ycombinator.com/item?id=30813204</id>
+        <link href="https://news.ycombinator.com/item?id=30813204"/>
+        <updated>2022-03-26T16:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Brain Chemical Helps Signal to Neurons When to Start a Movement]]></summary>
+        <author>
+            <name>chapulin</name>
+            <uri>https://news.ycombinator.com/user?id=chapulin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯里蘭卡報紙因紙張短缺週六暫停印刷版]]></title>
+        <id>https://news.ycombinator.com/item?id=30813164</id>
+        <link href="https://news.ycombinator.com/item?id=30813164"/>
+        <updated>2022-03-26T16:22:27.000Z</updated>
+        <summary type="html"><![CDATA[SriLankan newspaper suspends print edition on Saturday due to a paper shortage]]></summary>
+        <author>
+            <name>hkc</name>
+            <uri>https://news.ycombinator.com/user?id=hkc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中國迫使Mozilla從其商店中刪除廣告屏蔽程序]]></title>
         <id>https://news.ycombinator.com/item?id=30813312</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>gbrown_</name>
             <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAP - 使用鐵鏽的家庭植物滴灌技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30800122</id>
-        <link href="https://news.ycombinator.com/item?id=30800122"/>
-        <updated>2022-03-25T09:35:03.000Z</updated>
-        <summary type="html"><![CDATA[WAP – Drip Irrigation for House Plants using Rust]]></summary>
-        <author>
-            <name>mogambo1</name>
-            <uri>https://news.ycombinator.com/user?id=mogambo1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle Haiku]]></title>
-        <id>https://news.ycombinator.com/item?id=30800113</id>
-        <link href="https://news.ycombinator.com/item?id=30800113"/>
-        <updated>2022-03-25T09:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Wordle Haiku]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地方第一的合作。邊緣的自治，由加密貨幣保障，100%可用]]></title>
-        <id>https://news.ycombinator.com/item?id=30800069</id>
-        <link href="https://news.ycombinator.com/item?id=30800069"/>
-        <updated>2022-03-25T09:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Local-First Cooperation: Autonomy at the Edge, Secured by Crypto, 100% Available]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏽是極簡主義]]></title>
-        <id>https://news.ycombinator.com/item?id=30799985</id>
-        <link href="https://news.ycombinator.com/item?id=30799985"/>
-        <updated>2022-03-25T09:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Rust Is Minimalist]]></summary>
-        <author>
-            <name>cjg</name>
-            <uri>https://news.ycombinator.com/user?id=cjg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們為什麼和如何使用原始地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30799818</id>
-        <link href="https://news.ycombinator.com/item?id=30799818"/>
-        <updated>2022-03-25T08:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Why and how we use primitive maps]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS中斷--來自作戰室的一個小故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30800050</id>
-        <link href="https://news.ycombinator.com/item?id=30800050"/>
-        <updated>2022-03-25T09:21:23.000Z</updated>
-        <summary type="html"><![CDATA[AWS Outage – a short story from the war room]]></summary>
-        <author>
-            <name>korostelevm</name>
-            <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破紀錄的Qubit存儲使量子通信更近一步]]></title>
-        <id>https://news.ycombinator.com/item?id=30799957</id>
-        <link href="https://news.ycombinator.com/item?id=30799957"/>
-        <updated>2022-03-25T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Record-Breaking Qubit Storage Brings Quantum Telecommunication Closer]]></summary>
-        <author>
-            <name>wjSgoWPm5bWAhXB</name>
-            <uri>https://news.ycombinator.com/user?id=wjSgoWPm5bWAhXB</uri>
         </author>
     </entry>
 </feed>
