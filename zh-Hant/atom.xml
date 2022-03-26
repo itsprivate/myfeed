@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T14:29:12.874Z</updated>
+    <updated>2022-03-26T14:37:03.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重新開始--為新型計算機提供新型操作系統的FOSS建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30811899</id>
+        <link href="https://news.ycombinator.com/item?id=30811899"/>
+        <updated>2022-03-26T14:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用AWS步驟函數和亞馬遜API網關運行跨賬戶工作流]]></title>
         <id>https://news.ycombinator.com/item?id=30811980</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wolverine876</name>
             <uri>https://news.ycombinator.com/user?id=wolverine876</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲同意制定新的法律來遏制大型科技公司的主導地位]]></title>
-        <id>https://news.ycombinator.com/item?id=30798890</id>
-        <link href="https://news.ycombinator.com/item?id=30798890"/>
-        <updated>2022-03-25T05:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Europe agrees new law to curb Big Tech dominance]]></summary>
-        <author>
-            <name>mysto</name>
-            <uri>https://news.ycombinator.com/user?id=mysto</uri>
         </author>
     </entry>
 </feed>
