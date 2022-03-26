@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T03:53:33.151Z</updated>
+    <updated>2022-03-26T04:14:23.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[夏令时的正午时分]]></title>
+        <id>https://news.ycombinator.com/item?id=30809073</id>
+        <link href="https://news.ycombinator.com/item?id=30809073"/>
+        <updated>2022-03-26T03:42:27.000Z</updated>
+        <summary type="html"><![CDATA[High Noon for Daylight Savings Time]]></summary>
+        <author>
+            <name>snvzz</name>
+            <uri>https://news.ycombinator.com/user?id=snvzz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dagger - 便携式CI/CD管道]]></title>
         <id>https://news.ycombinator.com/item?id=30808912</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>open-source-ux</name>
             <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1991年核电站的一次秘密训练中，几十名男子生病了]]></title>
-        <id>https://news.ycombinator.com/item?id=30795115</id>
-        <link href="https://news.ycombinator.com/item?id=30795115"/>
-        <updated>2022-03-24T20:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Dozens of Men Got Sick During a Secret Training Exercise at Nuclear Site in 1991]]></summary>
-        <author>
-            <name>chapulin</name>
-            <uri>https://news.ycombinator.com/user?id=chapulin</uri>
         </author>
     </entry>
 </feed>
