@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 26 Mar 2022 10:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在是裤子还是短裤的天气？]]></title>
+            <link>https://news.ycombinator.com/item?id=30810657</link>
+            <guid>https://news.ycombinator.com/item?id=30810657</guid>
+            <pubDate>Sat, 26 Mar 2022 10:25:15 GMT</pubDate>
+            <description><![CDATA[Show HN: It is pants or shorts weather?]]></description>
+        </item>
         <item>
             <title><![CDATA[Slint：用于Rust、C++或JavaScript的本地GUI工具箱]]></title>
             <link>https://news.ycombinator.com/item?id=30810533</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30797635</guid>
             <pubDate>Fri, 25 Mar 2022 01:10:14 GMT</pubDate>
             <description><![CDATA[Open source ML orchestration tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[资本主义正在毁掉科学]]></title>
-            <link>https://news.ycombinator.com/item?id=30797630</link>
-            <guid>https://news.ycombinator.com/item?id=30797630</guid>
-            <pubDate>Fri, 25 Mar 2022 01:08:52 GMT</pubDate>
-            <description><![CDATA[Capitalism Is Ruining Science]]></description>
         </item>
     </channel>
 </rss>

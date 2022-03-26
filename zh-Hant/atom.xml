@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T10:44:08.821Z</updated>
+    <updated>2022-03-26T10:51:29.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在是褲子還是短褲的天氣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30810657</id>
+        <link href="https://news.ycombinator.com/item?id=30810657"/>
+        <updated>2022-03-26T10:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: It is pants or shorts weather?]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slint：用於Rust、C++或JavaScript的本地GUI工具箱]]></title>
         <id>https://news.ycombinator.com/item?id=30810533</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cheeseblubber</name>
             <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[資本主義正在毀掉科學]]></title>
-        <id>https://news.ycombinator.com/item?id=30797630</id>
-        <link href="https://news.ycombinator.com/item?id=30797630"/>
-        <updated>2022-03-25T01:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Capitalism Is Ruining Science]]></summary>
-        <author>
-            <name>srirangr</name>
-            <uri>https://news.ycombinator.com/user?id=srirangr</uri>
         </author>
     </entry>
 </feed>
