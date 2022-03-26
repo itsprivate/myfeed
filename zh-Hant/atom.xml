@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T05:12:44.901Z</updated>
+    <updated>2022-03-26T05:29:01.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[頂尖的開發人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30809415</id>
+        <link href="https://news.ycombinator.com/item?id=30809415"/>
+        <updated>2022-03-26T05:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Top% Developer]]></summary>
+        <author>
+            <name>objectivecdev</name>
+            <uri>https://news.ycombinator.com/user?id=objectivecdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ht3 - 搜索非貨幣化的非媒體科技博客]]></title>
         <id>https://news.ycombinator.com/item?id=30809354</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simplicialset</name>
             <uri>https://news.ycombinator.com/user?id=simplicialset</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞當斯為紐約市的運動員和表演者開脫，讓他們在反擊聲中免於接種疫苗的任務]]></title>
-        <id>https://news.ycombinator.com/item?id=30795532</id>
-        <link href="https://news.ycombinator.com/item?id=30795532"/>
-        <updated>2022-03-24T21:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Adams Excuses NYC Athletes, Performers from Vaccine Mandate Amid Backlash]]></summary>
-        <author>
-            <name>frob</name>
-            <uri>https://news.ycombinator.com/user?id=frob</uri>
         </author>
     </entry>
 </feed>
