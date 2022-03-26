@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-26T06:37:49.940Z</updated>
+    <updated>2022-03-26T06:55:24.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[菲律賓首都附近的塔爾火山噴發--噴出大量蒸汽和灰燼]]></title>
+        <id>https://news.ycombinator.com/item?id=30809550</id>
+        <link href="https://news.ycombinator.com/item?id=30809550"/>
+        <updated>2022-03-26T05:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Taal Volcano Near Philippine Capital Erupts – Spewing Plume of Steam and Ash]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地熱廠可以在美國西部打開大量的鋰供應]]></title>
         <id>https://news.ycombinator.com/item?id=30809654</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>geerlingguy</name>
             <uri>https://news.ycombinator.com/user?id=geerlingguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 被遺忘的物理學]]></title>
-        <id>https://news.ycombinator.com/item?id=30796189</id>
-        <link href="https://news.ycombinator.com/item?id=30796189"/>
-        <updated>2022-03-24T22:29:29.000Z</updated>
-        <summary type="html"><![CDATA[ Forgotten Physics]]></summary>
-        <author>
-            <name>rpz</name>
-            <uri>https://news.ycombinator.com/user?id=rpz</uri>
         </author>
     </entry>
 </feed>
