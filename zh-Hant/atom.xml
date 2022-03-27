@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T09:30:42.393Z</updated>
+    <updated>2022-03-27T09:39:45.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家們正在研究 "傳染性疫苗"]]></title>
+        <id>https://news.ycombinator.com/item?id=30818906</id>
+        <link href="https://news.ycombinator.com/item?id=30818906"/>
+        <updated>2022-03-27T09:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Scientists Are Working on “Contagious Vaccines”]]></summary>
+        <author>
+            <name>wjSgoWPm5bWAhXB</name>
+            <uri>https://news.ycombinator.com/user?id=wjSgoWPm5bWAhXB</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看起來你在試圖接管世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30818895</id>
+        <link href="https://news.ycombinator.com/item?id=30818895"/>
+        <updated>2022-03-27T09:20:06.000Z</updated>
+        <summary type="html"><![CDATA[It Looks Like You’re Trying to Take over the World]]></summary>
+        <author>
+            <name>rvrst</name>
+            <uri>https://news.ycombinator.com/user?id=rvrst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他汀類藥物的好處可能被誇大了]]></title>
         <id>https://news.ycombinator.com/item?id=30818841</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM 14.0.0發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30805141</id>
-        <link href="https://news.ycombinator.com/item?id=30805141"/>
-        <updated>2022-03-25T17:46:14.000Z</updated>
-        <summary type="html"><![CDATA[LLVM 14.0.0 Release]]></summary>
-        <author>
-            <name>zmodem</name>
-            <uri>https://news.ycombinator.com/user?id=zmodem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於男性的避孕藥可能在今年晚些時候開始人體試驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30805136</id>
-        <link href="https://news.ycombinator.com/item?id=30805136"/>
-        <updated>2022-03-25T17:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Birth control pill for men could begin human trials later this year]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
