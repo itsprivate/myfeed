@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T02:59:18.086Z</updated>
+    <updated>2022-03-27T03:17:31.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自我修改的代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30817368</id>
+        <link href="https://news.ycombinator.com/item?id=30817368"/>
+        <updated>2022-03-27T03:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Self Modifying Code]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將通過DARPA的新NOM4D計劃探索基於空間的製造業]]></title>
+        <id>https://news.ycombinator.com/item?id=30817056</id>
+        <link href="https://news.ycombinator.com/item?id=30817056"/>
+        <updated>2022-03-27T01:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Space-based manufacturing to be explored via DARPA’s new NOM4D program]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用Pipy代理創建一個網絡代理]]></title>
         <id>https://news.ycombinator.com/item?id=30817252</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪斯尼正悄悄地將經典的福克斯電影放入其庫房，這令人擔憂]]></title>
-        <id>https://news.ycombinator.com/item?id=30803437</id>
-        <link href="https://news.ycombinator.com/item?id=30803437"/>
-        <updated>2022-03-25T15:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Disney Is Quietly Placing Classic Fox Movies into Its Vault, and That’s Worrying]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無可可的 "巧克力 "解決了行業的氣候和童工問題 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30803380</id>
-        <link href="https://news.ycombinator.com/item?id=30803380"/>
-        <updated>2022-03-25T15:32:38.000Z</updated>
-        <summary type="html"><![CDATA[No-cocoa ‘chocolate’ solves industry’s climate and child-labor problems (2021)]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
