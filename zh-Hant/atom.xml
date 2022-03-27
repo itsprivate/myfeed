@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T23:42:04.106Z</updated>
+    <updated>2022-03-27T23:51:25.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[注射式電極可以預防致命的心律失常]]></title>
+        <id>https://news.ycombinator.com/item?id=30825245</id>
+        <link href="https://news.ycombinator.com/item?id=30825245"/>
+        <updated>2022-03-27T23:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Injectable electrodes could prevent deadly heart arrhythmias]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏽。輕鬆認證終於在Axum中實現]]></title>
         <id>https://news.ycombinator.com/item?id=30825244</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vincent_s</name>
             <uri>https://news.ycombinator.com/user?id=vincent_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿爾文，1989年的自動駕駛汽車]]></title>
-        <id>https://news.ycombinator.com/item?id=30810309</id>
-        <link href="https://news.ycombinator.com/item?id=30810309"/>
-        <updated>2022-03-26T08:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Alvinn, the self-driving car from 1989]]></summary>
-        <author>
-            <name>Febra33</name>
-            <uri>https://news.ycombinator.com/user?id=Febra33</uri>
         </author>
     </entry>
 </feed>
