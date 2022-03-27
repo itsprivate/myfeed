@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T11:10:52.556Z</updated>
+    <updated>2022-03-27T11:29:18.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭正在使用埃隆-馬斯克的Starlink進行無人機打擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30819413</id>
+        <link href="https://news.ycombinator.com/item?id=30819413"/>
+        <updated>2022-03-27T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine is using Elon Musk's Starlink for drone strikes]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackRF/Portapack的文件可以打開範圍內的任何特斯拉汽車充電端口]]></title>
+        <id>https://news.ycombinator.com/item?id=30819372</id>
+        <link href="https://news.ycombinator.com/item?id=30819372"/>
+        <updated>2022-03-27T11:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Files for HackRF/Portapack to open any Tesla vehicle charging ports in range]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TDF的LibreOffice在線資源庫被暫時凍結了]]></title>
         <id>https://news.ycombinator.com/item?id=30819279</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>RadixDLT</name>
             <uri>https://news.ycombinator.com/user?id=RadixDLT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EnvKey端到端加密環境現已開放源代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30805627</id>
-        <link href="https://news.ycombinator.com/item?id=30805627"/>
-        <updated>2022-03-25T18:36:06.000Z</updated>
-        <summary type="html"><![CDATA[EnvKey End-to-End Encrypted Environments Is Now Open-Source]]></summary>
-        <author>
-            <name>delduca</name>
-            <uri>https://news.ycombinator.com/user?id=delduca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify暫停其在俄羅斯的服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30805600</id>
-        <link href="https://news.ycombinator.com/item?id=30805600"/>
-        <updated>2022-03-25T18:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Spotify is suspending its services in Russia]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
