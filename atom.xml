@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T10:35:19.227Z</updated>
+    <updated>2022-03-27T10:43:42.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python和Qt简化版。在几分钟内创建一个Python图形用户界面]]></title>
+        <id>https://news.ycombinator.com/item?id=30819136</id>
+        <link href="https://news.ycombinator.com/item?id=30819136"/>
+        <updated>2022-03-27T10:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Python and Qt Simplified. Create a Python GUI in Minutes]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源的视频复杂性分析器（VCA）]]></title>
+        <id>https://news.ycombinator.com/item?id=30819122</id>
+        <link href="https://news.ycombinator.com/item?id=30819122"/>
+        <updated>2022-03-27T10:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Video Complexity Analyser (VCA)]]></summary>
+        <author>
+            <name>slederer</name>
+            <uri>https://news.ycombinator.com/user?id=slederer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弊的微处理器 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30819084</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hkc</name>
             <uri>https://news.ycombinator.com/user?id=hkc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏令时对你的健康有危害吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30805135</id>
-        <link href="https://news.ycombinator.com/item?id=30805135"/>
-        <updated>2022-03-25T17:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Is Daylight Saving Time Hazardous to Your Health?]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当纽约市成为窃听者的梦想时]]></title>
-        <id>https://news.ycombinator.com/item?id=30805400</id>
-        <link href="https://news.ycombinator.com/item?id=30805400"/>
-        <updated>2022-03-25T18:13:11.000Z</updated>
-        <summary type="html"><![CDATA[When New York City Was a Wiretapper’s Dream]]></summary>
-        <author>
-            <name>bangonkeyboard</name>
-            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
         </author>
     </entry>
 </feed>
