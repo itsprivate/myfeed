@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T09:51:10.733Z</updated>
+    <updated>2022-03-27T10:14:03.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[滚动的犀牛。乌班图正在进行滚动发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30819024</id>
+        <link href="https://news.ycombinator.com/item?id=30819024"/>
+        <updated>2022-03-27T09:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Rolling Rhino: Ubuntu is getting a rolling release]]></summary>
+        <author>
+            <name>moondev</name>
+            <uri>https://news.ycombinator.com/user?id=moondev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60至100岁成年人的第二次强化疫苗和Covid-19死亡率]]></title>
+        <id>https://news.ycombinator.com/item?id=30819023</id>
+        <link href="https://news.ycombinator.com/item?id=30819023"/>
+        <updated>2022-03-27T09:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Second Booster Vaccine and Covid-19 Mortality in Adults 60 to 100 Years Old]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个雄心勃勃的维基数据教程（2015）[pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30818859</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>watusername</name>
             <uri>https://news.ycombinator.com/user?id=watusername</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚幻引擎5是下一个巫师游戏的最佳选择吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30805274</id>
-        <link href="https://news.ycombinator.com/item?id=30805274"/>
-        <updated>2022-03-25T17:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Is Unreal Engine 5 the best choice for the next Witcher game?]]></summary>
-        <author>
-            <name>olvy0</name>
-            <uri>https://news.ycombinator.com/user?id=olvy0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件揭示了美国宇航局在重新命名韦伯望远镜上的内部斗争]]></title>
-        <id>https://news.ycombinator.com/item?id=30805153</id>
-        <link href="https://news.ycombinator.com/item?id=30805153"/>
-        <updated>2022-03-25T17:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Documents reveal NASA’s internal struggles over renaming Webb telescope]]></summary>
-        <author>
-            <name>ryzvonusef</name>
-            <uri>https://news.ycombinator.com/user?id=ryzvonusef</uri>
         </author>
     </entry>
 </feed>
