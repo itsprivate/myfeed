@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T04:57:37.676Z</updated>
+    <updated>2022-03-27T05:11:47.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[護士在注射意外死亡事件中被判有罪]]></title>
+        <id>https://news.ycombinator.com/item?id=30817731</id>
+        <link href="https://news.ycombinator.com/item?id=30817731"/>
+        <updated>2022-03-27T04:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Nurse found guilty in accidental injection death]]></summary>
+        <author>
+            <name>rudedogg</name>
+            <uri>https://news.ycombinator.com/user?id=rudedogg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件工程師的補償飛輪]]></title>
+        <id>https://news.ycombinator.com/item?id=30817376</id>
+        <link href="https://news.ycombinator.com/item?id=30817376"/>
+        <updated>2022-03-27T03:02:19.000Z</updated>
+        <summary type="html"><![CDATA[The software engineer compensation flywheel]]></summary>
+        <author>
+            <name>maytc</name>
+            <uri>https://news.ycombinator.com/user?id=maytc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家建立電路，用石墨烯產生清潔、無限的電力]]></title>
         <id>https://news.ycombinator.com/item?id=30817793</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hprotagonist</name>
             <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界基金會。讓我們創造氣候技術領袖]]></title>
-        <id>https://news.ycombinator.com/item?id=30803386</id>
-        <link href="https://news.ycombinator.com/item?id=30803386"/>
-        <updated>2022-03-25T15:33:04.000Z</updated>
-        <summary type="html"><![CDATA[World Fund: Let’s create climate tech leaders]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1沙特阿拉伯大獎賽現場。爆炸衝擊練習場]]></title>
-        <id>https://news.ycombinator.com/item?id=30803352</id>
-        <link href="https://news.ycombinator.com/item?id=30803352"/>
-        <updated>2022-03-25T15:30:32.000Z</updated>
-        <summary type="html"><![CDATA[F1 Saudi Arabian Grand Prix Live: Explosion Rocks Practice]]></summary>
-        <author>
-            <name>the-dude</name>
-            <uri>https://news.ycombinator.com/user?id=the-dude</uri>
         </author>
     </entry>
 </feed>
