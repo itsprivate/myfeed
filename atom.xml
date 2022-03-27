@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T09:39:45.439Z</updated>
+    <updated>2022-03-27T09:51:10.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个雄心勃勃的维基数据教程（2015）[pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30818859</id>
+        <link href="https://news.ycombinator.com/item?id=30818859"/>
+        <updated>2022-03-27T09:11:38.000Z</updated>
+        <summary type="html"><![CDATA[An Ambitious Wikidata Tutorial (2015) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家们正在研究 "传染性疫苗"]]></title>
         <id>https://news.ycombinator.com/item?id=30818906</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ryzvonusef</name>
             <uri>https://news.ycombinator.com/user?id=ryzvonusef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小费来自于奴隶制吗？1619项目再次撒谎]]></title>
-        <id>https://news.ycombinator.com/item?id=30805151</id>
-        <link href="https://news.ycombinator.com/item?id=30805151"/>
-        <updated>2022-03-25T17:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Did Tipping Come from Slavery? The 1619 Project Lies Again]]></summary>
-        <author>
-            <name>leephillips</name>
-            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
         </author>
     </entry>
 </feed>
