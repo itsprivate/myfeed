@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T12:50:07.691Z</updated>
+    <updated>2022-03-27T13:08:08.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高中生設計的去除自來水中鉛的過濾器]]></title>
+        <id>https://news.ycombinator.com/item?id=30819725</id>
+        <link href="https://news.ycombinator.com/item?id=30819725"/>
+        <updated>2022-03-27T12:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Filter to Remove Lead from Tap Water Designed by High Schoolers]]></summary>
+        <author>
+            <name>davesailer</name>
+            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capyloon移動網絡操作系統可用於PinePhone Pro、Librem 5、Pixel 3a上]]></title>
         <id>https://news.ycombinator.com/item?id=30819748</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有一個針對二進制格式的Swagger/OpenAPI？]]></title>
-        <id>https://news.ycombinator.com/item?id=30806032</id>
-        <link href="https://news.ycombinator.com/item?id=30806032"/>
-        <updated>2022-03-25T19:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't there a Swagger/OpenAPI for binary formats?]]></summary>
-        <author>
-            <name>woodrowbarlow</name>
-            <uri>https://news.ycombinator.com/user?id=woodrowbarlow</uri>
         </author>
     </entry>
 </feed>

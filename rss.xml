@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 27 Mar 2022 12:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 13:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[高中生设计的去除自来水中铅的过滤器]]></title>
+            <link>https://news.ycombinator.com/item?id=30819725</link>
+            <guid>https://news.ycombinator.com/item?id=30819725</guid>
+            <pubDate>Sun, 27 Mar 2022 12:28:07 GMT</pubDate>
+            <description><![CDATA[Filter to Remove Lead from Tap Water Designed by High Schoolers]]></description>
+        </item>
         <item>
             <title><![CDATA[Capyloon移动网络操作系统可用于PinePhone Pro、Librem 5、Pixel 3a上]]></title>
             <link>https://news.ycombinator.com/item?id=30819748</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30806046</guid>
             <pubDate>Fri, 25 Mar 2022 19:15:44 GMT</pubDate>
             <description><![CDATA[macOS 12.3 replaces nano with pico]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有一个针对二进制格式的Swagger/OpenAPI？]]></title>
-            <link>https://news.ycombinator.com/item?id=30806032</link>
-            <guid>https://news.ycombinator.com/item?id=30806032</guid>
-            <pubDate>Fri, 25 Mar 2022 19:13:55 GMT</pubDate>
-            <description><![CDATA[Why isn't there a Swagger/OpenAPI for binary formats?]]></description>
         </item>
     </channel>
 </rss>
