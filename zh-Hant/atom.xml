@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T07:36:39.227Z</updated>
+    <updated>2022-03-27T08:14:07.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[受過高等教育的芬蘭人最可能有兩個孩子]]></title>
+        <id>https://news.ycombinator.com/item?id=30818552</id>
+        <link href="https://news.ycombinator.com/item?id=30818552"/>
+        <updated>2022-03-27T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Highly Educated Finns Most Likely to Have Two Children]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle創建者描述遊戲的崛起，稱《紐約時報》的出售是 "一種走開的方式"]]></title>
+        <id>https://news.ycombinator.com/item?id=30818429</id>
+        <link href="https://news.ycombinator.com/item?id=30818429"/>
+        <updated>2022-03-27T07:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Wordle creator describes game’s rise, says NYT sale was “a way to walk away”]]></summary>
+        <author>
+            <name>smugma</name>
+            <uri>https://news.ycombinator.com/user?id=smugma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以拋棄我的工作筆記本而使用Steam Deck嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30818225</id>
+        <link href="https://news.ycombinator.com/item?id=30818225"/>
+        <updated>2022-03-27T06:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Can I ditch my work laptop for a Steam Deck?]]></summary>
+        <author>
+            <name>Stevvo</name>
+            <uri>https://news.ycombinator.com/user?id=Stevvo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介紹一下Swift的異步算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30818195</id>
+        <link href="https://news.ycombinator.com/item?id=30818195"/>
+        <updated>2022-03-27T06:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Swift Async Algorithms]]></summary>
+        <author>
+            <name>DantesKite</name>
+            <uri>https://news.ycombinator.com/user?id=DantesKite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白領之家]]></title>
         <id>https://news.ycombinator.com/item?id=30818408</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>simontheowl</name>
             <uri>https://news.ycombinator.com/user?id=simontheowl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香農編號]]></title>
-        <id>https://news.ycombinator.com/item?id=30804754</id>
-        <link href="https://news.ycombinator.com/item?id=30804754"/>
-        <updated>2022-03-25T17:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Shannon Number]]></summary>
-        <author>
-            <name>Kye</name>
-            <uri>https://news.ycombinator.com/user?id=Kye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本田的各種車輛在每次打開車門時都會發送相同的、未加密的射頻信號。]]></title>
-        <id>https://news.ycombinator.com/item?id=30804702</id>
-        <link href="https://news.ycombinator.com/item?id=30804702"/>
-        <updated>2022-03-25T17:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Various Honda vehicles send the same, unencrypted RF signal for each door-open]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box86/Box64 vs. QEMU vs. FEX (vs Rosetta2)]]></title>
-        <id>https://news.ycombinator.com/item?id=30804647</id>
-        <link href="https://news.ycombinator.com/item?id=30804647"/>
-        <updated>2022-03-25T17:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Box86/Box64 vs. QEMU vs. FEX (Vs Rosetta2)]]></summary>
-        <author>
-            <name>johnklos</name>
-            <uri>https://news.ycombinator.com/user?id=johnklos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的 "三比一 "優勢]]></title>
-        <id>https://news.ycombinator.com/item?id=30804630</id>
-        <link href="https://news.ycombinator.com/item?id=30804630"/>
-        <updated>2022-03-25T17:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine’s Three-to-One Advantage]]></summary>
-        <author>
-            <name>mchan</name>
-            <uri>https://news.ycombinator.com/user?id=mchan</uri>
         </author>
     </entry>
 </feed>
