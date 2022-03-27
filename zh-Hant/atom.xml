@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T09:15:17.574Z</updated>
+    <updated>2022-03-27T09:30:42.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[他汀類藥物的好處可能被誇大了]]></title>
+        <id>https://news.ycombinator.com/item?id=30818841</id>
+        <link href="https://news.ycombinator.com/item?id=30818841"/>
+        <updated>2022-03-27T09:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Benefits of statins may have been overstated]]></summary>
+        <author>
+            <name>ContrarianBrit</name>
+            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寫出能激發快樂的公關文章]]></title>
+        <id>https://news.ycombinator.com/item?id=30818388</id>
+        <link href="https://news.ycombinator.com/item?id=30818388"/>
+        <updated>2022-03-27T07:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Write PRs that spark joy]]></summary>
+        <author>
+            <name>swyx</name>
+            <uri>https://news.ycombinator.com/user?id=swyx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KeepAlive.Finance - 保持你的信用卡活力]]></title>
         <id>https://news.ycombinator.com/item?id=30818800</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[121號局]]></title>
-        <id>https://news.ycombinator.com/item?id=30805120</id>
-        <link href="https://news.ycombinator.com/item?id=30805120"/>
-        <updated>2022-03-25T17:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Bureau 121]]></summary>
-        <author>
-            <name>manjana</name>
-            <uri>https://news.ycombinator.com/user?id=manjana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在不犧牲隱私的情況下實現互操作性。矩陣和DMA]]></title>
-        <id>https://news.ycombinator.com/item?id=30805015</id>
-        <link href="https://news.ycombinator.com/item?id=30805015"/>
-        <updated>2022-03-25T17:35:25.000Z</updated>
-        <summary type="html"><![CDATA[Interoperability without sacrificing privacy: Matrix and the DMA]]></summary>
-        <author>
-            <name>vanburen</name>
-            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
         </author>
     </entry>
 </feed>
