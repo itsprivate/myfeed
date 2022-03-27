@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T03:17:31.190Z</updated>
+    <updated>2022-03-27T03:38:09.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[悲劇性的 "Gethostbyname "事件]]></title>
+        <id>https://news.ycombinator.com/item?id=30817408</id>
+        <link href="https://news.ycombinator.com/item?id=30817408"/>
+        <updated>2022-03-27T03:11:13.000Z</updated>
+        <summary type="html"><![CDATA[The Tragedy of Gethostbyname]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰是俄羅斯的寡頭？]]></title>
+        <id>https://news.ycombinator.com/item?id=30816971</id>
+        <link href="https://news.ycombinator.com/item?id=30816971"/>
+        <updated>2022-03-27T01:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Who Are the Russian Oligarchs?]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怪異的虛擬生物通過進化自己的身體來解決問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30816492</id>
+        <link href="https://news.ycombinator.com/item?id=30816492"/>
+        <updated>2022-03-27T00:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Weird virtual creatures evolve their bodies to solve problems]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自我修改的代碼]]></title>
         <id>https://news.ycombinator.com/item?id=30817368</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>conradegusa</name>
             <uri>https://news.ycombinator.com/user?id=conradegusa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解決戰艦問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30803571</id>
-        <link href="https://news.ycombinator.com/item?id=30803571"/>
-        <updated>2022-03-25T15:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Solving Battleship]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub停運 2022-03-25]]></title>
-        <id>https://news.ycombinator.com/item?id=30803565</id>
-        <link href="https://news.ycombinator.com/item?id=30803565"/>
-        <updated>2022-03-25T15:47:31.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Outage 2022-03-25]]></summary>
-        <author>
-            <name>_Propaganda</name>
-            <uri>https://news.ycombinator.com/user?id=_Propaganda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理學家創造了可壓縮的 "光之氣體"]]></title>
-        <id>https://news.ycombinator.com/item?id=30803455</id>
-        <link href="https://news.ycombinator.com/item?id=30803455"/>
-        <updated>2022-03-25T15:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Physicists create compressible “gas of light”]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
