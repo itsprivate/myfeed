@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T17:19:43.405Z</updated>
+    <updated>2022-03-27T17:34:09.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN在俄羅斯被封鎖]]></title>
+        <id>https://news.ycombinator.com/item?id=30822024</id>
+        <link href="https://news.ycombinator.com/item?id=30822024"/>
+        <updated>2022-03-27T17:22:13.000Z</updated>
+        <summary type="html"><![CDATA[HN Is Blocked in Russia]]></summary>
+        <author>
+            <name>RyanShook</name>
+            <uri>https://news.ycombinator.com/user?id=RyanShook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抵押貸款利率向5%靠攏]]></title>
+        <id>https://news.ycombinator.com/item?id=30821942</id>
+        <link href="https://news.ycombinator.com/item?id=30821942"/>
+        <updated>2022-03-27T17:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage Rates Moving Closer to 5%]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["HN峰值 "的出現]]></title>
         <id>https://news.ycombinator.com/item?id=30821894</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>SquibblesRedux</name>
             <uri>https://news.ycombinator.com/user?id=SquibblesRedux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox需要一個內核擴展才能工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30808163</id>
-        <link href="https://news.ycombinator.com/item?id=30808163"/>
-        <updated>2022-03-26T00:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Dropbox requires a kernel extension to work]]></summary>
-        <author>
-            <name>dikaio</name>
-            <uri>https://news.ycombinator.com/user?id=dikaio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子表格的開放文件格式]]></title>
-        <id>https://news.ycombinator.com/item?id=30808071</id>
-        <link href="https://news.ycombinator.com/item?id=30808071"/>
-        <updated>2022-03-25T23:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Open File Format for Spreadsheets]]></summary>
-        <author>
-            <name>vxGxKrGU</name>
-            <uri>https://news.ycombinator.com/user?id=vxGxKrGU</uri>
         </author>
     </entry>
 </feed>
