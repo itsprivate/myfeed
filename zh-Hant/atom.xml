@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T22:32:53.173Z</updated>
+    <updated>2022-03-27T22:41:47.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在對阿波羅計劃中神秘的Up-Data測試盒進行逆向工程。]]></title>
+        <id>https://news.ycombinator.com/item?id=30824804</id>
+        <link href="https://news.ycombinator.com/item?id=30824804"/>
+        <updated>2022-03-27T22:29:30.000Z</updated>
+        <summary type="html"><![CDATA[I'm reverse-engineering the mysterious Up-Data test box from the Apollo project]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制裁是如何殺死俄羅斯的]]></title>
+        <id>https://news.ycombinator.com/item?id=30824691</id>
+        <link href="https://news.ycombinator.com/item?id=30824691"/>
+        <updated>2022-03-27T22:15:11.000Z</updated>
+        <summary type="html"><![CDATA[How sanctions are killing Russia]]></summary>
+        <author>
+            <name>ta20200202</name>
+            <uri>https://news.ycombinator.com/user?id=ta20200202</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我終於找到了XML的用途]]></title>
+        <id>https://news.ycombinator.com/item?id=30824153</id>
+        <link href="https://news.ycombinator.com/item?id=30824153"/>
+        <updated>2022-03-27T21:07:38.000Z</updated>
+        <summary type="html"><![CDATA[I finally found a use for XML]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼成功的孩子不會創新。進化的視角]]></title>
         <id>https://news.ycombinator.com/item?id=30824468</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英吉利海的月球漩渦內的地形相關性]]></title>
-        <id>https://news.ycombinator.com/item?id=30809706</id>
-        <link href="https://news.ycombinator.com/item?id=30809706"/>
-        <updated>2022-03-26T06:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Topographic Correlations Within Lunar Swirls in Mare Ingenii]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的分析將木材與朝聖者時代的傳奇船 "雀鷹 "號聯繫起來]]></title>
-        <id>https://news.ycombinator.com/item?id=30809702</id>
-        <link href="https://news.ycombinator.com/item?id=30809702"/>
-        <updated>2022-03-26T06:17:24.000Z</updated>
-        <summary type="html"><![CDATA[New analysis links timbers to the legendary Pilgrim-era boat Sparrow-Hawk]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ASK HN]如何從YouTube上過濾掉MSM媒體？]]></title>
-        <id>https://news.ycombinator.com/item?id=30809976</id>
-        <link href="https://news.ycombinator.com/item?id=30809976"/>
-        <updated>2022-03-26T07:24:19.000Z</updated>
-        <summary type="html"><![CDATA[[ASK HN] how to filter out MSM media from YouTube feed?]]></summary>
-        <author>
-            <name>perlpimp</name>
-            <uri>https://news.ycombinator.com/user?id=perlpimp</uri>
         </author>
     </entry>
 </feed>
