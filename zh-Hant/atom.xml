@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T13:43:44.655Z</updated>
+    <updated>2022-03-27T13:51:19.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伽利略系統的Rust實現。]]></title>
+        <id>https://news.ycombinator.com/item?id=30820145</id>
+        <link href="https://news.ycombinator.com/item?id=30820145"/>
+        <updated>2022-03-27T13:39:59.000Z</updated>
+        <summary type="html"><![CDATA[A Rust Implementation of Galileo Osnma]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無需一行代碼就能實現漂亮的互動式可視化]]></title>
         <id>https://news.ycombinator.com/item?id=30820116</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kaycebasques</name>
             <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌瀏覽器的緊急更新修復了攻擊中使用的零日漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30806148</id>
-        <link href="https://news.ycombinator.com/item?id=30806148"/>
-        <updated>2022-03-25T19:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Emergency Google Chrome update fixes zero-day used in attacks]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
         </author>
     </entry>
 </feed>
