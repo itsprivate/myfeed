@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 27 Mar 2022 11:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 11:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clasp達到1.0 (Common Lisp with C++ Interop)]]></title>
+            <link>https://news.ycombinator.com/item?id=30819472</link>
+            <guid>https://news.ycombinator.com/item?id=30819472</guid>
+            <pubDate>Sun, 27 Mar 2022 11:37:56 GMT</pubDate>
+            <description><![CDATA[Clasp reaches 1.0 (Common Lisp with C++ Interop)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[適應性媒體評級：統計學上的成對排名和項目的排序]]></title>
+            <link>https://news.ycombinator.com/item?id=30819460</link>
+            <guid>https://news.ycombinator.com/item?id=30819460</guid>
+            <pubDate>Sun, 27 Mar 2022 11:35:31 GMT</pubDate>
+            <description><![CDATA[Resorting Media Ratings: statistical pairwise ranking and sorting of items]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FinRL: 第一個用於金融強化學習的開源項目]]></title>
+            <link>https://news.ycombinator.com/item?id=30819436</link>
+            <guid>https://news.ycombinator.com/item?id=30819436</guid>
+            <pubDate>Sun, 27 Mar 2022 11:28:24 GMT</pubDate>
+            <description><![CDATA[FinRL: The first open-source project for financial reinforcement learning]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄羅斯的BQ手機將在HarmonyOS上運行]]></title>
+            <link>https://news.ycombinator.com/item?id=30819411</link>
+            <guid>https://news.ycombinator.com/item?id=30819411</guid>
+            <pubDate>Sun, 27 Mar 2022 11:20:17 GMT</pubDate>
+            <description><![CDATA[Russia’s BQ phone will run on HarmonyOS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[挪威是世界上最適合當作家的地方 (2014)]]></title>
+            <link>https://news.ycombinator.com/item?id=30819264</link>
+            <guid>https://news.ycombinator.com/item?id=30819264</guid>
+            <pubDate>Sun, 27 Mar 2022 10:48:54 GMT</pubDate>
+            <description><![CDATA[Norway Is the Best Place in the World to Be a Writer (2014)]]></description>
+        </item>
         <item>
             <title><![CDATA[Okta: "我們犯了一個錯誤"，推遲披露Lapsus$黑客攻擊事件]]></title>
             <link>https://news.ycombinator.com/item?id=30819368</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30805804</guid>
             <pubDate>Fri, 25 Mar 2022 18:54:17 GMT</pubDate>
             <description><![CDATA[Bookbinding (1995)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對雙酚A的恐慌如何一無所獲 (2016)]]></title>
-            <link>https://news.ycombinator.com/item?id=30805800</link>
-            <guid>https://news.ycombinator.com/item?id=30805800</guid>
-            <pubDate>Fri, 25 Mar 2022 18:54:04 GMT</pubDate>
-            <description><![CDATA[How the Panic over BPA Accomplished Nothing (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ǞǞǞ Node.js的無依賴性流工具庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30805672</link>
-            <guid>https://news.ycombinator.com/item?id=30805672</guid>
-            <pubDate>Fri, 25 Mar 2022 18:40:36 GMT</pubDate>
-            <description><![CDATA[Stromjs: Dependency free stream utils library for Node.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微軟稱將尊重動視暴雪工會行動的結果]]></title>
-            <link>https://news.ycombinator.com/item?id=30805309</link>
-            <guid>https://news.ycombinator.com/item?id=30805309</guid>
-            <pubDate>Fri, 25 Mar 2022 18:01:26 GMT</pubDate>
-            <description><![CDATA[Microsoft Says It Will Respect Outcome of Activision Blizzard Union Drive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯的Deepfake]]></title>
-            <link>https://news.ycombinator.com/item?id=30804598</link>
-            <guid>https://news.ycombinator.com/item?id=30804598</guid>
-            <pubDate>Fri, 25 Mar 2022 17:01:45 GMT</pubDate>
-            <description><![CDATA[Deepfake in Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Falco和Sysdig okta-analyzer檢測Okta日誌中的惡意活動]]></title>
-            <link>https://news.ycombinator.com/item?id=30805644</link>
-            <guid>https://news.ycombinator.com/item?id=30805644</guid>
-            <pubDate>Fri, 25 Mar 2022 18:38:00 GMT</pubDate>
-            <description><![CDATA[Detect malicious activity in Okta logs with Falco and Sysdig okta-analyzer]]></description>
         </item>
     </channel>
 </rss>
