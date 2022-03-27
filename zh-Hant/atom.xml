@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T17:34:09.096Z</updated>
+    <updated>2022-03-27T17:42:11.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust密碼學生態系統概述（2021年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30822130</id>
+        <link href="https://news.ycombinator.com/item?id=30822130"/>
+        <updated>2022-03-27T17:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Overview of the Rust cryptography ecosystem (2021)]]></summary>
+        <author>
+            <name>sylvain_kerkour</name>
+            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poop.is - 一個蹩腳的鏈接縮短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30822010</id>
+        <link href="https://news.ycombinator.com/item?id=30822010"/>
+        <updated>2022-03-27T17:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Poop.is – A Crappy Link Shortener]]></summary>
+        <author>
+            <name>j3s</name>
+            <uri>https://news.ycombinator.com/user?id=j3s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundex(音譯算法)]]></title>
+        <id>https://news.ycombinator.com/item?id=30821511</id>
+        <link href="https://news.ycombinator.com/item?id=30821511"/>
+        <updated>2022-03-27T16:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Soundex (Phonetic Algorithm)]]></summary>
+        <author>
+            <name>akoster</name>
+            <uri>https://news.ycombinator.com/user?id=akoster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN在俄羅斯被封鎖]]></title>
         <id>https://news.ycombinator.com/item?id=30822024</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[檢查一下。開放我們的薪酬計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30807961</id>
-        <link href="https://news.ycombinator.com/item?id=30807961"/>
-        <updated>2022-03-25T23:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Checkly: Open Sourcing Our Pay Calculator]]></summary>
-        <author>
-            <name>kylegill</name>
-            <uri>https://news.ycombinator.com/user?id=kylegill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙學的鋰問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30807939</id>
-        <link href="https://news.ycombinator.com/item?id=30807939"/>
-        <updated>2022-03-25T23:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Cosmological Lithium Problem]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原本穩定的冰架在南極洲崩塌，面積相當於紐約市。]]></title>
-        <id>https://news.ycombinator.com/item?id=30807795</id>
-        <link href="https://news.ycombinator.com/item?id=30807795"/>
-        <updated>2022-03-25T22:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Previously stable ice shelf, the size of New York City, collapses in Antarctica]]></summary>
-        <author>
-            <name>SquibblesRedux</name>
-            <uri>https://news.ycombinator.com/user?id=SquibblesRedux</uri>
         </author>
     </entry>
 </feed>
