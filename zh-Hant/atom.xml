@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T11:29:18.780Z</updated>
+    <updated>2022-03-27T11:36:57.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta: "我們犯了一個錯誤"，推遲披露Lapsus$黑客攻擊事件]]></title>
+        <id>https://news.ycombinator.com/item?id=30819368</id>
+        <link href="https://news.ycombinator.com/item?id=30819368"/>
+        <updated>2022-03-27T11:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Okta: “We made a mistake” delaying the Lapsus$ hack disclosure]]></summary>
+        <author>
+            <name>chockchocschoir</name>
+            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭正在使用埃隆-馬斯克的Starlink進行無人機打擊]]></title>
         <id>https://news.ycombinator.com/item?id=30819413</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>knoxa2511</name>
             <uri>https://news.ycombinator.com/user?id=knoxa2511</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年美國人搬到了哪裡？]]></title>
-        <id>https://news.ycombinator.com/item?id=30805631</id>
-        <link href="https://news.ycombinator.com/item?id=30805631"/>
-        <updated>2022-03-25T18:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Where did Americans move in 2021?]]></summary>
-        <author>
-            <name>RadixDLT</name>
-            <uri>https://news.ycombinator.com/user?id=RadixDLT</uri>
         </author>
     </entry>
 </feed>
