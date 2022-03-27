@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T15:45:14.825Z</updated>
+    <updated>2022-03-27T15:52:42.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[真空管的被遗忘的对手]]></title>
+        <id>https://news.ycombinator.com/item?id=30821096</id>
+        <link href="https://news.ycombinator.com/item?id=30821096"/>
+        <updated>2022-03-27T15:41:59.000Z</updated>
+        <summary type="html"><![CDATA[The Vacuum Tube’s Forgotten Rival]]></summary>
+        <author>
+            <name>bangonkeyboard</name>
+            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个淹没的世界。肯尼亚在水下的悄然滑落]]></title>
+        <id>https://news.ycombinator.com/item?id=30821007</id>
+        <link href="https://news.ycombinator.com/item?id=30821007"/>
+        <updated>2022-03-27T15:31:40.000Z</updated>
+        <summary type="html"><![CDATA[A drowning world: Kenya’s quiet slide underwater]]></summary>
+        <author>
+            <name>ContrarianBrit</name>
+            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯军队正在偷窃民用电话，给他们在俄罗斯的家人打电话]]></title>
+        <id>https://news.ycombinator.com/item?id=30820956</id>
+        <link href="https://news.ycombinator.com/item?id=30820956"/>
+        <updated>2022-03-27T15:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Russian troops Are stealing civilian phones to call their families in Russia]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个事件驱动的系统，用Python和pyimgui快速制作GUI]]></title>
+        <id>https://news.ycombinator.com/item?id=30820912</id>
+        <link href="https://news.ycombinator.com/item?id=30820912"/>
+        <updated>2022-03-27T15:21:09.000Z</updated>
+        <summary type="html"><![CDATA[I made an event-driven system to quickly make GUIs with Python and pyimgui]]></summary>
+        <author>
+            <name>jr11</name>
+            <uri>https://news.ycombinator.com/user?id=jr11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联合国调查员指责以色列实行种族隔离制度]]></title>
         <id>https://news.ycombinator.com/item?id=30821050</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>adamrmcd</name>
             <uri>https://news.ycombinator.com/user?id=adamrmcd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰的外国军团中的不合群者、退伍军人和战争游客的内部情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30807326</id>
-        <link href="https://news.ycombinator.com/item?id=30807326"/>
-        <updated>2022-03-25T21:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Inside Ukraine’s foreign legion of misfits, veterans, and war tourists]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高中生开发出一种廉价的过滤器，以去除自来水中的铅]]></title>
-        <id>https://news.ycombinator.com/item?id=30807320</id>
-        <link href="https://news.ycombinator.com/item?id=30807320"/>
-        <updated>2022-03-25T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[High schoolers develop an inexpensive filter to remove lead from tap water]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟以具有里程碑意义的数字法案瞄准大型科技公司的权力]]></title>
-        <id>https://news.ycombinator.com/item?id=30807221</id>
-        <link href="https://news.ycombinator.com/item?id=30807221"/>
-        <updated>2022-03-25T21:28:06.000Z</updated>
-        <summary type="html"><![CDATA[E.U. Takes Aim at Big Tech’s Power with Landmark Digital Act]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯称乌克兰战争的第一阶段已经结束]]></title>
-        <id>https://news.ycombinator.com/item?id=30807146</id>
-        <link href="https://news.ycombinator.com/item?id=30807146"/>
-        <updated>2022-03-25T21:18:37.000Z</updated>
-        <summary type="html"><![CDATA[First phase of Ukraine war over, Russia says]]></summary>
-        <author>
-            <name>onemoresoop</name>
-            <uri>https://news.ycombinator.com/user?id=onemoresoop</uri>
         </author>
     </entry>
 </feed>
