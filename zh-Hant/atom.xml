@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T07:12:09.000Z</updated>
+    <updated>2022-03-27T07:29:57.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有些黑洞會抹去你的過去（2018）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30818363</id>
+        <link href="https://news.ycombinator.com/item?id=30818363"/>
+        <updated>2022-03-27T07:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Some black holes erase your past (2018)]]></summary>
+        <author>
+            <name>gone35</name>
+            <uri>https://news.ycombinator.com/user?id=gone35</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個老年人最奇怪的編碼習慣 - The Left Join]]></title>
+        <id>https://news.ycombinator.com/item?id=30818334</id>
+        <link href="https://news.ycombinator.com/item?id=30818334"/>
+        <updated>2022-03-27T06:59:45.000Z</updated>
+        <summary type="html"><![CDATA[The strangest coding habit a senior ever had – The Left Join]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設計師日記。哈希的意外遊戲設計 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30818288</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cfu28</name>
             <uri>https://news.ycombinator.com/user?id=cfu28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另一顆小行星在被發現後數小時呼嘯著飛過地球]]></title>
-        <id>https://news.ycombinator.com/item?id=30804557</id>
-        <link href="https://news.ycombinator.com/item?id=30804557"/>
-        <updated>2022-03-25T16:57:48.000Z</updated>
-        <summary type="html"><![CDATA[Another asteroid whizzes past Earth hours after discovery]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仿製藥簡介]]></title>
-        <id>https://news.ycombinator.com/item?id=30804253</id>
-        <link href="https://news.ycombinator.com/item?id=30804253"/>
-        <updated>2022-03-25T16:37:40.000Z</updated>
-        <summary type="html"><![CDATA[An Introduction to Generics]]></summary>
-        <author>
-            <name>mfrw</name>
-            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
         </author>
     </entry>
 </feed>
