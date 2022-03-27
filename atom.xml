@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T17:42:11.891Z</updated>
+    <updated>2022-03-27T17:51:10.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冷冻机]]></title>
+        <id>https://news.ycombinator.com/item?id=30822239</id>
+        <link href="https://news.ycombinator.com/item?id=30822239"/>
+        <updated>2022-03-27T17:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Cryotron]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust密码学生态系统概述（2021年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30822130</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aviatorandy</name>
             <uri>https://news.ycombinator.com/user?id=aviatorandy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静电接地的要点 (1995)]]></title>
-        <id>https://news.ycombinator.com/item?id=30807966</id>
-        <link href="https://news.ycombinator.com/item?id=30807966"/>
-        <updated>2022-03-25T23:31:45.000Z</updated>
-        <summary type="html"><![CDATA[The Essentials of ESD Grounding (1995)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
