@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T19:26:21.304Z</updated>
+    <updated>2022-03-27T19:37:02.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用耶拿规则语言进行前向连锁]]></title>
+        <id>https://news.ycombinator.com/item?id=30823206</id>
+        <link href="https://news.ycombinator.com/item?id=30823206"/>
+        <updated>2022-03-27T19:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Forward Chaining with the Jena Rule Language]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来战斗航空系统（FCAS）]]></title>
+        <id>https://news.ycombinator.com/item?id=30823105</id>
+        <link href="https://news.ycombinator.com/item?id=30823105"/>
+        <updated>2022-03-27T19:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Future Combat Air System (FCAS)]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnelian是一个用于在Rust中编写Fuchsia模块的GUI框架。]]></title>
+        <id>https://news.ycombinator.com/item?id=30823069</id>
+        <link href="https://news.ycombinator.com/item?id=30823069"/>
+        <updated>2022-03-27T19:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Carnelian is a GUI framework for writing Fuchsia modules in Rust]]></summary>
+        <author>
+            <name>agluszak</name>
+            <uri>https://news.ycombinator.com/user?id=agluszak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十几岁的女孩仍然会出现与TikTok有关的抽搐现象]]></title>
+        <id>https://news.ycombinator.com/item?id=30821813</id>
+        <link href="https://news.ycombinator.com/item?id=30821813"/>
+        <updated>2022-03-27T16:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Teen Girls Are Still Getting TikTok-Related Tics]]></summary>
+        <author>
+            <name>funstuff007</name>
+            <uri>https://news.ycombinator.com/user?id=funstuff007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lex Fridman播客中的美国头号通缉网络犯罪分子]]></title>
         <id>https://news.ycombinator.com/item?id=30823067</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>opisthenar84</name>
             <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有史以来最伟大的歌曲不知去向 [视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30808858</id>
-        <link href="https://news.ycombinator.com/item?id=30808858"/>
-        <updated>2022-03-26T02:49:37.000Z</updated>
-        <summary type="html"><![CDATA[The greatest song ever went nowhere [video]]]></summary>
-        <author>
-            <name>c1ccccc1</name>
-            <uri>https://news.ycombinator.com/user?id=c1ccccc1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国前大使警告说，如果普京在乌克兰使用大规模杀伤性武器，美国应该使用武力]]></title>
-        <id>https://news.ycombinator.com/item?id=30808836</id>
-        <link href="https://news.ycombinator.com/item?id=30808836"/>
-        <updated>2022-03-26T02:45:58.000Z</updated>
-        <summary type="html"><![CDATA[US Should Use Force If Putin Uses WMDs in Ukraine, Former US Ambassador Warns]]></summary>
-        <author>
-            <name>cmurf</name>
-            <uri>https://news.ycombinator.com/user?id=cmurf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亨特-拜登为乌克兰的生物实验室承包商争取到数百万美元的资金]]></title>
-        <id>https://news.ycombinator.com/item?id=30808863</id>
-        <link href="https://news.ycombinator.com/item?id=30808863"/>
-        <updated>2022-03-26T02:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Hunter Biden secured millions for biolab contractor in Ukraine]]></summary>
-        <author>
-            <name>empressplay</name>
-            <uri>https://news.ycombinator.com/user?id=empressplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊在西雅图总部开设社区香蕉摊，免费赠送水果（2015）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30808825</id>
-        <link href="https://news.ycombinator.com/item?id=30808825"/>
-        <updated>2022-03-26T02:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon opens Community Banana Stand at Seattle HQ to give away free fruit (2015)]]></summary>
-        <author>
-            <name>cpeterso</name>
-            <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
         </author>
     </entry>
 </feed>
