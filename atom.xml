@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T14:30:39.025Z</updated>
+    <updated>2022-03-27T14:37:11.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[传送门2：荒凉》为经典解谜游戏进行了画面大修]]></title>
+        <id>https://news.ycombinator.com/item?id=30820508</id>
+        <link href="https://news.ycombinator.com/item?id=30820508"/>
+        <updated>2022-03-27T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Portal 2: Desolation is giving the classic puzzle game a graphics overhaul]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国的第三部性别法被誉为一场革命 (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30820444</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ummonk</name>
             <uri>https://news.ycombinator.com/user?id=ummonk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据新的欧盟法律，苹果被迫允许Sideloading和第三方应用商店。]]></title>
-        <id>https://news.ycombinator.com/item?id=30806665</id>
-        <link href="https://news.ycombinator.com/item?id=30806665"/>
-        <updated>2022-03-25T20:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Apple forced to allow Sideloading and 3rd-party app stores under new EU law]]></summary>
-        <author>
-            <name>jklp</name>
-            <uri>https://news.ycombinator.com/user?id=jklp</uri>
         </author>
     </entry>
 </feed>
