@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T19:37:02.658Z</updated>
+    <updated>2022-03-27T19:52:15.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[EG3D: 高效的几何感知三维生成对抗网络]]></title>
+        <id>https://news.ycombinator.com/item?id=30822824</id>
+        <link href="https://news.ycombinator.com/item?id=30822824"/>
+        <updated>2022-03-27T18:41:40.000Z</updated>
+        <summary type="html"><![CDATA[EG3D: Efficient Geometry-Aware 3D Generative Adversarial Networks]]></summary>
+        <author>
+            <name>BenoitP</name>
+            <uri>https://news.ycombinator.com/user?id=BenoitP</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃克梅的道]]></title>
+        <id>https://news.ycombinator.com/item?id=30822743</id>
+        <link href="https://news.ycombinator.com/item?id=30822743"/>
+        <updated>2022-03-27T18:33:46.000Z</updated>
+        <summary type="html"><![CDATA[The Tao of Acme]]></summary>
+        <author>
+            <name>black_knight</name>
+            <uri>https://news.ycombinator.com/user?id=black_knight</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoCaml: 基于MinCaml的Go中OCaml的子集，使用LLVM]]></title>
+        <id>https://news.ycombinator.com/item?id=30822716</id>
+        <link href="https://news.ycombinator.com/item?id=30822716"/>
+        <updated>2022-03-27T18:30:57.000Z</updated>
+        <summary type="html"><![CDATA[GoCaml: Subset of OCaml in Go Based on MinCaml Using LLVM]]></summary>
+        <author>
+            <name>wuschel</name>
+            <uri>https://news.ycombinator.com/user?id=wuschel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于Web开发来说，什么技术比Nginx和PHP更具有性能？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822527</id>
+        <link href="https://news.ycombinator.com/item?id=30822527"/>
+        <updated>2022-03-27T18:11:42.000Z</updated>
+        <summary type="html"><![CDATA[What technologies are more performant for web development than Nginx and PHP?]]></summary>
+        <author>
+            <name>bouldersharp</name>
+            <uri>https://news.ycombinator.com/user?id=bouldersharp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用耶拿规则语言进行前向连锁]]></title>
         <id>https://news.ycombinator.com/item?id=30823206</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>smohnot</name>
             <uri>https://news.ycombinator.com/user?id=smohnot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase将监控加拿大1千加元以上的交易]]></title>
-        <id>https://news.ycombinator.com/item?id=30808656</id>
-        <link href="https://news.ycombinator.com/item?id=30808656"/>
-        <updated>2022-03-26T01:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase to Monitor Canadian Transactions Above 1k CAD]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙主义，H.P. Lovecraft的文学哲学]]></title>
-        <id>https://news.ycombinator.com/item?id=30808150</id>
-        <link href="https://news.ycombinator.com/item?id=30808150"/>
-        <updated>2022-03-26T00:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Cosmicism, the literary philosophy of H.P. Lovecraft]]></summary>
-        <author>
-            <name>servytor</name>
-            <uri>https://news.ycombinator.com/user?id=servytor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolka-Karmadon岩石冰滑梯]]></title>
-        <id>https://news.ycombinator.com/item?id=30808045</id>
-        <link href="https://news.ycombinator.com/item?id=30808045"/>
-        <updated>2022-03-25T23:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Kolka–Karmadon rock ice slide]]></summary>
-        <author>
-            <name>paganel</name>
-            <uri>https://news.ycombinator.com/user?id=paganel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[101高速公路上的桥梁将破土动工]]></title>
-        <id>https://news.ycombinator.com/item?id=30808901</id>
-        <link href="https://news.ycombinator.com/item?id=30808901"/>
-        <updated>2022-03-26T03:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Groundbreaking set for bridge over 101 Freeway]]></summary>
-        <author>
-            <name>opisthenar84</name>
-            <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
         </author>
     </entry>
 </feed>
