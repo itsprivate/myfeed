@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T21:39:17.711Z</updated>
+    <updated>2022-03-27T21:52:15.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[硅谷科技工作者的子女遭遇签证危机]]></title>
+        <id>https://news.ycombinator.com/item?id=30824412</id>
+        <link href="https://news.ycombinator.com/item?id=30824412"/>
+        <updated>2022-03-27T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[A visa crisis is hitting the children of Silicon Valley tech workers]]></summary>
+        <author>
+            <name>dangle1</name>
+            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[压扁，合并，还是重构？]]></title>
+        <id>https://news.ycombinator.com/item?id=30824270</id>
+        <link href="https://news.ycombinator.com/item?id=30824270"/>
+        <updated>2022-03-27T21:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Squash, Merge, or Rebase?]]></summary>
+        <author>
+            <name>rckrd</name>
+            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软删除的替代方案。再次]]></title>
+        <id>https://news.ycombinator.com/item?id=30824066</id>
+        <link href="https://news.ycombinator.com/item?id=30824066"/>
+        <updated>2022-03-27T20:57:58.000Z</updated>
+        <summary type="html"><![CDATA[Alternative to Soft Delete. Again]]></summary>
+        <author>
+            <name>hexwit</name>
+            <uri>https://news.ycombinator.com/user?id=hexwit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boredle - 使用任何网页上的单词玩Wordle游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30823264</id>
+        <link href="https://news.ycombinator.com/item?id=30823264"/>
+        <updated>2022-03-27T19:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Boredle – play Wordle using the words on any webpage]]></summary>
+        <author>
+            <name>orang2tang</name>
+            <uri>https://news.ycombinator.com/user?id=orang2tang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么崩溃的信任和验证的成本是有利可图的]]></title>
         <id>https://news.ycombinator.com/item?id=30824363</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何成为一个 "真正的 "艺术家]]></title>
-        <id>https://news.ycombinator.com/item?id=30809631</id>
-        <link href="https://news.ycombinator.com/item?id=30809631"/>
-        <updated>2022-03-26T06:03:10.000Z</updated>
-        <summary type="html"><![CDATA[How to Be a “Real” Artist]]></summary>
-        <author>
-            <name>keiferski</name>
-            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle创建者描述游戏的崛起，称《纽约时报》的出售是 "一种走开的方式"]]></title>
-        <id>https://news.ycombinator.com/item?id=30809582</id>
-        <link href="https://news.ycombinator.com/item?id=30809582"/>
-        <updated>2022-03-26T05:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Wordle creator describes game’s rise, says NYT sale was “a way to walk away”]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃霍尔：虚空之下的虚空]]></title>
-        <id>https://news.ycombinator.com/item?id=30809576</id>
-        <link href="https://news.ycombinator.com/item?id=30809576"/>
-        <updated>2022-03-26T05:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Warhol: The Void Beneath the Emptiness]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickgres.js，430个LoC管道式的PostgreSQL客户端库]]></title>
-        <id>https://news.ycombinator.com/item?id=30809560</id>
-        <link href="https://news.ycombinator.com/item?id=30809560"/>
-        <updated>2022-03-26T05:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></summary>
-        <author>
-            <name>kig</name>
-            <uri>https://news.ycombinator.com/user?id=kig</uri>
         </author>
     </entry>
 </feed>
