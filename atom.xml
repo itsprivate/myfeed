@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T22:12:51.962Z</updated>
+    <updated>2022-03-27T22:32:53.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么成功的孩子不会创新。进化的视角]]></title>
+        <id>https://news.ycombinator.com/item?id=30824468</id>
+        <link href="https://news.ycombinator.com/item?id=30824468"/>
+        <updated>2022-03-27T21:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Why Successful Children Don’t Innovate: An Evolutionary Perspective]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 电视、商户媒体和广告的松绑]]></title>
+        <id>https://news.ycombinator.com/item?id=30824337</id>
+        <link href="https://news.ycombinator.com/item?id=30824337"/>
+        <updated>2022-03-27T21:28:20.000Z</updated>
+        <summary type="html"><![CDATA[ TV, merchant media and the unbundling of advertising]]></summary>
+        <author>
+            <name>rememberlenny</name>
+            <uri>https://news.ycombinator.com/user?id=rememberlenny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-J是GPT-3的自我托管开源模拟：如何在Docker中运行]]></title>
         <id>https://news.ycombinator.com/item?id=30824597</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>perlpimp</name>
             <uri>https://news.ycombinator.com/user?id=perlpimp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向初学者的JavaScript范围和范围链介绍]]></title>
-        <id>https://news.ycombinator.com/item?id=30809935</id>
-        <link href="https://news.ycombinator.com/item?id=30809935"/>
-        <updated>2022-03-26T07:15:46.000Z</updated>
-        <summary type="html"><![CDATA[An Introduction to JavaScript Scope and Scope Chain for Beginners]]></summary>
-        <author>
-            <name>cudbf</name>
-            <uri>https://news.ycombinator.com/user?id=cudbf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官员认为俄罗斯入侵了乌克兰的卫星通信]]></title>
-        <id>https://news.ycombinator.com/item?id=30809857</id>
-        <link href="https://news.ycombinator.com/item?id=30809857"/>
-        <updated>2022-03-26T06:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Russia hacked Ukrainian satellite communications, officials believe]]></summary>
-        <author>
-            <name>zeristor</name>
-            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
         </author>
     </entry>
 </feed>
