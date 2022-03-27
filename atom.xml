@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-27T23:32:16.578Z</updated>
+    <updated>2022-03-27T23:42:04.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[锈。轻松认证终于在Axum中实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30825244</id>
+        <link href="https://news.ycombinator.com/item?id=30825244"/>
+        <updated>2022-03-27T23:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Rust: Easy Authentication Finally in Axum]]></summary>
+        <author>
+            <name>Owez</name>
+            <uri>https://news.ycombinator.com/user?id=Owez</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在就采取行动，防范潜在的网络攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30825230</id>
+        <link href="https://news.ycombinator.com/item?id=30825230"/>
+        <updated>2022-03-27T23:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Act Now to Protect Against Potential Cyberattacks]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1969年福特野马]]></title>
+        <id>https://news.ycombinator.com/item?id=30825034</id>
+        <link href="https://news.ycombinator.com/item?id=30825034"/>
+        <updated>2022-03-27T22:59:41.000Z</updated>
+        <summary type="html"><![CDATA[1969 Ford Bronco]]></summary>
+        <author>
+            <name>bkenwell</name>
+            <uri>https://news.ycombinator.com/user?id=bkenwell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克里斯-华莱士说在福克斯新闻工作是 "不可持续的]]></title>
+        <id>https://news.ycombinator.com/item?id=30823925</id>
+        <link href="https://news.ycombinator.com/item?id=30823925"/>
+        <updated>2022-03-27T20:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Chris Wallace says working at Fox News was ‘unsustainable’]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube删除与普里蒂-帕特尔和本-华莱士的俄罗斯骗局通话视频]]></title>
         <id>https://news.ycombinator.com/item?id=30825160</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Febra33</name>
             <uri>https://news.ycombinator.com/user?id=Febra33</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯国家核能公司的15.3GB数据被泄露]]></title>
-        <id>https://news.ycombinator.com/item?id=30810279</id>
-        <link href="https://news.ycombinator.com/item?id=30810279"/>
-        <updated>2022-03-26T08:47:19.000Z</updated>
-        <summary type="html"><![CDATA[15.3GB from Rosatom State Nuclear Energy Corporation Leaked]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube内容屏蔽器]]></title>
-        <id>https://news.ycombinator.com/item?id=30810183</id>
-        <link href="https://news.ycombinator.com/item?id=30810183"/>
-        <updated>2022-03-26T08:19:41.000Z</updated>
-        <summary type="html"><![CDATA[YouTube Content Blocker]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯中央银行22.5GB数据被泄露]]></title>
-        <id>https://news.ycombinator.com/item?id=30810275</id>
-        <link href="https://news.ycombinator.com/item?id=30810275"/>
-        <updated>2022-03-26T08:46:42.000Z</updated>
-        <summary type="html"><![CDATA[22.5GB data from Central Bank of Russia leaked]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编码COBOL：数组（或表）的技巧]]></title>
-        <id>https://news.ycombinator.com/item?id=30810070</id>
-        <link href="https://news.ycombinator.com/item?id=30810070"/>
-        <updated>2022-03-26T07:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Coding COBOL: Tricks with arrays (or tables)]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
