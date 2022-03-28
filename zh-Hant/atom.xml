@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T04:42:17.317Z</updated>
+    <updated>2022-03-28T04:57:58.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紫紅色工作站]]></title>
+        <id>https://news.ycombinator.com/item?id=30827210</id>
+        <link href="https://news.ycombinator.com/item?id=30827210"/>
+        <updated>2022-03-28T04:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Fuchsia Workstation]]></summary>
+        <author>
+            <name>timsneath</name>
+            <uri>https://news.ycombinator.com/user?id=timsneath</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[補充加州地下水的騙人的簡單計劃]]></title>
+        <id>https://news.ycombinator.com/item?id=30826977</id>
+        <link href="https://news.ycombinator.com/item?id=30826977"/>
+        <updated>2022-03-28T03:55:06.000Z</updated>
+        <summary type="html"><![CDATA[The deceptively simple plan to replenish California’s groundwater]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個製作易於記憶的強大密碼的工具]]></title>
         <id>https://news.ycombinator.com/item?id=30827125</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yoavm</name>
             <uri>https://news.ycombinator.com/user?id=yoavm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們需要Lisp機]]></title>
-        <id>https://news.ycombinator.com/item?id=30811592</id>
-        <link href="https://news.ycombinator.com/item?id=30811592"/>
-        <updated>2022-03-26T13:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Why We Need Lisp Machines]]></summary>
-        <author>
-            <name>otacust</name>
-            <uri>https://news.ycombinator.com/user?id=otacust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[處於邊緣的農民]]></title>
-        <id>https://news.ycombinator.com/item?id=30811554</id>
-        <link href="https://news.ycombinator.com/item?id=30811554"/>
-        <updated>2022-03-26T13:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Farmers on the Brink]]></summary>
-        <author>
-            <name>baq</name>
-            <uri>https://news.ycombinator.com/user?id=baq</uri>
         </author>
     </entry>
 </feed>
