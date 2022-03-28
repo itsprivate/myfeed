@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[上海因歐米茄暴漲而開始封鎖市場]]></title>
+            <link>https://news.ycombinator.com/item?id=30827115</link>
+            <guid>https://news.ycombinator.com/item?id=30827115</guid>
+            <pubDate>Mon, 28 Mar 2022 04:20:35 GMT</pubDate>
+            <description><![CDATA[Shanghai starts lockdown due to Omicron surge]]></description>
+        </item>
         <item>
             <title><![CDATA[你的孩子的數學並不差。這裡是如何幫助你的。]]></title>
             <link>https://news.ycombinator.com/item?id=30827272</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30811708</guid>
             <pubDate>Sat, 26 Mar 2022 13:42:11 GMT</pubDate>
             <description><![CDATA[How People Think]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wayland上Podman中的GUI應用]]></title>
-            <link>https://news.ycombinator.com/item?id=30811661</link>
-            <guid>https://news.ycombinator.com/item?id=30811661</guid>
-            <pubDate>Sat, 26 Mar 2022 13:36:21 GMT</pubDate>
-            <description><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></description>
         </item>
     </channel>
 </rss>

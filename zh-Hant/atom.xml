@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T05:30:22.291Z</updated>
+    <updated>2022-03-28T05:37:15.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[上海因歐米茄暴漲而開始封鎖市場]]></title>
+        <id>https://news.ycombinator.com/item?id=30827115</id>
+        <link href="https://news.ycombinator.com/item?id=30827115"/>
+        <updated>2022-03-28T04:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Shanghai starts lockdown due to Omicron surge]]></summary>
+        <author>
+            <name>user_named</name>
+            <uri>https://news.ycombinator.com/user?id=user_named</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的孩子的數學並不差。這裡是如何幫助你的。]]></title>
         <id>https://news.ycombinator.com/item?id=30827272</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>civeng</name>
             <uri>https://news.ycombinator.com/user?id=civeng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayland上Podman中的GUI應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30811661</id>
-        <link href="https://news.ycombinator.com/item?id=30811661"/>
-        <updated>2022-03-26T13:36:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></summary>
-        <author>
-            <name>moody5bundle</name>
-            <uri>https://news.ycombinator.com/user?id=moody5bundle</uri>
         </author>
     </entry>
 </feed>
