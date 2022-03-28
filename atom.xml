@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T05:37:15.090Z</updated>
+    <updated>2022-03-28T05:51:51.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国联邦通信委员会将卡巴斯基列入国家安全威胁名单]]></title>
+        <id>https://news.ycombinator.com/item?id=30827015</id>
+        <link href="https://news.ycombinator.com/item?id=30827015"/>
+        <updated>2022-03-28T04:01:04.000Z</updated>
+        <summary type="html"><![CDATA[FCC adds Kaspersky to its list of national security threats]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海因欧米茄暴涨而开始封锁市场]]></title>
         <id>https://news.ycombinator.com/item?id=30827115</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Repreneur101</name>
             <uri>https://news.ycombinator.com/user?id=Repreneur101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人们如何思考]]></title>
-        <id>https://news.ycombinator.com/item?id=30811708</id>
-        <link href="https://news.ycombinator.com/item?id=30811708"/>
-        <updated>2022-03-26T13:42:11.000Z</updated>
-        <summary type="html"><![CDATA[How People Think]]></summary>
-        <author>
-            <name>civeng</name>
-            <uri>https://news.ycombinator.com/user?id=civeng</uri>
         </author>
     </entry>
 </feed>
