@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T07:13:19.842Z</updated>
+    <updated>2022-03-28T07:30:43.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重要的Web3概念。第2部分 - Performaroo]]></title>
+        <id>https://news.ycombinator.com/item?id=30827894</id>
+        <link href="https://news.ycombinator.com/item?id=30827894"/>
+        <updated>2022-03-28T07:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Important Web3 Concepts: Part 2 – Performaroo]]></summary>
+        <author>
+            <name>TrendsAndTopics</name>
+            <uri>https://news.ycombinator.com/user?id=TrendsAndTopics</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吸收式电冰箱]]></title>
         <id>https://news.ycombinator.com/item?id=30827608</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jdasdf</name>
             <uri>https://news.ycombinator.com/user?id=jdasdf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今晚加入美国的 "地球一小时 "活动]]></title>
-        <id>https://news.ycombinator.com/item?id=30812111</id>
-        <link href="https://news.ycombinator.com/item?id=30812111"/>
-        <updated>2022-03-26T14:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Join US Tonight for Earth Hour]]></summary>
-        <author>
-            <name>kitkat_new</name>
-            <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
         </author>
     </entry>
 </feed>
