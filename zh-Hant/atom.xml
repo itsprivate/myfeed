@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T20:52:03.298Z</updated>
+    <updated>2022-03-28T21:12:33.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隨著烏克蘭戰爭的展開，@nytgraphics是如何改變其地圖的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30835533</id>
+        <link href="https://news.ycombinator.com/item?id=30835533"/>
+        <updated>2022-03-28T21:02:39.000Z</updated>
+        <summary type="html"><![CDATA[How the @nytgraphics has changed their maps as the war in Ukraine unfolds]]></summary>
+        <author>
+            <name>colinprince</name>
+            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Go編寫一個從頭開始的文檔數據庫。類似Lucene的過濾器和索引]]></title>
+        <id>https://news.ycombinator.com/item?id=30835444</id>
+        <link href="https://news.ycombinator.com/item?id=30835444"/>
+        <updated>2022-03-28T20:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Writing a document database from scratch in Go: Lucene-like filters and indexes]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五角大樓如何想出密碼詞和秘密項目的暱稱 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30835432</id>
+        <link href="https://news.ycombinator.com/item?id=30835432"/>
+        <updated>2022-03-28T20:52:37.000Z</updated>
+        <summary type="html"><![CDATA[How The Pentagon Comes Up with Code Words and Secret Project Nicknames (2019)]]></summary>
+        <author>
+            <name>ourmandave</name>
+            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭電信公司的互聯網服務因 "強大的 "網絡攻擊而中斷]]></title>
+        <id>https://news.ycombinator.com/item?id=30835412</id>
+        <link href="https://news.ycombinator.com/item?id=30835412"/>
+        <updated>2022-03-28T20:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian telecom company's internet service disrupted by 'powerful' cyberattack]]></summary>
+        <author>
+            <name>purplesnowflake</name>
+            <uri>https://news.ycombinator.com/user?id=purplesnowflake</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit和Crypto.com宣佈在迪拜設立辦事處，推動阿聯酋加密貨幣發展]]></title>
+        <id>https://news.ycombinator.com/item?id=30835404</id>
+        <link href="https://news.ycombinator.com/item?id=30835404"/>
+        <updated>2022-03-28T20:50:14.000Z</updated>
+        <summary type="html"><![CDATA[UAE crypto push sees Bybit, Crypto.com announce Dubai offices]]></summary>
+        <author>
+            <name>purplesnowflake</name>
+            <uri>https://news.ycombinator.com/user?id=purplesnowflake</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭和平談判代表在會見俄羅斯人後出現中毒跡象]]></title>
+        <id>https://news.ycombinator.com/item?id=30835330</id>
+        <link href="https://news.ycombinator.com/item?id=30835330"/>
+        <updated>2022-03-28T20:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian Peace Negotiators Showed Signs of Poisoning After Meeting Russians]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5.5 GHz酷睿i9-12900KS是英特爾最快且最耗電的桌面CPU]]></title>
+        <id>https://news.ycombinator.com/item?id=30835077</id>
+        <link href="https://news.ycombinator.com/item?id=30835077"/>
+        <updated>2022-03-28T20:19:47.000Z</updated>
+        <summary type="html"><![CDATA[5.5 GHz Core i9-12900KS is Intel’s fastest–and most power-hungry–desktop CPU]]></summary>
+        <author>
+            <name>Tuldok</name>
+            <uri>https://news.ycombinator.com/user?id=Tuldok</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於物聯網的微軟Azure Defender。多個缺陷允許遠程代碼執行]]></title>
         <id>https://news.ycombinator.com/item?id=30835309</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>VariableStar</name>
             <uri>https://news.ycombinator.com/user?id=VariableStar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼異步的斯坦普斯無法戰勝同步的斯坦普斯？]]></title>
-        <id>https://news.ycombinator.com/item?id=30820085</id>
-        <link href="https://news.ycombinator.com/item?id=30820085"/>
-        <updated>2022-03-27T13:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Why Asynchronous Standups Just Can’t Beat Synchronous Standups]]></summary>
-        <author>
-            <name>philk10</name>
-            <uri>https://news.ycombinator.com/user?id=philk10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我修改代碼作為宏的替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30820053</id>
-        <link href="https://news.ycombinator.com/item?id=30820053"/>
-        <updated>2022-03-27T13:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Self Modifying Code as an alternative to macros]]></summary>
-        <author>
-            <name>methyl</name>
-            <uri>https://news.ycombinator.com/user?id=methyl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當我被貼上 "問題 "青少年的標籤時，我答應了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30819756</id>
-        <link href="https://news.ycombinator.com/item?id=30819756"/>
-        <updated>2022-03-27T12:34:39.000Z</updated>
-        <summary type="html"><![CDATA[When I Was Labeled a ‘Troubled’ Teen, I Obliged]]></summary>
-        <author>
-            <name>jasonhansel</name>
-            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於FinFET的Qubits在4開爾文以上並使用空穴作為自旋量子比特]]></title>
-        <id>https://news.ycombinator.com/item?id=30819739</id>
-        <link href="https://news.ycombinator.com/item?id=30819739"/>
-        <updated>2022-03-27T12:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Qubits based on FinFET at above 4 kelvin and use holes as spin qubits]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為萌芽中的地鼠提供免費的編碼練習(2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30819571</id>
-        <link href="https://news.ycombinator.com/item?id=30819571"/>
-        <updated>2022-03-27T11:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Free coding exercises for budding gophers (2017)]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滾動線。鐵路模型仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30820315</id>
-        <link href="https://news.ycombinator.com/item?id=30820315"/>
-        <updated>2022-03-27T14:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Rolling Line: A Model Railroad Simulator]]></summary>
-        <author>
-            <name>billfruit</name>
-            <uri>https://news.ycombinator.com/user?id=billfruit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube刪除與普里蒂-帕特爾和本-華萊士的俄羅斯騙局通話視頻]]></title>
-        <id>https://news.ycombinator.com/item?id=30820280</id>
-        <link href="https://news.ycombinator.com/item?id=30820280"/>
-        <updated>2022-03-27T13:57:34.000Z</updated>
-        <summary type="html"><![CDATA[YouTube removes Russian hoax call videos with Priti Patel and Ben Wallace]]></summary>
-        <author>
-            <name>TechBro8615</name>
-            <uri>https://news.ycombinator.com/user?id=TechBro8615</uri>
         </author>
     </entry>
 </feed>
