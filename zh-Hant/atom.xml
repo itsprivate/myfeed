@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T20:35:18.378Z</updated>
+    <updated>2022-03-28T20:43:36.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[掌摑克里斯-洛克]]></title>
+        <id>https://news.ycombinator.com/item?id=30835224</id>
+        <link href="https://news.ycombinator.com/item?id=30835224"/>
+        <updated>2022-03-28T20:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Slap Chris Rock]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特爾以5.5GHz的16核對手來對抗AMD的巨型緩存PC芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30835209</id>
+        <link href="https://news.ycombinator.com/item?id=30835209"/>
+        <updated>2022-03-28T20:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Intel counters AMD’s mega-cache PC chip with 5.5GHz 16-core rival]]></summary>
+        <author>
+            <name>jiripospisil</name>
+            <uri>https://news.ycombinator.com/user?id=jiripospisil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1900年至2018年外國出生的人口數量和佔美國人口的比例]]></title>
         <id>https://news.ycombinator.com/item?id=30835134</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那張微笑的LinkedIn個人資料臉可能是計算機生成的假臉]]></title>
-        <id>https://news.ycombinator.com/item?id=30820216</id>
-        <link href="https://news.ycombinator.com/item?id=30820216"/>
-        <updated>2022-03-27T13:49:42.000Z</updated>
-        <summary type="html"><![CDATA[That smiling LinkedIn profile face might be a computer-generated fake]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zsh_codex。在你的終端中使用OpenAI Codex]]></title>
-        <id>https://news.ycombinator.com/item?id=30820173</id>
-        <link href="https://news.ycombinator.com/item?id=30820173"/>
-        <updated>2022-03-27T13:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Zsh_codex: Use OpenAI Codex in your terminal]]></summary>
-        <author>
-            <name>csomar</name>
-            <uri>https://news.ycombinator.com/user?id=csomar</uri>
         </author>
     </entry>
 </feed>
