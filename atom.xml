@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T22:43:16.114Z</updated>
+    <updated>2022-03-28T22:51:53.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网络服务器是怎么回事]]></title>
+        <id>https://news.ycombinator.com/item?id=30836524</id>
+        <link href="https://news.ycombinator.com/item?id=30836524"/>
+        <updated>2022-03-28T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[What is going on with web servers]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的互联网协议层/会议呼叫--100倍的速度/更低的延迟]]></title>
+        <id>https://news.ycombinator.com/item?id=30836487</id>
+        <link href="https://news.ycombinator.com/item?id=30836487"/>
+        <updated>2022-03-28T22:43:04.000Z</updated>
+        <summary type="html"><![CDATA[New Internet Protocol Layer / Conf Call – 100x faster/less latency]]></summary>
+        <author>
+            <name>fdsystems</name>
+            <uri>https://news.ycombinator.com/user?id=fdsystems</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯在乌克兰的战争导致复古电脑博物馆被炸毁]]></title>
+        <id>https://news.ycombinator.com/item?id=30836426</id>
+        <link href="https://news.ycombinator.com/item?id=30836426"/>
+        <updated>2022-03-28T22:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Russia's War in Ukraine Results in Bombing of Retro Computer Museum]]></summary>
+        <author>
+            <name>Stratoscope</name>
+            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nat.app，知道你与谁失去联系的个人CRM]]></title>
+        <id>https://news.ycombinator.com/item?id=30836418</id>
+        <link href="https://news.ycombinator.com/item?id=30836418"/>
+        <updated>2022-03-28T22:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nat.app, personal CRM that knows who you're losing touch with]]></summary>
+        <author>
+            <name>nathanganser</name>
+            <uri>https://news.ycombinator.com/user?id=nathanganser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTB多收纳税人的计划]]></title>
+        <id>https://news.ycombinator.com/item?id=30836399</id>
+        <link href="https://news.ycombinator.com/item?id=30836399"/>
+        <updated>2022-03-28T22:32:25.000Z</updated>
+        <summary type="html"><![CDATA[FTB’s Schemes to Overcharge Taxpayers]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我应该为我的公司开源吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30836359</id>
+        <link href="https://news.ycombinator.com/item?id=30836359"/>
+        <updated>2022-03-28T22:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Should I Open-Source my Company?]]></summary>
+        <author>
+            <name>redbell</name>
+            <uri>https://news.ycombinator.com/user?id=redbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战争地带开发者称游戏因 "疯狂的 "下载量而失去玩家]]></title>
+        <id>https://news.ycombinator.com/item?id=30836325</id>
+        <link href="https://news.ycombinator.com/item?id=30836325"/>
+        <updated>2022-03-28T22:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Warzone dev says game is losing players over “insane” download sizes]]></summary>
+        <author>
+            <name>jbernardo95</name>
+            <uri>https://news.ycombinator.com/user?id=jbernardo95</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国的部分收益率曲线刚刚倒挂。这是否意味着经济衰退即将来临？]]></title>
         <id>https://news.ycombinator.com/item?id=30836326</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>martythemaniak</name>
             <uri>https://news.ycombinator.com/user?id=martythemaniak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提议。实施TS2021（Tailscale控制协议 v2）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30821075</id>
-        <link href="https://news.ycombinator.com/item?id=30821075"/>
-        <updated>2022-03-27T15:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Proposal: Implement TS2021 (Tailscale control protocol v2)]]></summary>
-        <author>
-            <name>detaro</name>
-            <uri>https://news.ycombinator.com/user?id=detaro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国人保留了英式英语 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30820930</id>
-        <link href="https://news.ycombinator.com/item?id=30820930"/>
-        <updated>2022-03-27T15:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Americans preserved British English (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真空管的被遗忘的对手]]></title>
-        <id>https://news.ycombinator.com/item?id=30821096</id>
-        <link href="https://news.ycombinator.com/item?id=30821096"/>
-        <updated>2022-03-27T15:41:59.000Z</updated>
-        <summary type="html"><![CDATA[The Vacuum Tube’s Forgotten Rival]]></summary>
-        <author>
-            <name>bangonkeyboard</name>
-            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个淹没的世界。肯尼亚在水下的悄然滑落]]></title>
-        <id>https://news.ycombinator.com/item?id=30821007</id>
-        <link href="https://news.ycombinator.com/item?id=30821007"/>
-        <updated>2022-03-27T15:31:40.000Z</updated>
-        <summary type="html"><![CDATA[A drowning world: Kenya’s quiet slide underwater]]></summary>
-        <author>
-            <name>ContrarianBrit</name>
-            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯军队正在偷窃民用电话，给他们在俄罗斯的家人打电话]]></title>
-        <id>https://news.ycombinator.com/item?id=30820956</id>
-        <link href="https://news.ycombinator.com/item?id=30820956"/>
-        <updated>2022-03-27T15:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Russian troops Are stealing civilian phones to call their families in Russia]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个事件驱动的系统，用Python和pyimgui快速制作GUI]]></title>
-        <id>https://news.ycombinator.com/item?id=30820912</id>
-        <link href="https://news.ycombinator.com/item?id=30820912"/>
-        <updated>2022-03-27T15:21:09.000Z</updated>
-        <summary type="html"><![CDATA[I made an event-driven system to quickly make GUIs with Python and pyimgui]]></summary>
-        <author>
-            <name>jr11</name>
-            <uri>https://news.ycombinator.com/user?id=jr11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国调查员指责以色列实行种族隔离制度]]></title>
-        <id>https://news.ycombinator.com/item?id=30821050</id>
-        <link href="https://news.ycombinator.com/item?id=30821050"/>
-        <updated>2022-03-27T15:36:53.000Z</updated>
-        <summary type="html"><![CDATA[U.N. Investigator Accuses Israel of Apartheid]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
