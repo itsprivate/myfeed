@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T09:33:44.486Z</updated>
+    <updated>2022-03-28T09:51:26.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普魯斯特，數字的什麼主義，焦點的喪失和內容的泛濫]]></title>
+        <id>https://news.ycombinator.com/item?id=30828677</id>
+        <link href="https://news.ycombinator.com/item?id=30828677"/>
+        <updated>2022-03-28T09:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Proust, digital whateverism, loss of focus and proliferation of content]]></summary>
+        <author>
+            <name>pSYoniK</name>
+            <uri>https://news.ycombinator.com/user?id=pSYoniK</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不在俄羅斯了]]></title>
         <id>https://news.ycombinator.com/item?id=30828766</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>henrinikku</name>
             <uri>https://news.ycombinator.com/user?id=henrinikku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在幕後，IPO遊戲規則正在發生變化]]></title>
-        <id>https://news.ycombinator.com/item?id=30812436</id>
-        <link href="https://news.ycombinator.com/item?id=30812436"/>
-        <updated>2022-03-26T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Behind the Scenes, IPO Playbook Is Changing]]></summary>
-        <author>
-            <name>neilfrndes</name>
-            <uri>https://news.ycombinator.com/user?id=neilfrndes</uri>
         </author>
     </entry>
 </feed>
