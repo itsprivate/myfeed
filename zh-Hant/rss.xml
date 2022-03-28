@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 28 Mar 2022 19:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 19:37:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用SQL識別機器人流量]]></title>
+            <link>https://news.ycombinator.com/item?id=30834505</link>
+            <guid>https://news.ycombinator.com/item?id=30834505</guid>
+            <pubDate>Mon, 28 Mar 2022 19:24:12 GMT</pubDate>
+            <description><![CDATA[Identifying Bot Traffic with SQL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React何時渲染你的組件？]]></title>
+            <link>https://news.ycombinator.com/item?id=30834429</link>
+            <guid>https://news.ycombinator.com/item?id=30834429</guid>
+            <pubDate>Mon, 28 Mar 2022 19:17:43 GMT</pubDate>
+            <description><![CDATA[When Does React Render Your Component?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[對遠程程序調用範式的批判 (1988) [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30834278</link>
+            <guid>https://news.ycombinator.com/item?id=30834278</guid>
+            <pubDate>Mon, 28 Mar 2022 19:03:37 GMT</pubDate>
+            <description><![CDATA[A Critique of the Remote Procedure Call Paradigm (1988) [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[利用玻爾茲曼機解決優化問題的新方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30833586</link>
+            <guid>https://news.ycombinator.com/item?id=30833586</guid>
+            <pubDate>Mon, 28 Mar 2022 18:06:56 GMT</pubDate>
+            <description><![CDATA[A new approach to tackle optimization problems using Boltzmann machines]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitHub在事件更新中解釋了停工字符串]]></title>
+            <link>https://news.ycombinator.com/item?id=30833466</link>
+            <guid>https://news.ycombinator.com/item?id=30833466</guid>
+            <pubDate>Mon, 28 Mar 2022 17:57:30 GMT</pubDate>
+            <description><![CDATA[GitHub explains outage string in incidents update]]></description>
+        </item>
         <item>
             <title><![CDATA[變革的成分]]></title>
             <link>https://news.ycombinator.com/item?id=30834446</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30819472</guid>
             <pubDate>Sun, 27 Mar 2022 11:37:56 GMT</pubDate>
             <description><![CDATA[Clasp reaches 1.0 (Common Lisp with C++ Interop)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[適應性媒體評級：統計學上的成對排名和項目的排序]]></title>
-            <link>https://news.ycombinator.com/item?id=30819460</link>
-            <guid>https://news.ycombinator.com/item?id=30819460</guid>
-            <pubDate>Sun, 27 Mar 2022 11:35:31 GMT</pubDate>
-            <description><![CDATA[Resorting Media Ratings: statistical pairwise ranking and sorting of items]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FinRL: 第一個用於金融強化學習的開源項目]]></title>
-            <link>https://news.ycombinator.com/item?id=30819436</link>
-            <guid>https://news.ycombinator.com/item?id=30819436</guid>
-            <pubDate>Sun, 27 Mar 2022 11:28:24 GMT</pubDate>
-            <description><![CDATA[FinRL: The first open-source project for financial reinforcement learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯的BQ手機將在HarmonyOS上運行]]></title>
-            <link>https://news.ycombinator.com/item?id=30819411</link>
-            <guid>https://news.ycombinator.com/item?id=30819411</guid>
-            <pubDate>Sun, 27 Mar 2022 11:20:17 GMT</pubDate>
-            <description><![CDATA[Russia’s BQ phone will run on HarmonyOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[挪威是世界上最適合當作家的地方 (2014)]]></title>
-            <link>https://news.ycombinator.com/item?id=30819264</link>
-            <guid>https://news.ycombinator.com/item?id=30819264</guid>
-            <pubDate>Sun, 27 Mar 2022 10:48:54 GMT</pubDate>
-            <description><![CDATA[Norway Is the Best Place in the World to Be a Writer (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Okta: "我們犯了一個錯誤"，推遲披露Lapsus$黑客攻擊事件]]></title>
-            <link>https://news.ycombinator.com/item?id=30819368</link>
-            <guid>https://news.ycombinator.com/item?id=30819368</guid>
-            <pubDate>Sun, 27 Mar 2022 11:12:31 GMT</pubDate>
-            <description><![CDATA[Okta: “We made a mistake” delaying the Lapsus$ hack disclosure]]></description>
         </item>
     </channel>
 </rss>
