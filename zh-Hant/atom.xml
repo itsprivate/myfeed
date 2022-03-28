@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T06:15:01.811Z</updated>
+    <updated>2022-03-28T06:39:39.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[忠誠專業]]></title>
+        <id>https://news.ycombinator.com/item?id=30827611</id>
+        <link href="https://news.ycombinator.com/item?id=30827611"/>
+        <updated>2022-03-28T06:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Loyalty Pro]]></summary>
+        <author>
+            <name>zlabs</name>
+            <uri>https://news.ycombinator.com/user?id=zlabs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紀元是間諜軟件]]></title>
         <id>https://news.ycombinator.com/item?id=30827539</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mkeeter</name>
             <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你從未聽說過的瀏覽器現在價值10億美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30811808</id>
-        <link href="https://news.ycombinator.com/item?id=30811808"/>
-        <updated>2022-03-26T13:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Browser you've never heard of is now worth a billion dollars]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
