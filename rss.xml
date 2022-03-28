@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[吸收式电冰箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30827608</link>
+            <guid>https://news.ycombinator.com/item?id=30827608</guid>
+            <pubDate>Mon, 28 Mar 2022 06:12:03 GMT</pubDate>
+            <description><![CDATA[Absorption Refigerator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[把自己从那些无从下手的想法中解脱出来]]></title>
+            <link>https://news.ycombinator.com/item?id=30826615</link>
+            <guid>https://news.ycombinator.com/item?id=30826615</guid>
+            <pubDate>Mon, 28 Mar 2022 02:53:28 GMT</pubDate>
+            <description><![CDATA[Unstuck yourself from the ideas that go nowhere]]></description>
+        </item>
         <item>
             <title><![CDATA[HTTP回声服务器基准，Nginx(C), HTTP-echo(go), Pipy(C++)]]></title>
             <link>https://news.ycombinator.com/item?id=30827766</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30812111</guid>
             <pubDate>Sat, 26 Mar 2022 14:29:47 GMT</pubDate>
             <description><![CDATA[Join US Tonight for Earth Hour]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C-Plus-平等]]></title>
-            <link>https://news.ycombinator.com/item?id=30811718</link>
-            <guid>https://news.ycombinator.com/item?id=30811718</guid>
-            <pubDate>Sat, 26 Mar 2022 13:43:32 GMT</pubDate>
-            <description><![CDATA[C-Plus-Equality]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新开始--为新型计算机提供新型操作系统的FOSS建议]]></title>
-            <link>https://news.ycombinator.com/item?id=30811899</link>
-            <guid>https://news.ycombinator.com/item?id=30811899</guid>
-            <pubDate>Sat, 26 Mar 2022 14:08:11 GMT</pubDate>
-            <description><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></description>
         </item>
     </channel>
 </rss>

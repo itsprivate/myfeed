@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T06:57:42.154Z</updated>
+    <updated>2022-03-28T07:13:19.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[吸收式電冰箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30827608</id>
+        <link href="https://news.ycombinator.com/item?id=30827608"/>
+        <updated>2022-03-28T06:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Absorption Refigerator]]></summary>
+        <author>
+            <name>dragontamer</name>
+            <uri>https://news.ycombinator.com/user?id=dragontamer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把自己從那些無從下手的想法中解脫出來]]></title>
+        <id>https://news.ycombinator.com/item?id=30826615</id>
+        <link href="https://news.ycombinator.com/item?id=30826615"/>
+        <updated>2022-03-28T02:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Unstuck yourself from the ideas that go nowhere]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP回聲服務器基準，Nginx(C), HTTP-echo(go), Pipy(C++)]]></title>
         <id>https://news.ycombinator.com/item?id=30827766</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kitkat_new</name>
             <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C-Plus-平等]]></title>
-        <id>https://news.ycombinator.com/item?id=30811718</id>
-        <link href="https://news.ycombinator.com/item?id=30811718"/>
-        <updated>2022-03-26T13:43:32.000Z</updated>
-        <summary type="html"><![CDATA[C-Plus-Equality]]></summary>
-        <author>
-            <name>junon</name>
-            <uri>https://news.ycombinator.com/user?id=junon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新開始--為新型計算機提供新型操作系統的FOSS建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30811899</id>
-        <link href="https://news.ycombinator.com/item?id=30811899"/>
-        <updated>2022-03-26T14:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
