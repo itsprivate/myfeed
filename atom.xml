@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T07:51:38.086Z</updated>
+    <updated>2022-03-28T08:17:37.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Databend 0.7版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30828172</id>
+        <link href="https://news.ycombinator.com/item?id=30828172"/>
+        <updated>2022-03-28T07:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Databend 0.7 Release]]></summary>
+        <author>
+            <name>databendcloud</name>
+            <uri>https://news.ycombinator.com/user?id=databendcloud</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：如果我可以选择一个新的Firefox功能，那将是这个]]></title>
+        <id>https://news.ycombinator.com/item?id=30827547</id>
+        <link href="https://news.ycombinator.com/item?id=30827547"/>
+        <updated>2022-03-28T05:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: If I could chose one new Firefox feature, it would be this]]></summary>
+        <author>
+            <name>dusted</name>
+            <uri>https://news.ycombinator.com/user?id=dusted</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特洛伊-科茨尔创造历史，成为第一个获得奥斯卡表演奖的聋哑人]]></title>
+        <id>https://news.ycombinator.com/item?id=30827302</id>
+        <link href="https://news.ycombinator.com/item?id=30827302"/>
+        <updated>2022-03-28T05:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Troy Kotsur makes history as the first deaf man to win an acting Oscar]]></summary>
+        <author>
+            <name>snyp</name>
+            <uri>https://news.ycombinator.com/user?id=snyp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autotools Mythbuster (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=30827912</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>leonry</name>
             <uri>https://news.ycombinator.com/user?id=leonry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家在太阳内部发现无法解释的波浪，违背了已知的物理学。]]></title>
-        <id>https://news.ycombinator.com/item?id=30812033</id>
-        <link href="https://news.ycombinator.com/item?id=30812033"/>
-        <updated>2022-03-26T14:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Scientists Find Unexplained Waves Inside the Sun That Defy Known Physics]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thundernetes让你的游戏服务器在Kubernetes上轻松运行]]></title>
-        <id>https://news.ycombinator.com/item?id=30811847</id>
-        <link href="https://news.ycombinator.com/item?id=30811847"/>
-        <updated>2022-03-26T14:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Thundernetes makes it easy to run your game servers on Kubernetes]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊隆-马斯克的 "星链 "抵达乌克兰，但接下来会怎样？]]></title>
-        <id>https://news.ycombinator.com/item?id=30811707</id>
-        <link href="https://news.ycombinator.com/item?id=30811707"/>
-        <updated>2022-03-26T13:42:09.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk's Starlink arrives in Ukraine but what next?]]></summary>
-        <author>
-            <name>amelius</name>
-            <uri>https://news.ycombinator.com/user?id=amelius</uri>
         </author>
     </entry>
 </feed>
