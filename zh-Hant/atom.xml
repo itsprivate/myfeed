@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T09:14:24.388Z</updated>
+    <updated>2022-03-28T09:33:44.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不在俄羅斯了]]></title>
+        <id>https://news.ycombinator.com/item?id=30828766</id>
+        <link href="https://news.ycombinator.com/item?id=30828766"/>
+        <updated>2022-03-28T09:27:09.000Z</updated>
+        <summary type="html"><![CDATA[No Longer in Russia]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個重新設計互聯網的計劃可能會使無人控制的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30828404</id>
+        <link href="https://news.ycombinator.com/item?id=30828404"/>
+        <updated>2022-03-28T08:24:41.000Z</updated>
+        <summary type="html"><![CDATA[A plan to redesign the internet could make apps that no one controls]]></summary>
+        <author>
+            <name>BaudouinVH</name>
+            <uri>https://news.ycombinator.com/user?id=BaudouinVH</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用F#進行科學計算]]></title>
+        <id>https://news.ycombinator.com/item?id=30828387</id>
+        <link href="https://news.ycombinator.com/item?id=30828387"/>
+        <updated>2022-03-28T08:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Scientific Computing with F#]]></summary>
+        <author>
+            <name>substation13</name>
+            <uri>https://news.ycombinator.com/user?id=substation13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在歐洲的烏克蘭人現在可以通過歐盟IBAN獲得免費的支付賬戶了]]></title>
         <id>https://news.ycombinator.com/item?id=30827739</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>neilfrndes</name>
             <uri>https://news.ycombinator.com/user?id=neilfrndes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登政府計劃為50歲及以上的人提供第二次強化注射服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30812332</id>
-        <link href="https://news.ycombinator.com/item?id=30812332"/>
-        <updated>2022-03-26T14:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Biden Administration Plans to Offer Second Booster Shots to Those 50 and Up]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Django中用一個簡單的工作系統運行小任務]]></title>
-        <id>https://news.ycombinator.com/item?id=30812239</id>
-        <link href="https://news.ycombinator.com/item?id=30812239"/>
-        <updated>2022-03-26T14:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Running minor tasks with a simple job system in Django]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客訪談。Gummo]]></title>
-        <id>https://news.ycombinator.com/item?id=30812145</id>
-        <link href="https://news.ycombinator.com/item?id=30812145"/>
-        <updated>2022-03-26T14:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Hacker Interview: Gummo]]></summary>
-        <author>
-            <name>miobrien</name>
-            <uri>https://news.ycombinator.com/user?id=miobrien</uri>
         </author>
     </entry>
 </feed>
