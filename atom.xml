@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T20:43:36.919Z</updated>
+    <updated>2022-03-28T20:52:03.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于物联网的微软Azure Defender。多个缺陷允许远程代码执行]]></title>
+        <id>https://news.ycombinator.com/item?id=30835309</id>
+        <link href="https://news.ycombinator.com/item?id=30835309"/>
+        <updated>2022-03-28T20:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Azure Defender for IoT: Multiple flaws allow remote code execution]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初创企业的早期安全]]></title>
+        <id>https://news.ycombinator.com/item?id=30835206</id>
+        <link href="https://news.ycombinator.com/item?id=30835206"/>
+        <updated>2022-03-28T20:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Early Security for Startups]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[掌掴克里斯-洛克]]></title>
         <id>https://news.ycombinator.com/item?id=30835224</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>TechBro8615</name>
             <uri>https://news.ycombinator.com/user?id=TechBro8615</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约回来了--但这对租房者来说是个坏消息]]></title>
-        <id>https://news.ycombinator.com/item?id=30820258</id>
-        <link href="https://news.ycombinator.com/item?id=30820258"/>
-        <updated>2022-03-27T13:56:01.000Z</updated>
-        <summary type="html"><![CDATA[New York is back – but it's terrible news for renters]]></summary>
-        <author>
-            <name>andrew_</name>
-            <uri>https://news.ycombinator.com/user?id=andrew_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1千年树龄的橡树被用来创造 "超级森林]]></title>
-        <id>https://news.ycombinator.com/item?id=30820239</id>
-        <link href="https://news.ycombinator.com/item?id=30820239"/>
-        <updated>2022-03-27T13:53:25.000Z</updated>
-        <summary type="html"><![CDATA[1k-year-old oaks used to create 'super forest']]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
         </author>
     </entry>
 </feed>
