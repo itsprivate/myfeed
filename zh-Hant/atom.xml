@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T02:28:50.046Z</updated>
+    <updated>2022-03-28T03:16:23.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在AWS上高效地構建SaaS產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30826482</id>
+        <link href="https://news.ycombinator.com/item?id=30826482"/>
+        <updated>2022-03-28T02:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Building SaaS Products Efficiently on AWS]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓我們阻止它]]></title>
+        <id>https://news.ycombinator.com/item?id=30826234</id>
+        <link href="https://news.ycombinator.com/item?id=30826234"/>
+        <updated>2022-03-28T01:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Block It]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慈善家推動警方搜查DNA數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30825662</id>
+        <link href="https://news.ycombinator.com/item?id=30825662"/>
+        <updated>2022-03-28T00:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Philanthropists Push Police Searches of DNA Databases]]></summary>
+        <author>
+            <name>tysone</name>
+            <uri>https://news.ycombinator.com/user?id=tysone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Go泛型的網絡庫]]></title>
         <id>https://news.ycombinator.com/item?id=30826368</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rognjen</name>
             <uri>https://news.ycombinator.com/user?id=rognjen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V]]></title>
-        <id>https://news.ycombinator.com/item?id=30810920</id>
-        <link href="https://news.ycombinator.com/item?id=30810920"/>
-        <updated>2022-03-26T11:26:16.000Z</updated>
-        <summary type="html"><![CDATA[V]]></summary>
-        <author>
-            <name>u1tron</name>
-            <uri>https://news.ycombinator.com/user?id=u1tron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基百科]]></title>
-        <id>https://news.ycombinator.com/item?id=30810706</id>
-        <link href="https://news.ycombinator.com/item?id=30810706"/>
-        <updated>2022-03-26T10:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Wikibase]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些地熱廠可以促進電動車電池行業的發展]]></title>
-        <id>https://news.ycombinator.com/item?id=30810370</id>
-        <link href="https://news.ycombinator.com/item?id=30810370"/>
-        <updated>2022-03-26T09:08:43.000Z</updated>
-        <summary type="html"><![CDATA[A few geothermal plants could boost the EV battery industry]]></summary>
-        <author>
-            <name>zeristor</name>
-            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
         </author>
     </entry>
 </feed>
