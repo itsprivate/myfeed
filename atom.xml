@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T08:40:35.153Z</updated>
+    <updated>2022-03-28T08:56:43.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ZX字样 - 庆祝辛克莱尔ZX频谱40周年]]></title>
+        <id>https://news.ycombinator.com/item?id=30828420</id>
+        <link href="https://news.ycombinator.com/item?id=30828420"/>
+        <updated>2022-03-28T08:27:09.000Z</updated>
+        <summary type="html"><![CDATA[ZX Wordle – Celebrating 40 Years of the Sinclair ZX Spectrum]]></summary>
+        <author>
+            <name>conoro</name>
+            <uri>https://news.ycombinator.com/user?id=conoro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Curl向自己发送通知]]></title>
+        <id>https://news.ycombinator.com/item?id=30828293</id>
+        <link href="https://news.ycombinator.com/item?id=30828293"/>
+        <updated>2022-03-28T08:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Send Notifications to Yourself with Curl]]></summary>
+        <author>
+            <name>therealzenzei</name>
+            <uri>https://news.ycombinator.com/user?id=therealzenzei</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绕过OPNSense防火墙与卡普的关系]]></title>
+        <id>https://news.ycombinator.com/item?id=30828257</id>
+        <link href="https://news.ycombinator.com/item?id=30828257"/>
+        <updated>2022-03-28T08:03:19.000Z</updated>
+        <summary type="html"><![CDATA[OPNSense Firewall Bypass with Carp]]></summary>
+        <author>
+            <name>oherrala</name>
+            <uri>https://news.ycombinator.com/user?id=oherrala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[39年后的Emacs万岁，万岁，万岁]]></title>
+        <id>https://news.ycombinator.com/item?id=30828042</id>
+        <link href="https://news.ycombinator.com/item?id=30828042"/>
+        <updated>2022-03-28T07:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Long, long, long live Emacs after 39 years]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他教警察用 "巫术 "来寻找尸体。专家们感到震惊]]></title>
         <id>https://news.ycombinator.com/item?id=30828162</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla在中国法院败诉，被迫禁止广告屏蔽器]]></title>
-        <id>https://news.ycombinator.com/item?id=30812390</id>
-        <link href="https://news.ycombinator.com/item?id=30812390"/>
-        <updated>2022-03-26T14:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla loses in Chinese court, forced to ban ad blockers]]></summary>
-        <author>
-            <name>alg0rith</name>
-            <uri>https://news.ycombinator.com/user?id=alg0rith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morbig - Posix Shell的静态分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30812330</id>
-        <link href="https://news.ycombinator.com/item?id=30812330"/>
-        <updated>2022-03-26T14:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Morbig – A Static Parser for Posix Shell]]></summary>
-        <author>
-            <name>rasmusfabbe</name>
-            <uri>https://news.ycombinator.com/user?id=rasmusfabbe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利科学家破解披萨物理学，不使用酵母制作面团]]></title>
-        <id>https://news.ycombinator.com/item?id=30812313</id>
-        <link href="https://news.ycombinator.com/item?id=30812313"/>
-        <updated>2022-03-26T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Italian scientists hacked pizza physics to make dough without yeast]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，革命还没有结束]]></title>
-        <id>https://news.ycombinator.com/item?id=30812282</id>
-        <link href="https://news.ycombinator.com/item?id=30812282"/>
-        <updated>2022-03-26T14:46:31.000Z</updated>
-        <summary type="html"><![CDATA[No, the Revolution Isn’t Over]]></summary>
-        <author>
-            <name>andrenth</name>
-            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
         </author>
     </entry>
 </feed>
