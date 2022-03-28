@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T09:51:26.783Z</updated>
+    <updated>2022-03-28T10:15:40.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纯文本的互联网正在到来]]></title>
+        <id>https://news.ycombinator.com/item?id=30828922</id>
+        <link href="https://news.ycombinator.com/item?id=30828922"/>
+        <updated>2022-03-28T09:57:07.000Z</updated>
+        <summary type="html"><![CDATA[The plain-text internet is coming]]></summary>
+        <author>
+            <name>pokolovsky</name>
+            <uri>https://news.ycombinator.com/user?id=pokolovsky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我手腕上的氧化物。PineTime上的傲慢是最好最坏的想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30828884</id>
+        <link href="https://news.ycombinator.com/item?id=30828884"/>
+        <updated>2022-03-28T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Oxide on My Wrist: Hubris on PineTime was the best worst idea]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Zlib在deflate上的内存损坏（即压缩）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30828743</id>
+        <link href="https://news.ycombinator.com/item?id=30828743"/>
+        <updated>2022-03-28T09:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Re: Zlib memory corruption on deflate (i.e. compress)]]></summary>
+        <author>
+            <name>0x0</name>
+            <uri>https://news.ycombinator.com/user?id=0x0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python中的预分配列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30828523</id>
+        <link href="https://news.ycombinator.com/item?id=30828523"/>
+        <updated>2022-03-28T08:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Pre-Allocated Lists in Python]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到 "空岛"，丢失的数据将在这里死去。]]></title>
+        <id>https://news.ycombinator.com/item?id=30828506</id>
+        <link href="https://news.ycombinator.com/item?id=30828506"/>
+        <updated>2022-03-28T08:37:34.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Null Island, where lost data goes to die]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API测试应该是可预测的和完全自动化的]]></title>
+        <id>https://news.ycombinator.com/item?id=30828481</id>
+        <link href="https://news.ycombinator.com/item?id=30828481"/>
+        <updated>2022-03-28T08:34:42.000Z</updated>
+        <summary type="html"><![CDATA[API Testing should be predictable and fully automated]]></summary>
+        <author>
+            <name>ludovicianul</name>
+            <uri>https://news.ycombinator.com/user?id=ludovicianul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被锁定的病人通过听觉神经反馈训练学会了拼写]]></title>
+        <id>https://news.ycombinator.com/item?id=30828434</id>
+        <link href="https://news.ycombinator.com/item?id=30828434"/>
+        <updated>2022-03-28T08:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Locked-in patient learns spelling via auditory neurofeedback training]]></summary>
+        <author>
+            <name>nvalis</name>
+            <uri>https://news.ycombinator.com/user?id=nvalis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紧急行动信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30828360</id>
+        <link href="https://news.ycombinator.com/item?id=30828360"/>
+        <updated>2022-03-28T08:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Emergency Action Message]]></summary>
+        <author>
+            <name>badrabbit</name>
+            <uri>https://news.ycombinator.com/user?id=badrabbit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普鲁斯特，数字的什么主义，焦点的丧失和内容的泛滥]]></title>
         <id>https://news.ycombinator.com/item?id=30828677</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>HiroProtagonist</name>
             <uri>https://news.ycombinator.com/user?id=HiroProtagonist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无密码世界中的钥匙安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30812153</id>
-        <link href="https://news.ycombinator.com/item?id=30812153"/>
-        <updated>2022-03-26T14:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Key Security in a Passwordless World]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争停止了从太空追踪野生动物的项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30812137</id>
-        <link href="https://news.ycombinator.com/item?id=30812137"/>
-        <updated>2022-03-26T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[War halts project to track wildlife from space]]></summary>
-        <author>
-            <name>509engr</name>
-            <uri>https://news.ycombinator.com/user?id=509engr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从深度和RGB视频中学习仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30812025</id>
-        <link href="https://news.ycombinator.com/item?id=30812025"/>
-        <updated>2022-03-26T14:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Learn simulators from depth and RGB videos]]></summary>
-        <author>
-            <name>erwincoumans</name>
-            <uri>https://news.ycombinator.com/user?id=erwincoumans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类可穿越的虫洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30812638</id>
-        <link href="https://news.ycombinator.com/item?id=30812638"/>
-        <updated>2022-03-26T15:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Humanly Traversable Wormholes]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华盛顿州的法案规定，从2030年起，所有车辆都是电动车（EV）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30812562</id>
-        <link href="https://news.ycombinator.com/item?id=30812562"/>
-        <updated>2022-03-26T15:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Washington state bill sets a target that all vehicles from 2030 be electric (EV)]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Purple-gowhatsapp - WhatsApp Web的Pidgin/libpurple插件]]></title>
-        <id>https://news.ycombinator.com/item?id=30812523</id>
-        <link href="https://news.ycombinator.com/item?id=30812523"/>
-        <updated>2022-03-26T15:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Purple-gowhatsapp – Pidgin/libpurple plugin for WhatsApp Web]]></summary>
-        <author>
-            <name>olvy0</name>
-            <uri>https://news.ycombinator.com/user?id=olvy0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件揭示了美国宇航局在重新命名韦伯望远镜上的内部斗争]]></title>
-        <id>https://news.ycombinator.com/item?id=30812492</id>
-        <link href="https://news.ycombinator.com/item?id=30812492"/>
-        <updated>2022-03-26T15:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Docs reveal NASA’s internal struggles over renaming Webb telescope]]></summary>
-        <author>
-            <name>xqcgrek2</name>
-            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否暂时感到难堪？]]></title>
-        <id>https://news.ycombinator.com/item?id=30812447</id>
-        <link href="https://news.ycombinator.com/item?id=30812447"/>
-        <updated>2022-03-26T15:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Are You Temporarily Embarrassed?]]></summary>
-        <author>
-            <name>henrinikku</name>
-            <uri>https://news.ycombinator.com/user?id=henrinikku</uri>
         </author>
     </entry>
 </feed>
