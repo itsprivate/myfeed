@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T11:31:21.810Z</updated>
+    <updated>2022-03-28T11:51:24.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zoom公司允许用户绕过公司的安全设置，以促进市场的需求]]></title>
+        <id>https://news.ycombinator.com/item?id=30829447</id>
+        <link href="https://news.ycombinator.com/item?id=30829447"/>
+        <updated>2022-03-28T11:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Zoom to allow users bypass company security settings to boost marketplace demand]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语法]]></title>
         <id>https://news.ycombinator.com/item?id=30829244</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ak391</name>
             <uri>https://news.ycombinator.com/user?id=ak391</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX将星际飞船SN20从第一次轨道飞行中丢弃，用于新的原型机]]></title>
-        <id>https://news.ycombinator.com/item?id=30813460</id>
-        <link href="https://news.ycombinator.com/item?id=30813460"/>
-        <updated>2022-03-26T17:02:31.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX drops Starship SN20 from the first orbital flight for a new prototype]]></summary>
-        <author>
-            <name>CarCooler</name>
-            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
         </author>
     </entry>
 </feed>
