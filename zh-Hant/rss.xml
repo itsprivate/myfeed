@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HTTP回聲服務器基準，Nginx(C), HTTP-echo(go), Pipy(C++)]]></title>
+            <link>https://news.ycombinator.com/item?id=30827766</link>
+            <guid>https://news.ycombinator.com/item?id=30827766</guid>
+            <pubDate>Mon, 28 Mar 2022 06:41:33 GMT</pubDate>
+            <description><![CDATA[HTTP Echo server benchmark, Nginx(C), HTTP-echo(go), Pipy(C++)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦調查局指控俄羅斯黑客針對美國煉油廠的破壞性行為]]></title>
+            <link>https://news.ycombinator.com/item?id=30827606</link>
+            <guid>https://news.ycombinator.com/item?id=30827606</guid>
+            <pubDate>Mon, 28 Mar 2022 06:11:54 GMT</pubDate>
+            <description><![CDATA[Feds allege destructive Russian hackers targeted US oil refineries]]></description>
+        </item>
         <item>
             <title><![CDATA[忠誠專業]]></title>
             <link>https://news.ycombinator.com/item?id=30827611</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30811899</guid>
             <pubDate>Sat, 26 Mar 2022 14:08:11 GMT</pubDate>
             <description><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用AWS步驟函數和亞馬遜API網關運行跨賬戶工作流]]></title>
-            <link>https://news.ycombinator.com/item?id=30811980</link>
-            <guid>https://news.ycombinator.com/item?id=30811980</guid>
-            <pubDate>Sat, 26 Mar 2022 14:15:59 GMT</pubDate>
-            <description><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PHP Filter_var Shenanigans]]></title>
-            <link>https://news.ycombinator.com/item?id=30811842</link>
-            <guid>https://news.ycombinator.com/item?id=30811842</guid>
-            <pubDate>Sat, 26 Mar 2022 14:00:54 GMT</pubDate>
-            <description><![CDATA[PHP Filter_var Shenanigans]]></description>
         </item>
     </channel>
 </rss>

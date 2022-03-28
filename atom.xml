@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-28T06:39:39.478Z</updated>
+    <updated>2022-03-28T06:57:42.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTTP回声服务器基准，Nginx(C), HTTP-echo(go), Pipy(C++)]]></title>
+        <id>https://news.ycombinator.com/item?id=30827766</id>
+        <link href="https://news.ycombinator.com/item?id=30827766"/>
+        <updated>2022-03-28T06:41:33.000Z</updated>
+        <summary type="html"><![CDATA[HTTP Echo server benchmark, Nginx(C), HTTP-echo(go), Pipy(C++)]]></summary>
+        <author>
+            <name>caishu97</name>
+            <uri>https://news.ycombinator.com/user?id=caishu97</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联邦调查局指控俄罗斯黑客针对美国炼油厂的破坏性行为]]></title>
+        <id>https://news.ycombinator.com/item?id=30827606</id>
+        <link href="https://news.ycombinator.com/item?id=30827606"/>
+        <updated>2022-03-28T06:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Feds allege destructive Russian hackers targeted US oil refineries]]></summary>
+        <author>
+            <name>unripe_syntax</name>
+            <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忠诚专业]]></title>
         <id>https://news.ycombinator.com/item?id=30827611</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gjvc</name>
             <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用AWS步骤函数和亚马逊API网关运行跨账户工作流]]></title>
-        <id>https://news.ycombinator.com/item?id=30811980</id>
-        <link href="https://news.ycombinator.com/item?id=30811980"/>
-        <updated>2022-03-26T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Filter_var Shenanigans]]></title>
-        <id>https://news.ycombinator.com/item?id=30811842</id>
-        <link href="https://news.ycombinator.com/item?id=30811842"/>
-        <updated>2022-03-26T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[PHP Filter_var Shenanigans]]></summary>
-        <author>
-            <name>mkeeter</name>
-            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
         </author>
     </entry>
 </feed>
