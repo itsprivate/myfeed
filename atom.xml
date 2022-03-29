@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T20:34:27.560Z</updated>
+    <updated>2022-03-29T20:43:25.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DoorDash用Next.js扩展SSR的规模]]></title>
+        <id>https://news.ycombinator.com/item?id=30847977</id>
+        <link href="https://news.ycombinator.com/item?id=30847977"/>
+        <updated>2022-03-29T20:31:29.000Z</updated>
+        <summary type="html"><![CDATA[DoorDash scaled SSR with Next.js]]></summary>
+        <author>
+            <name>maxpert</name>
+            <uri>https://news.ycombinator.com/user?id=maxpert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的战争对气候科学产生了寒蝉效应，因为北极温度飙升]]></title>
+        <id>https://news.ycombinator.com/item?id=30847719</id>
+        <link href="https://news.ycombinator.com/item?id=30847719"/>
+        <updated>2022-03-29T20:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s war has chilling effect on climate science as Arctic temperatures soar]]></summary>
+        <author>
+            <name>jessimckenzi</name>
+            <uri>https://news.ycombinator.com/user?id=jessimckenzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 3.0 "能否使互联网民主化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30847662</id>
+        <link href="https://news.ycombinator.com/item?id=30847662"/>
+        <updated>2022-03-29T20:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Could ‘Web 3.0’ Democratize the Internet?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkpop是一个新的生物体内链接工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30847331</id>
+        <link href="https://news.ycombinator.com/item?id=30847331"/>
+        <updated>2022-03-29T19:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Linkpop a new link in-bio tool]]></summary>
+        <author>
+            <name>julianojulio</name>
+            <uri>https://news.ycombinator.com/user?id=julianojulio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ludum Dare 50（LDJam 20周年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30847886</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Andi (YC W22) - 基于问答、无广告、反垃圾邮件的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30832589</id>
-        <link href="https://news.ycombinator.com/item?id=30832589"/>
-        <updated>2022-03-28T16:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Andi (YC W22) – Q&A based, ad-free, anti-spam search engine]]></summary>
-        <author>
-            <name>jedwhite</name>
-            <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的开发平台。环境即服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30832548</id>
-        <link href="https://news.ycombinator.com/item?id=30832548"/>
-        <updated>2022-03-28T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[New Development Platform: Environments as a Service]]></summary>
-        <author>
-            <name>chriscarrig</name>
-            <uri>https://news.ycombinator.com/user?id=chriscarrig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亲爱的，我把MacBook斩首了]]></title>
-        <id>https://news.ycombinator.com/item?id=30832519</id>
-        <link href="https://news.ycombinator.com/item?id=30832519"/>
-        <updated>2022-03-28T16:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Honey, I Decapitated the MacBook]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86系统的指针标记]]></title>
-        <id>https://news.ycombinator.com/item?id=30832497</id>
-        <link href="https://news.ycombinator.com/item?id=30832497"/>
-        <updated>2022-03-28T16:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Pointer Tagging for x86 Systems]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>
