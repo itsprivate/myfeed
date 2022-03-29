@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T08:14:59.963Z</updated>
+    <updated>2022-03-29T08:39:11.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰总统泽伦斯基的电话]]></title>
+        <id>https://news.ycombinator.com/item?id=30840029</id>
+        <link href="https://news.ycombinator.com/item?id=30840029"/>
+        <updated>2022-03-29T08:05:35.000Z</updated>
+        <summary type="html"><![CDATA[The phones of Ukrainian president Zelensky]]></summary>
+        <author>
+            <name>quakeguy</name>
+            <uri>https://news.ycombinator.com/user?id=quakeguy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erofs只读Linux文件系统正在努力实现新功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30840009</id>
+        <link href="https://news.ycombinator.com/item?id=30840009"/>
+        <updated>2022-03-29T08:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Erofs Read-Only Linux File-System Working Toward New Features]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你如何在DMA世界中实现互操作性？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839944</id>
+        <link href="https://news.ycombinator.com/item?id=30839944"/>
+        <updated>2022-03-29T07:50:34.000Z</updated>
+        <summary type="html"><![CDATA[How do you implement interoperability in a DMA world?]]></summary>
+        <author>
+            <name>rapnie</name>
+            <uri>https://news.ycombinator.com/user?id=rapnie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在危急情况下，LDAP中继站的初始立足点]]></title>
+        <id>https://news.ycombinator.com/item?id=30839866</id>
+        <link href="https://news.ycombinator.com/item?id=30839866"/>
+        <updated>2022-03-29T07:39:24.000Z</updated>
+        <summary type="html"><![CDATA[LDAP relays for initial foothold in dire situations]]></summary>
+        <author>
+            <name>notmine1337</name>
+            <uri>https://news.ycombinator.com/user?id=notmine1337</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feedburner似乎正在消亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30839710</id>
+        <link href="https://news.ycombinator.com/item?id=30839710"/>
+        <updated>2022-03-29T07:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Feedburner Seems to Be Dying]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析纯文本表格的新方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30839705</id>
+        <link href="https://news.ycombinator.com/item?id=30839705"/>
+        <updated>2022-03-29T07:12:27.000Z</updated>
+        <summary type="html"><![CDATA[A New Way to Parse Plain Text Tables]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经理人的商业教育对工资和劳动份额的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30839561</id>
+        <link href="https://news.ycombinator.com/item?id=30839561"/>
+        <updated>2022-03-29T06:45:03.000Z</updated>
+        <summary type="html"><![CDATA[The Effects of Managers' Business Education on Wages and the Labor Share]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapseed|照片编辑应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30838628</id>
+        <link href="https://news.ycombinator.com/item?id=30838628"/>
+        <updated>2022-03-29T04:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Snapseed|Photo Editing Application]]></summary>
+        <author>
+            <name>harveyspecter</name>
+            <uri>https://news.ycombinator.com/user?id=harveyspecter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业的早期安全]]></title>
         <id>https://news.ycombinator.com/item?id=30839920</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>chemodax</name>
             <uri>https://news.ycombinator.com/user?id=chemodax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术如何成为强制性的]]></title>
-        <id>https://news.ycombinator.com/item?id=30824250</id>
-        <link href="https://news.ycombinator.com/item?id=30824250"/>
-        <updated>2022-03-27T21:18:00.000Z</updated>
-        <summary type="html"><![CDATA[How Tech Becomes Mandatory]]></summary>
-        <author>
-            <name>uweuwe</name>
-            <uri>https://news.ycombinator.com/user?id=uweuwe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登提议对最富有的美国人征收20%的新的最低税收]]></title>
-        <id>https://news.ycombinator.com/item?id=30824231</id>
-        <link href="https://news.ycombinator.com/item?id=30824231"/>
-        <updated>2022-03-27T21:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Biden to Propose New Minimum Tax of 20% on Wealthiest Americans]]></summary>
-        <author>
-            <name>samspenc</name>
-            <uri>https://news.ycombinator.com/user?id=samspenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在N64上画三角形]]></title>
-        <id>https://news.ycombinator.com/item?id=30824187</id>
-        <link href="https://news.ycombinator.com/item?id=30824187"/>
-        <updated>2022-03-27T21:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Drawing Triangles on N64]]></summary>
-        <author>
-            <name>phendrenad2</name>
-            <uri>https://news.ycombinator.com/user?id=phendrenad2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chello - 一个替代Twillio的免费P2P平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30824178</id>
-        <link href="https://news.ycombinator.com/item?id=30824178"/>
-        <updated>2022-03-27T21:10:19.000Z</updated>
-        <summary type="html"><![CDATA[Chello - A Free P2P Alternative to Twillio]]></summary>
-        <author>
-            <name>bitbro</name>
-            <uri>https://news.ycombinator.com/user?id=bitbro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是Webhook？]]></title>
-        <id>https://news.ycombinator.com/item?id=30824078</id>
-        <link href="https://news.ycombinator.com/item?id=30824078"/>
-        <updated>2022-03-27T20:59:15.000Z</updated>
-        <summary type="html"><![CDATA[What Is a Webhook?]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯士兵 "带着坦克投降，获得7500英镑和乌克兰公民身份]]></title>
-        <id>https://news.ycombinator.com/item?id=30824076</id>
-        <link href="https://news.ycombinator.com/item?id=30824076"/>
-        <updated>2022-03-27T20:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Russian soldier 'surrenders with TANK and gets £7,500 and Ukrainian citizenship]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盗版奥斯卡2022：20多年来放映机的兴衰]]></title>
-        <id>https://news.ycombinator.com/item?id=30823745</id>
-        <link href="https://news.ycombinator.com/item?id=30823745"/>
-        <updated>2022-03-27T20:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Pirating the Oscars 2022: The Rise and Fall of the Screener over 20 Years]]></summary>
-        <author>
-            <name>Doubleguitars</name>
-            <uri>https://news.ycombinator.com/user?id=Doubleguitars</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase博客。矿池骗局瞄准自家钱包]]></title>
-        <id>https://news.ycombinator.com/item?id=30823645</id>
-        <link href="https://news.ycombinator.com/item?id=30823645"/>
-        <updated>2022-03-27T20:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase blog: Mining Pool scams targeting self-custody wallets]]></summary>
-        <author>
-            <name>pramodbiligiri</name>
-            <uri>https://news.ycombinator.com/user?id=pramodbiligiri</uri>
         </author>
     </entry>
 </feed>
