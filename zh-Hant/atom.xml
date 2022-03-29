@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T21:31:32.478Z</updated>
+    <updated>2022-03-29T21:41:01.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於自由軟件來說，使用自由軟件基礎設施是非常重要的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30848516</id>
+        <link href="https://news.ycombinator.com/item?id=30848516"/>
+        <updated>2022-03-29T21:19:52.000Z</updated>
+        <summary type="html"><![CDATA[It is important for free software to use free software infrastructure]]></summary>
+        <author>
+            <name>ranaexmachina</name>
+            <uri>https://news.ycombinator.com/user?id=ranaexmachina</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用切比雪夫多項式逼近sin(x)到5 ULP (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30848424</id>
+        <link href="https://news.ycombinator.com/item?id=30848424"/>
+        <updated>2022-03-29T21:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Approximating sin(x) to 5 ULP with Chebyshev polynomials (2017)]]></summary>
+        <author>
+            <name>lamontcg</name>
+            <uri>https://news.ycombinator.com/user?id=lamontcg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初學者的職業提示]]></title>
+        <id>https://news.ycombinator.com/item?id=30848379</id>
+        <link href="https://news.ycombinator.com/item?id=30848379"/>
+        <updated>2022-03-29T21:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Career Tips for Beginner Developers]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[憤怒的股東因伊拉克腐敗醜聞制裁愛立信董事會和CEO]]></title>
+        <id>https://news.ycombinator.com/item?id=30848354</id>
+        <link href="https://news.ycombinator.com/item?id=30848354"/>
+        <updated>2022-03-29T21:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Angry shareholders sanction Ericsson board and CEO over Iraq corruption scandal]]></summary>
+        <author>
+            <name>matsemann</name>
+            <uri>https://news.ycombinator.com/user?id=matsemann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客破壞了聯邦航空運輸局的數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30848342</id>
+        <link href="https://news.ycombinator.com/item?id=30848342"/>
+        <updated>2022-03-29T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Hackers Destroyed the Data of the Federal Air Transport Agency]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前谷歌CEO向白宮科學辦公室輸送資金]]></title>
+        <id>https://news.ycombinator.com/item?id=30847925</id>
+        <link href="https://news.ycombinator.com/item?id=30847925"/>
+        <updated>2022-03-29T20:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Ex-Google CEO funneled money into the White House science office]]></summary>
+        <author>
+            <name>lizparody23</name>
+            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[就像我溺水一樣："來自學生債務危機的五個故事 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30847707</id>
+        <link href="https://news.ycombinator.com/item?id=30847707"/>
+        <updated>2022-03-29T20:07:22.000Z</updated>
+        <summary type="html"><![CDATA[‘Like I’m drowning:’ Five stories from the student debt crisis (2021)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glimpse融資620萬美元，用於短期租賃產品的投放]]></title>
         <id>https://news.ycombinator.com/item?id=30848494</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的瀏覽器桌面環境中的WebAssembly]]></title>
-        <id>https://news.ycombinator.com/item?id=30833197</id>
-        <link href="https://news.ycombinator.com/item?id=30833197"/>
-        <updated>2022-03-28T17:37:09.000Z</updated>
-        <summary type="html"><![CDATA[WebAssembly in My Browser Desktop Environment]]></summary>
-        <author>
-            <name>DustinBrett</name>
-            <uri>https://news.ycombinator.com/user?id=DustinBrett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Postgres 15提交的合併SQL命令]]></title>
-        <id>https://news.ycombinator.com/item?id=30833150</id>
-        <link href="https://news.ycombinator.com/item?id=30833150"/>
-        <updated>2022-03-28T17:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Merge SQL command committed for Postgres 15]]></summary>
-        <author>
-            <name>craigkerstiens</name>
-            <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DualStyleGAN - 一個高分辨率的肖像風格轉換]]></title>
-        <id>https://news.ycombinator.com/item?id=30832999</id>
-        <link href="https://news.ycombinator.com/item?id=30832999"/>
-        <updated>2022-03-28T17:23:58.000Z</updated>
-        <summary type="html"><![CDATA[DualStyleGAN - A High-Resolution Portrait Style Transfer]]></summary>
-        <author>
-            <name>masterchief1s1k</name>
-            <uri>https://news.ycombinator.com/user?id=masterchief1s1k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徠卡的新相機使技能重新成為焦點]]></title>
-        <id>https://news.ycombinator.com/item?id=30832874</id>
-        <link href="https://news.ycombinator.com/item?id=30832874"/>
-        <updated>2022-03-28T17:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Leica’s new camera puts skill back into focus]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何為你的SaaS產品的功能限制把關？]]></title>
-        <id>https://news.ycombinator.com/item?id=30833127</id>
-        <link href="https://news.ycombinator.com/item?id=30833127"/>
-        <updated>2022-03-28T17:31:27.000Z</updated>
-        <summary type="html"><![CDATA[How do you gate feature limits in your SaaS product?]]></summary>
-        <author>
-            <name>sssslyz</name>
-            <uri>https://news.ycombinator.com/user?id=sssslyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅曼-阿布拉莫維奇在基輔會談中遭遇疑似中毒事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30832998</id>
-        <link href="https://news.ycombinator.com/item?id=30832998"/>
-        <updated>2022-03-28T17:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Roman Abramovich suffered suspected poisoning at Kyiv talks]]></summary>
-        <author>
-            <name>RansomStark</name>
-            <uri>https://news.ycombinator.com/user?id=RansomStark</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dt - 用一個命令建立你的整個項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30832952</id>
-        <link href="https://news.ycombinator.com/item?id=30832952"/>
-        <updated>2022-03-28T17:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Dt – Build your entire project with one command]]></summary>
-        <author>
-            <name>Theryston</name>
-            <uri>https://news.ycombinator.com/user?id=Theryston</uri>
         </author>
     </entry>
 </feed>
