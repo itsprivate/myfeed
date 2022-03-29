@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 14:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘇聯軍隊繪製了整個世界的地圖]]></title>
+            <link>https://news.ycombinator.com/item?id=30843167</link>
+            <guid>https://news.ycombinator.com/item?id=30843167</guid>
+            <pubDate>Tue, 29 Mar 2022 14:42:04 GMT</pubDate>
+            <description><![CDATA[The Soviet Military Mapped the Entire World]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript是如何工作的。深入瞭解Webpack]]></title>
+            <link>https://news.ycombinator.com/item?id=30843156</link>
+            <guid>https://news.ycombinator.com/item?id=30843156</guid>
+            <pubDate>Tue, 29 Mar 2022 14:41:30 GMT</pubDate>
+            <description><![CDATA[How JavaScript works: A deep dive into Webpack]]></description>
+        </item>
+        <item>
+            <title><![CDATA[探測廢話]]></title>
+            <link>https://news.ycombinator.com/item?id=30843113</link>
+            <guid>https://news.ycombinator.com/item?id=30843113</guid>
+            <pubDate>Tue, 29 Mar 2022 14:38:34 GMT</pubDate>
+            <description><![CDATA[Detecting Bullshit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Geist - 用於構建現代網站和應用程序的開源設計系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30843060</link>
+            <guid>https://news.ycombinator.com/item?id=30843060</guid>
+            <pubDate>Tue, 29 Mar 2022 14:35:15 GMT</pubDate>
+            <description><![CDATA[Geist – An open source design system for building modern websites and apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[惠普以33億美元收購保利，大賭混合工作的未來]]></title>
+            <link>https://news.ycombinator.com/item?id=30842974</link>
+            <guid>https://news.ycombinator.com/item?id=30842974</guid>
+            <pubDate>Tue, 29 Mar 2022 14:28:23 GMT</pubDate>
+            <description><![CDATA[HP bets big on future of hybrid work with $3.3bn Poly buy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英派斯太空公司正在押注一個發射成本低廉的未來]]></title>
+            <link>https://news.ycombinator.com/item?id=30842546</link>
+            <guid>https://news.ycombinator.com/item?id=30842546</guid>
+            <pubDate>Tue, 29 Mar 2022 13:54:11 GMT</pubDate>
+            <description><![CDATA[Impulse Space is betting on a future where launch is cheap]]></description>
+        </item>
         <item>
             <title><![CDATA[德里克-洛維：錯誤信息及其傳播]]></title>
             <link>https://news.ycombinator.com/item?id=30843049</link>
@@ -4171,48 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30828966</guid>
             <pubDate>Mon, 28 Mar 2022 10:07:35 GMT</pubDate>
             <description><![CDATA[Linux kernel switches from C89 to C11 (or rather, -std=gnu11)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[社區大學入學率下降，但技術性行業項目正在蓬勃發展]]></title>
-            <link>https://news.ycombinator.com/item?id=30828965</link>
-            <guid>https://news.ycombinator.com/item?id=30828965</guid>
-            <pubDate>Mon, 28 Mar 2022 10:07:32 GMT</pubDate>
-            <description><![CDATA[Community college enrollment is down, but skilled-trades programs are booming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[純文本的互聯網正在到來]]></title>
-            <link>https://news.ycombinator.com/item?id=30828922</link>
-            <guid>https://news.ycombinator.com/item?id=30828922</guid>
-            <pubDate>Mon, 28 Mar 2022 09:57:07 GMT</pubDate>
-            <description><![CDATA[The plain-text internet is coming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我手腕上的氧化物。PineTime上的傲慢是最好最壞的想法]]></title>
-            <link>https://news.ycombinator.com/item?id=30828884</link>
-            <guid>https://news.ycombinator.com/item?id=30828884</guid>
-            <pubDate>Mon, 28 Mar 2022 09:51:18 GMT</pubDate>
-            <description><![CDATA[Oxide on My Wrist: Hubris on PineTime was the best worst idea]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Re: Zlib在deflate上的內存損壞（即壓縮）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30828743</link>
-            <guid>https://news.ycombinator.com/item?id=30828743</guid>
-            <pubDate>Mon, 28 Mar 2022 09:22:29 GMT</pubDate>
-            <description><![CDATA[Re: Zlib memory corruption on deflate (i.e. compress)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的預分配列表]]></title>
-            <link>https://news.ycombinator.com/item?id=30828523</link>
-            <guid>https://news.ycombinator.com/item?id=30828523</guid>
-            <pubDate>Mon, 28 Mar 2022 08:41:04 GMT</pubDate>
-            <description><![CDATA[Pre-Allocated Lists in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歡迎來到 "空島"，丟失的數據將在這裡死去。]]></title>
-            <link>https://news.ycombinator.com/item?id=30828506</link>
-            <guid>https://news.ycombinator.com/item?id=30828506</guid>
-            <pubDate>Mon, 28 Mar 2022 08:37:34 GMT</pubDate>
-            <description><![CDATA[Welcome to Null Island, where lost data goes to die]]></description>
         </item>
     </channel>
 </rss>
