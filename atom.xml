@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T22:33:48.512Z</updated>
+    <updated>2022-03-29T22:43:22.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个内置的测试运行器即将进入Node，为什么你应该关注它？]]></title>
+        <id>https://news.ycombinator.com/item?id=30848979</id>
+        <link href="https://news.ycombinator.com/item?id=30848979"/>
+        <updated>2022-03-29T22:06:02.000Z</updated>
+        <summary type="html"><![CDATA[A Built-In Test Runner Is Coming to Node and Why You Should Care]]></summary>
+        <author>
+            <name>lizparody23</name>
+            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔术师自己的书，或者，阿诺德和卡希尔的整个变戏法艺术]]></title>
+        <id>https://news.ycombinator.com/item?id=30848942</id>
+        <link href="https://news.ycombinator.com/item?id=30848942"/>
+        <updated>2022-03-29T22:01:30.000Z</updated>
+        <summary type="html"><![CDATA[The Magician's Own Book, Or, the Whole Art of Conjuring by Arnold and Cahill]]></summary>
+        <author>
+            <name>kirykl</name>
+            <uri>https://news.ycombinator.com/user?id=kirykl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用俄罗斯技术？是时候重新审视风险了]]></title>
         <id>https://news.ycombinator.com/item?id=30849108</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁发明了钢琴？钢琴的历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30833693</id>
-        <link href="https://news.ycombinator.com/item?id=30833693"/>
-        <updated>2022-03-28T18:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Who Invented the Piano? The History of Piano]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sellix: Netflix的密码共享问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30833652</id>
-        <link href="https://news.ycombinator.com/item?id=30833652"/>
-        <updated>2022-03-28T18:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Sellix: Netflix’s Password Sharing Problem]]></summary>
-        <author>
-            <name>investigator_x</name>
-            <uri>https://news.ycombinator.com/user?id=investigator_x</uri>
         </author>
     </entry>
 </feed>
