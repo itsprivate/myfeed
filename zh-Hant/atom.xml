@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T13:48:37.549Z</updated>
+    <updated>2022-03-29T13:53:33.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[去中心化的行動主義。建立行動的技術基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=30842440</id>
+        <link href="https://news.ycombinator.com/item?id=30842440"/>
+        <updated>2022-03-29T13:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Decentralised activism: Building tech infrastructure for action]]></summary>
+        <author>
+            <name>smbv</name>
+            <uri>https://news.ycombinator.com/user?id=smbv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[史詩和《堡壘之夜》現在是烏克蘭最大的單一企業捐助方]]></title>
         <id>https://news.ycombinator.com/item?id=30842240</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ofou</name>
             <uri>https://news.ycombinator.com/user?id=ofou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的證據：關於衝突的開放數據和信息核查項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30826725</id>
-        <link href="https://news.ycombinator.com/item?id=30826725"/>
-        <updated>2022-03-28T03:12:20.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Evidence: open data and info verification project about the conflict]]></summary>
-        <author>
-            <name>mikpanko</name>
-            <uri>https://news.ycombinator.com/user?id=mikpanko</uri>
         </author>
     </entry>
 </feed>
