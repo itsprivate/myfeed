@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蝶变决定允许秘密投票]]></title>
+            <link>https://news.ycombinator.com/item?id=30840214</link>
+            <guid>https://news.ycombinator.com/item?id=30840214</guid>
+            <pubDate>Tue, 29 Mar 2022 08:39:35 GMT</pubDate>
+            <description><![CDATA[Debian decides to allow secret votes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在满月时建造的二进制是不同的。]]></title>
+            <link>https://news.ycombinator.com/item?id=30838698</link>
+            <guid>https://news.ycombinator.com/item?id=30838698</guid>
+            <pubDate>Tue, 29 Mar 2022 04:15:16 GMT</pubDate>
+            <description><![CDATA[The binary that varies when built on the full moon]]></description>
+        </item>
         <item>
             <title><![CDATA[乌克兰总统泽伦斯基的电话]]></title>
             <link>https://news.ycombinator.com/item?id=30840029</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30824146</guid>
             <pubDate>Sun, 27 Mar 2022 21:06:50 GMT</pubDate>
             <description><![CDATA[Show HN: Free Hosted JupyerLab with GPU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为自然界中的对象的编程语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30824033</link>
-            <guid>https://news.ycombinator.com/item?id=30824033</guid>
-            <pubDate>Sun, 27 Mar 2022 20:55:16 GMT</pubDate>
-            <description><![CDATA[Programming Languages as Objects in Nature]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯战争与云的未来]]></title>
-            <link>https://news.ycombinator.com/item?id=30824292</link>
-            <guid>https://news.ycombinator.com/item?id=30824292</guid>
-            <pubDate>Sun, 27 Mar 2022 21:22:37 GMT</pubDate>
-            <description><![CDATA[Russian War and the Cloud's Future]]></description>
         </item>
     </channel>
 </rss>
