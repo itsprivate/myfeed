@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[初创企业的早期安全]]></title>
+            <link>https://news.ycombinator.com/item?id=30839920</link>
+            <guid>https://news.ycombinator.com/item?id=30839920</guid>
+            <pubDate>Tue, 29 Mar 2022 07:47:29 GMT</pubDate>
+            <description><![CDATA[Early Security for Startups]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阅卷人。从PDF文件中读取文本和解析表格]]></title>
+            <link>https://news.ycombinator.com/item?id=30839907</link>
+            <guid>https://news.ycombinator.com/item?id=30839907</guid>
+            <pubDate>Tue, 29 Mar 2022 07:45:17 GMT</pubDate>
+            <description><![CDATA[Pdfreader: Read text and parse tables from PDF files]]></description>
+        </item>
         <item>
             <title><![CDATA[比特币的能源使用不是问题。这就是原因]]></title>
             <link>https://news.ycombinator.com/item?id=30839478</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30823645</guid>
             <pubDate>Sun, 27 Mar 2022 20:12:58 GMT</pubDate>
             <description><![CDATA[Coinbase blog: Mining Pool scams targeting self-custody wallets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Backer：将数据存储在VHS磁带上 (2003)]]></title>
-            <link>https://news.ycombinator.com/item?id=30823492</link>
-            <guid>https://news.ycombinator.com/item?id=30823492</guid>
-            <pubDate>Sun, 27 Mar 2022 19:56:26 GMT</pubDate>
-            <description><![CDATA[Backer: Storing data on VHS tapes (2003)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国中石化退出俄罗斯石油化工和天然气项目]]></title>
-            <link>https://news.ycombinator.com/item?id=30823931</link>
-            <guid>https://news.ycombinator.com/item?id=30823931</guid>
-            <pubDate>Sun, 27 Mar 2022 20:44:35 GMT</pubDate>
-            <description><![CDATA[China's Sinopec Bows Out of Russian Petchem, Gas Projects]]></description>
         </item>
     </channel>
 </rss>
