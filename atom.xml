@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T07:40:11.921Z</updated>
+    <updated>2022-03-29T07:51:09.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币的能源使用不是问题。这就是原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30839478</id>
+        <link href="https://news.ycombinator.com/item?id=30839478"/>
+        <updated>2022-03-29T06:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰的生存无线电和紧急通信[视频]]]></title>
         <id>https://news.ycombinator.com/item?id=30839757</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rossdavidh</name>
             <uri>https://news.ycombinator.com/user?id=rossdavidh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌取消Google Play出版商账户，终止家庭收入来源]]></title>
-        <id>https://news.ycombinator.com/item?id=30823872</id>
-        <link href="https://news.ycombinator.com/item?id=30823872"/>
-        <updated>2022-03-27T20:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Google cancels Google Play publisher account and ends family’s source of income]]></summary>
-        <author>
-            <name>heavyset_go</name>
-            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
         </author>
     </entry>
 </feed>
