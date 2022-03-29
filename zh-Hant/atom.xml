@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T17:51:52.737Z</updated>
+    <updated>2022-03-29T18:15:35.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源PEARL--用於土地覆蓋製圖的人機交互式人工智能]]></title>
+        <id>https://news.ycombinator.com/item?id=30846131</id>
+        <link href="https://news.ycombinator.com/item?id=30846131"/>
+        <updated>2022-03-29T17:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Open sourcing PEARL – human-in-the-loop AI for land cover mapping]]></summary>
+        <author>
+            <name>lmc</name>
+            <uri>https://news.ycombinator.com/user?id=lmc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大科技維基]]></title>
+        <id>https://news.ycombinator.com/item?id=30846043</id>
+        <link href="https://news.ycombinator.com/item?id=30846043"/>
+        <updated>2022-03-29T17:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech Wiki]]></summary>
+        <author>
+            <name>DanAtC</name>
+            <uri>https://news.ycombinator.com/user?id=DanAtC</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡單的網址縮短器，沒有跟蹤，沒有輸入，也沒有按鈕]]></title>
+        <id>https://news.ycombinator.com/item?id=30846028</id>
+        <link href="https://news.ycombinator.com/item?id=30846028"/>
+        <updated>2022-03-29T17:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Simple url shortener with no tracking, no input, and no buttons]]></summary>
+        <author>
+            <name>mcs_</name>
+            <uri>https://news.ycombinator.com/user?id=mcs_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[棕櫚油的故事 (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30846027</id>
+        <link href="https://news.ycombinator.com/item?id=30846027"/>
+        <updated>2022-03-29T17:49:29.000Z</updated>
+        <summary type="html"><![CDATA[The story of palm oil (2014)]]></summary>
+        <author>
+            <name>colinprince</name>
+            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不可能的任務。Compuserve篇]]></title>
+        <id>https://news.ycombinator.com/item?id=30846025</id>
+        <link href="https://news.ycombinator.com/item?id=30846025"/>
+        <updated>2022-03-29T17:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible: The Compuserve Chapter]]></summary>
+        <author>
+            <name>coloneltcb</name>
+            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAML SSO集成的開源測試工具（mocksaml.com）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30846020</id>
+        <link href="https://news.ycombinator.com/item?id=30846020"/>
+        <updated>2022-03-29T17:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source testing tool for SAML SSO integrations (mocksaml.com)]]></summary>
+        <author>
+            <name>deepakprab</name>
+            <uri>https://news.ycombinator.com/user?id=deepakprab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL現在可以在Supabase上使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30846006</id>
+        <link href="https://news.ycombinator.com/item?id=30846006"/>
+        <updated>2022-03-29T17:48:16.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is now available on Supabase]]></summary>
+        <author>
+            <name>yurisagalov</name>
+            <uri>https://news.ycombinator.com/user?id=yurisagalov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPMC--信息廣播與go generics]]></title>
+        <id>https://news.ycombinator.com/item?id=30845918</id>
+        <link href="https://news.ycombinator.com/item?id=30845918"/>
+        <updated>2022-03-29T17:42:17.000Z</updated>
+        <summary type="html"><![CDATA[MPMC – message broadcast with go generics]]></summary>
+        <author>
+            <name>quinnirill</name>
+            <uri>https://news.ycombinator.com/user?id=quinnirill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Par - 使用go泛型的並行切片操作]]></title>
+        <id>https://news.ycombinator.com/item?id=30845893</id>
+        <link href="https://news.ycombinator.com/item?id=30845893"/>
+        <updated>2022-03-29T17:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Par – parallel slice operations with go generics]]></summary>
+        <author>
+            <name>quinnirill</name>
+            <uri>https://news.ycombinator.com/user?id=quinnirill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盜取5000萬美元加密貨幣的黑客說他們將向一些受害者退款]]></title>
+        <id>https://news.ycombinator.com/item?id=30845527</id>
+        <link href="https://news.ycombinator.com/item?id=30845527"/>
+        <updated>2022-03-29T17:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Hackers Who Stole $50 Million in Crypto Say They Will Refund Some Victims]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經理人的商業教育對工資和勞動份額的影響]]></title>
+        <id>https://news.ycombinator.com/item?id=30845404</id>
+        <link href="https://news.ycombinator.com/item?id=30845404"/>
+        <updated>2022-03-29T17:08:03.000Z</updated>
+        <summary type="html"><![CDATA[The Effects of Managers' Business Education on Wages and the Labor Share]]></summary>
+        <author>
+            <name>imichael</name>
+            <uri>https://news.ycombinator.com/user?id=imichael</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[持續發現框架概述]]></title>
         <id>https://news.ycombinator.com/item?id=30845926</id>
@@ -6492,127 +6613,6 @@
         <author>
             <name>digitalsanctum</name>
             <uri>https://news.ycombinator.com/user?id=digitalsanctum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印象]]></title>
-        <id>https://news.ycombinator.com/item?id=30830948</id>
-        <link href="https://news.ycombinator.com/item?id=30830948"/>
-        <updated>2022-03-28T14:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Impressment]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核專家對Samotsvety核風險預測的評論]]></title>
-        <id>https://news.ycombinator.com/item?id=30830583</id>
-        <link href="https://news.ycombinator.com/item?id=30830583"/>
-        <updated>2022-03-28T14:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear Expert Comment on Samotsvety Nuclear Risk Forecast]]></summary>
-        <author>
-            <name>BayAreaEscapee</name>
-            <uri>https://news.ycombinator.com/user?id=BayAreaEscapee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加載、創建、版本、查詢和可視化計算機視覺數據集的簡便方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30831179</id>
-        <link href="https://news.ycombinator.com/item?id=30831179"/>
-        <updated>2022-03-28T15:01:58.000Z</updated>
-        <summary type="html"><![CDATA[Easy way to load, create, version, query and visualize computer vision datasets]]></summary>
-        <author>
-            <name>morpheusme</name>
-            <uri>https://news.ycombinator.com/user?id=morpheusme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈希、置換和壓縮。用Java進行完美的散列]]></title>
-        <id>https://news.ycombinator.com/item?id=30831146</id>
-        <link href="https://news.ycombinator.com/item?id=30831146"/>
-        <updated>2022-03-28T14:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Hash, displace, and compress: Perfect hashing with Java]]></summary>
-        <author>
-            <name>andreinc</name>
-            <uri>https://news.ycombinator.com/user?id=andreinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Next JavaScript中生成動態網站地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30831104</id>
-        <link href="https://news.ycombinator.com/item?id=30831104"/>
-        <updated>2022-03-28T14:55:24.000Z</updated>
-        <summary type="html"><![CDATA[How to Generate Dynamic Sitemaps in Next JavaScript]]></summary>
-        <author>
-            <name>cprabud</name>
-            <uri>https://news.ycombinator.com/user?id=cprabud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌勒令俄羅斯翻譯人員不得將烏克蘭戰爭稱為戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30831095</id>
-        <link href="https://news.ycombinator.com/item?id=30831095"/>
-        <updated>2022-03-28T14:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Google Ordered Russian Translators Not to Call War in Ukraine a War]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭病]]></title>
-        <id>https://news.ycombinator.com/item?id=30831094</id>
-        <link href="https://news.ycombinator.com/item?id=30831094"/>
-        <updated>2022-03-28T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Dutch Disease]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抵押貸款利率飆升接近5%，為本週第二次跳升]]></title>
-        <id>https://news.ycombinator.com/item?id=30831090</id>
-        <link href="https://news.ycombinator.com/item?id=30831090"/>
-        <updated>2022-03-28T14:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Mortgage rate soars closer to 5% in its second jump this week]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌推出預約頁面，在谷歌日曆中安排預約時間]]></title>
-        <id>https://news.ycombinator.com/item?id=30831069</id>
-        <link href="https://news.ycombinator.com/item?id=30831069"/>
-        <updated>2022-03-28T14:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Google launches booking pages with appointment scheduling in Google Calendar]]></summary>
-        <author>
-            <name>sunils34</name>
-            <uri>https://news.ycombinator.com/user?id=sunils34</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有組織犯罪接管了加拿大的拖車業]]></title>
-        <id>https://news.ycombinator.com/item?id=30831020</id>
-        <link href="https://news.ycombinator.com/item?id=30831020"/>
-        <updated>2022-03-28T14:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Organized Crime Took over Canada’s Towing Industry]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwitchKeeper - 無聊的簡單功能標誌]]></title>
-        <id>https://news.ycombinator.com/item?id=30831005</id>
-        <link href="https://news.ycombinator.com/item?id=30831005"/>
-        <updated>2022-03-28T14:45:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SwitchKeeper – Boringly simple feature flags]]></summary>
-        <author>
-            <name>holmboy_</name>
-            <uri>https://news.ycombinator.com/user?id=holmboy_</uri>
         </author>
     </entry>
 </feed>
