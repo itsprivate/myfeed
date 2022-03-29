@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 20:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 20:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这种疯狂是否会结束？]]></title>
+            <link>https://news.ycombinator.com/item?id=30848056</link>
+            <guid>https://news.ycombinator.com/item?id=30848056</guid>
+            <pubDate>Tue, 29 Mar 2022 20:38:31 GMT</pubDate>
+            <description><![CDATA[Is the madness ever going to end?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HTTP响应418 - 我是一个茶壶]]></title>
+            <link>https://news.ycombinator.com/item?id=30847981</link>
+            <guid>https://news.ycombinator.com/item?id=30847981</guid>
+            <pubDate>Tue, 29 Mar 2022 20:31:53 GMT</pubDate>
+            <description><![CDATA[HTTP Response 418 – I'm a teapot]]></description>
+        </item>
         <item>
             <title><![CDATA[DoorDash用Next.js扩展SSR的规模]]></title>
             <link>https://news.ycombinator.com/item?id=30847977</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30832642</guid>
             <pubDate>Mon, 28 Mar 2022 16:57:02 GMT</pubDate>
             <description><![CDATA[Read a Paper: Superlinear Productivity in Software Projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人工智能的错觉--最先进的聊天机器人并不像它们所看到的那样]]></title>
-            <link>https://news.ycombinator.com/item?id=30832512</link>
-            <guid>https://news.ycombinator.com/item?id=30832512</guid>
-            <pubDate>Mon, 28 Mar 2022 16:47:17 GMT</pubDate>
-            <description><![CDATA[The AI Illusion – State-of-the-Art Chatbots Aren’t What They Seem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯入侵以来最严重的网络攻击使乌克兰互联网供应商崩溃]]></title>
-            <link>https://news.ycombinator.com/item?id=30832634</link>
-            <guid>https://news.ycombinator.com/item?id=30832634</guid>
-            <pubDate>Mon, 28 Mar 2022 16:56:23 GMT</pubDate>
-            <description><![CDATA[Most Severe Cyberattack Since Russian Invasion Crashes Ukraine Internet Provider]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T20:43:25.949Z</updated>
+    <updated>2022-03-29T20:51:21.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這種瘋狂是否會結束？]]></title>
+        <id>https://news.ycombinator.com/item?id=30848056</id>
+        <link href="https://news.ycombinator.com/item?id=30848056"/>
+        <updated>2022-03-29T20:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Is the madness ever going to end?]]></summary>
+        <author>
+            <name>denimboy</name>
+            <uri>https://news.ycombinator.com/user?id=denimboy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP響應418 - 我是一個茶壺]]></title>
+        <id>https://news.ycombinator.com/item?id=30847981</id>
+        <link href="https://news.ycombinator.com/item?id=30847981"/>
+        <updated>2022-03-29T20:31:53.000Z</updated>
+        <summary type="html"><![CDATA[HTTP Response 418 – I'm a teapot]]></summary>
+        <author>
+            <name>aketchum</name>
+            <uri>https://news.ycombinator.com/user?id=aketchum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoorDash用Next.js擴展SSR的規模]]></title>
         <id>https://news.ycombinator.com/item?id=30847977</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gandalfgeek</name>
             <uri>https://news.ycombinator.com/user?id=gandalfgeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能的錯覺--最先進的聊天機器人並不像它們所看到的那樣]]></title>
-        <id>https://news.ycombinator.com/item?id=30832512</id>
-        <link href="https://news.ycombinator.com/item?id=30832512"/>
-        <updated>2022-03-28T16:47:17.000Z</updated>
-        <summary type="html"><![CDATA[The AI Illusion – State-of-the-Art Chatbots Aren’t What They Seem]]></summary>
-        <author>
-            <name>agnosticmantis</name>
-            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯入侵以來最嚴重的網絡攻擊使烏克蘭互聯網供應商崩潰]]></title>
-        <id>https://news.ycombinator.com/item?id=30832634</id>
-        <link href="https://news.ycombinator.com/item?id=30832634"/>
-        <updated>2022-03-28T16:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Most Severe Cyberattack Since Russian Invasion Crashes Ukraine Internet Provider]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
         </author>
     </entry>
 </feed>
