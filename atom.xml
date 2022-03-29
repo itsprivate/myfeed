@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T22:43:22.515Z</updated>
+    <updated>2022-03-29T22:51:42.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯人绑架了梅利托波尔的教育部门负责人，试图强行改变。]]></title>
+        <id>https://news.ycombinator.com/item?id=30849281</id>
+        <link href="https://news.ycombinator.com/item?id=30849281"/>
+        <updated>2022-03-29T22:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Russians kidnap head of education department in Melitopol, try to force changes]]></summary>
+        <author>
+            <name>akhmatova</name>
+            <uri>https://news.ycombinator.com/user?id=akhmatova</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对四种Covid-19疫苗的体液和细胞免疫记忆]]></title>
+        <id>https://news.ycombinator.com/item?id=30849050</id>
+        <link href="https://news.ycombinator.com/item?id=30849050"/>
+        <updated>2022-03-29T22:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Humoral and cellular immune memory to four Covid-19 vaccines]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bix让你在二进制上画出突变的文本]]></title>
+        <id>https://news.ycombinator.com/item?id=30848536</id>
+        <link href="https://news.ycombinator.com/item?id=30848536"/>
+        <updated>2022-03-29T21:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Bix lets you draw on binary to glitch text]]></summary>
+        <author>
+            <name>breck</name>
+            <uri>https://news.ycombinator.com/user?id=breck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个内置的测试运行器即将进入Node，为什么你应该关注它？]]></title>
         <id>https://news.ycombinator.com/item?id=30848979</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>a4isms</name>
             <uri>https://news.ycombinator.com/user?id=a4isms</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极简主义设计的黑暗面。更新Dieter Rams的十大原则]]></title>
-        <id>https://news.ycombinator.com/item?id=30833873</id>
-        <link href="https://news.ycombinator.com/item?id=30833873"/>
-        <updated>2022-03-28T18:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The Dark Side of Minimalist Design: Updating Dieter Rams’ Ten Principles]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux的命令是Windows的耦合器]]></title>
-        <id>https://news.ycombinator.com/item?id=30833828</id>
-        <link href="https://news.ycombinator.com/item?id=30833828"/>
-        <updated>2022-03-28T18:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Linux Commands Couterparts for Windows]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们应该认为青春期持续到24岁吗？(2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30833788</id>
-        <link href="https://news.ycombinator.com/item?id=30833788"/>
-        <updated>2022-03-28T18:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Should we consider adolescence to last until age 24? (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
