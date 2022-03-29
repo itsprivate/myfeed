@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T09:43:08.371Z</updated>
+    <updated>2022-03-29T09:51:53.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MirageOS v4.0.0發佈：帶有單核的自我管理的互聯網基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=30840571</id>
+        <link href="https://news.ycombinator.com/item?id=30840571"/>
+        <updated>2022-03-29T09:42:20.000Z</updated>
+        <summary type="html"><![CDATA[MirageOS v4.0.0 published: self-managed internet infrastructure with unikernels]]></summary>
+        <author>
+            <name>kirschner</name>
+            <uri>https://news.ycombinator.com/user?id=kirschner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成為後端開發人員需要的技能]]></title>
+        <id>https://news.ycombinator.com/item?id=30840471</id>
+        <link href="https://news.ycombinator.com/item?id=30840471"/>
+        <updated>2022-03-29T09:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Skills you Need to become a Back end Developer]]></summary>
+        <author>
+            <name>ahmadrosid</name>
+            <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件顯示，Lapsus$在攻破Okta時發現了一個密碼電子表格]]></title>
+        <id>https://news.ycombinator.com/item?id=30840424</id>
+        <link href="https://news.ycombinator.com/item?id=30840424"/>
+        <updated>2022-03-29T09:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Lapsus$ found a spreadsheet of passwords as they breached Okta, documents show]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何玩好新的人才遊戲並贏回工人的支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30840233</id>
+        <link href="https://news.ycombinator.com/item?id=30840233"/>
+        <updated>2022-03-29T08:41:35.000Z</updated>
+        <summary type="html"><![CDATA[How to play the new talent game and win back workers]]></summary>
+        <author>
+            <name>edumucelli</name>
+            <uri>https://news.ycombinator.com/user?id=edumucelli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由Zowe提供的IntelliJ for Mainframe系統]]></title>
         <id>https://news.ycombinator.com/item?id=30840510</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>hrez</name>
             <uri>https://news.ycombinator.com/user?id=hrez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子力學可以教給我們關於墮胎的知識]]></title>
-        <id>https://news.ycombinator.com/item?id=30824498</id>
-        <link href="https://news.ycombinator.com/item?id=30824498"/>
-        <updated>2022-03-27T21:49:42.000Z</updated>
-        <summary type="html"><![CDATA[What Quantum Mechanics Can Teach Us about Abortion]]></summary>
-        <author>
-            <name>memish</name>
-            <uri>https://news.ycombinator.com/user?id=memish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼打卡機不再使用了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30824375</id>
-        <link href="https://news.ycombinator.com/item?id=30824375"/>
-        <updated>2022-03-27T21:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Why are punch card readers no longer in use?]]></summary>
-        <author>
-            <name>josefslerka</name>
-            <uri>https://news.ycombinator.com/user?id=josefslerka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA和大腦計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30824236</id>
-        <link href="https://news.ycombinator.com/item?id=30824236"/>
-        <updated>2022-03-27T21:15:51.000Z</updated>
-        <summary type="html"><![CDATA[DARPA and the Brain Initiative]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷科技工作者的子女遭遇簽證危機]]></title>
-        <id>https://news.ycombinator.com/item?id=30824412</id>
-        <link href="https://news.ycombinator.com/item?id=30824412"/>
-        <updated>2022-03-27T21:39:37.000Z</updated>
-        <summary type="html"><![CDATA[A visa crisis is hitting the children of Silicon Valley tech workers]]></summary>
-        <author>
-            <name>dangle1</name>
-            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
         </author>
     </entry>
 </feed>
