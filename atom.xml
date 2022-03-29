@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T11:48:35.172Z</updated>
+    <updated>2022-03-29T11:55:20.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天，谷歌正在为许多之前关闭了追踪功能的用户开启追踪功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30841320</id>
+        <link href="https://news.ycombinator.com/item?id=30841320"/>
+        <updated>2022-03-29T11:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></summary>
+        <author>
+            <name>starsep</name>
+            <uri>https://news.ycombinator.com/user?id=starsep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动物的行为是机械性编程的]]></title>
+        <id>https://news.ycombinator.com/item?id=30841268</id>
+        <link href="https://news.ycombinator.com/item?id=30841268"/>
+        <updated>2022-03-29T11:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Animal’s Behavior Is Mechanically Programmed]]></summary>
+        <author>
+            <name>aaossa</name>
+            <uri>https://news.ycombinator.com/user?id=aaossa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经理人的商业教育对工资和劳动的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30841103</id>
+        <link href="https://news.ycombinator.com/item?id=30841103"/>
+        <updated>2022-03-29T11:13:43.000Z</updated>
+        <summary type="html"><![CDATA[The Effects of Managers' Business Education on Wages and Labor]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[差别很大。一个理解语法的差异]]></title>
         <id>https://news.ycombinator.com/item?id=30841244</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>joak</name>
             <uri>https://news.ycombinator.com/user?id=joak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我讨厌视频游戏变成这样]]></title>
-        <id>https://news.ycombinator.com/item?id=30825405</id>
-        <link href="https://news.ycombinator.com/item?id=30825405"/>
-        <updated>2022-03-27T23:57:41.000Z</updated>
-        <summary type="html"><![CDATA[I hate what video games have become]]></summary>
-        <author>
-            <name>mattigames</name>
-            <uri>https://news.ycombinator.com/user?id=mattigames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我与保罗-法默争论，直到他死的那天。没有他，我们会更糟糕]]></title>
-        <id>https://news.ycombinator.com/item?id=30825334</id>
-        <link href="https://news.ycombinator.com/item?id=30825334"/>
-        <updated>2022-03-27T23:47:41.000Z</updated>
-        <summary type="html"><![CDATA[I Argued with Paul Farmer Until the Day He Died. We’re Worse Off Without Him]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那张微笑的LinkedIn个人资料脸可能是计算机生成的假脸]]></title>
-        <id>https://news.ycombinator.com/item?id=30825300</id>
-        <link href="https://news.ycombinator.com/item?id=30825300"/>
-        <updated>2022-03-27T23:42:03.000Z</updated>
-        <summary type="html"><![CDATA[That smiling LinkedIn profile face might be a computer-generated fake]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
