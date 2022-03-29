@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T06:57:16.921Z</updated>
+    <updated>2022-03-29T07:12:54.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能在桥牌比赛中击败八位世界冠军]]></title>
+        <id>https://news.ycombinator.com/item?id=30839575</id>
+        <link href="https://news.ycombinator.com/item?id=30839575"/>
+        <updated>2022-03-29T06:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence beats eight world champions at bridge]]></summary>
+        <author>
+            <name>auggierose</name>
+            <uri>https://news.ycombinator.com/user?id=auggierose</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC对Intuit [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30838917</id>
+        <link href="https://news.ycombinator.com/item?id=30838917"/>
+        <updated>2022-03-29T04:55:11.000Z</updated>
+        <summary type="html"><![CDATA[FTC vs. Intuit [pdf]]]></summary>
+        <author>
+            <name>coloneltcb</name>
+            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红肉和白肉对胆固醇同样有害 (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30839533</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>stmw</name>
             <uri>https://news.ycombinator.com/user?id=stmw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好人之间的权力争斗]]></title>
-        <id>https://news.ycombinator.com/item?id=30822998</id>
-        <link href="https://news.ycombinator.com/item?id=30822998"/>
-        <updated>2022-03-27T19:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Power Struggles Among Nice People]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[增加带薪休假日的理由]]></title>
-        <id>https://news.ycombinator.com/item?id=30822991</id>
-        <link href="https://news.ycombinator.com/item?id=30822991"/>
-        <updated>2022-03-27T18:59:17.000Z</updated>
-        <summary type="html"><![CDATA[The Case for More Paid Vacation Days]]></summary>
-        <author>
-            <name>laurex</name>
-            <uri>https://news.ycombinator.com/user?id=laurex</uri>
         </author>
     </entry>
 </feed>
