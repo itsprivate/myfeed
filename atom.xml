@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T09:32:19.714Z</updated>
+    <updated>2022-03-29T09:43:08.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由Zowe提供的IntelliJ for Mainframe系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30840510</id>
+        <link href="https://news.ycombinator.com/item?id=30840510"/>
+        <updated>2022-03-29T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[IntelliJ for Mainframe Powered by Zowe]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git-landmine - 创建本地恶意的Git repo]]></title>
+        <id>https://news.ycombinator.com/item?id=30840125</id>
+        <link href="https://news.ycombinator.com/item?id=30840125"/>
+        <updated>2022-03-29T08:23:34.000Z</updated>
+        <summary type="html"><![CDATA[git-landmine – create local malicious Git repo]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候组织称改变编码可减少99%的比特币能耗]]></title>
+        <id>https://news.ycombinator.com/item?id=30839468</id>
+        <link href="https://news.ycombinator.com/item?id=30839468"/>
+        <updated>2022-03-29T06:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate groups say change in coding can reduce Bitcoin energy consumption by 99%]]></summary>
+        <author>
+            <name>jon_adler</name>
+            <uri>https://news.ycombinator.com/user?id=jon_adler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰捣毁5个虚假信息机器人农场，查获1万张SIM卡]]></title>
         <id>https://news.ycombinator.com/item?id=30840452</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dangle1</name>
             <uri>https://news.ycombinator.com/user?id=dangle1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压扁，合并，还是重构？]]></title>
-        <id>https://news.ycombinator.com/item?id=30824270</id>
-        <link href="https://news.ycombinator.com/item?id=30824270"/>
-        <updated>2022-03-27T21:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Squash, Merge, or Rebase?]]></summary>
-        <author>
-            <name>rckrd</name>
-            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软删除的替代方案。再次]]></title>
-        <id>https://news.ycombinator.com/item?id=30824066</id>
-        <link href="https://news.ycombinator.com/item?id=30824066"/>
-        <updated>2022-03-27T20:57:58.000Z</updated>
-        <summary type="html"><![CDATA[Alternative to Soft Delete. Again]]></summary>
-        <author>
-            <name>hexwit</name>
-            <uri>https://news.ycombinator.com/user?id=hexwit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boredle - 使用任何网页上的单词玩Wordle游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30823264</id>
-        <link href="https://news.ycombinator.com/item?id=30823264"/>
-        <updated>2022-03-27T19:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Boredle – play Wordle using the words on any webpage]]></summary>
-        <author>
-            <name>orang2tang</name>
-            <uri>https://news.ycombinator.com/user?id=orang2tang</uri>
         </author>
     </entry>
 </feed>
