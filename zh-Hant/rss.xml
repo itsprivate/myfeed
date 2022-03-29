@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[量子場理論簡述]]></title>
+            <link>https://news.ycombinator.com/item?id=30839080</link>
+            <guid>https://news.ycombinator.com/item?id=30839080</guid>
+            <pubDate>Tue, 29 Mar 2022 05:28:36 GMT</pubDate>
+            <description><![CDATA[Quantum Field Theory in a Nutshell]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通過讓瀏覽器記錄其密鑰，用Wireshark解密你自己的SSL流量]]></title>
+            <link>https://news.ycombinator.com/item?id=30839066</link>
+            <guid>https://news.ycombinator.com/item?id=30839066</guid>
+            <pubDate>Tue, 29 Mar 2022 05:26:52 GMT</pubDate>
+            <description><![CDATA[Decrypt your own SSL traffic with Wireshark by getting browser to log its keys]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何用一把鑰匙打開兩把鎖]]></title>
+            <link>https://news.ycombinator.com/item?id=30839050</link>
+            <guid>https://news.ycombinator.com/item?id=30839050</guid>
+            <pubDate>Tue, 29 Mar 2022 05:23:54 GMT</pubDate>
+            <description><![CDATA[How to Open Two Locks with One Key]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DaisyNFS是一個經過正式驗證的NFS服務器]]></title>
+            <link>https://news.ycombinator.com/item?id=30838756</link>
+            <guid>https://news.ycombinator.com/item?id=30838756</guid>
+            <pubDate>Tue, 29 Mar 2022 04:26:11 GMT</pubDate>
+            <description><![CDATA[DaisyNFS is a formally verified NFS server]]></description>
+        </item>
+        <item>
+            <title><![CDATA[小組證明量子複雜性在指數級長的時間內線性增長]]></title>
+            <link>https://news.ycombinator.com/item?id=30838531</link>
+            <guid>https://news.ycombinator.com/item?id=30838531</guid>
+            <pubDate>Tue, 29 Mar 2022 03:47:24 GMT</pubDate>
+            <description><![CDATA[Group proves quantum complexity grows linearly for exponentially long time]]></description>
+        </item>
         <item>
             <title><![CDATA[雲原生虛擬化的網絡]]></title>
             <link>https://news.ycombinator.com/item?id=30839144</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30823772</guid>
             <pubDate>Sun, 27 Mar 2022 20:27:58 GMT</pubDate>
             <description><![CDATA[Tell HN: Make sure to configure DKIM/SPF with Fastmail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個SW開發員賺取14美元/小時是很常見的嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30823719</link>
-            <guid>https://news.ycombinator.com/item?id=30823719</guid>
-            <pubDate>Sun, 27 Mar 2022 20:21:55 GMT</pubDate>
-            <description><![CDATA[Is it common for a SW Dev to earn $14/hr?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[核磁共振成像的泛音演唱視頻]]></title>
-            <link>https://news.ycombinator.com/item?id=30823678</link>
-            <guid>https://news.ycombinator.com/item?id=30823678</guid>
-            <pubDate>Sun, 27 Mar 2022 20:15:59 GMT</pubDate>
-            <description><![CDATA[MRI Video of Overtone Singing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微軟支持Wi-Fi互聯網的便攜式廁所]]></title>
-            <link>https://news.ycombinator.com/item?id=30823671</link>
-            <guid>https://news.ycombinator.com/item?id=30823671</guid>
-            <pubDate>Sun, 27 Mar 2022 20:15:15 GMT</pubDate>
-            <description><![CDATA[Microsoft Wi-Fi Internet-enabled portable toilet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thesan Simulations: 第一批恆星是如何在大爆炸後立即演化的]]></title>
-            <link>https://news.ycombinator.com/item?id=30823493</link>
-            <guid>https://news.ycombinator.com/item?id=30823493</guid>
-            <pubDate>Sun, 27 Mar 2022 19:56:29 GMT</pubDate>
-            <description><![CDATA[Thesan Simulations: How the first stars evolved, immediately after the Big Bang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SymCrypt是Windows目前使用的核心加密函數庫。]]></title>
-            <link>https://news.ycombinator.com/item?id=30823233</link>
-            <guid>https://news.ycombinator.com/item?id=30823233</guid>
-            <pubDate>Sun, 27 Mar 2022 19:27:06 GMT</pubDate>
-            <description><![CDATA[SymCrypt is the core cryptographic function library currently used by Windows]]></description>
         </item>
     </channel>
 </rss>

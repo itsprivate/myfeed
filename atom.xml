@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T05:51:12.169Z</updated>
+    <updated>2022-03-29T06:14:56.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[量子场理论简述]]></title>
+        <id>https://news.ycombinator.com/item?id=30839080</id>
+        <link href="https://news.ycombinator.com/item?id=30839080"/>
+        <updated>2022-03-29T05:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Field Theory in a Nutshell]]></summary>
+        <author>
+            <name>hkhn</name>
+            <uri>https://news.ycombinator.com/user?id=hkhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过让浏览器记录其密钥，用Wireshark解密你自己的SSL流量]]></title>
+        <id>https://news.ycombinator.com/item?id=30839066</id>
+        <link href="https://news.ycombinator.com/item?id=30839066"/>
+        <updated>2022-03-29T05:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt your own SSL traffic with Wireshark by getting browser to log its keys]]></summary>
+        <author>
+            <name>andrewstuart</name>
+            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用一把钥匙打开两把锁]]></title>
+        <id>https://news.ycombinator.com/item?id=30839050</id>
+        <link href="https://news.ycombinator.com/item?id=30839050"/>
+        <updated>2022-03-29T05:23:54.000Z</updated>
+        <summary type="html"><![CDATA[How to Open Two Locks with One Key]]></summary>
+        <author>
+            <name>hkhn</name>
+            <uri>https://news.ycombinator.com/user?id=hkhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaisyNFS是一个经过正式验证的NFS服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30838756</id>
+        <link href="https://news.ycombinator.com/item?id=30838756"/>
+        <updated>2022-03-29T04:26:11.000Z</updated>
+        <summary type="html"><![CDATA[DaisyNFS is a formally verified NFS server]]></summary>
+        <author>
+            <name>uluyol</name>
+            <uri>https://news.ycombinator.com/user?id=uluyol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小组证明量子复杂性在指数级长的时间内线性增长]]></title>
+        <id>https://news.ycombinator.com/item?id=30838531</id>
+        <link href="https://news.ycombinator.com/item?id=30838531"/>
+        <updated>2022-03-29T03:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Group proves quantum complexity grows linearly for exponentially long time]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云原生虚拟化的网络]]></title>
         <id>https://news.ycombinator.com/item?id=30839144</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>whichdan</name>
             <uri>https://news.ycombinator.com/user?id=whichdan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个SW开发员赚取14美元/小时是很常见的吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30823719</id>
-        <link href="https://news.ycombinator.com/item?id=30823719"/>
-        <updated>2022-03-27T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Is it common for a SW Dev to earn $14/hr?]]></summary>
-        <author>
-            <name>yitchelle</name>
-            <uri>https://news.ycombinator.com/user?id=yitchelle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核磁共振成像的泛音演唱视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30823678</id>
-        <link href="https://news.ycombinator.com/item?id=30823678"/>
-        <updated>2022-03-27T20:15:59.000Z</updated>
-        <summary type="html"><![CDATA[MRI Video of Overtone Singing]]></summary>
-        <author>
-            <name>yuchi</name>
-            <uri>https://news.ycombinator.com/user?id=yuchi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软支持Wi-Fi互联网的便携式厕所]]></title>
-        <id>https://news.ycombinator.com/item?id=30823671</id>
-        <link href="https://news.ycombinator.com/item?id=30823671"/>
-        <updated>2022-03-27T20:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Wi-Fi Internet-enabled portable toilet]]></summary>
-        <author>
-            <name>notRobot</name>
-            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thesan Simulations: 第一批恒星是如何在大爆炸后立即演化的]]></title>
-        <id>https://news.ycombinator.com/item?id=30823493</id>
-        <link href="https://news.ycombinator.com/item?id=30823493"/>
-        <updated>2022-03-27T19:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Thesan Simulations: How the first stars evolved, immediately after the Big Bang]]></summary>
-        <author>
-            <name>ArtWomb</name>
-            <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SymCrypt是Windows目前使用的核心加密函数库。]]></title>
-        <id>https://news.ycombinator.com/item?id=30823233</id>
-        <link href="https://news.ycombinator.com/item?id=30823233"/>
-        <updated>2022-03-27T19:27:06.000Z</updated>
-        <summary type="html"><![CDATA[SymCrypt is the core cryptographic function library currently used by Windows]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
