@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T06:14:56.532Z</updated>
+    <updated>2022-03-29T06:39:01.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維基百科崩潰了]]></title>
+        <id>https://news.ycombinator.com/item?id=30839513</id>
+        <link href="https://news.ycombinator.com/item?id=30839513"/>
+        <updated>2022-03-29T06:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia Is Down]]></summary>
+        <author>
+            <name>whalabi</name>
+            <uri>https://news.ycombinator.com/user?id=whalabi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量子場理論簡述]]></title>
         <id>https://news.ycombinator.com/item?id=30839080</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>donsupreme</name>
             <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：確保用Fastmail配置DKIM/SPF]]></title>
-        <id>https://news.ycombinator.com/item?id=30823772</id>
-        <link href="https://news.ycombinator.com/item?id=30823772"/>
-        <updated>2022-03-27T20:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Make sure to configure DKIM/SPF with Fastmail]]></summary>
-        <author>
-            <name>whichdan</name>
-            <uri>https://news.ycombinator.com/user?id=whichdan</uri>
         </author>
     </entry>
 </feed>
