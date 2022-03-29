@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T06:39:00.968Z</updated>
+    <updated>2022-03-29T06:57:16.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[红肉和白肉对胆固醇同样有害 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30839533</id>
+        <link href="https://news.ycombinator.com/item?id=30839533"/>
+        <updated>2022-03-29T06:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Red and White Meats Are Equally Bad for Cholesterol (2019)]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维基百科崩溃了]]></title>
         <id>https://news.ycombinator.com/item?id=30839513</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>laurex</name>
             <uri>https://news.ycombinator.com/user?id=laurex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登："普京不能继续执政"，就俄罗斯入侵发表全面讲话]]></title>
-        <id>https://news.ycombinator.com/item?id=30823783</id>
-        <link href="https://news.ycombinator.com/item?id=30823783"/>
-        <updated>2022-03-27T20:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Biden: “Putin cannot remain in power” in sweeping speech on Russian invasion]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
         </author>
     </entry>
 </feed>
