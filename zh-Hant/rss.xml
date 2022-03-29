@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雲原生虛擬化的網絡]]></title>
+            <link>https://news.ycombinator.com/item?id=30839144</link>
+            <guid>https://news.ycombinator.com/item?id=30839144</guid>
+            <pubDate>Tue, 29 Mar 2022 05:38:34 GMT</pubDate>
+            <description><![CDATA[Networking for Cloud Native Virtualization]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦法官認定特朗普最可能在2020年大選中犯下罪行]]></title>
+            <link>https://news.ycombinator.com/item?id=30839033</link>
+            <guid>https://news.ycombinator.com/item?id=30839033</guid>
+            <pubDate>Tue, 29 Mar 2022 05:19:32 GMT</pubDate>
+            <description><![CDATA[Federal Judge Finds Trump Most Likely Committed Crimes over 2020 Election]]></description>
+        </item>
         <item>
             <title><![CDATA[這個網站的背後是誰？幫助記者和研究人員的檢查清單]]></title>
             <link>https://news.ycombinator.com/item?id=30838983</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30823233</guid>
             <pubDate>Sun, 27 Mar 2022 19:27:06 GMT</pubDate>
             <description><![CDATA[SymCrypt is the core cryptographic function library currently used by Windows]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Phi - 為新的鎖定的Numworks計算器進行越獄]]></title>
-            <link>https://news.ycombinator.com/item?id=30823180</link>
-            <guid>https://news.ycombinator.com/item?id=30823180</guid>
-            <pubDate>Sun, 27 Mar 2022 19:23:12 GMT</pubDate>
-            <description><![CDATA[Phi – Jailbreak for new locked-down Numworks calculators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PDF不能被標記化（修復rsc/pdf） - The Wow Signal]]></title>
-            <link>https://news.ycombinator.com/item?id=30823050</link>
-            <guid>https://news.ycombinator.com/item?id=30823050</guid>
-            <pubDate>Sun, 27 Mar 2022 19:06:31 GMT</pubDate>
-            <description><![CDATA[PDF cannot be tokenized (fixing rsc/pdf) – The Wow Signal]]></description>
         </item>
     </channel>
 </rss>

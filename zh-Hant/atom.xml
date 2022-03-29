@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-29T05:31:38.240Z</updated>
+    <updated>2022-03-29T05:51:12.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雲原生虛擬化的網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30839144</id>
+        <link href="https://news.ycombinator.com/item?id=30839144"/>
+        <updated>2022-03-29T05:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Networking for Cloud Native Virtualization]]></summary>
+        <author>
+            <name>oilbeater</name>
+            <uri>https://news.ycombinator.com/user?id=oilbeater</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦法官認定特朗普最可能在2020年大選中犯下罪行]]></title>
+        <id>https://news.ycombinator.com/item?id=30839033</id>
+        <link href="https://news.ycombinator.com/item?id=30839033"/>
+        <updated>2022-03-29T05:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Federal Judge Finds Trump Most Likely Committed Crimes over 2020 Election]]></summary>
+        <author>
+            <name>hkhn</name>
+            <uri>https://news.ycombinator.com/user?id=hkhn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這個網站的背後是誰？幫助記者和研究人員的檢查清單]]></title>
         <id>https://news.ycombinator.com/item?id=30838983</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phi - 為新的鎖定的Numworks計算器進行越獄]]></title>
-        <id>https://news.ycombinator.com/item?id=30823180</id>
-        <link href="https://news.ycombinator.com/item?id=30823180"/>
-        <updated>2022-03-27T19:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Phi – Jailbreak for new locked-down Numworks calculators]]></summary>
-        <author>
-            <name>kaladin-jasnah</name>
-            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF不能被標記化（修復rsc/pdf） - The Wow Signal]]></title>
-        <id>https://news.ycombinator.com/item?id=30823050</id>
-        <link href="https://news.ycombinator.com/item?id=30823050"/>
-        <updated>2022-03-27T19:06:31.000Z</updated>
-        <summary type="html"><![CDATA[PDF cannot be tokenized (fixing rsc/pdf) – The Wow Signal]]></summary>
-        <author>
-            <name>mikecarlton</name>
-            <uri>https://news.ycombinator.com/user?id=mikecarlton</uri>
         </author>
     </entry>
 </feed>
