@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T07:40:06.208Z</updated>
+    <updated>2022-03-30T07:51:47.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一種計算機科學技術可以幫助衡量大流行病何時 "結束"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30852177</id>
+        <link href="https://news.ycombinator.com/item?id=30852177"/>
+        <updated>2022-03-30T06:53:28.000Z</updated>
+        <summary type="html"><![CDATA[A computer science technique could help gauge when the pandemic is ‘over’]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改變代碼，而不是改變氣候]]></title>
         <id>https://news.ycombinator.com/item?id=30852344</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戰略空軍司令部]]></title>
-        <id>https://news.ycombinator.com/item?id=30836887</id>
-        <link href="https://news.ycombinator.com/item?id=30836887"/>
-        <updated>2022-03-28T23:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Strategic Air Command]]></summary>
-        <author>
-            <name>sebastianconcpt</name>
-            <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
         </author>
     </entry>
 </feed>
