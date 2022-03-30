@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T21:38:46.171Z</updated>
+    <updated>2022-03-30T21:51:31.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亨利-莫莱森]]></title>
+        <id>https://news.ycombinator.com/item?id=30861008</id>
+        <link href="https://news.ycombinator.com/item?id=30861008"/>
+        <updated>2022-03-30T21:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Henry Molaison]]></summary>
+        <author>
+            <name>nathanmcrae</name>
+            <uri>https://news.ycombinator.com/user?id=nathanmcrae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有毒的新闻联播]]></title>
+        <id>https://news.ycombinator.com/item?id=30860864</id>
+        <link href="https://news.ycombinator.com/item?id=30860864"/>
+        <updated>2022-03-30T21:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Toxic Newsfeeds]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徕卡的新相机使技能重新成为焦点]]></title>
+        <id>https://news.ycombinator.com/item?id=30860834</id>
+        <link href="https://news.ycombinator.com/item?id=30860834"/>
+        <updated>2022-03-30T21:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Leica’s new camera puts skill back into focus]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNSF工人辞职抗议新政策，将休假时间减少到每月1天]]></title>
+        <id>https://news.ycombinator.com/item?id=30860766</id>
+        <link href="https://news.ycombinator.com/item?id=30860766"/>
+        <updated>2022-03-30T21:06:07.000Z</updated>
+        <summary type="html"><![CDATA[BNSF workers quitting to protest new policy reducing time off to 1 day per month]]></summary>
+        <author>
+            <name>Geekette</name>
+            <uri>https://news.ycombinator.com/user?id=Geekette</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圣裘德儿童医院在法庭上与捐赠者的家人争夺遗产份额]]></title>
         <id>https://news.ycombinator.com/item?id=30861040</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>bpierre</name>
             <uri>https://news.ycombinator.com/user?id=bpierre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe: ACH直接借记支付]]></title>
-        <id>https://news.ycombinator.com/item?id=30847309</id>
-        <link href="https://news.ycombinator.com/item?id=30847309"/>
-        <updated>2022-03-29T19:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Stripe: ACH Direct Debit Payments]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经济学家是否将世界的环境政策引入歧途？]]></title>
-        <id>https://news.ycombinator.com/item?id=30847268</id>
-        <link href="https://news.ycombinator.com/item?id=30847268"/>
-        <updated>2022-03-29T19:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Have economists led the world’s environmental policies astray?]]></summary>
-        <author>
-            <name>pingou</name>
-            <uri>https://news.ycombinator.com/user?id=pingou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["保持简单 "是我们的工程原则]]></title>
-        <id>https://news.ycombinator.com/item?id=30847205</id>
-        <link href="https://news.ycombinator.com/item?id=30847205"/>
-        <updated>2022-03-29T19:26:28.000Z</updated>
-        <summary type="html"><![CDATA[“Keep it simple” our engineering principle]]></summary>
-        <author>
-            <name>0xferruccio</name>
-            <uri>https://news.ycombinator.com/user?id=0xferruccio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从未有工程师因为面试后的建设性反馈而起诉（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30847157</id>
-        <link href="https://news.ycombinator.com/item?id=30847157"/>
-        <updated>2022-03-29T19:20:55.000Z</updated>
-        <summary type="html"><![CDATA[No engineer has ever sued because of constructive post-interview feedback (2020)]]></summary>
-        <author>
-            <name>KerryJones</name>
-            <uri>https://news.ycombinator.com/user?id=KerryJones</uri>
         </author>
     </entry>
 </feed>
