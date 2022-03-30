@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T20:42:58.024Z</updated>
+    <updated>2022-03-30T20:52:06.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[右派迷幻主義]]></title>
+        <id>https://news.ycombinator.com/item?id=30860386</id>
+        <link href="https://news.ycombinator.com/item?id=30860386"/>
+        <updated>2022-03-30T20:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Rightist Psychedelia]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的Spring Java框架零日允許遠程代碼執行]]></title>
+        <id>https://news.ycombinator.com/item?id=30860313</id>
+        <link href="https://news.ycombinator.com/item?id=30860313"/>
+        <updated>2022-03-30T20:22:22.000Z</updated>
+        <summary type="html"><![CDATA[New Spring Java framework zero-day allows remote code execution]]></summary>
+        <author>
+            <name>maxicarlos08</name>
+            <uri>https://news.ycombinator.com/user?id=maxicarlos08</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約會應用的StoreKit外部權限的更新]]></title>
         <id>https://news.ycombinator.com/item?id=30860483</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pedantsamaritan</name>
             <uri>https://news.ycombinator.com/user?id=pedantsamaritan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我試過GitHub Copilot，它是有史以來最好的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30846878</id>
-        <link href="https://news.ycombinator.com/item?id=30846878"/>
-        <updated>2022-03-29T18:58:45.000Z</updated>
-        <summary type="html"><![CDATA[I tried GitHub Copilot and it's the best thing ever]]></summary>
-        <author>
-            <name>dwgebler</name>
-            <uri>https://news.ycombinator.com/user?id=dwgebler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[服用二甲雙胍的父親的嬰兒更有可能出現出生缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30846868</id>
-        <link href="https://news.ycombinator.com/item?id=30846868"/>
-        <updated>2022-03-29T18:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Babies of Fathers Who Take Metformin Are More Likely to Have Birth Defects]]></summary>
-        <author>
-            <name>cooldevguy</name>
-            <uri>https://news.ycombinator.com/user?id=cooldevguy</uri>
         </author>
     </entry>
 </feed>
