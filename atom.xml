@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T08:37:59.316Z</updated>
+    <updated>2022-03-30T08:54:24.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中年妇女使用抗生素与后来的认知能力下降有关]]></title>
+        <id>https://news.ycombinator.com/item?id=30852640</id>
+        <link href="https://news.ycombinator.com/item?id=30852640"/>
+        <updated>2022-03-30T08:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Use of antibiotics by women in midlife linked to later cognitive decline]]></summary>
+        <author>
+            <name>rajnathani</name>
+            <uri>https://news.ycombinator.com/user?id=rajnathani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[禁止将卫星推进作为法律上允许的汞的用途]]></title>
         <id>https://news.ycombinator.com/item?id=30852693</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>msszczep2</name>
             <uri>https://news.ycombinator.com/user?id=msszczep2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝网上的 "淘宝客"--Ruby on Rails的新 "小工具 "链]]></title>
-        <id>https://news.ycombinator.com/item?id=30837461</id>
-        <link href="https://news.ycombinator.com/item?id=30837461"/>
-        <updated>2022-03-29T00:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Ruby Deserialization Exploitation – New Gadget Chain for Ruby on Rails]]></summary>
-        <author>
-            <name>pentestercrab</name>
-            <uri>https://news.ycombinator.com/user?id=pentestercrab</uri>
         </author>
     </entry>
 </feed>
