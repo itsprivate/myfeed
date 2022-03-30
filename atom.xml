@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T11:30:27.792Z</updated>
+    <updated>2022-03-30T11:36:42.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[舌头训练器--为你的嘴进行思维训练]]></title>
+        <id>https://news.ycombinator.com/item?id=30853631</id>
+        <link href="https://news.ycombinator.com/item?id=30853631"/>
+        <updated>2022-03-30T11:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tongue Trainer – Mind training for your mouth]]></summary>
+        <author>
+            <name>tonguetrainer</name>
+            <uri>https://news.ycombinator.com/user?id=tonguetrainer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌云提供99.999999999%的年度存储耐久性（2021年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30853516</id>
+        <link href="https://news.ycombinator.com/item?id=30853516"/>
+        <updated>2022-03-30T10:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud delivers 99.999999999% annual storage durability (2021)]]></summary>
+        <author>
+            <name>corentin88</name>
+            <uri>https://news.ycombinator.com/user?id=corentin88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于发展新的创业公司的自我托管技术启动包]]></title>
+        <id>https://news.ycombinator.com/item?id=30853514</id>
+        <link href="https://news.ycombinator.com/item?id=30853514"/>
+        <updated>2022-03-30T10:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Selfhosted tech starter pack for development of new startup]]></summary>
+        <author>
+            <name>frizzy</name>
+            <uri>https://news.ycombinator.com/user?id=frizzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新启用谷歌工作空间追踪，剥离管理员控制权]]></title>
         <id>https://news.ycombinator.com/item?id=30853656</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>htfy96</name>
             <uri>https://news.ycombinator.com/user?id=htfy96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用OpenCL编写的数学库]]></title>
-        <id>https://news.ycombinator.com/item?id=30838588</id>
-        <link href="https://news.ycombinator.com/item?id=30838588"/>
-        <updated>2022-03-29T03:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Math Libraries Written in OpenCL]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清理Botcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=30838863</id>
-        <link href="https://news.ycombinator.com/item?id=30838863"/>
-        <updated>2022-03-29T04:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Cleanup Botcoin]]></summary>
-        <author>
-            <name>ciconia</name>
-            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite自动增量：好，坏，还是介于两者之间？]]></title>
-        <id>https://news.ycombinator.com/item?id=30837900</id>
-        <link href="https://news.ycombinator.com/item?id=30837900"/>
-        <updated>2022-03-29T02:03:05.000Z</updated>
-        <summary type="html"><![CDATA[SQLite autoincrement: good, bad, or in-between?]]></summary>
-        <author>
-            <name>prirun</name>
-            <uri>https://news.ycombinator.com/user?id=prirun</uri>
         </author>
     </entry>
 </feed>
