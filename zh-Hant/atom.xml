@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T09:33:06.197Z</updated>
+    <updated>2022-03-30T09:42:33.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐洲電子簽名軟件（DocuSign替代品）]]></title>
+        <id>https://news.ycombinator.com/item?id=30853025</id>
+        <link href="https://news.ycombinator.com/item?id=30853025"/>
+        <updated>2022-03-30T09:25:11.000Z</updated>
+        <summary type="html"><![CDATA[European electronic signature software (DocuSign alternatives)]]></summary>
+        <author>
+            <name>cgraf</name>
+            <uri>https://news.ycombinator.com/user?id=cgraf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對有關隱性偏見的常見說法持懷疑態度的12個理由]]></title>
+        <id>https://news.ycombinator.com/item?id=30852682</id>
+        <link href="https://news.ycombinator.com/item?id=30852682"/>
+        <updated>2022-03-30T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[12 Reasons to Be Skeptical of Common Claims About Implicit Bias]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼叫積水潭]]></title>
         <id>https://news.ycombinator.com/item?id=30852943</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>monsieurpng</name>
             <uri>https://news.ycombinator.com/user?id=monsieurpng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大四個省正在推進小型核電站建設]]></title>
-        <id>https://news.ycombinator.com/item?id=30837817</id>
-        <link href="https://news.ycombinator.com/item?id=30837817"/>
-        <updated>2022-03-29T01:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Four Canadian provinces pushing ahead to build small nuclear power plants]]></summary>
-        <author>
-            <name>grecy</name>
-            <uri>https://news.ycombinator.com/user?id=grecy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對你的技術使用做一個成本效益分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30837712</id>
-        <link href="https://news.ycombinator.com/item?id=30837712"/>
-        <updated>2022-03-29T01:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Do a cost-benefit analysis of your technology usage]]></summary>
-        <author>
-            <name>goldemerald</name>
-            <uri>https://news.ycombinator.com/user?id=goldemerald</uri>
         </author>
     </entry>
 </feed>
