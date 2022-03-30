@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T03:59:39.813Z</updated>
+    <updated>2022-03-30T04:13:59.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不喜欢电脑 (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30851371</id>
+        <link href="https://news.ycombinator.com/item?id=30851371"/>
+        <updated>2022-03-30T04:02:07.000Z</updated>
+        <summary type="html"><![CDATA[I don't like computers (2016)]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无刺激性的网络]]></title>
+        <id>https://news.ycombinator.com/item?id=30850959</id>
+        <link href="https://news.ycombinator.com/item?id=30850959"/>
+        <updated>2022-03-30T02:37:23.000Z</updated>
+        <summary type="html"><![CDATA[The Irritant-Free Web]]></summary>
+        <author>
+            <name>ajani</name>
+            <uri>https://news.ycombinator.com/user?id=ajani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么是EKG而不是ECG？]]></title>
         <id>https://news.ycombinator.com/item?id=30851283</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI面试情感识别平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30835772</id>
-        <link href="https://news.ycombinator.com/item?id=30835772"/>
-        <updated>2022-03-28T21:23:02.000Z</updated>
-        <summary type="html"><![CDATA[AI interview emotion recognition platform]]></summary>
-        <author>
-            <name>DarkContinent</name>
-            <uri>https://news.ycombinator.com/user?id=DarkContinent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找保守的联合创始人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30835764</id>
-        <link href="https://news.ycombinator.com/item?id=30835764"/>
-        <updated>2022-03-28T21:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Looking for Conservative Cofounder?]]></summary>
-        <author>
-            <name>Mytilena</name>
-            <uri>https://news.ycombinator.com/user?id=Mytilena</uri>
         </author>
     </entry>
 </feed>
