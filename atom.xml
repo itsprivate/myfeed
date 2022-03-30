@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T05:29:47.403Z</updated>
+    <updated>2022-03-30T05:37:32.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西里尔数字]]></title>
+        <id>https://news.ycombinator.com/item?id=30851695</id>
+        <link href="https://news.ycombinator.com/item?id=30851695"/>
+        <updated>2022-03-30T05:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Cyrillic Numerals]]></summary>
+        <author>
+            <name>keiferski</name>
+            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个干净的替代Hacker News的界面]]></title>
         <id>https://news.ycombinator.com/item?id=30851402</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jjgreen</name>
             <uri>https://news.ycombinator.com/user?id=jjgreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传统的评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30836116</id>
-        <link href="https://news.ycombinator.com/item?id=30836116"/>
-        <updated>2022-03-28T21:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Conventional Comments]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
         </author>
     </entry>
 </feed>
