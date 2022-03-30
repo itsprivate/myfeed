@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T19:27:32.646Z</updated>
+    <updated>2022-03-30T19:37:07.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年3月的Visual Studio Code]]></title>
+        <id>https://news.ycombinator.com/item?id=30859742</id>
+        <link href="https://news.ycombinator.com/item?id=30859742"/>
+        <updated>2022-03-30T19:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code March 2022]]></summary>
+        <author>
+            <name>myroon5</name>
+            <uri>https://news.ycombinator.com/user?id=myroon5</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前沿公司高管稱光纖建設的最大挑戰是勞動力和材料]]></title>
+        <id>https://news.ycombinator.com/item?id=30859727</id>
+        <link href="https://news.ycombinator.com/item?id=30859727"/>
+        <updated>2022-03-30T19:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Frontier exec says biggest challenges to fiber build are labor, materials]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聚焦Meson的全功能開發環境]]></title>
+        <id>https://news.ycombinator.com/item?id=30859153</id>
+        <link href="https://news.ycombinator.com/item?id=30859153"/>
+        <updated>2022-03-30T18:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Spotlight on Meson's full-featured developer environment]]></summary>
+        <author>
+            <name>mfilion</name>
+            <uri>https://news.ycombinator.com/user?id=mfilion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與GitHub行動的事件]]></title>
         <id>https://news.ycombinator.com/item?id=30859623</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[經理人的商業教育對工資和勞動份額的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30845404</id>
-        <link href="https://news.ycombinator.com/item?id=30845404"/>
-        <updated>2022-03-29T17:08:03.000Z</updated>
-        <summary type="html"><![CDATA[The Effects of Managers' Business Education on Wages and the Labor Share]]></summary>
-        <author>
-            <name>imichael</name>
-            <uri>https://news.ycombinator.com/user?id=imichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持續發現框架概述]]></title>
-        <id>https://news.ycombinator.com/item?id=30845926</id>
-        <link href="https://news.ycombinator.com/item?id=30845926"/>
-        <updated>2022-03-29T17:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Continuous Discovery Framework Overview]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[產品搜索對我來說是個謎]]></title>
-        <id>https://news.ycombinator.com/item?id=30845714</id>
-        <link href="https://news.ycombinator.com/item?id=30845714"/>
-        <updated>2022-03-29T17:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Product Hunt is a mystery to me]]></summary>
-        <author>
-            <name>TekMol</name>
-            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
         </author>
     </entry>
 </feed>
