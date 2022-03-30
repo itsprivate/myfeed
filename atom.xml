@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T13:53:48.153Z</updated>
+    <updated>2022-03-30T14:12:21.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个Rubyist沿着C面行走（第8部分）。异常和错误处理]]></title>
+        <id>https://news.ycombinator.com/item?id=30855232</id>
+        <link href="https://news.ycombinator.com/item?id=30855232"/>
+        <updated>2022-03-30T13:52:09.000Z</updated>
+        <summary type="html"><![CDATA[A Rubyist's Walk Along the C-Side (Part 8): Exceptions and Error Handling]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Receiptline。为收据做标记。可打印的数字收据]]></title>
+        <id>https://news.ycombinator.com/item?id=30855197</id>
+        <link href="https://news.ycombinator.com/item?id=30855197"/>
+        <updated>2022-03-30T13:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Receiptline: Markdown for receipts. Printable digital receipts]]></summary>
+        <author>
+            <name>YY-EN40P</name>
+            <uri>https://news.ycombinator.com/user?id=YY-EN40P</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会议上的吃豆人规则（2017年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30855149</id>
+        <link href="https://news.ycombinator.com/item?id=30855149"/>
+        <updated>2022-03-30T13:46:37.000Z</updated>
+        <summary type="html"><![CDATA[The Pac-Man Rule at Conferences (2017)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress主题的新时代终于到来了]]></title>
+        <id>https://news.ycombinator.com/item?id=30855061</id>
+        <link href="https://news.ycombinator.com/item?id=30855061"/>
+        <updated>2022-03-30T13:40:28.000Z</updated>
+        <summary type="html"><![CDATA[A new era of WordPress themes is finally here]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sudo 1.9.10：在会话记录中隐藏密码]]></title>
+        <id>https://news.ycombinator.com/item?id=30854476</id>
+        <link href="https://news.ycombinator.com/item?id=30854476"/>
+        <updated>2022-03-30T12:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Sudo 1.9.10: hiding passwords in session recordings]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌终止了我们的开发者账户，说是 "相关"。]]></title>
         <id>https://news.ycombinator.com/item?id=30855065</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>web3d3v</name>
             <uri>https://news.ycombinator.com/user?id=web3d3v</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯刚刚成为世界上第一个前太空大国]]></title>
-        <id>https://news.ycombinator.com/item?id=30841002</id>
-        <link href="https://news.ycombinator.com/item?id=30841002"/>
-        <updated>2022-03-29T10:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Russia Just Became the World’s First Former Space Power]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么这么多人转向 "哑巴手机"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30840996</id>
-        <link href="https://news.ycombinator.com/item?id=30840996"/>
-        <updated>2022-03-29T10:55:27.000Z</updated>
-        <summary type="html"><![CDATA[Why are so many people turning to ‘dumbphones’?]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比尔-德米尔卡皮被Zoom公司解雇]]></title>
-        <id>https://news.ycombinator.com/item?id=30840993</id>
-        <link href="https://news.ycombinator.com/item?id=30840993"/>
-        <updated>2022-03-29T10:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Bill Demirkapi Fired from Zoom]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一项新法案将启动对数字美元的大规模测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30840980</id>
-        <link href="https://news.ycombinator.com/item?id=30840980"/>
-        <updated>2022-03-29T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[A new bill would launch a large-scale test of digital dollars]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[条形图制作]]></title>
-        <id>https://news.ycombinator.com/item?id=30840975</id>
-        <link href="https://news.ycombinator.com/item?id=30840975"/>
-        <updated>2022-03-29T10:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bar Graph Maker]]></summary>
-        <author>
-            <name>atharvtathe</name>
-            <uri>https://news.ycombinator.com/user?id=atharvtathe</uri>
         </author>
     </entry>
 </feed>
