@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T09:42:33.820Z</updated>
+    <updated>2022-03-30T09:52:01.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PEP 646 - 变异性仿制药]]></title>
+        <id>https://news.ycombinator.com/item?id=30852908</id>
+        <link href="https://news.ycombinator.com/item?id=30852908"/>
+        <updated>2022-03-30T09:04:23.000Z</updated>
+        <summary type="html"><![CDATA[PEP 646 – Variadic Generics]]></summary>
+        <author>
+            <name>tda</name>
+            <uri>https://news.ycombinator.com/user?id=tda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用poby sidecar代理提高springboot的QPS达10%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30852479</id>
+        <link href="https://news.ycombinator.com/item?id=30852479"/>
+        <updated>2022-03-30T07:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use pipy sidecar proxy improve springboot QPS up to 10%]]></summary>
+        <author>
+            <name>caishu97</name>
+            <uri>https://news.ycombinator.com/user?id=caishu97</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲电子签名软件（DocuSign替代品）]]></title>
         <id>https://news.ycombinator.com/item?id=30853025</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那张微笑的LinkedIn个人资料脸可能是计算机生成的假脸]]></title>
-        <id>https://news.ycombinator.com/item?id=30837913</id>
-        <link href="https://news.ycombinator.com/item?id=30837913"/>
-        <updated>2022-03-29T02:04:34.000Z</updated>
-        <summary type="html"><![CDATA[That smiling LinkedIn profile face might be a computer-generated fake]]></summary>
-        <author>
-            <name>dsr12</name>
-            <uri>https://news.ycombinator.com/user?id=dsr12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse和NFT热潮即将破灭]]></title>
-        <id>https://news.ycombinator.com/item?id=30837869</id>
-        <link href="https://news.ycombinator.com/item?id=30837869"/>
-        <updated>2022-03-29T01:58:35.000Z</updated>
-        <summary type="html"><![CDATA[The Metaverse and NFT Boom Is About to Go Bust]]></summary>
-        <author>
-            <name>monsieurpng</name>
-            <uri>https://news.ycombinator.com/user?id=monsieurpng</uri>
         </author>
     </entry>
 </feed>
