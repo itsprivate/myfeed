@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T22:43:00.208Z</updated>
+    <updated>2022-03-30T22:51:38.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重建社会耐力]]></title>
+        <id>https://news.ycombinator.com/item?id=30861669</id>
+        <link href="https://news.ycombinator.com/item?id=30861669"/>
+        <updated>2022-03-30T22:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Rebuilding Social Stamina]]></summary>
+        <author>
+            <name>rktaparia</name>
+            <uri>https://news.ycombinator.com/user?id=rktaparia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubectl插件。Docker Socket的检测器]]></title>
+        <id>https://news.ycombinator.com/item?id=30861511</id>
+        <link href="https://news.ycombinator.com/item?id=30861511"/>
+        <updated>2022-03-30T22:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Kubectl Plugin: Detector for Docker Socket]]></summary>
+        <author>
+            <name>JustinGarrison</name>
+            <uri>https://news.ycombinator.com/user?id=JustinGarrison</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在本地运行一个MongoDB复制集进行测试]]></title>
+        <id>https://news.ycombinator.com/item?id=30861220</id>
+        <link href="https://news.ycombinator.com/item?id=30861220"/>
+        <updated>2022-03-30T21:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Run a MongoDB Replicaset locally for testing]]></summary>
+        <author>
+            <name>ma3574</name>
+            <uri>https://news.ycombinator.com/user?id=ma3574</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大将在2035年前禁止销售内燃机乘用车]]></title>
         <id>https://news.ycombinator.com/item?id=30861582</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linkpop是一个新的生物体内链接工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30847331</id>
-        <link href="https://news.ycombinator.com/item?id=30847331"/>
-        <updated>2022-03-29T19:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Linkpop a new link in-bio tool]]></summary>
-        <author>
-            <name>julianojulio</name>
-            <uri>https://news.ycombinator.com/user?id=julianojulio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ludum Dare 50（LDJam 20周年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30847886</id>
-        <link href="https://news.ycombinator.com/item?id=30847886"/>
-        <updated>2022-03-29T20:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Ludum Dare 50 (20th anniversary of LDJam)]]></summary>
-        <author>
-            <name>notmysql_</name>
-            <uri>https://news.ycombinator.com/user?id=notmysql_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家得出结论：冥王星的山峰是冰火山]]></title>
-        <id>https://news.ycombinator.com/item?id=30847799</id>
-        <link href="https://news.ycombinator.com/item?id=30847799"/>
-        <updated>2022-03-29T20:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Pluto’s peaks are ice volcanoes, scientists conclude]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
         </author>
     </entry>
 </feed>
