@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T07:31:40.713Z</updated>
+    <updated>2022-03-30T07:40:06.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改變代碼，而不是改變氣候]]></title>
+        <id>https://news.ycombinator.com/item?id=30852344</id>
+        <link href="https://news.ycombinator.com/item?id=30852344"/>
+        <updated>2022-03-30T07:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Change the Code, Not the Climate]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHATWG: 140個字符阻礙了智能討論的發展]]></title>
+        <id>https://news.ycombinator.com/item?id=30852040</id>
+        <link href="https://news.ycombinator.com/item?id=30852040"/>
+        <updated>2022-03-30T06:22:20.000Z</updated>
+        <summary type="html"><![CDATA[WHATWG: 140 Characters Discourages Intelligent Discourse]]></summary>
+        <author>
+            <name>varun_ch</name>
+            <uri>https://news.ycombinator.com/user?id=varun_ch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新研究在人類血液中檢測到微塑料]]></title>
         <id>https://news.ycombinator.com/item?id=30852273</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sebastianconcpt</name>
             <uri>https://news.ycombinator.com/user?id=sebastianconcpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30836879</id>
-        <link href="https://news.ycombinator.com/item?id=30836879"/>
-        <updated>2022-03-28T23:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Block a tweet, its author, and every single person who liked it]]></summary>
-        <author>
-            <name>panarky</name>
-            <uri>https://news.ycombinator.com/user?id=panarky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[醫學博士]]></title>
-        <id>https://news.ycombinator.com/item?id=30836753</id>
-        <link href="https://news.ycombinator.com/item?id=30836753"/>
-        <updated>2022-03-28T23:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DocsQL]]></summary>
-        <author>
-            <name>peterbe</name>
-            <uri>https://news.ycombinator.com/user?id=peterbe</uri>
         </author>
     </entry>
 </feed>
