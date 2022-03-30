@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-30T13:48:34.219Z</updated>
+    <updated>2022-03-30T13:53:48.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌終止了我們的開發者賬戶，說是 "相關"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30855065</id>
+        <link href="https://news.ycombinator.com/item?id=30855065"/>
+        <updated>2022-03-30T13:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Google terminated our Developer Account, says it is “associated”]]></summary>
+        <author>
+            <name>nadalizadeh</name>
+            <uri>https://news.ycombinator.com/user?id=nadalizadeh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[客戶將自動駕駛儀描述為醉酒後，特斯拉被勒令回購Model 3]]></title>
+        <id>https://news.ycombinator.com/item?id=30855046</id>
+        <link href="https://news.ycombinator.com/item?id=30855046"/>
+        <updated>2022-03-30T13:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Ordered to Buy Back Model 3 After Customer Describes Autopilot as Drunk]]></summary>
+        <author>
+            <name>nradov</name>
+            <uri>https://news.ycombinator.com/user?id=nradov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOSSjobs: 在開源領域獲得報酬的資源]]></title>
+        <id>https://news.ycombinator.com/item?id=30854903</id>
+        <link href="https://news.ycombinator.com/item?id=30854903"/>
+        <updated>2022-03-30T13:26:43.000Z</updated>
+        <summary type="html"><![CDATA[FOSSjobs: Resources for getting paid in open source]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Python 3.11的期望是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30855073</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>atharvtathe</name>
             <uri>https://news.ycombinator.com/user?id=atharvtathe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在熊市中建立初創企業]]></title>
-        <id>https://news.ycombinator.com/item?id=30840930</id>
-        <link href="https://news.ycombinator.com/item?id=30840930"/>
-        <updated>2022-03-29T10:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Building Startups in a Bear Market]]></summary>
-        <author>
-            <name>decentraliseur</name>
-            <uri>https://news.ycombinator.com/user?id=decentraliseur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨裁統治在全球範圍內不斷推進]]></title>
-        <id>https://news.ycombinator.com/item?id=30840927</id>
-        <link href="https://news.ycombinator.com/item?id=30840927"/>
-        <updated>2022-03-29T10:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Dictatorships Advancing Globally]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用索引，盧克]]></title>
-        <id>https://news.ycombinator.com/item?id=30840889</id>
-        <link href="https://news.ycombinator.com/item?id=30840889"/>
-        <updated>2022-03-29T10:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Use the Index, Luke]]></summary>
-        <author>
-            <name>garritfra</name>
-            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
         </author>
     </entry>
 </feed>
