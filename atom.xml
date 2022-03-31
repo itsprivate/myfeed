@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T03:44:28.184Z</updated>
+    <updated>2022-03-31T03:58:14.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Upwork将向客户收取5%的费用]]></title>
+        <id>https://news.ycombinator.com/item?id=30863573</id>
+        <link href="https://news.ycombinator.com/item?id=30863573"/>
+        <updated>2022-03-31T03:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Upwork to Charge Clients 5%]]></summary>
+        <author>
+            <name>amq</name>
+            <uri>https://news.ycombinator.com/user?id=amq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从集合理论到类型理论 (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30863277</id>
+        <link href="https://news.ycombinator.com/item?id=30863277"/>
+        <updated>2022-03-31T02:36:47.000Z</updated>
+        <summary type="html"><![CDATA[From Set Theory to Type Theory (2013)]]></summary>
+        <author>
+            <name>dboreham</name>
+            <uri>https://news.ycombinator.com/user?id=dboreham</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEF Con 26: Christopher Domas, God Mode Unlocked Hardware Backdoors in x86]]></title>
+        <id>https://news.ycombinator.com/item?id=30863046</id>
+        <link href="https://news.ycombinator.com/item?id=30863046"/>
+        <updated>2022-03-31T01:53:38.000Z</updated>
+        <summary type="html"><![CDATA[DEF Con 26: Christopher Domas, God Mode Unlocked Hardware Backdoors in x86]]></summary>
+        <author>
+            <name>tambourine_man</name>
+            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[受诅咒的铬]]></title>
         <id>https://news.ycombinator.com/item?id=30863498</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>wolverine876</name>
             <uri>https://news.ycombinator.com/user?id=wolverine876</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯粹的C#音乐]]></title>
-        <id>https://news.ycombinator.com/item?id=30850074</id>
-        <link href="https://news.ycombinator.com/item?id=30850074"/>
-        <updated>2022-03-30T00:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Music in Pure C#]]></summary>
-        <author>
-            <name>lucasteles</name>
-            <uri>https://news.ycombinator.com/user?id=lucasteles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React中不存在XSS]]></title>
-        <id>https://news.ycombinator.com/item?id=30850048</id>
-        <link href="https://news.ycombinator.com/item?id=30850048"/>
-        <updated>2022-03-30T00:16:37.000Z</updated>
-        <summary type="html"><![CDATA[There is no XSS in React]]></summary>
-        <author>
-            <name>gmacpherson</name>
-            <uri>https://news.ycombinator.com/user?id=gmacpherson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JIT编译即将进入Unison：早期进展报告 - Unison程序员]]></title>
-        <id>https://news.ycombinator.com/item?id=30849925</id>
-        <link href="https://news.ycombinator.com/item?id=30849925"/>
-        <updated>2022-03-30T00:01:20.000Z</updated>
-        <summary type="html"><![CDATA[JIT compilation is coming to Unison: an early progress report · Unison programm]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
