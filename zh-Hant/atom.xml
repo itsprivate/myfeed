@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T08:44:12.205Z</updated>
+    <updated>2022-03-31T08:51:21.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼時候不使用鐵鏽？]]></title>
+        <id>https://news.ycombinator.com/item?id=30864268</id>
+        <link href="https://news.ycombinator.com/item?id=30864268"/>
+        <updated>2022-03-31T06:01:55.000Z</updated>
+        <summary type="html"><![CDATA[When Not to Use Rust?]]></summary>
+        <author>
+            <name>ptrik</name>
+            <uri>https://news.ycombinator.com/user?id=ptrik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘寶網上的 "淘寶客"。淘寶網上最新的Java RCE "0日 "漏洞的安全分析]]></title>
         <id>https://news.ycombinator.com/item?id=30865058</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hhs</name>
             <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驅逐查戈斯人]]></title>
-        <id>https://news.ycombinator.com/item?id=30851565</id>
-        <link href="https://news.ycombinator.com/item?id=30851565"/>
-        <updated>2022-03-30T04:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Expulsion of the Chagossians]]></summary>
-        <author>
-            <name>siftrics</name>
-            <uri>https://news.ycombinator.com/user?id=siftrics</uri>
         </author>
     </entry>
 </feed>
