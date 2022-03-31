@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T14:32:19.272Z</updated>
+    <updated>2022-03-31T14:41:10.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres容器应用程序（beta）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30867644</id>
+        <link href="https://news.ycombinator.com/item?id=30867644"/>
+        <updated>2022-03-31T14:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Postgres Container Apps (beta)]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛杉矶迷上了阿德拉]]></title>
+        <id>https://news.ycombinator.com/item?id=30867603</id>
+        <link href="https://news.ycombinator.com/item?id=30867603"/>
+        <updated>2022-03-31T14:29:14.000Z</updated>
+        <summary type="html"><![CDATA[L.A. Got Hooked on Adderall]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我重新设计了我的大脑，使之成为流畅的数学。]]></title>
+        <id>https://news.ycombinator.com/item?id=30867588</id>
+        <link href="https://news.ycombinator.com/item?id=30867588"/>
+        <updated>2022-03-31T14:27:44.000Z</updated>
+        <summary type="html"><![CDATA[I Rewired My Brain to Become Fluent in Math]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顶点AI功能商店的介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30867550</id>
+        <link href="https://news.ycombinator.com/item?id=30867550"/>
+        <updated>2022-03-31T14:23:30.000Z</updated>
+        <summary type="html"><![CDATA[An Intro to Vertex AI Features Store]]></summary>
+        <author>
+            <name>ahmadassaf</name>
+            <uri>https://news.ycombinator.com/user?id=ahmadassaf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有独立的程序文件和程序文件（x86）目录？]]></title>
+        <id>https://news.ycombinator.com/item?id=30867346</id>
+        <link href="https://news.ycombinator.com/item?id=30867346"/>
+        <updated>2022-03-31T14:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Why are there separate Program Files and Program Files (x86) directories?]]></summary>
+        <author>
+            <name>redbell</name>
+            <uri>https://news.ycombinator.com/user?id=redbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIY激光光刻技术。微米级分辨率]]></title>
         <id>https://news.ycombinator.com/item?id=30867518</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>hoerzu</name>
             <uri>https://news.ycombinator.com/user?id=hoerzu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的地毯正在生成大量有效的QR码]]></title>
-        <id>https://news.ycombinator.com/item?id=30854259</id>
-        <link href="https://news.ycombinator.com/item?id=30854259"/>
-        <updated>2022-03-30T12:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My carpet is generating a lot of valid QR Codes]]></summary>
-        <author>
-            <name>maxwellito</name>
-            <uri>https://news.ycombinator.com/user?id=maxwellito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨诺斯，一个红宝石转印者]]></title>
-        <id>https://news.ycombinator.com/item?id=30854231</id>
-        <link href="https://news.ycombinator.com/item?id=30854231"/>
-        <updated>2022-03-30T12:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Thanos, a Ruby-Go Transpiler]]></summary>
-        <author>
-            <name>redneckbeard</name>
-            <uri>https://news.ycombinator.com/user?id=redneckbeard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用50个无人机马达飞行（自制的飞行器）]]></title>
-        <id>https://news.ycombinator.com/item?id=30854229</id>
-        <link href="https://news.ycombinator.com/item?id=30854229"/>
-        <updated>2022-03-30T12:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Flying with 50 drone motors (homemade flying machine)]]></summary>
-        <author>
-            <name>lsferreira42</name>
-            <uri>https://news.ycombinator.com/user?id=lsferreira42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首款药物释放型隐形眼镜来了]]></title>
-        <id>https://news.ycombinator.com/item?id=30854193</id>
-        <link href="https://news.ycombinator.com/item?id=30854193"/>
-        <updated>2022-03-30T12:28:20.000Z</updated>
-        <summary type="html"><![CDATA[The First Drug-Releasing Contact Lens Is Here]]></summary>
-        <author>
-            <name>crackerswalrus</name>
-            <uri>https://news.ycombinator.com/user?id=crackerswalrus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是应用嵌入式零信任？(开放源码项目)]]></title>
-        <id>https://news.ycombinator.com/item?id=30854167</id>
-        <link href="https://news.ycombinator.com/item?id=30854167"/>
-        <updated>2022-03-30T12:25:59.000Z</updated>
-        <summary type="html"><![CDATA[What is Application Embedded Zero Trust? (open source project)]]></summary>
-        <author>
-            <name>OpenZiggy</name>
-            <uri>https://news.ycombinator.com/user?id=OpenZiggy</uri>
         </author>
     </entry>
 </feed>
