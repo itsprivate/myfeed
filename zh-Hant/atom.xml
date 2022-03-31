@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T06:15:11.276Z</updated>
+    <updated>2022-03-31T06:39:04.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[消除乙型肝炎的汙名化]]></title>
+        <id>https://news.ycombinator.com/item?id=30864375</id>
+        <link href="https://news.ycombinator.com/item?id=30864375"/>
+        <updated>2022-03-31T06:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Destigmatizing Hepatitis B]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器的閱讀器視圖是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30864311</id>
+        <link href="https://news.ycombinator.com/item?id=30864311"/>
+        <updated>2022-03-31T06:07:43.000Z</updated>
+        <summary type="html"><![CDATA[How does Firefox's Reader View work?]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克透露衡量一個想法是否可行的簡單方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30864194</id>
+        <link href="https://news.ycombinator.com/item?id=30864194"/>
+        <updated>2022-03-31T05:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk reveals an easy way to gauge if an idea is viable]]></summary>
+        <author>
+            <name>the_arun</name>
+            <uri>https://news.ycombinator.com/user?id=the_arun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一名技術型個人創業者如何不感到孤獨]]></title>
+        <id>https://news.ycombinator.com/item?id=30864023</id>
+        <link href="https://news.ycombinator.com/item?id=30864023"/>
+        <updated>2022-03-31T05:14:43.000Z</updated>
+        <summary type="html"><![CDATA[How to Not Get Lonely as a Technical Solo Entrepreneur]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京要求俄羅斯天然氣以盧布支付費用]]></title>
         <id>https://news.ycombinator.com/item?id=30864235</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>currio</name>
             <uri>https://news.ycombinator.com/user?id=currio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國從未出現過如此嚴重的房屋短缺問題。]]></title>
-        <id>https://news.ycombinator.com/item?id=30850859</id>
-        <link href="https://news.ycombinator.com/item?id=30850859"/>
-        <updated>2022-03-30T02:21:48.000Z</updated>
-        <summary type="html"><![CDATA[There's never been such a severe shortage of homes in the U.S.]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南西雅圖學生期待連續第三次獲得全國太陽能汽車冠軍]]></title>
-        <id>https://news.ycombinator.com/item?id=30850836</id>
-        <link href="https://news.ycombinator.com/item?id=30850836"/>
-        <updated>2022-03-30T02:17:43.000Z</updated>
-        <summary type="html"><![CDATA[South Seattle Students Eye Third Consecutive National Solar Car Championship]]></summary>
-        <author>
-            <name>georgeoliver</name>
-            <uri>https://news.ycombinator.com/user?id=georgeoliver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zee。一個用Rust編寫的現代終端文本編輯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30850652</id>
-        <link href="https://news.ycombinator.com/item?id=30850652"/>
-        <updated>2022-03-30T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Zee: A modern text editor for the terminal written in Rust]]></summary>
-        <author>
-            <name>siraben</name>
-            <uri>https://news.ycombinator.com/user?id=siraben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西摩-克雷 關於砷化鎵的這一切是什麼？(1988)]]></title>
-        <id>https://news.ycombinator.com/item?id=30850647</id>
-        <link href="https://news.ycombinator.com/item?id=30850647"/>
-        <updated>2022-03-30T01:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Seymour Cray: What's all this about gallium arsenide? (1988)]]></summary>
-        <author>
-            <name>kmstout</name>
-            <uri>https://news.ycombinator.com/user?id=kmstout</uri>
         </author>
     </entry>
 </feed>
