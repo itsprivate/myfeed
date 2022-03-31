@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T03:58:14.542Z</updated>
+    <updated>2022-03-31T04:41:00.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube系列。讓它生鏽。官方Rustbook文檔的視頻版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30863797</id>
+        <link href="https://news.ycombinator.com/item?id=30863797"/>
+        <updated>2022-03-31T04:24:05.000Z</updated>
+        <summary type="html"><![CDATA[YouTube series: Let it Rust: Video version of the official Rustbook docs]]></summary>
+        <author>
+            <name>hackintoshrao</name>
+            <uri>https://news.ycombinator.com/user?id=hackintoshrao</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapsus$再次出擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30863721</id>
+        <link href="https://news.ycombinator.com/item?id=30863721"/>
+        <updated>2022-03-31T04:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Lapsus$ Has Hit Again]]></summary>
+        <author>
+            <name>ruskyhacker</name>
+            <uri>https://news.ycombinator.com/user?id=ruskyhacker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬薩諸塞州禁止 "房屋淨值盜竊 "的努力正在加快步伐]]></title>
+        <id>https://news.ycombinator.com/item?id=30863678</id>
+        <link href="https://news.ycombinator.com/item?id=30863678"/>
+        <updated>2022-03-31T03:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Efforts to ban ‘home equity theft’ in Massachusetts picking up steam]]></summary>
+        <author>
+            <name>harambae</name>
+            <uri>https://news.ycombinator.com/user?id=harambae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要的太陽耀斑從太陽噴發出來]]></title>
+        <id>https://news.ycombinator.com/item?id=30863580</id>
+        <link href="https://news.ycombinator.com/item?id=30863580"/>
+        <updated>2022-03-31T03:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Significant Solar Flare Erupts from Sun]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小熊維尼在新的授權AA Milne前傳中去了哈羅德百貨公司(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30863373</id>
+        <link href="https://news.ycombinator.com/item?id=30863373"/>
+        <updated>2022-03-31T02:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Winnie-the-Pooh goes to Harrods in new authorised AA Milne prequel (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推薦人如何影響受害者援助和證人保護]]></title>
+        <id>https://news.ycombinator.com/item?id=30863023</id>
+        <link href="https://news.ycombinator.com/item?id=30863023"/>
+        <updated>2022-03-31T01:49:36.000Z</updated>
+        <summary type="html"><![CDATA[How Respeecher Can Influence Victim Assistance and Witness Protection]]></summary>
+        <author>
+            <name>respeecher</name>
+            <uri>https://news.ycombinator.com/user?id=respeecher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upwork將向客戶收取5%的費用]]></title>
         <id>https://news.ycombinator.com/item?id=30863573</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>arusahni</name>
             <uri>https://news.ycombinator.com/user?id=arusahni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯宇航員移交空間站指揮權，美國國家航空航天局宇航員向其告別]]></title>
-        <id>https://news.ycombinator.com/item?id=30850404</id>
-        <link href="https://news.ycombinator.com/item?id=30850404"/>
-        <updated>2022-03-30T01:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Russian cosmonaut hands over space station command, NASA astronaut bids farewell]]></summary>
-        <author>
-            <name>Stratoscope</name>
-            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring似乎有一個0day RCE漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30850400</id>
-        <link href="https://news.ycombinator.com/item?id=30850400"/>
-        <updated>2022-03-30T01:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Spring seems to have a 0day RCE bug]]></summary>
-        <author>
-            <name>ammo1662</name>
-            <uri>https://news.ycombinator.com/user?id=ammo1662</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國海軍陸戰隊擺脫了他們的坦克。烏克蘭是否讓他們看起來很聰明？]]></title>
-        <id>https://news.ycombinator.com/item?id=30850263</id>
-        <link href="https://news.ycombinator.com/item?id=30850263"/>
-        <updated>2022-03-30T00:46:12.000Z</updated>
-        <summary type="html"><![CDATA[The US Marines Got Rid of Their Tanks. Is Ukraine Making Them Look Smart?]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[優化Magic Firewall的IP列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30850260</id>
-        <link href="https://news.ycombinator.com/item?id=30850260"/>
-        <updated>2022-03-30T00:45:41.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing Magic Firewall’s IP Lists]]></summary>
-        <author>
-            <name>SerCe</name>
-            <uri>https://news.ycombinator.com/user?id=SerCe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[艾略特和布魯克菲爾德將以100億美元收購尼爾森公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30850124</id>
-        <link href="https://news.ycombinator.com/item?id=30850124"/>
-        <updated>2022-03-30T00:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Elliott and Brookfield to Buy Nielsen for $10B]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亨利-魯格開車以127英里/小時的速度衝向陌生人的汽車，一個人衝進了火熱的混亂之中]]></title>
-        <id>https://news.ycombinator.com/item?id=30850090</id>
-        <link href="https://news.ycombinator.com/item?id=30850090"/>
-        <updated>2022-03-30T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Henry Ruggs drove 127mph into a stranger's car and a man rushed into fiery chaos]]></summary>
-        <author>
-            <name>wolverine876</name>
-            <uri>https://news.ycombinator.com/user?id=wolverine876</uri>
         </author>
     </entry>
 </feed>
