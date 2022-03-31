@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T05:12:13.154Z</updated>
+    <updated>2022-03-31T05:30:33.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我所知道和喜爱的苯乙胺类药物]]></title>
+        <id>https://news.ycombinator.com/item?id=30863973</id>
+        <link href="https://news.ycombinator.com/item?id=30863973"/>
+        <updated>2022-03-31T05:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Phenethylamines I Have Known and Loved]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在半蒙面的人中。科维德戏剧是一个健康社会的标志]]></title>
+        <id>https://news.ycombinator.com/item?id=30863934</id>
+        <link href="https://news.ycombinator.com/item?id=30863934"/>
+        <updated>2022-03-31T04:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Among the Half-Masked: Covid theater is a sign of a healthy society]]></summary>
+        <author>
+            <name>thematrixturtle</name>
+            <uri>https://news.ycombinator.com/user?id=thematrixturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非C类操作系统的怪异世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30863933</id>
+        <link href="https://news.ycombinator.com/item?id=30863933"/>
+        <updated>2022-03-31T04:53:38.000Z</updated>
+        <summary type="html"><![CDATA[The weird world of non-C operating systems]]></summary>
+        <author>
+            <name>kristianp</name>
+            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nitric - 无服务器应用程序的开源框架，无锁定性]]></title>
         <id>https://news.ycombinator.com/item?id=30863957</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>grecy</name>
             <uri>https://news.ycombinator.com/user?id=grecy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Gradio进行实时语音识别]]></title>
-        <id>https://news.ycombinator.com/item?id=30850596</id>
-        <link href="https://news.ycombinator.com/item?id=30850596"/>
-        <updated>2022-03-30T01:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Real Time Speech Recognition with Gradio]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么美国宇航局将对本周末的巨型火箭测试的许多细节保密？]]></title>
-        <id>https://news.ycombinator.com/item?id=30850579</id>
-        <link href="https://news.ycombinator.com/item?id=30850579"/>
-        <updated>2022-03-30T01:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Why NASA Will Be Keeping Many Details of This Weekend’s Megarocket Test Secret]]></summary>
-        <author>
-            <name>ourmandave</name>
-            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国会提出电子现金法案]]></title>
-        <id>https://news.ycombinator.com/item?id=30850548</id>
-        <link href="https://news.ycombinator.com/item?id=30850548"/>
-        <updated>2022-03-30T01:33:22.000Z</updated>
-        <summary type="html"><![CDATA[US Congress proposed e-cash bill]]></summary>
-        <author>
-            <name>somid3</name>
-            <uri>https://news.ycombinator.com/user?id=somid3</uri>
         </author>
     </entry>
 </feed>
