@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T06:57:11.848Z</updated>
+    <updated>2022-03-31T07:13:05.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Redis OM]]></title>
+        <id>https://news.ycombinator.com/item?id=30864354</id>
+        <link href="https://news.ycombinator.com/item?id=30864354"/>
+        <updated>2022-03-31T06:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Redis OM]]></summary>
+        <author>
+            <name>ryannevius</name>
+            <uri>https://news.ycombinator.com/user?id=ryannevius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIDL的雲計算替代AWS似乎在推出一天後就癱瘓了]]></title>
         <id>https://news.ycombinator.com/item?id=30864486</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sharat87</name>
             <uri>https://news.ycombinator.com/user?id=sharat87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑瑞罐的巧妙設計]]></title>
-        <id>https://news.ycombinator.com/item?id=30850979</id>
-        <link href="https://news.ycombinator.com/item?id=30850979"/>
-        <updated>2022-03-30T02:40:58.000Z</updated>
-        <summary type="html"><![CDATA[The Ingenious Design of the Jerrycan]]></summary>
-        <author>
-            <name>wfme</name>
-            <uri>https://news.ycombinator.com/user?id=wfme</uri>
         </author>
     </entry>
 </feed>
