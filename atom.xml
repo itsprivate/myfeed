@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T07:39:33.787Z</updated>
+    <updated>2022-03-31T07:52:26.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Unicode博客。旗帜表情符号的过去和未来]]></title>
+        <id>https://news.ycombinator.com/item?id=30864474</id>
+        <link href="https://news.ycombinator.com/item?id=30864474"/>
+        <updated>2022-03-31T06:42:58.000Z</updated>
+        <summary type="html"><![CDATA[The Unicode Blog: The Past and Future of Flag Emoji]]></summary>
+        <author>
+            <name>srathi</name>
+            <uri>https://news.ycombinator.com/user?id=srathi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我写了一个窥视孔优化器（用于QBE）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30864448</id>
+        <link href="https://news.ycombinator.com/item?id=30864448"/>
+        <updated>2022-03-31T06:38:26.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a peephole optimizer (for QBE)]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国特勤局双手准备 (2008)]]></title>
         <id>https://news.ycombinator.com/item?id=30864619</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rguiscard</name>
             <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slidev, 开发人员的演示幻灯片]]></title>
-        <id>https://news.ycombinator.com/item?id=30851090</id>
-        <link href="https://news.ycombinator.com/item?id=30851090"/>
-        <updated>2022-03-30T02:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Slidev, Presentation Slides for Developers]]></summary>
-        <author>
-            <name>throwaway888abc</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway888abc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不喜欢电脑 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30851371</id>
-        <link href="https://news.ycombinator.com/item?id=30851371"/>
-        <updated>2022-03-30T04:02:07.000Z</updated>
-        <summary type="html"><![CDATA[I don't like computers (2016)]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
