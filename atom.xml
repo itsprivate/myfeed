@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T07:31:53.456Z</updated>
+    <updated>2022-03-31T07:39:33.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国特勤局双手准备 (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=30864619</id>
+        <link href="https://news.ycombinator.com/item?id=30864619"/>
+        <updated>2022-03-31T07:06:22.000Z</updated>
+        <summary type="html"><![CDATA[US Secret Service Hands Ready (2008)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读者 "应用程序现在可以在App Store以外的地方为账户注册添加链接]]></title>
         <id>https://news.ycombinator.com/item?id=30864675</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无刺激性的网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30850959</id>
-        <link href="https://news.ycombinator.com/item?id=30850959"/>
-        <updated>2022-03-30T02:37:23.000Z</updated>
-        <summary type="html"><![CDATA[The Irritant-Free Web]]></summary>
-        <author>
-            <name>ajani</name>
-            <uri>https://news.ycombinator.com/user?id=ajani</uri>
         </author>
     </entry>
 </feed>
