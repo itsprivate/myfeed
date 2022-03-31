@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T23:34:20.191Z</updated>
+    <updated>2022-03-31T23:43:33.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么企业不断尝试复活自助式开发者平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30873429</id>
+        <link href="https://news.ycombinator.com/item?id=30873429"/>
+        <updated>2022-03-31T23:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Why enterprises keep trying to resurrect self-service developer platforms]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有Windows 9的*真实原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30873376</id>
+        <link href="https://news.ycombinator.com/item?id=30873376"/>
+        <updated>2022-03-31T23:20:16.000Z</updated>
+        <summary type="html"><![CDATA[The *real* reason there was no Windows 9]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malleus Maleficarum]]></title>
         <id>https://news.ycombinator.com/item?id=30873408</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dxbydt</name>
             <uri>https://news.ycombinator.com/user?id=dxbydt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东正教教主谴责对乌克兰的 "残暴入侵]]></title>
-        <id>https://news.ycombinator.com/item?id=30860849</id>
-        <link href="https://news.ycombinator.com/item?id=30860849"/>
-        <updated>2022-03-30T21:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Orthodox patriarch denounces 'atrocious invasion' of Ukraine]]></summary>
-        <author>
-            <name>onecommentman</name>
-            <uri>https://news.ycombinator.com/user?id=onecommentman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型研究发现，伊维菌素不能降低科维德住院的风险]]></title>
-        <id>https://news.ycombinator.com/item?id=30860781</id>
-        <link href="https://news.ycombinator.com/item?id=30860781"/>
-        <updated>2022-03-30T21:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Ivermectin Does Not Reduce Risk of Covid Hospitalization, Large Study Finds]]></summary>
-        <author>
-            <name>abawany</name>
-            <uri>https://news.ycombinator.com/user?id=abawany</uri>
         </author>
     </entry>
 </feed>
