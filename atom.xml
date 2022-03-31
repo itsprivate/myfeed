@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-03-31T22:12:38.534Z</updated>
+    <updated>2022-03-31T22:33:38.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript中的功能编程]]></title>
+        <id>https://news.ycombinator.com/item?id=30872884</id>
+        <link href="https://news.ycombinator.com/item?id=30872884"/>
+        <updated>2022-03-31T22:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Functional Programming in TypeScript]]></summary>
+        <author>
+            <name>NaeosPsy</name>
+            <uri>https://news.ycombinator.com/user?id=NaeosPsy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对电子表格的看法是错误的，我很抱歉 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30872879</id>
+        <link href="https://news.ycombinator.com/item?id=30872879"/>
+        <updated>2022-03-31T22:22:02.000Z</updated>
+        <summary type="html"><![CDATA[I was wrong about spreadsheets, and I’m sorry (2017)]]></summary>
+        <author>
+            <name>electric_muse</name>
+            <uri>https://news.ycombinator.com/user?id=electric_muse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所以，古腾堡并没有发明我们所知道的印刷术]]></title>
+        <id>https://news.ycombinator.com/item?id=30872842</id>
+        <link href="https://news.ycombinator.com/item?id=30872842"/>
+        <updated>2022-03-31T22:18:32.000Z</updated>
+        <summary type="html"><![CDATA[So, Gutenberg Didn’t Invent Printing as We Know It]]></summary>
+        <author>
+            <name>jengels_</name>
+            <uri>https://news.ycombinator.com/user?id=jengels_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的CPU可以做的双字原子cmpxchg，但你的编译器却不能做]]></title>
+        <id>https://news.ycombinator.com/item?id=30872734</id>
+        <link href="https://news.ycombinator.com/item?id=30872734"/>
+        <updated>2022-03-31T22:06:27.000Z</updated>
+        <summary type="html"><![CDATA[dbl-word atomic cmpxchg that your CPU can do but your compiler won't]]></summary>
+        <author>
+            <name>PaulDavisThe1st</name>
+            <uri>https://news.ycombinator.com/user?id=PaulDavisThe1st</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加入矩阵]]></title>
+        <id>https://news.ycombinator.com/item?id=30872718</id>
+        <link href="https://news.ycombinator.com/item?id=30872718"/>
+        <updated>2022-03-31T22:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Join Matrix]]></summary>
+        <author>
+            <name>btdmaster</name>
+            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雪花公司收购的Steamlit]]></title>
+        <id>https://news.ycombinator.com/item?id=30872703</id>
+        <link href="https://news.ycombinator.com/item?id=30872703"/>
+        <updated>2022-03-31T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Steamlit Aquired by Snowflake]]></summary>
+        <author>
+            <name>samuell</name>
+            <uri>https://news.ycombinator.com/user?id=samuell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在π中寻找沃尔多]]></title>
+        <id>https://news.ycombinator.com/item?id=30872676</id>
+        <link href="https://news.ycombinator.com/item?id=30872676"/>
+        <updated>2022-03-31T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Finding Waldo in π]]></summary>
+        <author>
+            <name>Pxtl</name>
+            <uri>https://news.ycombinator.com/user?id=Pxtl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆创新拒绝关于其向俄罗斯泄露乌克兰军事阵地数据的说法]]></title>
+        <id>https://news.ycombinator.com/item?id=30872660</id>
+        <link href="https://news.ycombinator.com/item?id=30872660"/>
+        <updated>2022-03-31T21:58:29.000Z</updated>
+        <summary type="html"><![CDATA[DJI rejects claim that it leaks data to Russia on Ukrainian military positions]]></summary>
+        <author>
+            <name>yagurastation</name>
+            <uri>https://news.ycombinator.com/user?id=yagurastation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop K-8备案]]></title>
+        <id>https://news.ycombinator.com/item?id=30872636</id>
+        <link href="https://news.ycombinator.com/item?id=30872636"/>
+        <updated>2022-03-31T21:55:50.000Z</updated>
+        <summary type="html"><![CDATA[GameStop K-8 Filing]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌战争对海军陆战队（及其他）部队设计的启示]]></title>
+        <id>https://news.ycombinator.com/item?id=30872556</id>
+        <link href="https://news.ycombinator.com/item?id=30872556"/>
+        <updated>2022-03-31T21:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Insights for Marine (and Beyond) Force Design from the Russo-Ukrainian War]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab - 在基于OmniAuth的注册过程中设置静态密码（CVE-2022-1162）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30872415</id>
+        <link href="https://news.ycombinator.com/item?id=30872415"/>
+        <updated>2022-03-31T21:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Gitlab – Static passwords set during OmniAuth-based registration (CVE-2022-1162)]]></summary>
+        <author>
+            <name>altharaz</name>
+            <uri>https://news.ycombinator.com/user?id=altharaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯军队在挖掘切尔诺贝利壕沟后患上急性辐射病]]></title>
         <id>https://news.ycombinator.com/item?id=30872694</id>
@@ -6492,127 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD可能会在未来的CPU中考虑RISC-V的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30860187</id>
-        <link href="https://news.ycombinator.com/item?id=30860187"/>
-        <updated>2022-03-30T20:10:14.000Z</updated>
-        <summary type="html"><![CDATA[AMD may be looking towards RISC-V in future CPUs]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解中国的灰色地带战术]]></title>
-        <id>https://news.ycombinator.com/item?id=30860173</id>
-        <link href="https://news.ycombinator.com/item?id=30860173"/>
-        <updated>2022-03-30T20:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Understanding China's Gray Zone Tactics]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享秘密 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30860170</id>
-        <link href="https://news.ycombinator.com/item?id=30860170"/>
-        <updated>2022-03-30T20:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Sharing Secrets (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春季RCE已确认]]></title>
-        <id>https://news.ycombinator.com/item?id=30860105</id>
-        <link href="https://news.ycombinator.com/item?id=30860105"/>
-        <updated>2022-03-30T20:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Spring RCE Confirmed]]></summary>
-        <author>
-            <name>chillax</name>
-            <uri>https://news.ycombinator.com/user?id=chillax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WriteSonic评论。关于这个人工智能文案工具，你应该知道的一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30860023</id>
-        <link href="https://news.ycombinator.com/item?id=30860023"/>
-        <updated>2022-03-30T19:54:26.000Z</updated>
-        <summary type="html"><![CDATA[WriteSonic Review: All you should know about this AI copywriting tool]]></summary>
-        <author>
-            <name>MajidNbw</name>
-            <uri>https://news.ycombinator.com/user?id=MajidNbw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云之大陆。通过浮动的人工表面对金星进行地球化改造]]></title>
-        <id>https://news.ycombinator.com/item?id=30860009</id>
-        <link href="https://news.ycombinator.com/item?id=30860009"/>
-        <updated>2022-03-30T19:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Cloud Continents: Terraforming Venus by Means of a Floating Artificial Surface]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不聪明但很聪明？笨手机 "的回归]]></title>
-        <id>https://news.ycombinator.com/item?id=30859952</id>
-        <link href="https://news.ycombinator.com/item?id=30859952"/>
-        <updated>2022-03-30T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Not smart but clever? The return of 'dumbphones']]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由马尔科夫变奏曲》在Ableton Live设置之间优雅地变形]]></title>
-        <id>https://news.ycombinator.com/item?id=30859645</id>
-        <link href="https://news.ycombinator.com/item?id=30859645"/>
-        <updated>2022-03-30T19:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Free Markov Variations elegantly morphs between Ableton Live settings]]></summary>
-        <author>
-            <name>glitcher</name>
-            <uri>https://news.ycombinator.com/user?id=glitcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国对谷歌地图的调查加快了速度]]></title>
-        <id>https://news.ycombinator.com/item?id=30859579</id>
-        <link href="https://news.ycombinator.com/item?id=30859579"/>
-        <updated>2022-03-30T19:12:46.000Z</updated>
-        <summary type="html"><![CDATA[U.S. probe of Google Maps picks up speed]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能从未听说过太赫兹波，但它们可以改变你的生活]]></title>
-        <id>https://news.ycombinator.com/item?id=30859348</id>
-        <link href="https://news.ycombinator.com/item?id=30859348"/>
-        <updated>2022-03-30T18:55:29.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably never heard of terahertz waves, but they could change your life]]></summary>
-        <author>
-            <name>thereare5lights</name>
-            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈勃望远镜探测到有史以来最遥远的恒星，接近宇宙的曙光]]></title>
-        <id>https://news.ycombinator.com/item?id=30859905</id>
-        <link href="https://news.ycombinator.com/item?id=30859905"/>
-        <updated>2022-03-30T19:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Hubble telescope detects most distant star ever seen, near cosmic dawn]]></summary>
-        <author>
-            <name>MKais</name>
-            <uri>https://news.ycombinator.com/user?id=MKais</uri>
         </author>
     </entry>
 </feed>
