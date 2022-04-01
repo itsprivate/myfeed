@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T07:15:59.474Z</updated>
+    <updated>2022-04-01T07:31:53.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零信任架構並不能解決所有問題，但部分ZTA可以解決較少問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30875908</id>
+        <link href="https://news.ycombinator.com/item?id=30875908"/>
+        <updated>2022-04-01T07:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Zero Trust Architecture doesn't solve all problems, but partial ZTA solves fewer]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路漫漫其修遠兮]]></title>
+        <id>https://news.ycombinator.com/item?id=30875892</id>
+        <link href="https://news.ycombinator.com/item?id=30875892"/>
+        <updated>2022-04-01T07:07:58.000Z</updated>
+        <summary type="html"><![CDATA[The Road Was Long]]></summary>
+        <author>
+            <name>pwgentleman</name>
+            <uri>https://news.ycombinator.com/user?id=pwgentleman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人腦的規模]]></title>
+        <id>https://news.ycombinator.com/item?id=30875813</id>
+        <link href="https://news.ycombinator.com/item?id=30875813"/>
+        <updated>2022-04-01T06:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Scale of the Human Brain]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一張圖片抵得上16x16個字。規模化圖像識別的變形金剛]]></title>
+        <id>https://news.ycombinator.com/item?id=30875803</id>
+        <link href="https://news.ycombinator.com/item?id=30875803"/>
+        <updated>2022-04-01T06:52:13.000Z</updated>
+        <summary type="html"><![CDATA[An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索新的高引用率標籤幫助你找到故事的來源]]></title>
+        <id>https://news.ycombinator.com/item?id=30875166</id>
+        <link href="https://news.ycombinator.com/item?id=30875166"/>
+        <updated>2022-04-01T04:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Google Search’s new highly cited label helps you get to the source of a story]]></summary>
+        <author>
+            <name>alwillis</name>
+            <uri>https://news.ycombinator.com/user?id=alwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本宇宙航空研究開發機構和豐田公司的小型加壓月球巡航者原型車]]></title>
         <id>https://news.ycombinator.com/item?id=30875804</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jcusch</name>
             <uri>https://news.ycombinator.com/user?id=jcusch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些已經退出工作崗位的 "閒散 "工人]]></title>
-        <id>https://news.ycombinator.com/item?id=30863911</id>
-        <link href="https://news.ycombinator.com/item?id=30863911"/>
-        <updated>2022-03-31T04:48:11.000Z</updated>
-        <summary type="html"><![CDATA[The ‘coasting’ workers who’ve checked out of their jobs]]></summary>
-        <author>
-            <name>travisgriggs</name>
-            <uri>https://news.ycombinator.com/user?id=travisgriggs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用視覺變換器進行圖像分類]]></title>
-        <id>https://news.ycombinator.com/item?id=30863782</id>
-        <link href="https://news.ycombinator.com/item?id=30863782"/>
-        <updated>2022-03-31T04:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Image Classification with Vision Transformers]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個繪製圖表的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30863483</id>
-        <link href="https://news.ycombinator.com/item?id=30863483"/>
-        <updated>2022-03-31T03:16:51.000Z</updated>
-        <summary type="html"><![CDATA[A tool to draw graph diagrams]]></summary>
-        <author>
-            <name>neriymus</name>
-            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐米茄正在困擾著對科維德 "自然免疫 "的論點]]></title>
-        <id>https://news.ycombinator.com/item?id=30863901</id>
-        <link href="https://news.ycombinator.com/item?id=30863901"/>
-        <updated>2022-03-31T04:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Omicron is trouncing the argument for “natural immunity” to Covid]]></summary>
-        <author>
-            <name>dev_tty01</name>
-            <uri>https://news.ycombinator.com/user?id=dev_tty01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你現在可以在你的網站上整合谷歌搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30863879</id>
-        <link href="https://news.ycombinator.com/item?id=30863879"/>
-        <updated>2022-03-31T04:39:43.000Z</updated>
-        <summary type="html"><![CDATA[You can now integrate Google Search on your website]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
