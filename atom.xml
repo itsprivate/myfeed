@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T09:32:35.286Z</updated>
+    <updated>2022-04-01T09:41:12.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国推特用户被判处150小时的社区服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30876490</id>
+        <link href="https://news.ycombinator.com/item?id=30876490"/>
+        <updated>2022-04-01T09:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Twitter user sentenced to 150 hours of community service in UK]]></summary>
+        <author>
+            <name>FeaturelessBug</name>
+            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作鼠]]></title>
+        <id>https://news.ycombinator.com/item?id=30876465</id>
+        <link href="https://news.ycombinator.com/item?id=30876465"/>
+        <updated>2022-04-01T09:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Working Rat]]></summary>
+        <author>
+            <name>severine</name>
+            <uri>https://news.ycombinator.com/user?id=severine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡普空将在日本把员工工资提高30]]></title>
         <id>https://news.ycombinator.com/item?id=30876456</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直接登记猫的步态 (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30865019</id>
-        <link href="https://news.ycombinator.com/item?id=30865019"/>
-        <updated>2022-03-31T08:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Direct Registering Cat Gait (2017)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防止数十亿美元的黑客攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=30865042</id>
-        <link href="https://news.ycombinator.com/item?id=30865042"/>
-        <updated>2022-03-31T08:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Preventing Billion-Dollar Hacks]]></summary>
-        <author>
-            <name>keyraycheck</name>
-            <uri>https://news.ycombinator.com/user?id=keyraycheck</uri>
         </author>
     </entry>
 </feed>
