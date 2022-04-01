@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T04:45:55.298Z</updated>
+    <updated>2022-04-01T04:59:27.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[無限的Mac。瀏覽器中即時啟動的Quadra]]></title>
+        <id>https://news.ycombinator.com/item?id=30875259</id>
+        <link href="https://news.ycombinator.com/item?id=30875259"/>
+        <updated>2022-04-01T04:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Infinite Mac: An Instant-Booting Quadra in the Browser]]></summary>
+        <author>
+            <name>jf</name>
+            <uri>https://news.ycombinator.com/user?id=jf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atom的GitHub討論已經被垃圾郵件機器人淹沒好幾天了]]></title>
+        <id>https://news.ycombinator.com/item?id=30874862</id>
+        <link href="https://news.ycombinator.com/item?id=30874862"/>
+        <updated>2022-04-01T03:23:52.000Z</updated>
+        <summary type="html"><![CDATA[The GitHub discussions for Atom have been flooded with spam bots for days]]></summary>
+        <author>
+            <name>MatthiasPortzel</name>
+            <uri>https://news.ycombinator.com/user?id=MatthiasPortzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高中生創造1美元的過濾器來去除水中的鉛]]></title>
         <id>https://news.ycombinator.com/item?id=30875186</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bspear</name>
             <uri>https://news.ycombinator.com/user?id=bspear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果和Meta公司與冒充執法部門的黑客共享數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30863233</id>
-        <link href="https://news.ycombinator.com/item?id=30863233"/>
-        <updated>2022-03-31T02:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Apple and Meta shared data with hackers pretending to be law enforcement]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯油輪正在從地圖上消失]]></title>
-        <id>https://news.ycombinator.com/item?id=30863209</id>
-        <link href="https://news.ycombinator.com/item?id=30863209"/>
-        <updated>2022-03-31T02:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Russian oil tankers are vanishing off the map]]></summary>
-        <author>
-            <name>ttyp3</name>
-            <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
         </author>
     </entry>
 </feed>
