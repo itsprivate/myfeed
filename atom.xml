@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T17:40:16.780Z</updated>
+    <updated>2022-04-01T17:52:09.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Automerge CRDT - 构建本地优先的软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30881016</id>
+        <link href="https://news.ycombinator.com/item?id=30881016"/>
+        <updated>2022-04-01T17:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Automerge CRDT – Build local-first software]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Steampipe来确定AWS的成本节约情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30880895</id>
+        <link href="https://news.ycombinator.com/item?id=30880895"/>
+        <updated>2022-04-01T17:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Use Steampipe to identify cost savings in AWS]]></summary>
+        <author>
+            <name>judell</name>
+            <uri>https://news.ycombinator.com/user?id=judell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Linux中使用脚踏板作为修改键]]></title>
         <id>https://news.ycombinator.com/item?id=30880908</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>_Microft</name>
             <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登宣布释放历史性石油储备以降低油价]]></title>
-        <id>https://news.ycombinator.com/item?id=30869029</id>
-        <link href="https://news.ycombinator.com/item?id=30869029"/>
-        <updated>2022-03-31T16:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Biden announces historic oil reserve release to reduce gas prices]]></summary>
-        <author>
-            <name>ttyp3</name>
-            <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[补充维生素D以预防Covid-19 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30869025</id>
-        <link href="https://news.ycombinator.com/item?id=30869025"/>
-        <updated>2022-03-31T16:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Vitamin D Supplements for Prevention of Covid-19 [pdf]]]></summary>
-        <author>
-            <name>lixtra</name>
-            <uri>https://news.ycombinator.com/user?id=lixtra</uri>
         </author>
     </entry>
 </feed>
