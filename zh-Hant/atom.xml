@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T10:38:26.903Z</updated>
+    <updated>2022-04-01T10:53:08.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克稱人形機器人是特斯拉正在研發的最重要產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30876834</id>
+        <link href="https://news.ycombinator.com/item?id=30876834"/>
+        <updated>2022-04-01T10:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk says humanoid robot is the most important product Tesla is working on]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pine64宣佈推出Pinebuds和Pinepods]]></title>
+        <id>https://news.ycombinator.com/item?id=30876747</id>
+        <link href="https://news.ycombinator.com/item?id=30876747"/>
+        <updated>2022-04-01T10:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Pine64 Announcing Pinebuds and Pinepods]]></summary>
+        <author>
+            <name>ndsipa_pomu</name>
+            <uri>https://news.ycombinator.com/user?id=ndsipa_pomu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go中的Reach Map/Reduce功能API]]></title>
+        <id>https://news.ycombinator.com/item?id=30876597</id>
+        <link href="https://news.ycombinator.com/item?id=30876597"/>
+        <updated>2022-04-01T09:54:13.000Z</updated>
+        <summary type="html"><![CDATA[A Reach Map/Reduce Functional API in Go]]></summary>
+        <author>
+            <name>pedro_s_costa</name>
+            <uri>https://news.ycombinator.com/user?id=pedro_s_costa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司為威脅iOS和macOS用戶的兩個 "零缺陷 "匆匆打出補丁]]></title>
         <id>https://news.ycombinator.com/item?id=30876728</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Jedd</name>
             <uri>https://news.ycombinator.com/user?id=Jedd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛-單位。簡化C語言的單元測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30865346</id>
-        <link href="https://news.ycombinator.com/item?id=30865346"/>
-        <updated>2022-03-31T09:33:07.000Z</updated>
-        <summary type="html"><![CDATA[CLove-Unit: Unit Testing for C made simple]]></summary>
-        <author>
-            <name>fdefelici</name>
-            <uri>https://news.ycombinator.com/user?id=fdefelici</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現金的結束是否意味著隱私的結束？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865319</id>
-        <link href="https://news.ycombinator.com/item?id=30865319"/>
-        <updated>2022-03-31T09:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Does the End of Cash Mean the End of Privacy?]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方的綠色妄想使普京得勢]]></title>
-        <id>https://news.ycombinator.com/item?id=30865317</id>
-        <link href="https://news.ycombinator.com/item?id=30865317"/>
-        <updated>2022-03-31T09:27:27.000Z</updated>
-        <summary type="html"><![CDATA[The West’s Green Delusions Empowered Putin]]></summary>
-        <author>
-            <name>diegoholiveira</name>
-            <uri>https://news.ycombinator.com/user?id=diegoholiveira</uri>
         </author>
     </entry>
 </feed>
