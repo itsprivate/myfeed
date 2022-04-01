@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T05:30:57.075Z</updated>
+    <updated>2022-04-01T05:38:09.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BlaKE12, 快速加密貨幣]]></title>
+        <id>https://news.ycombinator.com/item?id=30875456</id>
+        <link href="https://news.ycombinator.com/item?id=30875456"/>
+        <updated>2022-04-01T05:28:47.000Z</updated>
+        <summary type="html"><![CDATA[BlaKE12, Fast Crypto]]></summary>
+        <author>
+            <name>xeyownt</name>
+            <uri>https://news.ycombinator.com/user?id=xeyownt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有自由的世界秩序]]></title>
         <id>https://news.ycombinator.com/item?id=30875402</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的LG Smarttv中的Accessusb菜單是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30863374</id>
-        <link href="https://news.ycombinator.com/item?id=30863374"/>
-        <updated>2022-03-31T02:55:23.000Z</updated>
-        <summary type="html"><![CDATA[What’s That Accessusb Menu in My LG Smarttv?]]></summary>
-        <author>
-            <name>viniciosbarros</name>
-            <uri>https://news.ycombinator.com/user?id=viniciosbarros</uri>
         </author>
     </entry>
 </feed>
