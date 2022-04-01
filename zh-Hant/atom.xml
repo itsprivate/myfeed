@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T20:51:37.505Z</updated>
+    <updated>2022-04-01T21:12:16.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯士兵在切爾諾貝利死於輻射中毒]]></title>
+        <id>https://news.ycombinator.com/item?id=30883322</id>
+        <link href="https://news.ycombinator.com/item?id=30883322"/>
+        <updated>2022-04-01T21:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Russian soldier dies from radiation poisoning in Chernobyl]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個數學聚會遊戲告訴我們關於圖論的信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30883234</id>
+        <link href="https://news.ycombinator.com/item?id=30883234"/>
+        <updated>2022-04-01T20:56:39.000Z</updated>
+        <summary type="html"><![CDATA[What a Math Party Game Tells Us About Graph Theory]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[眾議院通過大麻非刑罪化法案]]></title>
+        <id>https://news.ycombinator.com/item?id=30883142</id>
+        <link href="https://news.ycombinator.com/item?id=30883142"/>
+        <updated>2022-04-01T20:47:37.000Z</updated>
+        <summary type="html"><![CDATA[House Passes Bill to Decriminalize Marijuana]]></summary>
+        <author>
+            <name>virtualwhys</name>
+            <uri>https://news.ycombinator.com/user?id=virtualwhys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在那裡一年賺了一百萬美元，我從未想過我會離開。]]></title>
+        <id>https://news.ycombinator.com/item?id=30883132</id>
+        <link href="https://news.ycombinator.com/item?id=30883132"/>
+        <updated>2022-04-01T20:46:23.000Z</updated>
+        <summary type="html"><![CDATA[I was making a million dollars a year there,I never thought that I would leave]]></summary>
+        <author>
+            <name>dyadigs</name>
+            <uri>https://news.ycombinator.com/user?id=dyadigs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯人在挖掘切爾諾貝利壕溝後患上 "急性輻射病]]></title>
+        <id>https://news.ycombinator.com/item?id=30883131</id>
+        <link href="https://news.ycombinator.com/item?id=30883131"/>
+        <updated>2022-04-01T20:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Russians Suffer ‘Acute Radiation Sickness’ After Digging Chernobyl Trenches]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洩露的截圖和音頻揭示了由Stripe支持的Fast內部的內爆情況]]></title>
         <id>https://news.ycombinator.com/item?id=30882904</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>meltburger</name>
             <uri>https://news.ycombinator.com/user?id=meltburger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我成為全職內容創作者的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30870814</id>
-        <link href="https://news.ycombinator.com/item?id=30870814"/>
-        <updated>2022-03-31T18:42:39.000Z</updated>
-        <summary type="html"><![CDATA[My story of becoming a full-time content creator]]></summary>
-        <author>
-            <name>stefanrows</name>
-            <uri>https://news.ycombinator.com/user?id=stefanrows</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個完整的人類基因組無間隙序列揭示了隱藏的區域]]></title>
-        <id>https://news.ycombinator.com/item?id=30870767</id>
-        <link href="https://news.ycombinator.com/item?id=30870767"/>
-        <updated>2022-03-31T18:39:13.000Z</updated>
-        <summary type="html"><![CDATA[First complete, gapless sequence of a human genome reveals hidden regions]]></summary>
-        <author>
-            <name>tzury</name>
-            <uri>https://news.ycombinator.com/user?id=tzury</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們終於完成了對整個人類基因組的解碼工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30870764</id>
-        <link href="https://news.ycombinator.com/item?id=30870764"/>
-        <updated>2022-03-31T18:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Scientists finally finish decoding entire human genome]]></summary>
-        <author>
-            <name>cyrc</name>
-            <uri>https://news.ycombinator.com/user?id=cyrc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo起訴加州車管所要求對車禍數據保密]]></title>
-        <id>https://news.ycombinator.com/item?id=30870760</id>
-        <link href="https://news.ycombinator.com/item?id=30870760"/>
-        <updated>2022-03-31T18:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Waymo sues California's DMV to keep car crash data quiet]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書算法在過去6個月裡錯誤地提升了有害的內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30870740</id>
-        <link href="https://news.ycombinator.com/item?id=30870740"/>
-        <updated>2022-03-31T18:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Facebook algorithm was mistakenly elevating harmful content for last six months]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>
