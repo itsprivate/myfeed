@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T06:40:04.963Z</updated>
+    <updated>2022-04-01T06:58:11.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[選擇你的成癮性]]></title>
+        <id>https://news.ycombinator.com/item?id=30875757</id>
+        <link href="https://news.ycombinator.com/item?id=30875757"/>
+        <updated>2022-04-01T06:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Choose Your Addiction]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Kotlin + Micronaut + Graal VM在AWS Lambda上實現無服務器化]]></title>
+        <id>https://news.ycombinator.com/item?id=30875749</id>
+        <link href="https://news.ycombinator.com/item?id=30875749"/>
+        <updated>2022-04-01T06:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Serverless on AWS Lambda with Kotlin + Micronaut + Graal VM]]></summary>
+        <author>
+            <name>athkalia</name>
+            <uri>https://news.ycombinator.com/user?id=athkalia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在扭曲的就業市場中僱用工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30875512</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hackintoshrao</name>
             <uri>https://news.ycombinator.com/user?id=hackintoshrao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapsus$再次出擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30863721</id>
-        <link href="https://news.ycombinator.com/item?id=30863721"/>
-        <updated>2022-03-31T04:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Lapsus$ Has Hit Again]]></summary>
-        <author>
-            <name>ruskyhacker</name>
-            <uri>https://news.ycombinator.com/user?id=ruskyhacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬薩諸塞州禁止 "房屋淨值盜竊 "的努力正在加快步伐]]></title>
-        <id>https://news.ycombinator.com/item?id=30863678</id>
-        <link href="https://news.ycombinator.com/item?id=30863678"/>
-        <updated>2022-03-31T03:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Efforts to ban ‘home equity theft’ in Massachusetts picking up steam]]></summary>
-        <author>
-            <name>harambae</name>
-            <uri>https://news.ycombinator.com/user?id=harambae</uri>
         </author>
     </entry>
 </feed>

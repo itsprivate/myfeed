@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 01 Apr 2022 06:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[選擇你的成癮性]]></title>
+            <link>https://news.ycombinator.com/item?id=30875757</link>
+            <guid>https://news.ycombinator.com/item?id=30875757</guid>
+            <pubDate>Fri, 01 Apr 2022 06:42:05 GMT</pubDate>
+            <description><![CDATA[Choose Your Addiction]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Kotlin + Micronaut + Graal VM在AWS Lambda上實現無服務器化]]></title>
+            <link>https://news.ycombinator.com/item?id=30875749</link>
+            <guid>https://news.ycombinator.com/item?id=30875749</guid>
+            <pubDate>Fri, 01 Apr 2022 06:40:09 GMT</pubDate>
+            <description><![CDATA[Serverless on AWS Lambda with Kotlin + Micronaut + Graal VM]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在扭曲的就業市場中僱用工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30875512</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30863797</guid>
             <pubDate>Thu, 31 Mar 2022 04:24:05 GMT</pubDate>
             <description><![CDATA[YouTube series: Let it Rust: Video version of the official Rustbook docs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lapsus$再次出擊]]></title>
-            <link>https://news.ycombinator.com/item?id=30863721</link>
-            <guid>https://news.ycombinator.com/item?id=30863721</guid>
-            <pubDate>Thu, 31 Mar 2022 04:07:39 GMT</pubDate>
-            <description><![CDATA[Lapsus$ Has Hit Again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[馬薩諸塞州禁止 "房屋淨值盜竊 "的努力正在加快步伐]]></title>
-            <link>https://news.ycombinator.com/item?id=30863678</link>
-            <guid>https://news.ycombinator.com/item?id=30863678</guid>
-            <pubDate>Thu, 31 Mar 2022 03:58:01 GMT</pubDate>
-            <description><![CDATA[Efforts to ban ‘home equity theft’ in Massachusetts picking up steam]]></description>
         </item>
     </channel>
 </rss>
