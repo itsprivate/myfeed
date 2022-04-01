@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T20:43:42.917Z</updated>
+    <updated>2022-04-01T20:51:37.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泄露的截图和音频揭示了由Stripe支持的Fast内部的内爆情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30882904</id>
+        <link href="https://news.ycombinator.com/item?id=30882904"/>
+        <updated>2022-04-01T20:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Leaked screenshots and audio reveal the implosion inside Stripe-backed Fast]]></summary>
+        <author>
+            <name>mmayberry</name>
+            <uri>https://news.ycombinator.com/user?id=mmayberry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年的数据库]]></title>
         <id>https://news.ycombinator.com/item?id=30883015</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>minimaxir</name>
             <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采访Webflow联合创始人]]></title>
-        <id>https://news.ycombinator.com/item?id=30870898</id>
-        <link href="https://news.ycombinator.com/item?id=30870898"/>
-        <updated>2022-03-31T18:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Interview with Webflow co-founder]]></summary>
-        <author>
-            <name>comeagain</name>
-            <uri>https://news.ycombinator.com/user?id=comeagain</uri>
         </author>
     </entry>
 </feed>
