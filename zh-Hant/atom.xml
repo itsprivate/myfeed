@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T09:13:54.226Z</updated>
+    <updated>2022-04-01T09:32:35.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡普空將在日本把員工工資提高30]]></title>
+        <id>https://news.ycombinator.com/item?id=30876456</id>
+        <link href="https://news.ycombinator.com/item?id=30876456"/>
+        <updated>2022-04-01T09:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Capcom to Raise Its Employee Salaries by 30% in Japan]]></summary>
+        <author>
+            <name>unripe_syntax</name>
+            <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面向網絡專業人員的Linux]]></title>
         <id>https://news.ycombinator.com/item?id=30876395</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>keyraycheck</name>
             <uri>https://news.ycombinator.com/user?id=keyraycheck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史蒂夫-喬布對移動應用的最初設想]]></title>
-        <id>https://news.ycombinator.com/item?id=30865031</id>
-        <link href="https://news.ycombinator.com/item?id=30865031"/>
-        <updated>2022-03-31T08:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Steve Job's original vision for mobile apps]]></summary>
-        <author>
-            <name>kelthuzad</name>
-            <uri>https://news.ycombinator.com/user?id=kelthuzad</uri>
         </author>
     </entry>
 </feed>
