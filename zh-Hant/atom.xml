@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T06:58:11.097Z</updated>
+    <updated>2022-04-01T07:15:59.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日本宇宙航空研究開發機構和豐田公司的小型加壓月球巡航者原型車]]></title>
+        <id>https://news.ycombinator.com/item?id=30875804</id>
+        <link href="https://news.ycombinator.com/item?id=30875804"/>
+        <updated>2022-04-01T06:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Small pressurized Lunar Cruiser rover prototype by JAXA and Toyota]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Violet - 用Swift編寫的Python虛擬機]]></title>
+        <id>https://news.ycombinator.com/item?id=30875656</id>
+        <link href="https://news.ycombinator.com/item?id=30875656"/>
+        <updated>2022-04-01T06:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Violet – Python VM Written in Swift]]></summary>
+        <author>
+            <name>LiarPrincess</name>
+            <uri>https://news.ycombinator.com/user?id=LiarPrincess</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[選擇你的成癮性]]></title>
         <id>https://news.ycombinator.com/item?id=30875757</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：我們用自己的產品以1350萬美元的價格完成了150萬美元的種子輪融資]]></title>
-        <id>https://news.ycombinator.com/item?id=30863811</id>
-        <link href="https://news.ycombinator.com/item?id=30863811"/>
-        <updated>2022-03-31T04:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: We raised our US$1.5M seed round at US$13.5M using our own product]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube系列。讓它生鏽。官方Rustbook文檔的視頻版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30863797</id>
-        <link href="https://news.ycombinator.com/item?id=30863797"/>
-        <updated>2022-03-31T04:24:05.000Z</updated>
-        <summary type="html"><![CDATA[YouTube series: Let it Rust: Video version of the official Rustbook docs]]></summary>
-        <author>
-            <name>hackintoshrao</name>
-            <uri>https://news.ycombinator.com/user?id=hackintoshrao</uri>
         </author>
     </entry>
 </feed>
