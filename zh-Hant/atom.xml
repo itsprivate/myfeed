@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T22:33:37.322Z</updated>
+    <updated>2022-04-01T22:42:49.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用書法手工製作演示文稿]]></title>
+        <id>https://news.ycombinator.com/item?id=30883997</id>
+        <link href="https://news.ycombinator.com/item?id=30883997"/>
+        <updated>2022-04-01T22:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Creating a presentation by hand using calligraphy]]></summary>
+        <author>
+            <name>ibudiallo</name>
+            <uri>https://news.ycombinator.com/user?id=ibudiallo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DARPA完成了暗殺者計劃。新的戰術性隧道技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30883961</id>
+        <link href="https://news.ycombinator.com/item?id=30883961"/>
+        <updated>2022-04-01T22:27:47.000Z</updated>
+        <summary type="html"><![CDATA[DARPA Completes Underminer Program: New tactical tunneling technologies]]></summary>
+        <author>
+            <name>DocFeind</name>
+            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[按最古老的先例搜索谷歌]]></title>
         <id>https://news.ycombinator.com/item?id=30883927</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挖掘未來金屬的全球競賽]]></title>
-        <id>https://news.ycombinator.com/item?id=30871052</id>
-        <link href="https://news.ycombinator.com/item?id=30871052"/>
-        <updated>2022-03-31T19:04:49.000Z</updated>
-        <summary type="html"><![CDATA[The Global Race to Mine the Metal of the Future]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於網絡開發的蘋果電腦的全新設置]]></title>
-        <id>https://news.ycombinator.com/item?id=30870800</id>
-        <link href="https://news.ycombinator.com/item?id=30870800"/>
-        <updated>2022-03-31T18:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Mac fresh setup for web-dev]]></summary>
-        <author>
-            <name>saikatsg</name>
-            <uri>https://news.ycombinator.com/user?id=saikatsg</uri>
         </author>
     </entry>
 </feed>
