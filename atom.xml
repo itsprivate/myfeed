@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T22:51:15.911Z</updated>
+    <updated>2022-04-01T23:12:38.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[xkcd的愚人节帖子是9个多小时的机器人Bob Ross用Logo "绘画"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30884006</id>
+        <link href="https://news.ycombinator.com/item?id=30884006"/>
+        <updated>2022-04-01T22:35:28.000Z</updated>
+        <summary type="html"><![CDATA[xkcd's April Fools post is 9+ hours of robot Bob Ross “painting” with Logo]]></summary>
+        <author>
+            <name>whit537</name>
+            <uri>https://news.ycombinator.com/user?id=whit537</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立日]]></title>
+        <id>https://news.ycombinator.com/item?id=30883924</id>
+        <link href="https://news.ycombinator.com/item?id=30883924"/>
+        <updated>2022-04-01T22:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Independence Day]]></summary>
+        <author>
+            <name>greedo</name>
+            <uri>https://news.ycombinator.com/user?id=greedo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅迪托。免费和开源的冥想应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30883504</id>
+        <link href="https://news.ycombinator.com/item?id=30883504"/>
+        <updated>2022-04-01T21:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Medito: Free and open source meditation app]]></summary>
+        <author>
+            <name>commoner</name>
+            <uri>https://news.ycombinator.com/user?id=commoner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些已经退出工作岗位的 "闲散 "工人]]></title>
         <id>https://news.ycombinator.com/item?id=30884033</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>geneticsiscool</name>
             <uri>https://news.ycombinator.com/user?id=geneticsiscool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球2：作为加密数字的Metaverse-go-up]]></title>
-        <id>https://news.ycombinator.com/item?id=30871460</id>
-        <link href="https://news.ycombinator.com/item?id=30871460"/>
-        <updated>2022-03-31T19:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Earth 2: the Metaverse as crypto number-go-up]]></summary>
-        <author>
-            <name>davidgerard</name>
-            <uri>https://news.ycombinator.com/user?id=davidgerard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在5年内创办5亿美元和500万美元公司的教训]]></title>
-        <id>https://news.ycombinator.com/item?id=30871458</id>
-        <link href="https://news.ycombinator.com/item?id=30871458"/>
-        <updated>2022-03-31T19:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Lessons starting a $500M and a $5M company in 5 years]]></summary>
-        <author>
-            <name>buf</name>
-            <uri>https://news.ycombinator.com/user?id=buf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[删除Slack对无辜的乌克兰付费客户进行制裁的行为]]></title>
-        <id>https://news.ycombinator.com/item?id=30871440</id>
-        <link href="https://news.ycombinator.com/item?id=30871440"/>
-        <updated>2022-03-31T19:40:51.000Z</updated>
-        <summary type="html"><![CDATA[DeleteSlack for sanctioning innocent Ukrainian paying customers]]></summary>
-        <author>
-            <name>codesuela</name>
-            <uri>https://news.ycombinator.com/user?id=codesuela</uri>
         </author>
     </entry>
 </feed>
