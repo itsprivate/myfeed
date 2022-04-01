@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T09:41:12.431Z</updated>
+    <updated>2022-04-01T09:51:44.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣佈git snail-mail]]></title>
+        <id>https://news.ycombinator.com/item?id=30876515</id>
+        <link href="https://news.ycombinator.com/item?id=30876515"/>
+        <updated>2022-04-01T09:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Announcing git snail-mail]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eth2書 - 一本關於以太坊的書]]></title>
+        <id>https://news.ycombinator.com/item?id=30876394</id>
+        <link href="https://news.ycombinator.com/item?id=30876394"/>
+        <updated>2022-04-01T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Eth2 Book – A book about Ethereum]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國推特用戶被判處150小時的社區服務]]></title>
         <id>https://news.ycombinator.com/item?id=30876490</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ptrik</name>
             <uri>https://news.ycombinator.com/user?id=ptrik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘寶網上的 "淘寶客"。淘寶網上最新的Java RCE "0日 "漏洞的安全分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30865058</id>
-        <link href="https://news.ycombinator.com/item?id=30865058"/>
-        <updated>2022-03-31T08:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Spring4Shell: Security Analysis of the latest Java RCE '0-day' vulns in Spring]]></summary>
-        <author>
-            <name>trollied</name>
-            <uri>https://news.ycombinator.com/user?id=trollied</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnDUNE II - 一個王朝的衰落]]></title>
-        <id>https://news.ycombinator.com/item?id=30865047</id>
-        <link href="https://news.ycombinator.com/item?id=30865047"/>
-        <updated>2022-03-31T08:30:46.000Z</updated>
-        <summary type="html"><![CDATA[UnDUNE II – The Demaking of a Dynasty]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>

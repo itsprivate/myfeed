@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宣佈git snail-mail]]></title>
+            <link>https://news.ycombinator.com/item?id=30876515</link>
+            <guid>https://news.ycombinator.com/item?id=30876515</guid>
+            <pubDate>Fri, 01 Apr 2022 09:34:10 GMT</pubDate>
+            <description><![CDATA[Announcing git snail-mail]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Eth2書 - 一本關於以太坊的書]]></title>
+            <link>https://news.ycombinator.com/item?id=30876394</link>
+            <guid>https://news.ycombinator.com/item?id=30876394</guid>
+            <pubDate>Fri, 01 Apr 2022 09:00:29 GMT</pubDate>
+            <description><![CDATA[Eth2 Book – A book about Ethereum]]></description>
+        </item>
         <item>
             <title><![CDATA[英國推特用戶被判處150小時的社區服務]]></title>
             <link>https://news.ycombinator.com/item?id=30876490</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30864268</guid>
             <pubDate>Thu, 31 Mar 2022 06:01:55 GMT</pubDate>
             <description><![CDATA[When Not to Use Rust?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[淘寶網上的 "淘寶客"。淘寶網上最新的Java RCE "0日 "漏洞的安全分析]]></title>
-            <link>https://news.ycombinator.com/item?id=30865058</link>
-            <guid>https://news.ycombinator.com/item?id=30865058</guid>
-            <pubDate>Thu, 31 Mar 2022 08:32:23 GMT</pubDate>
-            <description><![CDATA[Spring4Shell: Security Analysis of the latest Java RCE '0-day' vulns in Spring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[UnDUNE II - 一個王朝的衰落]]></title>
-            <link>https://news.ycombinator.com/item?id=30865047</link>
-            <guid>https://news.ycombinator.com/item?id=30865047</guid>
-            <pubDate>Thu, 31 Mar 2022 08:30:46 GMT</pubDate>
-            <description><![CDATA[UnDUNE II – The Demaking of a Dynasty]]></description>
         </item>
     </channel>
 </rss>
