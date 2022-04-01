@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T22:42:49.831Z</updated>
+    <updated>2022-04-01T22:51:15.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些已经退出工作岗位的 "闲散 "工人]]></title>
+        <id>https://news.ycombinator.com/item?id=30884033</id>
+        <link href="https://news.ycombinator.com/item?id=30884033"/>
+        <updated>2022-04-01T22:38:24.000Z</updated>
+        <summary type="html"><![CDATA[The ‘coasting’ workers who’ve checked out of their jobs]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用书法手工制作演示文稿]]></title>
         <id>https://news.ycombinator.com/item?id=30883997</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codesuela</name>
             <uri>https://news.ycombinator.com/user?id=codesuela</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻人买不起房的原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30871434</id>
-        <link href="https://news.ycombinator.com/item?id=30871434"/>
-        <updated>2022-03-31T19:39:59.000Z</updated>
-        <summary type="html"><![CDATA[The Reason Young People Can’t Afford a Home]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
