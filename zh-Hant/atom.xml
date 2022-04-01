@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T20:34:58.362Z</updated>
+    <updated>2022-04-01T20:43:43.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30883015</id>
+        <link href="https://news.ycombinator.com/item?id=30883015"/>
+        <updated>2022-04-01T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[A Database for 2022]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多爾米奧。與夢境的交接]]></title>
+        <id>https://news.ycombinator.com/item?id=30883013</id>
+        <link href="https://news.ycombinator.com/item?id=30883013"/>
+        <updated>2022-04-01T20:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Dormio: Interfacing with Dreams]]></summary>
+        <author>
+            <name>Elof</name>
+            <uri>https://news.ycombinator.com/user?id=Elof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你能教導VC嗎？兩個人拿著一塊板子和一些牌，認為你可以]]></title>
+        <id>https://news.ycombinator.com/item?id=30882987</id>
+        <link href="https://news.ycombinator.com/item?id=30882987"/>
+        <updated>2022-04-01T20:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Can you teach VC? Two dudes with a board and some cards think you can]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT的時裝設計師走進了元古代的一個酒吧]]></title>
+        <id>https://news.ycombinator.com/item?id=30882578</id>
+        <link href="https://news.ycombinator.com/item?id=30882578"/>
+        <updated>2022-04-01T19:53:26.000Z</updated>
+        <summary type="html"><![CDATA[The NFT fashion designer walks into a bar in the metaverse]]></summary>
+        <author>
+            <name>hntcz</name>
+            <uri>https://news.ycombinator.com/user?id=hntcz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曼德布羅特逃逸的重新規範化]]></title>
         <id>https://news.ycombinator.com/item?id=30882834</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>comeagain</name>
             <uri>https://news.ycombinator.com/user?id=comeagain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼APL值得了解]]></title>
-        <id>https://news.ycombinator.com/item?id=30870868</id>
-        <link href="https://news.ycombinator.com/item?id=30870868"/>
-        <updated>2022-03-31T18:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Why APL is worth knowing]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果緊急更新修復了用於入侵iPhone和Mac的零漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30870855</id>
-        <link href="https://news.ycombinator.com/item?id=30870855"/>
-        <updated>2022-03-31T18:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Apple emergency update fixes zero-days used to hack iPhones, Macs]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[送我上天堂（手機應用）]]></title>
-        <id>https://news.ycombinator.com/item?id=30870806</id>
-        <link href="https://news.ycombinator.com/item?id=30870806"/>
-        <updated>2022-03-31T18:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Send Me To Heaven (mobile app)]]></summary>
-        <author>
-            <name>lowkey_</name>
-            <uri>https://news.ycombinator.com/user?id=lowkey_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌瀏覽器將針對俄羅斯宣傳的DDoS網站歸為惡意軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30870763</id>
-        <link href="https://news.ycombinator.com/item?id=30870763"/>
-        <updated>2022-03-31T18:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome classifies DDoS site against Russian propaganda as malware]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
