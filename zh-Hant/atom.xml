@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-01T23:43:14.240Z</updated>
+    <updated>2022-04-01T23:51:55.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瞭解用於ASR的傅立葉變換、FFT和頻譜圖（2020）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30883434</id>
+        <link href="https://news.ycombinator.com/item?id=30883434"/>
+        <updated>2022-04-01T21:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Fourier Transform, FFT and Spectrogram for ASR (2020)]]></summary>
+        <author>
+            <name>davidatbu</name>
+            <uri>https://news.ycombinator.com/user?id=davidatbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於創建知識圖譜的關係提取]]></title>
+        <id>https://news.ycombinator.com/item?id=30882964</id>
+        <link href="https://news.ycombinator.com/item?id=30882964"/>
+        <updated>2022-04-01T20:28:19.000Z</updated>
+        <summary type="html"><![CDATA[Relationship extraction for knowledge graph creation]]></summary>
+        <author>
+            <name>nikolamilosevic</name>
+            <uri>https://news.ycombinator.com/user?id=nikolamilosevic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[81%的俄羅斯人支持戰爭]]></title>
         <id>https://news.ycombinator.com/item?id=30884425</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MaxLeiter</name>
             <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭人在美國申請TPS或asyluym的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30871153</id>
-        <link href="https://news.ycombinator.com/item?id=30871153"/>
-        <updated>2022-03-31T19:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Tool for Ukrainians to apply for TPS or asyluym in the US]]></summary>
-        <author>
-            <name>yobert</name>
-            <uri>https://news.ycombinator.com/user?id=yobert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超加工食品佔據了你的購物籃]]></title>
-        <id>https://news.ycombinator.com/item?id=30871666</id>
-        <link href="https://news.ycombinator.com/item?id=30871666"/>
-        <updated>2022-03-31T20:05:29.000Z</updated>
-        <summary type="html"><![CDATA[Ultra-processed food took over your shopping basket]]></summary>
-        <author>
-            <name>cheese_goddess</name>
-            <uri>https://news.ycombinator.com/user?id=cheese_goddess</uri>
         </author>
     </entry>
 </feed>
