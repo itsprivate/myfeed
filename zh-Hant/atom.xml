@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T21:38:54.243Z</updated>
+    <updated>2022-04-02T21:50:59.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rust從頭開始建立一個DNS服務器的指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30891908</id>
+        <link href="https://news.ycombinator.com/item?id=30891908"/>
+        <updated>2022-04-02T21:36:51.000Z</updated>
+        <summary type="html"><![CDATA[A guide to building a DNS server from scratch in Rust]]></summary>
+        <author>
+            <name>42jd</name>
+            <uri>https://news.ycombinator.com/user?id=42jd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨大的流星爆炸震撼了印第安納州，帶來驚喜的轟鳴聲]]></title>
         <id>https://news.ycombinator.com/item?id=30891866</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sanjeetc</name>
             <uri>https://news.ycombinator.com/user?id=sanjeetc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圓周率搜索 - 在圓周率的數字中找到任何給定的數字]]></title>
-        <id>https://news.ycombinator.com/item?id=30876895</id>
-        <link href="https://news.ycombinator.com/item?id=30876895"/>
-        <updated>2022-04-01T10:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Pi Search – find any given number in the digits of pi]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>

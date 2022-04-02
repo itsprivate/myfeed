@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 21:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Rust从头开始建立一个DNS服务器的指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30891908</link>
+            <guid>https://news.ycombinator.com/item?id=30891908</guid>
+            <pubDate>Sat, 02 Apr 2022 21:36:51 GMT</pubDate>
+            <description><![CDATA[A guide to building a DNS server from scratch in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[巨大的流星爆炸震撼了印第安纳州，带来惊喜的轰鸣声]]></title>
             <link>https://news.ycombinator.com/item?id=30891866</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30876947</guid>
             <pubDate>Fri, 01 Apr 2022 11:00:21 GMT</pubDate>
             <description><![CDATA[How I Rick Rolled My Entire Class With Twilio]]></description>
-        </item>
-        <item>
-            <title><![CDATA[圆周率搜索 - 在圆周率的数字中找到任何给定的数字]]></title>
-            <link>https://news.ycombinator.com/item?id=30876895</link>
-            <guid>https://news.ycombinator.com/item?id=30876895</guid>
-            <pubDate>Fri, 01 Apr 2022 10:51:46 GMT</pubDate>
-            <description><![CDATA[Pi Search – find any given number in the digits of pi]]></description>
         </item>
     </channel>
 </rss>
