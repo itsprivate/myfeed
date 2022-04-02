@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T05:29:56.982Z</updated>
+    <updated>2022-04-02T05:51:27.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[除非民主国家自卫，否则专制的力量将摧毁它们]]></title>
+        <id>https://news.ycombinator.com/item?id=30886048</id>
+        <link href="https://news.ycombinator.com/item?id=30886048"/>
+        <updated>2022-04-02T05:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Unless democracies defend themselves, the forces of autocracy will destroy them]]></summary>
+        <author>
+            <name>cmurf</name>
+            <uri>https://news.ycombinator.com/user?id=cmurf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么交流电赢得了电力战争（2019）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30885801</id>
+        <link href="https://news.ycombinator.com/item?id=30885801"/>
+        <updated>2022-04-02T04:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Why AC won the Electricity Wars (2019)]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试你的显示器的色域]]></title>
+        <id>https://news.ycombinator.com/item?id=30885659</id>
+        <link href="https://news.ycombinator.com/item?id=30885659"/>
+        <updated>2022-04-02T03:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Test your monitor's color gamut]]></summary>
+        <author>
+            <name>hiddensemicolon</name>
+            <uri>https://news.ycombinator.com/user?id=hiddensemicolon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[越南的一个优雅的竹子结构]]></title>
         <id>https://news.ycombinator.com/item?id=30885979</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>yagurastation</name>
             <uri>https://news.ycombinator.com/user?id=yagurastation</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop K-8备案]]></title>
-        <id>https://news.ycombinator.com/item?id=30872636</id>
-        <link href="https://news.ycombinator.com/item?id=30872636"/>
-        <updated>2022-03-31T21:55:50.000Z</updated>
-        <summary type="html"><![CDATA[GameStop K-8 Filing]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄乌战争对海军陆战队（及其他）部队设计的启示]]></title>
-        <id>https://news.ycombinator.com/item?id=30872556</id>
-        <link href="https://news.ycombinator.com/item?id=30872556"/>
-        <updated>2022-03-31T21:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Insights for Marine (and Beyond) Force Design from the Russo-Ukrainian War]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab - 在基于OmniAuth的注册过程中设置静态密码（CVE-2022-1162）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30872415</id>
-        <link href="https://news.ycombinator.com/item?id=30872415"/>
-        <updated>2022-03-31T21:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Gitlab – Static passwords set during OmniAuth-based registration (CVE-2022-1162)]]></summary>
-        <author>
-            <name>altharaz</name>
-            <uri>https://news.ycombinator.com/user?id=altharaz</uri>
         </author>
     </entry>
 </feed>
