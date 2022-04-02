@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T18:36:51.601Z</updated>
+    <updated>2022-04-02T18:54:13.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洛杉磯法官裁定LGBT企業多樣性法違憲]]></title>
+        <id>https://news.ycombinator.com/item?id=30890674</id>
+        <link href="https://news.ycombinator.com/item?id=30890674"/>
+        <updated>2022-04-02T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional]]></summary>
+        <author>
+            <name>zthrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=zthrowaway</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣資產：在歐盟阻止非法流動的新規則]]></title>
+        <id>https://news.ycombinator.com/item?id=30890286</id>
+        <link href="https://news.ycombinator.com/item?id=30890286"/>
+        <updated>2022-04-02T18:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Crypto assets: new rules to stop illicit flows in the EU]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於部署Azure資源的Bicep語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30890192</id>
+        <link href="https://news.ycombinator.com/item?id=30890192"/>
+        <updated>2022-04-02T17:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Bicep language for deploying Azure resources]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼人工通用智能可能是不可能的]]></title>
+        <id>https://news.ycombinator.com/item?id=30889806</id>
+        <link href="https://news.ycombinator.com/item?id=30889806"/>
+        <updated>2022-04-02T17:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Why artificial general intelligence may be impossible]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洛杉磯同意花費30億美元安置無家可歸的居民]]></title>
         <id>https://news.ycombinator.com/item?id=30890443</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>leonry</name>
             <uri>https://news.ycombinator.com/user?id=leonry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Sourcegraph 搜索 34,000 個 Fedora 倉庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30876190</id>
-        <link href="https://news.ycombinator.com/item?id=30876190"/>
-        <updated>2022-04-01T08:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Using Sourcegraph to Search 34,000 Fedora Repositories]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個23兆瓦的數據中心就能滿足你的需求 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30876094</id>
-        <link href="https://news.ycombinator.com/item?id=30876094"/>
-        <updated>2022-04-01T07:58:03.000Z</updated>
-        <summary type="html"><![CDATA[A 23 MW Data Centre is all you need [pdf]]]></summary>
-        <author>
-            <name>Hard_Space</name>
-            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC在線 - 無服務器的一年]]></title>
-        <id>https://news.ycombinator.com/item?id=30876306</id>
-        <link href="https://news.ycombinator.com/item?id=30876306"/>
-        <updated>2022-04-01T08:40:22.000Z</updated>
-        <summary type="html"><![CDATA[BBC Online – A Year with Serverless]]></summary>
-        <author>
-            <name>stichers</name>
-            <uri>https://news.ycombinator.com/user?id=stichers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可擴展的區塊鏈的後果。P=NP]]></title>
-        <id>https://news.ycombinator.com/item?id=30876252</id>
-        <link href="https://news.ycombinator.com/item?id=30876252"/>
-        <updated>2022-04-01T08:28:02.000Z</updated>
-        <summary type="html"><![CDATA[The Consequences of Scalable Blockchains: P=NP]]></summary>
-        <author>
-            <name>davidgerard</name>
-            <uri>https://news.ycombinator.com/user?id=davidgerard</uri>
         </author>
     </entry>
 </feed>
