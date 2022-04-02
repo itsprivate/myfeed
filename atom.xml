@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T19:36:43.332Z</updated>
+    <updated>2022-04-02T19:51:23.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪一个是正确的。O.K.，OK，OK，还是OK？]]></title>
+        <id>https://news.ycombinator.com/item?id=30890996</id>
+        <link href="https://news.ycombinator.com/item?id=30890996"/>
+        <updated>2022-04-02T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Which one is correct: O.K., OK, ok, or okay?]]></summary>
+        <author>
+            <name>arkj</name>
+            <uri>https://news.ycombinator.com/user?id=arkj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州董事会多样性法被裁定违宪]]></title>
         <id>https://news.ycombinator.com/item?id=30890987</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nabi_nafio</name>
             <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入侵乌克兰：不是第一场社交媒体战争，但却是最具病毒性的战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30876563</id>
-        <link href="https://news.ycombinator.com/item?id=30876563"/>
-        <updated>2022-04-01T09:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Invasion of Ukraine: not the first social media war, but the most viral]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
         </author>
     </entry>
 </feed>
