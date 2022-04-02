@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T10:35:01.900Z</updated>
+    <updated>2022-04-02T10:44:52.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所以这就是导致 "闪电式崩溃"（2015年）的原因。]]></title>
+        <id>https://news.ycombinator.com/item?id=30887154</id>
+        <link href="https://news.ycombinator.com/item?id=30887154"/>
+        <updated>2022-04-02T10:29:03.000Z</updated>
+        <summary type="html"><![CDATA[So that's what caused that “flash crash” (2015)]]></summary>
+        <author>
+            <name>SvenSchnieders</name>
+            <uri>https://news.ycombinator.com/user?id=SvenSchnieders</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在有一半的老年人在死亡时被诊断为痴呆症]]></title>
         <id>https://news.ycombinator.com/item?id=30887070</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>neustradamus</name>
             <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模仿游戏2.0：建立量子计算的竞赛]]></title>
-        <id>https://news.ycombinator.com/item?id=30873312</id>
-        <link href="https://news.ycombinator.com/item?id=30873312"/>
-        <updated>2022-03-31T23:13:43.000Z</updated>
-        <summary type="html"><![CDATA[The imitation game 2.0: a race to build quantum computing]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
         </author>
     </entry>
 </feed>
