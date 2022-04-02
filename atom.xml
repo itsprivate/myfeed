@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T17:34:49.251Z</updated>
+    <updated>2022-04-02T17:43:04.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GoPuff收购BevMo的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30889802</id>
+        <link href="https://news.ycombinator.com/item?id=30889802"/>
+        <updated>2022-04-02T17:07:16.000Z</updated>
+        <summary type="html"><![CDATA[The reason GoPuff bought BevMo]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些已经退出工作岗位的 "闲散 "工人]]></title>
+        <id>https://news.ycombinator.com/item?id=30889117</id>
+        <link href="https://news.ycombinator.com/item?id=30889117"/>
+        <updated>2022-04-02T15:52:06.000Z</updated>
+        <summary type="html"><![CDATA[The ‘coasting’ workers who’ve checked out of their jobs]]></summary>
+        <author>
+            <name>sys_64738</name>
+            <uri>https://news.ycombinator.com/user?id=sys_64738</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为开发者提供的免费和创新的翻译API]]></title>
         <id>https://news.ycombinator.com/item?id=30889901</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>indigodaddy</name>
             <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有JavaScript，Stackoverflow.com是无法使用的（由于愚人节）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30875954</id>
-        <link href="https://news.ycombinator.com/item?id=30875954"/>
-        <updated>2022-04-01T07:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Stackoverflow.com is unusable without JavaScript (due to April Fools)]]></summary>
-        <author>
-            <name>no-js-user</name>
-            <uri>https://news.ycombinator.com/user?id=no-js-user</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们不知道的人类问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30875939</id>
-        <link href="https://news.ycombinator.com/item?id=30875939"/>
-        <updated>2022-04-01T07:22:08.000Z</updated>
-        <summary type="html"><![CDATA[The Human Problem That We Don't Know About]]></summary>
-        <author>
-            <name>catsarebetter</name>
-            <uri>https://news.ycombinator.com/user?id=catsarebetter</uri>
         </author>
     </entry>
 </feed>
