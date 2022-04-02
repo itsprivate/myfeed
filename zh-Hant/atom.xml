@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T11:51:32.103Z</updated>
+    <updated>2022-04-02T12:16:48.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[醜陋的真相：電影配樂是如何產生的]]></title>
+        <id>https://news.ycombinator.com/item?id=30887325</id>
+        <link href="https://news.ycombinator.com/item?id=30887325"/>
+        <updated>2022-04-02T11:14:20.000Z</updated>
+        <summary type="html"><![CDATA[The Ugly Truth of How Movie Scores Are Made]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些你從不使用的HTML屬性]]></title>
         <id>https://news.ycombinator.com/item?id=30887445</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ameliorees</name>
             <uri>https://news.ycombinator.com/user?id=ameliorees</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐約警察局的偵探給了一個12歲的男孩一杯蘇打水。他落入了DNA數據庫。(2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30873762</id>
-        <link href="https://news.ycombinator.com/item?id=30873762"/>
-        <updated>2022-04-01T00:12:59.000Z</updated>
-        <summary type="html"><![CDATA[N.Y.P.D. Detectives Gave a Boy, 12, a Soda. He Landed in a DNA Database. (2019)]]></summary>
-        <author>
-            <name>enjoyyourlife</name>
-            <uri>https://news.ycombinator.com/user?id=enjoyyourlife</uri>
         </author>
     </entry>
 </feed>
