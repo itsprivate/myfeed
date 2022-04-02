@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T20:33:02.293Z</updated>
+    <updated>2022-04-02T20:41:29.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯人需要VPN。克里姆林宮憎恨它們]]></title>
+        <id>https://news.ycombinator.com/item?id=30891419</id>
+        <link href="https://news.ycombinator.com/item?id=30891419"/>
+        <updated>2022-04-02T20:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Russians Need VPNs. The Kremlin Hates Them]]></summary>
+        <author>
+            <name>lelf</name>
+            <uri>https://news.ycombinator.com/user?id=lelf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭平民被俄羅斯人殺害。只是因為是烏克蘭人]]></title>
+        <id>https://news.ycombinator.com/item?id=30891335</id>
+        <link href="https://news.ycombinator.com/item?id=30891335"/>
+        <updated>2022-04-02T20:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian civilians killed by Russian. Just for being Ukrainians]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊天機器人有朝一日可以取代搜索引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30891123</id>
+        <link href="https://news.ycombinator.com/item?id=30891123"/>
+        <updated>2022-04-02T19:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Chatbots could one day replace search engines]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工程師/經理人鐘擺的雙重憂慮]]></title>
         <id>https://news.ycombinator.com/item?id=30891317</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考試成績在麻省理工學院再次得到重視]]></title>
-        <id>https://news.ycombinator.com/item?id=30876809</id>
-        <link href="https://news.ycombinator.com/item?id=30876809"/>
-        <updated>2022-04-01T10:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Test Scores Count Again at MIT]]></summary>
-        <author>
-            <name>temp8964</name>
-            <uri>https://news.ycombinator.com/user?id=temp8964</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春天4Shell。最新Java RCE "0天 "漏洞的安全分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30876738</id>
-        <link href="https://news.ycombinator.com/item?id=30876738"/>
-        <updated>2022-04-01T10:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Spring4Shell: Security Analysis of the latest Java RCE '0-day' vulnerabilities]]></summary>
-        <author>
-            <name>chakintosh</name>
-            <uri>https://news.ycombinator.com/user?id=chakintosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[磁性糞便]]></title>
-        <id>https://news.ycombinator.com/item?id=30876109</id>
-        <link href="https://news.ycombinator.com/item?id=30876109"/>
-        <updated>2022-04-01T08:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Magnetic Turd]]></summary>
-        <author>
-            <name>dickiedyce</name>
-            <uri>https://news.ycombinator.com/user?id=dickiedyce</uri>
         </author>
     </entry>
 </feed>
