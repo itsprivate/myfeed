@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T13:09:41.281Z</updated>
+    <updated>2022-04-02T13:34:49.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RedLeaf。用Rust開發的研究型操作系統，利用語言安全的優勢]]></title>
+        <id>https://news.ycombinator.com/item?id=30887638</id>
+        <link href="https://news.ycombinator.com/item?id=30887638"/>
+        <updated>2022-04-02T12:14:42.000Z</updated>
+        <summary type="html"><![CDATA[RedLeaf: A research OS developed in Rust, leveraging language safety]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡塔爾世界大會記者IAMA變成了垃圾箱之火]]></title>
         <id>https://news.ycombinator.com/item?id=30887894</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>andrewflnr</name>
             <uri>https://news.ycombinator.com/user?id=andrewflnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的Stackoverflow主題]]></title>
-        <id>https://news.ycombinator.com/item?id=30874211</id>
-        <link href="https://news.ycombinator.com/item?id=30874211"/>
-        <updated>2022-04-01T01:25:26.000Z</updated>
-        <summary type="html"><![CDATA[New Stackoverflow theme]]></summary>
-        <author>
-            <name>atarian</name>
-            <uri>https://news.ycombinator.com/user?id=atarian</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 13:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 13:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RedLeaf。用Rust開發的研究型操作系統，利用語言安全的優勢]]></title>
+            <link>https://news.ycombinator.com/item?id=30887638</link>
+            <guid>https://news.ycombinator.com/item?id=30887638</guid>
+            <pubDate>Sat, 02 Apr 2022 12:14:42 GMT</pubDate>
+            <description><![CDATA[RedLeaf: A research OS developed in Rust, leveraging language safety]]></description>
+        </item>
         <item>
             <title><![CDATA[卡塔爾世界大會記者IAMA變成了垃圾箱之火]]></title>
             <link>https://news.ycombinator.com/item?id=30887894</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30874219</guid>
             <pubDate>Fri, 01 Apr 2022 01:27:56 GMT</pubDate>
             <description><![CDATA[Honda, Kawasaki, Suzuki and Yamaha form joint battery-swapping company for EVs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的Stackoverflow主題]]></title>
-            <link>https://news.ycombinator.com/item?id=30874211</link>
-            <guid>https://news.ycombinator.com/item?id=30874211</guid>
-            <pubDate>Fri, 01 Apr 2022 01:25:26 GMT</pubDate>
-            <description><![CDATA[New Stackoverflow theme]]></description>
         </item>
     </channel>
 </rss>
