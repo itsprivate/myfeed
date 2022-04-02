@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T13:34:49.508Z</updated>
+    <updated>2022-04-02T13:51:33.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究不力的男性小说]]></title>
+        <id>https://news.ycombinator.com/item?id=30888225</id>
+        <link href="https://news.ycombinator.com/item?id=30888225"/>
+        <updated>2022-04-02T13:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Poorly Researched Men's Fiction]]></summary>
+        <author>
+            <name>mauvehaus</name>
+            <uri>https://news.ycombinator.com/user?id=mauvehaus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用ClickHouse建立一个粘贴服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30888201</id>
+        <link href="https://news.ycombinator.com/item?id=30888201"/>
+        <updated>2022-04-02T13:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Building a Paste Service with ClickHouse]]></summary>
+        <author>
+            <name>pradeepchhetri</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepchhetri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[评论。在 "我同意这些条款 "中，亚马逊下起了便士雨]]></title>
+        <id>https://news.ycombinator.com/item?id=30888153</id>
+        <link href="https://news.ycombinator.com/item?id=30888153"/>
+        <updated>2022-04-02T13:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Review: In ‘I Agree to the Terms,’ It’s Raining Pennies from Amazon]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Go泛型的更快排序]]></title>
+        <id>https://news.ycombinator.com/item?id=30888125</id>
+        <link href="https://news.ycombinator.com/item?id=30888125"/>
+        <updated>2022-04-02T13:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Faster Sorting with Go Generics]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜂鸣器。你的所有聊天记录都在一个应用程序中]]></title>
+        <id>https://news.ycombinator.com/item?id=30887583</id>
+        <link href="https://news.ycombinator.com/item?id=30887583"/>
+        <updated>2022-04-02T12:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Beeper: All of your chats in one app]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊工人赢得了组建美国第一个工会的战斗]]></title>
+        <id>https://news.ycombinator.com/item?id=30887537</id>
+        <link href="https://news.ycombinator.com/item?id=30887537"/>
+        <updated>2022-04-02T11:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon workers win battle to form first US union]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么三字经]]></title>
+        <id>https://news.ycombinator.com/item?id=30887447</id>
+        <link href="https://news.ycombinator.com/item?id=30887447"/>
+        <updated>2022-04-02T11:39:21.000Z</updated>
+        <summary type="html"><![CDATA[What3Words]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RedLeaf。用Rust开发的研究型操作系统，利用语言安全的优势]]></title>
         <id>https://news.ycombinator.com/item?id=30887638</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要将目前的住房热潮与泡沫和萧条相提并论]]></title>
-        <id>https://news.ycombinator.com/item?id=30874344</id>
-        <link href="https://news.ycombinator.com/item?id=30874344"/>
-        <updated>2022-04-01T01:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Don't Compare the Current Housing Boom to the Bubble and Bust]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妈妈们学习编程]]></title>
-        <id>https://news.ycombinator.com/item?id=30874339</id>
-        <link href="https://news.ycombinator.com/item?id=30874339"/>
-        <updated>2022-04-01T01:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Moms Learn to Code]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么你不能 "真正快速地提取数据"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30874324</id>
-        <link href="https://news.ycombinator.com/item?id=30874324"/>
-        <updated>2022-04-01T01:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Why can’t you “pull data real quick”?]]></summary>
-        <author>
-            <name>mikpanko</name>
-            <uri>https://news.ycombinator.com/user?id=mikpanko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigen Tutorial (2013) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30874275</id>
-        <link href="https://news.ycombinator.com/item?id=30874275"/>
-        <updated>2022-04-01T01:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Eigen Tutorial (2013) [pdf]]]></summary>
-        <author>
-            <name>limoce</name>
-            <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wacom引领Linux用笔和平板电脑的发展方向]]></title>
-        <id>https://news.ycombinator.com/item?id=30874256</id>
-        <link href="https://news.ycombinator.com/item?id=30874256"/>
-        <updated>2022-04-01T01:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Wacom Leads the Way with Pens and Tablets for Linux]]></summary>
-        <author>
-            <name>tux1968</name>
-            <uri>https://news.ycombinator.com/user?id=tux1968</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长荣海运，Stuck Ever Forward的所有者，宣布全面平均。]]></title>
-        <id>https://news.ycombinator.com/item?id=30874235</id>
-        <link href="https://news.ycombinator.com/item?id=30874235"/>
-        <updated>2022-04-01T01:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Evergreen Marine, Owner of Stuck Ever Forward, Declares General Average]]></summary>
-        <author>
-            <name>frenchman_in_ny</name>
-            <uri>https://news.ycombinator.com/user?id=frenchman_in_ny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本田、川崎、铃木和雅马哈为电动汽车成立联合电池交换公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30874219</id>
-        <link href="https://news.ycombinator.com/item?id=30874219"/>
-        <updated>2022-04-01T01:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Honda, Kawasaki, Suzuki and Yamaha form joint battery-swapping company for EVs]]></summary>
-        <author>
-            <name>andrewflnr</name>
-            <uri>https://news.ycombinator.com/user?id=andrewflnr</uri>
         </author>
     </entry>
 </feed>
