@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T09:11:59.283Z</updated>
+    <updated>2022-04-02T09:31:29.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1923年的男子谈起他在19世纪60年代的童年]]></title>
+        <id>https://news.ycombinator.com/item?id=30886892</id>
+        <link href="https://news.ycombinator.com/item?id=30886892"/>
+        <updated>2022-04-02T09:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Man in 1923 talks about his childhood in 1860s]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学在俄罗斯没有希望"：试图逃往西方的学者们]]></title>
+        <id>https://news.ycombinator.com/item?id=30886863</id>
+        <link href="https://news.ycombinator.com/item?id=30886863"/>
+        <updated>2022-04-02T09:06:06.000Z</updated>
+        <summary type="html"><![CDATA[‘No hope for science in Russia’: the academics trying to flee to the west]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube取消了我的Nextcloud安装方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30886834</id>
+        <link href="https://news.ycombinator.com/item?id=30886834"/>
+        <updated>2022-04-02T08:58:41.000Z</updated>
+        <summary type="html"><![CDATA[YouTube cancelled my Nextcloud installation how-to]]></summary>
+        <author>
+            <name>chr15m</name>
+            <uri>https://news.ycombinator.com/user?id=chr15m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux-Xlnx - Xilinx的官方Linux内核]]></title>
         <id>https://news.ycombinator.com/item?id=30886837</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>thcipriani</name>
             <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发人员的音乐。对Stack Overflow上传奇的regex帖子的处理]]></title>
-        <id>https://news.ycombinator.com/item?id=30872334</id>
-        <link href="https://news.ycombinator.com/item?id=30872334"/>
-        <updated>2022-03-31T21:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Music for devs: A treatment of the legendary regex post on Stack Overflow]]></summary>
-        <author>
-            <name>robindowling</name>
-            <uri>https://news.ycombinator.com/user?id=robindowling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚假的紧急搜查令引起国会山庄的审视]]></title>
-        <id>https://news.ycombinator.com/item?id=30873211</id>
-        <link href="https://news.ycombinator.com/item?id=30873211"/>
-        <updated>2022-03-31T23:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Fake Emergency Search Warrants Draw Scrutiny from Capitol Hill]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年湾区委员会民意调查显示，对犯罪和安全的关注度大增]]></title>
-        <id>https://news.ycombinator.com/item?id=30873200</id>
-        <link href="https://news.ycombinator.com/item?id=30873200"/>
-        <updated>2022-03-31T22:59:59.000Z</updated>
-        <summary type="html"><![CDATA[2022 Bay Area Council Poll Registers Big Jump in Concerns about Crime and Safety]]></summary>
-        <author>
-            <name>tlogan</name>
-            <uri>https://news.ycombinator.com/user?id=tlogan</uri>
         </author>
     </entry>
 </feed>
