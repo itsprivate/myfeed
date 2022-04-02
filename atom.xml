@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T18:54:13.006Z</updated>
+    <updated>2022-04-02T19:10:42.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[飞越Giga Berlin]]></title>
+        <id>https://news.ycombinator.com/item?id=30890703</id>
+        <link href="https://news.ycombinator.com/item?id=30890703"/>
+        <updated>2022-04-02T18:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Flying Through Giga Berlin]]></summary>
+        <author>
+            <name>tomcam</name>
+            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷你电话]]></title>
+        <id>https://news.ycombinator.com/item?id=30890404</id>
+        <link href="https://news.ycombinator.com/item?id=30890404"/>
+        <updated>2022-04-02T18:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Minitel]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洛杉矶法官裁定LGBT企业多样性法违宪]]></title>
         <id>https://news.ycombinator.com/item?id=30890674</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Ambolia</name>
             <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习数学？像漫画家一样思考]]></title>
-        <id>https://news.ycombinator.com/item?id=30876342</id>
-        <link href="https://news.ycombinator.com/item?id=30876342"/>
-        <updated>2022-04-01T08:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Learning math? Think like a cartoonist]]></summary>
-        <author>
-            <name>freeCandy</name>
-            <uri>https://news.ycombinator.com/user?id=freeCandy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不应使用PCA进行特征选择的5个原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30876293</id>
-        <link href="https://news.ycombinator.com/item?id=30876293"/>
-        <updated>2022-04-01T08:37:59.000Z</updated>
-        <summary type="html"><![CDATA[5 Reasons You Should Never Use PCA for Feature Selection]]></summary>
-        <author>
-            <name>leonry</name>
-            <uri>https://news.ycombinator.com/user?id=leonry</uri>
         </author>
     </entry>
 </feed>
