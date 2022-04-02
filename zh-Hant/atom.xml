@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T21:30:37.282Z</updated>
+    <updated>2022-04-02T21:38:54.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巨大的流星爆炸震撼了印第安納州，帶來驚喜的轟鳴聲]]></title>
+        <id>https://news.ycombinator.com/item?id=30891866</id>
+        <link href="https://news.ycombinator.com/item?id=30891866"/>
+        <updated>2022-04-02T21:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Loud meteor explosion shakes Indiana with surprise boom]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更好地設計字體格式，第一部分：無聊的擴展]]></title>
         <id>https://news.ycombinator.com/item?id=30891760</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為PHP 8.1應用程序建立一個開發Docker設置]]></title>
-        <id>https://news.ycombinator.com/item?id=30876768</id>
-        <link href="https://news.ycombinator.com/item?id=30876768"/>
-        <updated>2022-04-01T10:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Building a development Docker setup for PHP 8.1 Applications]]></summary>
-        <author>
-            <name>Hirnhamster</name>
-            <uri>https://news.ycombinator.com/user?id=Hirnhamster</uri>
         </author>
     </entry>
 </feed>

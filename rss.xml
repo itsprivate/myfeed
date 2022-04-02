@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 21:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[巨大的流星爆炸震撼了印第安纳州，带来惊喜的轰鸣声]]></title>
+            <link>https://news.ycombinator.com/item?id=30891866</link>
+            <guid>https://news.ycombinator.com/item?id=30891866</guid>
+            <pubDate>Sat, 02 Apr 2022 21:31:46 GMT</pubDate>
+            <description><![CDATA[Loud meteor explosion shakes Indiana with surprise boom]]></description>
+        </item>
         <item>
             <title><![CDATA[更好地设计字体格式，第一部分：无聊的扩展]]></title>
             <link>https://news.ycombinator.com/item?id=30891760</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30876895</guid>
             <pubDate>Fri, 01 Apr 2022 10:51:46 GMT</pubDate>
             <description><![CDATA[Pi Search – find any given number in the digits of pi]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为PHP 8.1应用程序建立一个开发Docker设置]]></title>
-            <link>https://news.ycombinator.com/item?id=30876768</link>
-            <guid>https://news.ycombinator.com/item?id=30876768</guid>
-            <pubDate>Fri, 01 Apr 2022 10:30:03 GMT</pubDate>
-            <description><![CDATA[Building a development Docker setup for PHP 8.1 Applications]]></description>
         </item>
     </channel>
 </rss>
