@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T10:44:52.609Z</updated>
+    <updated>2022-04-02T11:11:40.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京犯了希特勒入侵苏联时注定的同样错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30887192</id>
+        <link href="https://news.ycombinator.com/item?id=30887192"/>
+        <updated>2022-04-02T10:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Putin making same mistakes that doomed Hitler when he invaded the Soviet Union]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将查询性能提高10000倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30887183</id>
+        <link href="https://news.ycombinator.com/item?id=30887183"/>
+        <updated>2022-04-02T10:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Improving Query Performance by 10000x]]></summary>
+        <author>
+            <name>nraf</name>
+            <uri>https://news.ycombinator.com/user?id=nraf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两天无会议，提高生产力、自主性和满意度]]></title>
+        <id>https://news.ycombinator.com/item?id=30886430</id>
+        <link href="https://news.ycombinator.com/item?id=30886430"/>
+        <updated>2022-04-02T07:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Two meeting-free days increases productivity, autonomy and satisfaction]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与Nextcloud/ownCloud集成的纯文本文件Markdown记事本]]></title>
+        <id>https://news.ycombinator.com/item?id=30886353</id>
+        <link href="https://news.ycombinator.com/item?id=30886353"/>
+        <updated>2022-04-02T06:55:52.000Z</updated>
+        <summary type="html"><![CDATA[A plain-text file Markdown note-taking with Nextcloud / ownCloud integration]]></summary>
+        <author>
+            <name>pndy</name>
+            <uri>https://news.ycombinator.com/user?id=pndy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所以这就是导致 "闪电式崩溃"（2015年）的原因。]]></title>
         <id>https://news.ycombinator.com/item?id=30887154</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>indigodaddy</name>
             <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[七十年后，1950年的人口普查揭示了它的秘密]]></title>
-        <id>https://news.ycombinator.com/item?id=30873452</id>
-        <link href="https://news.ycombinator.com/item?id=30873452"/>
-        <updated>2022-03-31T23:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Seven Decades Later, the 1950 Census Bares Its Secrets]]></summary>
-        <author>
-            <name>akhmatova</name>
-            <uri>https://news.ycombinator.com/user?id=akhmatova</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2年期/10年期国债收益率曲线已经倒挂]]></title>
-        <id>https://news.ycombinator.com/item?id=30873445</id>
-        <link href="https://news.ycombinator.com/item?id=30873445"/>
-        <updated>2022-03-31T23:29:26.000Z</updated>
-        <summary type="html"><![CDATA[The 2-yr/10-yr treasury yields curve has inverted]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有缩略图预览和链接细节的黑客新闻界面]]></title>
-        <id>https://news.ycombinator.com/item?id=30873438</id>
-        <link href="https://news.ycombinator.com/item?id=30873438"/>
-        <updated>2022-03-31T23:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News interface with thumbnail previews plus details about links]]></summary>
-        <author>
-            <name>timoteostewart</name>
-            <uri>https://news.ycombinator.com/user?id=timoteostewart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04（Jammy Jellyfish）最终测试版发布 - Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=30873378</id>
-        <link href="https://news.ycombinator.com/item?id=30873378"/>
-        <updated>2022-03-31T23:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 (Jammy Jellyfish) Final Beta Released – Linux]]></summary>
-        <author>
-            <name>neustradamus</name>
-            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
         </author>
     </entry>
 </feed>
