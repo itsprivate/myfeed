@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 22:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 23:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[赌场资本主义，字面意思是（2021）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30892357</link>
+            <guid>https://news.ycombinator.com/item?id=30892357</guid>
+            <pubDate>Sat, 02 Apr 2022 22:47:00 GMT</pubDate>
+            <description><![CDATA[Casino capitalism, literally (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[因房东偷窥夫妇而提起的Airbnb诉讼被提交给仲裁员]]></title>
+            <link>https://news.ycombinator.com/item?id=30892352</link>
+            <guid>https://news.ycombinator.com/item?id=30892352</guid>
+            <pubDate>Sat, 02 Apr 2022 22:46:35 GMT</pubDate>
+            <description><![CDATA[Airbnb Suit over Host’s Spying on Couple Goes to Arbitrator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Fedora内核5.17、CoreOS、云、物联网和音频测试日做出贡献]]></title>
+            <link>https://news.ycombinator.com/item?id=30892067</link>
+            <guid>https://news.ycombinator.com/item?id=30892067</guid>
+            <pubDate>Sat, 02 Apr 2022 22:04:07 GMT</pubDate>
+            <description><![CDATA[Contribute at the Fedora Kernel 5.17, CoreOS, Cloud, IoT, and Audio Test Days]]></description>
+        </item>
         <item>
             <title><![CDATA["布卡看起来像新的斯雷布雷尼察"]]></title>
             <link>https://news.ycombinator.com/item?id=30892242</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877627</guid>
             <pubDate>Fri, 01 Apr 2022 12:54:17 GMT</pubDate>
             <description><![CDATA[Polar Coordinate Etch-a-Sketch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[时空真的要毁灭了吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30877595</link>
-            <guid>https://news.ycombinator.com/item?id=30877595</guid>
-            <pubDate>Fri, 01 Apr 2022 12:47:43 GMT</pubDate>
-            <description><![CDATA[Is Space-Time Really Doomed?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自动化工具增加了对图灵完整YAML的支持]]></title>
-            <link>https://news.ycombinator.com/item?id=30877410</link>
-            <guid>https://news.ycombinator.com/item?id=30877410</guid>
-            <pubDate>Fri, 01 Apr 2022 12:17:38 GMT</pubDate>
-            <description><![CDATA[Automation tool adds support for Turing-complete YAML]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Code 2021的来临，使用Ivy, Awk, Perl, Go, Prolog]]></title>
-            <link>https://news.ycombinator.com/item?id=30877114</link>
-            <guid>https://news.ycombinator.com/item?id=30877114</guid>
-            <pubDate>Fri, 01 Apr 2022 11:31:09 GMT</pubDate>
-            <description><![CDATA[Advent of Code 2021 Using Ivy, Awk, Perl, Go, Prolog]]></description>
         </item>
     </channel>
 </rss>

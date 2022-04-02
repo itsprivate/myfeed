@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T22:51:46.112Z</updated>
+    <updated>2022-04-02T23:12:31.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[賭場資本主義，字面意思是（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30892357</id>
+        <link href="https://news.ycombinator.com/item?id=30892357"/>
+        <updated>2022-04-02T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Casino capitalism, literally (2021)]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因房東偷窺夫婦而提起的Airbnb訴訟被提交給仲裁員]]></title>
+        <id>https://news.ycombinator.com/item?id=30892352</id>
+        <link href="https://news.ycombinator.com/item?id=30892352"/>
+        <updated>2022-04-02T22:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb Suit over Host’s Spying on Couple Goes to Arbitrator]]></summary>
+        <author>
+            <name>adrianhoward</name>
+            <uri>https://news.ycombinator.com/user?id=adrianhoward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Fedora內核5.17、CoreOS、雲、物聯網和音頻測試日做出貢獻]]></title>
+        <id>https://news.ycombinator.com/item?id=30892067</id>
+        <link href="https://news.ycombinator.com/item?id=30892067"/>
+        <updated>2022-04-02T22:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Contribute at the Fedora Kernel 5.17, CoreOS, Cloud, IoT, and Audio Test Days]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["布卡看起來像新的斯雷布雷尼察"]]></title>
         <id>https://news.ycombinator.com/item?id=30892242</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>DriftRegion</name>
             <uri>https://news.ycombinator.com/user?id=DriftRegion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時空真的要毀滅了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30877595</id>
-        <link href="https://news.ycombinator.com/item?id=30877595"/>
-        <updated>2022-04-01T12:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Is Space-Time Really Doomed?]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動化工具增加了對圖靈完整YAML的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30877410</id>
-        <link href="https://news.ycombinator.com/item?id=30877410"/>
-        <updated>2022-04-01T12:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Automation tool adds support for Turing-complete YAML]]></summary>
-        <author>
-            <name>nickthecook</name>
-            <uri>https://news.ycombinator.com/user?id=nickthecook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code 2021的來臨，使用Ivy, Awk, Perl, Go, Prolog]]></title>
-        <id>https://news.ycombinator.com/item?id=30877114</id>
-        <link href="https://news.ycombinator.com/item?id=30877114"/>
-        <updated>2022-04-01T11:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Advent of Code 2021 Using Ivy, Awk, Perl, Go, Prolog]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
