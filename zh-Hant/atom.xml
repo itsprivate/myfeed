@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T18:15:02.344Z</updated>
+    <updated>2022-04-02T18:36:51.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洛杉磯同意花費30億美元安置無家可歸的居民]]></title>
+        <id>https://news.ycombinator.com/item?id=30890443</id>
+        <link href="https://news.ycombinator.com/item?id=30890443"/>
+        <updated>2022-04-02T18:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Los Angeles agrees to spend $3B to house homeless residents]]></summary>
+        <author>
+            <name>MilnerRoute</name>
+            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[傑克-多爾西在網絡上]]></title>
+        <id>https://news.ycombinator.com/item?id=30890356</id>
+        <link href="https://news.ycombinator.com/item?id=30890356"/>
+        <updated>2022-04-02T18:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Jack Dorsey on the Web]]></summary>
+        <author>
+            <name>imraj96</name>
+            <uri>https://news.ycombinator.com/user?id=imraj96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要在btrfs snapshotter中使用containerd]]></title>
+        <id>https://news.ycombinator.com/item?id=30890354</id>
+        <link href="https://news.ycombinator.com/item?id=30890354"/>
+        <updated>2022-04-02T18:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Don't use containerd with the btrfs snapshotter]]></summary>
+        <author>
+            <name>jacksgt</name>
+            <uri>https://news.ycombinator.com/user?id=jacksgt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秘密機器人基地]]></title>
+        <id>https://news.ycombinator.com/item?id=30890190</id>
+        <link href="https://news.ycombinator.com/item?id=30890190"/>
+        <updated>2022-04-02T17:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Secret Robot Base]]></summary>
+        <author>
+            <name>paulinko_</name>
+            <uri>https://news.ycombinator.com/user?id=paulinko_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用變形金剛和Gradio創建一個聊天機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=30890189</id>
+        <link href="https://news.ycombinator.com/item?id=30890189"/>
+        <updated>2022-04-02T17:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Creating a Chatbot with Transformers and Gradio]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：愛德華-斯諾登在俄羅斯入侵烏克蘭開始後沒有發過推特]]></title>
         <id>https://news.ycombinator.com/item?id=30890304</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>davidgerard</name>
             <uri>https://news.ycombinator.com/user?id=davidgerard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月份通貨膨脹率攀升至近12%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30876126</id>
-        <link href="https://news.ycombinator.com/item?id=30876126"/>
-        <updated>2022-04-01T08:04:05.000Z</updated>
-        <summary type="html"><![CDATA[Inflation climbed to nearly 12 percent in March]]></summary>
-        <author>
-            <name>the-dude</name>
-            <uri>https://news.ycombinator.com/user?id=the-dude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美聯儲警告說 "美國住房泡沫正在醞釀"]]></title>
-        <id>https://news.ycombinator.com/item?id=30876124</id>
-        <link href="https://news.ycombinator.com/item?id=30876124"/>
-        <updated>2022-04-01T08:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Federal Reserve warns of “brewing U.S. housing bubble”]]></summary>
-        <author>
-            <name>amznbyebyebye</name>
-            <uri>https://news.ycombinator.com/user?id=amznbyebyebye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯黑客針對北約和東歐軍方 - 谷歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30876055</id>
-        <link href="https://news.ycombinator.com/item?id=30876055"/>
-        <updated>2022-04-01T07:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Russian hackers targeted NATO, eastern European militaries – Google]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modos紙質筆記本電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=30875437</id>
-        <link href="https://news.ycombinator.com/item?id=30875437"/>
-        <updated>2022-04-01T05:26:14.000Z</updated>
-        <summary type="html"><![CDATA[The Modos Paper Laptop]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賣出（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30876228</id>
-        <link href="https://news.ycombinator.com/item?id=30876228"/>
-        <updated>2022-04-01T08:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Sell Outs (2021)]]></summary>
-        <author>
-            <name>k1ll3r</name>
-            <uri>https://news.ycombinator.com/user?id=k1ll3r</uri>
         </author>
     </entry>
 </feed>
