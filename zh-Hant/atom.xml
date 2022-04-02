@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T22:12:31.177Z</updated>
+    <updated>2022-04-02T22:31:59.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[W. 杜波依斯手繪的非洲裔美國人生活信息圖（1900年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30892157</id>
+        <link href="https://news.ycombinator.com/item?id=30892157"/>
+        <updated>2022-04-02T22:16:36.000Z</updated>
+        <summary type="html"><![CDATA[W. E. B. Du Bois' Hand-Drawn Infographics of African-American Life (1900)]]></summary>
+        <author>
+            <name>severine</name>
+            <uri>https://news.ycombinator.com/user?id=severine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿爾比尼寫給涅槃的信]]></title>
+        <id>https://news.ycombinator.com/item?id=30892081</id>
+        <link href="https://news.ycombinator.com/item?id=30892081"/>
+        <updated>2022-04-02T22:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Albini Writing to Nirvana]]></summary>
+        <author>
+            <name>sanj</name>
+            <uri>https://news.ycombinator.com/user?id=sanj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可怕的 "美德信號 "的崛起(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30892075</id>
+        <link href="https://news.ycombinator.com/item?id=30892075"/>
+        <updated>2022-04-02T22:04:54.000Z</updated>
+        <summary type="html"><![CDATA[The awful rise of ‘virtue signalling’ (2018)]]></summary>
+        <author>
+            <name>t0bia_s</name>
+            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於鏈接器腳本，你從未想過要知道的一切]]></title>
         <id>https://news.ycombinator.com/item?id=30891968</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBPF - 硬件中的eBPF]]></title>
-        <id>https://news.ycombinator.com/item?id=30877449</id>
-        <link href="https://news.ycombinator.com/item?id=30877449"/>
-        <updated>2022-04-01T12:22:54.000Z</updated>
-        <summary type="html"><![CDATA[HBPF – eBPF in Hardware]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIGImend。改進Linux對圖形板的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30877448</id>
-        <link href="https://news.ycombinator.com/item?id=30877448"/>
-        <updated>2022-04-01T12:22:52.000Z</updated>
-        <summary type="html"><![CDATA[DIGImend: Improving Linux support for graphics tablets]]></summary>
-        <author>
-            <name>simos</name>
-            <uri>https://news.ycombinator.com/user?id=simos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維薩特公司證實衛星調制解調器被AcidRain惡意軟件抹掉了]]></title>
-        <id>https://news.ycombinator.com/item?id=30877424</id>
-        <link href="https://news.ycombinator.com/item?id=30877424"/>
-        <updated>2022-04-01T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Viasat confirms satellite modems were wiped with AcidRain malware]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
         </author>
     </entry>
 </feed>
