@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T09:31:29.627Z</updated>
+    <updated>2022-04-02T09:51:10.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逐步将Python代码迁移到asyncio上]]></title>
+        <id>https://news.ycombinator.com/item?id=30886927</id>
+        <link href="https://news.ycombinator.com/item?id=30886927"/>
+        <updated>2022-04-02T09:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Gradually migrating Python code to asyncio]]></summary>
+        <author>
+            <name>erwald</name>
+            <uri>https://news.ycombinator.com/user?id=erwald</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港的研究人员创造了由磁性粘液制成的 "软体机器人"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30886445</id>
+        <link href="https://news.ycombinator.com/item?id=30886445"/>
+        <updated>2022-04-02T07:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Researchers in Hong Kong create ‘soft robot’ made of magnetic slime]]></summary>
+        <author>
+            <name>playpause</name>
+            <uri>https://news.ycombinator.com/user?id=playpause</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1923年的男子谈起他在19世纪60年代的童年]]></title>
         <id>https://news.ycombinator.com/item?id=30886892</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C代码(暴力)]]></title>
-        <id>https://news.ycombinator.com/item?id=30873098</id>
-        <link href="https://news.ycombinator.com/item?id=30873098"/>
-        <updated>2022-03-31T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[C Code (Violence)]]></summary>
-        <author>
-            <name>rickrollin</name>
-            <uri>https://news.ycombinator.com/user?id=rickrollin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年的README评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30873042</id>
-        <link href="https://news.ycombinator.com/item?id=30873042"/>
-        <updated>2022-03-31T22:41:31.000Z</updated>
-        <summary type="html"><![CDATA[A Year of README Reviews]]></summary>
-        <author>
-            <name>thcipriani</name>
-            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
         </author>
     </entry>
 </feed>
