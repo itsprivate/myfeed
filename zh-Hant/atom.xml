@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T06:38:53.677Z</updated>
+    <updated>2022-04-02T06:56:33.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一切 - 按名稱即時定位文件和文件夾]]></title>
+        <id>https://news.ycombinator.com/item?id=30886296</id>
+        <link href="https://news.ycombinator.com/item?id=30886296"/>
+        <updated>2022-04-02T06:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Everything – locate files and folders by name instantly]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我不關心谷歌或蘋果或誰做了什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=30886264</id>
+        <link href="https://news.ycombinator.com/item?id=30886264"/>
+        <updated>2022-04-02T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[I Don’t Care What Google or Apple or Whoever Did]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭東部小幅撤軍標誌著澤倫斯基的蜜月期結束]]></title>
+        <id>https://news.ycombinator.com/item?id=30885853</id>
+        <link href="https://news.ycombinator.com/item?id=30885853"/>
+        <updated>2022-04-02T04:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Minor troop pullback in eastern Ukraine marks end of Zelensky’s honeymoon]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在r/place上的YC標誌？]]></title>
         <id>https://news.ycombinator.com/item?id=30886188</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>matt_d</name>
             <uri>https://news.ycombinator.com/user?id=matt_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[匿名推特賬戶翻譯中國關於烏克蘭戰爭的宣傳品]]></title>
-        <id>https://news.ycombinator.com/item?id=30872496</id>
-        <link href="https://news.ycombinator.com/item?id=30872496"/>
-        <updated>2022-03-31T21:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Anonymous Twitter account translating Chinese propaganda about the Ukraine war]]></summary>
-        <author>
-            <name>z3t111</name>
-            <uri>https://news.ycombinator.com/user?id=z3t111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超級馬里奧兄弟中的谷巴的起源]]></title>
-        <id>https://news.ycombinator.com/item?id=30872493</id>
-        <link href="https://news.ycombinator.com/item?id=30872493"/>
-        <updated>2022-03-31T21:40:23.000Z</updated>
-        <summary type="html"><![CDATA[Origins of Goomba from Super Mario Bros]]></summary>
-        <author>
-            <name>retrocoder</name>
-            <uri>https://news.ycombinator.com/user?id=retrocoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript中的功能編程]]></title>
-        <id>https://news.ycombinator.com/item?id=30872884</id>
-        <link href="https://news.ycombinator.com/item?id=30872884"/>
-        <updated>2022-03-31T22:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Functional Programming in TypeScript]]></summary>
-        <author>
-            <name>NaeosPsy</name>
-            <uri>https://news.ycombinator.com/user?id=NaeosPsy</uri>
         </author>
     </entry>
 </feed>
