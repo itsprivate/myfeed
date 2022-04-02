@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T17:43:04.517Z</updated>
+    <updated>2022-04-02T17:51:57.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的網站只做了純文本]]></title>
+        <id>https://news.ycombinator.com/item?id=30890060</id>
+        <link href="https://news.ycombinator.com/item?id=30890060"/>
+        <updated>2022-04-02T17:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made my website plain text only]]></summary>
+        <author>
+            <name>aswinmohanme</name>
+            <uri>https://news.ycombinator.com/user?id=aswinmohanme</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防禦空襲的實用建議 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30890001</id>
+        <link href="https://news.ycombinator.com/item?id=30890001"/>
+        <updated>2022-04-02T17:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Practical advice for protection from aerial attacks [pdf]]]></summary>
+        <author>
+            <name>LichenStone</name>
+            <uri>https://news.ycombinator.com/user?id=LichenStone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite數據庫文件格式]]></title>
+        <id>https://news.ycombinator.com/item?id=30889838</id>
+        <link href="https://news.ycombinator.com/item?id=30889838"/>
+        <updated>2022-04-02T17:11:45.000Z</updated>
+        <summary type="html"><![CDATA[SQLite Database File Format]]></summary>
+        <author>
+            <name>rdpintqogeogsaa</name>
+            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[製作中的狀態圖。個人陳述 (2007) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30889796</id>
+        <link href="https://news.ycombinator.com/item?id=30889796"/>
+        <updated>2022-04-02T17:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Statecharts in the Making: A Personal Account (2007) [pdf]]]></summary>
+        <author>
+            <name>Cieplak</name>
+            <uri>https://news.ycombinator.com/user?id=Cieplak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafkajs - 一個用於Node.js的現代Apache Kafka客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30889175</id>
+        <link href="https://news.ycombinator.com/item?id=30889175"/>
+        <updated>2022-04-02T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Kafkajs – A modern Apache Kafka client for Node.js]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoPuff收購BevMo的原因]]></title>
         <id>https://news.ycombinator.com/item?id=30889802</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThoughtLog。免費的自動日記]]></title>
-        <id>https://news.ycombinator.com/item?id=30875348</id>
-        <link href="https://news.ycombinator.com/item?id=30875348"/>
-        <updated>2022-04-01T05:05:45.000Z</updated>
-        <summary type="html"><![CDATA[ThoughtLog: The Free Automatic Diary]]></summary>
-        <author>
-            <name>jmugan</name>
-            <uri>https://news.ycombinator.com/user?id=jmugan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭打擊俄羅斯別爾哥羅德的燃料庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30876062</id>
-        <link href="https://news.ycombinator.com/item?id=30876062"/>
-        <updated>2022-04-01T07:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine strikes fuel depot in Russia's Belgorod]]></summary>
-        <author>
-            <name>chemodax</name>
-            <uri>https://news.ycombinator.com/user?id=chemodax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異步通信。遠程工作者更有效率的真正原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30875997</id>
-        <link href="https://news.ycombinator.com/item?id=30875997"/>
-        <updated>2022-04-01T07:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Asynchronous Communication: The Real Reason Remote Workers Are More Productive]]></summary>
-        <author>
-            <name>islon</name>
-            <uri>https://news.ycombinator.com/user?id=islon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建一個協作性的、消失的遠程瀏覽器]]></title>
-        <id>https://news.ycombinator.com/item?id=30876006</id>
-        <link href="https://news.ycombinator.com/item?id=30876006"/>
-        <updated>2022-04-01T07:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Building a Collaborative and Evanescent Remote Browser]]></summary>
-        <author>
-            <name>pgo</name>
-            <uri>https://news.ycombinator.com/user?id=pgo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吶喊認證的敏捷大師]]></title>
-        <id>https://news.ycombinator.com/item?id=30875960</id>
-        <link href="https://news.ycombinator.com/item?id=30875960"/>
-        <updated>2022-04-01T07:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Scream Certified Agile Master]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
         </author>
     </entry>
 </feed>
