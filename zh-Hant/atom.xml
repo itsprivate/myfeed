@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T14:29:18.622Z</updated>
+    <updated>2022-04-02T14:38:10.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國多個城市的年輕女性收入超過年輕男性]]></title>
+        <id>https://news.ycombinator.com/item?id=30888488</id>
+        <link href="https://news.ycombinator.com/item?id=30888488"/>
+        <updated>2022-04-02T14:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Young women are out-earning young men in several U.S. cities]]></summary>
+        <author>
+            <name>falafelite</name>
+            <uri>https://news.ycombinator.com/user?id=falafelite</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我不相信長期思維]]></title>
+        <id>https://news.ycombinator.com/item?id=30888449</id>
+        <link href="https://news.ycombinator.com/item?id=30888449"/>
+        <updated>2022-04-02T14:15:39.000Z</updated>
+        <summary type="html"><![CDATA[I don't believe in long-term thinking]]></summary>
+        <author>
+            <name>jiri</name>
+            <uri>https://news.ycombinator.com/user?id=jiri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷一天兩塊牛排 (2006)]]></title>
+        <id>https://news.ycombinator.com/item?id=30888409</id>
+        <link href="https://news.ycombinator.com/item?id=30888409"/>
+        <updated>2022-04-02T14:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Argentina on Two Steaks a Day (2006)]]></summary>
+        <author>
+            <name>Ariarule</name>
+            <uri>https://news.ycombinator.com/user?id=Ariarule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿波羅工作站的生存指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30888245</id>
+        <link href="https://news.ycombinator.com/item?id=30888245"/>
+        <updated>2022-04-02T13:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Survival Guide for Apollo Workstations]]></summary>
+        <author>
+            <name>nickt</name>
+            <uri>https://news.ycombinator.com/user?id=nickt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭無人機愛好者探測到俄羅斯軍隊]]></title>
+        <id>https://news.ycombinator.com/item?id=30888195</id>
+        <link href="https://news.ycombinator.com/item?id=30888195"/>
+        <updated>2022-04-02T13:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian drone enthusiasts detect Russian forces]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設置和運行Minitel 2的MAME仿真系統]]></title>
         <id>https://news.ycombinator.com/item?id=30888451</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>vincentmarle</name>
             <uri>https://news.ycombinator.com/user?id=vincentmarle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們正在探究地球內部核心的秘密]]></title>
-        <id>https://news.ycombinator.com/item?id=30874254</id>
-        <link href="https://news.ycombinator.com/item?id=30874254"/>
-        <updated>2022-04-01T01:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Scientists are probing the secrets of the Earth's inner core]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊麗莎白-沃倫呼籲美國建立一個CBDC]]></title>
-        <id>https://news.ycombinator.com/item?id=30874230</id>
-        <link href="https://news.ycombinator.com/item?id=30874230"/>
-        <updated>2022-04-01T01:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Elizabeth Warren Calls for US to Create a CBDC]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越第二定律]]></title>
-        <id>https://news.ycombinator.com/item?id=30874107</id>
-        <link href="https://news.ycombinator.com/item?id=30874107"/>
-        <updated>2022-04-01T01:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Beyond the Second Law]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axum 0.5中的新內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30873885</id>
-        <link href="https://news.ycombinator.com/item?id=30873885"/>
-        <updated>2022-04-01T00:30:05.000Z</updated>
-        <summary type="html"><![CDATA[What's New in Axum 0.5]]></summary>
-        <author>
-            <name>lwhsiao</name>
-            <uri>https://news.ycombinator.com/user?id=lwhsiao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用C++創建一個遊戲物理引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30874632</id>
-        <link href="https://news.ycombinator.com/item?id=30874632"/>
-        <updated>2022-04-01T02:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Creating a Game Physics Engine with C++]]></summary>
-        <author>
-            <name>andreaginola</name>
-            <uri>https://news.ycombinator.com/user?id=andreaginola</uri>
         </author>
     </entry>
 </feed>
