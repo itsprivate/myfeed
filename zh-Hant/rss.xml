@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 04:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:59:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[來自中國的大流行病故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30885873</link>
+            <guid>https://news.ycombinator.com/item?id=30885873</guid>
+            <pubDate>Sat, 02 Apr 2022 04:39:03 GMT</pubDate>
+            <description><![CDATA[Pandemic Stories from China]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼不直接使用X？[視頻]]]></title>
+            <link>https://news.ycombinator.com/item?id=30885261</link>
+            <guid>https://news.ycombinator.com/item?id=30885261</guid>
+            <pubDate>Sat, 02 Apr 2022 02:05:50 GMT</pubDate>
+            <description><![CDATA[Why Not Just Use X? [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[Fresh - 帶有內置FASM彙編器的可視化彙編語言IDE]]></title>
             <link>https://news.ycombinator.com/item?id=30885786</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30872245</guid>
             <pubDate>Thu, 31 Mar 2022 21:11:42 GMT</pubDate>
             <description><![CDATA[StarSpace: General neural model for efficient learning of entity embeddings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[陶哲軒解決數學問題的技巧]]></title>
-            <link>https://news.ycombinator.com/item?id=30872382</link>
-            <guid>https://news.ycombinator.com/item?id=30872382</guid>
-            <pubDate>Thu, 31 Mar 2022 21:25:28 GMT</pubDate>
-            <description><![CDATA[Terence Tao’s Tips for Mathematical Problem-Solving]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloud66靜態網站。像Netlify但在任何雲上]]></title>
-            <link>https://news.ycombinator.com/item?id=30872377</link>
-            <guid>https://news.ycombinator.com/item?id=30872377</guid>
-            <pubDate>Thu, 31 Mar 2022 21:24:43 GMT</pubDate>
-            <description><![CDATA[Cloud66 static sites: Like Netlify but on any cloud]]></description>
         </item>
     </channel>
 </rss>

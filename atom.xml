@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T04:40:39.045Z</updated>
+    <updated>2022-04-02T04:59:22.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自中国的大流行病故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30885873</id>
+        <link href="https://news.ycombinator.com/item?id=30885873"/>
+        <updated>2022-04-02T04:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Pandemic Stories from China]]></summary>
+        <author>
+            <name>mrintellectual</name>
+            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不直接使用X？[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30885261</id>
+        <link href="https://news.ycombinator.com/item?id=30885261"/>
+        <updated>2022-04-02T02:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Why Not Just Use X? [video]]]></summary>
+        <author>
+            <name>easton</name>
+            <uri>https://news.ycombinator.com/user?id=easton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 带有内置FASM汇编器的可视化汇编语言IDE]]></title>
         <id>https://news.ycombinator.com/item?id=30885786</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>denimboy</name>
             <uri>https://news.ycombinator.com/user?id=denimboy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陶哲轩解决数学问题的技巧]]></title>
-        <id>https://news.ycombinator.com/item?id=30872382</id>
-        <link href="https://news.ycombinator.com/item?id=30872382"/>
-        <updated>2022-03-31T21:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Terence Tao’s Tips for Mathematical Problem-Solving]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud66静态网站。像Netlify但在任何云上]]></title>
-        <id>https://news.ycombinator.com/item?id=30872377</id>
-        <link href="https://news.ycombinator.com/item?id=30872377"/>
-        <updated>2022-03-31T21:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Cloud66 static sites: Like Netlify but on any cloud]]></summary>
-        <author>
-            <name>sethherr</name>
-            <uri>https://news.ycombinator.com/user?id=sethherr</uri>
         </author>
     </entry>
 </feed>
