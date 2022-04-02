@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T11:11:40.434Z</updated>
+    <updated>2022-04-02T11:28:35.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[僱員回到辦公室，只是為了坐著打放大電話]]></title>
+        <id>https://news.ycombinator.com/item?id=30887290</id>
+        <link href="https://news.ycombinator.com/item?id=30887290"/>
+        <updated>2022-04-02T11:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Employees Are Returning to the Office, Just to Sit on Zoom Calls]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用RocksDB在曼哈頓的數據傳輸]]></title>
+        <id>https://news.ycombinator.com/item?id=30887091</id>
+        <link href="https://news.ycombinator.com/item?id=30887091"/>
+        <updated>2022-04-02T10:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Data transfer in Manhattan using RocksDB]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旗幟表情符號的過去和未來]]></title>
+        <id>https://news.ycombinator.com/item?id=30887058</id>
+        <link href="https://news.ycombinator.com/item?id=30887058"/>
+        <updated>2022-04-02T10:03:15.000Z</updated>
+        <summary type="html"><![CDATA[The Past and Future of Flag Emoji]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京犯了希特勒入侵蘇聯時註定的同樣錯誤]]></title>
         <id>https://news.ycombinator.com/item?id=30887192</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維護Jsch的叉子]]></title>
-        <id>https://news.ycombinator.com/item?id=30873512</id>
-        <link href="https://news.ycombinator.com/item?id=30873512"/>
-        <updated>2022-03-31T23:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Maintained Fork of Jsch]]></summary>
-        <author>
-            <name>newman314</name>
-            <uri>https://news.ycombinator.com/user?id=newman314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件專利應被廢除 (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=30873502</id>
-        <link href="https://news.ycombinator.com/item?id=30873502"/>
-        <updated>2022-03-31T23:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Software patents should be abolished (2009)]]></summary>
-        <author>
-            <name>charsi</name>
-            <uri>https://news.ycombinator.com/user?id=charsi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌分佈式雲計算邊緣是普遍可用的]]></title>
-        <id>https://news.ycombinator.com/item?id=30873461</id>
-        <link href="https://news.ycombinator.com/item?id=30873461"/>
-        <updated>2022-03-31T23:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Google Distributed Cloud Edge is generally available]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
         </author>
     </entry>
 </feed>
