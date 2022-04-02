@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T07:37:34.891Z</updated>
+    <updated>2022-04-02T08:13:58.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["全球最智能的交通管理系统 "在澳大利亚推出]]></title>
+        <id>https://news.ycombinator.com/item?id=30886349</id>
+        <link href="https://news.ycombinator.com/item?id=30886349"/>
+        <updated>2022-04-02T06:55:05.000Z</updated>
+        <summary type="html"><![CDATA[“World's smartest traffic management system” launches in Australia]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ncdu - 一个带有ncurses接口的磁盘使用分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30886307</id>
+        <link href="https://news.ycombinator.com/item?id=30886307"/>
+        <updated>2022-04-02T06:46:08.000Z</updated>
+        <summary type="html"><![CDATA[ncdu – a disk usage analyzer with an ncurses interface]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于理解]]></title>
+        <id>https://news.ycombinator.com/item?id=30885310</id>
+        <link href="https://news.ycombinator.com/item?id=30885310"/>
+        <updated>2022-04-02T02:15:59.000Z</updated>
+        <summary type="html"><![CDATA[On Understanding]]></summary>
+        <author>
+            <name>bspear</name>
+            <uri>https://news.ycombinator.com/user?id=bspear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DuckDuckGo "降低 "俄罗斯虚假信息的排名。用户不高兴了]]></title>
         <id>https://news.ycombinator.com/item?id=30886446</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>CrankyBear</name>
             <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类基因组终于被完全测序了]]></title>
-        <id>https://news.ycombinator.com/item?id=30872974</id>
-        <link href="https://news.ycombinator.com/item?id=30872974"/>
-        <updated>2022-03-31T22:33:39.000Z</updated>
-        <summary type="html"><![CDATA[The Human Genome Is Finally Fully Sequenced]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向信息技术系统的漏洞投掷尸体]]></title>
-        <id>https://news.ycombinator.com/item?id=30872941</id>
-        <link href="https://news.ycombinator.com/item?id=30872941"/>
-        <updated>2022-03-31T22:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Throwing Bodies at Gaps in I.T. Systems]]></summary>
-        <author>
-            <name>awestrom</name>
-            <uri>https://news.ycombinator.com/user?id=awestrom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子称自己黑进航空公司网站寻找丢失的行李]]></title>
-        <id>https://news.ycombinator.com/item?id=30872870</id>
-        <link href="https://news.ycombinator.com/item?id=30872870"/>
-        <updated>2022-03-31T22:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Man says he hacked airline website to find lost luggage]]></summary>
-        <author>
-            <name>zikohh</name>
-            <uri>https://news.ycombinator.com/user?id=zikohh</uri>
         </author>
     </entry>
 </feed>
