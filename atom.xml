@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T10:13:42.325Z</updated>
+    <updated>2022-04-02T10:35:01.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在有一半的老年人在死亡时被诊断为痴呆症]]></title>
+        <id>https://news.ycombinator.com/item?id=30887070</id>
+        <link href="https://news.ycombinator.com/item?id=30887070"/>
+        <updated>2022-04-02T10:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Half of older adults now die with a dementia diagnosis]]></summary>
+        <author>
+            <name>nudpiedo</name>
+            <uri>https://news.ycombinator.com/user?id=nudpiedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈萨克斯坦总统提出改革以限制其权力]]></title>
         <id>https://news.ycombinator.com/item?id=30887029</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hhs</name>
             <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LightBrain - 一个紧凑且相对通用的灯光控制装置]]></title>
-        <id>https://news.ycombinator.com/item?id=30873062</id>
-        <link href="https://news.ycombinator.com/item?id=30873062"/>
-        <updated>2022-03-31T22:44:58.000Z</updated>
-        <summary type="html"><![CDATA[LightBrain – a compact and relatively versatile light control device]]></summary>
-        <author>
-            <name>bj-rn</name>
-            <uri>https://news.ycombinator.com/user?id=bj-rn</uri>
         </author>
     </entry>
 </feed>

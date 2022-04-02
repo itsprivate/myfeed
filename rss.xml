@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在有一半的老年人在死亡时被诊断为痴呆症]]></title>
+            <link>https://news.ycombinator.com/item?id=30887070</link>
+            <guid>https://news.ycombinator.com/item?id=30887070</guid>
+            <pubDate>Sat, 02 Apr 2022 10:08:06 GMT</pubDate>
+            <description><![CDATA[Half of older adults now die with a dementia diagnosis]]></description>
+        </item>
         <item>
             <title><![CDATA[哈萨克斯坦总统提出改革以限制其权力]]></title>
             <link>https://news.ycombinator.com/item?id=30887029</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30873312</guid>
             <pubDate>Thu, 31 Mar 2022 23:13:43 GMT</pubDate>
             <description><![CDATA[The imitation game 2.0: a race to build quantum computing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LightBrain - 一个紧凑且相对通用的灯光控制装置]]></title>
-            <link>https://news.ycombinator.com/item?id=30873062</link>
-            <guid>https://news.ycombinator.com/item?id=30873062</guid>
-            <pubDate>Thu, 31 Mar 2022 22:44:58 GMT</pubDate>
-            <description><![CDATA[LightBrain – a compact and relatively versatile light control device]]></description>
         </item>
     </channel>
 </rss>
