@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T11:36:36.915Z</updated>
+    <updated>2022-04-02T11:51:32.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些你從不使用的HTML屬性]]></title>
+        <id>https://news.ycombinator.com/item?id=30887445</id>
+        <link href="https://news.ycombinator.com/item?id=30887445"/>
+        <updated>2022-04-02T11:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Those HTML Attributes You Never Use]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機器人狗將在龐貝城巡邏]]></title>
+        <id>https://news.ycombinator.com/item?id=30887414</id>
+        <link href="https://news.ycombinator.com/item?id=30887414"/>
+        <updated>2022-04-02T11:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Robotic dog will be on patrol in Pompeii]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被動語態是什麼鬼（2018年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30887147</id>
+        <link href="https://news.ycombinator.com/item?id=30887147"/>
+        <updated>2022-04-02T10:28:41.000Z</updated>
+        <summary type="html"><![CDATA[What the hell the passive voice is (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Datetime.tools - 方便的日期和時間轉換]]></title>
         <id>https://news.ycombinator.com/item?id=30887355</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>enjoyyourlife</name>
             <uri>https://news.ycombinator.com/user?id=enjoyyourlife</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堆疊流過濾器]]></title>
-        <id>https://news.ycombinator.com/item?id=30873739</id>
-        <link href="https://news.ycombinator.com/item?id=30873739"/>
-        <updated>2022-04-01T00:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Stackoverflow Filters]]></summary>
-        <author>
-            <name>jabo</name>
-            <uri>https://news.ycombinator.com/user?id=jabo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔術師自己的書。電學實驗 (1862)]]></title>
-        <id>https://news.ycombinator.com/item?id=30873727</id>
-        <link href="https://news.ycombinator.com/item?id=30873727"/>
-        <updated>2022-04-01T00:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Magician's Own Book: Experiments in Electricity (1862)]]></summary>
-        <author>
-            <name>thomassmith65</name>
-            <uri>https://news.ycombinator.com/user?id=thomassmith65</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭最好的坦克旅在切爾尼戈夫戰役中獲勝]]></title>
-        <id>https://news.ycombinator.com/item?id=30873718</id>
-        <link href="https://news.ycombinator.com/item?id=30873718"/>
-        <updated>2022-04-01T00:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine’s Best Tank Brigade Has Won the Battle for Chernihiv]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
         </author>
     </entry>
 </feed>
