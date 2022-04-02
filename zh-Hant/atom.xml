@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T08:53:02.730Z</updated>
+    <updated>2022-04-02T09:11:59.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux-Xlnx - Xilinx的官方Linux內核]]></title>
+        <id>https://news.ycombinator.com/item?id=30886837</id>
+        <link href="https://news.ycombinator.com/item?id=30886837"/>
+        <updated>2022-04-02T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Linux-Xlnx – The official Linux kernel from Xilinx]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即使是古老的JavaScript也是一種比C更安全的整數編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30886797</id>
+        <link href="https://news.ycombinator.com/item?id=30886797"/>
+        <updated>2022-04-02T08:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Even ancient JavaScript is a safer language for integer programming than C]]></summary>
+        <author>
+            <name>atan2</name>
+            <uri>https://news.ycombinator.com/user?id=atan2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[觀察世界的殘局]]></title>
+        <id>https://news.ycombinator.com/item?id=30886610</id>
+        <link href="https://news.ycombinator.com/item?id=30886610"/>
+        <updated>2022-04-02T07:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Watching the World Wrecking]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跨越~8個時區的完全遠程啟動通信]]></title>
         <id>https://news.ycombinator.com/item?id=30886543</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tlogan</name>
             <uri>https://news.ycombinator.com/user?id=tlogan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洩露的文件表明Facebook可能少報了虐待兒童的圖像]]></title>
-        <id>https://news.ycombinator.com/item?id=30873191</id>
-        <link href="https://news.ycombinator.com/item?id=30873191"/>
-        <updated>2022-03-31T22:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Leaked document indicates Facebook may be underreporting images of child abuse]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只索引 "乾淨 "的技術相關網頁的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30873173</id>
-        <link href="https://news.ycombinator.com/item?id=30873173"/>
-        <updated>2022-03-31T22:56:20.000Z</updated>
-        <summary type="html"><![CDATA[The search engine that indexes only “clean” tech-related pages]]></summary>
-        <author>
-            <name>ajani</name>
-            <uri>https://news.ycombinator.com/user?id=ajani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試驗發現伊維菌素對科維德無能為力]]></title>
-        <id>https://news.ycombinator.com/item?id=30873132</id>
-        <link href="https://news.ycombinator.com/item?id=30873132"/>
-        <updated>2022-03-31T22:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Trial finds Ivermectin useless against Covid]]></summary>
-        <author>
-            <name>holografix</name>
-            <uri>https://news.ycombinator.com/user?id=holografix</uri>
         </author>
     </entry>
 </feed>
