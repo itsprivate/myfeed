@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 02 Apr 2022 22:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的感觉不是借口]]></title>
+            <link>https://news.ycombinator.com/item?id=30891895</link>
+            <guid>https://news.ycombinator.com/item?id=30891895</guid>
+            <pubDate>Sat, 02 Apr 2022 21:35:58 GMT</pubDate>
+            <description><![CDATA[Your Feelings Are No Excuse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SVG代码。一个使用WebAssembly将光栅图像转换为SVG矢量图的PWA]]></title>
+            <link>https://news.ycombinator.com/item?id=30891787</link>
+            <guid>https://news.ycombinator.com/item?id=30891787</guid>
+            <pubDate>Sat, 02 Apr 2022 21:21:31 GMT</pubDate>
+            <description><![CDATA[SVGcode: A PWA to convert raster images to SVG vector graphics using WebAssembly]]></description>
+        </item>
         <item>
             <title><![CDATA[W. 杜波依斯手绘的非洲裔美国人生活信息图（1900年）。]]></title>
             <link>https://news.ycombinator.com/item?id=30892157</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877562</guid>
             <pubDate>Fri, 01 Apr 2022 12:40:54 GMT</pubDate>
             <description><![CDATA[Ukrainians Repurpose Junkyards and Garages to Repair Battle-Damaged Tanks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cyclemoid--受周期性学习率启发的新激活函数]]></title>
-            <link>https://news.ycombinator.com/item?id=30877487</link>
-            <guid>https://news.ycombinator.com/item?id=30877487</guid>
-            <pubDate>Fri, 01 Apr 2022 12:29:01 GMT</pubDate>
-            <description><![CDATA[Cyclemoid – a new activation function inspired by cyclical learning rates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MacBook充电器拆解。苹果公司的电源适配器内部令人惊讶的复杂性]]></title>
-            <link>https://news.ycombinator.com/item?id=30877466</link>
-            <guid>https://news.ycombinator.com/item?id=30877466</guid>
-            <pubDate>Fri, 01 Apr 2022 12:26:15 GMT</pubDate>
-            <description><![CDATA[MacBook charger teardown: The surprising complexity inside Apple's power adapter]]></description>
         </item>
     </channel>
 </rss>

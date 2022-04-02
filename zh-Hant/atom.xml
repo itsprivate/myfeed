@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-02T22:31:59.539Z</updated>
+    <updated>2022-04-02T22:41:42.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的感覺不是藉口]]></title>
+        <id>https://news.ycombinator.com/item?id=30891895</id>
+        <link href="https://news.ycombinator.com/item?id=30891895"/>
+        <updated>2022-04-02T21:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Your Feelings Are No Excuse]]></summary>
+        <author>
+            <name>Jtsummers</name>
+            <uri>https://news.ycombinator.com/user?id=Jtsummers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG代碼。一個使用WebAssembly將光柵圖像轉換為SVG矢量圖的PWA]]></title>
+        <id>https://news.ycombinator.com/item?id=30891787</id>
+        <link href="https://news.ycombinator.com/item?id=30891787"/>
+        <updated>2022-04-02T21:21:31.000Z</updated>
+        <summary type="html"><![CDATA[SVGcode: A PWA to convert raster images to SVG vector graphics using WebAssembly]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W. 杜波依斯手繪的非洲裔美國人生活信息圖（1900年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30892157</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mariuz</name>
             <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyclemoid--受週期性學習率啟發的新激活函數]]></title>
-        <id>https://news.ycombinator.com/item?id=30877487</id>
-        <link href="https://news.ycombinator.com/item?id=30877487"/>
-        <updated>2022-04-01T12:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Cyclemoid – a new activation function inspired by cyclical learning rates]]></summary>
-        <author>
-            <name>sbbq</name>
-            <uri>https://news.ycombinator.com/user?id=sbbq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook充電器拆解。蘋果公司的電源適配器內部令人驚訝的複雜性]]></title>
-        <id>https://news.ycombinator.com/item?id=30877466</id>
-        <link href="https://news.ycombinator.com/item?id=30877466"/>
-        <updated>2022-04-01T12:26:15.000Z</updated>
-        <summary type="html"><![CDATA[MacBook charger teardown: The surprising complexity inside Apple's power adapter]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
