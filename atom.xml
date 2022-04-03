@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T23:32:17.204Z</updated>
+    <updated>2022-04-03T23:51:12.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯有影响力的人拼命维持他们的追随者]]></title>
+        <id>https://news.ycombinator.com/item?id=30900785</id>
+        <link href="https://news.ycombinator.com/item?id=30900785"/>
+        <updated>2022-04-03T21:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Russian influencers desperately scramble to maintain their followers]]></summary>
+        <author>
+            <name>preeti_shah</name>
+            <uri>https://news.ycombinator.com/user?id=preeti_shah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Emacs 29上的平滑滚动是一个梦想成真的像素滚动-精确-模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30900640</id>
+        <link href="https://news.ycombinator.com/item?id=30900640"/>
+        <updated>2022-04-03T21:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Smooth scroll on Emacs 29 is a dream come true with pixel-scroll-precision-mode]]></summary>
+        <author>
+            <name>4goodapp</name>
+            <uri>https://news.ycombinator.com/user?id=4goodapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AppleSqueezer GS：一个现代的苹果][加速器]]></title>
         <id>https://news.ycombinator.com/item?id=30901749</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与Nextcloud/ownCloud集成的纯文本文件Markdown记事本]]></title>
-        <id>https://news.ycombinator.com/item?id=30886353</id>
-        <link href="https://news.ycombinator.com/item?id=30886353"/>
-        <updated>2022-04-02T06:55:52.000Z</updated>
-        <summary type="html"><![CDATA[A plain-text file Markdown note-taking with Nextcloud / ownCloud integration]]></summary>
-        <author>
-            <name>pndy</name>
-            <uri>https://news.ycombinator.com/user?id=pndy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所以这就是导致 "闪电式崩溃"（2015年）的原因。]]></title>
-        <id>https://news.ycombinator.com/item?id=30887154</id>
-        <link href="https://news.ycombinator.com/item?id=30887154"/>
-        <updated>2022-04-02T10:29:03.000Z</updated>
-        <summary type="html"><![CDATA[So that's what caused that “flash crash” (2015)]]></summary>
-        <author>
-            <name>SvenSchnieders</name>
-            <uri>https://news.ycombinator.com/user?id=SvenSchnieders</uri>
         </author>
     </entry>
 </feed>
