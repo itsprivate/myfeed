@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T09:32:03.215Z</updated>
+    <updated>2022-04-03T09:41:12.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFT 101]]></title>
+        <id>https://news.ycombinator.com/item?id=30895405</id>
+        <link href="https://news.ycombinator.com/item?id=30895405"/>
+        <updated>2022-04-03T08:32:06.000Z</updated>
+        <summary type="html"><![CDATA[NFT 101]]></summary>
+        <author>
+            <name>venmul</name>
+            <uri>https://news.ycombinator.com/user?id=venmul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯的撤退在基輔附近的布查鎮留下了平民死亡的痕跡]]></title>
         <id>https://news.ycombinator.com/item?id=30895613</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JanethL</name>
             <uri>https://news.ycombinator.com/user?id=JanethL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2年期國債收益率高於10年期利率，是未來可能出現衰退的信號]]></title>
-        <id>https://news.ycombinator.com/item?id=30879805</id>
-        <link href="https://news.ycombinator.com/item?id=30879805"/>
-        <updated>2022-04-01T16:14:50.000Z</updated>
-        <summary type="html"><![CDATA[2-year Treasury yield tops 10-year rate, a signal for possible future recession]]></summary>
-        <author>
-            <name>Barrera</name>
-            <uri>https://news.ycombinator.com/user?id=Barrera</uri>
         </author>
     </entry>
 </feed>
