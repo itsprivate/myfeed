@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T07:51:45.556Z</updated>
+    <updated>2022-04-03T08:13:52.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抵制数字食谱]]></title>
+        <id>https://news.ycombinator.com/item?id=30895307</id>
+        <link href="https://news.ycombinator.com/item?id=30895307"/>
+        <updated>2022-04-03T08:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Boycott Numerical Recipes]]></summary>
+        <author>
+            <name>arthurmorgan</name>
+            <uri>https://news.ycombinator.com/user?id=arthurmorgan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌被发现不公平地阻止了印度商店上的竞争对手付款]]></title>
+        <id>https://news.ycombinator.com/item?id=30895227</id>
+        <link href="https://news.ycombinator.com/item?id=30895227"/>
+        <updated>2022-04-03T07:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Google Found to Unfairly Block Rival Payments on India Store]]></summary>
+        <author>
+            <name>perryizgr8</name>
+            <uri>https://news.ycombinator.com/user?id=perryizgr8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯里兰卡在实施紧急状态后封锁了社交媒体平台]]></title>
         <id>https://news.ycombinator.com/item?id=30895096</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>elorant</name>
             <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月就业增长强劲，经济增加431,000个工作岗位]]></title>
-        <id>https://news.ycombinator.com/item?id=30879365</id>
-        <link href="https://news.ycombinator.com/item?id=30879365"/>
-        <updated>2022-04-01T15:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Strong job growth in March, economy picks up 431,000 jobs]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factorio在游戏中增加对NFT和加密货币的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30879350</id>
-        <link href="https://news.ycombinator.com/item?id=30879350"/>
-        <updated>2022-04-01T15:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Factorio add in game support for NFTs and cryptocurrency]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
