@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T22:13:16.887Z</updated>
+    <updated>2022-04-03T22:32:47.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由於有了新的光線追蹤模型，"它能否運行Doom "將不再是一個問題了]]></title>
+        <id>https://news.ycombinator.com/item?id=30901247</id>
+        <link href="https://news.ycombinator.com/item?id=30901247"/>
+        <updated>2022-04-03T22:14:18.000Z</updated>
+        <summary type="html"><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></summary>
+        <author>
+            <name>jay_kyburz</name>
+            <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前俄羅斯寡頭稱戰爭中的一個瞬間讓普京 "瘋了]]></title>
+        <id>https://news.ycombinator.com/item?id=30901194</id>
+        <link href="https://news.ycombinator.com/item?id=30901194"/>
+        <updated>2022-04-03T22:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Ex-Russian oligarch says one moment in war drove Putin ‘insane’]]></summary>
+        <author>
+            <name>antattack</name>
+            <uri>https://news.ycombinator.com/user?id=antattack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件工程師最重要的績效管理規則]]></title>
+        <id>https://news.ycombinator.com/item?id=30901192</id>
+        <link href="https://news.ycombinator.com/item?id=30901192"/>
+        <updated>2022-04-03T22:07:10.000Z</updated>
+        <summary type="html"><![CDATA[The Most Important Performance Management Rule for Software Engineers]]></summary>
+        <author>
+            <name>staccatomeasure</name>
+            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬刺隊在贏得99年NBA總冠軍後，在他們的團隊飛機上設立了一個lan派對]]></title>
+        <id>https://news.ycombinator.com/item?id=30899987</id>
+        <link href="https://news.ycombinator.com/item?id=30899987"/>
+        <updated>2022-04-03T19:49:08.000Z</updated>
+        <summary type="html"><![CDATA[The Spurs set up a lan party on their team jet after winning 99’NBA championship]]></summary>
+        <author>
+            <name>revolucien</name>
+            <uri>https://news.ycombinator.com/user?id=revolucien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo的人工智能根據280萬張照片重現舊金山]]></title>
         <id>https://news.ycombinator.com/item?id=30901088</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>atan2</name>
             <uri>https://news.ycombinator.com/user?id=atan2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觀察世界的殘局]]></title>
-        <id>https://news.ycombinator.com/item?id=30886610</id>
-        <link href="https://news.ycombinator.com/item?id=30886610"/>
-        <updated>2022-04-02T07:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Watching the World Wrecking]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨越~8個時區的完全遠程啟動通信]]></title>
-        <id>https://news.ycombinator.com/item?id=30886543</id>
-        <link href="https://news.ycombinator.com/item?id=30886543"/>
-        <updated>2022-04-02T07:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Fully-remote startup communication across ~8 time zones]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azul公司的新登機方式。移動 "地毯"]]></title>
-        <id>https://news.ycombinator.com/item?id=30886649</id>
-        <link href="https://news.ycombinator.com/item?id=30886649"/>
-        <updated>2022-04-02T08:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Azul's New Way to Board Its Flights: A Moving “Carpet”]]></summary>
-        <author>
-            <name>plibither8</name>
-            <uri>https://news.ycombinator.com/user?id=plibither8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼CPU不使用PCI插槽連接？]]></title>
-        <id>https://news.ycombinator.com/item?id=30886632</id>
-        <link href="https://news.ycombinator.com/item?id=30886632"/>
-        <updated>2022-04-02T08:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Why don't CPUs connect using the PCI slots?]]></summary>
-        <author>
-            <name>ghgr</name>
-            <uri>https://news.ycombinator.com/user?id=ghgr</uri>
         </author>
     </entry>
 </feed>
