@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T07:30:09.435Z</updated>
+    <updated>2022-04-03T07:38:00.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们达到了智能手机和电脑的高度，这是件好事]]></title>
+        <id>https://news.ycombinator.com/item?id=30894766</id>
+        <link href="https://news.ycombinator.com/item?id=30894766"/>
+        <updated>2022-04-03T05:44:34.000Z</updated>
+        <summary type="html"><![CDATA[We reached the smartphone and computer plateau and it's a good thing]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们为什么和如何使用原始地图]]></title>
         <id>https://news.ycombinator.com/item?id=30895097</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个没有应用程序的世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30879221</id>
-        <link href="https://news.ycombinator.com/item?id=30879221"/>
-        <updated>2022-04-01T15:32:38.000Z</updated>
-        <summary type="html"><![CDATA[A World Without Apps]]></summary>
-        <author>
-            <name>Jonovono</name>
-            <uri>https://news.ycombinator.com/user?id=Jonovono</uri>
         </author>
     </entry>
 </feed>

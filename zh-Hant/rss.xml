@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 03 Apr 2022 07:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們達到了智能手機和電腦的高度，這是件好事]]></title>
+            <link>https://news.ycombinator.com/item?id=30894766</link>
+            <guid>https://news.ycombinator.com/item?id=30894766</guid>
+            <pubDate>Sun, 03 Apr 2022 05:44:34 GMT</pubDate>
+            <description><![CDATA[We reached the smartphone and computer plateau and it's a good thing]]></description>
+        </item>
         <item>
             <title><![CDATA[我們為什麼和如何使用原始地圖]]></title>
             <link>https://news.ycombinator.com/item?id=30895097</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30879295</guid>
             <pubDate>Fri, 01 Apr 2022 15:38:05 GMT</pubDate>
             <description><![CDATA[Building Reliable Distributed Systems with Refinement Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個沒有應用程序的世界]]></title>
-            <link>https://news.ycombinator.com/item?id=30879221</link>
-            <guid>https://news.ycombinator.com/item?id=30879221</guid>
-            <pubDate>Fri, 01 Apr 2022 15:32:38 GMT</pubDate>
-            <description><![CDATA[A World Without Apps]]></description>
         </item>
     </channel>
 </rss>
