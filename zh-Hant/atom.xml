@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T09:12:59.977Z</updated>
+    <updated>2022-04-03T09:32:03.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯的撤退在基輔附近的布查鎮留下了平民死亡的痕跡]]></title>
+        <id>https://news.ycombinator.com/item?id=30895613</id>
+        <link href="https://news.ycombinator.com/item?id=30895613"/>
+        <updated>2022-04-03T09:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Russian retreat leaves trail of dead civilians in Bucha, a town near Kyiv]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[躁鬱症是什麼樣子的？(一首多彩的詩)]]></title>
+        <id>https://news.ycombinator.com/item?id=30895560</id>
+        <link href="https://news.ycombinator.com/item?id=30895560"/>
+        <updated>2022-04-03T09:09:25.000Z</updated>
+        <summary type="html"><![CDATA[What is it like to be bipolar? (A colourful poem)]]></summary>
+        <author>
+            <name>k-i-t-s-u-n-e</name>
+            <uri>https://news.ycombinator.com/user?id=k-i-t-s-u-n-e</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C整數溢出導致信息洩露]]></title>
+        <id>https://news.ycombinator.com/item?id=30895515</id>
+        <link href="https://news.ycombinator.com/item?id=30895515"/>
+        <updated>2022-04-03T08:55:58.000Z</updated>
+        <summary type="html"><![CDATA[C Integer Overflow into Information Disclosure]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當FFI函數調用擊敗Native C時]]></title>
+        <id>https://news.ycombinator.com/item?id=30895444</id>
+        <link href="https://news.ycombinator.com/item?id=30895444"/>
+        <updated>2022-04-03T08:39:36.000Z</updated>
+        <summary type="html"><![CDATA[When FFI Function Calls Beat Native C]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭開中國國家黑客的面紗]]></title>
         <id>https://news.ycombinator.com/item?id=30895506</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Barrera</name>
             <uri>https://news.ycombinator.com/user?id=Barrera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能源價格。漲價衝擊數百萬人的賬單]]></title>
-        <id>https://news.ycombinator.com/item?id=30879770</id>
-        <link href="https://news.ycombinator.com/item?id=30879770"/>
-        <updated>2022-04-01T16:12:16.000Z</updated>
-        <summary type="html"><![CDATA[Energy price: Bill shock for millions as rises hit]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類基因組（DNA）的最後幾個百分點完成了]]></title>
-        <id>https://news.ycombinator.com/item?id=30879769</id>
-        <link href="https://news.ycombinator.com/item?id=30879769"/>
-        <updated>2022-04-01T16:12:13.000Z</updated>
-        <summary type="html"><![CDATA[The last percents of the human genome (DNA) completed]]></summary>
-        <author>
-            <name>samuell</name>
-            <uri>https://news.ycombinator.com/user?id=samuell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜的紐約工會更接近勝利，計數繼續進行]]></title>
-        <id>https://news.ycombinator.com/item?id=30879538</id>
-        <link href="https://news.ycombinator.com/item?id=30879538"/>
-        <updated>2022-04-01T15:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon's NY union moves closer to a win, count continues]]></summary>
-        <author>
-            <name>zjaffee</name>
-            <uri>https://news.ycombinator.com/user?id=zjaffee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司揮舞著它的遊說力量反對LGBTQ法律]]></title>
-        <id>https://news.ycombinator.com/item?id=30879498</id>
-        <link href="https://news.ycombinator.com/item?id=30879498"/>
-        <updated>2022-04-01T15:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Apple wields its lobbying might against LGBTQ laws]]></summary>
-        <author>
-            <name>koolba</name>
-            <uri>https://news.ycombinator.com/user?id=koolba</uri>
         </author>
     </entry>
 </feed>
