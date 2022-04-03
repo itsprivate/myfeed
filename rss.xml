@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Julia中使用Flux的MinGPT]]></title>
+            <link>https://news.ycombinator.com/item?id=30895012</link>
+            <guid>https://news.ycombinator.com/item?id=30895012</guid>
+            <pubDate>Sun, 03 Apr 2022 06:56:50 GMT</pubDate>
+            <description><![CDATA[MinGPT in Julia Using Flux]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你在做什么，WordPress.com？]]></title>
+            <link>https://news.ycombinator.com/item?id=30894980</link>
+            <guid>https://news.ycombinator.com/item?id=30894980</guid>
+            <pubDate>Sun, 03 Apr 2022 06:46:53 GMT</pubDate>
+            <description><![CDATA[What are you doing, WordPress.com?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SQLite B-Tree模块]]></title>
+            <link>https://news.ycombinator.com/item?id=30894913</link>
+            <guid>https://news.ycombinator.com/item?id=30894913</guid>
+            <pubDate>Sun, 03 Apr 2022 06:29:14 GMT</pubDate>
+            <description><![CDATA[SQLite B-Tree Module]]></description>
+        </item>
         <item>
             <title><![CDATA[穷人的时代]]></title>
             <link>https://news.ycombinator.com/item?id=30894686</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30879074</guid>
             <pubDate>Fri, 01 Apr 2022 15:22:28 GMT</pubDate>
             <description><![CDATA[Conquest’s Laws]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通用证书的旋转]]></title>
-            <link>https://news.ycombinator.com/item?id=30879038</link>
-            <guid>https://news.ycombinator.com/item?id=30879038</guid>
-            <pubDate>Fri, 01 Apr 2022 15:19:37 GMT</pubDate>
-            <description><![CDATA[Universal Certificate Rotation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速、无权限、去中心化的计算]]></title>
-            <link>https://news.ycombinator.com/item?id=30878989</link>
-            <guid>https://news.ycombinator.com/item?id=30878989</guid>
-            <pubDate>Fri, 01 Apr 2022 15:16:27 GMT</pubDate>
-            <description><![CDATA[Fast, Permissionless, Decentralized Computation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究人员完成了人类基因组的第一个无间隙序列]]></title>
-            <link>https://news.ycombinator.com/item?id=30878919</link>
-            <guid>https://news.ycombinator.com/item?id=30878919</guid>
-            <pubDate>Fri, 01 Apr 2022 15:11:25 GMT</pubDate>
-            <description><![CDATA[Researchers complete first gapless sequence of human genome]]></description>
         </item>
     </channel>
 </rss>
