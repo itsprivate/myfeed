@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 03 Apr 2022 15:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[烏克蘭戰爭的七個最壞情況]]></title>
+            <link>https://news.ycombinator.com/item?id=30897741</link>
+            <guid>https://news.ycombinator.com/item?id=30897741</guid>
+            <pubDate>Sun, 03 Apr 2022 15:41:12 GMT</pubDate>
+            <description><![CDATA[Seven Worst-Case Scenarios from the War in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[將心理健康問題歸咎於技術很容易。但這公平嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30897669</link>
+            <guid>https://news.ycombinator.com/item?id=30897669</guid>
+            <pubDate>Sun, 03 Apr 2022 15:32:48 GMT</pubDate>
+            <description><![CDATA[It’s Easy to Blame Mental Health Issues on Tech. But Is It Fair?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我終於實現了計算機的涅槃。這一切是為了什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30897600</link>
+            <guid>https://news.ycombinator.com/item?id=30897600</guid>
+            <pubDate>Sun, 03 Apr 2022 15:24:07 GMT</pubDate>
+            <description><![CDATA[I Finally Reached Computing Nirvana. What Was It All For?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2021年移動互聯網連接狀況[pdf]。]]></title>
+            <link>https://news.ycombinator.com/item?id=30897578</link>
+            <guid>https://news.ycombinator.com/item?id=30897578</guid>
+            <pubDate>Sun, 03 Apr 2022 15:21:13 GMT</pubDate>
+            <description><![CDATA[The State of Mobile Internet Connectivity 2021 [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[糖衣炮彈。- 針對跟蹤器自動生成替換腳本]]></title>
+            <link>https://news.ycombinator.com/item?id=30897563</link>
+            <guid>https://news.ycombinator.com/item?id=30897563</guid>
+            <pubDate>Sun, 03 Apr 2022 15:19:17 GMT</pubDate>
+            <description><![CDATA[Sugarcoat: - Auto-generating replacement scripts against trackers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[連接的文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30897440</link>
+            <guid>https://news.ycombinator.com/item?id=30897440</guid>
+            <pubDate>Sun, 03 Apr 2022 15:04:42 GMT</pubDate>
+            <description><![CDATA[Connected Papers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你如何使你的書庫/讀物等有意義？]]></title>
+            <link>https://news.ycombinator.com/item?id=30897439</link>
+            <guid>https://news.ycombinator.com/item?id=30897439</guid>
+            <pubDate>Sun, 03 Apr 2022 15:04:38 GMT</pubDate>
+            <description><![CDATA[How do you make sense of your library of books/readings etc.?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用GLSL實現複數的可視化]]></title>
+            <link>https://news.ycombinator.com/item?id=30897381</link>
+            <guid>https://news.ycombinator.com/item?id=30897381</guid>
+            <pubDate>Sun, 03 Apr 2022 14:56:18 GMT</pubDate>
+            <description><![CDATA[Visualizing Complex Numbers Using GLSL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Youki的v0.0.3支持WASM，支持容器檢查點。]]></title>
+            <link>https://news.ycombinator.com/item?id=30896368</link>
+            <guid>https://news.ycombinator.com/item?id=30896368</guid>
+            <pubDate>Sun, 03 Apr 2022 12:32:55 GMT</pubDate>
+            <description><![CDATA[Youki's v0.0.3 with WASM support, a container checkpoint support]]></description>
+        </item>
         <item>
             <title><![CDATA[將Rust Servo瀏覽器引擎（Mozilla）改裝為Tauri的WebView提供者]]></title>
             <link>https://news.ycombinator.com/item?id=30897509</link>
@@ -4150,69 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30882757</guid>
             <pubDate>Fri, 01 Apr 2022 20:09:20 GMT</pubDate>
             <description><![CDATA[Show HN: Rickblocker, a computer vision approach to end rickrolling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[金屬上的OpenCL--如果clvk能用怎麼辦？]]></title>
-            <link>https://news.ycombinator.com/item?id=30882629</link>
-            <guid>https://news.ycombinator.com/item?id=30882629</guid>
-            <pubDate>Fri, 01 Apr 2022 19:58:29 GMT</pubDate>
-            <description><![CDATA[OpenCL on Metal – what if clvk works?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告別，小學]]></title>
-            <link>https://news.ycombinator.com/item?id=30882622</link>
-            <guid>https://news.ycombinator.com/item?id=30882622</guid>
-            <pubDate>Fri, 01 Apr 2022 19:57:15 GMT</pubDate>
-            <description><![CDATA[Farewell, Elementary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Rust的mutexes看起來像他們一樣]]></title>
-            <link>https://news.ycombinator.com/item?id=30882577</link>
-            <guid>https://news.ycombinator.com/item?id=30882577</guid>
-            <pubDate>Fri, 01 Apr 2022 19:53:24 GMT</pubDate>
-            <description><![CDATA[Why Rust mutexes look like they do]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯威脅說，如果維基百科不刪除有關戰爭的細節，將對其進行罰款]]></title>
-            <link>https://news.ycombinator.com/item?id=30882561</link>
-            <guid>https://news.ycombinator.com/item?id=30882561</guid>
-            <pubDate>Fri, 01 Apr 2022 19:51:57 GMT</pubDate>
-            <description><![CDATA[Russia threatens to fine Wikipedia if it doesn't remove details about the war]]></description>
-        </item>
-        <item>
-            <title><![CDATA[含有Linux 5.15的Ubuntu 22.04 LTS測試版在全面上市前數週發佈]]></title>
-            <link>https://news.ycombinator.com/item?id=30882488</link>
-            <guid>https://news.ycombinator.com/item?id=30882488</guid>
-            <pubDate>Fri, 01 Apr 2022 19:45:03 GMT</pubDate>
-            <description><![CDATA[Ubuntu 22.04 LTS beta with Linux 5.15 released weeks before general availability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自烏克蘭的Couchbase下載有限公司]]></title>
-            <link>https://news.ycombinator.com/item?id=30882422</link>
-            <guid>https://news.ycombinator.com/item?id=30882422</guid>
-            <pubDate>Fri, 01 Apr 2022 19:39:48 GMT</pubDate>
-            <description><![CDATA[Couchbase Downloads Limited from Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鈀金現在是TempleOS]]></title>
-            <link>https://news.ycombinator.com/item?id=30882421</link>
-            <guid>https://news.ycombinator.com/item?id=30882421</guid>
-            <pubDate>Fri, 01 Apr 2022 19:39:35 GMT</pubDate>
-            <description><![CDATA[Palladium Is Now TempleOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何防止黑客對你的安卓應用進行反向工程？]]></title>
-            <link>https://news.ycombinator.com/item?id=30882465</link>
-            <guid>https://news.ycombinator.com/item?id=30882465</guid>
-            <pubDate>Fri, 01 Apr 2022 19:43:22 GMT</pubDate>
-            <description><![CDATA[How to prevent hackers from reverse engineering your Android apps?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們知道為什麼俄羅斯的將軍們在烏克蘭不斷被殺（小區黑客）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30882388</link>
-            <guid>https://news.ycombinator.com/item?id=30882388</guid>
-            <pubDate>Fri, 01 Apr 2022 19:36:24 GMT</pubDate>
-            <description><![CDATA[We Know Why Russia’s Generals Keep Getting Killed in Ukraine (Cell Hack)]]></description>
         </item>
     </channel>
 </rss>
