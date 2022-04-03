@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T10:14:55.726Z</updated>
+    <updated>2022-04-03T10:34:43.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何从抽屉里运行一个全市性的无线网络]]></title>
+        <id>https://news.ycombinator.com/item?id=30895886</id>
+        <link href="https://news.ycombinator.com/item?id=30895886"/>
+        <updated>2022-04-03T10:28:03.000Z</updated>
+        <summary type="html"><![CDATA[How to run a city-wide wireless network from a drawer]]></summary>
+        <author>
+            <name>adunk</name>
+            <uri>https://news.ycombinator.com/user?id=adunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让加密货币和Web3更有意义]]></title>
+        <id>https://news.ycombinator.com/item?id=30895874</id>
+        <link href="https://news.ycombinator.com/item?id=30895874"/>
+        <updated>2022-04-03T10:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Making Sense of Crypto and Web3]]></summary>
+        <author>
+            <name>luisha</name>
+            <uri>https://news.ycombinator.com/user?id=luisha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个开源的自动化系统来从PDF中提取关键词]]></title>
         <id>https://news.ycombinator.com/item?id=30895762</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>stncls</name>
             <uri>https://news.ycombinator.com/user?id=stncls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omicron似乎正在以很高的速度在亚系之间进行重组]]></title>
-        <id>https://news.ycombinator.com/item?id=30879426</id>
-        <link href="https://news.ycombinator.com/item?id=30879426"/>
-        <updated>2022-04-01T15:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Omicron appears to be recombining between sublineages at a high rate]]></summary>
-        <author>
-            <name>f38zf5vdt</name>
-            <uri>https://news.ycombinator.com/user?id=f38zf5vdt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯王编程--在KJV、SICP和一些ESR上训练的马尔科夫链]]></title>
-        <id>https://news.ycombinator.com/item?id=30880223</id>
-        <link href="https://news.ycombinator.com/item?id=30880223"/>
-        <updated>2022-04-01T16:41:50.000Z</updated>
-        <summary type="html"><![CDATA[King James Programming – a Markov Chain trained on the KJV, SICP and some of ESR]]></summary>
-        <author>
-            <name>lproven</name>
-            <uri>https://news.ycombinator.com/user?id=lproven</uri>
         </author>
     </entry>
 </feed>
