@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T06:14:34.834Z</updated>
+    <updated>2022-04-03T06:37:45.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[窮人的時代]]></title>
+        <id>https://news.ycombinator.com/item?id=30894686</id>
+        <link href="https://news.ycombinator.com/item?id=30894686"/>
+        <updated>2022-04-03T05:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Poor Man's Epoch]]></summary>
+        <author>
+            <name>13of40</name>
+            <uri>https://news.ycombinator.com/user?id=13of40</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logstalgia - 一個網站訪問日誌的可視化工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30894423</id>
+        <link href="https://news.ycombinator.com/item?id=30894423"/>
+        <updated>2022-04-03T04:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Logstalgia – a website access log visualization tool]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將你的電腦剪貼板轉移到附近的移動設備上]]></title>
+        <id>https://news.ycombinator.com/item?id=30893435</id>
+        <link href="https://news.ycombinator.com/item?id=30893435"/>
+        <updated>2022-04-03T01:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Transfer Your PC Clipboard to a Nearby Mobile Device]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度可以迅速建立雙邊翅片信息系統]]></title>
         <id>https://news.ycombinator.com/item?id=30894798</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tuxguy</name>
             <uri>https://news.ycombinator.com/user?id=tuxguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塞拉在線 - 第二部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30878918</id>
-        <link href="https://news.ycombinator.com/item?id=30878918"/>
-        <updated>2022-04-01T15:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Sierra Online – Part 2]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是敏捷？]]></title>
-        <id>https://news.ycombinator.com/item?id=30878891</id>
-        <link href="https://news.ycombinator.com/item?id=30878891"/>
-        <updated>2022-04-01T15:09:21.000Z</updated>
-        <summary type="html"><![CDATA[What Is Agile?]]></summary>
-        <author>
-            <name>amitgupta6</name>
-            <uri>https://news.ycombinator.com/user?id=amitgupta6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收集有用的和被低估的網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30878784</id>
-        <link href="https://news.ycombinator.com/item?id=30878784"/>
-        <updated>2022-04-01T15:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Collection of Useful and Underrated Websites]]></summary>
-        <author>
-            <name>jayra</name>
-            <uri>https://news.ycombinator.com/user?id=jayra</uri>
         </author>
     </entry>
 </feed>
