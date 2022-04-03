@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T17:19:28.063Z</updated>
+    <updated>2022-04-03T17:35:14.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逆向設計一個神秘的Univac電腦板]]></title>
+        <id>https://news.ycombinator.com/item?id=30898590</id>
+        <link href="https://news.ycombinator.com/item?id=30898590"/>
+        <updated>2022-04-03T17:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Reverse-engineering a mysterious Univac computer board]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清潔能源的夢想]]></title>
+        <id>https://news.ycombinator.com/item?id=30898467</id>
+        <link href="https://news.ycombinator.com/item?id=30898467"/>
+        <updated>2022-04-03T17:03:47.000Z</updated>
+        <summary type="html"><![CDATA[The Dream of Clean Energy]]></summary>
+        <author>
+            <name>CarCooler</name>
+            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有用的書籤搜索集2.1適用於一切 - voidtools論壇]]></title>
+        <id>https://news.ycombinator.com/item?id=30898269</id>
+        <link href="https://news.ycombinator.com/item?id=30898269"/>
+        <updated>2022-04-03T16:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Useful Set of Bookmark Searches 2.1 for Everything – voidtools forum]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利沃夫受到了戰爭的影響]]></title>
         <id>https://news.ycombinator.com/item?id=30898568</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase Supabrew--永遠沒有口渴的代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30883911</id>
-        <link href="https://news.ycombinator.com/item?id=30883911"/>
-        <updated>2022-04-01T22:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Supabase Supabrew – Never Code Thirsty]]></summary>
-        <author>
-            <name>denormalized</name>
-            <uri>https://news.ycombinator.com/user?id=denormalized</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 9226: Bioctal, 十六進制2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30883799</id>
-        <link href="https://news.ycombinator.com/item?id=30883799"/>
-        <updated>2022-04-01T22:04:24.000Z</updated>
-        <summary type="html"><![CDATA[RFC 9226: Bioctal, Hexadecimal 2.0]]></summary>
-        <author>
-            <name>virgulino</name>
-            <uri>https://news.ycombinator.com/user?id=virgulino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從頭開始學習3D計算機圖形編程]]></title>
-        <id>https://news.ycombinator.com/item?id=30883754</id>
-        <link href="https://news.ycombinator.com/item?id=30883754"/>
-        <updated>2022-04-01T21:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Learn 3D Computer Graphics Programming from scratch]]></summary>
-        <author>
-            <name>cpponrails</name>
-            <uri>https://news.ycombinator.com/user?id=cpponrails</uri>
         </author>
     </entry>
 </feed>
