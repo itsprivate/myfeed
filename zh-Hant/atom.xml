@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T04:58:41.944Z</updated>
+    <updated>2022-04-03T05:29:21.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[菲利普-K-迪克的黑鐵監獄]]></title>
+        <id>https://news.ycombinator.com/item?id=30894325</id>
+        <link href="https://news.ycombinator.com/item?id=30894325"/>
+        <updated>2022-04-03T04:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Black Iron Prison from Philip K. Dick]]></summary>
+        <author>
+            <name>servytor</name>
+            <uri>https://news.ycombinator.com/user?id=servytor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[衛星不是不公平的東西]]></title>
         <id>https://news.ycombinator.com/item?id=30894552</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zaplin</name>
             <uri>https://news.ycombinator.com/user?id=zaplin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab的關鍵漏洞讓攻擊者接管賬戶]]></title>
-        <id>https://news.ycombinator.com/item?id=30878924</id>
-        <link href="https://news.ycombinator.com/item?id=30878924"/>
-        <updated>2022-04-01T15:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Critical Gitlab vulnerability lets attackers take over accounts]]></summary>
-        <author>
-            <name>lelf</name>
-            <uri>https://news.ycombinator.com/user?id=lelf</uri>
         </author>
     </entry>
 </feed>
