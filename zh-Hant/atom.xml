@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T15:46:26.398Z</updated>
+    <updated>2022-04-03T15:53:09.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[威爾-史密斯和黑人男子面臨的 "不公平 "負擔]]></title>
+        <id>https://news.ycombinator.com/item?id=30897697</id>
+        <link href="https://news.ycombinator.com/item?id=30897697"/>
+        <updated>2022-04-03T15:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Will Smith and the 'unfair' burden Black men face]]></summary>
+        <author>
+            <name>donsupreme</name>
+            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭戰爭的七個最壞情況]]></title>
         <id>https://news.ycombinator.com/item?id=30897741</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Elof</name>
             <uri>https://news.ycombinator.com/user?id=Elof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rickblocker，一種計算機視覺的方法來結束佝僂病。]]></title>
-        <id>https://news.ycombinator.com/item?id=30882757</id>
-        <link href="https://news.ycombinator.com/item?id=30882757"/>
-        <updated>2022-04-01T20:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rickblocker, a computer vision approach to end rickrolling]]></summary>
-        <author>
-            <name>rocauc</name>
-            <uri>https://news.ycombinator.com/user?id=rocauc</uri>
         </author>
     </entry>
 </feed>
