@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T10:34:43.173Z</updated>
+    <updated>2022-04-03T10:45:20.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方是如何把俄罗斯的军事问题搞得如此、如此糟糕的]]></title>
+        <id>https://news.ycombinator.com/item?id=30895877</id>
+        <link href="https://news.ycombinator.com/item?id=30895877"/>
+        <updated>2022-04-03T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[How the West Got Russia’s Military So, So Wrong]]></summary>
+        <author>
+            <name>pretext</name>
+            <uri>https://news.ycombinator.com/user?id=pretext</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧米茄的突破性感染推动了跨变种的中和作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30895840</id>
+        <link href="https://news.ycombinator.com/item?id=30895840"/>
+        <updated>2022-04-03T10:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Omicron breakthrough infection drives cross-variant neutralization]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何从抽屉里运行一个全市性的无线网络]]></title>
         <id>https://news.ycombinator.com/item?id=30895886</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在日本越来越流行的 "个人婚礼"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30880214</id>
-        <link href="https://news.ycombinator.com/item?id=30880214"/>
-        <updated>2022-04-01T16:41:25.000Z</updated>
-        <summary type="html"><![CDATA[The increasingly popular 'solo weddings' in Japan]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orochi - 从一个二进制文件动态加载HIP/CUDA]]></title>
-        <id>https://news.ycombinator.com/item?id=30879477</id>
-        <link href="https://news.ycombinator.com/item?id=30879477"/>
-        <updated>2022-04-01T15:51:02.000Z</updated>
-        <summary type="html"><![CDATA[Orochi – dynamic loading of HIP/CUDA from a single binary]]></summary>
-        <author>
-            <name>stncls</name>
-            <uri>https://news.ycombinator.com/user?id=stncls</uri>
         </author>
     </entry>
 </feed>
