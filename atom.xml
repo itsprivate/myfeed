@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T11:52:28.344Z</updated>
+    <updated>2022-04-03T12:17:33.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与创业失败的YC创始人的播客对话]]></title>
+        <id>https://news.ycombinator.com/item?id=30896265</id>
+        <link href="https://news.ycombinator.com/item?id=30896265"/>
+        <updated>2022-04-03T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Podcast-conversations with YC founders whose startups failed]]></summary>
+        <author>
+            <name>thinkwithlucie</name>
+            <uri>https://news.ycombinator.com/user?id=thinkwithlucie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyPy是如何测试的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896217</id>
+        <link href="https://news.ycombinator.com/item?id=30896217"/>
+        <updated>2022-04-03T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[How Is PyPy Tested?]]></summary>
+        <author>
+            <name>genericlemon24</name>
+            <uri>https://news.ycombinator.com/user?id=genericlemon24</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级传感器(2020年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30896177</id>
+        <link href="https://news.ycombinator.com/item?id=30896177"/>
+        <updated>2022-04-03T11:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Senior Sensors (2020)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threema Push：无需谷歌服务的即时通知 - Threema]]></title>
+        <id>https://news.ycombinator.com/item?id=30896160</id>
+        <link href="https://news.ycombinator.com/item?id=30896160"/>
+        <updated>2022-04-03T11:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Threema Push: Instant Notifications Without Google Services – Threema]]></summary>
+        <author>
+            <name>Gys</name>
+            <uri>https://news.ycombinator.com/user?id=Gys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个冥想的网站，你看着窗外，画着极光]]></title>
+        <id>https://news.ycombinator.com/item?id=30896084</id>
+        <link href="https://news.ycombinator.com/item?id=30896084"/>
+        <updated>2022-04-03T11:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A meditative website where you look out of a window and draw auroras]]></summary>
+        <author>
+            <name>shriracha</name>
+            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么英国的二手车最终会出现在乌克兰的前线？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896075</id>
+        <link href="https://news.ycombinator.com/item?id=30896075"/>
+        <updated>2022-04-03T11:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Why second-hand British cars end up on Ukraine’s frontline]]></summary>
+        <author>
+            <name>nigerian1981</name>
+            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速时尚。欧盟披露打击快速时尚的措施]]></title>
         <id>https://news.ycombinator.com/item?id=30896125</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>sliss</name>
             <uri>https://news.ycombinator.com/user?id=sliss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automerge CRDT - 构建本地优先的软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30881016</id>
-        <link href="https://news.ycombinator.com/item?id=30881016"/>
-        <updated>2022-04-01T17:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Automerge CRDT – Build local-first software]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Steampipe来确定AWS的成本节约情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30880895</id>
-        <link href="https://news.ycombinator.com/item?id=30880895"/>
-        <updated>2022-04-01T17:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Use Steampipe to identify cost savings in AWS]]></summary>
-        <author>
-            <name>judell</name>
-            <uri>https://news.ycombinator.com/user?id=judell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux中使用脚踏板作为修改键]]></title>
-        <id>https://news.ycombinator.com/item?id=30880908</id>
-        <link href="https://news.ycombinator.com/item?id=30880908"/>
-        <updated>2022-04-01T17:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Using foot pedals for modifier keys in Linux]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯威胁维基百科，如果它不删除有关战争的页面，将被罚款]]></title>
-        <id>https://news.ycombinator.com/item?id=30880837</id>
-        <link href="https://news.ycombinator.com/item?id=30880837"/>
-        <updated>2022-04-01T17:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Russia threatens Wikipedia with a fine if it doesn't remove page about the war]]></summary>
-        <author>
-            <name>justin66</name>
-            <uri>https://news.ycombinator.com/user?id=justin66</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 9225。被认为是有害的软件缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30880769</id>
-        <link href="https://news.ycombinator.com/item?id=30880769"/>
-        <updated>2022-04-01T17:23:49.000Z</updated>
-        <summary type="html"><![CDATA[RFC 9225: Software Defects Considered Harmful]]></summary>
-        <author>
-            <name>wakamoleguy</name>
-            <uri>https://news.ycombinator.com/user?id=wakamoleguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何筹集种子轮资金]]></title>
-        <id>https://news.ycombinator.com/item?id=30880754</id>
-        <link href="https://news.ycombinator.com/item?id=30880754"/>
-        <updated>2022-04-01T17:22:53.000Z</updated>
-        <summary type="html"><![CDATA[How to Raise a Seed Round]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
         </author>
     </entry>
 </feed>
