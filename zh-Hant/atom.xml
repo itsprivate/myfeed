@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T22:42:17.320Z</updated>
+    <updated>2022-04-03T22:51:19.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，你可以收取更多的費用]]></title>
+        <id>https://news.ycombinator.com/item?id=30901369</id>
+        <link href="https://news.ycombinator.com/item?id=30901369"/>
+        <updated>2022-04-03T22:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Yes, You Can Charge More]]></summary>
+        <author>
+            <name>dan-robertson</name>
+            <uri>https://news.ycombinator.com/user?id=dan-robertson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特爾的Arctic Sound-M將於2022年中期登陸，配備硬件AV1編碼]]></title>
         <id>https://news.ycombinator.com/item?id=30901256</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>erwald</name>
             <uri>https://news.ycombinator.com/user?id=erwald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港的研究人員創造了由磁性粘液製成的 "軟體機器人"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30886445</id>
-        <link href="https://news.ycombinator.com/item?id=30886445"/>
-        <updated>2022-04-02T07:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Researchers in Hong Kong create ‘soft robot’ made of magnetic slime]]></summary>
-        <author>
-            <name>playpause</name>
-            <uri>https://news.ycombinator.com/user?id=playpause</uri>
         </author>
     </entry>
 </feed>
