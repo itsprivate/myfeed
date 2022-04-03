@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T03:12:12.747Z</updated>
+    <updated>2022-04-03T03:42:31.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开泰，二进制格式解析的网络IDE]]></title>
+        <id>https://news.ycombinator.com/item?id=30894111</id>
+        <link href="https://news.ycombinator.com/item?id=30894111"/>
+        <updated>2022-04-03T03:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Kaitai, binary format parsing web IDE]]></summary>
+        <author>
+            <name>viraptor</name>
+            <uri>https://news.ycombinator.com/user?id=viraptor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字化消失。YouTube删除了我六年来的艾美奖提名节目]]></title>
+        <id>https://news.ycombinator.com/item?id=30894098</id>
+        <link href="https://news.ycombinator.com/item?id=30894098"/>
+        <updated>2022-04-03T03:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Digitally Disappeared: YouTube Has Deleted Six Years of My Emmy-Nominated Show]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无月地球理论]]></title>
+        <id>https://news.ycombinator.com/item?id=30893830</id>
+        <link href="https://news.ycombinator.com/item?id=30893830"/>
+        <updated>2022-04-03T02:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Moonless Earth Theory]]></summary>
+        <author>
+            <name>b8</name>
+            <uri>https://news.ycombinator.com/user?id=b8</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无线电力技术有多近？]]></title>
+        <id>https://news.ycombinator.com/item?id=30893765</id>
+        <link href="https://news.ycombinator.com/item?id=30893765"/>
+        <updated>2022-04-03T02:24:30.000Z</updated>
+        <summary type="html"><![CDATA[How close is wireless power technology?]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[策划的矢量搜索库列表]]></title>
         <id>https://news.ycombinator.com/item?id=30893909</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>tomilola39</name>
             <uri>https://news.ycombinator.com/user?id=tomilola39</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ClickHouse建立一个粘贴服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30878522</id>
-        <link href="https://news.ycombinator.com/item?id=30878522"/>
-        <updated>2022-04-01T14:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Building a Paste Service with ClickHouse]]></summary>
-        <author>
-            <name>zX41ZdbW</name>
-            <uri>https://news.ycombinator.com/user?id=zX41ZdbW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据报道，超过4万名叙利亚人报名在乌克兰为俄罗斯作战]]></title>
-        <id>https://news.ycombinator.com/item?id=30878485</id>
-        <link href="https://news.ycombinator.com/item?id=30878485"/>
-        <updated>2022-04-01T14:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Over 40k Syrians reportedly register to fight for Russia in Ukraine]]></summary>
-        <author>
-            <name>silexia</name>
-            <uri>https://news.ycombinator.com/user?id=silexia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果考虑使用中国供应商YMTC的3D NAND]]></title>
-        <id>https://news.ycombinator.com/item?id=30878440</id>
-        <link href="https://news.ycombinator.com/item?id=30878440"/>
-        <updated>2022-04-01T14:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Apple Mulls Using 3D NAND from Chinese Supplier YMTC]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国考虑允许美国全面进入大多数公司的审计 (BLaw)]]></title>
-        <id>https://news.ycombinator.com/item?id=30878388</id>
-        <link href="https://news.ycombinator.com/item?id=30878388"/>
-        <updated>2022-04-01T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[China Weighs Giving U.S. Full Access to Audits of Most Firms (BLaw)]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
