@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T08:36:30.476Z</updated>
+    <updated>2022-04-03T08:52:39.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无损切割]]></title>
+        <id>https://news.ycombinator.com/item?id=30895367</id>
+        <link href="https://news.ycombinator.com/item?id=30895367"/>
+        <updated>2022-04-03T08:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Lossless-Cut]]></summary>
+        <author>
+            <name>weinzierl</name>
+            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法拉利F1-75仪表盘布局]]></title>
+        <id>https://news.ycombinator.com/item?id=30895364</id>
+        <link href="https://news.ycombinator.com/item?id=30895364"/>
+        <updated>2022-04-03T08:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Ferrari F1-75 Dash Layout]]></summary>
+        <author>
+            <name>nabi_nafio</name>
+            <uri>https://news.ycombinator.com/user?id=nabi_nafio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube需要解决评论垃圾问题[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30895049</id>
+        <link href="https://news.ycombinator.com/item?id=30895049"/>
+        <updated>2022-04-03T07:07:21.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Needs to Fix Comment Spam[video]]]></summary>
+        <author>
+            <name>sarathyweb</name>
+            <uri>https://news.ycombinator.com/user?id=sarathyweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yaade - 一个开源的、自我托管的、协作的API开发环境]]></title>
         <id>https://news.ycombinator.com/item?id=30895372</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>aliasgher2022</name>
             <uri>https://news.ycombinator.com/user?id=aliasgher2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不会写的书#8：《阴谋之年》--查理-斯特罗斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30879571</id>
-        <link href="https://news.ycombinator.com/item?id=30879571"/>
-        <updated>2022-04-01T15:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Books I Will Not Write #8: The Year of the Conspiracy – Charlie Stross]]></summary>
-        <author>
-            <name>inetsee</name>
-            <uri>https://news.ycombinator.com/user?id=inetsee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由树莓派驱动的复古康柏LTE笔记本电脑]]></title>
-        <id>https://news.ycombinator.com/item?id=30879450</id>
-        <link href="https://news.ycombinator.com/item?id=30879450"/>
-        <updated>2022-04-01T15:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Retro Compaq LTE Laptop Powered by Raspberry Pi]]></summary>
-        <author>
-            <name>dmitrybrant</name>
-            <uri>https://news.ycombinator.com/user?id=dmitrybrant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[严重的是，停止使用RSA]]></title>
-        <id>https://news.ycombinator.com/item?id=30879442</id>
-        <link href="https://news.ycombinator.com/item?id=30879442"/>
-        <updated>2022-04-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Seriously, Stop Using RSA]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
