@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T14:11:19.578Z</updated>
+    <updated>2022-04-03T14:29:21.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國廣播公司。烏克蘭：布查的殺戮是蓄意的屠殺]]></title>
+        <id>https://news.ycombinator.com/item?id=30897128</id>
+        <link href="https://news.ycombinator.com/item?id=30897128"/>
+        <updated>2022-04-03T14:21:48.000Z</updated>
+        <summary type="html"><![CDATA[BBC: Killings in Bucha are deliberate massacre – Ukraine]]></summary>
+        <author>
+            <name>rendall</name>
+            <uri>https://news.ycombinator.com/user?id=rendall</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拼圖修復機器編寫的軟件中的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30897049</id>
+        <link href="https://news.ycombinator.com/item?id=30897049"/>
+        <updated>2022-04-03T14:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Jigsaw fixes bugs in machine-written software]]></summary>
+        <author>
+            <name>atg_abhishek</name>
+            <uri>https://news.ycombinator.com/user?id=atg_abhishek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隱私空間中的陰暗面。接管Privacytools.io的失敗嘗試]]></title>
+        <id>https://news.ycombinator.com/item?id=30897026</id>
+        <link href="https://news.ycombinator.com/item?id=30897026"/>
+        <updated>2022-04-03T14:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Shadiness in the Privacy Space: The Failed Attempt to Takeover Privacytools.io]]></summary>
+        <author>
+            <name>BurungHantu</name>
+            <uri>https://news.ycombinator.com/user?id=BurungHantu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok大腦解釋。為什麼有些孩子似乎迷上了社交視頻節目]]></title>
+        <id>https://news.ycombinator.com/item?id=30896290</id>
+        <link href="https://news.ycombinator.com/item?id=30896290"/>
+        <updated>2022-04-03T12:13:03.000Z</updated>
+        <summary type="html"><![CDATA[TikTok Brain Explained: Why Some Kids Seem Hooked on Social Video Feeds]]></summary>
+        <author>
+            <name>harambae</name>
+            <uri>https://news.ycombinator.com/user?id=harambae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coffeetyper - 一個輕量級的、簡約的、超可定製的打字測試]]></title>
         <id>https://news.ycombinator.com/item?id=30896997</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kvee</name>
             <uri>https://news.ycombinator.com/user?id=kvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲的大科技和美麗的失敗者]]></title>
-        <id>https://news.ycombinator.com/item?id=30881640</id>
-        <link href="https://news.ycombinator.com/item?id=30881640"/>
-        <updated>2022-04-01T18:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Big Tech and the Beautiful Losers in Europe]]></summary>
-        <author>
-            <name>connor11528</name>
-            <uri>https://news.ycombinator.com/user?id=connor11528</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我終於實現了計算機的涅槃。這一切是為了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30881250</id>
-        <link href="https://news.ycombinator.com/item?id=30881250"/>
-        <updated>2022-04-01T17:59:22.000Z</updated>
-        <summary type="html"><![CDATA[I Finally Reached Computing Nirvana. What Was It All For?]]></summary>
-        <author>
-            <name>hyfen</name>
-            <uri>https://news.ycombinator.com/user?id=hyfen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光線跟蹤的全局照明去蕪存菁]]></title>
-        <id>https://news.ycombinator.com/item?id=30880720</id>
-        <link href="https://news.ycombinator.com/item?id=30880720"/>
-        <updated>2022-04-01T17:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Raytraced Global Illumination Denoising]]></summary>
-        <author>
-            <name>cpponrails</name>
-            <uri>https://news.ycombinator.com/user?id=cpponrails</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五天內完成Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=30881894</id>
-        <link href="https://news.ycombinator.com/item?id=30881894"/>
-        <updated>2022-04-01T18:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lisp in Five Days]]></summary>
-        <author>
-            <name>triumphantomato</name>
-            <uri>https://news.ycombinator.com/user?id=triumphantomato</uri>
         </author>
     </entry>
 </feed>
