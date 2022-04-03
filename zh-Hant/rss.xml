@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 03 Apr 2022 18:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 18:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[由YC支持的uBiome基本上是Theranos的精簡版]]></title>
+            <link>https://news.ycombinator.com/item?id=30899352</link>
+            <guid>https://news.ycombinator.com/item?id=30899352</guid>
+            <pubDate>Sun, 03 Apr 2022 18:27:57 GMT</pubDate>
+            <description><![CDATA[YC-backed uBiome is basically Theranos-lite]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼我們不使用暫存環境]]></title>
             <link>https://news.ycombinator.com/item?id=30899362</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30884706</guid>
             <pubDate>Sat, 02 Apr 2022 00:19:59 GMT</pubDate>
             <description><![CDATA[Open source data orchestration and scheduling platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[低垂的果實的爭論。模型和預測]]></title>
-            <link>https://news.ycombinator.com/item?id=30884495</link>
-            <guid>https://news.ycombinator.com/item?id=30884495</guid>
-            <pubDate>Fri, 01 Apr 2022 23:47:59 GMT</pubDate>
-            <description><![CDATA[The Low-Hanging Fruit Argument: Models and Predictions]]></description>
         </item>
     </channel>
 </rss>

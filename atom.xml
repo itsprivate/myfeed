@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-03T18:37:46.061Z</updated>
+    <updated>2022-04-03T18:54:10.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由YC支持的uBiome基本上是Theranos的精简版]]></title>
+        <id>https://news.ycombinator.com/item?id=30899352</id>
+        <link href="https://news.ycombinator.com/item?id=30899352"/>
+        <updated>2022-04-03T18:27:57.000Z</updated>
+        <summary type="html"><![CDATA[YC-backed uBiome is basically Theranos-lite]]></summary>
+        <author>
+            <name>donsupreme</name>
+            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我们不使用暂存环境]]></title>
         <id>https://news.ycombinator.com/item?id=30899362</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rammy1234</name>
             <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低垂的果实的争论。模型和预测]]></title>
-        <id>https://news.ycombinator.com/item?id=30884495</id>
-        <link href="https://news.ycombinator.com/item?id=30884495"/>
-        <updated>2022-04-01T23:47:59.000Z</updated>
-        <summary type="html"><![CDATA[The Low-Hanging Fruit Argument: Models and Predictions]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
