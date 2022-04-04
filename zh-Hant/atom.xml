@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T23:34:09.273Z</updated>
+    <updated>2022-04-04T23:44:20.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鏽跡斑斑的Espressif芯片 2022年第一季度]]></title>
+        <id>https://news.ycombinator.com/item?id=30913359</id>
+        <link href="https://news.ycombinator.com/item?id=30913359"/>
+        <updated>2022-04-04T23:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Rust on Espressif chips Q1 2022]]></summary>
+        <author>
+            <name>mabez</name>
+            <uri>https://news.ycombinator.com/user?id=mabez</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電壓效應》評論。我們有一個贏家嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30913303</id>
+        <link href="https://news.ycombinator.com/item?id=30913303"/>
+        <updated>2022-04-04T23:26:54.000Z</updated>
+        <summary type="html"><![CDATA[‘The Voltage Effect’ Review: Do We Have a Winner?]]></summary>
+        <author>
+            <name>jkuria</name>
+            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野生動物的痛苦應該是有效利他主義的旗艦問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30913302</id>
+        <link href="https://news.ycombinator.com/item?id=30913302"/>
+        <updated>2022-04-04T23:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Wild Animal Suffering Should Be Effective Altruism's Flagship Problem]]></summary>
+        <author>
+            <name>renesaenz_</name>
+            <uri>https://news.ycombinator.com/user?id=renesaenz_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬斯托頓。一個自由的、開源的、去中心化的、不屬於任何人的Twitter]]></title>
+        <id>https://news.ycombinator.com/item?id=30913234</id>
+        <link href="https://news.ycombinator.com/item?id=30913234"/>
+        <updated>2022-04-04T23:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon: A free, open-source, and decentralized Twitter not owned by anybody]]></summary>
+        <author>
+            <name>adamdegas</name>
+            <uri>https://news.ycombinator.com/user?id=adamdegas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明顯的隊長：神創論和種族主義有關]]></title>
         <id>https://news.ycombinator.com/item?id=30913291</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>jacobwg</name>
             <uri>https://news.ycombinator.com/user?id=jacobwg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[申銀萬國以1000億美元的估值進行融資]]></title>
-        <id>https://news.ycombinator.com/item?id=30898414</id>
-        <link href="https://news.ycombinator.com/item?id=30898414"/>
-        <updated>2022-04-03T16:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Shein Raises at $100B Valuation]]></summary>
-        <author>
-            <name>ashvardanian</name>
-            <uri>https://news.ycombinator.com/user?id=ashvardanian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把Twitter換成了WIP，非常高興。]]></title>
-        <id>https://news.ycombinator.com/item?id=30898065</id>
-        <link href="https://news.ycombinator.com/item?id=30898065"/>
-        <updated>2022-04-03T16:25:17.000Z</updated>
-        <summary type="html"><![CDATA[I swapped Twitter for WIP and couldn't be happier]]></summary>
-        <author>
-            <name>damir</name>
-            <uri>https://news.ycombinator.com/user?id=damir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有grep、Awk和sed的基本教程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30897769</id>
-        <link href="https://news.ycombinator.com/item?id=30897769"/>
-        <updated>2022-04-03T15:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Is there a basic tutorial for grep, Awk and sed?]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詞彙表是NP-Hard]]></title>
-        <id>https://news.ycombinator.com/item?id=30897584</id>
-        <link href="https://news.ycombinator.com/item?id=30897584"/>
-        <updated>2022-04-03T15:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Wordle Is NP-Hard]]></summary>
-        <author>
-            <name>doppp</name>
-            <uri>https://news.ycombinator.com/user?id=doppp</uri>
         </author>
     </entry>
 </feed>
