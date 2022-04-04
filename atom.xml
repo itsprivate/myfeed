@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T08:38:47.505Z</updated>
+    <updated>2022-04-04T08:59:42.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是否正在耗尽资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904478</id>
+        <link href="https://news.ycombinator.com/item?id=30904478"/>
+        <updated>2022-04-04T08:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Are we running out of resources?]]></summary>
+        <author>
+            <name>randomperson_24</name>
+            <uri>https://news.ycombinator.com/user?id=randomperson_24</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KSUID唯一标识符]]></title>
+        <id>https://news.ycombinator.com/item?id=30904475</id>
+        <link href="https://news.ycombinator.com/item?id=30904475"/>
+        <updated>2022-04-04T08:38:23.000Z</updated>
+        <summary type="html"><![CDATA[KSUID unique identifiers]]></summary>
+        <author>
+            <name>gearnode</name>
+            <uri>https://news.ycombinator.com/user?id=gearnode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配备600马力的莲花Eletre SUV正式曝光]]></title>
+        <id>https://news.ycombinator.com/item?id=30904148</id>
+        <link href="https://news.ycombinator.com/item?id=30904148"/>
+        <updated>2022-04-04T07:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Lotus Eletre SUV with 600bhp officially revealed]]></summary>
+        <author>
+            <name>matthewsinclair</name>
+            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cython是20]]></title>
         <id>https://news.ycombinator.com/item?id=30904430</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Moses-HAYES</name>
             <uri>https://news.ycombinator.com/user?id=Moses-HAYES</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找一个体面的离线安卓波兰语词典]]></title>
-        <id>https://news.ycombinator.com/item?id=30889327</id>
-        <link href="https://news.ycombinator.com/item?id=30889327"/>
-        <updated>2022-04-02T16:18:22.000Z</updated>
-        <summary type="html"><![CDATA[In search of a decent offline Android Polish dictionary]]></summary>
-        <author>
-            <name>henry_flower</name>
-            <uri>https://news.ycombinator.com/user?id=henry_flower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[严重的是，停止使用RSA: 评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30889690</id>
-        <link href="https://news.ycombinator.com/item?id=30889690"/>
-        <updated>2022-04-02T16:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Seriously, stop using RSA: comments]]></summary>
-        <author>
-            <name>upofadown</name>
-            <uri>https://news.ycombinator.com/user?id=upofadown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷你宠物40/80高级套装]]></title>
-        <id>https://news.ycombinator.com/item?id=30889689</id>
-        <link href="https://news.ycombinator.com/item?id=30889689"/>
-        <updated>2022-04-02T16:55:25.000Z</updated>
-        <summary type="html"><![CDATA[The Mini Pet 40/80 Advanced Level Kit]]></summary>
-        <author>
-            <name>nickt</name>
-            <uri>https://news.ycombinator.com/user?id=nickt</uri>
         </author>
     </entry>
 </feed>
