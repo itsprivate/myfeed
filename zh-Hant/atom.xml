@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T04:58:23.653Z</updated>
+    <updated>2022-04-04T05:12:16.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在瀏覽器中直觀地探索神經網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30903406</id>
+        <link href="https://news.ycombinator.com/item?id=30903406"/>
+        <updated>2022-04-04T04:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Neural Networks Visually in the Browser]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boopkit: eBPF後門（TCP），用於生成反向外殼]]></title>
         <id>https://news.ycombinator.com/item?id=30903356</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whack</name>
             <uri>https://news.ycombinator.com/user?id=whack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於移動式房車和船隻的Starlink衛星互聯網]]></title>
-        <id>https://news.ycombinator.com/item?id=30888386</id>
-        <link href="https://news.ycombinator.com/item?id=30888386"/>
-        <updated>2022-04-02T14:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Starlink Satellite Internet for Mobile RV and Boat Use]]></summary>
-        <author>
-            <name>davesailer</name>
-            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
         </author>
     </entry>
 </feed>
