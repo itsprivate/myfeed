@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T11:37:23.625Z</updated>
+    <updated>2022-04-04T11:52:06.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["Xanadu超文本文件 "架构和数据结构，2019年版]]></title>
+        <id>https://news.ycombinator.com/item?id=30905524</id>
+        <link href="https://news.ycombinator.com/item?id=30905524"/>
+        <updated>2022-04-04T11:46:30.000Z</updated>
+        <summary type="html"><![CDATA[“Xanadu Hypertext Documents” architecture and data structures, 2019 edition]]></summary>
+        <author>
+            <name>AlbertoGP</name>
+            <uri>https://news.ycombinator.com/user?id=AlbertoGP</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过深度投资实现快速发展（解密潦倒的科技创业公司的神话）]]></title>
+        <id>https://news.ycombinator.com/item?id=30905016</id>
+        <link href="https://news.ycombinator.com/item?id=30905016"/>
+        <updated>2022-04-04T10:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Going fast, by investing deep (Demystifying the scrappy tech startup myth)]]></summary>
+        <author>
+            <name>petrjandacz</name>
+            <uri>https://news.ycombinator.com/user?id=petrjandacz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作软件难的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30904266</id>
+        <link href="https://news.ycombinator.com/item?id=30904266"/>
+        <updated>2022-04-04T07:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Reasons Writing About Software Is Hard]]></summary>
+        <author>
+            <name>aabedraba</name>
+            <uri>https://news.ycombinator.com/user?id=aabedraba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LXD 5.0 LTS已发布]]></title>
         <id>https://news.ycombinator.com/item?id=30904202</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>zthrowaway</name>
             <uri>https://news.ycombinator.com/user?id=zthrowaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币资产：在欧盟阻止非法流动的新规则]]></title>
-        <id>https://news.ycombinator.com/item?id=30890286</id>
-        <link href="https://news.ycombinator.com/item?id=30890286"/>
-        <updated>2022-04-02T18:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Crypto assets: new rules to stop illicit flows in the EU]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于部署Azure资源的Bicep语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30890192</id>
-        <link href="https://news.ycombinator.com/item?id=30890192"/>
-        <updated>2022-04-02T17:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Bicep language for deploying Azure resources]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人工通用智能可能是不可能的]]></title>
-        <id>https://news.ycombinator.com/item?id=30889806</id>
-        <link href="https://news.ycombinator.com/item?id=30889806"/>
-        <updated>2022-04-02T17:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Why artificial general intelligence may be impossible]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
         </author>
     </entry>
 </feed>
