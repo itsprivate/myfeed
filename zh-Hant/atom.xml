@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T18:42:08.762Z</updated>
+    <updated>2022-04-04T18:57:31.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[REBOL/查看演示畫廊]]></title>
+        <id>https://news.ycombinator.com/item?id=30910539</id>
+        <link href="https://news.ycombinator.com/item?id=30910539"/>
+        <updated>2022-04-04T18:46:48.000Z</updated>
+        <summary type="html"><![CDATA[REBOL/View Demo Gallery]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生產和供應鏈的最新情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30910401</id>
+        <link href="https://news.ycombinator.com/item?id=30910401"/>
+        <updated>2022-04-04T18:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Production and Supply-Chain Update]]></summary>
+        <author>
+            <name>jermaustin1</name>
+            <uri>https://news.ycombinator.com/user?id=jermaustin1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin 1.6.20版發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=30910106</id>
+        <link href="https://news.ycombinator.com/item?id=30910106"/>
+        <updated>2022-04-04T18:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Kotlin 1.6.20 Released]]></summary>
+        <author>
+            <name>EddieRingle</name>
+            <uri>https://news.ycombinator.com/user?id=EddieRingle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受 "慢運動 "啟發的書籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30910092</id>
+        <link href="https://news.ycombinator.com/item?id=30910092"/>
+        <updated>2022-04-04T18:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Books Inspired by the Slow Movement]]></summary>
+        <author>
+            <name>ramoswriter</name>
+            <uri>https://news.ycombinator.com/user?id=ramoswriter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Datom - 一個互動的數據學學習體驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30909963</id>
+        <link href="https://news.ycombinator.com/item?id=30909963"/>
+        <updated>2022-04-04T18:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Max Datom – An Interactive Datomic Learning Experience]]></summary>
+        <author>
+            <name>raphaelsaunier</name>
+            <uri>https://news.ycombinator.com/user?id=raphaelsaunier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onyx Boox Nova 3 Color vs. Onyx Boox Nova Air C]]></title>
         <id>https://news.ycombinator.com/item?id=30910296</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>nindalf</name>
             <uri>https://news.ycombinator.com/user?id=nindalf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[審查。惠普最小的激光打印機 - M140w和Linux設置]]></title>
-        <id>https://news.ycombinator.com/item?id=30895474</id>
-        <link href="https://news.ycombinator.com/item?id=30895474"/>
-        <updated>2022-04-03T08:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Review: HP's smallest laser printer – M140w and Linux set up]]></summary>
-        <author>
-            <name>robin_reala</name>
-            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ipyvizzu - Jupyter筆記本中的動畫圖表]]></title>
-        <id>https://news.ycombinator.com/item?id=30895975</id>
-        <link href="https://news.ycombinator.com/item?id=30895975"/>
-        <updated>2022-04-03T10:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ipyvizzu – animated charts in Jupyter Notebooks]]></summary>
-        <author>
-            <name>vidipeti</name>
-            <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20世紀50年代的美國人口普查在保密70年後發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30895789</id>
-        <link href="https://news.ycombinator.com/item?id=30895789"/>
-        <updated>2022-04-03T10:10:07.000Z</updated>
-        <summary type="html"><![CDATA[The 1950s US Census released after 70 years of confidentiality]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政治候選人的網頁自動被我的Facebook賬戶所喜歡]]></title>
-        <id>https://news.ycombinator.com/item?id=30895828</id>
-        <link href="https://news.ycombinator.com/item?id=30895828"/>
-        <updated>2022-04-03T10:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Political candidate pages automatically got liked by my Facebook account]]></summary>
-        <author>
-            <name>johndavid9991</name>
-            <uri>https://news.ycombinator.com/user?id=johndavid9991</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方是如何把俄羅斯的軍事問題搞得如此、如此糟糕的]]></title>
-        <id>https://news.ycombinator.com/item?id=30895877</id>
-        <link href="https://news.ycombinator.com/item?id=30895877"/>
-        <updated>2022-04-03T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[How the West Got Russia’s Military So, So Wrong]]></summary>
-        <author>
-            <name>pretext</name>
-            <uri>https://news.ycombinator.com/user?id=pretext</uri>
         </author>
     </entry>
 </feed>
