@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T05:12:16.203Z</updated>
+    <updated>2022-04-04T05:30:42.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[氣候行動。我可以從哪裡開始？]]></title>
+        <id>https://news.ycombinator.com/item?id=30903419</id>
+        <link href="https://news.ycombinator.com/item?id=30903419"/>
+        <updated>2022-04-04T04:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Climate Action: Where can I Start?]]></summary>
+        <author>
+            <name>onzali</name>
+            <uri>https://news.ycombinator.com/user?id=onzali</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[托馬斯-皮凱蒂認為美國已準備好進行財富再分配]]></title>
+        <id>https://news.ycombinator.com/item?id=30903387</id>
+        <link href="https://news.ycombinator.com/item?id=30903387"/>
+        <updated>2022-04-04T04:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Piketty Thinks America Is Primed for Wealth Redistribution]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在瀏覽器中直觀地探索神經網絡]]></title>
         <id>https://news.ycombinator.com/item?id=30903406</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yarapavan</name>
             <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ionic vs. React Native: 性能比較]]></title>
-        <id>https://news.ycombinator.com/item?id=30888484</id>
-        <link href="https://news.ycombinator.com/item?id=30888484"/>
-        <updated>2022-04-02T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Ionic vs. React Native: Performance Comparison]]></summary>
-        <author>
-            <name>stoicjumbotron</name>
-            <uri>https://news.ycombinator.com/user?id=stoicjumbotron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[競爭是好事，卡特爾是壞事，工會也是如此]]></title>
-        <id>https://news.ycombinator.com/item?id=30888388</id>
-        <link href="https://news.ycombinator.com/item?id=30888388"/>
-        <updated>2022-04-02T14:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Competition is Good, Cartels are Bad, and so too are Unions]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
         </author>
     </entry>
 </feed>
