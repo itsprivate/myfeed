@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T21:51:33.449Z</updated>
+    <updated>2022-04-04T22:12:18.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[神秘的兒童自殺率上升]]></title>
+        <id>https://news.ycombinator.com/item?id=30912416</id>
+        <link href="https://news.ycombinator.com/item?id=30912416"/>
+        <updated>2022-04-04T21:50:17.000Z</updated>
+        <summary type="html"><![CDATA[The Mystifying Rise of Child Suicide]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們正在招聘一名高級視覺記者]]></title>
+        <id>https://news.ycombinator.com/item?id=30912385</id>
+        <link href="https://news.ycombinator.com/item?id=30912385"/>
+        <updated>2022-04-04T21:47:49.000Z</updated>
+        <summary type="html"><![CDATA[We're Hiring a Senior Visual Journalist]]></summary>
+        <author>
+            <name>cf100clunk</name>
+            <uri>https://news.ycombinator.com/user?id=cf100clunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們擁有拯救地球的工具。IPCC報告稱，政治是阻礙因素]]></title>
+        <id>https://news.ycombinator.com/item?id=30912377</id>
+        <link href="https://news.ycombinator.com/item?id=30912377"/>
+        <updated>2022-04-04T21:46:59.000Z</updated>
+        <summary type="html"><![CDATA[We have the tools to save the planet. Politics is in the way, IPCC report says]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Hugging Face和Gradio建立一個新聞文章總結器應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30912355</id>
+        <link href="https://news.ycombinator.com/item?id=30912355"/>
+        <updated>2022-04-04T21:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Build a News Article Summarizer App with Hugging Face and Gradio]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戰爭是個騙局》 作者：斯梅德利-巴特勒少將 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30912223</id>
+        <link href="https://news.ycombinator.com/item?id=30912223"/>
+        <updated>2022-04-04T21:34:55.000Z</updated>
+        <summary type="html"><![CDATA[War Is a Racket by Major General Smedley Butler [pdf]]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟為Azure虛擬機帶來Arm支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30912201</id>
+        <link href="https://news.ycombinator.com/item?id=30912201"/>
+        <updated>2022-04-04T21:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft brings Arm support to Azure virtual machines]]></summary>
+        <author>
+            <name>timthorn</name>
+            <uri>https://news.ycombinator.com/user?id=timthorn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紅帽公司為紅帽企業Linux 8增加通用標準認證]]></title>
         <id>https://news.ycombinator.com/item?id=30912314</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SerenityOS：為什麼不直接使用X？[視頻］]]></title>
-        <id>https://news.ycombinator.com/item?id=30897674</id>
-        <link href="https://news.ycombinator.com/item?id=30897674"/>
-        <updated>2022-04-03T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[SerenityOS: Why not just use X? [video]]]></summary>
-        <author>
-            <name>jmmv</name>
-            <uri>https://news.ycombinator.com/user?id=jmmv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窗簾。支持 pledge()/unveil() 的 WIP 沙箱機制 (FreeBSD)]]></title>
-        <id>https://news.ycombinator.com/item?id=30897378</id>
-        <link href="https://news.ycombinator.com/item?id=30897378"/>
-        <updated>2022-04-03T14:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Curtain: WIP sandboxing mechanism with pledge()/unveil() support (FreeBSD)]]></summary>
-        <author>
-            <name>conductor</name>
-            <uri>https://news.ycombinator.com/user?id=conductor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DietPi OS v8.3已經發布]]></title>
-        <id>https://news.ycombinator.com/item?id=30897214</id>
-        <link href="https://news.ycombinator.com/item?id=30897214"/>
-        <updated>2022-04-03T14:33:30.000Z</updated>
-        <summary type="html"><![CDATA[DietPi OS v8.3 has been released]]></summary>
-        <author>
-            <name>DietPi</name>
-            <uri>https://news.ycombinator.com/user?id=DietPi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威爾-史密斯和黑人男子面臨的 "不公平 "負擔]]></title>
-        <id>https://news.ycombinator.com/item?id=30897697</id>
-        <link href="https://news.ycombinator.com/item?id=30897697"/>
-        <updated>2022-04-03T15:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Will Smith and the 'unfair' burden Black men face]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭戰爭的七個最壞情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30897741</id>
-        <link href="https://news.ycombinator.com/item?id=30897741"/>
-        <updated>2022-04-03T15:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Seven Worst-Case Scenarios from the War in Ukraine]]></summary>
-        <author>
-            <name>xqcgrek2</name>
-            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將心理健康問題歸咎於技術很容易。但這公平嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30897669</id>
-        <link href="https://news.ycombinator.com/item?id=30897669"/>
-        <updated>2022-04-03T15:32:48.000Z</updated>
-        <summary type="html"><![CDATA[It’s Easy to Blame Mental Health Issues on Tech. But Is It Fair?]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
