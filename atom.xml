@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T09:43:54.913Z</updated>
+    <updated>2022-04-04T09:51:18.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尊重人们的全名。不要称某人的名字为 "无效"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30904532</id>
+        <link href="https://news.ycombinator.com/item?id=30904532"/>
+        <updated>2022-04-04T08:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Respect people’s full names: Don’t call someone’s name ‘invalid’]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[负载平衡器被关闭了]]></title>
         <id>https://news.ycombinator.com/item?id=30904709</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tejohnso</name>
             <uri>https://news.ycombinator.com/user?id=tejohnso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士通A64FX]]></title>
-        <id>https://news.ycombinator.com/item?id=30889581</id>
-        <link href="https://news.ycombinator.com/item?id=30889581"/>
-        <updated>2022-04-02T16:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Fujitsu A64FX]]></summary>
-        <author>
-            <name>amelius</name>
-            <uri>https://news.ycombinator.com/user?id=amelius</uri>
         </author>
     </entry>
 </feed>
