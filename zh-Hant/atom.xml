@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T09:33:20.117Z</updated>
+    <updated>2022-04-04T09:43:54.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[負載平衡器被關閉了]]></title>
+        <id>https://news.ycombinator.com/item?id=30904709</id>
+        <link href="https://news.ycombinator.com/item?id=30904709"/>
+        <updated>2022-04-04T09:30:53.000Z</updated>
+        <summary type="html"><![CDATA[The Load Balancer Got Terned Off]]></summary>
+        <author>
+            <name>misterflibble</name>
+            <uri>https://news.ycombinator.com/user?id=misterflibble</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不歡迎所有人。在俄烏戰爭中，誰是 "可接受的 "難民？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904671</id>
+        <link href="https://news.ycombinator.com/item?id=30904671"/>
+        <updated>2022-04-04T09:20:22.000Z</updated>
+        <summary type="html"><![CDATA[All Are Not Welcome: In the Russia-Ukraine War, Who Is an ‘Acceptable’ Refugee?]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在70年代和80年代，編程職位的面試是什麼樣的？]]></title>
         <id>https://news.ycombinator.com/item?id=30904621</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>amelius</name>
             <uri>https://news.ycombinator.com/user?id=amelius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建設與購買。供應商合同的詭計]]></title>
-        <id>https://news.ycombinator.com/item?id=30889560</id>
-        <link href="https://news.ycombinator.com/item?id=30889560"/>
-        <updated>2022-04-02T16:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Build vs. Buy: Vendor Contract Shenanigans]]></summary>
-        <author>
-            <name>maddynator</name>
-            <uri>https://news.ycombinator.com/user?id=maddynator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 - 區塊鏈、加密貨幣和去中心化]]></title>
-        <id>https://news.ycombinator.com/item?id=30889529</id>
-        <link href="https://news.ycombinator.com/item?id=30889529"/>
-        <updated>2022-04-02T16:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Web3 – Blockchains, Cryptocurrencies, and Decentralization]]></summary>
-        <author>
-            <name>ArtWomb</name>
-            <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
         </author>
     </entry>
 </feed>
