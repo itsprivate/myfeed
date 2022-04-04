@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T06:57:30.360Z</updated>
+    <updated>2022-04-04T07:14:10.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客新聞上的大人物]]></title>
+        <id>https://news.ycombinator.com/item?id=30903972</id>
+        <link href="https://news.ycombinator.com/item?id=30903972"/>
+        <updated>2022-04-04T07:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Big on Hacker News]]></summary>
+        <author>
+            <name>jwhiles</name>
+            <uri>https://news.ycombinator.com/user?id=jwhiles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用MRI的C語言解釋器比編譯的C語言擴展要快（2014年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30903944</id>
+        <link href="https://news.ycombinator.com/item?id=30903944"/>
+        <updated>2022-04-04T06:54:55.000Z</updated>
+        <summary type="html"><![CDATA[An interpreter for C is faster than compiled C extensions using MRI (2014)]]></summary>
+        <author>
+            <name>iudqnolq</name>
+            <uri>https://news.ycombinator.com/user?id=iudqnolq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[團隊的語義版本管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30903899</id>
+        <link href="https://news.ycombinator.com/item?id=30903899"/>
+        <updated>2022-04-04T06:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Semantic Versioning for Teams]]></summary>
+        <author>
+            <name>bauxitic_filly</name>
+            <uri>https://news.ycombinator.com/user?id=bauxitic_filly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果PHP是英國人 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30903772</id>
+        <link href="https://news.ycombinator.com/item?id=30903772"/>
+        <updated>2022-04-04T06:18:29.000Z</updated>
+        <summary type="html"><![CDATA[If PHP Were British (2011)]]></summary>
+        <author>
+            <name>kretaceous</name>
+            <uri>https://news.ycombinator.com/user?id=kretaceous</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們工作的未來廣告時段]]></title>
         <id>https://news.ycombinator.com/item?id=30903594</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kloch</name>
             <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨資企業正在改變經濟的面貌]]></title>
-        <id>https://news.ycombinator.com/item?id=30889074</id>
-        <link href="https://news.ycombinator.com/item?id=30889074"/>
-        <updated>2022-04-02T15:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Solopreneurs Are Changing the Face of the Economy]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌在Chrome瀏覽器中加入Journeys：按主題搜索你的歷史記錄]]></title>
-        <id>https://news.ycombinator.com/item?id=30889011</id>
-        <link href="https://news.ycombinator.com/item?id=30889011"/>
-        <updated>2022-04-02T15:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Google adds Journeys to Chrome: search your history by topic]]></summary>
-        <author>
-            <name>mrkramer</name>
-            <uri>https://news.ycombinator.com/user?id=mrkramer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZSH - Z型外殼]]></title>
-        <id>https://news.ycombinator.com/item?id=30888837</id>
-        <link href="https://news.ycombinator.com/item?id=30888837"/>
-        <updated>2022-04-02T15:16:20.000Z</updated>
-        <summary type="html"><![CDATA[ZSH – The Z Shell]]></summary>
-        <author>
-            <name>notRobot</name>
-            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幾乎所有你知道的關於玩家門的事情都是錯誤的]]></title>
-        <id>https://news.ycombinator.com/item?id=30888767</id>
-        <link href="https://news.ycombinator.com/item?id=30888767"/>
-        <updated>2022-04-02T15:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Almost Everything You Know About GamerGate Is Wrong]]></summary>
-        <author>
-            <name>memish</name>
-            <uri>https://news.ycombinator.com/user?id=memish</uri>
         </author>
     </entry>
 </feed>
