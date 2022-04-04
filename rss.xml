@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cython是20]]></title>
+            <link>https://news.ycombinator.com/item?id=30904430</link>
+            <guid>https://news.ycombinator.com/item?id=30904430</guid>
+            <pubDate>Mon, 04 Apr 2022 08:30:13 GMT</pubDate>
+            <description><![CDATA[Cython Is 20]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CRDTs+WASM用于在浏览器中进行本地优先的协作式记事]]></title>
+            <link>https://news.ycombinator.com/item?id=30904405</link>
+            <guid>https://news.ycombinator.com/item?id=30904405</guid>
+            <pubDate>Mon, 04 Apr 2022 08:25:14 GMT</pubDate>
+            <description><![CDATA[Show HN: CRDTs+WASM for local-first, collaborative note-taking in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我抛弃了Cloudflare（你也应该抛弃）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30904345</link>
+            <guid>https://news.ycombinator.com/item?id=30904345</guid>
+            <pubDate>Mon, 04 Apr 2022 08:12:35 GMT</pubDate>
+            <description><![CDATA[I ditched Cloudflare (and you should too)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[忽视美感的危险]]></title>
+            <link>https://news.ycombinator.com/item?id=30904338</link>
+            <guid>https://news.ycombinator.com/item?id=30904338</guid>
+            <pubDate>Mon, 04 Apr 2022 08:11:27 GMT</pubDate>
+            <description><![CDATA[The Danger of Ignoring Beauty]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我在谷歌硬盘上没有发现色情的那一周]]></title>
+            <link>https://news.ycombinator.com/item?id=30904320</link>
+            <guid>https://news.ycombinator.com/item?id=30904320</guid>
+            <pubDate>Mon, 04 Apr 2022 08:05:54 GMT</pubDate>
+            <description><![CDATA[The week I didn’t find porn on my Google Drive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用GLSL实现复数的可视化]]></title>
+            <link>https://news.ycombinator.com/item?id=30904260</link>
+            <guid>https://news.ycombinator.com/item?id=30904260</guid>
+            <pubDate>Mon, 04 Apr 2022 07:53:19 GMT</pubDate>
+            <description><![CDATA[Visualizing Complex Numbers Using GLSL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[发送语音信息是一种攻击形式]]></title>
+            <link>https://news.ycombinator.com/item?id=30904255</link>
+            <guid>https://news.ycombinator.com/item?id=30904255</guid>
+            <pubDate>Mon, 04 Apr 2022 07:52:42 GMT</pubDate>
+            <description><![CDATA[Sending a voice message is a form of assault]]></description>
+        </item>
         <item>
             <title><![CDATA[针对俄罗斯的长期经济战争。一个计划]]></title>
             <link>https://news.ycombinator.com/item?id=30904245</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30889689</guid>
             <pubDate>Sat, 02 Apr 2022 16:55:25 GMT</pubDate>
             <description><![CDATA[The Mini Pet 40/80 Advanced Level Kit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让你所有的设备都能看到你的网站--如何让 "localhost "略微不那么本地？]]></title>
-            <link>https://news.ycombinator.com/item?id=30889663</link>
-            <guid>https://news.ycombinator.com/item?id=30889663</guid>
-            <pubDate>Sat, 02 Apr 2022 16:53:32 GMT</pubDate>
-            <description><![CDATA[Let all your devices see your site • How to make “localhost” slightly less local]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电波镜：爱德华时代的雷达]]></title>
-            <link>https://news.ycombinator.com/item?id=30889635</link>
-            <guid>https://news.ycombinator.com/item?id=30889635</guid>
-            <pubDate>Sat, 02 Apr 2022 16:50:44 GMT</pubDate>
-            <description><![CDATA[The Telemobiloscope: an Edwardian Radar]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们这个时代的谬误政治思维]]></title>
-            <link>https://news.ycombinator.com/item?id=30889619</link>
-            <guid>https://news.ycombinator.com/item?id=30889619</guid>
-            <pubDate>Sat, 02 Apr 2022 16:49:14 GMT</pubDate>
-            <description><![CDATA[Fallacious political thinking of our time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nok Nok更新无密码套件的集成和安全功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30889616</link>
-            <guid>https://news.ycombinator.com/item?id=30889616</guid>
-            <pubDate>Sat, 02 Apr 2022 16:49:06 GMT</pubDate>
-            <description><![CDATA[Nok Nok updates passwordless suite’s integration, security features]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你每天都在赚钱，你就没有最大化。]]></title>
-            <link>https://news.ycombinator.com/item?id=30889514</link>
-            <guid>https://news.ycombinator.com/item?id=30889514</guid>
-            <pubDate>Sat, 02 Apr 2022 16:38:35 GMT</pubDate>
-            <description><![CDATA[If You Make Money Every Day, You’re Not Maximizing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在react-native中给每个列表项一个左扫的手势？]]></title>
-            <link>https://news.ycombinator.com/item?id=30889522</link>
-            <guid>https://news.ycombinator.com/item?id=30889522</guid>
-            <pubDate>Sat, 02 Apr 2022 16:39:16 GMT</pubDate>
-            <description><![CDATA[How to give each list item a left swipe gesture in react-native?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯要求NASA结束制裁以拯救国际空间站，但西方国家没有眨眼]]></title>
-            <link>https://news.ycombinator.com/item?id=30889450</link>
-            <guid>https://news.ycombinator.com/item?id=30889450</guid>
-            <pubDate>Sat, 02 Apr 2022 16:31:26 GMT</pubDate>
-            <description><![CDATA[Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink]]></description>
         </item>
     </channel>
 </rss>

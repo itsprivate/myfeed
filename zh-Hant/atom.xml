@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T08:14:51.816Z</updated>
+    <updated>2022-04-04T08:38:47.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cython是20]]></title>
+        <id>https://news.ycombinator.com/item?id=30904430</id>
+        <link href="https://news.ycombinator.com/item?id=30904430"/>
+        <updated>2022-04-04T08:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Cython Is 20]]></summary>
+        <author>
+            <name>geococcyxc</name>
+            <uri>https://news.ycombinator.com/user?id=geococcyxc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRDTs+WASM用於在瀏覽器中進行本地優先的協作式記事]]></title>
+        <id>https://news.ycombinator.com/item?id=30904405</id>
+        <link href="https://news.ycombinator.com/item?id=30904405"/>
+        <updated>2022-04-04T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CRDTs+WASM for local-first, collaborative note-taking in the browser]]></summary>
+        <author>
+            <name>sambigeara</name>
+            <uri>https://news.ycombinator.com/user?id=sambigeara</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我拋棄了Cloudflare（你也應該拋棄）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30904345</id>
+        <link href="https://news.ycombinator.com/item?id=30904345"/>
+        <updated>2022-04-04T08:12:35.000Z</updated>
+        <summary type="html"><![CDATA[I ditched Cloudflare (and you should too)]]></summary>
+        <author>
+            <name>executesorder66</name>
+            <uri>https://news.ycombinator.com/user?id=executesorder66</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忽視美感的危險]]></title>
+        <id>https://news.ycombinator.com/item?id=30904338</id>
+        <link href="https://news.ycombinator.com/item?id=30904338"/>
+        <updated>2022-04-04T08:11:27.000Z</updated>
+        <summary type="html"><![CDATA[The Danger of Ignoring Beauty]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在谷歌硬盤上沒有發現色情的那一週]]></title>
+        <id>https://news.ycombinator.com/item?id=30904320</id>
+        <link href="https://news.ycombinator.com/item?id=30904320"/>
+        <updated>2022-04-04T08:05:54.000Z</updated>
+        <summary type="html"><![CDATA[The week I didn’t find porn on my Google Drive]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用GLSL實現複數的可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30904260</id>
+        <link href="https://news.ycombinator.com/item?id=30904260"/>
+        <updated>2022-04-04T07:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing Complex Numbers Using GLSL]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[發送語音信息是一種攻擊形式]]></title>
+        <id>https://news.ycombinator.com/item?id=30904255</id>
+        <link href="https://news.ycombinator.com/item?id=30904255"/>
+        <updated>2022-04-04T07:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Sending a voice message is a form of assault]]></summary>
+        <author>
+            <name>peter_retief</name>
+            <uri>https://news.ycombinator.com/user?id=peter_retief</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[針對俄羅斯的長期經濟戰爭。一個計劃]]></title>
         <id>https://news.ycombinator.com/item?id=30904245</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>nickt</name>
             <uri>https://news.ycombinator.com/user?id=nickt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓你所有的設備都能看到你的網站--如何讓 "localhost "略微不那麼本地？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889663</id>
-        <link href="https://news.ycombinator.com/item?id=30889663"/>
-        <updated>2022-04-02T16:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Let all your devices see your site • How to make “localhost” slightly less local]]></summary>
-        <author>
-            <name>brycewray</name>
-            <uri>https://news.ycombinator.com/user?id=brycewray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電波鏡：愛德華時代的雷達]]></title>
-        <id>https://news.ycombinator.com/item?id=30889635</id>
-        <link href="https://news.ycombinator.com/item?id=30889635"/>
-        <updated>2022-04-02T16:50:44.000Z</updated>
-        <summary type="html"><![CDATA[The Telemobiloscope: an Edwardian Radar]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們這個時代的謬誤政治思維]]></title>
-        <id>https://news.ycombinator.com/item?id=30889619</id>
-        <link href="https://news.ycombinator.com/item?id=30889619"/>
-        <updated>2022-04-02T16:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Fallacious political thinking of our time]]></summary>
-        <author>
-            <name>furrowedbrow</name>
-            <uri>https://news.ycombinator.com/user?id=furrowedbrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nok Nok更新無密碼套件的集成和安全功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30889616</id>
-        <link href="https://news.ycombinator.com/item?id=30889616"/>
-        <updated>2022-04-02T16:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Nok Nok updates passwordless suite’s integration, security features]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你每天都在賺錢，你就沒有最大化。]]></title>
-        <id>https://news.ycombinator.com/item?id=30889514</id>
-        <link href="https://news.ycombinator.com/item?id=30889514"/>
-        <updated>2022-04-02T16:38:35.000Z</updated>
-        <summary type="html"><![CDATA[If You Make Money Every Day, You’re Not Maximizing]]></summary>
-        <author>
-            <name>makaimc</name>
-            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在react-native中給每個列表項一個左掃的手勢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889522</id>
-        <link href="https://news.ycombinator.com/item?id=30889522"/>
-        <updated>2022-04-02T16:39:16.000Z</updated>
-        <summary type="html"><![CDATA[How to give each list item a left swipe gesture in react-native?]]></summary>
-        <author>
-            <name>Coffee63</name>
-            <uri>https://news.ycombinator.com/user?id=Coffee63</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯要求NASA結束制裁以拯救國際空間站，但西方國家沒有眨眼]]></title>
-        <id>https://news.ycombinator.com/item?id=30889450</id>
-        <link href="https://news.ycombinator.com/item?id=30889450"/>
-        <updated>2022-04-02T16:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink]]></summary>
-        <author>
-            <name>robin_reala</name>
-            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
         </author>
     </entry>
 </feed>
