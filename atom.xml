@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T18:57:31.811Z</updated>
+    <updated>2022-04-04T19:10:59.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在俄罗斯策划下一步行动时，一个人工智能在倾听他们的谈话]]></title>
+        <id>https://news.ycombinator.com/item?id=30910594</id>
+        <link href="https://news.ycombinator.com/item?id=30910594"/>
+        <updated>2022-04-04T18:52:38.000Z</updated>
+        <summary type="html"><![CDATA[As Russia Plots Its Next Move, an AI Listens to the Chatter]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型的ML辅助CLI，可以在常见的存储库中查找软件包]]></title>
+        <id>https://news.ycombinator.com/item?id=30910584</id>
+        <link href="https://news.ycombinator.com/item?id=30910584"/>
+        <updated>2022-04-04T18:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Small ML assisted CLI to look up packages in common repositories]]></summary>
+        <author>
+            <name>pacmanche</name>
+            <uri>https://news.ycombinator.com/user?id=pacmanche</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REBOL/查看演示画廊]]></title>
         <id>https://news.ycombinator.com/item?id=30910539</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure项目的前6年生活 - Jarppe Länsiö]]></title>
-        <id>https://news.ycombinator.com/item?id=30895819</id>
-        <link href="https://news.ycombinator.com/item?id=30895819"/>
-        <updated>2022-04-03T10:15:51.000Z</updated>
-        <summary type="html"><![CDATA[First 6 years of a life of Clojure project – Jarppe Länsiö]]></summary>
-        <author>
-            <name>zackoverflow</name>
-            <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对现代专制者来说，撒谎比杀人更有用]]></title>
-        <id>https://news.ycombinator.com/item?id=30895676</id>
-        <link href="https://news.ycombinator.com/item?id=30895676"/>
-        <updated>2022-04-03T09:40:22.000Z</updated>
-        <summary type="html"><![CDATA[For modern autocrats, lying is more useful than killing]]></summary>
-        <author>
-            <name>nindalf</name>
-            <uri>https://news.ycombinator.com/user?id=nindalf</uri>
         </author>
     </entry>
 </feed>
