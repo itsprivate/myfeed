@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T04:41:11.404Z</updated>
+    <updated>2022-04-04T04:58:23.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Boopkit: eBPF後門（TCP），用於生成反向外殼]]></title>
+        <id>https://news.ycombinator.com/item?id=30903356</id>
+        <link href="https://news.ycombinator.com/item?id=30903356"/>
+        <updated>2022-04-04T04:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Boopkit: eBPF backdoor (TCP) for spawning reverse shells]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contra Chrome]]></title>
+        <id>https://news.ycombinator.com/item?id=30903320</id>
+        <link href="https://news.ycombinator.com/item?id=30903320"/>
+        <updated>2022-04-04T04:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Contra Chrome]]></summary>
+        <author>
+            <name>JoshTriplett</name>
+            <uri>https://news.ycombinator.com/user?id=JoshTriplett</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞭解戰略模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30903248</id>
+        <link href="https://news.ycombinator.com/item?id=30903248"/>
+        <updated>2022-04-04T04:11:14.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Strategy Pattern]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽車製造商將 "需要成為礦工"]]></title>
+        <id>https://news.ycombinator.com/item?id=30902628</id>
+        <link href="https://news.ycombinator.com/item?id=30902628"/>
+        <updated>2022-04-04T01:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Carmakers will “need to become miners”]]></summary>
+        <author>
+            <name>cinquemb</name>
+            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司對iOS中25萬個可自動完成的域名的白名單]]></title>
         <id>https://news.ycombinator.com/item?id=30903246</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>davesailer</name>
             <uri>https://news.ycombinator.com/user?id=davesailer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++的生命期註解]]></title>
-        <id>https://news.ycombinator.com/item?id=30888172</id>
-        <link href="https://news.ycombinator.com/item?id=30888172"/>
-        <updated>2022-04-02T13:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Lifetime Annotations for C++]]></summary>
-        <author>
-            <name>akling</name>
-            <uri>https://news.ycombinator.com/user?id=akling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不再是最後的手段。從空氣中抽出二氧化碳]]></title>
-        <id>https://news.ycombinator.com/item?id=30888083</id>
-        <link href="https://news.ycombinator.com/item?id=30888083"/>
-        <updated>2022-04-02T13:25:34.000Z</updated>
-        <summary type="html"><![CDATA[No longer a last resort: Pulling CO2 from the air]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[治療脫髮症的新試驗獲得成功]]></title>
-        <id>https://news.ycombinator.com/item?id=30887705</id>
-        <link href="https://news.ycombinator.com/item?id=30887705"/>
-        <updated>2022-04-02T12:27:52.000Z</updated>
-        <summary type="html"><![CDATA[New trials for alopecia areata treatment are a success]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在一天內損失了15萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30888641</id>
-        <link href="https://news.ycombinator.com/item?id=30888641"/>
-        <updated>2022-04-02T14:43:30.000Z</updated>
-        <summary type="html"><![CDATA[I Lost $150K in a Day]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
         </author>
     </entry>
 </feed>
