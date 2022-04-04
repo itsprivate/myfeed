@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T07:32:02.066Z</updated>
+    <updated>2022-04-04T07:40:23.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普的真相社交应用被打成了一场灾难]]></title>
+        <id>https://news.ycombinator.com/item?id=30904125</id>
+        <link href="https://news.ycombinator.com/item?id=30904125"/>
+        <updated>2022-04-04T07:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Trump's Truth Social app branded a disaster]]></summary>
+        <author>
+            <name>boffinism</name>
+            <uri>https://news.ycombinator.com/user?id=boffinism</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xi Editor - 用Rust编写的后端现代编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30903989</id>
+        <link href="https://news.ycombinator.com/item?id=30903989"/>
+        <updated>2022-04-04T07:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Xi Editor – modern editor with a back end written in Rust]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基础设施即代码的感觉]]></title>
         <id>https://news.ycombinator.com/item?id=30904019</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前谷歌CEO埃里克-施密特为拜登的科学办公室买单背后的丑闻]]></title>
-        <id>https://news.ycombinator.com/item?id=30889238</id>
-        <link href="https://news.ycombinator.com/item?id=30889238"/>
-        <updated>2022-04-02T16:08:09.000Z</updated>
-        <summary type="html"><![CDATA[The scandal behind ex-Google CEO Eric Schmidt paying for Biden’s science office]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的游戏结束了]]></title>
-        <id>https://news.ycombinator.com/item?id=30889199</id>
-        <link href="https://news.ycombinator.com/item?id=30889199"/>
-        <updated>2022-04-02T16:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Game Ends]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
         </author>
     </entry>
 </feed>
