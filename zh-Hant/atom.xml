@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T19:29:08.578Z</updated>
+    <updated>2022-04-04T19:37:41.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客攻破Mailchimp公司，誘騙加密貨幣錢包]]></title>
+        <id>https://news.ycombinator.com/item?id=30910938</id>
+        <link href="https://news.ycombinator.com/item?id=30910938"/>
+        <updated>2022-04-04T19:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Hackers breached Mailchimp to phish cryptocurrency wallets]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+            <uri>https://news.ycombinator.com/user?id=ChrisArchitect</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramda與Vanilla JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=30910930</id>
+        <link href="https://news.ycombinator.com/item?id=30910930"/>
+        <updated>2022-04-04T19:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Ramda vs. Vanilla JavaScript]]></summary>
+        <author>
+            <name>l5870uoo9y</name>
+            <uri>https://news.ycombinator.com/user?id=l5870uoo9y</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先寫後錄]]></title>
+        <id>https://news.ycombinator.com/item?id=30910699</id>
+        <link href="https://news.ycombinator.com/item?id=30910699"/>
+        <updated>2022-04-04T19:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Write-Ahead Logging]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為SQLite數據庫文件啟用WAL模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30910562</id>
+        <link href="https://news.ycombinator.com/item?id=30910562"/>
+        <updated>2022-04-04T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Enabling WAL mode for SQLite database files]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創業公司的技術棧]]></title>
+        <id>https://news.ycombinator.com/item?id=30910344</id>
+        <link href="https://news.ycombinator.com/item?id=30910344"/>
+        <updated>2022-04-04T18:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Tech Stack of a Bootstrapped Startup]]></summary>
+        <author>
+            <name>welcomy-tech</name>
+            <uri>https://news.ycombinator.com/user?id=welcomy-tech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog v3 - 檢測並自動驗證600多種憑證類型]]></title>
         <id>https://news.ycombinator.com/item?id=30910893</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threema Push：無需谷歌服務的即時通知 - Threema]]></title>
-        <id>https://news.ycombinator.com/item?id=30896160</id>
-        <link href="https://news.ycombinator.com/item?id=30896160"/>
-        <updated>2022-04-03T11:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Threema Push: Instant Notifications Without Google Services – Threema]]></summary>
-        <author>
-            <name>Gys</name>
-            <uri>https://news.ycombinator.com/user?id=Gys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個冥想的網站，你看著窗外，畫著極光]]></title>
-        <id>https://news.ycombinator.com/item?id=30896084</id>
-        <link href="https://news.ycombinator.com/item?id=30896084"/>
-        <updated>2022-04-03T11:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A meditative website where you look out of a window and draw auroras]]></summary>
-        <author>
-            <name>shriracha</name>
-            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼英國的二手車最終會出現在烏克蘭的前線？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896075</id>
-        <link href="https://news.ycombinator.com/item?id=30896075"/>
-        <updated>2022-04-03T11:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Why second-hand British cars end up on Ukraine’s frontline]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速時尚。歐盟披露打擊快速時尚的措施]]></title>
-        <id>https://news.ycombinator.com/item?id=30896125</id>
-        <link href="https://news.ycombinator.com/item?id=30896125"/>
-        <updated>2022-04-03T11:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Fast fashion: European Union reveals fast fashion crackdown]]></summary>
-        <author>
-            <name>0x54MUR41</name>
-            <uri>https://news.ycombinator.com/user?id=0x54MUR41</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra Chrome]]></title>
-        <id>https://news.ycombinator.com/item?id=30896124</id>
-        <link href="https://news.ycombinator.com/item?id=30896124"/>
-        <updated>2022-04-03T11:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Contra Chrome]]></summary>
-        <author>
-            <name>rapnie</name>
-            <uri>https://news.ycombinator.com/user?id=rapnie</uri>
         </author>
     </entry>
 </feed>
