@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OpenPIL AI - 开源的NLP Python软件包，用于编译药物数据库]]></title>
+            <link>https://news.ycombinator.com/item?id=30913027</link>
+            <guid>https://news.ycombinator.com/item?id=30913027</guid>
+            <pubDate>Mon, 04 Apr 2022 22:53:05 GMT</pubDate>
+            <description><![CDATA[Show HN: OpenPIL AI – open-source NLP Python package to compile drug databases]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LG死后一年：商业失败还是以怪异的名义自杀？]]></title>
+            <link>https://news.ycombinator.com/item?id=30913019</link>
+            <guid>https://news.ycombinator.com/item?id=30913019</guid>
+            <pubDate>Mon, 04 Apr 2022 22:51:25 GMT</pubDate>
+            <description><![CDATA[A year after LG's death: commercial failure or suicide in the name of weirdness?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Faros CE - 开源的工程操作平台]]></title>
+            <link>https://news.ycombinator.com/item?id=30912914</link>
+            <guid>https://news.ycombinator.com/item?id=30912914</guid>
+            <pubDate>Mon, 04 Apr 2022 22:40:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Faros CE – open-source engineering operations platform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React 钩子如何工作？闭包]]></title>
+            <link>https://news.ycombinator.com/item?id=30912652</link>
+            <guid>https://news.ycombinator.com/item?id=30912652</guid>
+            <pubDate>Mon, 04 Apr 2022 22:13:11 GMT</pubDate>
+            <description><![CDATA[How Do React Hooks Work?: Closures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在列出重复的事情时，要做成金字塔形]]></title>
+            <link>https://news.ycombinator.com/item?id=30912589</link>
+            <guid>https://news.ycombinator.com/item?id=30912589</guid>
+            <pubDate>Mon, 04 Apr 2022 22:07:16 GMT</pubDate>
+            <description><![CDATA[When listing repeated things, make pyramids]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tricorder - 自动化的KISS方式，不涉及YAML，用Rust编写]]></title>
+            <link>https://news.ycombinator.com/item?id=30912049</link>
+            <guid>https://news.ycombinator.com/item?id=30912049</guid>
+            <pubDate>Mon, 04 Apr 2022 21:18:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Tricorder – Automation the KISS way, no YAML involved, written in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何报告谷歌硬盘的垃圾邮件]]></title>
+            <link>https://news.ycombinator.com/item?id=30911682</link>
+            <guid>https://news.ycombinator.com/item?id=30911682</guid>
+            <pubDate>Mon, 04 Apr 2022 20:38:51 GMT</pubDate>
+            <description><![CDATA[How to report Google Drive spam]]></description>
+        </item>
         <item>
             <title><![CDATA[成功并不取决于自由意志--运气决定了一切]]></title>
             <link>https://news.ycombinator.com/item?id=30912970</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30897939</guid>
             <pubDate>Sun, 03 Apr 2022 16:05:09 GMT</pubDate>
             <description><![CDATA[Richard Feynman Computer Heuristics Lecture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推进式着陆，衍生和编码了]]></title>
-            <link>https://news.ycombinator.com/item?id=30897932</link>
-            <guid>https://news.ycombinator.com/item?id=30897932</guid>
-            <pubDate>Sun, 03 Apr 2022 16:04:15 GMT</pubDate>
-            <description><![CDATA[Propulsive landing, derived and coded up]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蓝钢。为你的数据库提供REST API（PostgreSQL/SQLite）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30897834</link>
-            <guid>https://news.ycombinator.com/item?id=30897834</guid>
-            <pubDate>Sun, 03 Apr 2022 15:53:37 GMT</pubDate>
-            <description><![CDATA[Blue-steel: REST API for your database (PostgreSQL/SQLite)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sqlightning。移植的SQLite3使用LMDB而不是其原始的Btree代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30897813</link>
-            <guid>https://news.ycombinator.com/item?id=30897813</guid>
-            <pubDate>Sun, 03 Apr 2022 15:51:20 GMT</pubDate>
-            <description><![CDATA[Sqlightning: SQLite3 ported to use LMDB instead of its original Btree code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公共云中受SPF保护的垃圾邮件发送者，垃圾邮件软件到垃圾邮件陷阱，SSH的摸索]]></title>
-            <link>https://news.ycombinator.com/item?id=30897701</link>
-            <guid>https://news.ycombinator.com/item?id=30897701</guid>
-            <pubDate>Sun, 03 Apr 2022 15:36:18 GMT</pubDate>
-            <description><![CDATA[SPF Protected Spammers in the Public Cloud, Spamware to Spamtraps, SSH Groping]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软银清理 "纳斯达克鲸鱼 "部门的大部分投资组合。英国金融时报]]></title>
-            <link>https://news.ycombinator.com/item?id=30898013</link>
-            <guid>https://news.ycombinator.com/item?id=30898013</guid>
-            <pubDate>Sun, 03 Apr 2022 16:17:38 GMT</pubDate>
-            <description><![CDATA[SoftBank Liquidates Most of Portfolio at ‘Nasdaq Whale’ Unit: FT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰一支精锐的无人机部队骑着四轮摩托伏击了俄罗斯军队]]></title>
-            <link>https://news.ycombinator.com/item?id=30897976</link>
-            <guid>https://news.ycombinator.com/item?id=30897976</guid>
-            <pubDate>Sun, 03 Apr 2022 16:11:47 GMT</pubDate>
-            <description><![CDATA[An elite Ukrainian drone unit on quad bikes ambushed Russian forces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软件故障导致荷兰各地火车停运]]></title>
-            <link>https://news.ycombinator.com/item?id=30897949</link>
-            <guid>https://news.ycombinator.com/item?id=30897949</guid>
-            <pubDate>Sun, 03 Apr 2022 16:07:44 GMT</pubDate>
-            <description><![CDATA[Software glitch halts trains across the Netherlands]]></description>
         </item>
     </channel>
 </rss>
