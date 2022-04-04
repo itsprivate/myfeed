@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T13:48:29.077Z</updated>
+    <updated>2022-04-04T13:55:06.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博弈系統（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30906486</id>
+        <link href="https://news.ycombinator.com/item?id=30906486"/>
+        <updated>2022-04-04T13:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Gaming the System (2020)]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind UI Angular支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30906473</id>
+        <link href="https://news.ycombinator.com/item?id=30906473"/>
+        <updated>2022-04-04T13:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind UI Angular Support]]></summary>
+        <author>
+            <name>aboma</name>
+            <uri>https://news.ycombinator.com/user?id=aboma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兩名關鍵技術執行官在應用發佈出現問題後退出Truth Social]]></title>
         <id>https://news.ycombinator.com/item?id=30906459</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hrpharoscion</name>
             <uri>https://news.ycombinator.com/user?id=hrpharoscion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京法院裁定耐克公司盜用棒棒糖角色 (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30891502</id>
-        <link href="https://news.ycombinator.com/item?id=30891502"/>
-        <updated>2022-04-02T20:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Beijing court rules Nike pirated stickman character (2004)]]></summary>
-        <author>
-            <name>maxwell</name>
-            <uri>https://news.ycombinator.com/user?id=maxwell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在養屍場的下面。揭開腐爛的屍體的法醫秘密]]></title>
-        <id>https://news.ycombinator.com/item?id=30891501</id>
-        <link href="https://news.ycombinator.com/item?id=30891501"/>
-        <updated>2022-04-02T20:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Down on the body farm: Unlocking the forensic secrets of decaying corpses]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
         </author>
     </entry>
 </feed>
