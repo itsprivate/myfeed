@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T23:44:20.489Z</updated>
+    <updated>2022-04-04T23:51:19.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么联邦调查局在禁酒期间故意毒害美国人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30913414</id>
+        <link href="https://news.ycombinator.com/item?id=30913414"/>
+        <updated>2022-04-04T23:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Why the Feds Intentionally Poisoned Americans During Prohibition]]></summary>
+        <author>
+            <name>eth0up</name>
+            <uri>https://news.ycombinator.com/user?id=eth0up</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[锈迹斑斑的Espressif芯片 2022年第一季度]]></title>
         <id>https://news.ycombinator.com/item?id=30913359</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danfang</name>
             <uri>https://news.ycombinator.com/user?id=danfang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未来的怀旧情结]]></title>
-        <id>https://news.ycombinator.com/item?id=30898444</id>
-        <link href="https://news.ycombinator.com/item?id=30898444"/>
-        <updated>2022-04-03T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Futures Nostalgia]]></summary>
-        <author>
-            <name>jacobwg</name>
-            <uri>https://news.ycombinator.com/user?id=jacobwg</uri>
         </author>
     </entry>
 </feed>
