@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T20:34:33.890Z</updated>
+    <updated>2022-04-04T20:43:45.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我孩子的學校安裝了間諜軟件，我無法刪除它]]></title>
+        <id>https://news.ycombinator.com/item?id=30911623</id>
+        <link href="https://news.ycombinator.com/item?id=30911623"/>
+        <updated>2022-04-04T20:32:18.000Z</updated>
+        <summary type="html"><![CDATA[My kid's school installed spyware and I can't remove it]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克已經在他的交易中賺取了2倍於Twitter 3年的淨收入]]></title>
         <id>https://news.ycombinator.com/item?id=30911516</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kaffee-Kanne</name>
             <uri>https://news.ycombinator.com/user?id=Kaffee-Kanne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitz.js的未來]]></title>
-        <id>https://news.ycombinator.com/item?id=30896931</id>
-        <link href="https://news.ycombinator.com/item?id=30896931"/>
-        <updated>2022-04-03T13:54:34.000Z</updated>
-        <summary type="html"><![CDATA[Future of Blitz.js]]></summary>
-        <author>
-            <name>h3mb3</name>
-            <uri>https://news.ycombinator.com/user?id=h3mb3</uri>
         </author>
     </entry>
 </feed>
