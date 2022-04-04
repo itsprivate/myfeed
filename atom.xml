@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T07:40:23.564Z</updated>
+    <updated>2022-04-04T07:51:55.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTTP馈送]]></title>
+        <id>https://news.ycombinator.com/item?id=30904220</id>
+        <link href="https://news.ycombinator.com/item?id=30904220"/>
+        <updated>2022-04-04T07:44:55.000Z</updated>
+        <summary type="html"><![CDATA[HTTP Feeds]]></summary>
+        <author>
+            <name>mcp_</name>
+            <uri>https://news.ycombinator.com/user?id=mcp_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok不向俄罗斯的用户展示乌克兰的战争情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30904180</id>
+        <link href="https://news.ycombinator.com/item?id=30904180"/>
+        <updated>2022-04-04T07:37:40.000Z</updated>
+        <summary type="html"><![CDATA[TikTok does'NT show the war in Ukraine to users in Russia]]></summary>
+        <author>
+            <name>unhammer</name>
+            <uri>https://news.ycombinator.com/user?id=unhammer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在云供应商上创建DC代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30903946</id>
+        <link href="https://news.ycombinator.com/item?id=30903946"/>
+        <updated>2022-04-04T06:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Creating DC proxies on cloud providers]]></summary>
+        <author>
+            <name>rl1987</name>
+            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普的真相社交应用被打成了一场灾难]]></title>
         <id>https://news.ycombinator.com/item?id=30904125</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，你不需要在你的网站上设置 Cookie 弹出窗口]]></title>
-        <id>https://news.ycombinator.com/item?id=30889318</id>
-        <link href="https://news.ycombinator.com/item?id=30889318"/>
-        <updated>2022-04-02T16:17:41.000Z</updated>
-        <summary type="html"><![CDATA[No, You Don't Need a Cookie Popup on Your Site]]></summary>
-        <author>
-            <name>ryanfb</name>
-            <uri>https://news.ycombinator.com/user?id=ryanfb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAME 0.242]]></title>
-        <id>https://news.ycombinator.com/item?id=30889313</id>
-        <link href="https://news.ycombinator.com/item?id=30889313"/>
-        <updated>2022-04-02T16:17:15.000Z</updated>
-        <summary type="html"><![CDATA[MAME 0.242]]></summary>
-        <author>
-            <name>chungy</name>
-            <uri>https://news.ycombinator.com/user?id=chungy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在火星上记录的第一个音频显示了两种声音的速度]]></title>
-        <id>https://news.ycombinator.com/item?id=30889288</id>
-        <link href="https://news.ycombinator.com/item?id=30889288"/>
-        <updated>2022-04-02T16:13:33.000Z</updated>
-        <summary type="html"><![CDATA[First audio recorded on Mars reveals two speeds of sound]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
