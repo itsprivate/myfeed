@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T05:39:03.863Z</updated>
+    <updated>2022-04-04T05:51:28.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每個人的3D之路 (2017) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30903627</id>
+        <link href="https://news.ycombinator.com/item?id=30903627"/>
+        <updated>2022-04-04T05:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Road To 3D for Everyone (2017) [pdf]]]></summary>
+        <author>
+            <name>iamwil</name>
+            <uri>https://news.ycombinator.com/user?id=iamwil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嗡嗡的可穿戴設備]]></title>
+        <id>https://news.ycombinator.com/item?id=30903261</id>
+        <link href="https://news.ycombinator.com/item?id=30903261"/>
+        <updated>2022-04-04T04:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Humm Wearable]]></summary>
+        <author>
+            <name>Durandal36</name>
+            <uri>https://news.ycombinator.com/user?id=Durandal36</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V採取了措施，以儘量減少碎片化]]></title>
         <id>https://news.ycombinator.com/item?id=30903520</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giscus - 一個由GitHub討論支持的評論系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30888860</id>
-        <link href="https://news.ycombinator.com/item?id=30888860"/>
-        <updated>2022-04-02T15:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Giscus – A comments system powered by GitHub Discussions]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷幻藥可緩解癌症患者的抑鬱、焦慮情緒]]></title>
-        <id>https://news.ycombinator.com/item?id=30888741</id>
-        <link href="https://news.ycombinator.com/item?id=30888741"/>
-        <updated>2022-04-02T15:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Psychedelics May Ease Cancer Patients’ Depression, Anxiety]]></summary>
-        <author>
-            <name>andrewl</name>
-            <uri>https://news.ycombinator.com/user?id=andrewl</uri>
         </author>
     </entry>
 </feed>
