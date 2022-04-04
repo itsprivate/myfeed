@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T11:30:40.409Z</updated>
+    <updated>2022-04-04T11:37:23.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LXD 5.0 LTS已发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30904202</id>
+        <link href="https://news.ycombinator.com/item?id=30904202"/>
+        <updated>2022-04-04T07:42:52.000Z</updated>
+        <summary type="html"><![CDATA[LXD 5.0 LTS has been released]]></summary>
+        <author>
+            <name>dragonsh</name>
+            <uri>https://news.ycombinator.com/user?id=dragonsh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克在抱怨言论自由的情况下购买了9.2%的Twitter股份]]></title>
         <id>https://news.ycombinator.com/item?id=30905307</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛杉矶同意花费30亿美元安置无家可归的居民]]></title>
-        <id>https://news.ycombinator.com/item?id=30890443</id>
-        <link href="https://news.ycombinator.com/item?id=30890443"/>
-        <updated>2022-04-02T18:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Los Angeles agrees to spend $3B to house homeless residents]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
         </author>
     </entry>
 </feed>
