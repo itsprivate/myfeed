@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-04T05:30:42.825Z</updated>
+    <updated>2022-04-04T05:39:03.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RISC-V採取了措施，以儘量減少碎片化]]></title>
+        <id>https://news.ycombinator.com/item?id=30903520</id>
+        <link href="https://news.ycombinator.com/item?id=30903520"/>
+        <updated>2022-04-04T05:17:02.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V takes steps to minimize fragmentation]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在一個充滿敵意的法律體系中，比特幣持有者需要知道的關於陪審團無效宣告的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30903428</id>
+        <link href="https://news.ycombinator.com/item?id=30903428"/>
+        <updated>2022-04-04T04:54:50.000Z</updated>
+        <summary type="html"><![CDATA[What Bitcoiners Need to Know About Jury Nullification in a Hostile Legal System]]></summary>
+        <author>
+            <name>RadixDLT</name>
+            <uri>https://news.ycombinator.com/user?id=RadixDLT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Grafana中可視化普羅米修斯指標]]></title>
+        <id>https://news.ycombinator.com/item?id=30903425</id>
+        <link href="https://news.ycombinator.com/item?id=30903425"/>
+        <updated>2022-04-04T04:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Visualize Prometheus Metrics in Grafana]]></summary>
+        <author>
+            <name>sd2995</name>
+            <uri>https://news.ycombinator.com/user?id=sd2995</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[藍牙網狀網絡簡介]]></title>
+        <id>https://news.ycombinator.com/item?id=30903353</id>
+        <link href="https://news.ycombinator.com/item?id=30903353"/>
+        <updated>2022-04-04T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[An Introduction to Bluetooth Mesh Networking]]></summary>
+        <author>
+            <name>tdrnd</name>
+            <uri>https://news.ycombinator.com/user?id=tdrnd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risc0上的數字簽名]]></title>
+        <id>https://news.ycombinator.com/item?id=30903232</id>
+        <link href="https://news.ycombinator.com/item?id=30903232"/>
+        <updated>2022-04-04T04:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Digital Signatures on Risc0]]></summary>
+        <author>
+            <name>photon12</name>
+            <uri>https://news.ycombinator.com/user?id=photon12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[氣候行動。我可以從哪裡開始？]]></title>
         <id>https://news.ycombinator.com/item?id=30903419</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>andrewl</name>
             <uri>https://news.ycombinator.com/user?id=andrewl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔術鼠標是羅技公司生產的，不是蘋果公司的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30888733</id>
-        <link href="https://news.ycombinator.com/item?id=30888733"/>
-        <updated>2022-04-02T14:59:37.000Z</updated>
-        <summary type="html"><![CDATA[The magic mouse is made by Logitech, not Apple]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對屋大維贏得與安東尼和克里奧帕特拉戰爭的原因的新看法]]></title>
-        <id>https://news.ycombinator.com/item?id=30888686</id>
-        <link href="https://news.ycombinator.com/item?id=30888686"/>
-        <updated>2022-04-02T14:49:35.000Z</updated>
-        <summary type="html"><![CDATA[A fresh take on why Octavian won the war against Antony and Cleopatra]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AudioTransmit - 使用音頻在計算機之間傳輸數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30888683</id>
-        <link href="https://news.ycombinator.com/item?id=30888683"/>
-        <updated>2022-04-02T14:49:15.000Z</updated>
-        <summary type="html"><![CDATA[AudioTransmit – Transmitting data between computers using audio]]></summary>
-        <author>
-            <name>samber</name>
-            <uri>https://news.ycombinator.com/user?id=samber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們需要注重創傷的工作場所]]></title>
-        <id>https://news.ycombinator.com/item?id=30888572</id>
-        <link href="https://news.ycombinator.com/item?id=30888572"/>
-        <updated>2022-04-02T14:32:43.000Z</updated>
-        <summary type="html"><![CDATA[We Need Trauma-Informed Workplaces]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們如何思考]]></title>
-        <id>https://news.ycombinator.com/item?id=30888523</id>
-        <link href="https://news.ycombinator.com/item?id=30888523"/>
-        <updated>2022-04-02T14:26:32.000Z</updated>
-        <summary type="html"><![CDATA[How People Think]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
         </author>
     </entry>
 </feed>
