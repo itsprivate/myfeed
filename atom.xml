@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T20:44:09.528Z</updated>
+    <updated>2022-04-05T20:51:59.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马丁-克莱普曼写了一本关于密码学的插图儿童书]]></title>
+        <id>https://news.ycombinator.com/item?id=30924723</id>
+        <link href="https://news.ycombinator.com/item?id=30924723"/>
+        <updated>2022-04-05T20:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Martin Kleppmann wrote an illustrated children's book on cryptography]]></summary>
+        <author>
+            <name>almog</name>
+            <uri>https://news.ycombinator.com/user?id=almog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit会告诉我们r/place 2022背后的技术故事吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30924673</id>
+        <link href="https://news.ycombinator.com/item?id=30924673"/>
+        <updated>2022-04-05T20:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Will Reddit tell us the technical story behind r/place 2022?]]></summary>
+        <author>
+            <name>quux</name>
+            <uri>https://news.ycombinator.com/user?id=quux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古老的时尚。中国木乃伊身上3200年前的裤子就像现代的牛仔裤一样]]></title>
+        <id>https://news.ycombinator.com/item?id=30924424</id>
+        <link href="https://news.ycombinator.com/item?id=30924424"/>
+        <updated>2022-04-05T20:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Ancient fashion: 3,200-year-old pants on Chinese mummy are like modern-day jeans]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[铸造银色子弹 (2013)]]></title>
         <id>https://news.ycombinator.com/item?id=30924635</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解布局算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30910698</id>
-        <link href="https://news.ycombinator.com/item?id=30910698"/>
-        <updated>2022-04-04T19:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Layout Algorithms]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70年代的通货膨胀建议是空洞的，现在也是如此]]></title>
-        <id>https://news.ycombinator.com/item?id=30910582</id>
-        <link href="https://news.ycombinator.com/item?id=30910582"/>
-        <updated>2022-04-04T18:51:26.000Z</updated>
-        <summary type="html"><![CDATA[’70s-Era Inflation Advice Was Hollow and Still Is]]></summary>
-        <author>
-            <name>Ambolia</name>
-            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理查德-汉明。你和你的研究》(1986)]]></title>
-        <id>https://news.ycombinator.com/item?id=30910461</id>
-        <link href="https://news.ycombinator.com/item?id=30910461"/>
-        <updated>2022-04-04T18:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Richard Hamming: You and Your Research (1986)]]></summary>
-        <author>
-            <name>lord_sudo</name>
-            <uri>https://news.ycombinator.com/user?id=lord_sudo</uri>
         </author>
     </entry>
 </feed>
