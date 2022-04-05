@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 07:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Para方法。组织数字信息的通用系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30916260</link>
+            <guid>https://news.ycombinator.com/item?id=30916260</guid>
+            <pubDate>Tue, 05 Apr 2022 07:32:15 GMT</pubDate>
+            <description><![CDATA[The Para Method: A Universal System for Organizing Digital Information]]></description>
+        </item>
         <item>
             <title><![CDATA[1957年预测石油峰值的演讲]]></title>
             <link>https://news.ycombinator.com/item?id=30915676</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30901009</guid>
             <pubDate>Sun, 03 Apr 2022 21:44:10 GMT</pubDate>
             <description><![CDATA[Software bug halts almost all trains in the Netherlands]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个CLI工具，用PMD进行分析，并将分析结果作为GitHub评论发布]]></title>
-            <link>https://news.ycombinator.com/item?id=30900897</link>
-            <guid>https://news.ycombinator.com/item?id=30900897</guid>
-            <pubDate>Sun, 03 Apr 2022 21:32:50 GMT</pubDate>
-            <description><![CDATA[Show HN: A CLI tool that analyzes with PMD and posts findings as GitHub comments]]></description>
         </item>
     </channel>
 </rss>
