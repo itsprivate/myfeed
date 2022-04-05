@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 09:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2021年电池报告]]></title>
+            <link>https://news.ycombinator.com/item?id=30916943</link>
+            <guid>https://news.ycombinator.com/item?id=30916943</guid>
+            <pubDate>Tue, 05 Apr 2022 09:27:57 GMT</pubDate>
+            <description><![CDATA[The Battery Report 2021]]></description>
+        </item>
         <item>
             <title><![CDATA[神奇符号和寻找它们的地方--第一部分]]></title>
             <link>https://news.ycombinator.com/item?id=30916935</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30902271</guid>
             <pubDate>Mon, 04 Apr 2022 00:42:01 GMT</pubDate>
             <description><![CDATA[Debootstrapping Without Archeology: Stacked Implementations in Camlboot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过为Atari 2600制作游戏学习汇编语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30902255</link>
-            <guid>https://news.ycombinator.com/item?id=30902255</guid>
-            <pubDate>Mon, 04 Apr 2022 00:37:01 GMT</pubDate>
-            <description><![CDATA[Learn Assembly Language by Making Games for Atari 2600]]></description>
         </item>
     </channel>
 </rss>
