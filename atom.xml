@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T17:08:59.398Z</updated>
+    <updated>2022-04-05T17:37:30.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[盖伊-斯蒂尔。计算机科学中最受欢迎的语言(2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30922072</id>
+        <link href="https://news.ycombinator.com/item?id=30922072"/>
+        <updated>2022-04-05T17:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Guy Steele: The most popular language in computer science (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockset在Star Schema基准测试中击败了ClickHouse和Druid；这有什么关系？]]></title>
+        <id>https://news.ycombinator.com/item?id=30921899</id>
+        <link href="https://news.ycombinator.com/item?id=30921899"/>
+        <updated>2022-04-05T17:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Rockset Beats ClickHouse and Druid on the Star Schema Benchmark; Does It Matter?]]></summary>
+        <author>
+            <name>tudorb</name>
+            <uri>https://news.ycombinator.com/user?id=tudorb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国阻止俄罗斯获得美元，加剧了债券支付违约的风险]]></title>
+        <id>https://news.ycombinator.com/item?id=30921730</id>
+        <link href="https://news.ycombinator.com/item?id=30921730"/>
+        <updated>2022-04-05T17:10:29.000Z</updated>
+        <summary type="html"><![CDATA[US blocks Russian access to dollars, heightening risk of bond payment default]]></summary>
+        <author>
+            <name>jrochkind1</name>
+            <uri>https://news.ycombinator.com/user?id=jrochkind1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国在3月中旬测试了高超音速导弹]]></title>
+        <id>https://news.ycombinator.com/item?id=30921674</id>
+        <link href="https://news.ycombinator.com/item?id=30921674"/>
+        <updated>2022-04-05T17:06:36.000Z</updated>
+        <summary type="html"><![CDATA[US tested hypersonic missile in mid-March]]></summary>
+        <author>
+            <name>starwind</name>
+            <uri>https://news.ycombinator.com/user?id=starwind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚幻引擎5 Lumen与Blender Cycles X的对比]]></title>
+        <id>https://news.ycombinator.com/item?id=30921672</id>
+        <link href="https://news.ycombinator.com/item?id=30921672"/>
+        <updated>2022-04-05T17:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5 Lumen vs. Blender Cycles X]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下一个谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30921628</id>
+        <link href="https://news.ycombinator.com/item?id=30921628"/>
+        <updated>2022-04-05T17:03:25.000Z</updated>
+        <summary type="html"><![CDATA[The Next Google]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纪念福特夫人]]></title>
+        <id>https://news.ycombinator.com/item?id=30921353</id>
+        <link href="https://news.ycombinator.com/item?id=30921353"/>
+        <updated>2022-04-05T16:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Remembering Mrs. Ford]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD以19亿美元竞购Pensando，做出DPU大动作]]></title>
+        <id>https://news.ycombinator.com/item?id=30920807</id>
+        <link href="https://news.ycombinator.com/item?id=30920807"/>
+        <updated>2022-04-05T16:09:56.000Z</updated>
+        <summary type="html"><![CDATA[AMD Makes a Big DPU Move with $1.9B Bid for Pensando]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个小团队（ARR为200万美元）和我们无法扩展的一件事]]></title>
         <id>https://news.ycombinator.com/item?id=30921574</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>lisper</name>
             <uri>https://news.ycombinator.com/user?id=lisper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[返回猴岛]]></title>
-        <id>https://news.ycombinator.com/item?id=30908395</id>
-        <link href="https://news.ycombinator.com/item?id=30908395"/>
-        <updated>2022-04-04T16:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Return to Monkey Island]]></summary>
-        <author>
-            <name>dmoreno</name>
-            <uri>https://news.ycombinator.com/user?id=dmoreno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedwoodJS 1.0和100万美元融资]]></title>
-        <id>https://news.ycombinator.com/item?id=30908379</id>
-        <link href="https://news.ycombinator.com/item?id=30908379"/>
-        <updated>2022-04-04T16:16:34.000Z</updated>
-        <summary type="html"><![CDATA[RedwoodJS 1.0 and $1M Funding]]></summary>
-        <author>
-            <name>mojombo</name>
-            <uri>https://news.ycombinator.com/user?id=mojombo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗恩-吉尔伯特正在制作新的《猴岛》游戏，并将于今年推出]]></title>
-        <id>https://news.ycombinator.com/item?id=30908360</id>
-        <link href="https://news.ycombinator.com/item?id=30908360"/>
-        <updated>2022-04-04T16:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Ron Gilbert is making a new Monkey Island game, and it will be out this year]]></summary>
-        <author>
-            <name>lastdong</name>
-            <uri>https://news.ycombinator.com/user?id=lastdong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们不屑于学习CSS]]></title>
-        <id>https://news.ycombinator.com/item?id=30908358</id>
-        <link href="https://news.ycombinator.com/item?id=30908358"/>
-        <updated>2022-04-04T16:14:50.000Z</updated>
-        <summary type="html"><![CDATA[We don't bother learning CSS]]></summary>
-        <author>
-            <name>firefoxd</name>
-            <uri>https://news.ycombinator.com/user?id=firefoxd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰战争。堡垒之夜》制造商Epic Games筹集了1.44亿美元（1.1亿英镑）以帮助受害者]]></title>
-        <id>https://news.ycombinator.com/item?id=30908350</id>
-        <link href="https://news.ycombinator.com/item?id=30908350"/>
-        <updated>2022-04-04T16:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine war: Fortnite maker Epic Games raises $144m (£110m) to help victims]]></summary>
-        <author>
-            <name>JohnnyRoper</name>
-            <uri>https://news.ycombinator.com/user?id=JohnnyRoper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理事长。疏通你的.profile]]></title>
-        <id>https://news.ycombinator.com/item?id=30908321</id>
-        <link href="https://news.ycombinator.com/item?id=30908321"/>
-        <updated>2022-04-04T16:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Direnv: Unclutter Your .profile]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国如何知道现在是什么时候？[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30908286</id>
-        <link href="https://news.ycombinator.com/item?id=30908286"/>
-        <updated>2022-04-04T16:08:51.000Z</updated>
-        <summary type="html"><![CDATA[How does Britain know what time it is? [video]]]></summary>
-        <author>
-            <name>richardboegli</name>
-            <uri>https://news.ycombinator.com/user?id=richardboegli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大象和它们的脆弱性。PostgreSQL中最经典的CVEs]]></title>
-        <id>https://news.ycombinator.com/item?id=30908228</id>
-        <link href="https://news.ycombinator.com/item?id=30908228"/>
-        <updated>2022-04-04T16:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Elephants and their vulnerabilities. Most epic CVEs in PostgreSQL]]></summary>
-        <author>
-            <name>fotonstep</name>
-            <uri>https://news.ycombinator.com/user?id=fotonstep</uri>
         </author>
     </entry>
 </feed>
