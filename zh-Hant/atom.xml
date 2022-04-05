@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T10:14:53.286Z</updated>
+    <updated>2022-04-05T10:32:48.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[管理型普羅米修斯的價格比較]]></title>
+        <id>https://news.ycombinator.com/item?id=30917190</id>
+        <link href="https://news.ycombinator.com/item?id=30917190"/>
+        <updated>2022-04-05T10:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Pricing Comparison for Managed Prometheus]]></summary>
+        <author>
+            <name>pradeepchhetri</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepchhetri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟為挑戰蘋果而採取的安卓行動]]></title>
+        <id>https://news.ycombinator.com/item?id=30917082</id>
+        <link href="https://news.ycombinator.com/item?id=30917082"/>
+        <updated>2022-04-05T09:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Makes Android Move to Challenge Apple]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三峰日的崛起]]></title>
         <id>https://news.ycombinator.com/item?id=30917124</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mcrump</name>
             <uri>https://news.ycombinator.com/user?id=mcrump</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強姦是一種武器：烏克蘭人忍受的性暴力規模出現了]]></title>
-        <id>https://news.ycombinator.com/item?id=30902397</id>
-        <link href="https://news.ycombinator.com/item?id=30902397"/>
-        <updated>2022-04-04T01:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Rape as a weapon: scale of sexual violence endured in Ukraine emerges]]></summary>
-        <author>
-            <name>rhegart</name>
-            <uri>https://news.ycombinator.com/user?id=rhegart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布查大屠殺]]></title>
-        <id>https://news.ycombinator.com/item?id=30902336</id>
-        <link href="https://news.ycombinator.com/item?id=30902336"/>
-        <updated>2022-04-04T00:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Bucha Massacre]]></summary>
-        <author>
-            <name>MichaelMoser123</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
         </author>
     </entry>
 </feed>
