@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T08:39:27.044Z</updated>
+    <updated>2022-04-05T09:12:52.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄乌战争威胁着印尼的G20主席国地位。]]></title>
+        <id>https://news.ycombinator.com/item?id=30916779</id>
+        <link href="https://news.ycombinator.com/item?id=30916779"/>
+        <updated>2022-04-05T09:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Russia-Ukraine War Threatens to Derail Indonesia’s G20 Chairmanship]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何调查你的Rust程序的内存使用情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30916709</id>
+        <link href="https://news.ycombinator.com/item?id=30916709"/>
+        <updated>2022-04-05T08:51:44.000Z</updated>
+        <summary type="html"><![CDATA[How to investigate memory usage of your rust program]]></summary>
+        <author>
+            <name>PSeitz</name>
+            <uri>https://news.ycombinator.com/user?id=PSeitz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：乌克兰战争背景下的Facebook内容控制]]></title>
         <id>https://news.ycombinator.com/item?id=30916558</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>elsewhen</name>
             <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潘古尔。一种用于文本操作的可视化编程语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30901848</id>
-        <link href="https://news.ycombinator.com/item?id=30901848"/>
-        <updated>2022-04-03T23:33:06.000Z</updated>
-        <summary type="html"><![CDATA[Pangur: A visual programming language for text manipulation]]></summary>
-        <author>
-            <name>gfaure</name>
-            <uri>https://news.ycombinator.com/user?id=gfaure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海的父母在科维德检测结果呈阳性后担心与孩子分离]]></title>
-        <id>https://news.ycombinator.com/item?id=30902241</id>
-        <link href="https://news.ycombinator.com/item?id=30902241"/>
-        <updated>2022-04-04T00:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Shanghai parents fear separation from kids after positive Covid test]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
