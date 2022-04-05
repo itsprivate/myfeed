@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T19:28:18.539Z</updated>
+    <updated>2022-04-05T19:37:15.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[垂死的社会中的自杀论坛]]></title>
+        <id>https://news.ycombinator.com/item?id=30923433</id>
+        <link href="https://news.ycombinator.com/item?id=30923433"/>
+        <updated>2022-04-05T19:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Suicide Forums in a Dying Society]]></summary>
+        <author>
+            <name>gypsy_prince</name>
+            <uri>https://news.ycombinator.com/user?id=gypsy_prince</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://news.ycombinator.com/item?id=30923458</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kazanins</name>
             <uri>https://news.ycombinator.com/user?id=kazanins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么直流可能取代交流？]]></title>
-        <id>https://news.ycombinator.com/item?id=30910133</id>
-        <link href="https://news.ycombinator.com/item?id=30910133"/>
-        <updated>2022-04-04T18:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Why DC May Replace AC]]></summary>
-        <author>
-            <name>aqeelat</name>
-            <uri>https://news.ycombinator.com/user?id=aqeelat</uri>
         </author>
     </entry>
 </feed>
