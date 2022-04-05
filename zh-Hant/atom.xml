@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T22:33:25.006Z</updated>
+    <updated>2022-04-05T22:42:17.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從VS代碼中獲取GitHub鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=30925915</id>
+        <link href="https://news.ycombinator.com/item?id=30925915"/>
+        <updated>2022-04-05T22:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get GitHub Links from VS Code]]></summary>
+        <author>
+            <name>behzadhaghgoo</name>
+            <uri>https://news.ycombinator.com/user?id=behzadhaghgoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navi--一個用於命令行的交互式小抄工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30925843</id>
+        <link href="https://news.ycombinator.com/item?id=30925843"/>
+        <updated>2022-04-05T22:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Navi- an interactive cheatsheet tool for the command line]]></summary>
+        <author>
+            <name>humility</name>
+            <uri>https://news.ycombinator.com/user?id=humility</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD確認其GPU驅動程序在不經詢問的情況下對CPU進行超頻]]></title>
+        <id>https://news.ycombinator.com/item?id=30925806</id>
+        <link href="https://news.ycombinator.com/item?id=30925806"/>
+        <updated>2022-04-05T22:17:59.000Z</updated>
+        <summary type="html"><![CDATA[AMD Confirms Its GPU Drivers Are Overclocking CPUs Without Asking]]></summary>
+        <author>
+            <name>CPAhem</name>
+            <uri>https://news.ycombinator.com/user?id=CPAhem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安娜-昆德蘭關於如何開始寫作的令人驚訝的建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30925726</id>
+        <link href="https://news.ycombinator.com/item?id=30925726"/>
+        <updated>2022-04-05T22:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Anna Quindlen’s Surprising Advice for How to Start Writing]]></summary>
+        <author>
+            <name>Huhty</name>
+            <uri>https://news.ycombinator.com/user?id=Huhty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AppSync發佈實時GraphQL訂閱中的增強過濾功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30925699</id>
+        <link href="https://news.ycombinator.com/item?id=30925699"/>
+        <updated>2022-04-05T22:08:41.000Z</updated>
+        <summary type="html"><![CDATA[AWS AppSync releases enhanced filtering in real-time GraphQL subscriptions]]></summary>
+        <author>
+            <name>nslog</name>
+            <uri>https://news.ycombinator.com/user?id=nslog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube上的TensorFlow廣告與PyTorch優步的比較]]></title>
+        <id>https://news.ycombinator.com/item?id=30924941</id>
+        <link href="https://news.ycombinator.com/item?id=30924941"/>
+        <updated>2022-04-05T20:58:47.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow Ads on YouTube vs. PyTorch Ubiquitousy]]></summary>
+        <author>
+            <name>iamvjay</name>
+            <uri>https://news.ycombinator.com/user?id=iamvjay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜的漏洞騙我買了比我要求的更多的單位]]></title>
+        <id>https://news.ycombinator.com/item?id=30924810</id>
+        <link href="https://news.ycombinator.com/item?id=30924810"/>
+        <updated>2022-04-05T20:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Bug in Amazon scams me into buying more units than I asked for]]></summary>
+        <author>
+            <name>mlyle</name>
+            <uri>https://news.ycombinator.com/user?id=mlyle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗雷德（美聯儲經濟數據）增加星際數據集]]></title>
         <id>https://news.ycombinator.com/item?id=30925827</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯人要來了]]></title>
-        <id>https://news.ycombinator.com/item?id=30911888</id>
-        <link href="https://news.ycombinator.com/item?id=30911888"/>
-        <updated>2022-04-04T21:01:54.000Z</updated>
-        <summary type="html"><![CDATA[The Russians Are Coming]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天是反壟斷日，賭注高得驚人]]></title>
-        <id>https://news.ycombinator.com/item?id=30911887</id>
-        <link href="https://news.ycombinator.com/item?id=30911887"/>
-        <updated>2022-04-04T21:01:54.000Z</updated>
-        <summary type="html"><![CDATA[It's Antitrust Day and the stakes are incredibly high]]></summary>
-        <author>
-            <name>MoltarStan</name>
-            <uri>https://news.ycombinator.com/user?id=MoltarStan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國監管機構接管Gazprom Germania以確保能源供應]]></title>
-        <id>https://news.ycombinator.com/item?id=30911867</id>
-        <link href="https://news.ycombinator.com/item?id=30911867"/>
-        <updated>2022-04-04T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[German regulator takes over Gazprom Germania to ensure energy supply]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普的真相社交應用被打成了一場災難]]></title>
-        <id>https://news.ycombinator.com/item?id=30911861</id>
-        <link href="https://news.ycombinator.com/item?id=30911861"/>
-        <updated>2022-04-04T20:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Trump's Truth Social app branded a disaster]]></summary>
-        <author>
-            <name>lalaland1125</name>
-            <uri>https://news.ycombinator.com/user?id=lalaland1125</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衛星圖像顯示，儘管俄羅斯聲稱，屍體已在布查躺了數週之久]]></title>
-        <id>https://news.ycombinator.com/item?id=30911837</id>
-        <link href="https://news.ycombinator.com/item?id=30911837"/>
-        <updated>2022-04-04T20:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Satellite images show bodies lay in Bucha for weeks, despite Russian claims]]></summary>
-        <author>
-            <name>keewee7</name>
-            <uri>https://news.ycombinator.com/user?id=keewee7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs 28.1]]></title>
-        <id>https://news.ycombinator.com/item?id=30911826</id>
-        <link href="https://news.ycombinator.com/item?id=30911826"/>
-        <updated>2022-04-04T20:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Emacs 28.1]]></summary>
-        <author>
-            <name>jhoechtl</name>
-            <uri>https://news.ycombinator.com/user?id=jhoechtl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[針對俄羅斯的長期經濟戰爭。一個計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30911558</id>
-        <link href="https://news.ycombinator.com/item?id=30911558"/>
-        <updated>2022-04-04T20:26:22.000Z</updated>
-        <summary type="html"><![CDATA[The long economic war against Russia: A plan]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
