@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T06:55:28.455Z</updated>
+    <updated>2022-04-05T07:13:02.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[失蹤的達爾文筆記本被送回劍橋大學圖書館]]></title>
+        <id>https://news.ycombinator.com/item?id=30915923</id>
+        <link href="https://news.ycombinator.com/item?id=30915923"/>
+        <updated>2022-04-05T06:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Missing Darwin Notebooks Returned to Cambridge University Library]]></summary>
+        <author>
+            <name>vo2maxer</name>
+            <uri>https://news.ycombinator.com/user?id=vo2maxer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要再為你的Next.js應用程序構建REST API了，用tRPC代替吧]]></title>
+        <id>https://news.ycombinator.com/item?id=30915880</id>
+        <link href="https://news.ycombinator.com/item?id=30915880"/>
+        <updated>2022-04-05T06:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Stop building REST APIs for your Next.js apps, use tRPC instead]]></summary>
+        <author>
+            <name>jack335</name>
+            <uri>https://news.ycombinator.com/user?id=jack335</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gephi--開放的圖譜維茲平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30915870</id>
+        <link href="https://news.ycombinator.com/item?id=30915870"/>
+        <updated>2022-04-05T06:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Gephi – The Open Graph Viz Platform]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[採用安培Altra臂式處理器的Azure虛擬機]]></title>
+        <id>https://news.ycombinator.com/item?id=30914752</id>
+        <link href="https://news.ycombinator.com/item?id=30914752"/>
+        <updated>2022-04-05T02:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Azure Virtual Machines with Ampere Altra Arm-Based Processors]]></summary>
+        <author>
+            <name>mfrw</name>
+            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法國食品的白化。法國的法律、種族和飲食文化]]></title>
         <id>https://news.ycombinator.com/item?id=30915744</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>agnosticmantis</name>
             <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼非阻塞式算法很難]]></title>
-        <id>https://news.ycombinator.com/item?id=30900527</id>
-        <link href="https://news.ycombinator.com/item?id=30900527"/>
-        <updated>2022-04-03T20:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Why non-blocking algorithms are hard]]></summary>
-        <author>
-            <name>halvorbo</name>
-            <uri>https://news.ycombinator.com/user?id=halvorbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於思考的思考]]></title>
-        <id>https://news.ycombinator.com/item?id=30899877</id>
-        <link href="https://news.ycombinator.com/item?id=30899877"/>
-        <updated>2022-04-03T19:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Thinking about Thinking]]></summary>
-        <author>
-            <name>mathgenius</name>
-            <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警方從他身上繳獲了1萬美元。法院裁定他無權聘請律師]]></title>
-        <id>https://news.ycombinator.com/item?id=30900933</id>
-        <link href="https://news.ycombinator.com/item?id=30900933"/>
-        <updated>2022-04-03T21:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Police Seized $10k from Him. A Court Ruled He Had No Right to an Attorney]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必須結束100年來對阿片類藥物使用者的非人性化對待]]></title>
-        <id>https://news.ycombinator.com/item?id=30900886</id>
-        <link href="https://news.ycombinator.com/item?id=30900886"/>
-        <updated>2022-04-03T21:31:57.000Z</updated>
-        <summary type="html"><![CDATA[100 Years of Dehumanizing Opioid Users Must End]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
