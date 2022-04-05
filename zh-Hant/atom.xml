@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T14:33:00.798Z</updated>
+    <updated>2022-04-05T14:40:34.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[pnpm。快速、節省磁盤空間的JavaScript軟件包管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30919487</id>
+        <link href="https://news.ycombinator.com/item?id=30919487"/>
+        <updated>2022-04-05T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[pnpm: Fast, disk space efficient package manager for JavaScript]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinybird獲得3700萬美元的A輪融資。下一步是什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=30919439</id>
+        <link href="https://news.ycombinator.com/item?id=30919439"/>
+        <updated>2022-04-05T14:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Tinybird raises a $37M Series-A. What’s next]]></summary>
+        <author>
+            <name>anderRV</name>
+            <uri>https://news.ycombinator.com/user?id=anderRV</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國消失的王國]]></title>
+        <id>https://news.ycombinator.com/item?id=30919277</id>
+        <link href="https://news.ycombinator.com/item?id=30919277"/>
+        <updated>2022-04-05T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[America’s Vanishing Kingdom]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex推出功能，發現跨流媒體服務的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30919220</id>
+        <link href="https://news.ycombinator.com/item?id=30919220"/>
+        <updated>2022-04-05T14:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Plex launches feature to discover content across streaming services]]></summary>
+        <author>
+            <name>shifty1</name>
+            <uri>https://news.ycombinator.com/user?id=shifty1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟擬提議在發生暴行後禁止俄羅斯煤炭進口]]></title>
+        <id>https://news.ycombinator.com/item?id=30918584</id>
+        <link href="https://news.ycombinator.com/item?id=30918584"/>
+        <updated>2022-04-05T13:18:25.000Z</updated>
+        <summary type="html"><![CDATA[EU to Propose Banning Russian Coal Imports After Atrocities]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[觀察Zig編程語言]]></title>
         <id>https://news.ycombinator.com/item?id=30919305</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>idonov</name>
             <uri>https://news.ycombinator.com/user?id=idonov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta快速檢測規模化的無聲數據損壞]]></title>
-        <id>https://news.ycombinator.com/item?id=30905636</id>
-        <link href="https://news.ycombinator.com/item?id=30905636"/>
-        <updated>2022-04-04T12:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Meta quickly detects silent data corruptions at scale]]></summary>
-        <author>
-            <name>tekkertje</name>
-            <uri>https://news.ycombinator.com/user?id=tekkertje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數學 "最古老的問題 "有了新答案]]></title>
-        <id>https://news.ycombinator.com/item?id=30905163</id>
-        <link href="https://news.ycombinator.com/item?id=30905163"/>
-        <updated>2022-04-04T10:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Math’s ‘Oldest Problem Ever’ Gets a New Answer]]></summary>
-        <author>
-            <name>cschmidt</name>
-            <uri>https://news.ycombinator.com/user?id=cschmidt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於科學可視化的Python和OpenGL]]></title>
-        <id>https://news.ycombinator.com/item?id=30904993</id>
-        <link href="https://news.ycombinator.com/item?id=30904993"/>
-        <updated>2022-04-04T10:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Python and OpenGL for Scientific Visualization]]></summary>
-        <author>
-            <name>s1291</name>
-            <uri>https://news.ycombinator.com/user?id=s1291</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaAI展示了兩個機器人的相互對話]]></title>
-        <id>https://news.ycombinator.com/item?id=30904466</id>
-        <link href="https://news.ycombinator.com/item?id=30904466"/>
-        <updated>2022-04-04T08:36:08.000Z</updated>
-        <summary type="html"><![CDATA[MetaAI showcase two bots speaking to each other]]></summary>
-        <author>
-            <name>currentsapi</name>
-            <uri>https://news.ycombinator.com/user?id=currentsapi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切洋蔥做漢堡的最佳方法是什麼？(2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=30905726</id>
-        <link href="https://news.ycombinator.com/item?id=30905726"/>
-        <updated>2022-04-04T12:12:43.000Z</updated>
-        <summary type="html"><![CDATA[What's the Best Way to Slice Onions for Burgers? (2012)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
