@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T11:39:17.261Z</updated>
+    <updated>2022-04-05T11:52:06.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sidekiq（一个Ruby背景处理库）在10年内赚了1350万美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30917740</id>
+        <link href="https://news.ycombinator.com/item?id=30917740"/>
+        <updated>2022-04-05T11:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Sidekiq (a Ruby background processing lib) has made $13.5M in 10 years]]></summary>
+        <author>
+            <name>nickjj</name>
+            <uri>https://news.ycombinator.com/user?id=nickjj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲国家中文名称的直译]]></title>
+        <id>https://news.ycombinator.com/item?id=30917681</id>
+        <link href="https://news.ycombinator.com/item?id=30917681"/>
+        <updated>2022-04-05T11:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Literal translations of Chinese names for European countries]]></summary>
+        <author>
+            <name>chippy</name>
+            <uri>https://news.ycombinator.com/user?id=chippy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从YCs第22批冬令营中选出的AI初创企业]]></title>
+        <id>https://news.ycombinator.com/item?id=30917648</id>
+        <link href="https://news.ycombinator.com/item?id=30917648"/>
+        <updated>2022-04-05T11:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Selected AI startups from YCs winter 22 batch]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我教我自己编码]]></title>
+        <id>https://news.ycombinator.com/item?id=30917613</id>
+        <link href="https://news.ycombinator.com/item?id=30917613"/>
+        <updated>2022-04-05T11:24:39.000Z</updated>
+        <summary type="html"><![CDATA[I Teach Myself to Code]]></summary>
+        <author>
+            <name>alvarlagerlof</name>
+            <uri>https://news.ycombinator.com/user?id=alvarlagerlof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[施展的 "第一次宇宙大战"]]></title>
+        <id>https://news.ycombinator.com/item?id=30917509</id>
+        <link href="https://news.ycombinator.com/item?id=30917509"/>
+        <updated>2022-04-05T11:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Shi Zhan's “The First Metaverse War“]]></summary>
+        <author>
+            <name>eternalban</name>
+            <uri>https://news.ycombinator.com/user?id=eternalban</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸡应戴上口罩以防治禽流感]]></title>
+        <id>https://news.ycombinator.com/item?id=30917274</id>
+        <link href="https://news.ycombinator.com/item?id=30917274"/>
+        <updated>2022-04-05T10:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Chickens should wear masks to combat bird flu]]></summary>
+        <author>
+            <name>guard0g</name>
+            <uri>https://news.ycombinator.com/user?id=guard0g</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元老院里的百忧解]]></title>
         <id>https://news.ycombinator.com/item?id=30917635</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>onzali</name>
             <uri>https://news.ycombinator.com/user?id=onzali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托马斯-皮凯蒂认为美国已准备好进行财富再分配]]></title>
-        <id>https://news.ycombinator.com/item?id=30903387</id>
-        <link href="https://news.ycombinator.com/item?id=30903387"/>
-        <updated>2022-04-04T04:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Piketty Thinks America Is Primed for Wealth Redistribution]]></summary>
-        <author>
-            <name>mitchbob</name>
-            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在浏览器中直观地探索神经网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30903406</id>
-        <link href="https://news.ycombinator.com/item?id=30903406"/>
-        <updated>2022-04-04T04:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Exploring Neural Networks Visually in the Browser]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boopkit: eBPF后门（TCP），用于生成反向外壳]]></title>
-        <id>https://news.ycombinator.com/item?id=30903356</id>
-        <link href="https://news.ycombinator.com/item?id=30903356"/>
-        <updated>2022-04-04T04:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Boopkit: eBPF backdoor (TCP) for spawning reverse shells]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra Chrome]]></title>
-        <id>https://news.ycombinator.com/item?id=30903320</id>
-        <link href="https://news.ycombinator.com/item?id=30903320"/>
-        <updated>2022-04-04T04:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Contra Chrome]]></summary>
-        <author>
-            <name>JoshTriplett</name>
-            <uri>https://news.ycombinator.com/user?id=JoshTriplett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解战略模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30903248</id>
-        <link href="https://news.ycombinator.com/item?id=30903248"/>
-        <updated>2022-04-04T04:11:14.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Strategy Pattern]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车制造商将 "需要成为矿工"]]></title>
-        <id>https://news.ycombinator.com/item?id=30902628</id>
-        <link href="https://news.ycombinator.com/item?id=30902628"/>
-        <updated>2022-04-04T01:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Carmakers will “need to become miners”]]></summary>
-        <author>
-            <name>cinquemb</name>
-            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
         </author>
     </entry>
 </feed>
