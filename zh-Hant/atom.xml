@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-05T21:36:45.795Z</updated>
+    <updated>2022-04-05T21:52:33.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DRAM的創新使技術成為可能]]></title>
+        <id>https://news.ycombinator.com/item?id=30925333</id>
+        <link href="https://news.ycombinator.com/item?id=30925333"/>
+        <updated>2022-04-05T21:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Technologies Made Possible by Innovations in DRAM]]></summary>
+        <author>
+            <name>redohmy</name>
+            <uri>https://news.ycombinator.com/user?id=redohmy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼從風險投資公司籌集資金被當作一種榮譽的標誌？]]></title>
+        <id>https://news.ycombinator.com/item?id=30925205</id>
+        <link href="https://news.ycombinator.com/item?id=30925205"/>
+        <updated>2022-04-05T21:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Why is raising money from VCs worn as a badge of honour?]]></summary>
+        <author>
+            <name>ilrwbwrkhv</name>
+            <uri>https://news.ycombinator.com/user?id=ilrwbwrkhv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsnap - 從使用snap包快速遷移到flatpaks。]]></title>
+        <id>https://news.ycombinator.com/item?id=30925012</id>
+        <link href="https://news.ycombinator.com/item?id=30925012"/>
+        <updated>2022-04-05T21:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Unsnap – Quickly migrate from using snap packages to flatpaks]]></summary>
+        <author>
+            <name>josteink</name>
+            <uri>https://news.ycombinator.com/user?id=josteink</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那個簡單的腳本仍然是某人的壞日子]]></title>
         <id>https://news.ycombinator.com/item?id=30925257</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>app4soft</name>
             <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勾股定理的令人驚訝的用途]]></title>
-        <id>https://news.ycombinator.com/item?id=30911086</id>
-        <link href="https://news.ycombinator.com/item?id=30911086"/>
-        <updated>2022-04-04T19:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Surprising Uses of the Pythagorean Theorem]]></summary>
-        <author>
-            <name>anandvc</name>
-            <uri>https://news.ycombinator.com/user?id=anandvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何帶來生活中的正能量]]></title>
-        <id>https://news.ycombinator.com/item?id=30911057</id>
-        <link href="https://news.ycombinator.com/item?id=30911057"/>
-        <updated>2022-04-04T19:36:34.000Z</updated>
-        <summary type="html"><![CDATA[How to bring positive energy in life]]></summary>
-        <author>
-            <name>prtkgpt</name>
-            <uri>https://news.ycombinator.com/user?id=prtkgpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShadowRealms - 一個ECMAScript關於更好的 "eval() "的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30911042</id>
-        <link href="https://news.ycombinator.com/item?id=30911042"/>
-        <updated>2022-04-04T19:34:51.000Z</updated>
-        <summary type="html"><![CDATA[ShadowRealms – an ECMAScript proposal for a better `eval()`]]></summary>
-        <author>
-            <name>joeyespo</name>
-            <uri>https://news.ycombinator.com/user?id=joeyespo</uri>
         </author>
     </entry>
 </feed>
