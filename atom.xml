@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T17:35:51.077Z</updated>
+    <updated>2022-04-06T17:46:13.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[硬件是硬道理。一定要这样吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30935145</id>
+        <link href="https://news.ycombinator.com/item?id=30935145"/>
+        <updated>2022-04-06T17:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Hardware is hard. Does it have to be?]]></summary>
+        <author>
+            <name>zsupalla</name>
+            <uri>https://news.ycombinator.com/user?id=zsupalla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衡量文件质量]]></title>
+        <id>https://news.ycombinator.com/item?id=30935084</id>
+        <link href="https://news.ycombinator.com/item?id=30935084"/>
+        <updated>2022-04-06T17:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Measuring Documentation Quality]]></summary>
+        <author>
+            <name>mripley</name>
+            <uri>https://news.ycombinator.com/user?id=mripley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用Tailscale对Grafana进行无缝认证]]></title>
+        <id>https://news.ycombinator.com/item?id=30935072</id>
+        <link href="https://news.ycombinator.com/item?id=30935072"/>
+        <updated>2022-04-06T17:27:52.000Z</updated>
+        <summary type="html"><![CDATA[How to Seamlessly Authenticate to Grafana Using Tailscale]]></summary>
+        <author>
+            <name>chipsa</name>
+            <uri>https://news.ycombinator.com/user?id=chipsa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30935064</id>
+        <link href="https://news.ycombinator.com/item?id=30935064"/>
+        <updated>2022-04-06T17:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Intel's “Cripple AMD” Function (2019)]]></summary>
+        <author>
+            <name>phab</name>
+            <uri>https://news.ycombinator.com/user?id=phab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱尔兰保留德怀尔电话数据违反了欧盟法律]]></title>
+        <id>https://news.ycombinator.com/item?id=30935000</id>
+        <link href="https://news.ycombinator.com/item?id=30935000"/>
+        <updated>2022-04-06T17:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Ireland's retention of Dwyer phone data breaches EU law]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平庸的阿尔伯特-爱因斯坦：为什么h指数是衡量学术影响力的假标准？]]></title>
+        <id>https://news.ycombinator.com/item?id=30934846</id>
+        <link href="https://news.ycombinator.com/item?id=30934846"/>
+        <updated>2022-04-06T17:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Albert Einstein the mediocre: Why h-index is a bogus measure of academic impact]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4K与5K显示器]]></title>
+        <id>https://news.ycombinator.com/item?id=30934454</id>
+        <link href="https://news.ycombinator.com/item?id=30934454"/>
+        <updated>2022-04-06T16:44:24.000Z</updated>
+        <summary type="html"><![CDATA[4K vs. 5K Displays]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在主机/usr/下运行一个容器]]></title>
+        <id>https://news.ycombinator.com/item?id=30934189</id>
+        <link href="https://news.ycombinator.com/item?id=30934189"/>
+        <updated>2022-04-06T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Running a Container off the Host /usr/]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对Tordoff等人（2022）（青春期阻断剂和心理健康）的批评]]></title>
         <id>https://news.ycombinator.com/item?id=30935057</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D打印的热交换器比传统设计 "更有效]]></title>
-        <id>https://news.ycombinator.com/item?id=30919314</id>
-        <link href="https://news.ycombinator.com/item?id=30919314"/>
-        <updated>2022-04-05T14:19:50.000Z</updated>
-        <summary type="html"><![CDATA[3D-printed heat exchanger 'more efficient' than conventional designs]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络合作故事：触摸可点击的东西（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30919286</id>
-        <link href="https://news.ycombinator.com/item?id=30919286"/>
-        <updated>2022-04-05T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[WebCompat Tale: Touching Clickable Things (2021)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ToonHole的艺术家用出乎意料的句子告诉我们他的漫画 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30919273</id>
-        <link href="https://news.ycombinator.com/item?id=30919273"/>
-        <updated>2022-04-05T14:17:21.000Z</updated>
-        <summary type="html"><![CDATA[ToonHole’s Artist Tells Us About His Comics with Unexpected Punchlines (2021)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年人口普查的城市地区标准]]></title>
-        <id>https://news.ycombinator.com/item?id=30919262</id>
-        <link href="https://news.ycombinator.com/item?id=30919262"/>
-        <updated>2022-04-05T14:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Urban Area Criteria for the 2020 Census]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱尔-威尔考克斯，职业超耐力自行车运动员。"女性可以赢。" [音频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30919255</id>
-        <link href="https://news.ycombinator.com/item?id=30919255"/>
-        <updated>2022-04-05T14:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Lael Wilcox, pro ultra-endurance cyclist: “Women can win.” [audio]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投资公司对摩根士丹利提出Finra仲裁要求]]></title>
-        <id>https://news.ycombinator.com/item?id=30919236</id>
-        <link href="https://news.ycombinator.com/item?id=30919236"/>
-        <updated>2022-04-05T14:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Investment Firm Files Finra Arbitration Demand Against Morgan Stanley]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordAll - 另一个日常文字游戏，（但它不是Wordle的克隆品）]]></title>
-        <id>https://news.ycombinator.com/item?id=30919234</id>
-        <link href="https://news.ycombinator.com/item?id=30919234"/>
-        <updated>2022-04-05T14:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WordAll – another daily word game, (but it's not a Wordle clone)]]></summary>
-        <author>
-            <name>dansingerman</name>
-            <uri>https://news.ycombinator.com/user?id=dansingerman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gistpad - 使用GitHub Gists管理你的代码片段和开发者笔记]]></title>
-        <id>https://news.ycombinator.com/item?id=30919229</id>
-        <link href="https://news.ycombinator.com/item?id=30919229"/>
-        <updated>2022-04-05T14:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Gistpad – Manage your code snippets and developer notes using GitHub Gists]]></summary>
-        <author>
-            <name>cwmartin</name>
-            <uri>https://news.ycombinator.com/user?id=cwmartin</uri>
         </author>
     </entry>
 </feed>
