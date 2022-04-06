@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T07:12:55.116Z</updated>
+    <updated>2022-04-06T07:31:28.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fedora 37 貌似取消了對傳統 BIOS 的支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30929315</id>
+        <link href="https://news.ycombinator.com/item?id=30929315"/>
+        <updated>2022-04-06T07:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Fedora 37 Looks to Deprecate Legacy BIOS Support]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydra：德國警方拆除了俄羅斯暗網網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30929285</id>
+        <link href="https://news.ycombinator.com/item?id=30929285"/>
+        <updated>2022-04-06T07:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Hydra: German police dismantled Russian darknet site]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟宣佈為2022年提供主要的新Windows 11安全功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30929075</id>
+        <link href="https://news.ycombinator.com/item?id=30929075"/>
+        <updated>2022-04-06T06:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft announces major new Windows 11 security features for 2022]]></summary>
+        <author>
+            <name>transpute</name>
+            <uri>https://news.ycombinator.com/user?id=transpute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloben - 自我託管的網絡CalDAV日曆客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30929022</id>
+        <link href="https://news.ycombinator.com/item?id=30929022"/>
+        <updated>2022-04-06T06:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bloben – self hosted web CalDAV calendar client]]></summary>
+        <author>
+            <name>nibdo</name>
+            <uri>https://news.ycombinator.com/user?id=nibdo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stugna導彈防禦系統]]></title>
         <id>https://news.ycombinator.com/item?id=30929154</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>simonebrunozzi</name>
             <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界科學家對氣候緊急情況的警告（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30915491</id>
-        <link href="https://news.ycombinator.com/item?id=30915491"/>
-        <updated>2022-04-05T05:07:23.000Z</updated>
-        <summary type="html"><![CDATA[World Scientists’ Warning of a Climate Emergency (2020)]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罕見地瞥見巨型行星仍在 "子宮 "中，但質量是木星的9倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30915301</id>
-        <link href="https://news.ycombinator.com/item?id=30915301"/>
-        <updated>2022-04-05T04:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Rare glimpse of giant planet still ‘in the womb’ yet nine times mass of Jupiter]]></summary>
-        <author>
-            <name>sandebert</name>
-            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在俄羅斯策劃下一步行動時，一個人工智能在傾聽他們的談話]]></title>
-        <id>https://news.ycombinator.com/item?id=30915207</id>
-        <link href="https://news.ycombinator.com/item?id=30915207"/>
-        <updated>2022-04-05T04:10:34.000Z</updated>
-        <summary type="html"><![CDATA[As Russia Plots Its Next Move, an AI Listens to the Chatter]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 95啟動時的發現片段（1995年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30915169</id>
-        <link href="https://news.ycombinator.com/item?id=30915169"/>
-        <updated>2022-04-05T04:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Windows 95 Launch Found Footage (1995)]]></summary>
-        <author>
-            <name>f0e4c2f7</name>
-            <uri>https://news.ycombinator.com/user?id=f0e4c2f7</uri>
         </author>
     </entry>
 </feed>
