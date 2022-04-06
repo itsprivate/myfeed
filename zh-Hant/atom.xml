@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T11:12:36.910Z</updated>
+    <updated>2022-04-06T11:30:27.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鑄幣。晚期的對抗性互操作性展示了我們擁有和失去的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30930779</id>
+        <link href="https://news.ycombinator.com/item?id=30930779"/>
+        <updated>2022-04-06T11:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Mint: Late-Stage Adversarial Interoperability Demonstrates What We Had and Lost]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法航降落恐慌促使法國對波音777航班進行調查]]></title>
+        <id>https://news.ycombinator.com/item?id=30930752</id>
+        <link href="https://news.ycombinator.com/item?id=30930752"/>
+        <updated>2022-04-06T11:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Air France Landing Scare Prompts French Probe on Boeing 777 Flight]]></summary>
+        <author>
+            <name>Majestic121</name>
+            <uri>https://news.ycombinator.com/user?id=Majestic121</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GhostSCAD。將OpenSCAD和Golang結合起來]]></title>
+        <id>https://news.ycombinator.com/item?id=30930665</id>
+        <link href="https://news.ycombinator.com/item?id=30930665"/>
+        <updated>2022-04-06T10:59:47.000Z</updated>
+        <summary type="html"><![CDATA[GhostSCAD: Marrying OpenSCAD and Golang]]></summary>
+        <author>
+            <name>ljan</name>
+            <uri>https://news.ycombinator.com/user?id=ljan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在6個月內蒐羅了~25萬份前端工作機會，這是我得到的結果]]></title>
+        <id>https://news.ycombinator.com/item?id=30930488</id>
+        <link href="https://news.ycombinator.com/item?id=30930488"/>
+        <updated>2022-04-06T10:33:12.000Z</updated>
+        <summary type="html"><![CDATA[I scraped ~250k Frontend job offers for 6 months and this is what I got]]></summary>
+        <author>
+            <name>logan__dev</name>
+            <uri>https://news.ycombinator.com/user?id=logan__dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[濃縮咖啡：松露上的Java（在Graalvm）。]]></title>
         <id>https://news.ycombinator.com/item?id=30929651</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colossal-AI：用於大規模訓練的統一深度學習系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30916407</id>
-        <link href="https://news.ycombinator.com/item?id=30916407"/>
-        <updated>2022-04-05T07:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Colossal-AI: A Unified Deep Learning System for Large-Scale Training]]></summary>
-        <author>
-            <name>forrest_blue</name>
-            <uri>https://news.ycombinator.com/user?id=forrest_blue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些已經退出工作崗位的 "閒散 "工人]]></title>
-        <id>https://news.ycombinator.com/item?id=30916399</id>
-        <link href="https://news.ycombinator.com/item?id=30916399"/>
-        <updated>2022-04-05T07:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The ‘coasting’ workers who’ve checked out of their jobs]]></summary>
-        <author>
-            <name>andyjohnson0</name>
-            <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在TypeScript的類型系統中模擬Lambda微積分]]></title>
-        <id>https://news.ycombinator.com/item?id=30916394</id>
-        <link href="https://news.ycombinator.com/item?id=30916394"/>
-        <updated>2022-04-05T07:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Emulating the Lambda Calculus in TypeScript's Type System]]></summary>
-        <author>
-            <name>tempodox</name>
-            <uri>https://news.ycombinator.com/user?id=tempodox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於旅行和模仿性慾望的第一份說明]]></title>
-        <id>https://news.ycombinator.com/item?id=30916392</id>
-        <link href="https://news.ycombinator.com/item?id=30916392"/>
-        <updated>2022-04-05T07:56:31.000Z</updated>
-        <summary type="html"><![CDATA[A First Note on Travel and Mimetic Desire]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
         </author>
     </entry>
 </feed>
