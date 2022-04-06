@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,83 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Rust编写Redux还原器]]></title>
+            <link>https://news.ycombinator.com/item?id=30930310</link>
+            <guid>https://news.ycombinator.com/item?id=30930310</guid>
+            <pubDate>Wed, 06 Apr 2022 10:04:21 GMT</pubDate>
+            <description><![CDATA[Writing Redux Reducers in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[世界各地科技公司的名称缩写]]></title>
+            <link>https://news.ycombinator.com/item?id=30930272</link>
+            <guid>https://news.ycombinator.com/item?id=30930272</guid>
+            <pubDate>Wed, 06 Apr 2022 09:56:18 GMT</pubDate>
+            <description><![CDATA[Pronuncition names of tech companies around the world]]></description>
+        </item>
+        <item>
+            <title><![CDATA[工作中的幸福秘诀 (2021)]]></title>
+            <link>https://news.ycombinator.com/item?id=30930271</link>
+            <guid>https://news.ycombinator.com/item?id=30930271</guid>
+            <pubDate>Wed, 06 Apr 2022 09:55:50 GMT</pubDate>
+            <description><![CDATA[The Secret to Happiness at Work (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[设计系统并不便宜]]></title>
+            <link>https://news.ycombinator.com/item?id=30930166</link>
+            <guid>https://news.ycombinator.com/item?id=30930166</guid>
+            <pubDate>Wed, 06 Apr 2022 09:36:04 GMT</pubDate>
+            <description><![CDATA[Design Systems Aren't Cheap]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果修补了macOS蒙特雷的关键缺陷，但没有修补大苏尔和卡塔利娜的缺陷]]></title>
+            <link>https://news.ycombinator.com/item?id=30930164</link>
+            <guid>https://news.ycombinator.com/item?id=30930164</guid>
+            <pubDate>Wed, 06 Apr 2022 09:35:09 GMT</pubDate>
+            <description><![CDATA[Apple patched critical flaws in macOS Monterey but not in Big Sur nor Catalina]]></description>
+        </item>
+        <item>
+            <title><![CDATA[linmath.h - 一个针对图形编程的精简线性数学库]]></title>
+            <link>https://news.ycombinator.com/item?id=30930094</link>
+            <guid>https://news.ycombinator.com/item?id=30930094</guid>
+            <pubDate>Wed, 06 Apr 2022 09:22:13 GMT</pubDate>
+            <description><![CDATA[linmath.h – a lean linear math library aimed at graphics programming]]></description>
+        </item>
+        <item>
+            <title><![CDATA[上海出现数千例无症状的奥米加病例后，2600万人处于封锁状态]]></title>
+            <link>https://news.ycombinator.com/item?id=30929975</link>
+            <guid>https://news.ycombinator.com/item?id=30929975</guid>
+            <pubDate>Wed, 06 Apr 2022 09:01:42 GMT</pubDate>
+            <description><![CDATA[26M people in lockdown after thousands of asymptomatic Omicron cases in Shanghai]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的设备是USB3.0，还是连接器只是蓝色？]]></title>
+            <link>https://news.ycombinator.com/item?id=30929481</link>
+            <guid>https://news.ycombinator.com/item?id=30929481</guid>
+            <pubDate>Wed, 06 Apr 2022 07:40:09 GMT</pubDate>
+            <description><![CDATA[Is Your Device USB 3.0, or Is the Connector Just Blue?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[栗鼠和金矿 (2020)]]></title>
+            <link>https://news.ycombinator.com/item?id=30929416</link>
+            <guid>https://news.ycombinator.com/item?id=30929416</guid>
+            <pubDate>Wed, 06 Apr 2022 07:28:50 GMT</pubDate>
+            <description><![CDATA[The Chinchillas and the Gold Mine (2020)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沙丘》作曲家汉斯-齐默创作了奥斯卡获奖音乐 - 名利场]]></title>
+            <link>https://news.ycombinator.com/item?id=30929182</link>
+            <guid>https://news.ycombinator.com/item?id=30929182</guid>
+            <pubDate>Wed, 06 Apr 2022 06:51:39 GMT</pubDate>
+            <description><![CDATA['Dune' Composer Hans Zimmer Created the Oscar-Winning Score – Vanity Fair]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ProstaStream评论。Prosta Stream前列腺支持补充剂是否有效？]]></title>
+            <link>https://news.ycombinator.com/item?id=30929145</link>
+            <guid>https://news.ycombinator.com/item?id=30929145</guid>
+            <pubDate>Wed, 06 Apr 2022 06:45:31 GMT</pubDate>
+            <description><![CDATA[ProstaStream Review: Does Prosta Stream Prostate Support Supplement Work?]]></description>
+        </item>
         <item>
             <title><![CDATA[Covid-19: 为什么中国的疫苗接种率很高，却没有达到群体免疫力？]]></title>
             <link>https://news.ycombinator.com/item?id=30929671</link>
@@ -4136,83 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30916253</guid>
             <pubDate>Tue, 05 Apr 2022 07:31:46 GMT</pubDate>
             <description><![CDATA[The West is running out of ways to punish Putin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的欧洲盟友]]></title>
-            <link>https://news.ycombinator.com/item?id=30916251</link>
-            <guid>https://news.ycombinator.com/item?id=30916251</guid>
-            <pubDate>Tue, 05 Apr 2022 07:31:33 GMT</pubDate>
-            <description><![CDATA[Putin’s European Allies]]></description>
-        </item>
-        <item>
-            <title><![CDATA["俄罗斯输不起，我们需要一种胜利"：普京的前顾问]]></title>
-            <link>https://news.ycombinator.com/item?id=30916242</link>
-            <guid>https://news.ycombinator.com/item?id=30916242</guid>
-            <pubDate>Tue, 05 Apr 2022 07:30:38 GMT</pubDate>
-            <description><![CDATA[“Russia can't afford to lose, we need a kind of victory”:former advisor on Putin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1648名俄罗斯士兵的姓名、军衔、出生日期和护照号码]]></title>
-            <link>https://news.ycombinator.com/item?id=30916210</link>
-            <guid>https://news.ycombinator.com/item?id=30916210</guid>
-            <pubDate>Tue, 05 Apr 2022 07:24:12 GMT</pubDate>
-            <description><![CDATA[1648 Names, Ranks, DOB, and Passport Numbers of Russian Soldiers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JSON重新格式化和打印]]></title>
-            <link>https://news.ycombinator.com/item?id=30916201</link>
-            <guid>https://news.ycombinator.com/item?id=30916201</guid>
-            <pubDate>Tue, 05 Apr 2022 07:21:34 GMT</pubDate>
-            <description><![CDATA[JSON Reformat and Print]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不记名代币实在是太糟糕了]]></title>
-            <link>https://news.ycombinator.com/item?id=30916192</link>
-            <guid>https://news.ycombinator.com/item?id=30916192</guid>
-            <pubDate>Tue, 05 Apr 2022 07:19:46 GMT</pubDate>
-            <description><![CDATA[Bearer tokens are just awful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会权衡加密货币交易平台的发展道路]]></title>
-            <link>https://news.ycombinator.com/item?id=30916171</link>
-            <guid>https://news.ycombinator.com/item?id=30916171</guid>
-            <pubDate>Tue, 05 Apr 2022 07:16:25 GMT</pubDate>
-            <description><![CDATA[SEC Weighs Path Forward for Crypto Trading Platforms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2021年，禁书的努力史无前例地猛增了4倍]]></title>
-            <link>https://news.ycombinator.com/item?id=30916158</link>
-            <guid>https://news.ycombinator.com/item?id=30916158</guid>
-            <pubDate>Tue, 05 Apr 2022 07:13:48 GMT</pubDate>
-            <description><![CDATA[Efforts to ban books jumped an unprecedented four-fold in 2021]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们（启动）为我们的点com域名支付了五位数的资金]]></title>
-            <link>https://news.ycombinator.com/item?id=30916155</link>
-            <guid>https://news.ycombinator.com/item?id=30916155</guid>
-            <pubDate>Tue, 05 Apr 2022 07:11:31 GMT</pubDate>
-            <description><![CDATA[We (bootstrapped) paid five-figure for our dot com domain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开设第一家由DAO运营的咖啡店]]></title>
-            <link>https://news.ycombinator.com/item?id=30916152</link>
-            <guid>https://news.ycombinator.com/item?id=30916152</guid>
-            <pubDate>Tue, 05 Apr 2022 07:11:21 GMT</pubDate>
-            <description><![CDATA[Opening the First DAO-Run Coffee Shop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DuckDuckGo誓言限制俄罗斯宣传后，极右派发出了抱怨。]]></title>
-            <link>https://news.ycombinator.com/item?id=30916124</link>
-            <guid>https://news.ycombinator.com/item?id=30916124</guid>
-            <pubDate>Tue, 05 Apr 2022 07:05:39 GMT</pubDate>
-            <description><![CDATA[The far right complains after DuckDuckGo vows to limit Russian propaganda]]></description>
-        </item>
-        <item>
-            <title><![CDATA[山姆-班克曼-弗里德。FTX的加密货币亿万富翁，想把他的财富送出去]]></title>
-            <link>https://news.ycombinator.com/item?id=30916092</link>
-            <guid>https://news.ycombinator.com/item?id=30916092</guid>
-            <pubDate>Tue, 05 Apr 2022 06:59:23 GMT</pubDate>
-            <description><![CDATA[Sam Bankman-Fried: FTX’s Crypto Billionaire Who Wants to Give His Fortune Away]]></description>
         </item>
     </channel>
 </rss>
