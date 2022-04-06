@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T08:15:23.412Z</updated>
+    <updated>2022-04-06T08:37:31.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维拉事件]]></title>
+        <id>https://news.ycombinator.com/item?id=30929667</id>
+        <link href="https://news.ycombinator.com/item?id=30929667"/>
+        <updated>2022-04-06T08:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Vela Incident]]></summary>
+        <author>
+            <name>ZeljkoS</name>
+            <uri>https://news.ycombinator.com/user?id=ZeljkoS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度禁止浏览量达26亿的错误信息的YouTube频道]]></title>
+        <id>https://news.ycombinator.com/item?id=30929468</id>
+        <link href="https://news.ycombinator.com/item?id=30929468"/>
+        <updated>2022-04-06T07:38:40.000Z</updated>
+        <summary type="html"><![CDATA[India Bans YouTube Channels with 2.6B Views for Misinfo]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法拉利所有者Exor希望建立意大利的Y Combinator]]></title>
         <id>https://news.ycombinator.com/item?id=30929665</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>giacaglia</name>
             <uri>https://news.ycombinator.com/user?id=giacaglia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能可以只用你的声音就能做出令人毛骨悚然的准确画像]]></title>
-        <id>https://news.ycombinator.com/item?id=30915684</id>
-        <link href="https://news.ycombinator.com/item?id=30915684"/>
-        <updated>2022-04-05T05:50:41.000Z</updated>
-        <summary type="html"><![CDATA[AI Can Make an Eerily Accurate Portrait Using Only Your Voice]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大麻合法化后，泰国梦想发展高端大麻旅游]]></title>
-        <id>https://news.ycombinator.com/item?id=30915343</id>
-        <link href="https://news.ycombinator.com/item?id=30915343"/>
-        <updated>2022-04-05T04:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Thailand dreams of high-end cannabis tourism after marijuana is legalised]]></summary>
-        <author>
-            <name>sandebert</name>
-            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
         </author>
     </entry>
 </feed>
