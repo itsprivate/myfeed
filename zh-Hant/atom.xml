@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T10:53:00.973Z</updated>
+    <updated>2022-04-06T11:12:36.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[濃縮咖啡：松露上的Java（在Graalvm）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30929651</id>
+        <link href="https://news.ycombinator.com/item?id=30929651"/>
+        <updated>2022-04-06T08:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Espresso: Java on Truffle (On Graalvm)]]></summary>
+        <author>
+            <name>kjeetgill</name>
+            <uri>https://news.ycombinator.com/user?id=kjeetgill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在增長緩慢、高燒不退的情況下，快速公司關閉了大門，排除了籌款選項]]></title>
+        <id>https://news.ycombinator.com/item?id=30929400</id>
+        <link href="https://news.ycombinator.com/item?id=30929400"/>
+        <updated>2022-04-06T07:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Fast shuts doors after slow growth, high burn precluded fundraising options]]></summary>
+        <author>
+            <name>isuckatcoding</name>
+            <uri>https://news.ycombinator.com/user?id=isuckatcoding</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罕見而有趣的侮辱。Cockalorum, Snollygoster, and more]]></title>
         <id>https://news.ycombinator.com/item?id=30930324</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vitabenes</name>
             <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一種新的方法可以改善機器人在對話組中的互動方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30916336</id>
-        <link href="https://news.ycombinator.com/item?id=30916336"/>
-        <updated>2022-04-05T07:46:42.000Z</updated>
-        <summary type="html"><![CDATA[A new approach that could improve how robots interact in conversational groups]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人JSON搜索和渠道檢索]]></title>
-        <id>https://news.ycombinator.com/item?id=30916326</id>
-        <link href="https://news.ycombinator.com/item?id=30916326"/>
-        <updated>2022-04-05T07:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Personal JSON search and channel retrieval]]></summary>
-        <author>
-            <name>1vuio0pswjnm7</name>
-            <uri>https://news.ycombinator.com/user?id=1vuio0pswjnm7</uri>
         </author>
     </entry>
 </feed>

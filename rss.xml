@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[浓缩咖啡：松露上的Java（在Graalvm）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30929651</link>
+            <guid>https://news.ycombinator.com/item?id=30929651</guid>
+            <pubDate>Wed, 06 Apr 2022 08:04:29 GMT</pubDate>
+            <description><![CDATA[Espresso: Java on Truffle (On Graalvm)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在增长缓慢、高烧不退的情况下，快速公司关闭了大门，排除了筹款选项]]></title>
+            <link>https://news.ycombinator.com/item?id=30929400</link>
+            <guid>https://news.ycombinator.com/item?id=30929400</guid>
+            <pubDate>Wed, 06 Apr 2022 07:27:06 GMT</pubDate>
+            <description><![CDATA[Fast shuts doors after slow growth, high burn precluded fundraising options]]></description>
+        </item>
         <item>
             <title><![CDATA[罕见而有趣的侮辱。Cockalorum, Snollygoster, and more]]></title>
             <link>https://news.ycombinator.com/item?id=30930324</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30916392</guid>
             <pubDate>Tue, 05 Apr 2022 07:56:31 GMT</pubDate>
             <description><![CDATA[A First Note on Travel and Mimetic Desire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一种新的方法可以改善机器人在对话组中的互动方式]]></title>
-            <link>https://news.ycombinator.com/item?id=30916336</link>
-            <guid>https://news.ycombinator.com/item?id=30916336</guid>
-            <pubDate>Tue, 05 Apr 2022 07:46:42 GMT</pubDate>
-            <description><![CDATA[A new approach that could improve how robots interact in conversational groups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[个人JSON搜索和渠道检索]]></title>
-            <link>https://news.ycombinator.com/item?id=30916326</link>
-            <guid>https://news.ycombinator.com/item?id=30916326</guid>
-            <pubDate>Tue, 05 Apr 2022 07:45:27 GMT</pubDate>
-            <description><![CDATA[Personal JSON search and channel retrieval]]></description>
         </item>
     </channel>
 </rss>
