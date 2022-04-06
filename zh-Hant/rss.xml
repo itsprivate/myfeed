@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 11:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼美國的餐館就是找不到員工]]></title>
+            <link>https://news.ycombinator.com/item?id=30930862</link>
+            <guid>https://news.ycombinator.com/item?id=30930862</guid>
+            <pubDate>Wed, 06 Apr 2022 11:30:00 GMT</pubDate>
+            <description><![CDATA[Why restaurants in the United States just can’t get the staff]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Emacs 28.1有什麼新內容？]]></title>
+            <link>https://news.ycombinator.com/item?id=30930816</link>
+            <guid>https://news.ycombinator.com/item?id=30930816</guid>
+            <pubDate>Wed, 06 Apr 2022 11:23:33 GMT</pubDate>
+            <description><![CDATA[What’s New in Emacs 28.1?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[對在瀏覽器中運行的macOS Drift屏保的頌揚]]></title>
+            <link>https://news.ycombinator.com/item?id=30930638</link>
+            <guid>https://news.ycombinator.com/item?id=30930638</guid>
+            <pubDate>Wed, 06 Apr 2022 10:56:33 GMT</pubDate>
+            <description><![CDATA[Show HN: An ode to the macOS Drift screensaver that runs in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個真正有效的隱身盾牌]]></title>
+            <link>https://news.ycombinator.com/item?id=30930618</link>
+            <guid>https://news.ycombinator.com/item?id=30930618</guid>
+            <pubDate>Wed, 06 Apr 2022 10:53:37 GMT</pubDate>
+            <description><![CDATA[A Real Working Invisibility Shield]]></description>
+        </item>
         <item>
             <title><![CDATA[鑄幣。晚期的對抗性互操作性展示了我們擁有和失去的東西]]></title>
             <link>https://news.ycombinator.com/item?id=30930779</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30916709</guid>
             <pubDate>Tue, 05 Apr 2022 08:51:44 GMT</pubDate>
             <description><![CDATA[How to investigate memory usage of your rust program]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：烏克蘭戰爭背景下的Facebook內容控制]]></title>
-            <link>https://news.ycombinator.com/item?id=30916558</link>
-            <guid>https://news.ycombinator.com/item?id=30916558</guid>
-            <pubDate>Tue, 05 Apr 2022 08:24:56 GMT</pubDate>
-            <description><![CDATA[Tell HN: Facebook content control in the context of the war in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AsyncSSH：用於Python的異步SSH]]></title>
-            <link>https://news.ycombinator.com/item?id=30916536</link>
-            <guid>https://news.ycombinator.com/item?id=30916536</guid>
-            <pubDate>Tue, 05 Apr 2022 08:20:22 GMT</pubDate>
-            <description><![CDATA[AsyncSSH: Asynchronous SSH for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何規模化運營數字平臺]]></title>
-            <link>https://news.ycombinator.com/item?id=30916464</link>
-            <guid>https://news.ycombinator.com/item?id=30916464</guid>
-            <pubDate>Tue, 05 Apr 2022 08:09:30 GMT</pubDate>
-            <description><![CDATA[How to Run a Digital Platform at Scale]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sish: HTTP(s)/WS(S)/TCP 僅使用SSH隧道到本地主機]]></title>
-            <link>https://news.ycombinator.com/item?id=30916453</link>
-            <guid>https://news.ycombinator.com/item?id=30916453</guid>
-            <pubDate>Tue, 05 Apr 2022 08:08:16 GMT</pubDate>
-            <description><![CDATA[Sish: HTTP(s)/WS(S)/TCP Tunnels to localhost using only SSH]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T11:30:27.380Z</updated>
+    <updated>2022-04-06T11:51:40.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么美国的餐馆就是找不到员工]]></title>
+        <id>https://news.ycombinator.com/item?id=30930862</id>
+        <link href="https://news.ycombinator.com/item?id=30930862"/>
+        <updated>2022-04-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why restaurants in the United States just can’t get the staff]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs 28.1有什么新内容？]]></title>
+        <id>https://news.ycombinator.com/item?id=30930816</id>
+        <link href="https://news.ycombinator.com/item?id=30930816"/>
+        <updated>2022-04-06T11:23:33.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in Emacs 28.1?]]></summary>
+        <author>
+            <name>abzug</name>
+            <uri>https://news.ycombinator.com/user?id=abzug</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对在浏览器中运行的macOS Drift屏保的颂扬]]></title>
+        <id>https://news.ycombinator.com/item?id=30930638</id>
+        <link href="https://news.ycombinator.com/item?id=30930638"/>
+        <updated>2022-04-06T10:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An ode to the macOS Drift screensaver that runs in the browser]]></summary>
+        <author>
+            <name>sandydooo</name>
+            <uri>https://news.ycombinator.com/user?id=sandydooo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个真正有效的隐身盾牌]]></title>
+        <id>https://news.ycombinator.com/item?id=30930618</id>
+        <link href="https://news.ycombinator.com/item?id=30930618"/>
+        <updated>2022-04-06T10:53:37.000Z</updated>
+        <summary type="html"><![CDATA[A Real Working Invisibility Shield]]></summary>
+        <author>
+            <name>T-A</name>
+            <uri>https://news.ycombinator.com/user?id=T-A</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[铸币。晚期的对抗性互操作性展示了我们拥有和失去的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30930779</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>PSeitz</name>
             <uri>https://news.ycombinator.com/user?id=PSeitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：乌克兰战争背景下的Facebook内容控制]]></title>
-        <id>https://news.ycombinator.com/item?id=30916558</id>
-        <link href="https://news.ycombinator.com/item?id=30916558"/>
-        <updated>2022-04-05T08:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Facebook content control in the context of the war in Ukraine]]></summary>
-        <author>
-            <name>fer</name>
-            <uri>https://news.ycombinator.com/user?id=fer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AsyncSSH：用于Python的异步SSH]]></title>
-        <id>https://news.ycombinator.com/item?id=30916536</id>
-        <link href="https://news.ycombinator.com/item?id=30916536"/>
-        <updated>2022-04-05T08:20:22.000Z</updated>
-        <summary type="html"><![CDATA[AsyncSSH: Asynchronous SSH for Python]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何规模化运营数字平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30916464</id>
-        <link href="https://news.ycombinator.com/item?id=30916464"/>
-        <updated>2022-04-05T08:09:30.000Z</updated>
-        <summary type="html"><![CDATA[How to Run a Digital Platform at Scale]]></summary>
-        <author>
-            <name>beny23</name>
-            <uri>https://news.ycombinator.com/user?id=beny23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sish: HTTP(s)/WS(S)/TCP 仅使用SSH隧道到本地主机]]></title>
-        <id>https://news.ycombinator.com/item?id=30916453</id>
-        <link href="https://news.ycombinator.com/item?id=30916453"/>
-        <updated>2022-04-05T08:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Sish: HTTP(s)/WS(S)/TCP Tunnels to localhost using only SSH]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
