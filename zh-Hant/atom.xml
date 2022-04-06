@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T08:37:31.796Z</updated>
+    <updated>2022-04-06T08:54:24.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GenieFramework - 用Julia進行Web開發]]></title>
+        <id>https://news.ycombinator.com/item?id=30929873</id>
+        <link href="https://news.ycombinator.com/item?id=30929873"/>
+        <updated>2022-04-06T08:45:26.000Z</updated>
+        <summary type="html"><![CDATA[GenieFramework – Web Development with Julia]]></summary>
+        <author>
+            <name>msravi</name>
+            <uri>https://news.ycombinator.com/user?id=msravi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將新聞傳入俄羅斯的創意黑客]]></title>
+        <id>https://news.ycombinator.com/item?id=30929560</id>
+        <link href="https://news.ycombinator.com/item?id=30929560"/>
+        <updated>2022-04-06T07:50:37.000Z</updated>
+        <summary type="html"><![CDATA[A Creative Hack to Get News into Russia]]></summary>
+        <author>
+            <name>antfarm</name>
+            <uri>https://news.ycombinator.com/user?id=antfarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維拉事件]]></title>
         <id>https://news.ycombinator.com/item?id=30929667</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>brid_wu</name>
             <uri>https://news.ycombinator.com/user?id=brid_wu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教程。在PyTorch中使用functorch編寫類似Jax的代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30915721</id>
-        <link href="https://news.ycombinator.com/item?id=30915721"/>
-        <updated>2022-04-05T05:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Tutorial: Writing Jax-like code in PyTorch with functorch]]></summary>
-        <author>
-            <name>figomore</name>
-            <uri>https://news.ycombinator.com/user?id=figomore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuZero的實施]]></title>
-        <id>https://news.ycombinator.com/item?id=30915712</id>
-        <link href="https://news.ycombinator.com/item?id=30915712"/>
-        <updated>2022-04-05T05:54:12.000Z</updated>
-        <summary type="html"><![CDATA[MuZero Implementation]]></summary>
-        <author>
-            <name>giacaglia</name>
-            <uri>https://news.ycombinator.com/user?id=giacaglia</uri>
         </author>
     </entry>
 </feed>

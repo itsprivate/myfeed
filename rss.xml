@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GenieFramework - 用Julia进行Web开发]]></title>
+            <link>https://news.ycombinator.com/item?id=30929873</link>
+            <guid>https://news.ycombinator.com/item?id=30929873</guid>
+            <pubDate>Wed, 06 Apr 2022 08:45:26 GMT</pubDate>
+            <description><![CDATA[GenieFramework – Web Development with Julia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将新闻传入俄罗斯的创意黑客]]></title>
+            <link>https://news.ycombinator.com/item?id=30929560</link>
+            <guid>https://news.ycombinator.com/item?id=30929560</guid>
+            <pubDate>Wed, 06 Apr 2022 07:50:37 GMT</pubDate>
+            <description><![CDATA[A Creative Hack to Get News into Russia]]></description>
+        </item>
         <item>
             <title><![CDATA[维拉事件]]></title>
             <link>https://news.ycombinator.com/item?id=30929667</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30915738</guid>
             <pubDate>Tue, 05 Apr 2022 05:58:35 GMT</pubDate>
             <description><![CDATA[Show HN: Chrome Recorder Crawler]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教程。在PyTorch中使用functorch编写类似Jax的代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30915721</link>
-            <guid>https://news.ycombinator.com/item?id=30915721</guid>
-            <pubDate>Tue, 05 Apr 2022 05:55:39 GMT</pubDate>
-            <description><![CDATA[Tutorial: Writing Jax-like code in PyTorch with functorch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MuZero的实施]]></title>
-            <link>https://news.ycombinator.com/item?id=30915712</link>
-            <guid>https://news.ycombinator.com/item?id=30915712</guid>
-            <pubDate>Tue, 05 Apr 2022 05:54:12 GMT</pubDate>
-            <description><![CDATA[MuZero Implementation]]></description>
         </item>
     </channel>
 </rss>
