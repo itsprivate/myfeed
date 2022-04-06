@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T23:42:46.021Z</updated>
+    <updated>2022-04-06T23:51:47.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國稱已在全球範圍內刪除惡意軟件，預先誘導俄羅斯網絡攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30938875</id>
+        <link href="https://news.ycombinator.com/item?id=30938875"/>
+        <updated>2022-04-06T23:45:57.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Says It Removed Malware Worldwide, Pre-Empting Russian Cyberattack]]></summary>
+        <author>
+            <name>jrochkind1</name>
+            <uri>https://news.ycombinator.com/user?id=jrochkind1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAANG宣傳片委員會正在扼殺Kubernetes。一條短線]]></title>
+        <id>https://news.ycombinator.com/item?id=30938842</id>
+        <link href="https://news.ycombinator.com/item?id=30938842"/>
+        <updated>2022-04-06T23:41:22.000Z</updated>
+        <summary type="html"><![CDATA[FAANG promo committees are killing Kubernetes: A Short Thread]]></summary>
+        <author>
+            <name>lolsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=lolsoftware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌禁止收割用戶數據的安卓應用 - 議定書]]></title>
+        <id>https://news.ycombinator.com/item?id=30938687</id>
+        <link href="https://news.ycombinator.com/item?id=30938687"/>
+        <updated>2022-04-06T23:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Google bans Android apps that were harvesting user data – Protocol]]></summary>
+        <author>
+            <name>rolph</name>
+            <uri>https://news.ycombinator.com/user?id=rolph</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres Java lib讀取5次後返回錯誤的數字值]]></title>
         <id>https://news.ycombinator.com/item?id=30938136</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ivanosqui</name>
             <uri>https://news.ycombinator.com/user?id=ivanosqui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空間筆]]></title>
-        <id>https://news.ycombinator.com/item?id=30923327</id>
-        <link href="https://news.ycombinator.com/item?id=30923327"/>
-        <updated>2022-04-05T18:56:15.000Z</updated>
-        <summary type="html"><![CDATA[Space Pen]]></summary>
-        <author>
-            <name>yeetsfromhellL2</name>
-            <uri>https://news.ycombinator.com/user?id=yeetsfromhellL2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在NFTs的世界裡，誰在利用你的形象賺錢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30923198</id>
-        <link href="https://news.ycombinator.com/item?id=30923198"/>
-        <updated>2022-04-05T18:47:51.000Z</updated>
-        <summary type="html"><![CDATA[In the World of NFTs, Who's Making Money Off Your Image?]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克獲得Twitter董事會席位]]></title>
-        <id>https://news.ycombinator.com/item?id=30923183</id>
-        <link href="https://news.ycombinator.com/item?id=30923183"/>
-        <updated>2022-04-05T18:46:49.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Got a Twitter Board Seat]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
