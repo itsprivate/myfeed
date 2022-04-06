@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 21:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[缪斯的心。一个基于SSH的围棋心脏抽奖游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30937666</link>
+            <guid>https://news.ycombinator.com/item?id=30937666</guid>
+            <pubDate>Wed, 06 Apr 2022 21:33:15 GMT</pubDate>
+            <description><![CDATA[Musshi's Heart: An SSH based heart pumping game in Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Twitter Bluesky：一个自我认证的社会协议]]></title>
+            <link>https://news.ycombinator.com/item?id=30937578</link>
+            <guid>https://news.ycombinator.com/item?id=30937578</guid>
+            <pubDate>Wed, 06 Apr 2022 21:23:54 GMT</pubDate>
+            <description><![CDATA[Twitter Bluesky: A Self-Authenticating Social Protocol]]></description>
+        </item>
         <item>
             <title><![CDATA[猎枪王]]></title>
             <link>https://news.ycombinator.com/item?id=30937523</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30922131</guid>
             <pubDate>Tue, 05 Apr 2022 17:34:44 GMT</pubDate>
             <description><![CDATA[Tech workers describe detentions and interrogations as they flee Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不，这不一定是DNS]]></title>
-            <link>https://news.ycombinator.com/item?id=30922091</link>
-            <guid>https://news.ycombinator.com/item?id=30922091</guid>
-            <pubDate>Tue, 05 Apr 2022 17:32:30 GMT</pubDate>
-            <description><![CDATA[No, It's Not Always DNS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[介绍ReadySet]]></title>
-            <link>https://news.ycombinator.com/item?id=30922082</link>
-            <guid>https://news.ycombinator.com/item?id=30922082</guid>
-            <pubDate>Tue, 05 Apr 2022 17:32:16 GMT</pubDate>
-            <description><![CDATA[Introducing ReadySet]]></description>
         </item>
     </channel>
 </rss>

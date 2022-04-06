@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T21:32:46.620Z</updated>
+    <updated>2022-04-06T21:41:12.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[缪斯的心。一个基于SSH的围棋心脏抽奖游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30937666</id>
+        <link href="https://news.ycombinator.com/item?id=30937666"/>
+        <updated>2022-04-06T21:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Musshi's Heart: An SSH based heart pumping game in Go]]></summary>
+        <author>
+            <name>gojiberries</name>
+            <uri>https://news.ycombinator.com/user?id=gojiberries</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Bluesky：一个自我认证的社会协议]]></title>
+        <id>https://news.ycombinator.com/item?id=30937578</id>
+        <link href="https://news.ycombinator.com/item?id=30937578"/>
+        <updated>2022-04-06T21:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Bluesky: A Self-Authenticating Social Protocol]]></summary>
+        <author>
+            <name>wmf</name>
+            <uri>https://news.ycombinator.com/user?id=wmf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猎枪王]]></title>
         <id>https://news.ycombinator.com/item?id=30937523</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>imartin2k</name>
             <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，这不一定是DNS]]></title>
-        <id>https://news.ycombinator.com/item?id=30922091</id>
-        <link href="https://news.ycombinator.com/item?id=30922091"/>
-        <updated>2022-04-05T17:32:30.000Z</updated>
-        <summary type="html"><![CDATA[No, It's Not Always DNS]]></summary>
-        <author>
-            <name>joegreensticks</name>
-            <uri>https://news.ycombinator.com/user?id=joegreensticks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介绍ReadySet]]></title>
-        <id>https://news.ycombinator.com/item?id=30922082</id>
-        <link href="https://news.ycombinator.com/item?id=30922082"/>
-        <updated>2022-04-05T17:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Introducing ReadySet]]></summary>
-        <author>
-            <name>alanamarzoev4</name>
-            <uri>https://news.ycombinator.com/user?id=alanamarzoev4</uri>
         </author>
     </entry>
 </feed>
