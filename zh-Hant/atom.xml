@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T22:34:35.944Z</updated>
+    <updated>2022-04-06T22:43:50.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據流圖的旋風式介紹(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30938309</id>
+        <link href="https://news.ycombinator.com/item?id=30938309"/>
+        <updated>2022-04-06T22:34:11.000Z</updated>
+        <summary type="html"><![CDATA[A whirlwind introduction to dataflow graphs (2018)]]></summary>
+        <author>
+            <name>wooosh</name>
+            <uri>https://news.ycombinator.com/user?id=wooosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌人工智能做的第一件事是故意在代碼中放入緩衝區溢出]]></title>
+        <id>https://news.ycombinator.com/item?id=30938289</id>
+        <link href="https://news.ycombinator.com/item?id=30938289"/>
+        <updated>2022-04-06T22:31:22.000Z</updated>
+        <summary type="html"><![CDATA[The first thing Google AI did was intentionally put buffer overflows in the code]]></summary>
+        <author>
+            <name>wslh</name>
+            <uri>https://news.ycombinator.com/user?id=wslh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[醫生從男子的眼睛裡撈出十多條小蛆蟲]]></title>
+        <id>https://news.ycombinator.com/item?id=30938238</id>
+        <link href="https://news.ycombinator.com/item?id=30938238"/>
+        <updated>2022-04-06T22:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Doctors fish out more than a dozen tiny maggots from man’s eye]]></summary>
+        <author>
+            <name>aw1621107</name>
+            <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利潤無限的計劃 (2008)]]></title>
         <id>https://news.ycombinator.com/item?id=30938115</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>trueduke</name>
             <uri>https://news.ycombinator.com/user?id=trueduke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[評估用於數據密集型應用的Graviton 2。Arm與Intel的比較]]></title>
-        <id>https://news.ycombinator.com/item?id=30923153</id>
-        <link href="https://news.ycombinator.com/item?id=30923153"/>
-        <updated>2022-04-05T18:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison]]></summary>
-        <author>
-            <name>Aissen</name>
-            <uri>https://news.ycombinator.com/user?id=Aissen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlotPanel - 無需任何代碼即可實現美麗的互動式可視化]]></title>
-        <id>https://news.ycombinator.com/item?id=30923149</id>
-        <link href="https://news.ycombinator.com/item?id=30923149"/>
-        <updated>2022-04-05T18:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PlotPanel – Beautiful and Interactive Visualizations Without Any Code]]></summary>
-        <author>
-            <name>batterylow</name>
-            <uri>https://news.ycombinator.com/user?id=batterylow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戰後有5,713,613,640歐元從德國轉移到了俄羅斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30923137</id>
-        <link href="https://news.ycombinator.com/item?id=30923137"/>
-        <updated>2022-04-05T18:44:12.000Z</updated>
-        <summary type="html"><![CDATA[5,713,613,640€ have been transferred from Germany to Russia since the war]]></summary>
-        <author>
-            <name>matthewmorgan</name>
-            <uri>https://news.ycombinator.com/user?id=matthewmorgan</uri>
         </author>
     </entry>
 </feed>
