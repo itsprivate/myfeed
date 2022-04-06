@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T03:59:33.555Z</updated>
+    <updated>2022-04-06T04:13:49.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在赫爾辛基]]></title>
+        <id>https://news.ycombinator.com/item?id=30928301</id>
+        <link href="https://news.ycombinator.com/item?id=30928301"/>
+        <updated>2022-04-06T03:55:47.000Z</updated>
+        <summary type="html"><![CDATA[In Helsinki]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VisiCalc]]></title>
+        <id>https://news.ycombinator.com/item?id=30928076</id>
+        <link href="https://news.ycombinator.com/item?id=30928076"/>
+        <updated>2022-04-06T03:14:24.000Z</updated>
+        <summary type="html"><![CDATA[VisiCalc]]></summary>
+        <author>
+            <name>timClicks</name>
+            <uri>https://news.ycombinator.com/user?id=timClicks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析師：關閉3M公司的芯片冷卻劑工廠可能會擾亂半導體行業。]]></title>
         <id>https://news.ycombinator.com/item?id=30928207</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jseliger</name>
             <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD以19億美元收購Pensando公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30914175</id>
-        <link href="https://news.ycombinator.com/item?id=30914175"/>
-        <updated>2022-04-05T01:22:07.000Z</updated>
-        <summary type="html"><![CDATA[AMD Acquires Pensando for $1.9B]]></summary>
-        <author>
-            <name>marc__1</name>
-            <uri>https://news.ycombinator.com/user?id=marc__1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何不閱讀科學論文]]></title>
-        <id>https://news.ycombinator.com/item?id=30913775</id>
-        <link href="https://news.ycombinator.com/item?id=30913775"/>
-        <updated>2022-04-05T00:26:47.000Z</updated>
-        <summary type="html"><![CDATA[How Not to Read Scientific Papers]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
