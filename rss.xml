@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 23:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Postgres Java lib读取5次后返回错误的数字值]]></title>
+            <link>https://news.ycombinator.com/item?id=30938136</link>
+            <guid>https://news.ycombinator.com/item?id=30938136</guid>
+            <pubDate>Wed, 06 Apr 2022 22:14:36 GMT</pubDate>
+            <description><![CDATA[Postgres Java lib returns wrong numeric value after 5 reads]]></description>
+        </item>
         <item>
             <title><![CDATA[Lunasvg：C++中独立的SVG渲染库]]></title>
             <link>https://news.ycombinator.com/item?id=30938694</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30923183</guid>
             <pubDate>Tue, 05 Apr 2022 18:46:49 GMT</pubDate>
             <description><![CDATA[Elon Musk Got a Twitter Board Seat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Taro：多资产比特币和闪电的新协议]]></title>
-            <link>https://news.ycombinator.com/item?id=30922582</link>
-            <guid>https://news.ycombinator.com/item?id=30922582</guid>
-            <pubDate>Tue, 05 Apr 2022 18:03:17 GMT</pubDate>
-            <description><![CDATA[Taro: A New Protocol for Multi-Asset Bitcoin and Lightning]]></description>
         </item>
     </channel>
 </rss>
