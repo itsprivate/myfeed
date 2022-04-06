@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 06 Apr 2022 19:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 20:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个工具来汇总你的投资并跟踪其他投资者]]></title>
+            <link>https://news.ycombinator.com/item?id=30936844</link>
+            <guid>https://news.ycombinator.com/item?id=30936844</guid>
+            <pubDate>Wed, 06 Apr 2022 20:02:19 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a tool to aggregate your investments and follow other investors]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们认识的一些最聪明的人提出的40个最喜欢的面试问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30936796</link>
+            <guid>https://news.ycombinator.com/item?id=30936796</guid>
+            <pubDate>Wed, 06 Apr 2022 19:58:26 GMT</pubDate>
+            <description><![CDATA[40 Favorite Interview Questions from Some of the Sharpest Folks We Know]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰电信公司因俄罗斯占领区雇员的证书被盗而瘫痪]]></title>
+            <link>https://news.ycombinator.com/item?id=30936749</link>
+            <guid>https://news.ycombinator.com/item?id=30936749</guid>
+            <pubDate>Wed, 06 Apr 2022 19:53:54 GMT</pubDate>
+            <description><![CDATA[Ukrtelecom down via stolen credentials from employee in Russian-occupied zone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[政治垃圾短信失去控制，客户无法有效追索]]></title>
+            <link>https://news.ycombinator.com/item?id=30936666</link>
+            <guid>https://news.ycombinator.com/item?id=30936666</guid>
+            <pubDate>Wed, 06 Apr 2022 19:47:34 GMT</pubDate>
+            <description><![CDATA[Political spam texts are out of control and customers have no effective recourse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[甜蜜的家庭主页，一部关于网上成长的漫画]]></title>
+            <link>https://news.ycombinator.com/item?id=30936462</link>
+            <guid>https://news.ycombinator.com/item?id=30936462</guid>
+            <pubDate>Wed, 06 Apr 2022 19:28:44 GMT</pubDate>
+            <description><![CDATA[Home sweet homepage, a comic about growing up online]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Popey/unsnap。从使用snap包快速迁移到flatpaks]]></title>
+            <link>https://news.ycombinator.com/item?id=30936260</link>
+            <guid>https://news.ycombinator.com/item?id=30936260</guid>
+            <pubDate>Wed, 06 Apr 2022 19:11:09 GMT</pubDate>
+            <description><![CDATA[Popey/unsnap: Quickly migrate from using snap packages to flatpaks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每个程序员都需要知道的游戏网络知识（2010）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30936139</link>
+            <guid>https://news.ycombinator.com/item?id=30936139</guid>
+            <pubDate>Wed, 06 Apr 2022 19:00:52 GMT</pubDate>
+            <description><![CDATA[What Every Programmer Needs to Know About Game Networking (2010)]]></description>
+        </item>
         <item>
             <title><![CDATA[锡箔帽Linux]]></title>
             <link>https://news.ycombinator.com/item?id=30936490</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30920792</guid>
             <pubDate>Tue, 05 Apr 2022 16:09:22 GMT</pubDate>
             <description><![CDATA[Pipefail: How a missing shell option slowed Cloudflare down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[冥王星上的一些奇怪的特征仍然难以解释]]></title>
-            <link>https://news.ycombinator.com/item?id=30920779</link>
-            <guid>https://news.ycombinator.com/item?id=30920779</guid>
-            <pubDate>Tue, 05 Apr 2022 16:08:17 GMT</pubDate>
-            <description><![CDATA[Some of the stranger features on Pluto remain tough to explain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WWDC22]]></title>
-            <link>https://news.ycombinator.com/item?id=30920712</link>
-            <guid>https://news.ycombinator.com/item?id=30920712</guid>
-            <pubDate>Tue, 05 Apr 2022 16:03:38 GMT</pubDate>
-            <description><![CDATA[WWDC22]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最热门的NFT市场主要是用户在向自己出售产品]]></title>
-            <link>https://news.ycombinator.com/item?id=30920711</link>
-            <guid>https://news.ycombinator.com/item?id=30920711</guid>
-            <pubDate>Tue, 05 Apr 2022 16:03:35 GMT</pubDate>
-            <description><![CDATA[The Hottest NFT Marketplace Is Mostly Users Selling to Themselves]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Re-/model: 可以在运行时使用的TypeScript]]></title>
-            <link>https://news.ycombinator.com/item?id=30920660</link>
-            <guid>https://news.ycombinator.com/item?id=30920660</guid>
-            <pubDate>Tue, 05 Apr 2022 16:00:13 GMT</pubDate>
-            <description><![CDATA[Re-/model: TypeScript you can use at runtime]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tcl Cffi软件包 v1.0b5]]></title>
-            <link>https://news.ycombinator.com/item?id=30920593</link>
-            <guid>https://news.ycombinator.com/item?id=30920593</guid>
-            <pubDate>Tue, 05 Apr 2022 15:55:40 GMT</pubDate>
-            <description><![CDATA[Tcl Cffi Package v1.0b5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[码上经典 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30920469</link>
-            <guid>https://news.ycombinator.com/item?id=30920469</guid>
-            <pubDate>Tue, 05 Apr 2022 15:46:35 GMT</pubDate>
-            <description><![CDATA[Code the Classics (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[银河系的中年内环]]></title>
-            <link>https://news.ycombinator.com/item?id=30920380</link>
-            <guid>https://news.ycombinator.com/item?id=30920380</guid>
-            <pubDate>Tue, 05 Apr 2022 15:39:30 GMT</pubDate>
-            <description><![CDATA[The Milky Way's middle-aged inner ring]]></description>
         </item>
     </channel>
 </rss>
