@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-06T20:34:59.148Z</updated>
+    <updated>2022-04-06T20:40:50.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[口述歷史訪談。約翰-普雷斯基爾]]></title>
+        <id>https://news.ycombinator.com/item?id=30937116</id>
+        <link href="https://news.ycombinator.com/item?id=30937116"/>
+        <updated>2022-04-06T20:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Oral History Interviews: John Preskill]]></summary>
+        <author>
+            <name>mathgenius</name>
+            <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對埃隆-馬斯克來說，投資推特是一個太遠的備忘錄嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30937113</id>
+        <link href="https://news.ycombinator.com/item?id=30937113"/>
+        <updated>2022-04-06T20:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Is investing in Twitter a meme too far for Elon Musk?]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在40行以下的C語言中實現BLAS級別的矩陣乘法]]></title>
+        <id>https://news.ycombinator.com/item?id=30937059</id>
+        <link href="https://news.ycombinator.com/item?id=30937059"/>
+        <updated>2022-04-06T20:25:17.000Z</updated>
+        <summary type="html"><![CDATA[BLAS-level matrix multiplication in under 40 lines of C]]></summary>
+        <author>
+            <name>sereja</name>
+            <uri>https://news.ycombinator.com/user?id=sereja</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[織物護理劑可減少滾筒式烘乾機中的微纖維的釋放]]></title>
+        <id>https://news.ycombinator.com/item?id=30936914</id>
+        <link href="https://news.ycombinator.com/item?id=30936914"/>
+        <updated>2022-04-06T20:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Fabric conditioners reduce the release of microfibres in tumble dryers]]></summary>
+        <author>
+            <name>abracadaniel</name>
+            <uri>https://news.ycombinator.com/user?id=abracadaniel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[許多比恐龍還古老的植物面臨滅絕]]></title>
+        <id>https://news.ycombinator.com/item?id=30936766</id>
+        <link href="https://news.ycombinator.com/item?id=30936766"/>
+        <updated>2022-04-06T19:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Many of These Plants Older Than Dinosaurs Face Extinction]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海2500萬人口被無限期封鎖]]></title>
         <id>https://news.ycombinator.com/item?id=30937056</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>scapecast</name>
             <uri>https://news.ycombinator.com/user?id=scapecast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭新型火箭發射器似乎使用樹莓派]]></title>
-        <id>https://news.ycombinator.com/item?id=30921178</id>
-        <link href="https://news.ycombinator.com/item?id=30921178"/>
-        <updated>2022-04-05T16:36:29.000Z</updated>
-        <summary type="html"><![CDATA[New Ukrainian Rocket Launcher Appears to Use Raspberry Pi]]></summary>
-        <author>
-            <name>geerlingguy</name>
-            <uri>https://news.ycombinator.com/user?id=geerlingguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅馬格式化]]></title>
-        <id>https://news.ycombinator.com/item?id=30921087</id>
-        <link href="https://news.ycombinator.com/item?id=30921087"/>
-        <updated>2022-04-05T16:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Rome Formatter]]></summary>
-        <author>
-            <name>RomeTools</name>
-            <uri>https://news.ycombinator.com/user?id=RomeTools</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐柏林學院上訴失敗，因誹謗當地企業而欠下3120萬美金]]></title>
-        <id>https://news.ycombinator.com/item?id=30921030</id>
-        <link href="https://news.ycombinator.com/item?id=30921030"/>
-        <updated>2022-04-05T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Oberlin College Loses Its Appeal, owes $31.2M for defaming a local business]]></summary>
-        <author>
-            <name>Benlights</name>
-            <uri>https://news.ycombinator.com/user?id=Benlights</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xpastebin - X/CLI xclip(1)/xdg-open(1)啟用的粘貼庫和URL工具。]]></title>
-        <id>https://news.ycombinator.com/item?id=30920986</id>
-        <link href="https://news.ycombinator.com/item?id=30920986"/>
-        <updated>2022-04-05T16:22:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Xpastebin – X/CLI xclip(1)/xdg-open(1) enabled pastebin and URL utility]]></summary>
-        <author>
-            <name>sineastris</name>
-            <uri>https://news.ycombinator.com/user?id=sineastris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用/本田新項目將於2027年推出可負擔得起的電動汽車]]></title>
-        <id>https://news.ycombinator.com/item?id=30920971</id>
-        <link href="https://news.ycombinator.com/item?id=30920971"/>
-        <updated>2022-04-05T16:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Affordable electric cars coming in 2027 from new GM/Honda project]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
