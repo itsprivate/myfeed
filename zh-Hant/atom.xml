@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T21:31:34.602Z</updated>
+    <updated>2022-04-07T21:39:31.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對W玻色子質量的測量表明標準模型需要改進]]></title>
+        <id>https://news.ycombinator.com/item?id=30950511</id>
+        <link href="https://news.ycombinator.com/item?id=30950511"/>
+        <updated>2022-04-07T21:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Measurement of W boson mass suggests Standard Model needs improvement]]></summary>
+        <author>
+            <name>galeaspablo</name>
+            <uri>https://news.ycombinator.com/user?id=galeaspablo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在這個最新的版本中，默認的 "pi "用戶將被刪除。]]></title>
         <id>https://news.ycombinator.com/item?id=30950469</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yowmamasita</name>
             <uri>https://news.ycombinator.com/user?id=yowmamasita</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube正在給用戶發電子郵件，對他們的評論表示 "關注"]]></title>
-        <id>https://news.ycombinator.com/item?id=30935265</id>
-        <link href="https://news.ycombinator.com/item?id=30935265"/>
-        <updated>2022-04-06T17:47:53.000Z</updated>
-        <summary type="html"><![CDATA[YouTube is emailing users and is “concerned” about their comments“]]></summary>
-        <author>
-            <name>Jerry2</name>
-            <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
         </author>
     </entry>
 </feed>
