@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T11:30:36.028Z</updated>
+    <updated>2022-04-07T11:52:24.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自地狱的标记 - HTMHell]]></title>
+        <id>https://news.ycombinator.com/item?id=30943135</id>
+        <link href="https://news.ycombinator.com/item?id=30943135"/>
+        <updated>2022-04-07T11:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Markup from Hell – HTMHell]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所有苹果音乐文件中的0,5MB的空白（2020）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30943018</id>
+        <link href="https://news.ycombinator.com/item?id=30943018"/>
+        <updated>2022-04-07T11:17:14.000Z</updated>
+        <summary type="html"><![CDATA[The 0,5 MB of nothing in all Apple Music files (2020)]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一本好词典]]></title>
+        <id>https://news.ycombinator.com/item?id=30942779</id>
+        <link href="https://news.ycombinator.com/item?id=30942779"/>
+        <updated>2022-04-07T10:34:42.000Z</updated>
+        <summary type="html"><![CDATA[A Good Dictionary]]></summary>
+        <author>
+            <name>pausmfib</name>
+            <uri>https://news.ycombinator.com/user?id=pausmfib</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clarktown。一个零依赖性的纯Clojure Markdown解析器]]></title>
         <id>https://news.ycombinator.com/item?id=30942967</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>timClicks</name>
             <uri>https://news.ycombinator.com/user?id=timClicks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析师：关闭3M公司的芯片冷却剂工厂可能会扰乱半导体行业。]]></title>
-        <id>https://news.ycombinator.com/item?id=30928207</id>
-        <link href="https://news.ycombinator.com/item?id=30928207"/>
-        <updated>2022-04-06T03:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Closure of 3M chip coolant plant could upset semiconductor sector: analysts]]></summary>
-        <author>
-            <name>rguiscard</name>
-            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[/r/osuplace Behind The Scenes: 技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30928182</id>
-        <link href="https://news.ycombinator.com/item?id=30928182"/>
-        <updated>2022-04-06T03:31:08.000Z</updated>
-        <summary type="html"><![CDATA[/r/osuplace Behind The Scenes: Technology]]></summary>
-        <author>
-            <name>Shank</name>
-            <uri>https://news.ycombinator.com/user?id=Shank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位奇幻作家刷新了Kickstarter的记录]]></title>
-        <id>https://news.ycombinator.com/item?id=30928145</id>
-        <link href="https://news.ycombinator.com/item?id=30928145"/>
-        <updated>2022-04-06T03:24:56.000Z</updated>
-        <summary type="html"><![CDATA[A fantasy author blew away Kickstarter’s record]]></summary>
-        <author>
-            <name>samspenc</name>
-            <uri>https://news.ycombinator.com/user?id=samspenc</uri>
         </author>
     </entry>
 </feed>
