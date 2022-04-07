@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T20:35:04.315Z</updated>
+    <updated>2022-04-07T20:44:25.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰人使用 "查找我的 "来追踪偷窃设备的俄罗斯军队]]></title>
+        <id>https://news.ycombinator.com/item?id=30950053</id>
+        <link href="https://news.ycombinator.com/item?id=30950053"/>
+        <updated>2022-04-07T20:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainians use ‘Find My’ to track Russian troops who stole devices]]></summary>
+        <author>
+            <name>starkd</name>
+            <uri>https://news.ycombinator.com/user?id=starkd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦福大学的工程师们使简单的相机能够看到3D效果]]></title>
         <id>https://news.ycombinator.com/item?id=30949948</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>phab</name>
             <uri>https://news.ycombinator.com/user?id=phab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱尔兰保留德怀尔电话数据违反了欧盟法律]]></title>
-        <id>https://news.ycombinator.com/item?id=30935000</id>
-        <link href="https://news.ycombinator.com/item?id=30935000"/>
-        <updated>2022-04-06T17:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Ireland's retention of Dwyer phone data breaches EU law]]></summary>
-        <author>
-            <name>vmoore</name>
-            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
         </author>
     </entry>
 </feed>
