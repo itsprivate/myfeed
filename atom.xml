@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T03:45:59.715Z</updated>
+    <updated>2022-04-07T03:58:42.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的经理，你召开了太多的会议]]></title>
+        <id>https://news.ycombinator.com/item?id=30940275</id>
+        <link href="https://news.ycombinator.com/item?id=30940275"/>
+        <updated>2022-04-07T03:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Dear Manager, You’re Holding Too Many Meetings]]></summary>
+        <author>
+            <name>kk6mrp</name>
+            <uri>https://news.ycombinator.com/user?id=kk6mrp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[匿名者已进入克里姆林宫的安全摄像头]]></title>
+        <id>https://news.ycombinator.com/item?id=30939807</id>
+        <link href="https://news.ycombinator.com/item?id=30939807"/>
+        <updated>2022-04-07T01:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Anonymous has gained access to the Kremlin's security cameras]]></summary>
+        <author>
+            <name>wslh</name>
+            <uri>https://news.ycombinator.com/user?id=wslh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在主机/usr/下运行一个容器]]></title>
+        <id>https://news.ycombinator.com/item?id=30939644</id>
+        <link href="https://news.ycombinator.com/item?id=30939644"/>
+        <updated>2022-04-07T01:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Running a Container off the Host /usr/]]></summary>
+        <author>
+            <name>figomore</name>
+            <uri>https://news.ycombinator.com/user?id=figomore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家称，蘑菇之间用多达50个 "单词 "进行交流]]></title>
         <id>https://news.ycombinator.com/item?id=30940358</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>BeeOnRope</name>
             <uri>https://news.ycombinator.com/user?id=BeeOnRope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玉米种植背后的物流[视频］]]></title>
-        <id>https://news.ycombinator.com/item?id=30924847</id>
-        <link href="https://news.ycombinator.com/item?id=30924847"/>
-        <updated>2022-04-05T20:51:24.000Z</updated>
-        <summary type="html"><![CDATA[The Logistics Behind Corn Farming [video]]]></summary>
-        <author>
-            <name>CaliforniaKarl</name>
-            <uri>https://news.ycombinator.com/user?id=CaliforniaKarl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愤世嫉俗者的计算机--技术的神话]]></title>
-        <id>https://news.ycombinator.com/item?id=30924837</id>
-        <link href="https://news.ycombinator.com/item?id=30924837"/>
-        <updated>2022-04-05T20:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Computers for Cynics – The Myth of Technology]]></summary>
-        <author>
-            <name>noodles_nomore</name>
-            <uri>https://news.ycombinator.com/user?id=noodles_nomore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算器是如何解方程的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30924827</id>
-        <link href="https://news.ycombinator.com/item?id=30924827"/>
-        <updated>2022-04-05T20:49:50.000Z</updated>
-        <summary type="html"><![CDATA[How do calculators solve equations?]]></summary>
-        <author>
-            <name>vegesm</name>
-            <uri>https://news.ycombinator.com/user?id=vegesm</uri>
         </author>
     </entry>
 </feed>
