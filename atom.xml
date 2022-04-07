@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T08:37:58.960Z</updated>
+    <updated>2022-04-07T08:54:46.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊上用于耳机的抱枕玩具评论]]></title>
+        <id>https://news.ycombinator.com/item?id=30941950</id>
+        <link href="https://news.ycombinator.com/item?id=30941950"/>
+        <updated>2022-04-07T08:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Cuddly toy reviews used for headphones on Amazon]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UX/UI设计师，你应该如何开始你的职业生涯？]]></title>
         <id>https://news.ycombinator.com/item?id=30942033</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hedora</name>
             <uri>https://news.ycombinator.com/user?id=hedora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPCC。如果大石油公司不插手，我们可以解决气候变化问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30927078</id>
-        <link href="https://news.ycombinator.com/item?id=30927078"/>
-        <updated>2022-04-06T00:51:52.000Z</updated>
-        <summary type="html"><![CDATA[IPCC: We can tackle climate change if big oil gets out of the way]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
