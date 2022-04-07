@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T09:33:43.226Z</updated>
+    <updated>2022-04-07T09:51:27.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nsh, OpenBSD的一个统一的路由器风格的CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=30942489</id>
+        <link href="https://news.ycombinator.com/item?id=30942489"/>
+        <updated>2022-04-07T09:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Nsh, a unified router style CLI for OpenBSD]]></summary>
+        <author>
+            <name>somat</name>
+            <uri>https://news.ycombinator.com/user?id=somat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RuAssets - 一个检查与俄罗斯和白俄罗斯资产联系的服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30942425</id>
+        <link href="https://news.ycombinator.com/item?id=30942425"/>
+        <updated>2022-04-07T09:33:03.000Z</updated>
+        <summary type="html"><![CDATA[RuAssets – a service for checking links with Russian and Belarusian assets]]></summary>
+        <author>
+            <name>brainerazer</name>
+            <uri>https://news.ycombinator.com/user?id=brainerazer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超过800万现金应用用户可能受到一名前雇员的数据泄露的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30940926</id>
+        <link href="https://news.ycombinator.com/item?id=30940926"/>
+        <updated>2022-04-07T05:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Over 8M Cash App users possibly affected by data breach from a former employee]]></summary>
+        <author>
+            <name>CKMo</name>
+            <uri>https://news.ycombinator.com/user?id=CKMo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们从Helm搬到了Gitpod安装器上]]></title>
         <id>https://news.ycombinator.com/item?id=30942358</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>FeaturelessBug</name>
             <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TiFlash：TiDB的列式存储引擎，现已开放源代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30926732</id>
-        <link href="https://news.ycombinator.com/item?id=30926732"/>
-        <updated>2022-04-06T00:00:59.000Z</updated>
-        <summary type="html"><![CDATA[TiFlash: The columnar storage engine of TiDB, is now open sourced]]></summary>
-        <author>
-            <name>c4pt0r</name>
-            <uri>https://news.ycombinator.com/user?id=c4pt0r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔暂停在俄罗斯的业务]]></title>
-        <id>https://news.ycombinator.com/item?id=30927650</id>
-        <link href="https://news.ycombinator.com/item?id=30927650"/>
-        <updated>2022-04-06T02:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Intel Suspends Operations in Russia]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程师最重要的绩效管理规则]]></title>
-        <id>https://news.ycombinator.com/item?id=30927600</id>
-        <link href="https://news.ycombinator.com/item?id=30927600"/>
-        <updated>2022-04-06T01:57:52.000Z</updated>
-        <summary type="html"><![CDATA[The Most Important Performance Management Rule for Software Engineers]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
         </author>
     </entry>
 </feed>
