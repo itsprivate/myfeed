@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T07:13:48.808Z</updated>
+    <updated>2022-04-07T07:31:10.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[F37 更改。廢棄傳統BIOS（全系統更改建議）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30941522</id>
+        <link href="https://news.ycombinator.com/item?id=30941522"/>
+        <updated>2022-04-07T07:05:50.000Z</updated>
+        <summary type="html"><![CDATA[F37 Change: Deprecate Legacy BIOS (System-Wide Change Proposal)]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本的電動車行業現在任由中國擺佈。由於對俄羅斯的制裁]]></title>
         <id>https://news.ycombinator.com/item?id=30941263</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bcohen123</name>
             <uri>https://news.ycombinator.com/user?id=bcohen123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福大學教授在舉報人曝光每小時5000美元的政府聯繫人後報警。]]></title>
-        <id>https://news.ycombinator.com/item?id=30926688</id>
-        <link href="https://news.ycombinator.com/item?id=30926688"/>
-        <updated>2022-04-05T23:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Stanford prof calls police after whistleblower exposes $5000/hour gov. contacts]]></summary>
-        <author>
-            <name>pain_perdu</name>
-            <uri>https://news.ycombinator.com/user?id=pain_perdu</uri>
         </author>
     </entry>
 </feed>
