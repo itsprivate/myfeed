@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T22:34:22.180Z</updated>
+    <updated>2022-04-07T22:43:02.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯传播错误信息的邪恶的新方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30951117</id>
+        <link href="https://news.ycombinator.com/item?id=30951117"/>
+        <updated>2022-04-07T22:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s Diabolical New Approach to Spreading Misinformation]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musl Libc 1.2.3版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30950808</id>
+        <link href="https://news.ycombinator.com/item?id=30950808"/>
+        <updated>2022-04-07T21:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Musl Libc 1.2.3 Released]]></summary>
+        <author>
+            <name>edelsohn</name>
+            <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要问monorepo是否对你有好处--要问你是否对它有好处(2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30949981</id>
+        <link href="https://news.ycombinator.com/item?id=30949981"/>
+        <updated>2022-04-07T20:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Don't ask if a monorepo is good for you – ask if you're good enough for it(2019)]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机塔的业务]]></title>
         <id>https://news.ycombinator.com/item?id=30950289</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>1337shadow</name>
             <uri>https://news.ycombinator.com/user?id=1337shadow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["BigLake" - 谷歌对LakeHouse的看法]]></title>
-        <id>https://news.ycombinator.com/item?id=30935380</id>
-        <link href="https://news.ycombinator.com/item?id=30935380"/>
-        <updated>2022-04-06T17:57:46.000Z</updated>
-        <summary type="html"><![CDATA[“BigLake” – Google's Take on LakeHouse]]></summary>
-        <author>
-            <name>albert_e</name>
-            <uri>https://news.ycombinator.com/user?id=albert_e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们在达到200万美元ARR时没有做的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30935709</id>
-        <link href="https://news.ycombinator.com/item?id=30935709"/>
-        <updated>2022-04-06T18:27:13.000Z</updated>
-        <summary type="html"><![CDATA[The Things We Did Not Do While Reaching $2M ARR]]></summary>
-        <author>
-            <name>plehoux</name>
-            <uri>https://news.ycombinator.com/user?id=plehoux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIPS提供高度可扩展的RISC处理器IP]]></title>
-        <id>https://news.ycombinator.com/item?id=30935683</id>
-        <link href="https://news.ycombinator.com/item?id=30935683"/>
-        <updated>2022-04-06T18:24:26.000Z</updated>
-        <summary type="html"><![CDATA[MIPS provides highly scalable RISC processor IP]]></summary>
-        <author>
-            <name>kristianpaul</name>
-            <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
         </author>
     </entry>
 </feed>
