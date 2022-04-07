@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T14:45:02.896Z</updated>
+    <updated>2022-04-07T14:52:40.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用Ent實現Twitter的編輯按鈕]]></title>
+        <id>https://news.ycombinator.com/item?id=30945076</id>
+        <link href="https://news.ycombinator.com/item?id=30945076"/>
+        <updated>2022-04-07T14:45:15.000Z</updated>
+        <summary type="html"><![CDATA[How to implement the Twitter edit button with Ent]]></summary>
+        <author>
+            <name>amits1995</name>
+            <uri>https://news.ycombinator.com/user?id=amits1995</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秘密的顏色。密碼學的溫和介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=30945056</id>
+        <link href="https://news.ycombinator.com/item?id=30945056"/>
+        <updated>2022-04-07T14:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Secret Colors: A Gentle Introduction to Cryptography]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.60.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30944709</id>
+        <link href="https://news.ycombinator.com/item?id=30944709"/>
+        <updated>2022-04-07T14:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Rust 1.60.0]]></summary>
+        <author>
+            <name>burntsushi</name>
+            <uri>https://news.ycombinator.com/user?id=burntsushi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACM開放第一個50年的背景資料]]></title>
         <id>https://news.ycombinator.com/item?id=30944881</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ArtRichards</name>
             <uri>https://news.ycombinator.com/user?id=ArtRichards</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭扣押14艘與俄羅斯、白俄羅斯制裁有關的巨型遊艇]]></title>
-        <id>https://news.ycombinator.com/item?id=30930238</id>
-        <link href="https://news.ycombinator.com/item?id=30930238"/>
-        <updated>2022-04-06T09:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Netherlands seizes 14 megayachts linked to Russian, Belarusian sanctions]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubesimplify-為所有人簡化雲原生和Kubernetes的新舉措]]></title>
-        <id>https://news.ycombinator.com/item?id=30930137</id>
-        <link href="https://news.ycombinator.com/item?id=30930137"/>
-        <updated>2022-04-06T09:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Kubesimplify-New initiative for simplifying cloud native and Kubernetes for all]]></summary>
-        <author>
-            <name>saiyam911</name>
-            <uri>https://news.ycombinator.com/user?id=saiyam911</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從俄羅斯手中拯救烏克蘭電網的競賽]]></title>
-        <id>https://news.ycombinator.com/item?id=30930003</id>
-        <link href="https://news.ycombinator.com/item?id=30930003"/>
-        <updated>2022-04-06T09:06:39.000Z</updated>
-        <summary type="html"><![CDATA[The Race to Rescue Ukraine’s Power Grid from Russia]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>

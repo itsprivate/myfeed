@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 07 Apr 2022 14:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 14:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用Ent實現Twitter的編輯按鈕]]></title>
+            <link>https://news.ycombinator.com/item?id=30945076</link>
+            <guid>https://news.ycombinator.com/item?id=30945076</guid>
+            <pubDate>Thu, 07 Apr 2022 14:45:15 GMT</pubDate>
+            <description><![CDATA[How to implement the Twitter edit button with Ent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[秘密的顏色。密碼學的溫和介紹]]></title>
+            <link>https://news.ycombinator.com/item?id=30945056</link>
+            <guid>https://news.ycombinator.com/item?id=30945056</guid>
+            <pubDate>Thu, 07 Apr 2022 14:43:26 GMT</pubDate>
+            <description><![CDATA[Secret Colors: A Gentle Introduction to Cryptography]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust 1.60.0]]></title>
+            <link>https://news.ycombinator.com/item?id=30944709</link>
+            <guid>https://news.ycombinator.com/item?id=30944709</guid>
+            <pubDate>Thu, 07 Apr 2022 14:15:28 GMT</pubDate>
+            <description><![CDATA[Rust 1.60.0]]></description>
+        </item>
         <item>
             <title><![CDATA[ACM開放第一個50年的背景資料]]></title>
             <link>https://news.ycombinator.com/item?id=30944881</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30930244</guid>
             <pubDate>Wed, 06 Apr 2022 09:49:43 GMT</pubDate>
             <description><![CDATA[Ukrainian Hackers Take World First Responsibility for Russian Scada Hack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[荷蘭扣押14艘與俄羅斯、白俄羅斯制裁有關的巨型遊艇]]></title>
-            <link>https://news.ycombinator.com/item?id=30930238</link>
-            <guid>https://news.ycombinator.com/item?id=30930238</guid>
-            <pubDate>Wed, 06 Apr 2022 09:48:24 GMT</pubDate>
-            <description><![CDATA[Netherlands seizes 14 megayachts linked to Russian, Belarusian sanctions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kubesimplify-為所有人簡化雲原生和Kubernetes的新舉措]]></title>
-            <link>https://news.ycombinator.com/item?id=30930137</link>
-            <guid>https://news.ycombinator.com/item?id=30930137</guid>
-            <pubDate>Wed, 06 Apr 2022 09:29:42 GMT</pubDate>
-            <description><![CDATA[Kubesimplify-New initiative for simplifying cloud native and Kubernetes for all]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從俄羅斯手中拯救烏克蘭電網的競賽]]></title>
-            <link>https://news.ycombinator.com/item?id=30930003</link>
-            <guid>https://news.ycombinator.com/item?id=30930003</guid>
-            <pubDate>Wed, 06 Apr 2022 09:06:39 GMT</pubDate>
-            <description><![CDATA[The Race to Rescue Ukraine’s Power Grid from Russia]]></description>
         </item>
     </channel>
 </rss>
