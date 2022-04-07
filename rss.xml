@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们从Helm搬到了Gitpod安装器上]]></title>
+            <link>https://news.ycombinator.com/item?id=30942358</link>
+            <guid>https://news.ycombinator.com/item?id=30942358</guid>
+            <pubDate>Thu, 07 Apr 2022 09:22:43 GMT</pubDate>
+            <description><![CDATA[We Moved from Helm to Gitpod Installer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netlify瘫痪了]]></title>
+            <link>https://news.ycombinator.com/item?id=30942250</link>
+            <guid>https://news.ycombinator.com/item?id=30942250</guid>
+            <pubDate>Thu, 07 Apr 2022 09:05:03 GMT</pubDate>
+            <description><![CDATA[Netlify Is Down]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沟通中断。俄罗斯对乌克兰的入侵如何陷入困境]]></title>
+            <link>https://news.ycombinator.com/item?id=30942212</link>
+            <guid>https://news.ycombinator.com/item?id=30942212</guid>
+            <pubDate>Thu, 07 Apr 2022 08:57:42 GMT</pubDate>
+            <description><![CDATA[Communication Breakdown: How Russia's Invasion of Ukraine Bogged Down]]></description>
+        </item>
         <item>
             <title><![CDATA[血液检测可预测心脏病和中风的风险，准确率是以前的两倍]]></title>
             <link>https://news.ycombinator.com/item?id=30942258</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30927600</guid>
             <pubDate>Wed, 06 Apr 2022 01:57:52 GMT</pubDate>
             <description><![CDATA[The Most Important Performance Management Rule for Software Engineers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[言论自由的绝对主义者"，伊隆-马斯克有一段报复历史]]></title>
-            <link>https://news.ycombinator.com/item?id=30927575</link>
-            <guid>https://news.ycombinator.com/item?id=30927575</guid>
-            <pubDate>Wed, 06 Apr 2022 01:54:06 GMT</pubDate>
-            <description><![CDATA['Free speech absolutist,' Elon Musk has a history of retaliation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寻找时间来从事副业]]></title>
-            <link>https://news.ycombinator.com/item?id=30927548</link>
-            <guid>https://news.ycombinator.com/item?id=30927548</guid>
-            <pubDate>Wed, 06 Apr 2022 01:51:16 GMT</pubDate>
-            <description><![CDATA[Finding time to work on a side project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为SSD编码]]></title>
-            <link>https://news.ycombinator.com/item?id=30927467</link>
-            <guid>https://news.ycombinator.com/item?id=30927467</guid>
-            <pubDate>Wed, 06 Apr 2022 01:40:10 GMT</pubDate>
-            <description><![CDATA[Coding for SSDs]]></description>
         </item>
     </channel>
 </rss>
