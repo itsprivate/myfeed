@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T03:58:42.517Z</updated>
+    <updated>2022-04-07T04:14:17.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果电视+全球市场份额增长，更接近HBO Max]]></title>
+        <id>https://news.ycombinator.com/item?id=30940431</id>
+        <link href="https://news.ycombinator.com/item?id=30940431"/>
+        <updated>2022-04-07T03:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple TV+ global market share grows and gets closer to HBO Max]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么美国的通货膨胀率比其他国家高？]]></title>
+        <id>https://news.ycombinator.com/item?id=30940334</id>
+        <link href="https://news.ycombinator.com/item?id=30940334"/>
+        <updated>2022-04-07T03:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Why Is U.S. Inflation Higher Than in Other Countries?]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃尔沃、保时捷和宝马欲停止使用碳纤维]]></title>
+        <id>https://news.ycombinator.com/item?id=30940271</id>
+        <link href="https://news.ycombinator.com/item?id=30940271"/>
+        <updated>2022-04-07T03:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Volvo, Porsche, and BMW Want to Stop Using Carbon Fiber]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亲爱的经理，你召开了太多的会议]]></title>
         <id>https://news.ycombinator.com/item?id=30940275</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据库实验室引擎3.1 for PostgreSQL]]></title>
-        <id>https://news.ycombinator.com/item?id=30924876</id>
-        <link href="https://news.ycombinator.com/item?id=30924876"/>
-        <updated>2022-04-05T20:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Database Lab Engine 3.1 for PostgreSQL]]></summary>
-        <author>
-            <name>samokhvalov</name>
-            <uri>https://news.ycombinator.com/user?id=samokhvalov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有边界的背景]]></title>
-        <id>https://news.ycombinator.com/item?id=30924873</id>
-        <link href="https://news.ycombinator.com/item?id=30924873"/>
-        <updated>2022-04-05T20:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Bounded Context]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个在浏览器中运行的内存延迟测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30924848</id>
-        <link href="https://news.ycombinator.com/item?id=30924848"/>
-        <updated>2022-04-05T20:51:25.000Z</updated>
-        <summary type="html"><![CDATA[A memory latency test that runs in the browser]]></summary>
-        <author>
-            <name>BeeOnRope</name>
-            <uri>https://news.ycombinator.com/user?id=BeeOnRope</uri>
         </author>
     </entry>
 </feed>
