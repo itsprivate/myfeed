@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T20:44:25.554Z</updated>
+    <updated>2022-04-07T20:51:12.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crossbow.js - 世界上第一個以箭為導向的編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30948873</id>
+        <link href="https://news.ycombinator.com/item?id=30948873"/>
+        <updated>2022-04-07T18:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Crossbow.js – The World’s First Arrow-Oriented Programming Language]]></summary>
+        <author>
+            <name>letMeShowU</name>
+            <uri>https://news.ycombinator.com/user?id=letMeShowU</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭人使用 "查找我的 "來追蹤偷竊設備的俄羅斯軍隊]]></title>
         <id>https://news.ycombinator.com/item?id=30950053</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chipsa</name>
             <uri>https://news.ycombinator.com/user?id=chipsa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾的 "削弱AMD "功能（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30935064</id>
-        <link href="https://news.ycombinator.com/item?id=30935064"/>
-        <updated>2022-04-06T17:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Intel's “Cripple AMD” Function (2019)]]></summary>
-        <author>
-            <name>phab</name>
-            <uri>https://news.ycombinator.com/user?id=phab</uri>
         </author>
     </entry>
 </feed>
