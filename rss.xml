@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 22:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[手机塔的业务]]></title>
+            <link>https://news.ycombinator.com/item?id=30950289</link>
+            <guid>https://news.ycombinator.com/item?id=30950289</guid>
+            <pubDate>Thu, 07 Apr 2022 21:00:01 GMT</pubDate>
+            <description><![CDATA[The Business of Cell Towers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[脆弱的开源生态系统还没有准备好应对 "抗议软件"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30949708</link>
+            <guid>https://news.ycombinator.com/item?id=30949708</guid>
+            <pubDate>Thu, 07 Apr 2022 20:04:37 GMT</pubDate>
+            <description><![CDATA[The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’]]></description>
+        </item>
         <item>
             <title><![CDATA[用于发现Spring4Shell漏洞的安全扫描器]]></title>
             <link>https://news.ycombinator.com/item?id=30950894</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30935683</guid>
             <pubDate>Wed, 06 Apr 2022 18:24:26 GMT</pubDate>
             <description><![CDATA[MIPS provides highly scalable RISC processor IP]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果在M1方面有领先优势，但他们在单核香水方面已经落后了。]]></title>
-            <link>https://news.ycombinator.com/item?id=30935677</link>
-            <guid>https://news.ycombinator.com/item?id=30935677</guid>
-            <pubDate>Wed, 06 Apr 2022 18:23:52 GMT</pubDate>
-            <description><![CDATA[Apple had a head start with M1 but they’re falling behind in Single Core perf]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DALL-E 2]]></title>
-            <link>https://news.ycombinator.com/item?id=30935659</link>
-            <guid>https://news.ycombinator.com/item?id=30935659</guid>
-            <pubDate>Wed, 06 Apr 2022 18:22:26 GMT</pubDate>
-            <description><![CDATA[DALL•E 2]]></description>
         </item>
     </channel>
 </rss>

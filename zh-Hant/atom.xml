@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T22:13:37.472Z</updated>
+    <updated>2022-04-07T22:34:22.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[手機塔的業務]]></title>
+        <id>https://news.ycombinator.com/item?id=30950289</id>
+        <link href="https://news.ycombinator.com/item?id=30950289"/>
+        <updated>2022-04-07T21:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The Business of Cell Towers]]></summary>
+        <author>
+            <name>isthispermanent</name>
+            <uri>https://news.ycombinator.com/user?id=isthispermanent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脆弱的開源生態系統還沒有準備好應對 "抗議軟件"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30949708</id>
+        <link href="https://news.ycombinator.com/item?id=30949708"/>
+        <updated>2022-04-07T20:04:37.000Z</updated>
+        <summary type="html"><![CDATA[The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’]]></summary>
+        <author>
+            <name>Digit-Al</name>
+            <uri>https://news.ycombinator.com/user?id=Digit-Al</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於發現Spring4Shell漏洞的安全掃描器]]></title>
         <id>https://news.ycombinator.com/item?id=30950894</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kristianpaul</name>
             <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果在M1方面有領先優勢，但他們在單核香水方面已經落後了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30935677</id>
-        <link href="https://news.ycombinator.com/item?id=30935677"/>
-        <updated>2022-04-06T18:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Apple had a head start with M1 but they’re falling behind in Single Core perf]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E 2]]></title>
-        <id>https://news.ycombinator.com/item?id=30935659</id>
-        <link href="https://news.ycombinator.com/item?id=30935659"/>
-        <updated>2022-04-06T18:22:26.000Z</updated>
-        <summary type="html"><![CDATA[DALL•E 2]]></summary>
-        <author>
-            <name>zuhayeer</name>
-            <uri>https://news.ycombinator.com/user?id=zuhayeer</uri>
         </author>
     </entry>
 </feed>
