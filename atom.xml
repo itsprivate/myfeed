@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T07:41:21.461Z</updated>
+    <updated>2022-04-07T07:51:28.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌禁止使用隐藏数据采集软件的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30941588</id>
+        <link href="https://news.ycombinator.com/item?id=30941588"/>
+        <updated>2022-04-07T07:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Google Bans Apps with Hidden Data-Harvesting Software]]></summary>
+        <author>
+            <name>bolzano</name>
+            <uri>https://news.ycombinator.com/user?id=bolzano</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业公司快速关闭]]></title>
+        <id>https://news.ycombinator.com/item?id=30941172</id>
+        <link href="https://news.ycombinator.com/item?id=30941172"/>
+        <updated>2022-04-07T06:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Fast the startup is shutting down]]></summary>
+        <author>
+            <name>vincentchau</name>
+            <uri>https://news.ycombinator.com/user?id=vincentchau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wi-Fi 7解读。关于明天最快的无线规格的一切知识]]></title>
         <id>https://news.ycombinator.com/item?id=30941687</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tomohawk</name>
             <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIP Open RAN Release 2路线图 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30926422</id>
-        <link href="https://news.ycombinator.com/item?id=30926422"/>
-        <updated>2022-04-05T23:20:42.000Z</updated>
-        <summary type="html"><![CDATA[TIP Open RAN Release 2 Roadmap [pdf]]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年最流行的网络浏览器是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30926393</id>
-        <link href="https://news.ycombinator.com/item?id=30926393"/>
-        <updated>2022-04-05T23:17:22.000Z</updated>
-        <summary type="html"><![CDATA[What's the most popular web browser in 2022?]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
         </author>
     </entry>
 </feed>
