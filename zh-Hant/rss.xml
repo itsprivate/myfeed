@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 07 Apr 2022 14:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[育碧的第一次NFT實驗是一場垃圾場大火]]></title>
+            <link>https://news.ycombinator.com/item?id=30945459</link>
+            <guid>https://news.ycombinator.com/item?id=30945459</guid>
+            <pubDate>Thu, 07 Apr 2022 15:10:06 GMT</pubDate>
+            <description><![CDATA[Ubisoft’s first NFT experiment was a dumpster fire]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學習鏽蝕的心理模型]]></title>
+            <link>https://news.ycombinator.com/item?id=30945226</link>
+            <guid>https://news.ycombinator.com/item?id=30945226</guid>
+            <pubDate>Thu, 07 Apr 2022 14:54:37 GMT</pubDate>
+            <description><![CDATA[Mental Models for Learning Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[喜劇通常會獎勵憤世嫉俗的人。然後出現了'泰德-拉索'。(2021)]]></title>
+            <link>https://news.ycombinator.com/item?id=30945177</link>
+            <guid>https://news.ycombinator.com/item?id=30945177</guid>
+            <pubDate>Thu, 07 Apr 2022 14:52:01 GMT</pubDate>
+            <description><![CDATA[Comedies usually reward cynicism. Then came ‘Ted Lasso.’ (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何編寫一個新的Osquery表]]></title>
+            <link>https://news.ycombinator.com/item?id=30945176</link>
+            <guid>https://news.ycombinator.com/item?id=30945176</guid>
+            <pubDate>Thu, 07 Apr 2022 14:51:58 GMT</pubDate>
+            <description><![CDATA[How to Write a New Osquery Table]]></description>
+        </item>
+        <item>
+            <title><![CDATA[返回辦公室--在掙扎中的公司獲得非強制性減員的簡單方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30945099</link>
+            <guid>https://news.ycombinator.com/item?id=30945099</guid>
+            <pubDate>Thu, 07 Apr 2022 14:46:44 GMT</pubDate>
+            <description><![CDATA[Return to the office- easy way to get unforced attrition at struggling companies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們為.NET中的線程池死鎖而苦惱，這個Java解決方案很完美]]></title>
+            <link>https://news.ycombinator.com/item?id=30945087</link>
+            <guid>https://news.ycombinator.com/item?id=30945087</guid>
+            <pubDate>Thu, 07 Apr 2022 14:46:00 GMT</pubDate>
+            <description><![CDATA[We struggled with threadpool deadlocks in .NET and this Java solution is perfect]]></description>
+        </item>
+        <item>
+            <title><![CDATA[替代谷歌分析的開源產品]]></title>
+            <link>https://news.ycombinator.com/item?id=30944968</link>
+            <guid>https://news.ycombinator.com/item?id=30944968</guid>
+            <pubDate>Thu, 07 Apr 2022 14:37:17 GMT</pubDate>
+            <description><![CDATA[Open-Source Alternatives to Google Analytics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[修改後的AGPLv3取消了自由，增加了法律上的麻煩]]></title>
+            <link>https://news.ycombinator.com/item?id=30944808</link>
+            <guid>https://news.ycombinator.com/item?id=30944808</guid>
+            <pubDate>Thu, 07 Apr 2022 14:24:53 GMT</pubDate>
+            <description><![CDATA[Modified AGPLv3 removes freedoms, adds legal headaches]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Dragonflydigest.com上發表客座文章的價格？]]></title>
+            <link>https://news.ycombinator.com/item?id=30944779</link>
+            <guid>https://news.ycombinator.com/item?id=30944779</guid>
+            <pubDate>Thu, 07 Apr 2022 14:21:22 GMT</pubDate>
+            <description><![CDATA[Price of a Guest Post on Dragonflydigest.com?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生物ctal。十六進制2.0]]></title>
+            <link>https://news.ycombinator.com/item?id=30944681</link>
+            <guid>https://news.ycombinator.com/item?id=30944681</guid>
+            <pubDate>Thu, 07 Apr 2022 14:13:34 GMT</pubDate>
+            <description><![CDATA[Bioctal: Hexadecimal 2.0]]></description>
+        </item>
         <item>
             <title><![CDATA[如何用Ent實現Twitter的編輯按鈕]]></title>
             <link>https://news.ycombinator.com/item?id=30945076</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30930665</guid>
             <pubDate>Wed, 06 Apr 2022 10:59:47 GMT</pubDate>
             <description><![CDATA[GhostSCAD: Marrying OpenSCAD and Golang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在6個月內蒐羅了~25萬份前端工作機會，這是我得到的結果]]></title>
-            <link>https://news.ycombinator.com/item?id=30930488</link>
-            <guid>https://news.ycombinator.com/item?id=30930488</guid>
-            <pubDate>Wed, 06 Apr 2022 10:33:12 GMT</pubDate>
-            <description><![CDATA[I scraped ~250k Frontend job offers for 6 months and this is what I got]]></description>
-        </item>
-        <item>
-            <title><![CDATA[濃縮咖啡：松露上的Java（在Graalvm）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30929651</link>
-            <guid>https://news.ycombinator.com/item?id=30929651</guid>
-            <pubDate>Wed, 06 Apr 2022 08:04:29 GMT</pubDate>
-            <description><![CDATA[Espresso: Java on Truffle (On Graalvm)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在增長緩慢、高燒不退的情況下，快速公司關閉了大門，排除了籌款選項]]></title>
-            <link>https://news.ycombinator.com/item?id=30929400</link>
-            <guid>https://news.ycombinator.com/item?id=30929400</guid>
-            <pubDate>Wed, 06 Apr 2022 07:27:06 GMT</pubDate>
-            <description><![CDATA[Fast shuts doors after slow growth, high burn precluded fundraising options]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罕見而有趣的侮辱。Cockalorum, Snollygoster, and more]]></title>
-            <link>https://news.ycombinator.com/item?id=30930324</link>
-            <guid>https://news.ycombinator.com/item?id=30930324</guid>
-            <pubDate>Wed, 06 Apr 2022 10:06:40 GMT</pubDate>
-            <description><![CDATA[Rare and Amusing Insults: Cockalorum, Snollygoster, and More]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國停止支付俄羅斯債券，提高違約風險]]></title>
-            <link>https://news.ycombinator.com/item?id=30930298</link>
-            <guid>https://news.ycombinator.com/item?id=30930298</guid>
-            <pubDate>Wed, 06 Apr 2022 10:01:54 GMT</pubDate>
-            <description><![CDATA[U.S. stops Russian bond payments, raising risk of default]]></description>
-        </item>
-        <item>
-            <title><![CDATA[荷蘭城市測試城市生活的未來]]></title>
-            <link>https://news.ycombinator.com/item?id=30930172</link>
-            <guid>https://news.ycombinator.com/item?id=30930172</guid>
-            <pubDate>Wed, 06 Apr 2022 09:36:34 GMT</pubDate>
-            <description><![CDATA[The Dutch city testing the future of urban life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DEVCOM]]></title>
-            <link>https://news.ycombinator.com/item?id=30930059</link>
-            <guid>https://news.ycombinator.com/item?id=30930059</guid>
-            <pubDate>Wed, 06 Apr 2022 09:15:50 GMT</pubDate>
-            <description><![CDATA[DEVCOM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一些婦女分享了她們在Instagram上收到的信息。這並不漂亮]]></title>
-            <link>https://news.ycombinator.com/item?id=30930318</link>
-            <guid>https://news.ycombinator.com/item?id=30930318</guid>
-            <pubDate>Wed, 06 Apr 2022 10:05:39 GMT</pubDate>
-            <description><![CDATA[Some women shared the messages they get on Instagram. It’s not pretty]]></description>
-        </item>
-        <item>
-            <title><![CDATA[他成立了亞馬遜的第一個工會。他現在已經聽取了50個倉庫的工人的意見]]></title>
-            <link>https://news.ycombinator.com/item?id=30930309</link>
-            <guid>https://news.ycombinator.com/item?id=30930309</guid>
-            <pubDate>Wed, 06 Apr 2022 10:04:14 GMT</pubDate>
-            <description><![CDATA[He started Amazon's first union. He's now heard from workers at 50 warehouses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[烏克蘭黑客對俄羅斯的Scada黑客攻擊承擔世界第一責任]]></title>
-            <link>https://news.ycombinator.com/item?id=30930244</link>
-            <guid>https://news.ycombinator.com/item?id=30930244</guid>
-            <pubDate>Wed, 06 Apr 2022 09:49:43 GMT</pubDate>
-            <description><![CDATA[Ukrainian Hackers Take World First Responsibility for Russian Scada Hack]]></description>
         </item>
     </channel>
 </rss>
