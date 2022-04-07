@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 07 Apr 2022 11:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clarktown。一個零依賴性的純Clojure Markdown解析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30942967</link>
+            <guid>https://news.ycombinator.com/item?id=30942967</guid>
+            <pubDate>Thu, 07 Apr 2022 11:07:33 GMT</pubDate>
+            <description><![CDATA[Clarktown: A zero-dependency, pure-Clojure Markdown parser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[華為的首席科學家談機器翻譯]]></title>
+            <link>https://news.ycombinator.com/item?id=30942718</link>
+            <guid>https://news.ycombinator.com/item?id=30942718</guid>
+            <pubDate>Thu, 07 Apr 2022 10:25:21 GMT</pubDate>
+            <description><![CDATA[Huawei's chief scientist on machine translation]]></description>
+        </item>
         <item>
             <title><![CDATA[網絡搏擊俱樂部]]></title>
             <link>https://news.ycombinator.com/item?id=30942936</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30928145</guid>
             <pubDate>Wed, 06 Apr 2022 03:24:56 GMT</pubDate>
             <description><![CDATA[A fantasy author blew away Kickstarter’s record]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於叛國的五個迷思]]></title>
-            <link>https://news.ycombinator.com/item?id=30928091</link>
-            <guid>https://news.ycombinator.com/item?id=30928091</guid>
-            <pubDate>Wed, 06 Apr 2022 03:16:55 GMT</pubDate>
-            <description><![CDATA[Five Myths about Treason]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitter正在使用它的嵌入式JavaScript來編輯其他人的網站]]></title>
-            <link>https://news.ycombinator.com/item?id=30928217</link>
-            <guid>https://news.ycombinator.com/item?id=30928217</guid>
-            <pubDate>Wed, 06 Apr 2022 03:38:00 GMT</pubDate>
-            <description><![CDATA[Twitter is using it’s embedded JavaScript to edit other people's sites]]></description>
         </item>
     </channel>
 </rss>

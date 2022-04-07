@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T11:13:23.114Z</updated>
+    <updated>2022-04-07T11:30:36.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clarktown。一個零依賴性的純Clojure Markdown解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30942967</id>
+        <link href="https://news.ycombinator.com/item?id=30942967"/>
+        <updated>2022-04-07T11:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Clarktown: A zero-dependency, pure-Clojure Markdown parser]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[華為的首席科學家談機器翻譯]]></title>
+        <id>https://news.ycombinator.com/item?id=30942718</id>
+        <link href="https://news.ycombinator.com/item?id=30942718"/>
+        <updated>2022-04-07T10:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Huawei's chief scientist on machine translation]]></summary>
+        <author>
+            <name>razcle</name>
+            <uri>https://news.ycombinator.com/user?id=razcle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡搏擊俱樂部]]></title>
         <id>https://news.ycombinator.com/item?id=30942936</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samspenc</name>
             <uri>https://news.ycombinator.com/user?id=samspenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於叛國的五個迷思]]></title>
-        <id>https://news.ycombinator.com/item?id=30928091</id>
-        <link href="https://news.ycombinator.com/item?id=30928091"/>
-        <updated>2022-04-06T03:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Five Myths about Treason]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter正在使用它的嵌入式JavaScript來編輯其他人的網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30928217</id>
-        <link href="https://news.ycombinator.com/item?id=30928217"/>
-        <updated>2022-04-06T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is using it’s embedded JavaScript to edit other people's sites]]></summary>
-        <author>
-            <name>epeus</name>
-            <uri>https://news.ycombinator.com/user?id=epeus</uri>
         </author>
     </entry>
 </feed>
