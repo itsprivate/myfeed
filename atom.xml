@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-07T04:59:28.676Z</updated>
+    <updated>2022-04-07T05:12:48.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌将因被指控收集儿童数据而面临诉讼]]></title>
+        <id>https://news.ycombinator.com/item?id=30940796</id>
+        <link href="https://news.ycombinator.com/item?id=30940796"/>
+        <updated>2022-04-07T05:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Google will face a lawsuit over accusations of collecting kids’ data]]></summary>
+        <author>
+            <name>greenyoda</name>
+            <uri>https://news.ycombinator.com/user?id=greenyoda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国议长南希-佩洛西据说将于周日来台访问]]></title>
+        <id>https://news.ycombinator.com/item?id=30940724</id>
+        <link href="https://news.ycombinator.com/item?id=30940724"/>
+        <updated>2022-04-07T04:51:02.000Z</updated>
+        <summary type="html"><![CDATA[US Speaker Nancy Pelosi Reportedly Coming to Taiwan Sunday]]></summary>
+        <author>
+            <name>rguiscard</name>
+            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codestat.dev - 来自200多万个开放源码库的统计资料]]></title>
+        <id>https://news.ycombinator.com/item?id=30940251</id>
+        <link href="https://news.ycombinator.com/item?id=30940251"/>
+        <updated>2022-04-07T03:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Codestat.dev – stats from 2m+ OSS repositories]]></summary>
+        <author>
+            <name>slimsag</name>
+            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰获得了一支致命的无人机队伍。美国 "弹簧刀 "和 "美洲狮 "加入战争]]></title>
         <id>https://news.ycombinator.com/item?id=30940686</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>iamvjay</name>
             <uri>https://news.ycombinator.com/user?id=iamvjay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊的漏洞骗我买了比我要求的更多的单位]]></title>
-        <id>https://news.ycombinator.com/item?id=30924810</id>
-        <link href="https://news.ycombinator.com/item?id=30924810"/>
-        <updated>2022-04-05T20:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Bug in Amazon scams me into buying more units than I asked for]]></summary>
-        <author>
-            <name>mlyle</name>
-            <uri>https://news.ycombinator.com/user?id=mlyle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗雷德（美联储经济数据）增加星际数据集]]></title>
-        <id>https://news.ycombinator.com/item?id=30925827</id>
-        <link href="https://news.ycombinator.com/item?id=30925827"/>
-        <updated>2022-04-05T22:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Fred (Federal Reserve Economic Data) Adds Interplanetary Datasets]]></summary>
-        <author>
-            <name>moonraker</name>
-            <uri>https://news.ycombinator.com/user?id=moonraker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM发布Z16主机]]></title>
-        <id>https://news.ycombinator.com/item?id=30925728</id>
-        <link href="https://news.ycombinator.com/item?id=30925728"/>
-        <updated>2022-04-05T22:10:32.000Z</updated>
-        <summary type="html"><![CDATA[IBM Unveils Z16 Mainframe]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
