@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T07:33:06.320Z</updated>
+    <updated>2022-04-08T07:41:04.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Firefox中禁用现在无用的 "最新消息 "页面]]></title>
+        <id>https://news.ycombinator.com/item?id=30954232</id>
+        <link href="https://news.ycombinator.com/item?id=30954232"/>
+        <updated>2022-04-08T07:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Disable now useless “What's new” page in Firefox]]></summary>
+        <author>
+            <name>Tepix</name>
+            <uri>https://news.ycombinator.com/user?id=Tepix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Kopper和Zink很重要？ 也就是OpenGL的未来]]></title>
         <id>https://news.ycombinator.com/item?id=30954220</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jrochkind1</name>
             <uri>https://news.ycombinator.com/user?id=jrochkind1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAANG宣传片委员会正在扼杀Kubernetes。一条短线]]></title>
-        <id>https://news.ycombinator.com/item?id=30938842</id>
-        <link href="https://news.ycombinator.com/item?id=30938842"/>
-        <updated>2022-04-06T23:41:22.000Z</updated>
-        <summary type="html"><![CDATA[FAANG promo committees are killing Kubernetes: A Short Thread]]></summary>
-        <author>
-            <name>lolsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=lolsoftware</uri>
         </author>
     </entry>
 </feed>

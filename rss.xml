@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Firefox中禁用现在无用的 "最新消息 "页面]]></title>
+            <link>https://news.ycombinator.com/item?id=30954232</link>
+            <guid>https://news.ycombinator.com/item?id=30954232</guid>
+            <pubDate>Fri, 08 Apr 2022 07:19:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Disable now useless “What's new” page in Firefox]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么Kopper和Zink很重要？ 也就是OpenGL的未来]]></title>
             <link>https://news.ycombinator.com/item?id=30954220</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30938875</guid>
             <pubDate>Wed, 06 Apr 2022 23:45:57 GMT</pubDate>
             <description><![CDATA[U.S. Says It Removed Malware Worldwide, Pre-Empting Russian Cyberattack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FAANG宣传片委员会正在扼杀Kubernetes。一条短线]]></title>
-            <link>https://news.ycombinator.com/item?id=30938842</link>
-            <guid>https://news.ycombinator.com/item?id=30938842</guid>
-            <pubDate>Wed, 06 Apr 2022 23:41:22 GMT</pubDate>
-            <description><![CDATA[FAANG promo committees are killing Kubernetes: A Short Thread]]></description>
         </item>
     </channel>
 </rss>
