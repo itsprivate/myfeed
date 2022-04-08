@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T11:37:18.713Z</updated>
+    <updated>2022-04-08T11:52:36.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[板凳不存在]]></title>
+        <id>https://news.ycombinator.com/item?id=30955721</id>
+        <link href="https://news.ycombinator.com/item?id=30955721"/>
+        <updated>2022-04-08T11:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Bench Does Not Exist]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國對俄羅斯的制裁能否反作用於美元的主導地位？]]></title>
+        <id>https://news.ycombinator.com/item?id=30955710</id>
+        <link href="https://news.ycombinator.com/item?id=30955710"/>
+        <updated>2022-04-08T11:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Can U.S. sanctions on Russia backfire on the dollar's dominance?]]></summary>
+        <author>
+            <name>sirteno</name>
+            <uri>https://news.ycombinator.com/user?id=sirteno</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序化--創建標籤數據的REPL]]></title>
+        <id>https://news.ycombinator.com/item?id=30955699</id>
+        <link href="https://news.ycombinator.com/item?id=30955699"/>
+        <updated>2022-04-08T11:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Programmatic – a REPL for creating labeled data]]></summary>
+        <author>
+            <name>jordn</name>
+            <uri>https://news.ycombinator.com/user?id=jordn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學會傾聽]]></title>
         <id>https://news.ycombinator.com/item?id=30955660</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>wslh</name>
             <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在主機/usr/下運行一個容器]]></title>
-        <id>https://news.ycombinator.com/item?id=30939644</id>
-        <link href="https://news.ycombinator.com/item?id=30939644"/>
-        <updated>2022-04-07T01:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Running a Container off the Host /usr/]]></summary>
-        <author>
-            <name>figomore</name>
-            <uri>https://news.ycombinator.com/user?id=figomore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家稱，蘑菇之間用多達50個 "單詞 "進行交流]]></title>
-        <id>https://news.ycombinator.com/item?id=30940358</id>
-        <link href="https://news.ycombinator.com/item?id=30940358"/>
-        <updated>2022-04-07T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Mushrooms communicate with each other using up to 50 ‘words’, scientist claims]]></summary>
-        <author>
-            <name>agnosticmantis</name>
-            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上最古老的褲子是一個有3千年歷史的工程奇觀]]></title>
-        <id>https://news.ycombinator.com/item?id=30940341</id>
-        <link href="https://news.ycombinator.com/item?id=30940341"/>
-        <updated>2022-04-07T03:31:35.000Z</updated>
-        <summary type="html"><![CDATA[The world’s oldest pants are a 3k-year-old engineering marvel]]></summary>
-        <author>
-            <name>mizzao</name>
-            <uri>https://news.ycombinator.com/user?id=mizzao</uri>
         </author>
     </entry>
 </feed>
