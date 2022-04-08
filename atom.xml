@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T03:54:09.175Z</updated>
+    <updated>2022-04-08T04:13:58.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软。破坏俄罗斯针对乌克兰的网络攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30953165</id>
+        <link href="https://news.ycombinator.com/item?id=30953165"/>
+        <updated>2022-04-08T03:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft: Disrupting Russian cyberattacks targeting Ukraine]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是TLS指纹识别？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953136</id>
+        <link href="https://news.ycombinator.com/item?id=30953136"/>
+        <updated>2022-04-08T03:46:41.000Z</updated>
+        <summary type="html"><![CDATA[What Is TLS Fingerprinting?]]></summary>
+        <author>
+            <name>soheilpro</name>
+            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钢琴 "手掌突击器踏板 "原型的演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30953029</id>
+        <link href="https://news.ycombinator.com/item?id=30953029"/>
+        <updated>2022-04-08T03:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Demonstration of a prototype 'palm muter pedal' for piano]]></summary>
+        <author>
+            <name>runlevel1</name>
+            <uri>https://news.ycombinator.com/user?id=runlevel1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凝聚力。世界上最强大的NLP工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30952871</id>
+        <link href="https://news.ycombinator.com/item?id=30952871"/>
+        <updated>2022-04-08T02:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Cohere: The world’s most powerful NLP toolkit]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHL货机在哥斯达黎加机场迫降后一分为二]]></title>
         <id>https://news.ycombinator.com/item?id=30953095</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>atlasunshrugged</name>
             <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偏头痛手术的历史和潜力]]></title>
-        <id>https://news.ycombinator.com/item?id=30937722</id>
-        <link href="https://news.ycombinator.com/item?id=30937722"/>
-        <updated>2022-04-06T21:37:26.000Z</updated>
-        <summary type="html"><![CDATA[The history and potential of migraine surgery]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么秩序很重要？自动化系统管理中的图灵等价性 (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=30937695</id>
-        <link href="https://news.ycombinator.com/item?id=30937695"/>
-        <updated>2022-04-06T21:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Why Order Matters: Turing Equivalence in Automated Systems Administration (2002)]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后量子密码学应用于巴西即时支付系统 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30937689</id>
-        <link href="https://news.ycombinator.com/item?id=30937689"/>
-        <updated>2022-04-06T21:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Post-Quantum Cryptography applied to the Brazilian instant payment system [pdf]]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长青笔记]]></title>
-        <id>https://news.ycombinator.com/item?id=30937672</id>
-        <link href="https://news.ycombinator.com/item?id=30937672"/>
-        <updated>2022-04-06T21:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Evergreen Notes]]></summary>
-        <author>
-            <name>ChadNauseam</name>
-            <uri>https://news.ycombinator.com/user?id=ChadNauseam</uri>
         </author>
     </entry>
 </feed>
