@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 08 Apr 2022 17:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 18:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
+            <link>https://news.ycombinator.com/item?id=30960509</link>
+            <guid>https://news.ycombinator.com/item?id=30960509</guid>
+            <pubDate>Fri, 08 Apr 2022 18:06:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Zaplib – Speedup your webapp with Rust+Wasm]]></description>
+        </item>
+        <item>
+            <title><![CDATA[多個Atlassian服務遭遇中斷]]></title>
+            <link>https://news.ycombinator.com/item?id=30960499</link>
+            <guid>https://news.ycombinator.com/item?id=30960499</guid>
+            <pubDate>Fri, 08 Apr 2022 18:05:57 GMT</pubDate>
+            <description><![CDATA[Multiple Atlassian services suffering outages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blobfish是什麼鬼東西？]]></title>
+            <link>https://news.ycombinator.com/item?id=30960455</link>
+            <guid>https://news.ycombinator.com/item?id=30960455</guid>
+            <pubDate>Fri, 08 Apr 2022 18:02:33 GMT</pubDate>
+            <description><![CDATA[What the Heck Is a Blobfish?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究表明，Gmail將更多來自保守派的電子郵件發送為垃圾郵件]]></title>
+            <link>https://news.ycombinator.com/item?id=30960246</link>
+            <guid>https://news.ycombinator.com/item?id=30960246</guid>
+            <pubDate>Fri, 08 Apr 2022 17:47:11 GMT</pubDate>
+            <description><![CDATA[Gmail sends far more emails from conservatives to spam: study]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們將新的Prometheus TSDB Grafana Mimir的規模擴大到1B個活動系列]]></title>
+            <link>https://news.ycombinator.com/item?id=30960210</link>
+            <guid>https://news.ycombinator.com/item?id=30960210</guid>
+            <pubDate>Fri, 08 Apr 2022 17:43:40 GMT</pubDate>
+            <description><![CDATA[We scaled our new Prometheus TSDB Grafana Mimir to 1B active series]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zephyrus G14不是MacBook Pro 14]]></title>
+            <link>https://news.ycombinator.com/item?id=30960169</link>
+            <guid>https://news.ycombinator.com/item?id=30960169</guid>
+            <pubDate>Fri, 08 Apr 2022 17:39:48 GMT</pubDate>
+            <description><![CDATA[The Zephyrus G14 is not a MacBook Pro 14]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我作為一個單獨的開發者建立了我的技術創業公司]]></title>
+            <link>https://news.ycombinator.com/item?id=30959972</link>
+            <guid>https://news.ycombinator.com/item?id=30959972</guid>
+            <pubDate>Fri, 08 Apr 2022 17:24:51 GMT</pubDate>
+            <description><![CDATA[I built my tech startup as a solo developer]]></description>
+        </item>
         <item>
             <title><![CDATA[比聲音更快的噴氣式發動機的突破]]></title>
             <link>https://news.ycombinator.com/item?id=30960049</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30945076</guid>
             <pubDate>Thu, 07 Apr 2022 14:45:15 GMT</pubDate>
             <description><![CDATA[How to implement the Twitter edit button with Ent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[秘密的顏色。密碼學的溫和介紹]]></title>
-            <link>https://news.ycombinator.com/item?id=30945056</link>
-            <guid>https://news.ycombinator.com/item?id=30945056</guid>
-            <pubDate>Thu, 07 Apr 2022 14:43:26 GMT</pubDate>
-            <description><![CDATA[Secret Colors: A Gentle Introduction to Cryptography]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust 1.60.0]]></title>
-            <link>https://news.ycombinator.com/item?id=30944709</link>
-            <guid>https://news.ycombinator.com/item?id=30944709</guid>
-            <pubDate>Thu, 07 Apr 2022 14:15:28 GMT</pubDate>
-            <description><![CDATA[Rust 1.60.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ACM開放第一個50年的背景資料]]></title>
-            <link>https://news.ycombinator.com/item?id=30944881</link>
-            <guid>https://news.ycombinator.com/item?id=30944881</guid>
-            <pubDate>Thu, 07 Apr 2022 14:30:16 GMT</pubDate>
-            <description><![CDATA[ACM Opens First 50 Years Backfile]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HashiCorp Nomad是更好的Kubernetes嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30944859</link>
-            <guid>https://news.ycombinator.com/item?id=30944859</guid>
-            <pubDate>Thu, 07 Apr 2022 14:28:42 GMT</pubDate>
-            <description><![CDATA[Is HashiCorp Nomad a Better Kubernetes?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[離開加州？2022年指南：搬到哪個州最好？]]></title>
-            <link>https://news.ycombinator.com/item?id=30944836</link>
-            <guid>https://news.ycombinator.com/item?id=30944836</guid>
-            <pubDate>Thu, 07 Apr 2022 14:27:06 GMT</pubDate>
-            <description><![CDATA[Leaving California? A 2022 guide to what state is best to move to]]></description>
-        </item>
-        <item>
-            <title><![CDATA[臺灣將擺脫零科維德戰略]]></title>
-            <link>https://news.ycombinator.com/item?id=30944823</link>
-            <guid>https://news.ycombinator.com/item?id=30944823</guid>
-            <pubDate>Thu, 07 Apr 2022 14:25:44 GMT</pubDate>
-            <description><![CDATA[Taiwan to move away from zero-Covid strategy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[馬斯克與普京的鬥爭遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30944688</link>
-            <guid>https://news.ycombinator.com/item?id=30944688</guid>
-            <pubDate>Thu, 07 Apr 2022 14:14:01 GMT</pubDate>
-            <description><![CDATA[Musk vs. Putin Fight Game]]></description>
         </item>
     </channel>
 </rss>

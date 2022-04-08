@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T17:54:05.776Z</updated>
+    <updated>2022-04-08T18:15:47.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
+        <id>https://news.ycombinator.com/item?id=30960509</id>
+        <link href="https://news.ycombinator.com/item?id=30960509"/>
+        <updated>2022-04-08T18:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zaplib – Speedup your webapp with Rust+Wasm]]></summary>
+        <author>
+            <name>stevekrouse</name>
+            <uri>https://news.ycombinator.com/user?id=stevekrouse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多個Atlassian服務遭遇中斷]]></title>
+        <id>https://news.ycombinator.com/item?id=30960499</id>
+        <link href="https://news.ycombinator.com/item?id=30960499"/>
+        <updated>2022-04-08T18:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Multiple Atlassian services suffering outages]]></summary>
+        <author>
+            <name>unmole</name>
+            <uri>https://news.ycombinator.com/user?id=unmole</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blobfish是什麼鬼東西？]]></title>
+        <id>https://news.ycombinator.com/item?id=30960455</id>
+        <link href="https://news.ycombinator.com/item?id=30960455"/>
+        <updated>2022-04-08T18:02:33.000Z</updated>
+        <summary type="html"><![CDATA[What the Heck Is a Blobfish?]]></summary>
+        <author>
+            <name>type0</name>
+            <uri>https://news.ycombinator.com/user?id=type0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究表明，Gmail將更多來自保守派的電子郵件發送為垃圾郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30960246</id>
+        <link href="https://news.ycombinator.com/item?id=30960246"/>
+        <updated>2022-04-08T17:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Gmail sends far more emails from conservatives to spam: study]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們將新的Prometheus TSDB Grafana Mimir的規模擴大到1B個活動系列]]></title>
+        <id>https://news.ycombinator.com/item?id=30960210</id>
+        <link href="https://news.ycombinator.com/item?id=30960210"/>
+        <updated>2022-04-08T17:43:40.000Z</updated>
+        <summary type="html"><![CDATA[We scaled our new Prometheus TSDB Grafana Mimir to 1B active series]]></summary>
+        <author>
+            <name>cip01</name>
+            <uri>https://news.ycombinator.com/user?id=cip01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zephyrus G14不是MacBook Pro 14]]></title>
+        <id>https://news.ycombinator.com/item?id=30960169</id>
+        <link href="https://news.ycombinator.com/item?id=30960169"/>
+        <updated>2022-04-08T17:39:48.000Z</updated>
+        <summary type="html"><![CDATA[The Zephyrus G14 is not a MacBook Pro 14]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我作為一個單獨的開發者建立了我的技術創業公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30959972</id>
+        <link href="https://news.ycombinator.com/item?id=30959972"/>
+        <updated>2022-04-08T17:24:51.000Z</updated>
+        <summary type="html"><![CDATA[I built my tech startup as a solo developer]]></summary>
+        <author>
+            <name>JensRantil</name>
+            <uri>https://news.ycombinator.com/user?id=JensRantil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比聲音更快的噴氣式發動機的突破]]></title>
         <id>https://news.ycombinator.com/item?id=30960049</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>amits1995</name>
             <uri>https://news.ycombinator.com/user?id=amits1995</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秘密的顏色。密碼學的溫和介紹]]></title>
-        <id>https://news.ycombinator.com/item?id=30945056</id>
-        <link href="https://news.ycombinator.com/item?id=30945056"/>
-        <updated>2022-04-07T14:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Secret Colors: A Gentle Introduction to Cryptography]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.60.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30944709</id>
-        <link href="https://news.ycombinator.com/item?id=30944709"/>
-        <updated>2022-04-07T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Rust 1.60.0]]></summary>
-        <author>
-            <name>burntsushi</name>
-            <uri>https://news.ycombinator.com/user?id=burntsushi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM開放第一個50年的背景資料]]></title>
-        <id>https://news.ycombinator.com/item?id=30944881</id>
-        <link href="https://news.ycombinator.com/item?id=30944881"/>
-        <updated>2022-04-07T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[ACM Opens First 50 Years Backfile]]></summary>
-        <author>
-            <name>mitchbob</name>
-            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Nomad是更好的Kubernetes嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30944859</id>
-        <link href="https://news.ycombinator.com/item?id=30944859"/>
-        <updated>2022-04-07T14:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Is HashiCorp Nomad a Better Kubernetes?]]></summary>
-        <author>
-            <name>wfaler</name>
-            <uri>https://news.ycombinator.com/user?id=wfaler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[離開加州？2022年指南：搬到哪個州最好？]]></title>
-        <id>https://news.ycombinator.com/item?id=30944836</id>
-        <link href="https://news.ycombinator.com/item?id=30944836"/>
-        <updated>2022-04-07T14:27:06.000Z</updated>
-        <summary type="html"><![CDATA[Leaving California? A 2022 guide to what state is best to move to]]></summary>
-        <author>
-            <name>ohjeez</name>
-            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臺灣將擺脫零科維德戰略]]></title>
-        <id>https://news.ycombinator.com/item?id=30944823</id>
-        <link href="https://news.ycombinator.com/item?id=30944823"/>
-        <updated>2022-04-07T14:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Taiwan to move away from zero-Covid strategy]]></summary>
-        <author>
-            <name>guard0g</name>
-            <uri>https://news.ycombinator.com/user?id=guard0g</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克與普京的鬥爭遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30944688</id>
-        <link href="https://news.ycombinator.com/item?id=30944688"/>
-        <updated>2022-04-07T14:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Musk vs. Putin Fight Game]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
