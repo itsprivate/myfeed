@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T09:51:42.675Z</updated>
+    <updated>2022-04-08T10:15:02.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hypertrace - 分布式追踪的Jaeger替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30955181</id>
+        <link href="https://news.ycombinator.com/item?id=30955181"/>
+        <updated>2022-04-08T09:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Hypertrace – Jaeger alternative for distrubuted tracing]]></summary>
+        <author>
+            <name>subintp</name>
+            <uri>https://news.ycombinator.com/user?id=subintp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何调查你的Rust程序的内存使用情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30955145</id>
+        <link href="https://news.ycombinator.com/item?id=30955145"/>
+        <updated>2022-04-08T09:51:43.000Z</updated>
+        <summary type="html"><![CDATA[How to investigate memory usage of your Rust program]]></summary>
+        <author>
+            <name>ovidiu</name>
+            <uri>https://news.ycombinator.com/user?id=ovidiu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在肺部最深处发现微塑料]]></title>
+        <id>https://news.ycombinator.com/item?id=30955096</id>
+        <link href="https://news.ycombinator.com/item?id=30955096"/>
+        <updated>2022-04-08T09:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Scientists discover microplastics in deepest section of the lungs]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本数据中心开始养殖鳗鱼的副业]]></title>
+        <id>https://news.ycombinator.com/item?id=30954841</id>
+        <link href="https://news.ycombinator.com/item?id=30954841"/>
+        <updated>2022-04-08T08:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Japanese Data Center Starts Eel Farming Side Hustle]]></summary>
+        <author>
+            <name>danny00</name>
+            <uri>https://news.ycombinator.com/user?id=danny00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在收集数以千计的诺托邦评级中学到的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30954829</id>
+        <link href="https://news.ycombinator.com/item?id=30954829"/>
+        <updated>2022-04-08T08:57:43.000Z</updated>
+        <summary type="html"><![CDATA[What I learned gathering thousands of nootropic ratings]]></summary>
+        <author>
+            <name>Tenoke</name>
+            <uri>https://news.ycombinator.com/user?id=Tenoke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W玻色子质量的测量显示与计算结果有7σ的偏差]]></title>
         <id>https://news.ycombinator.com/item?id=30955033</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>melenaboija</name>
             <uri>https://news.ycombinator.com/user?id=melenaboija</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minifree正在销售自由。coreboot预装的ThinkPad T440p。现在有了BSD"]]></title>
-        <id>https://news.ycombinator.com/item?id=30939925</id>
-        <link href="https://news.ycombinator.com/item?id=30939925"/>
-        <updated>2022-04-07T02:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Minifree is selling freedom. coreboot-preinstalled ThinkPad T440p. now with BSD“]]></summary>
-        <author>
-            <name>leahlibre</name>
-            <uri>https://news.ycombinator.com/user?id=leahlibre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型科维德浪潮冲击华盛顿特区的精英们]]></title>
-        <id>https://news.ycombinator.com/item?id=30939915</id>
-        <link href="https://news.ycombinator.com/item?id=30939915"/>
-        <updated>2022-04-07T02:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Mini-Covid wave hits D.C. elite]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何实际地创造财富？]]></title>
-        <id>https://news.ycombinator.com/item?id=30939898</id>
-        <link href="https://news.ycombinator.com/item?id=30939898"/>
-        <updated>2022-04-07T02:12:42.000Z</updated>
-        <summary type="html"><![CDATA[How do I practically create wealth?]]></summary>
-        <author>
-            <name>athrvakhrbde</name>
-            <uri>https://news.ycombinator.com/user?id=athrvakhrbde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面食摄入量与2型糖尿病和心血管疾病的风险]]></title>
-        <id>https://news.ycombinator.com/item?id=30939857</id>
-        <link href="https://news.ycombinator.com/item?id=30939857"/>
-        <updated>2022-04-07T02:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Pasta intake and risks of type 2 diabetes and cardiovascular disease]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前谷歌首席执行官埃里克-施密特谈为什么办公室内工作会更好]]></title>
-        <id>https://news.ycombinator.com/item?id=30939826</id>
-        <link href="https://news.ycombinator.com/item?id=30939826"/>
-        <updated>2022-04-07T02:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Ex-Google CEO Eric Schmidt on why in-office work is better]]></summary>
-        <author>
-            <name>g42gregory</name>
-            <uri>https://news.ycombinator.com/user?id=g42gregory</uri>
         </author>
     </entry>
 </feed>
