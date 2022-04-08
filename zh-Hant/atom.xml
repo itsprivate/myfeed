@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T05:30:27.536Z</updated>
+    <updated>2022-04-08T05:38:56.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[採訪 "神經網絡猜測備忘錄 "Twitter賬戶的創建者]]></title>
+        <id>https://news.ycombinator.com/item?id=30953620</id>
+        <link href="https://news.ycombinator.com/item?id=30953620"/>
+        <updated>2022-04-08T05:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Interview with creator of the “neural net guesses memes” Twitter account]]></summary>
+        <author>
+            <name>vector_spaces</name>
+            <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯和烏克蘭的熱門應用程序顯示戰爭期間優先事項的轉變]]></title>
+        <id>https://news.ycombinator.com/item?id=30953534</id>
+        <link href="https://news.ycombinator.com/item?id=30953534"/>
+        <updated>2022-04-08T05:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Trending Apps in Russia and Ukraine Show Shifting Priorities During War]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北約戰機利用塞爾維亞民用航班進入俄羅斯領空]]></title>
         <id>https://news.ycombinator.com/item?id=30953467</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rolph</name>
             <uri>https://news.ycombinator.com/user?id=rolph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[風力發電首次成為第二大電力來源]]></title>
-        <id>https://news.ycombinator.com/item?id=30937956</id>
-        <link href="https://news.ycombinator.com/item?id=30937956"/>
-        <updated>2022-04-06T21:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Wind power was the second-highest source of electricity for the first time]]></summary>
-        <author>
-            <name>standardUser</name>
-            <uri>https://news.ycombinator.com/user?id=standardUser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSoC: 創建一個新的KiCad導入器]]></title>
-        <id>https://news.ycombinator.com/item?id=30937802</id>
-        <link href="https://news.ycombinator.com/item?id=30937802"/>
-        <updated>2022-04-06T21:43:48.000Z</updated>
-        <summary type="html"><![CDATA[GSoC: Create a New KiCad Importer]]></summary>
-        <author>
-            <name>mikolajw</name>
-            <uri>https://news.ycombinator.com/user?id=mikolajw</uri>
         </author>
     </entry>
 </feed>
