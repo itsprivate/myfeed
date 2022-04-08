@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T22:33:56.158Z</updated>
+    <updated>2022-04-08T22:51:13.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fizz向新的軟件工程師提供免費的特斯拉汽車]]></title>
+        <id>https://news.ycombinator.com/item?id=30963303</id>
+        <link href="https://news.ycombinator.com/item?id=30963303"/>
+        <updated>2022-04-08T22:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Fizz Offering Free Teslas to New Software Engineers]]></summary>
+        <author>
+            <name>ankushio</name>
+            <uri>https://news.ycombinator.com/user?id=ankushio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厭倦了的經理們宣佈WFH結束了，因為77%的人說他們會解僱你或削減你的工資。]]></title>
+        <id>https://news.ycombinator.com/item?id=30962925</id>
+        <link href="https://news.ycombinator.com/item?id=30962925"/>
+        <updated>2022-04-08T21:49:39.000Z</updated>
+        <summary type="html"><![CDATA[Fed-up managers declare WFH is over, as 77% say they’d fire you or cut your pay]]></summary>
+        <author>
+            <name>ttyp3</name>
+            <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開始使用BigQuery的SQL持久性功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30962863</id>
+        <link href="https://news.ycombinator.com/item?id=30962863"/>
+        <updated>2022-04-08T21:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Getting started with BigQuery SQL persistent functions]]></summary>
+        <author>
+            <name>yekalb</name>
+            <uri>https://news.ycombinator.com/user?id=yekalb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的Nvidia開源Linux內核圖形驅動出現了]]></title>
         <id>https://news.ycombinator.com/item?id=30963270</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>block_dagger</name>
             <uri>https://news.ycombinator.com/user?id=block_dagger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司拿下巴西與軍方有聯繫的環境虛假信息網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30947939</id>
-        <link href="https://news.ycombinator.com/item?id=30947939"/>
-        <updated>2022-04-07T17:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Meta takes down Brazil environmental disinformation network tied to military]]></summary>
-        <author>
-            <name>lbrito</name>
-            <uri>https://news.ycombinator.com/user?id=lbrito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猴子吃含有酒精的水果，揭示了我們對酒的品味]]></title>
-        <id>https://news.ycombinator.com/item?id=30947908</id>
-        <link href="https://news.ycombinator.com/item?id=30947908"/>
-        <updated>2022-04-07T17:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Monkeys eat fruit containing alcohol, shedding light on our taste for booze]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rich Harris - 通往SvelteKit 1.0之路]]></title>
-        <id>https://news.ycombinator.com/item?id=30947827</id>
-        <link href="https://news.ycombinator.com/item?id=30947827"/>
-        <updated>2022-04-07T17:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Rich Harris – The Road to SvelteKit 1.0]]></summary>
-        <author>
-            <name>mas-ev</name>
-            <uri>https://news.ycombinator.com/user?id=mas-ev</uri>
         </author>
     </entry>
 </feed>
