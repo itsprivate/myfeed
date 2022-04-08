@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T14:46:18.188Z</updated>
+    <updated>2022-04-08T14:57:54.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[停止使用JSON网络令牌进行认证。使用有状态的会话代替]]></title>
+        <id>https://news.ycombinator.com/item?id=30957609</id>
+        <link href="https://news.ycombinator.com/item?id=30957609"/>
+        <updated>2022-04-08T14:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Stop Using JSON Web Tokens for Authentication. Use Stateful Sessions Instead]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD的未来CPU可能具有3D堆叠的ML加速器]]></title>
+        <id>https://news.ycombinator.com/item?id=30957473</id>
+        <link href="https://news.ycombinator.com/item?id=30957473"/>
+        <updated>2022-04-08T14:42:48.000Z</updated>
+        <summary type="html"><![CDATA[AMD's Future CPUs Could Feature a 3D-Stacked ML Accelerator]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯受制裁组织的认证机构]]></title>
+        <id>https://news.ycombinator.com/item?id=30957447</id>
+        <link href="https://news.ycombinator.com/item?id=30957447"/>
+        <updated>2022-04-08T14:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s certificate authority for sanctioned organizations]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们唯一应该讨论的是气候危机]]></title>
+        <id>https://news.ycombinator.com/item?id=30957338</id>
+        <link href="https://news.ycombinator.com/item?id=30957338"/>
+        <updated>2022-04-08T14:34:36.000Z</updated>
+        <summary type="html"><![CDATA[The only thing we should be talking about is the climate crisis]]></summary>
+        <author>
+            <name>jader201</name>
+            <uri>https://news.ycombinator.com/user?id=jader201</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国防部部长希克斯访问斯坦福大学戈尔迪翁结国家安全创新中心]]></title>
+        <id>https://news.ycombinator.com/item?id=30957110</id>
+        <link href="https://news.ycombinator.com/item?id=30957110"/>
+        <updated>2022-04-08T14:21:49.000Z</updated>
+        <summary type="html"><![CDATA[DepSecDef Hicks Visits Stanfords Gordion Knot Center for Ntl Security Innovation]]></summary>
+        <author>
+            <name>alizimmer</name>
+            <uri>https://news.ycombinator.com/user?id=alizimmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软扰乱俄罗斯网络攻击]]></title>
         <id>https://news.ycombinator.com/item?id=30957356</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>croes</name>
             <uri>https://news.ycombinator.com/user?id=croes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Wayang Python API即将推出]]></title>
-        <id>https://news.ycombinator.com/item?id=30942553</id>
-        <link href="https://news.ycombinator.com/item?id=30942553"/>
-        <updated>2022-04-07T09:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Apache Wayang Python API coming soon]]></summary>
-        <author>
-            <name>2pk03</name>
-            <uri>https://news.ycombinator.com/user?id=2pk03</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即使翻译成日语或二进制编码，YouTube也会屏蔽这条评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30942524</id>
-        <link href="https://news.ycombinator.com/item?id=30942524"/>
-        <updated>2022-04-07T09:49:41.000Z</updated>
-        <summary type="html"><![CDATA[YouTube blocks this comment even when translated to Japanese or binary encoded]]></summary>
-        <author>
-            <name>farzher</name>
-            <uri>https://news.ycombinator.com/user?id=farzher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯在最近解放的基辅州布卡的战争罪行]]></title>
-        <id>https://news.ycombinator.com/item?id=30942505</id>
-        <link href="https://news.ycombinator.com/item?id=30942505"/>
-        <updated>2022-04-07T09:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Russian war crimes in recently liberated Bucha, Kyiv Oblast]]></summary>
-        <author>
-            <name>Nginx487</name>
-            <uri>https://news.ycombinator.com/user?id=Nginx487</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扫描显示了大脑的早期生长、晚期衰退和令人惊讶的变化性]]></title>
-        <id>https://news.ycombinator.com/item?id=30942502</id>
-        <link href="https://news.ycombinator.com/item?id=30942502"/>
-        <updated>2022-04-07T09:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Scans reveal the brain's early growth, late decline and surprising variability]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在城市中长大会损害你的空间技能--新研究]]></title>
-        <id>https://news.ycombinator.com/item?id=30942495</id>
-        <link href="https://news.ycombinator.com/item?id=30942495"/>
-        <updated>2022-04-07T09:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Growing up in a city can harm your spatial skills – new research]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
