@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T09:33:03.502Z</updated>
+    <updated>2022-04-08T09:43:32.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[经过55年，这家二手书店的老板要辞职了]]></title>
+        <id>https://news.ycombinator.com/item?id=30955035</id>
+        <link href="https://news.ycombinator.com/item?id=30955035"/>
+        <updated>2022-04-08T09:32:55.000Z</updated>
+        <summary type="html"><![CDATA[After 55 years, this secondhand bookstore owner is calling it quits]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刷卡打字是如何工作的]]></title>
+        <id>https://news.ycombinator.com/item?id=30955023</id>
+        <link href="https://news.ycombinator.com/item?id=30955023"/>
+        <updated>2022-04-08T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[How Swipe Typing Works]]></summary>
+        <author>
+            <name>oplante</name>
+            <uri>https://news.ycombinator.com/user?id=oplante</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[引起全世界对人口过剩的恐惧的书]]></title>
         <id>https://news.ycombinator.com/item?id=30954740</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>perihelions</name>
             <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青少年帮助麻省理工学院教借贷算法不要有种族歧视]]></title>
-        <id>https://news.ycombinator.com/item?id=30939814</id>
-        <link href="https://news.ycombinator.com/item?id=30939814"/>
-        <updated>2022-04-07T01:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Teens help MIT teach lending algorithms not to be racist]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韦伯的中红外仪器冷却继续进行]]></title>
-        <id>https://news.ycombinator.com/item?id=30939747</id>
-        <link href="https://news.ycombinator.com/item?id=30939747"/>
-        <updated>2022-04-07T01:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Webb’s Mid-Infrared Instrument Cooldown Continues]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
