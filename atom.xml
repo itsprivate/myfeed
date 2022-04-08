@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T15:38:54.008Z</updated>
+    <updated>2022-04-08T15:55:17.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌与三星一起与iFixit合作推出自我修复计划]]></title>
+        <id>https://news.ycombinator.com/item?id=30958660</id>
+        <link href="https://news.ycombinator.com/item?id=30958660"/>
+        <updated>2022-04-08T15:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Google joins Samsung in working with iFixit on a self-repair program]]></summary>
+        <author>
+            <name>aspenmayer</name>
+            <uri>https://news.ycombinator.com/user?id=aspenmayer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turborepo 1.2: 高性能的单片机构建系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30958653</id>
+        <link href="https://news.ycombinator.com/item?id=30958653"/>
+        <updated>2022-04-08T15:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Turborepo 1.2: High-performance build system for monorepos]]></summary>
+        <author>
+            <name>leerob</name>
+            <uri>https://news.ycombinator.com/user?id=leerob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient-VDVAE是一个开源的内存效率高的深度分层VAE]]></title>
+        <id>https://news.ycombinator.com/item?id=30958530</id>
+        <link href="https://news.ycombinator.com/item?id=30958530"/>
+        <updated>2022-04-08T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE]]></summary>
+        <author>
+            <name>Lou-AI</name>
+            <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上最雄心勃勃的气候目标基本上是遥不可及的]]></title>
+        <id>https://news.ycombinator.com/item?id=30958523</id>
+        <link href="https://news.ycombinator.com/item?id=30958523"/>
+        <updated>2022-04-08T15:34:33.000Z</updated>
+        <summary type="html"><![CDATA[The world’s most ambitious climate goal is essentially out of reach]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在临床前研究中使用超声波成功治疗糖尿病]]></title>
+        <id>https://news.ycombinator.com/item?id=30958339</id>
+        <link href="https://news.ycombinator.com/item?id=30958339"/>
+        <updated>2022-04-08T15:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Diabetes successfully treated using ultrasound in preclinical study]]></summary>
+        <author>
+            <name>sharjeelsayed</name>
+            <uri>https://news.ycombinator.com/user?id=sharjeelsayed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JEP草案。通用非专利药物（预览）]]></title>
+        <id>https://news.ycombinator.com/item?id=30958286</id>
+        <link href="https://news.ycombinator.com/item?id=30958286"/>
+        <updated>2022-04-08T15:21:40.000Z</updated>
+        <summary type="html"><![CDATA[JEP Draft: Universal Generics (Preview)]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用QEMU/KVM计算ZFS的RAID容量]]></title>
+        <id>https://news.ycombinator.com/item?id=30958257</id>
+        <link href="https://news.ycombinator.com/item?id=30958257"/>
+        <updated>2022-04-08T15:19:59.000Z</updated>
+        <summary type="html"><![CDATA[ZFS RAID capacity calculation with QEMU/KVM]]></summary>
+        <author>
+            <name>weastur</name>
+            <uri>https://news.ycombinator.com/user?id=weastur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克在内部抗议后将对推特员工讲话]]></title>
+        <id>https://news.ycombinator.com/item?id=30957793</id>
+        <link href="https://news.ycombinator.com/item?id=30957793"/>
+        <updated>2022-04-08T14:57:57.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk to address Twitter staff after internal outcry]]></summary>
+        <author>
+            <name>memish</name>
+            <uri>https://news.ycombinator.com/user?id=memish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram应用程序称苹果因与俄罗斯的争端而阻止更新（2018年）]]></title>
         <id>https://news.ycombinator.com/item?id=30958202</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>kaelinl</name>
             <uri>https://news.ycombinator.com/user?id=kaelinl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大脑图表：绘制大脑在一生中的快速增长和缓慢下降的地图]]></title>
-        <id>https://news.ycombinator.com/item?id=30943370</id>
-        <link href="https://news.ycombinator.com/item?id=30943370"/>
-        <updated>2022-04-07T12:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Brain charts: mapping the rapid growth and slow decline of the brain over life]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书老板Meta以 "Zuck Bucks "和创造者硬币瞄准金融业]]></title>
-        <id>https://news.ycombinator.com/item?id=30943369</id>
-        <link href="https://news.ycombinator.com/item?id=30943369"/>
-        <updated>2022-04-07T12:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Facebook owner Meta targets finance with ‘Zuck Bucks’ and creator coins]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯应该对乌克兰做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30943008</id>
-        <link href="https://news.ycombinator.com/item?id=30943008"/>
-        <updated>2022-04-07T11:15:57.000Z</updated>
-        <summary type="html"><![CDATA[What should Russia do with Ukraine?]]></summary>
-        <author>
-            <name>antfarm</name>
-            <uri>https://news.ycombinator.com/user?id=antfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔暂停在俄罗斯的所有业务 "立即生效"]]></title>
-        <id>https://news.ycombinator.com/item?id=30943357</id>
-        <link href="https://news.ycombinator.com/item?id=30943357"/>
-        <updated>2022-04-07T12:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Intel suspends all operations in Russia “effective immediately”]]></summary>
-        <author>
-            <name>el_duderino</name>
-            <uri>https://news.ycombinator.com/user?id=el_duderino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的Windows 11安全功能需要进行清洁安装]]></title>
-        <id>https://news.ycombinator.com/item?id=30943341</id>
-        <link href="https://news.ycombinator.com/item?id=30943341"/>
-        <updated>2022-04-07T12:05:56.000Z</updated>
-        <summary type="html"><![CDATA[New Windows 11 security feature requires a clean install]]></summary>
-        <author>
-            <name>thesuperbigfrog</name>
-            <uri>https://news.ycombinator.com/user?id=thesuperbigfrog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺德安全公司以16亿的估值筹集外部资金1亿。]]></title>
-        <id>https://news.ycombinator.com/item?id=30943285</id>
-        <link href="https://news.ycombinator.com/item?id=30943285"/>
-        <updated>2022-04-07T11:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Nord Security raises outside capital of 100M at 1.6B Valuation]]></summary>
-        <author>
-            <name>Derelicts</name>
-            <uri>https://news.ycombinator.com/user?id=Derelicts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[气候科学家绝望了：我们在哭泣、乞求和被逮捕]]></title>
-        <id>https://news.ycombinator.com/item?id=30943253</id>
-        <link href="https://news.ycombinator.com/item?id=30943253"/>
-        <updated>2022-04-07T11:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Climate scientists are desperate: we’re crying, begging and getting arrested]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到 "世界报 "的英文网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30943238</id>
-        <link href="https://news.ycombinator.com/item?id=30943238"/>
-        <updated>2022-04-07T11:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to 'Le Monde' in English]]></summary>
-        <author>
-            <name>aaraujo002</name>
-            <uri>https://news.ycombinator.com/user?id=aaraujo002</uri>
         </author>
     </entry>
 </feed>
