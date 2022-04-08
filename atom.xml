@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T23:45:23.663Z</updated>
+    <updated>2022-04-08T23:52:57.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Levels.fyi正在以1200美元/月的价格向公司出售你的工资数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30963833</id>
+        <link href="https://news.ycombinator.com/item?id=30963833"/>
+        <updated>2022-04-08T23:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Levels.fyi is selling your salary data to companies for $1200/month]]></summary>
+        <author>
+            <name>rsanek</name>
+            <uri>https://news.ycombinator.com/user?id=rsanek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是那种海盗。YouTube的音乐版权系统仍然是破碎的]]></title>
+        <id>https://news.ycombinator.com/item?id=30963815</id>
+        <link href="https://news.ycombinator.com/item?id=30963815"/>
+        <updated>2022-04-08T23:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Not That Kind of Pirate: YouTube's Music Copyright System Is Still Broken]]></summary>
+        <author>
+            <name>mod50ack</name>
+            <uri>https://news.ycombinator.com/user?id=mod50ack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加州建议瞄准人工智能驱动的招聘软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30963806</id>
+        <link href="https://news.ycombinator.com/item?id=30963806"/>
+        <updated>2022-04-08T23:39:26.000Z</updated>
+        <summary type="html"><![CDATA[California suggests taking aim at AI-powered hiring software]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贝宝任意冻结在乌克兰的著名外国军团账户]]></title>
         <id>https://news.ycombinator.com/item?id=30963643</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>matrixagent</name>
             <uri>https://news.ycombinator.com/user?id=matrixagent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变物理学进程的女数学家 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30949047</id>
-        <link href="https://news.ycombinator.com/item?id=30949047"/>
-        <updated>2022-04-07T19:10:35.000Z</updated>
-        <summary type="html"><![CDATA[The female mathematician who changed the course of physics (2015)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS降低了PrivateLink、Transit Gateway、Client VPN的数据传输价格]]></title>
-        <id>https://news.ycombinator.com/item?id=30948994</id>
-        <link href="https://news.ycombinator.com/item?id=30948994"/>
-        <updated>2022-04-07T19:06:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS lowers data transfer prices for PrivateLink, Transit Gateway, Client VPN]]></summary>
-        <author>
-            <name>bdb</name>
-            <uri>https://news.ycombinator.com/user?id=bdb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[择优录取是不公平的--这就是问题所在]]></title>
-        <id>https://news.ycombinator.com/item?id=30948932</id>
-        <link href="https://news.ycombinator.com/item?id=30948932"/>
-        <updated>2022-04-07T19:02:14.000Z</updated>
-        <summary type="html"><![CDATA[Meritocracies Are Unfair – and That’s the Point]]></summary>
-        <author>
-            <name>ivanvas</name>
-            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
         </author>
     </entry>
 </feed>
