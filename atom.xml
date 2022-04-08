@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-08T06:16:05.844Z</updated>
+    <updated>2022-04-08T06:40:05.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[舒适的噪音]]></title>
+        <id>https://news.ycombinator.com/item?id=30953925</id>
+        <link href="https://news.ycombinator.com/item?id=30953925"/>
+        <updated>2022-04-08T06:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Comfort noise]]></summary>
+        <author>
+            <name>elromulous</name>
+            <uri>https://news.ycombinator.com/user?id=elromulous</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马特-莱文时事通讯金钱的东西是线性的-Ish]]></title>
+        <id>https://news.ycombinator.com/item?id=30953847</id>
+        <link href="https://news.ycombinator.com/item?id=30953847"/>
+        <updated>2022-04-08T06:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Matt Levine Newsletter Money Stuff Is Linear-Ish]]></summary>
+        <author>
+            <name>PotatoNinja</name>
+            <uri>https://news.ycombinator.com/user?id=PotatoNinja</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
+        <id>https://news.ycombinator.com/item?id=30953744</id>
+        <link href="https://news.ycombinator.com/item?id=30953744"/>
+        <updated>2022-04-08T05:54:05.000Z</updated>
+        <summary type="html"><![CDATA[You may not need Cloudflare Tunnel. Linux is fine]]></summary>
+        <author>
+            <name>mcovalt</name>
+            <uri>https://news.ycombinator.com/user?id=mcovalt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[粒子实验的惊人结果可能引发物理学革命]]></title>
+        <id>https://news.ycombinator.com/item?id=30953722</id>
+        <link href="https://news.ycombinator.com/item?id=30953722"/>
+        <updated>2022-04-08T05:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Shock result in particle experiment could spark physics revolution]]></summary>
+        <author>
+            <name>larard</name>
+            <uri>https://news.ycombinator.com/user?id=larard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频扩散模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30953716</id>
+        <link href="https://news.ycombinator.com/item?id=30953716"/>
+        <updated>2022-04-08T05:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Video Diffusion Models]]></summary>
+        <author>
+            <name>hardmaru</name>
+            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字符串表示法不是唯一的：学会规范化]]></title>
+        <id>https://news.ycombinator.com/item?id=30953712</id>
+        <link href="https://news.ycombinator.com/item?id=30953712"/>
+        <updated>2022-04-08T05:48:51.000Z</updated>
+        <summary type="html"><![CDATA[String representations are not unique: learn to normalize]]></summary>
+        <author>
+            <name>adunk</name>
+            <uri>https://news.ycombinator.com/user?id=adunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌浪潮]]></title>
+        <id>https://news.ycombinator.com/item?id=30953544</id>
+        <link href="https://news.ycombinator.com/item?id=30953544"/>
+        <updated>2022-04-08T05:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Google Wave]]></summary>
+        <author>
+            <name>zhte415</name>
+            <uri>https://news.ycombinator.com/user?id=zhte415</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSSH 9.0 发行说明]]></title>
         <id>https://news.ycombinator.com/item?id=30953634</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retype: 一个自我托管的、免费的gitbook替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30938501</id>
-        <link href="https://news.ycombinator.com/item?id=30938501"/>
-        <updated>2022-04-06T22:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Retype: A self-hosted and free alternative to gitbook]]></summary>
-        <author>
-            <name>geoffreymcgill</name>
-            <uri>https://news.ycombinator.com/user?id=geoffreymcgill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌禁止使用隐藏数据采集软件的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30938465</id>
-        <link href="https://news.ycombinator.com/item?id=30938465"/>
-        <updated>2022-04-06T22:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Google Bans Apps with Hidden Data-Harvesting Software]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX的星际基地扩建被陆军工程兵团拒绝？]]></title>
-        <id>https://news.ycombinator.com/item?id=30938418</id>
-        <link href="https://news.ycombinator.com/item?id=30938418"/>
-        <updated>2022-04-06T22:49:03.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX Starbase Expansion Denied by the Army Corps of Engineers?]]></summary>
-        <author>
-            <name>icapulet2</name>
-            <uri>https://news.ycombinator.com/user?id=icapulet2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据流图的旋风式介绍(2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30938309</id>
-        <link href="https://news.ycombinator.com/item?id=30938309"/>
-        <updated>2022-04-06T22:34:11.000Z</updated>
-        <summary type="html"><![CDATA[A whirlwind introduction to dataflow graphs (2018)]]></summary>
-        <author>
-            <name>wooosh</name>
-            <uri>https://news.ycombinator.com/user?id=wooosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌人工智能做的第一件事是故意在代码中放入缓冲区溢出]]></title>
-        <id>https://news.ycombinator.com/item?id=30938289</id>
-        <link href="https://news.ycombinator.com/item?id=30938289"/>
-        <updated>2022-04-06T22:31:22.000Z</updated>
-        <summary type="html"><![CDATA[The first thing Google AI did was intentionally put buffer overflows in the code]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医生从男子的眼睛里捞出十多条小蛆虫]]></title>
-        <id>https://news.ycombinator.com/item?id=30938238</id>
-        <link href="https://news.ycombinator.com/item?id=30938238"/>
-        <updated>2022-04-06T22:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Doctors fish out more than a dozen tiny maggots from man’s eye]]></summary>
-        <author>
-            <name>aw1621107</name>
-            <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利润无限的计划 (2008)]]></title>
-        <id>https://news.ycombinator.com/item?id=30938115</id>
-        <link href="https://news.ycombinator.com/item?id=30938115"/>
-        <updated>2022-04-06T22:12:41.000Z</updated>
-        <summary type="html"><![CDATA[The Infinitely Profitable Program (2008)]]></summary>
-        <author>
-            <name>latexr</name>
-            <uri>https://news.ycombinator.com/user?id=latexr</uri>
         </author>
     </entry>
 </feed>
