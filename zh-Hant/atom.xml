@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T13:19:53.352Z</updated>
+    <updated>2022-04-09T13:37:39.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓大公司害怕的參議院法案]]></title>
+        <id>https://news.ycombinator.com/item?id=30967824</id>
+        <link href="https://news.ycombinator.com/item?id=30967824"/>
+        <updated>2022-04-09T13:19:35.000Z</updated>
+        <summary type="html"><![CDATA[The Senate bill that has Big Tech scared]]></summary>
+        <author>
+            <name>AlexandrB</name>
+            <uri>https://news.ycombinator.com/user?id=AlexandrB</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對美國衝突的擔憂加劇，中國正在加快核建設的步伐]]></title>
+        <id>https://news.ycombinator.com/item?id=30967712</id>
+        <link href="https://news.ycombinator.com/item?id=30967712"/>
+        <updated>2022-04-09T13:05:25.000Z</updated>
+        <summary type="html"><![CDATA[China Is Accelerating Its Nuclear Buildup over Rising Fears of U.S. Conflict]]></summary>
+        <author>
+            <name>voisin</name>
+            <uri>https://news.ycombinator.com/user?id=voisin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被忽視的歐姆]]></title>
         <id>https://news.ycombinator.com/item?id=30967714</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cato_the_elder</name>
             <uri>https://news.ycombinator.com/user?id=cato_the_elder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天空成功地從GitHub上取下了CucoTV]]></title>
-        <id>https://news.ycombinator.com/item?id=30952735</id>
-        <link href="https://news.ycombinator.com/item?id=30952735"/>
-        <updated>2022-04-08T02:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Sky succeeded at taking down CucoTV from GitHub]]></summary>
-        <author>
-            <name>Vladimof</name>
-            <uri>https://news.ycombinator.com/user?id=Vladimof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何玩好Netflix的新互動節目Trivia Quest？]]></title>
-        <id>https://news.ycombinator.com/item?id=30952701</id>
-        <link href="https://news.ycombinator.com/item?id=30952701"/>
-        <updated>2022-04-08T02:30:30.000Z</updated>
-        <summary type="html"><![CDATA[How to Play Trivia Quest, Netflix's New Interactive Show]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
         </author>
     </entry>
 </feed>
