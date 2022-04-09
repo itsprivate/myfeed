@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T11:28:42.234Z</updated>
+    <updated>2022-04-09T11:36:38.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[達爾文通信項目]]></title>
+        <id>https://news.ycombinator.com/item?id=30967059</id>
+        <link href="https://news.ycombinator.com/item?id=30967059"/>
+        <updated>2022-04-09T11:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Darwin Correspondence Project]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub發佈雷達 - 2022年3月版]]></title>
+        <id>https://news.ycombinator.com/item?id=30966983</id>
+        <link href="https://news.ycombinator.com/item?id=30966983"/>
+        <updated>2022-04-09T11:05:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Release Radar · March 2022 Edition]]></summary>
+        <author>
+            <name>tobiu</name>
+            <uri>https://news.ycombinator.com/user?id=tobiu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國寡頭？埃隆、推特和非自然的精英們]]></title>
         <id>https://news.ycombinator.com/item?id=30966877</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走出焦油坑 (2006) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30952004</id>
-        <link href="https://news.ycombinator.com/item?id=30952004"/>
-        <updated>2022-04-08T00:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Out of the tar pit (2006) [pdf]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對W玻色子質量測量偏差的透視]]></title>
-        <id>https://news.ycombinator.com/item?id=30951883</id>
-        <link href="https://news.ycombinator.com/item?id=30951883"/>
-        <updated>2022-04-08T00:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Perspective on W boson mass measurement deviation]]></summary>
-        <author>
-            <name>moelf</name>
-            <uri>https://news.ycombinator.com/user?id=moelf</uri>
         </author>
     </entry>
 </feed>
