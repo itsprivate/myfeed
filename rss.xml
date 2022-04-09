@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 09 Apr 2022 22:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 22:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雷电追踪，4年回顾]]></title>
+            <link>https://news.ycombinator.com/item?id=30972838</link>
+            <guid>https://news.ycombinator.com/item?id=30972838</guid>
+            <pubDate>Sat, 09 Apr 2022 22:38:15 GMT</pubDate>
+            <description><![CDATA[Raytracing, a 4 Year Retrospective]]></description>
+        </item>
+        <item>
+            <title><![CDATA[龙卷风网络服务器]]></title>
+            <link>https://news.ycombinator.com/item?id=30972789</link>
+            <guid>https://news.ycombinator.com/item?id=30972789</guid>
+            <pubDate>Sat, 09 Apr 2022 22:32:21 GMT</pubDate>
+            <description><![CDATA[Tornado Web Server]]></description>
+        </item>
         <item>
             <title><![CDATA[在乌克兰与俄罗斯的网络战争中，谁是平民，什么是战争罪？]]></title>
             <link>https://news.ycombinator.com/item?id=30972724</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30957252</guid>
             <pubDate>Fri, 08 Apr 2022 14:30:20 GMT</pubDate>
             <description><![CDATA[GNU Octave 7.1.0 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[静态网站生成器，86行]]></title>
-            <link>https://news.ycombinator.com/item?id=30957181</link>
-            <guid>https://news.ycombinator.com/item?id=30957181</guid>
-            <pubDate>Fri, 08 Apr 2022 14:25:58 GMT</pubDate>
-            <description><![CDATA[Static Site Generator in 86 Lines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[勒索软件使北卡罗来纳州A&T大学争相恢复服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30957160</link>
-            <guid>https://news.ycombinator.com/item?id=30957160</guid>
-            <pubDate>Fri, 08 Apr 2022 14:24:43 GMT</pubDate>
-            <description><![CDATA[Ransomware sent North Carolina A&T University scrambling to restore services]]></description>
         </item>
     </channel>
 </rss>

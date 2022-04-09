@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T22:43:04.514Z</updated>
+    <updated>2022-04-09T22:51:15.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雷電追蹤，4年回顧]]></title>
+        <id>https://news.ycombinator.com/item?id=30972838</id>
+        <link href="https://news.ycombinator.com/item?id=30972838"/>
+        <updated>2022-04-09T22:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Raytracing, a 4 Year Retrospective]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍捲風網絡服務器]]></title>
+        <id>https://news.ycombinator.com/item?id=30972789</id>
+        <link href="https://news.ycombinator.com/item?id=30972789"/>
+        <updated>2022-04-09T22:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Web Server]]></summary>
+        <author>
+            <name>vector_spaces</name>
+            <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在烏克蘭與俄羅斯的網絡戰爭中，誰是平民，什麼是戰爭罪？]]></title>
         <id>https://news.ycombinator.com/item?id=30972724</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>freddypaulo</name>
             <uri>https://news.ycombinator.com/user?id=freddypaulo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態網站生成器，86行]]></title>
-        <id>https://news.ycombinator.com/item?id=30957181</id>
-        <link href="https://news.ycombinator.com/item?id=30957181"/>
-        <updated>2022-04-08T14:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Static Site Generator in 86 Lines]]></summary>
-        <author>
-            <name>malkosta</name>
-            <uri>https://news.ycombinator.com/user?id=malkosta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勒索軟件使北卡羅來納州A&T大學爭相恢復服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30957160</id>
-        <link href="https://news.ycombinator.com/item?id=30957160"/>
-        <updated>2022-04-08T14:24:43.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware sent North Carolina A&T University scrambling to restore services]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>
