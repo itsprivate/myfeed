@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T04:58:23.164Z</updated>
+    <updated>2022-04-09T05:11:31.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30965352</id>
+        <link href="https://news.ycombinator.com/item?id=30965352"/>
+        <updated>2022-04-09T04:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></summary>
+        <author>
+            <name>avestura</name>
+            <uri>https://news.ycombinator.com/user?id=avestura</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯在切爾諾貝利的失誤。他們來了，做了他們想做的事。]]></title>
+        <id>https://news.ycombinator.com/item?id=30965281</id>
+        <link href="https://news.ycombinator.com/item?id=30965281"/>
+        <updated>2022-04-09T04:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted.’]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的軍事局勢 - 雅克-鮑德]]></title>
+        <id>https://news.ycombinator.com/item?id=30965280</id>
+        <link href="https://news.ycombinator.com/item?id=30965280"/>
+        <updated>2022-04-09T04:30:38.000Z</updated>
+        <summary type="html"><![CDATA[The Military Situation in Ukraine – Jacques Baud]]></summary>
+        <author>
+            <name>miguelazo</name>
+            <uri>https://news.ycombinator.com/user?id=miguelazo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曼庫爾-奧爾森在歷史的盡頭]]></title>
         <id>https://news.ycombinator.com/item?id=30965338</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dredmorbius</name>
             <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摧毀網絡上最大的虐待兒童網站的比特幣爆炸事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30950254</id>
-        <link href="https://news.ycombinator.com/item?id=30950254"/>
-        <updated>2022-04-07T20:56:48.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin Bust That Took Down the Web’s Biggest Child Abuse Site]]></summary>
-        <author>
-            <name>otterley</name>
-            <uri>https://news.ycombinator.com/user?id=otterley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對W玻色子質量的測量表明標準模型需要改進]]></title>
-        <id>https://news.ycombinator.com/item?id=30950511</id>
-        <link href="https://news.ycombinator.com/item?id=30950511"/>
-        <updated>2022-04-07T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Measurement of W boson mass suggests Standard Model needs improvement]]></summary>
-        <author>
-            <name>galeaspablo</name>
-            <uri>https://news.ycombinator.com/user?id=galeaspablo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在這個最新的版本中，默認的 "pi "用戶將被刪除。]]></title>
-        <id>https://news.ycombinator.com/item?id=30950469</id>
-        <link href="https://news.ycombinator.com/item?id=30950469"/>
-        <updated>2022-04-07T21:19:59.000Z</updated>
-        <summary type="html"><![CDATA[With this latest release, the default “pi” user is being removed]]></summary>
-        <author>
-            <name>rusk</name>
-            <uri>https://news.ycombinator.com/user?id=rusk</uri>
         </author>
     </entry>
 </feed>
