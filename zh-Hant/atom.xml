@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T19:11:43.389Z</updated>
+    <updated>2022-04-09T19:26:26.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯戰爭罪]]></title>
+        <id>https://news.ycombinator.com/item?id=30971083</id>
+        <link href="https://news.ycombinator.com/item?id=30971083"/>
+        <updated>2022-04-09T19:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Russia War Crimes]]></summary>
+        <author>
+            <name>denysvitali</name>
+            <uri>https://news.ycombinator.com/user?id=denysvitali</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open SSH現在默認使用後量子算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30971024</id>
+        <link href="https://news.ycombinator.com/item?id=30971024"/>
+        <updated>2022-04-09T19:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Open SSH now uses post-quantum algorithms by default]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[監管區塊鏈。技術-社會和法律挑戰（2018年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30971005</id>
+        <link href="https://news.ycombinator.com/item?id=30971005"/>
+        <updated>2022-04-09T19:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Regulating Blockchain: Techno-Social and Legal Challenges (2018)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[潛伏學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30970674</id>
+        <link href="https://news.ycombinator.com/item?id=30970674"/>
+        <updated>2022-04-09T18:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Learning by Lurking]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 4.7測試版]]></title>
+        <id>https://news.ycombinator.com/item?id=30970421</id>
+        <link href="https://news.ycombinator.com/item?id=30970421"/>
+        <updated>2022-04-09T18:07:43.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript 4.7 Beta]]></summary>
+        <author>
+            <name>soheilpro</name>
+            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦福大學教授報警，稱伯克利大學教授曝光她每小時5千美元的諮詢費]]></title>
         <id>https://news.ycombinator.com/item?id=30970938</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>chobeat</name>
             <uri>https://news.ycombinator.com/user?id=chobeat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子表格大熱--產生複雜的代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30955940</id>
-        <link href="https://news.ycombinator.com/item?id=30955940"/>
-        <updated>2022-04-08T12:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets Are Hot–and Cranking Out Complex Code]]></summary>
-        <author>
-            <name>LukeEF</name>
-            <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭可能將由俄羅斯天然氣工業股份公司共同管理的天然氣儲存設施國有化]]></title>
-        <id>https://news.ycombinator.com/item?id=30955888</id>
-        <link href="https://news.ycombinator.com/item?id=30955888"/>
-        <updated>2022-04-08T12:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Netherlands could nationalize gas storage facility co-managed by Gazprom]]></summary>
-        <author>
-            <name>sAbakumoff</name>
-            <uri>https://news.ycombinator.com/user?id=sAbakumoff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候重新審視Keystone XL管道了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955810</id>
-        <link href="https://news.ycombinator.com/item?id=30955810"/>
-        <updated>2022-04-08T11:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Is It Time to Revisit the Keystone XL Pipeline?]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼人們即使不開心也會抵制改變？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955799</id>
-        <link href="https://news.ycombinator.com/item?id=30955799"/>
-        <updated>2022-04-08T11:51:54.000Z</updated>
-        <summary type="html"><![CDATA[Why people can resist change even if they are unhappy]]></summary>
-        <author>
-            <name>nic03929192</name>
-            <uri>https://news.ycombinator.com/user?id=nic03929192</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發者的懺悔。菲萊為何墜毀（2018）]]></title>
-        <id>https://news.ycombinator.com/item?id=30955745</id>
-        <link href="https://news.ycombinator.com/item?id=30955745"/>
-        <updated>2022-04-08T11:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Developer's confession: Why Philae crashed (2018)]]></summary>
-        <author>
-            <name>cubefox</name>
-            <uri>https://news.ycombinator.com/user?id=cubefox</uri>
         </author>
     </entry>
 </feed>
