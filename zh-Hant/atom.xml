@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T17:35:40.492Z</updated>
+    <updated>2022-04-09T17:51:36.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：iOS/iPadOS/MacOS上的 "賽車 "表情符號有一個Swift標誌]]></title>
+        <id>https://news.ycombinator.com/item?id=30970003</id>
+        <link href="https://news.ycombinator.com/item?id=30970003"/>
+        <updated>2022-04-09T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: "Racing Car" emoji on iOS/iPadOS/macOS has a Swift logo]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30969811</id>
+        <link href="https://news.ycombinator.com/item?id=30969811"/>
+        <updated>2022-04-09T17:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Problem of Time]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厄瓜多爾警方突襲了奧拉-比尼的工作場所]]></title>
         <id>https://news.ycombinator.com/item?id=30969970</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vl (Violet) - TypeScript中的殼牌腳本。由Deno提供技術支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30954918</id>
-        <link href="https://news.ycombinator.com/item?id=30954918"/>
-        <updated>2022-04-08T09:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Vl (Violet) – Shell Scripting in TypeScript. Powered by Deno]]></summary>
-        <author>
-            <name>japiirainen</name>
-            <uri>https://news.ycombinator.com/user?id=japiirainen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypertrace - 分佈式追蹤的Jaeger替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30955181</id>
-        <link href="https://news.ycombinator.com/item?id=30955181"/>
-        <updated>2022-04-08T09:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Hypertrace – Jaeger alternative for distrubuted tracing]]></summary>
-        <author>
-            <name>subintp</name>
-            <uri>https://news.ycombinator.com/user?id=subintp</uri>
         </author>
     </entry>
 </feed>
