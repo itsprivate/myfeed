@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T09:51:06.171Z</updated>
+    <updated>2022-04-09T10:13:40.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看涨的比特币和非洲加密货币报告]]></title>
+        <id>https://news.ycombinator.com/item?id=30966629</id>
+        <link href="https://news.ycombinator.com/item?id=30966629"/>
+        <updated>2022-04-09T10:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Bullish Bitcoin and the Africa Crypto Report]]></summary>
+        <author>
+            <name>a_kaay</name>
+            <uri>https://news.ycombinator.com/user?id=a_kaay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业公司称即将开始向餐馆销售实验室培育的老虎牛排]]></title>
+        <id>https://news.ycombinator.com/item?id=30966602</id>
+        <link href="https://news.ycombinator.com/item?id=30966602"/>
+        <updated>2022-04-09T09:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Startup Says It's About to Start Selling Lab-Grown Tiger Steaks to Restaurants]]></summary>
+        <author>
+            <name>mparramon</name>
+            <uri>https://news.ycombinator.com/user?id=mparramon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用模糊器破坏Solidity编译器]]></title>
+        <id>https://news.ycombinator.com/item?id=30966542</id>
+        <link href="https://news.ycombinator.com/item?id=30966542"/>
+        <updated>2022-04-09T09:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Breaking the Solidity Compiler with a Fuzzer]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰总统向议员发表讲话时芬兰政府网站被关闭]]></title>
         <id>https://news.ycombinator.com/item?id=30966440</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>AbiTyasTunggal</name>
             <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[很多关于/bin/true的反馈，以及更多的空文件乐趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30951768</id>
-        <link href="https://news.ycombinator.com/item?id=30951768"/>
-        <updated>2022-04-07T23:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Lots of feedback about /bin/true, and more empty file fun]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索通用GraphQL错误代码的未来潜力]]></title>
-        <id>https://news.ycombinator.com/item?id=30951757</id>
-        <link href="https://news.ycombinator.com/item?id=30951757"/>
-        <updated>2022-04-07T23:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the future potential of generic GraphQL error codes]]></summary>
-        <author>
-            <name>leoloso</name>
-            <uri>https://news.ycombinator.com/user?id=leoloso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老有所依：日本电视节目将幼儿遗弃在公共交通工具上]]></title>
-        <id>https://news.ycombinator.com/item?id=30951723</id>
-        <link href="https://news.ycombinator.com/item?id=30951723"/>
-        <updated>2022-04-07T23:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Old Enough: the Japanese TV show that abandons toddlers on public transport]]></summary>
-        <author>
-            <name>hackernj</name>
-            <uri>https://news.ycombinator.com/user?id=hackernj</uri>
         </author>
     </entry>
 </feed>
