@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T21:39:33.764Z</updated>
+    <updated>2022-04-09T21:52:22.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何将C语言编译成WASM]]></title>
+        <id>https://news.ycombinator.com/item?id=30972300</id>
+        <link href="https://news.ycombinator.com/item?id=30972300"/>
+        <updated>2022-04-09T21:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Compile C to WASM]]></summary>
+        <author>
+            <name>ern0</name>
+            <uri>https://news.ycombinator.com/user?id=ern0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受电弓背后的辉煌工程[视频］]]></title>
+        <id>https://news.ycombinator.com/item?id=30971608</id>
+        <link href="https://news.ycombinator.com/item?id=30971608"/>
+        <updated>2022-04-09T20:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The Brilliant Engineering Behind Pantographs [video]]]></summary>
+        <author>
+            <name>runarberg</name>
+            <uri>https://news.ycombinator.com/user?id=runarberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动裁剪 - 巧妙地裁剪图片]]></title>
+        <id>https://news.ycombinator.com/item?id=30971154</id>
+        <link href="https://news.ycombinator.com/item?id=30971154"/>
+        <updated>2022-04-09T19:26:01.000Z</updated>
+        <summary type="html"><![CDATA[AutoCrop – Smartly Crop Images]]></summary>
+        <author>
+            <name>vineetk98</name>
+            <uri>https://news.ycombinator.com/user?id=vineetk98</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个电子表格的知识方式]]></title>
         <id>https://news.ycombinator.com/item?id=30972290</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Stevvo</name>
             <uri>https://news.ycombinator.com/user?id=Stevvo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看在上帝的份上，不要碰HTML输入端]]></title>
-        <id>https://news.ycombinator.com/item?id=30956882</id>
-        <link href="https://news.ycombinator.com/item?id=30956882"/>
-        <updated>2022-04-08T14:04:59.000Z</updated>
-        <summary type="html"><![CDATA[For Pete's Sake, Don't Touch HTML Inputs]]></summary>
-        <author>
-            <name>codingclaws</name>
-            <uri>https://news.ycombinator.com/user?id=codingclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2012年4月9日，HN评论。将此评论加入书签。2022年见]]></title>
-        <id>https://news.ycombinator.com/item?id=30956875</id>
-        <link href="https://news.ycombinator.com/item?id=30956875"/>
-        <updated>2022-04-08T14:03:54.000Z</updated>
-        <summary type="html"><![CDATA[HN comment April 9, 2012: Bookmark this comment. See you in 2022]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前纽约联储主席。如果股票不下跌，美联储需要迫使它们下跌]]></title>
-        <id>https://news.ycombinator.com/item?id=30956810</id>
-        <link href="https://news.ycombinator.com/item?id=30956810"/>
-        <updated>2022-04-08T13:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Former NY Fed President: If Stocks Don't Fall, the Fed Needs to Force Them]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
         </author>
     </entry>
 </feed>
