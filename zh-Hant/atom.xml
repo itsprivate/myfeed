@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T07:30:17.018Z</updated>
+    <updated>2022-04-09T07:51:28.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國有史以來最大的魚龍在拉特蘭水域被發現]]></title>
+        <id>https://news.ycombinator.com/item?id=30965935</id>
+        <link href="https://news.ycombinator.com/item?id=30965935"/>
+        <updated>2022-04-09T07:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Britain's largest ever ichthyosaur is discovered in Rutland Water]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芬蘭遭遇網絡攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30965841</id>
+        <link href="https://news.ycombinator.com/item?id=30965841"/>
+        <updated>2022-04-09T07:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Finland Hit by Cyber Attack]]></summary>
+        <author>
+            <name>galaxyLogic</name>
+            <uri>https://news.ycombinator.com/user?id=galaxyLogic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多重計算。理論科學的第四範式]]></title>
         <id>https://news.ycombinator.com/item?id=30965828</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何改變你對睡眠的心態]]></title>
-        <id>https://news.ycombinator.com/item?id=30951041</id>
-        <link href="https://news.ycombinator.com/item?id=30951041"/>
-        <updated>2022-04-07T22:22:34.000Z</updated>
-        <summary type="html"><![CDATA[How to Change Your Mindset About Sleep]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在libmshr中發現了一個271,800字符的拆分符號名稱]]></title>
-        <id>https://news.ycombinator.com/item?id=30951018</id>
-        <link href="https://news.ycombinator.com/item?id=30951018"/>
-        <updated>2022-04-07T22:20:16.000Z</updated>
-        <summary type="html"><![CDATA[I found a 271,800 character demangled symbol name in libmshr]]></summary>
-        <author>
-            <name>AntiRush</name>
-            <uri>https://news.ycombinator.com/user?id=AntiRush</uri>
         </author>
     </entry>
 </feed>
