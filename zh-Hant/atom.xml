@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T05:30:00.697Z</updated>
+    <updated>2022-04-09T05:37:25.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自設谷歌字體]]></title>
+        <id>https://news.ycombinator.com/item?id=30965439</id>
+        <link href="https://news.ycombinator.com/item?id=30965439"/>
+        <updated>2022-04-09T05:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Self-Host Google Fonts]]></summary>
+        <author>
+            <name>nreece</name>
+            <uri>https://news.ycombinator.com/user?id=nreece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行的機器學習算法簡述]]></title>
+        <id>https://news.ycombinator.com/item?id=30965367</id>
+        <link href="https://news.ycombinator.com/item?id=30965367"/>
+        <updated>2022-04-09T04:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Popular machine learning algorithms in a nutshell]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們用來製作電子遊戲的工具 // 令人滿意的遊戲開發]]></title>
         <id>https://news.ycombinator.com/item?id=30965453</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>droptablemain</name>
             <uri>https://news.ycombinator.com/user?id=droptablemain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[訪問全球實時海洋預報系統的網絡API]]></title>
-        <id>https://news.ycombinator.com/item?id=30950544</id>
-        <link href="https://news.ycombinator.com/item?id=30950544"/>
-        <updated>2022-04-07T21:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Web API Access to the Global Real-Time Ocean Forecast System]]></summary>
-        <author>
-            <name>DrZootron</name>
-            <uri>https://news.ycombinator.com/user?id=DrZootron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賽博朋克2077》：2022年的重評]]></title>
-        <id>https://news.ycombinator.com/item?id=30950482</id>
-        <link href="https://news.ycombinator.com/item?id=30950482"/>
-        <updated>2022-04-07T21:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Cyberpunk 2077: a 2022 re-review]]></summary>
-        <author>
-            <name>makaimc</name>
-            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
         </author>
     </entry>
 </feed>
