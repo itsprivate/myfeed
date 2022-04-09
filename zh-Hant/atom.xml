@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T19:26:26.400Z</updated>
+    <updated>2022-04-09T19:36:47.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向威廉-夏特納的故事文件提出問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30971138</id>
+        <link href="https://news.ycombinator.com/item?id=30971138"/>
+        <updated>2022-04-09T19:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask William Shatner‘s StoryFile a Question]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果普京沒有誤判呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30971125</id>
+        <link href="https://news.ycombinator.com/item?id=30971125"/>
+        <updated>2022-04-09T19:23:23.000Z</updated>
+        <summary type="html"><![CDATA[What If Putin Didn't Miscalculate?]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯戰爭罪]]></title>
         <id>https://news.ycombinator.com/item?id=30971083</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ramoswriter</name>
             <uri>https://news.ycombinator.com/user?id=ramoswriter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要知道的三個DynamoDB的限制]]></title>
-        <id>https://news.ycombinator.com/item?id=30956091</id>
-        <link href="https://news.ycombinator.com/item?id=30956091"/>
-        <updated>2022-04-08T12:34:49.000Z</updated>
-        <summary type="html"><![CDATA[The Three DynamoDB Limits You Need to Know]]></summary>
-        <author>
-            <name>jack335</name>
-            <uri>https://news.ycombinator.com/user?id=jack335</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏捷和軟件的長期危機]]></title>
-        <id>https://news.ycombinator.com/item?id=30956035</id>
-        <link href="https://news.ycombinator.com/item?id=30956035"/>
-        <updated>2022-04-08T12:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Agile and the Long Crisis of Software]]></summary>
-        <author>
-            <name>chobeat</name>
-            <uri>https://news.ycombinator.com/user?id=chobeat</uri>
         </author>
     </entry>
 </feed>
