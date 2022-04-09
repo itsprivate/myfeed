@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T23:12:00.254Z</updated>
+    <updated>2022-04-09T23:31:33.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉客戶等待Model X退款已超過2年]]></title>
+        <id>https://news.ycombinator.com/item?id=30972970</id>
+        <link href="https://news.ycombinator.com/item?id=30972970"/>
+        <updated>2022-04-09T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Tesla customer has been waiting more than 2 years for a Model X refund]]></summary>
+        <author>
+            <name>gscott</name>
+            <uri>https://news.ycombinator.com/user?id=gscott</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發現 "YHWH "這個名字的最古老的考古現象]]></title>
         <id>https://news.ycombinator.com/item?id=30972995</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alizimmer</name>
             <uri>https://news.ycombinator.com/user?id=alizimmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟擾亂俄羅斯網絡攻擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30957356</id>
-        <link href="https://news.ycombinator.com/item?id=30957356"/>
-        <updated>2022-04-08T14:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Disrupting Russian Cyberattacks]]></summary>
-        <author>
-            <name>cactusmatt</name>
-            <uri>https://news.ycombinator.com/user?id=cactusmatt</uri>
         </author>
     </entry>
 </feed>
