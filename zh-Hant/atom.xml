@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T10:35:28.619Z</updated>
+    <updated>2022-04-09T10:45:19.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 4.7測試版]]></title>
+        <id>https://news.ycombinator.com/item?id=30966512</id>
+        <link href="https://news.ycombinator.com/item?id=30966512"/>
+        <updated>2022-04-09T09:34:51.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript 4.7 Beta]]></summary>
+        <author>
+            <name>blucell</name>
+            <uri>https://news.ycombinator.com/user?id=blucell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Readme.md文件的Twitter按鈕]]></title>
         <id>https://news.ycombinator.com/item?id=30966658</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>CharlesW</name>
             <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該閱讀計算機科學學術論文]]></title>
-        <id>https://news.ycombinator.com/item?id=30951889</id>
-        <link href="https://news.ycombinator.com/item?id=30951889"/>
-        <updated>2022-04-08T00:14:55.000Z</updated>
-        <summary type="html"><![CDATA[You should be reading academic computer science papers]]></summary>
-        <author>
-            <name>happy-go-lucky</name>
-            <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
         </author>
     </entry>
 </feed>

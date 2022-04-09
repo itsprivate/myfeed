@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 09 Apr 2022 10:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 10:45:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TypeScript 4.7测试版]]></title>
+            <link>https://news.ycombinator.com/item?id=30966512</link>
+            <guid>https://news.ycombinator.com/item?id=30966512</guid>
+            <pubDate>Sat, 09 Apr 2022 09:34:51 GMT</pubDate>
+            <description><![CDATA[TypeScript 4.7 Beta]]></description>
+        </item>
         <item>
             <title><![CDATA[Readme.md文件的Twitter按钮]]></title>
             <link>https://news.ycombinator.com/item?id=30966658</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30951908</guid>
             <pubDate>Fri, 08 Apr 2022 00:17:44 GMT</pubDate>
             <description><![CDATA[Serverless Functions are now available on DigitalOcean]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你应该阅读计算机科学学术论文]]></title>
-            <link>https://news.ycombinator.com/item?id=30951889</link>
-            <guid>https://news.ycombinator.com/item?id=30951889</guid>
-            <pubDate>Fri, 08 Apr 2022 00:14:55 GMT</pubDate>
-            <description><![CDATA[You should be reading academic computer science papers]]></description>
         </item>
     </channel>
 </rss>
