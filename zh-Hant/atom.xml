@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T07:51:28.773Z</updated>
+    <updated>2022-04-09T08:16:17.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於Windows資源管理器的3D模型文件縮略圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30966099</id>
+        <link href="https://news.ycombinator.com/item?id=30966099"/>
+        <updated>2022-04-09T08:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3D model file thumbnails for Windows Explorer]]></summary>
+        <author>
+            <name>eyhn</name>
+            <uri>https://news.ycombinator.com/user?id=eyhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS裸體日]]></title>
+        <id>https://news.ycombinator.com/item?id=30965866</id>
+        <link href="https://news.ycombinator.com/item?id=30965866"/>
+        <updated>2022-04-09T07:16:34.000Z</updated>
+        <summary type="html"><![CDATA[CSS Naked Day]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC製造商稱AMD Threadripper CPU供應嚴重不足]]></title>
+        <id>https://news.ycombinator.com/item?id=30965751</id>
+        <link href="https://news.ycombinator.com/item?id=30965751"/>
+        <updated>2022-04-09T06:45:09.000Z</updated>
+        <summary type="html"><![CDATA[AMD Threadripper CPU supply severely low, PC makers say]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國有史以來最大的魚龍在拉特蘭水域被發現]]></title>
         <id>https://news.ycombinator.com/item?id=30965935</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rbekker87</name>
             <uri>https://news.ycombinator.com/user?id=rbekker87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeArmor增加對SELinux的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30951198</id>
-        <link href="https://news.ycombinator.com/item?id=30951198"/>
-        <updated>2022-04-07T22:42:32.000Z</updated>
-        <summary type="html"><![CDATA[KubeArmor Adds Support for SELinux]]></summary>
-        <author>
-            <name>azifali</name>
-            <uri>https://news.ycombinator.com/user?id=azifali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E，能在你的命令下繪製任何東西的人工智能]]></title>
-        <id>https://news.ycombinator.com/item?id=30951113</id>
-        <link href="https://news.ycombinator.com/item?id=30951113"/>
-        <updated>2022-04-07T22:31:51.000Z</updated>
-        <summary type="html"><![CDATA[DALL-E, the A.I. That Draws Anything at Your Command]]></summary>
-        <author>
-            <name>d4ft</name>
-            <uri>https://news.ycombinator.com/user?id=d4ft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Twitch API和Postman建立一個Slack機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30951064</id>
-        <link href="https://news.ycombinator.com/item?id=30951064"/>
-        <updated>2022-04-07T22:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Building a Slack Bot with the Twitch API and Postman]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
