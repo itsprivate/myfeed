@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T10:45:19.257Z</updated>
+    <updated>2022-04-09T11:11:11.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用ELisp作為HTML模板引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30966896</id>
+        <link href="https://news.ycombinator.com/item?id=30966896"/>
+        <updated>2022-04-09T10:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Using ELisp as an HTML templating engine]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地精42--胡言亂語的繼續]]></title>
+        <id>https://news.ycombinator.com/item?id=30966664</id>
+        <link href="https://news.ycombinator.com/item?id=30966664"/>
+        <updated>2022-04-09T10:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Gnome 42 – The Nonsense Continues]]></summary>
+        <author>
+            <name>fulalas</name>
+            <uri>https://news.ycombinator.com/user?id=fulalas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 4.7測試版]]></title>
         <id>https://news.ycombinator.com/item?id=30966512</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國法院恢復拜登聯邦僱員的科維德疫苗任務]]></title>
-        <id>https://news.ycombinator.com/item?id=30951914</id>
-        <link href="https://news.ycombinator.com/item?id=30951914"/>
-        <updated>2022-04-08T00:18:07.000Z</updated>
-        <summary type="html"><![CDATA[U.S. court reinstates Biden federal employee Covid vaccine mandate]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無服務器功能現在可以在DigitalOcean上使用。]]></title>
-        <id>https://news.ycombinator.com/item?id=30951908</id>
-        <link href="https://news.ycombinator.com/item?id=30951908"/>
-        <updated>2022-04-08T00:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Serverless Functions are now available on DigitalOcean]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
         </author>
     </entry>
 </feed>
