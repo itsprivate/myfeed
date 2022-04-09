@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T13:37:39.838Z</updated>
+    <updated>2022-04-09T13:51:45.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国的医生们一直在处决犯人，用他们的心脏进行移植。]]></title>
+        <id>https://news.ycombinator.com/item?id=30967955</id>
+        <link href="https://news.ycombinator.com/item?id=30967955"/>
+        <updated>2022-04-09T13:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Doctors in China been executing prisoners, using their hearts 4 transplantation]]></summary>
+        <author>
+            <name>komuW</name>
+            <uri>https://news.ycombinator.com/user?id=komuW</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在机器学习领域工作3年的心得体会]]></title>
+        <id>https://news.ycombinator.com/item?id=30967908</id>
+        <link href="https://news.ycombinator.com/item?id=30967908"/>
+        <updated>2022-04-09T13:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Takeaways from 3 Years Working in Machine Learning]]></summary>
+        <author>
+            <name>CapitalistCartr</name>
+            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霍普金斯大学和乔治敦大学面临Covid的爆发]]></title>
+        <id>https://news.ycombinator.com/item?id=30967901</id>
+        <link href="https://news.ycombinator.com/item?id=30967901"/>
+        <updated>2022-04-09T13:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Hopkins, Georgetown face Covid outbreaks]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[核电是绿色的吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30967815</id>
+        <link href="https://news.ycombinator.com/item?id=30967815"/>
+        <updated>2022-04-09T13:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Is Nuclear Power Green?]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让大公司害怕的参议院法案]]></title>
         <id>https://news.ycombinator.com/item?id=30967824</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉计划明年生产V1 Optimus、Cybertruck、Roadster和Semi]]></title>
-        <id>https://news.ycombinator.com/item?id=30952860</id>
-        <link href="https://news.ycombinator.com/item?id=30952860"/>
-        <updated>2022-04-08T02:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Tesla plans to produce V1 Optimus, the Cybertruck, Roadster, and Semi next year]]></summary>
-        <author>
-            <name>csmeder</name>
-            <uri>https://news.ycombinator.com/user?id=csmeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学课程争论不休，斯坦福和加州大学教授提出指责]]></title>
-        <id>https://news.ycombinator.com/item?id=30952821</id>
-        <link href="https://news.ycombinator.com/item?id=30952821"/>
-        <updated>2022-04-08T02:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Stanford and Cal profs level accusations as debate over math curriculum rages]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解铃还须系铃人。功能性编程语言的噩梦成真 (1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=30952760</id>
-        <link href="https://news.ycombinator.com/item?id=30952760"/>
-        <updated>2022-04-08T02:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Unlambda: Functional Programming Language Nightmares Come True (1999)]]></summary>
-        <author>
-            <name>anyfoo</name>
-            <uri>https://news.ycombinator.com/user?id=anyfoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彼得-蒂尔称 "金融老龄化 "阻碍了比特币发展]]></title>
-        <id>https://news.ycombinator.com/item?id=30952757</id>
-        <link href="https://news.ycombinator.com/item?id=30952757"/>
-        <updated>2022-04-08T02:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Peter Thiel claims ‘finance gerontocracy’ is holding back Bitcoin]]></summary>
-        <author>
-            <name>cato_the_elder</name>
-            <uri>https://news.ycombinator.com/user?id=cato_the_elder</uri>
         </author>
     </entry>
 </feed>
