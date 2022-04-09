@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T03:27:46.451Z</updated>
+    <updated>2022-04-09T03:48:11.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[計算機網絡的數學基礎]]></title>
+        <id>https://news.ycombinator.com/item?id=30964707</id>
+        <link href="https://news.ycombinator.com/item?id=30964707"/>
+        <updated>2022-04-09T02:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Mathematical Foundations of Computer Networking]]></summary>
+        <author>
+            <name>rramadass</name>
+            <uri>https://news.ycombinator.com/user?id=rramadass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[設計一個面向開發者體驗的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30963948</id>
+        <link href="https://news.ycombinator.com/item?id=30963948"/>
+        <updated>2022-04-09T00:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Designing a developer experience oriented API]]></summary>
+        <author>
+            <name>ajuhasz</name>
+            <uri>https://news.ycombinator.com/user?id=ajuhasz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解決人類神經科學方法中的種族和表型偏見問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30963795</id>
+        <link href="https://news.ycombinator.com/item?id=30963795"/>
+        <updated>2022-04-08T23:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Addressing racial and phenotypic bias in human neuroscience methods]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解讀英國驅魔手冊]]></title>
         <id>https://news.ycombinator.com/item?id=30964949</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nemoniac</name>
             <uri>https://news.ycombinator.com/user?id=nemoniac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在臨床前研究中使用超聲波成功治療糖尿病]]></title>
-        <id>https://news.ycombinator.com/item?id=30950159</id>
-        <link href="https://news.ycombinator.com/item?id=30950159"/>
-        <updated>2022-04-07T20:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Diabetes successfully treated using ultrasound in preclinical study]]></summary>
-        <author>
-            <name>sowbug</name>
-            <uri>https://news.ycombinator.com/user?id=sowbug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國慈善機構正在尋找經營南極洲郵局的團隊]]></title>
-        <id>https://news.ycombinator.com/item?id=30950139</id>
-        <link href="https://news.ycombinator.com/item?id=30950139"/>
-        <updated>2022-04-07T20:47:03.000Z</updated>
-        <summary type="html"><![CDATA[British charity hunts for team to run Antarctica post office]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一場跳傘事故如何幫助增強現實技術的早期發展]]></title>
-        <id>https://news.ycombinator.com/item?id=30950125</id>
-        <link href="https://news.ycombinator.com/item?id=30950125"/>
-        <updated>2022-04-07T20:46:00.000Z</updated>
-        <summary type="html"><![CDATA[How a Parachute Accident Helped the Early Development of Augmented Reality]]></summary>
-        <author>
-            <name>bonkerbits</name>
-            <uri>https://news.ycombinator.com/user?id=bonkerbits</uri>
         </author>
     </entry>
 </feed>
