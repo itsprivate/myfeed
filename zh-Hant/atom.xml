@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T23:40:39.962Z</updated>
+    <updated>2022-04-09T23:51:16.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["Twitter正在消亡嗎？"]]></title>
+        <id>https://news.ycombinator.com/item?id=30973239</id>
+        <link href="https://news.ycombinator.com/item?id=30973239"/>
+        <updated>2022-04-09T23:47:26.000Z</updated>
+        <summary type="html"><![CDATA[“Is Twitter Dying?”]]></summary>
+        <author>
+            <name>dmitryminkovsky</name>
+            <uri>https://news.ycombinator.com/user?id=dmitryminkovsky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球電纜/數據中心地圖(WebGL)]]></title>
+        <id>https://news.ycombinator.com/item?id=30973065</id>
+        <link href="https://news.ycombinator.com/item?id=30973065"/>
+        <updated>2022-04-09T23:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Global Cable/Datacenter Map(WebGL)]]></summary>
+        <author>
+            <name>WorldPeas</name>
+            <uri>https://news.ycombinator.com/user?id=WorldPeas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名穆斯林新兵的死亡如何揭示了海軍陸戰隊的殘暴文化]]></title>
+        <id>https://news.ycombinator.com/item?id=30972596</id>
+        <link href="https://news.ycombinator.com/item?id=30972596"/>
+        <updated>2022-04-09T22:07:36.000Z</updated>
+        <summary type="html"><![CDATA[How the Death of a Muslim Recruit Revealed a Culture of Brutality in the Marines]]></summary>
+        <author>
+            <name>omarfarooq</name>
+            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動物穿越：世界上最大的野生動物橋來到加州公路上]]></title>
+        <id>https://news.ycombinator.com/item?id=30972354</id>
+        <link href="https://news.ycombinator.com/item?id=30972354"/>
+        <updated>2022-04-09T21:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Animal crossing: world’s biggest wildlife bridge comes to California highway]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鮑里斯-約翰遜暗訪基輔時會見沃洛基米爾-澤倫斯基]]></title>
         <id>https://news.ycombinator.com/item?id=30973138</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mjul</name>
             <uri>https://news.ycombinator.com/user?id=mjul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反對GraphQL的案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30956786</id>
-        <link href="https://news.ycombinator.com/item?id=30956786"/>
-        <updated>2022-04-08T13:55:21.000Z</updated>
-        <summary type="html"><![CDATA[The Case Against GraphQL]]></summary>
-        <author>
-            <name>tantaman</name>
-            <uri>https://news.ycombinator.com/user?id=tantaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止使用JSON網絡令牌進行認證。使用有狀態的會話代替]]></title>
-        <id>https://news.ycombinator.com/item?id=30957609</id>
-        <link href="https://news.ycombinator.com/item?id=30957609"/>
-        <updated>2022-04-08T14:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Stop Using JSON Web Tokens for Authentication. Use Stateful Sessions Instead]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD的未來CPU可能具有3D堆疊的ML加速器]]></title>
-        <id>https://news.ycombinator.com/item?id=30957473</id>
-        <link href="https://news.ycombinator.com/item?id=30957473"/>
-        <updated>2022-04-08T14:42:48.000Z</updated>
-        <summary type="html"><![CDATA[AMD's Future CPUs Could Feature a 3D-Stacked ML Accelerator]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯受制裁組織的認證機構]]></title>
-        <id>https://news.ycombinator.com/item?id=30957447</id>
-        <link href="https://news.ycombinator.com/item?id=30957447"/>
-        <updated>2022-04-08T14:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s certificate authority for sanctioned organizations]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
