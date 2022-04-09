@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T05:37:25.448Z</updated>
+    <updated>2022-04-09T05:51:28.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勒庞的*人群*和社交媒体的（错误）行为]]></title>
+        <id>https://news.ycombinator.com/item?id=30965468</id>
+        <link href="https://news.ycombinator.com/item?id=30965468"/>
+        <updated>2022-04-09T05:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Le Bon's *the Crowd* and Social Media (Mis-)Behavior]]></summary>
+        <author>
+            <name>giardini</name>
+            <uri>https://news.ycombinator.com/user?id=giardini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自设谷歌字体]]></title>
         <id>https://news.ycombinator.com/item?id=30965439</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>type0</name>
             <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNN+的推出可能会有一个颠簸的开始]]></title>
-        <id>https://news.ycombinator.com/item?id=30950669</id>
-        <link href="https://news.ycombinator.com/item?id=30950669"/>
-        <updated>2022-04-07T21:40:37.000Z</updated>
-        <summary type="html"><![CDATA[CNN+ launch may be off to a bumpy start]]></summary>
-        <author>
-            <name>droptablemain</name>
-            <uri>https://news.ycombinator.com/user?id=droptablemain</uri>
         </author>
     </entry>
 </feed>
