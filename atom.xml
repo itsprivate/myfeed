@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T09:12:28.891Z</updated>
+    <updated>2022-04-09T09:31:28.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1998年《小偷》的3D软件渲染技术。黑暗计划 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30966251</id>
+        <link href="https://news.ycombinator.com/item?id=30966251"/>
+        <updated>2022-04-09T08:36:31.000Z</updated>
+        <summary type="html"><![CDATA[3D Software Rendering Technology of 1998's Thief: The Dark Project (2011)]]></summary>
+        <author>
+            <name>wooosh</name>
+            <uri>https://news.ycombinator.com/user?id=wooosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芬兰的北约申请可能迫在眉睫]]></title>
         <id>https://news.ycombinator.com/item?id=30966262</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kogir</name>
             <uri>https://news.ycombinator.com/user?id=kogir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[噪声地图]]></title>
-        <id>https://news.ycombinator.com/item?id=30951623</id>
-        <link href="https://news.ycombinator.com/item?id=30951623"/>
-        <updated>2022-04-07T23:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Noise Map]]></summary>
-        <author>
-            <name>lbrito</name>
-            <uri>https://news.ycombinator.com/user?id=lbrito</uri>
         </author>
     </entry>
 </feed>
