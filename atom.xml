@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T18:13:18.517Z</updated>
+    <updated>2022-04-09T18:37:14.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逆向工程：LM185电压基准芯片及其带隙基准]]></title>
+        <id>https://news.ycombinator.com/item?id=30970599</id>
+        <link href="https://news.ycombinator.com/item?id=30970599"/>
+        <updated>2022-04-09T18:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Reverse-engineering the LM185 voltage reference chip and its bandgap reference]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails上的红宝石学说（2016年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30970339</id>
+        <link href="https://news.ycombinator.com/item?id=30970339"/>
+        <updated>2022-04-09T17:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Ruby on Rails Doctrine (2016)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS订阅支持永远消失了？]]></title>
+        <id>https://news.ycombinator.com/item?id=30970246</id>
+        <link href="https://news.ycombinator.com/item?id=30970246"/>
+        <updated>2022-04-09T17:50:40.000Z</updated>
+        <summary type="html"><![CDATA[RSS feed support gone for good?]]></summary>
+        <author>
+            <name>marojejian</name>
+            <uri>https://news.ycombinator.com/user?id=marojejian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锁定信号]]></title>
+        <id>https://news.ycombinator.com/item?id=30970025</id>
+        <link href="https://news.ycombinator.com/item?id=30970025"/>
+        <updated>2022-04-09T17:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Locking Down Signal]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Pi Pico。这个被混淆的代码(?)在其启动ROM中做什么(l.442)]]></title>
         <id>https://news.ycombinator.com/item?id=30970274</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Pamar</name>
             <uri>https://news.ycombinator.com/user?id=Pamar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton和SimpleLogin正在联手]]></title>
-        <id>https://news.ycombinator.com/item?id=30955407</id>
-        <link href="https://news.ycombinator.com/item?id=30955407"/>
-        <updated>2022-04-08T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Proton and SimpleLogin are joining forces]]></summary>
-        <author>
-            <name>daniel-alex</name>
-            <uri>https://news.ycombinator.com/user?id=daniel-alex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于犯罪猖獗，Kraken关闭了其旧金山办事处]]></title>
-        <id>https://news.ycombinator.com/item?id=30955248</id>
-        <link href="https://news.ycombinator.com/item?id=30955248"/>
-        <updated>2022-04-08T10:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Kraken Closes Its San Francisco Office Due to Rampant Crime]]></summary>
-        <author>
-            <name>say_it_as_it_is</name>
-            <uri>https://news.ycombinator.com/user?id=say_it_as_it_is</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构造3]]></title>
-        <id>https://news.ycombinator.com/item?id=30954941</id>
-        <link href="https://news.ycombinator.com/item?id=30954941"/>
-        <updated>2022-04-08T09:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Construct 3]]></summary>
-        <author>
-            <name>AshleysBrain</name>
-            <uri>https://news.ycombinator.com/user?id=AshleysBrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用零知识证明的私人分类]]></title>
-        <id>https://news.ycombinator.com/item?id=30954626</id>
-        <link href="https://news.ycombinator.com/item?id=30954626"/>
-        <updated>2022-04-08T08:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Private Classification using Zero-Knowledge Proofs]]></summary>
-        <author>
-            <name>kingant</name>
-            <uri>https://news.ycombinator.com/user?id=kingant</uri>
         </author>
     </entry>
 </feed>
