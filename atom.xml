@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T08:16:17.079Z</updated>
+    <updated>2022-04-09T08:36:44.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本周的KDE：一场视觉盛宴]]></title>
+        <id>https://news.ycombinator.com/item?id=30966171</id>
+        <link href="https://news.ycombinator.com/item?id=30966171"/>
+        <updated>2022-04-09T08:20:21.000Z</updated>
+        <summary type="html"><![CDATA[This week in KDE: a feast for the eyes]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Kopper和Zink很重要？ 也就是OpenGL的未来]]></title>
+        <id>https://news.ycombinator.com/item?id=30966105</id>
+        <link href="https://news.ycombinator.com/item?id=30966105"/>
+        <updated>2022-04-09T08:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Why is Kopper and Zink important? a.k.a. the future of OpenGL]]></summary>
+        <author>
+            <name>sph</name>
+            <uri>https://news.ycombinator.com/user?id=sph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一名男子在Craigslist网站上购买了一艘游船]]></title>
+        <id>https://news.ycombinator.com/item?id=30965901</id>
+        <link href="https://news.ycombinator.com/item?id=30965901"/>
+        <updated>2022-04-09T07:23:43.000Z</updated>
+        <summary type="html"><![CDATA[A man bought a cruise ship on Craigslist]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锤子PDF。用于科学论文的智能PDF阅读器]]></title>
+        <id>https://news.ycombinator.com/item?id=30965670</id>
+        <link href="https://news.ycombinator.com/item?id=30965670"/>
+        <updated>2022-04-09T06:23:47.000Z</updated>
+        <summary type="html"><![CDATA[Hammer PDF: An Intelligent PDF Reader for Scientific Papers]]></summary>
+        <author>
+            <name>Hard_Space</name>
+            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Q-Learning的贝叶斯观点]]></title>
+        <id>https://news.ycombinator.com/item?id=30965619</id>
+        <link href="https://news.ycombinator.com/item?id=30965619"/>
+        <updated>2022-04-09T06:10:35.000Z</updated>
+        <summary type="html"><![CDATA[A Bayesian Perspective on Q-Learning]]></summary>
+        <author>
+            <name>agmand</name>
+            <uri>https://news.ycombinator.com/user?id=agmand</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xor互换技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30965550</id>
+        <link href="https://news.ycombinator.com/item?id=30965550"/>
+        <updated>2022-04-09T05:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Xor Swap Trick]]></summary>
+        <author>
+            <name>sillysaurusx</name>
+            <uri>https://news.ycombinator.com/user?id=sillysaurusx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个连环杀手专家的解读]]></title>
+        <id>https://news.ycombinator.com/item?id=30965459</id>
+        <link href="https://news.ycombinator.com/item?id=30965459"/>
+        <updated>2022-04-09T05:23:19.000Z</updated>
+        <summary type="html"><![CDATA[The Unravelling of an Expert on Serial Killers]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[也许密码就是未来]]></title>
+        <id>https://news.ycombinator.com/item?id=30965342</id>
+        <link href="https://news.ycombinator.com/item?id=30965342"/>
+        <updated>2022-04-09T04:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Maybe Passwords Are the Future]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Windows资源管理器的3D模型文件缩略图]]></title>
         <id>https://news.ycombinator.com/item?id=30966099</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>riidom</name>
             <uri>https://news.ycombinator.com/user?id=riidom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calamares]]></title>
-        <id>https://news.ycombinator.com/item?id=30951387</id>
-        <link href="https://news.ycombinator.com/item?id=30951387"/>
-        <updated>2022-04-07T23:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Calamares]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半岛电视台 - "被黑客攻击。中美网络战争的内幕》（25分钟）]]></title>
-        <id>https://news.ycombinator.com/item?id=30951366</id>
-        <link href="https://news.ycombinator.com/item?id=30951366"/>
-        <updated>2022-04-07T23:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Al-Jazeera – “Hacked: Inside the US-China Cyberwar” (25 Min)]]></summary>
-        <author>
-            <name>jonatron</name>
-            <uri>https://news.ycombinator.com/user?id=jonatron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly操作码]]></title>
-        <id>https://news.ycombinator.com/item?id=30951107</id>
-        <link href="https://news.ycombinator.com/item?id=30951107"/>
-        <updated>2022-04-07T22:31:23.000Z</updated>
-        <summary type="html"><![CDATA[WebAssembly Opcodes]]></summary>
-        <author>
-            <name>tenebrisalietum</name>
-            <uri>https://news.ycombinator.com/user?id=tenebrisalietum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近1/3的顶级NPM账户没有得到2FA的保护]]></title>
-        <id>https://news.ycombinator.com/item?id=30951352</id>
-        <link href="https://news.ycombinator.com/item?id=30951352"/>
-        <updated>2022-04-07T23:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Almost 1/3 of Top NPM Accounts Aren’t Protected with 2FA]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReadySet，一个SQL缓存引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30951337</id>
-        <link href="https://news.ycombinator.com/item?id=30951337"/>
-        <updated>2022-04-07T22:59:22.000Z</updated>
-        <summary type="html"><![CDATA[ReadySet, a SQL Caching Engine]]></summary>
-        <author>
-            <name>codetrotter</name>
-            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["我相信，即使在技术进步的同时，CGI也在变得越来越差。"]]></title>
-        <id>https://news.ycombinator.com/item?id=30951311</id>
-        <link href="https://news.ycombinator.com/item?id=30951311"/>
-        <updated>2022-04-07T22:57:14.000Z</updated>
-        <summary type="html"><![CDATA[“I believe CGI is getting worse even as the tech advances.”]]></summary>
-        <author>
-            <name>Flatcircle</name>
-            <uri>https://news.ycombinator.com/user?id=Flatcircle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vera Putina]]></title>
-        <id>https://news.ycombinator.com/item?id=30951274</id>
-        <link href="https://news.ycombinator.com/item?id=30951274"/>
-        <updated>2022-04-07T22:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Vera Putina]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Grafana和Prometheus的Docker监控栈]]></title>
-        <id>https://news.ycombinator.com/item?id=30951254</id>
-        <link href="https://news.ycombinator.com/item?id=30951254"/>
-        <updated>2022-04-07T22:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Docker Monitoring Stack with Grafana and Prometheus]]></summary>
-        <author>
-            <name>rbekker87</name>
-            <uri>https://news.ycombinator.com/user?id=rbekker87</uri>
         </author>
     </entry>
 </feed>
