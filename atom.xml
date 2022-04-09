@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T15:13:36.524Z</updated>
+    <updated>2022-04-09T15:35:03.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要找一间公寓]]></title>
+        <id>https://news.ycombinator.com/item?id=30968721</id>
+        <link href="https://news.ycombinator.com/item?id=30968721"/>
+        <updated>2022-04-09T15:13:49.000Z</updated>
+        <summary type="html"><![CDATA[I Need to Find an Apartment]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现恐龙化石 "在小行星撞击的当天被杀死]]></title>
+        <id>https://news.ycombinator.com/item?id=30968628</id>
+        <link href="https://news.ycombinator.com/item?id=30968628"/>
+        <updated>2022-04-09T15:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Scientists find fossil of dinosaur ‘killed on day of asteroid strike’]]></summary>
+        <author>
+            <name>awb</name>
+            <uri>https://news.ycombinator.com/user?id=awb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个在线文本编辑器（寻找反馈）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30968373</id>
+        <link href="https://news.ycombinator.com/item?id=30968373"/>
+        <updated>2022-04-09T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an online text editor (looking for feedback)]]></summary>
+        <author>
+            <name>rahulbstomar</name>
+            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非洲青蛙在5,800英里的旅行后在薄荷袋中被发现]]></title>
+        <id>https://news.ycombinator.com/item?id=30968158</id>
+        <link href="https://news.ycombinator.com/item?id=30968158"/>
+        <updated>2022-04-09T14:03:06.000Z</updated>
+        <summary type="html"><![CDATA[African frog found in bag of mint after 5,800-mile trip]]></summary>
+        <author>
+            <name>woldemariam</name>
+            <uri>https://news.ycombinator.com/user?id=woldemariam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉米-卡特在加拿大核反应堆熔毁后拯救了它]]></title>
         <id>https://news.ycombinator.com/item?id=30968633</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>PotatoNinja</name>
             <uri>https://news.ycombinator.com/user?id=PotatoNinja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
-        <id>https://news.ycombinator.com/item?id=30953744</id>
-        <link href="https://news.ycombinator.com/item?id=30953744"/>
-        <updated>2022-04-08T05:54:05.000Z</updated>
-        <summary type="html"><![CDATA[You may not need Cloudflare Tunnel. Linux is fine]]></summary>
-        <author>
-            <name>mcovalt</name>
-            <uri>https://news.ycombinator.com/user?id=mcovalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粒子实验的惊人结果可能引发物理学革命]]></title>
-        <id>https://news.ycombinator.com/item?id=30953722</id>
-        <link href="https://news.ycombinator.com/item?id=30953722"/>
-        <updated>2022-04-08T05:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Shock result in particle experiment could spark physics revolution]]></summary>
-        <author>
-            <name>larard</name>
-            <uri>https://news.ycombinator.com/user?id=larard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视频扩散模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30953716</id>
-        <link href="https://news.ycombinator.com/item?id=30953716"/>
-        <updated>2022-04-08T05:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Video Diffusion Models]]></summary>
-        <author>
-            <name>hardmaru</name>
-            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字符串表示法不是唯一的：学会规范化]]></title>
-        <id>https://news.ycombinator.com/item?id=30953712</id>
-        <link href="https://news.ycombinator.com/item?id=30953712"/>
-        <updated>2022-04-08T05:48:51.000Z</updated>
-        <summary type="html"><![CDATA[String representations are not unique: learn to normalize]]></summary>
-        <author>
-            <name>adunk</name>
-            <uri>https://news.ycombinator.com/user?id=adunk</uri>
         </author>
     </entry>
 </feed>
