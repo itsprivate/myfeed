@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T03:03:51.749Z</updated>
+    <updated>2022-04-09T03:27:46.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解读英国驱魔手册]]></title>
+        <id>https://news.ycombinator.com/item?id=30964949</id>
+        <link href="https://news.ycombinator.com/item?id=30964949"/>
+        <updated>2022-04-09T03:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Deciphering an English Exorcism Manual]]></summary>
+        <author>
+            <name>drdee</name>
+            <uri>https://news.ycombinator.com/user?id=drdee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彼得-泰尔谈比特币2022]]></title>
+        <id>https://news.ycombinator.com/item?id=30964863</id>
+        <link href="https://news.ycombinator.com/item?id=30964863"/>
+        <updated>2022-04-09T02:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Peter Thiel on Bitcoin 2022]]></summary>
+        <author>
+            <name>artaak</name>
+            <uri>https://news.ycombinator.com/user?id=artaak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐私是一个有趣的游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30964766</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bonkerbits</name>
             <uri>https://news.ycombinator.com/user?id=bonkerbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰尔在2022年比特币大会上抨击戴蒙、巴菲特和芬克是 "金融老龄化"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30950119</id>
-        <link href="https://news.ycombinator.com/item?id=30950119"/>
-        <updated>2022-04-07T20:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Thiel Blasts Dimon, Buffett, and Fink as 'Finance Gerontocracy' at Bitcoin 2022]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何将AWS Lambda的Java冷启动时间减半的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30950094</id>
-        <link href="https://news.ycombinator.com/item?id=30950094"/>
-        <updated>2022-04-07T20:42:36.000Z</updated>
-        <summary type="html"><![CDATA[How I Cut AWS Lambda Java Cold Start Times in Half]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>
