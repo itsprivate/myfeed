@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T07:12:10.996Z</updated>
+    <updated>2022-04-09T07:30:17.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多重計算。理論科學的第四範式]]></title>
+        <id>https://news.ycombinator.com/item?id=30965828</id>
+        <link href="https://news.ycombinator.com/item?id=30965828"/>
+        <updated>2022-04-09T07:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Multicomputation: A Fourth Paradigm for Theoretical Science]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我相信Zig有功能的顏色]]></title>
+        <id>https://news.ycombinator.com/item?id=30965805</id>
+        <link href="https://news.ycombinator.com/item?id=30965805"/>
+        <updated>2022-04-09T07:01:12.000Z</updated>
+        <summary type="html"><![CDATA[I Believe Zig Has Function Colors]]></summary>
+        <author>
+            <name>ghoward</name>
+            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰蓋融化可能不會關閉洋流]]></title>
+        <id>https://news.ycombinator.com/item?id=30965703</id>
+        <link href="https://news.ycombinator.com/item?id=30965703"/>
+        <updated>2022-04-09T06:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Melting ice caps may not shut down ocean current]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德國如何成為普京的幫手]]></title>
         <id>https://news.ycombinator.com/item?id=30965790</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>AntiRush</name>
             <uri>https://news.ycombinator.com/user?id=AntiRush</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顯然，我關於精神分裂症的Substack被貼在了這裡]]></title>
-        <id>https://news.ycombinator.com/item?id=30950971</id>
-        <link href="https://news.ycombinator.com/item?id=30950971"/>
-        <updated>2022-04-07T22:15:07.000Z</updated>
-        <summary type="html"><![CDATA[Apparently my Substack about schizoposting was posted here]]></summary>
-        <author>
-            <name>correancollar</name>
-            <uri>https://news.ycombinator.com/user?id=correancollar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水晶1.4.0版發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30950901</id>
-        <link href="https://news.ycombinator.com/item?id=30950901"/>
-        <updated>2022-04-07T22:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Crystal 1.4.0 Is Released]]></summary>
-        <author>
-            <name>jgillich</name>
-            <uri>https://news.ycombinator.com/user?id=jgillich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書正在開發一款暱稱為 "Zuck "的新產品]]></title>
-        <id>https://news.ycombinator.com/item?id=30950885</id>
-        <link href="https://news.ycombinator.com/item?id=30950885"/>
-        <updated>2022-04-07T22:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Is Working on a New Product Nicknamed 'Zuck']]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>
