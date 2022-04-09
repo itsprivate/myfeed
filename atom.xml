@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-09T06:38:34.420Z</updated>
+    <updated>2022-04-09T06:57:26.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[切尔诺贝利。我们偷了俄罗斯的燃料以防止灾难的发生]]></title>
+        <id>https://news.ycombinator.com/item?id=30965696</id>
+        <link href="https://news.ycombinator.com/item?id=30965696"/>
+        <updated>2022-04-09T06:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Chernobyl: We stole Russian fuel to prevent catastrophe]]></summary>
+        <author>
+            <name>tartoran</name>
+            <uri>https://news.ycombinator.com/user?id=tartoran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酸奶革命]]></title>
+        <id>https://news.ycombinator.com/item?id=30965665</id>
+        <link href="https://news.ycombinator.com/item?id=30965665"/>
+        <updated>2022-04-09T06:23:27.000Z</updated>
+        <summary type="html"><![CDATA[The Yogurt Revolution]]></summary>
+        <author>
+            <name>matthewsinclair</name>
+            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蝶变在开放固件上启动RaspberryPi 2 [视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30965624</id>
+        <link href="https://news.ycombinator.com/item?id=30965624"/>
+        <updated>2022-04-09T06:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Debian booting RaspberryPi 2 on open firmware [video]]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玛格丽特-维斯塔格为保护隐私禁用Twitter的iPhone麦克风]]></title>
+        <id>https://news.ycombinator.com/item?id=30965606</id>
+        <link href="https://news.ycombinator.com/item?id=30965606"/>
+        <updated>2022-04-09T06:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Margrethe Vestager disabled iPhone microphone for Twitter for privacy]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过33%法则的坚韧和生活教训]]></title>
+        <id>https://news.ycombinator.com/item?id=30965446</id>
+        <link href="https://news.ycombinator.com/item?id=30965446"/>
+        <updated>2022-04-09T05:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Tenacity and Life Lessons through the 33% rule]]></summary>
+        <author>
+            <name>Kagerjay</name>
+            <uri>https://news.ycombinator.com/user?id=Kagerjay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[室内气候的演变]]></title>
         <id>https://news.ycombinator.com/item?id=30965649</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯传播错误信息的邪恶的新方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30951117</id>
-        <link href="https://news.ycombinator.com/item?id=30951117"/>
-        <updated>2022-04-07T22:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s Diabolical New Approach to Spreading Misinformation]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musl Libc 1.2.3版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30950808</id>
-        <link href="https://news.ycombinator.com/item?id=30950808"/>
-        <updated>2022-04-07T21:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Musl Libc 1.2.3 Released]]></summary>
-        <author>
-            <name>edelsohn</name>
-            <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要问monorepo是否对你有好处--要问你是否对它有好处(2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30949981</id>
-        <link href="https://news.ycombinator.com/item?id=30949981"/>
-        <updated>2022-04-07T20:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Don't ask if a monorepo is good for you – ask if you're good enough for it(2019)]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机塔的业务]]></title>
-        <id>https://news.ycombinator.com/item?id=30950289</id>
-        <link href="https://news.ycombinator.com/item?id=30950289"/>
-        <updated>2022-04-07T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[The Business of Cell Towers]]></summary>
-        <author>
-            <name>isthispermanent</name>
-            <uri>https://news.ycombinator.com/user?id=isthispermanent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脆弱的开源生态系统还没有准备好应对 "抗议软件"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30949708</id>
-        <link href="https://news.ycombinator.com/item?id=30949708"/>
-        <updated>2022-04-07T20:04:37.000Z</updated>
-        <summary type="html"><![CDATA[The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’]]></summary>
-        <author>
-            <name>Digit-Al</name>
-            <uri>https://news.ycombinator.com/user?id=Digit-Al</uri>
         </author>
     </entry>
 </feed>
