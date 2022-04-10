@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 15:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Ryan Breslow：紅杉如何冷血地謀殺了Instacart的創始人]]></title>
+            <link>https://news.ycombinator.com/item?id=30977865</link>
+            <guid>https://news.ycombinator.com/item?id=30977865</guid>
+            <pubDate>Sun, 10 Apr 2022 15:25:20 GMT</pubDate>
+            <description><![CDATA[Ryan Breslow: How Sequoia Murdered Instacart’s Founder in Cold Blood]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Minipeg - C語言的解析器生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30977858</link>
+            <guid>https://news.ycombinator.com/item?id=30977858</guid>
+            <pubDate>Sun, 10 Apr 2022 15:25:00 GMT</pubDate>
+            <description><![CDATA[Minipeg – Parser Generator for C]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia聲稱Arm Grace CPU超級芯片比英特爾冰湖快2倍]]></title>
+            <link>https://news.ycombinator.com/item?id=30977613</link>
+            <guid>https://news.ycombinator.com/item?id=30977613</guid>
+            <pubDate>Sun, 10 Apr 2022 15:06:40 GMT</pubDate>
+            <description><![CDATA[Nvidia Claims Arm Grace CPU Superchip 2X Faster Than Intel Ice Lake]]></description>
+        </item>
+        <item>
+            <title><![CDATA[道德信號是一種罪惡嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30977081</link>
+            <guid>https://news.ycombinator.com/item?id=30977081</guid>
+            <pubDate>Sun, 10 Apr 2022 14:16:08 GMT</pubDate>
+            <description><![CDATA[Is Virtue Signalling a Vice?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[分享筆記、鏈接和需要驗證才能打開的文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30977067</link>
+            <guid>https://news.ycombinator.com/item?id=30977067</guid>
+            <pubDate>Sun, 10 Apr 2022 14:15:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Share notes, links, and files that require verification to open]]></description>
+        </item>
         <item>
             <title><![CDATA[Plex剛剛殺死了流媒體盒子嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30977489</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30962171</guid>
             <pubDate>Fri, 08 Apr 2022 20:31:09 GMT</pubDate>
             <description><![CDATA[Curse of Monkey Island demo ported to WebAssembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[樹狀數據的編譯框架、模型工具和代碼基因。ASTs/DB計劃/其他IR]]></title>
-            <link>https://news.ycombinator.com/item?id=30962166</link>
-            <guid>https://news.ycombinator.com/item?id=30962166</guid>
-            <pubDate>Fri, 08 Apr 2022 20:30:57 GMT</pubDate>
-            <description><![CDATA[Compiler framework, model tool and codegen for tree data: ASTs/DB plan/other IR]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在AWS上運行一個Ethereum全節點]]></title>
-            <link>https://news.ycombinator.com/item?id=30962148</link>
-            <guid>https://news.ycombinator.com/item?id=30962148</guid>
-            <pubDate>Fri, 08 Apr 2022 20:29:08 GMT</pubDate>
-            <description><![CDATA[How to run an Ethereum full node on AWS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[條款和條件不需要適用]]></title>
-            <link>https://news.ycombinator.com/item?id=30961594</link>
-            <guid>https://news.ycombinator.com/item?id=30961594</guid>
-            <pubDate>Fri, 08 Apr 2022 19:41:59 GMT</pubDate>
-            <description><![CDATA[Terms and Conditions Need Not Apply]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在沒有編碼的情況下創建一個商業應用程序 - Twinr]]></title>
-            <link>https://news.ycombinator.com/item?id=30962057</link>
-            <guid>https://news.ycombinator.com/item?id=30962057</guid>
-            <pubDate>Fri, 08 Apr 2022 20:19:17 GMT</pubDate>
-            <description><![CDATA[How to Create a Business App Without Coding – Twinr]]></description>
-        </item>
-        <item>
-            <title><![CDATA[儘管SpaceX聲稱，美國支付了數百萬美元將Starlink終端發送到烏克蘭]]></title>
-            <link>https://news.ycombinator.com/item?id=30962034</link>
-            <guid>https://news.ycombinator.com/item?id=30962034</guid>
-            <pubDate>Fri, 08 Apr 2022 20:17:18 GMT</pubDate>
-            <description><![CDATA[US paying millions to send Starlink terminals to Ukraine, despite SpaceX claims]]></description>
         </item>
     </channel>
 </rss>

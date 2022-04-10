@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T15:14:41.187Z</updated>
+    <updated>2022-04-10T15:35:08.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ryan Breslow：红杉如何冷血地谋杀了Instacart的创始人]]></title>
+        <id>https://news.ycombinator.com/item?id=30977865</id>
+        <link href="https://news.ycombinator.com/item?id=30977865"/>
+        <updated>2022-04-10T15:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Ryan Breslow: How Sequoia Murdered Instacart’s Founder in Cold Blood]]></summary>
+        <author>
+            <name>melony</name>
+            <uri>https://news.ycombinator.com/user?id=melony</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minipeg - C语言的解析器生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30977858</id>
+        <link href="https://news.ycombinator.com/item?id=30977858"/>
+        <updated>2022-04-10T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Minipeg – Parser Generator for C]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia声称Arm Grace CPU超级芯片比英特尔冰湖快2倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30977613</id>
+        <link href="https://news.ycombinator.com/item?id=30977613"/>
+        <updated>2022-04-10T15:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Claims Arm Grace CPU Superchip 2X Faster Than Intel Ice Lake]]></summary>
+        <author>
+            <name>ItsTotallyOn</name>
+            <uri>https://news.ycombinator.com/user?id=ItsTotallyOn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道德信号是一种罪恶吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30977081</id>
+        <link href="https://news.ycombinator.com/item?id=30977081"/>
+        <updated>2022-04-10T14:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Is Virtue Signalling a Vice?]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享笔记、链接和需要验证才能打开的文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30977067</id>
+        <link href="https://news.ycombinator.com/item?id=30977067"/>
+        <updated>2022-04-10T14:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Share notes, links, and files that require verification to open]]></summary>
+        <author>
+            <name>hardwaresofton</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plex刚刚杀死了流媒体盒子吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30977489</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>astlouis44</name>
             <uri>https://news.ycombinator.com/user?id=astlouis44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树状数据的编译框架、模型工具和代码基因。ASTs/DB计划/其他IR]]></title>
-        <id>https://news.ycombinator.com/item?id=30962166</id>
-        <link href="https://news.ycombinator.com/item?id=30962166"/>
-        <updated>2022-04-08T20:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Compiler framework, model tool and codegen for tree data: ASTs/DB plan/other IR]]></summary>
-        <author>
-            <name>gavinray</name>
-            <uri>https://news.ycombinator.com/user?id=gavinray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在AWS上运行一个Ethereum全节点]]></title>
-        <id>https://news.ycombinator.com/item?id=30962148</id>
-        <link href="https://news.ycombinator.com/item?id=30962148"/>
-        <updated>2022-04-08T20:29:08.000Z</updated>
-        <summary type="html"><![CDATA[How to run an Ethereum full node on AWS]]></summary>
-        <author>
-            <name>amirGi</name>
-            <uri>https://news.ycombinator.com/user?id=amirGi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[条款和条件不需要适用]]></title>
-        <id>https://news.ycombinator.com/item?id=30961594</id>
-        <link href="https://news.ycombinator.com/item?id=30961594"/>
-        <updated>2022-04-08T19:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Terms and Conditions Need Not Apply]]></summary>
-        <author>
-            <name>leotravis10</name>
-            <uri>https://news.ycombinator.com/user?id=leotravis10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在没有编码的情况下创建一个商业应用程序 - Twinr]]></title>
-        <id>https://news.ycombinator.com/item?id=30962057</id>
-        <link href="https://news.ycombinator.com/item?id=30962057"/>
-        <updated>2022-04-08T20:19:17.000Z</updated>
-        <summary type="html"><![CDATA[How to Create a Business App Without Coding – Twinr]]></summary>
-        <author>
-            <name>gaurav185</name>
-            <uri>https://news.ycombinator.com/user?id=gaurav185</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尽管SpaceX声称，美国支付了数百万美元将Starlink终端发送到乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30962034</id>
-        <link href="https://news.ycombinator.com/item?id=30962034"/>
-        <updated>2022-04-08T20:17:18.000Z</updated>
-        <summary type="html"><![CDATA[US paying millions to send Starlink terminals to Ukraine, despite SpaceX claims]]></summary>
-        <author>
-            <name>heavyset_go</name>
-            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
         </author>
     </entry>
 </feed>
