@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T18:38:48.450Z</updated>
+    <updated>2022-04-10T18:56:09.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[锈蚀的例子]]></title>
+        <id>https://news.ycombinator.com/item?id=30980285</id>
+        <link href="https://news.ycombinator.com/item?id=30980285"/>
+        <updated>2022-04-10T18:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Rust by Example]]></summary>
+        <author>
+            <name>notmuffin</name>
+            <uri>https://news.ycombinator.com/user?id=notmuffin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[包流机。用于云原生平台的分布式数据包捕获]]></title>
+        <id>https://news.ycombinator.com/item?id=30980194</id>
+        <link href="https://news.ycombinator.com/item?id=30980194"/>
+        <updated>2022-04-10T18:34:20.000Z</updated>
+        <summary type="html"><![CDATA[PacketStreamer: Distributed packet capture for cloud-native platforms]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据科学课程的可重复性和可信赖的工作流程]]></title>
+        <id>https://news.ycombinator.com/item?id=30980075</id>
+        <link href="https://news.ycombinator.com/item?id=30980075"/>
+        <updated>2022-04-10T18:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Reproducible and trustworthy workflows for data science course]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛普拉斯录音机，通过电子邮件测试适应用户界面的变化]]></title>
+        <id>https://news.ycombinator.com/item?id=30980017</id>
+        <link href="https://news.ycombinator.com/item?id=30980017"/>
+        <updated>2022-04-10T18:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cypress Recorder that adapts to UI changes with Email testing]]></summary>
+        <author>
+            <name>mesadb</name>
+            <uri>https://news.ycombinator.com/user?id=mesadb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主要出版商退出后，俄罗斯学术界的唯一选择是Sci-Hub。]]></title>
+        <id>https://news.ycombinator.com/item?id=30980005</id>
+        <link href="https://news.ycombinator.com/item?id=30980005"/>
+        <updated>2022-04-10T18:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Sci-Hub Only Option for Academics in Russia After Major Publishers Pull Out]]></summary>
+        <author>
+            <name>pessimizer</name>
+            <uri>https://news.ycombinator.com/user?id=pessimizer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个YT系列，关于DALL-E对创意的未来可能意味着什么]]></title>
+        <id>https://news.ycombinator.com/item?id=30980002</id>
+        <link href="https://news.ycombinator.com/item?id=30980002"/>
+        <updated>2022-04-10T18:20:08.000Z</updated>
+        <summary type="html"><![CDATA[I made a YT series on what DALL-E could mean for the future of creativity]]></summary>
+        <author>
+            <name>bakztfuture</name>
+            <uri>https://news.ycombinator.com/user?id=bakztfuture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司隐藏电子邮件的颂歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30979563</id>
+        <link href="https://news.ycombinator.com/item?id=30979563"/>
+        <updated>2022-04-10T17:42:11.000Z</updated>
+        <summary type="html"><![CDATA[An Ode to Apple’s Hide My Email]]></summary>
+        <author>
+            <name>mlapida</name>
+            <uri>https://news.ycombinator.com/user?id=mlapida</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络社会契约]]></title>
+        <id>https://news.ycombinator.com/item?id=30979540</id>
+        <link href="https://news.ycombinator.com/item?id=30979540"/>
+        <updated>2022-04-10T17:40:49.000Z</updated>
+        <summary type="html"><![CDATA[The Cyber Social Contract]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥巴马。我低估了虚假信息的威胁]]></title>
         <id>https://news.ycombinator.com/item?id=30980042</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>hhs</name>
             <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petoshellcode - 将PE转换为Shellcode]]></title>
-        <id>https://news.ycombinator.com/item?id=30963927</id>
-        <link href="https://news.ycombinator.com/item?id=30963927"/>
-        <updated>2022-04-09T00:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Petoshellcode – Converts PE into a Shellcode]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国为所有 "世界顶级大学 "的应届毕业生提供2-3年的签证。]]></title>
-        <id>https://news.ycombinator.com/item?id=30963886</id>
-        <link href="https://news.ycombinator.com/item?id=30963886"/>
-        <updated>2022-04-08T23:53:11.000Z</updated>
-        <summary type="html"><![CDATA[UK is giving all recent grads of “the world's top universities” a 2-3yr visa]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大数据的终结]]></title>
-        <id>https://news.ycombinator.com/item?id=30963858</id>
-        <link href="https://news.ycombinator.com/item?id=30963858"/>
-        <updated>2022-04-08T23:49:12.000Z</updated>
-        <summary type="html"><![CDATA[The End of Big Data]]></summary>
-        <author>
-            <name>superchink</name>
-            <uri>https://news.ycombinator.com/user?id=superchink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何解决纽约市4点无车的问题（2015）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30963823</id>
-        <link href="https://news.ycombinator.com/item?id=30963823"/>
-        <updated>2022-04-08T23:43:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Fix NYC’s No-Cabs-at-4PM Problem (2015)]]></summary>
-        <author>
-            <name>airstrike</name>
-            <uri>https://news.ycombinator.com/user?id=airstrike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucky: 一个用Crystal编写的网络框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30963745</id>
-        <link href="https://news.ycombinator.com/item?id=30963745"/>
-        <updated>2022-04-08T23:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Lucky: A web framework written in Crystal]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茴香。实用Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=30963628</id>
-        <link href="https://news.ycombinator.com/item?id=30963628"/>
-        <updated>2022-04-08T23:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Fennel: The Practical Lisp]]></summary>
-        <author>
-            <name>mattroelle</name>
-            <uri>https://news.ycombinator.com/user?id=mattroelle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure的直观S表达式编辑（脚本）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30963452</id>
-        <link href="https://news.ycombinator.com/item?id=30963452"/>
-        <updated>2022-04-08T22:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Intuitive S-expressions editing for Clojure(Script)]]></summary>
-        <author>
-            <name>zackoverflow</name>
-            <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报》推出WordleBot工具，对你的策略进行挑剔]]></title>
-        <id>https://news.ycombinator.com/item?id=30964094</id>
-        <link href="https://news.ycombinator.com/item?id=30964094"/>
-        <updated>2022-04-09T00:28:34.000Z</updated>
-        <summary type="html"><![CDATA[New York Times launches WordleBot tool that picks apart your strategy]]></summary>
-        <author>
-            <name>grogu88</name>
-            <uri>https://news.ycombinator.com/user?id=grogu88</uri>
         </author>
     </entry>
 </feed>
