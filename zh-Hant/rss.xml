@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Apr 2022 07:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 07:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阿特拉斯公司的服務仍處於癱瘓狀態，5天了，還在繼續。]]></title>
+            <link>https://news.ycombinator.com/item?id=30975119</link>
+            <guid>https://news.ycombinator.com/item?id=30975119</guid>
+            <pubDate>Sun, 10 Apr 2022 07:32:31 GMT</pubDate>
+            <description><![CDATA[Atlassian services are still down, 5 days and counting]]></description>
+        </item>
         <item>
             <title><![CDATA[在一個反應式應用中同步動畫和定時器]]></title>
             <link>https://news.ycombinator.com/item?id=30975056</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30959898</guid>
             <pubDate>Fri, 08 Apr 2022 17:19:18 GMT</pubDate>
             <description><![CDATA[git pull union]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大辭典期間的換工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30959875</link>
-            <guid>https://news.ycombinator.com/item?id=30959875</guid>
-            <pubDate>Fri, 08 Apr 2022 17:17:38 GMT</pubDate>
-            <description><![CDATA[Changing jobs during the Great Resignation]]></description>
         </item>
     </channel>
 </rss>

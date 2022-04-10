@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T07:38:26.428Z</updated>
+    <updated>2022-04-10T07:51:16.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阿特拉斯公司的服务仍处于瘫痪状态，5天了，还在继续。]]></title>
+        <id>https://news.ycombinator.com/item?id=30975119</id>
+        <link href="https://news.ycombinator.com/item?id=30975119"/>
+        <updated>2022-04-10T07:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Atlassian services are still down, 5 days and counting]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一个反应式应用中同步动画和定时器]]></title>
         <id>https://news.ycombinator.com/item?id=30975056</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>orph</name>
             <uri>https://news.ycombinator.com/user?id=orph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大辞典期间的换工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30959875</id>
-        <link href="https://news.ycombinator.com/item?id=30959875"/>
-        <updated>2022-04-08T17:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Changing jobs during the Great Resignation]]></summary>
-        <author>
-            <name>acconrad</name>
-            <uri>https://news.ycombinator.com/user?id=acconrad</uri>
         </author>
     </entry>
 </feed>
