@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T05:12:50.370Z</updated>
+    <updated>2022-04-10T05:30:11.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有史以來最糟糕的編程語言 - Mark Rendle - NDC Oslo 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=30974667</id>
+        <link href="https://news.ycombinator.com/item?id=30974667"/>
+        <updated>2022-04-10T05:22:22.000Z</updated>
+        <summary type="html"><![CDATA[The Worst Programming Language Ever – Mark Rendle – NDC Oslo 2021]]></summary>
+        <author>
+            <name>dtx1</name>
+            <uri>https://news.ycombinator.com/user?id=dtx1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修復整個《超級馬里奧64》的源代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30974564</id>
+        <link href="https://news.ycombinator.com/item?id=30974564"/>
+        <updated>2022-04-10T04:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Fixing the entire Super Mario 64 source code]]></summary>
+        <author>
+            <name>smaddock</name>
+            <uri>https://news.ycombinator.com/user?id=smaddock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是歐洲美元體系？(2020) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30974598</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chakalakasp</name>
             <uri>https://news.ycombinator.com/user?id=chakalakasp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒體的問題不是內容，而是它對現實的歪曲]]></title>
-        <id>https://news.ycombinator.com/item?id=30959373</id>
-        <link href="https://news.ycombinator.com/item?id=30959373"/>
-        <updated>2022-04-08T16:41:12.000Z</updated>
-        <summary type="html"><![CDATA[The problem with social media is not content but its distortion of reality]]></summary>
-        <author>
-            <name>bonkerbits</name>
-            <uri>https://news.ycombinator.com/user?id=bonkerbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[礪石合成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30959355</id>
-        <link href="https://news.ycombinator.com/item?id=30959355"/>
-        <updated>2022-04-08T16:40:17.000Z</updated>
-        <summary type="html"><![CDATA[The Tonto Synthesizer]]></summary>
-        <author>
-            <name>js2</name>
-            <uri>https://news.ycombinator.com/user?id=js2</uri>
         </author>
     </entry>
 </feed>
