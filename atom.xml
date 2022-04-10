@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T15:53:57.911Z</updated>
+    <updated>2022-04-10T16:15:13.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C++中的声明性GPU管线20]]></title>
+        <id>https://news.ycombinator.com/item?id=30978412</id>
+        <link href="https://news.ycombinator.com/item?id=30978412"/>
+        <updated>2022-04-10T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Declarative GPU Pipelines in C++20]]></summary>
+        <author>
+            <name>jcelerier</name>
+            <uri>https://news.ycombinator.com/user?id=jcelerier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中年认知训练可以改善晚年的平衡能力]]></title>
+        <id>https://news.ycombinator.com/item?id=30978210</id>
+        <link href="https://news.ycombinator.com/item?id=30978210"/>
+        <updated>2022-04-10T15:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Midlife cognitive training could improve balance in later life]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷战时期的核战争游戏：83年的骄傲先知]]></title>
+        <id>https://news.ycombinator.com/item?id=30977852</id>
+        <link href="https://news.ycombinator.com/item?id=30977852"/>
+        <updated>2022-04-10T15:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear Wargaming in the Cold War: Proud Prophet ‘83]]></summary>
+        <author>
+            <name>HillRat</name>
+            <uri>https://news.ycombinator.com/user?id=HillRat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们是否正在见证去美元化的开始？]]></title>
         <id>https://news.ycombinator.com/item?id=30977833</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>luord</name>
             <uri>https://news.ycombinator.com/user?id=luord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你的指南针感到损坏时为你的职业生涯导航]]></title>
-        <id>https://news.ycombinator.com/item?id=30962443</id>
-        <link href="https://news.ycombinator.com/item?id=30962443"/>
-        <updated>2022-04-08T21:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Navigating your career when your compass feels broken]]></summary>
-        <author>
-            <name>amrrs</name>
-            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPU上的大规模矩阵分解]]></title>
-        <id>https://news.ycombinator.com/item?id=30962385</id>
-        <link href="https://news.ycombinator.com/item?id=30962385"/>
-        <updated>2022-04-08T20:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Large-Scale Matrix Factorization on TPUs]]></summary>
-        <author>
-            <name>carlos-menezes</name>
-            <uri>https://news.ycombinator.com/user?id=carlos-menezes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程 "在研究中的价值]]></title>
-        <id>https://news.ycombinator.com/item?id=30962248</id>
-        <link href="https://news.ycombinator.com/item?id=30962248"/>
-        <updated>2022-04-08T20:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Value of “Engineering” in Research]]></summary>
-        <author>
-            <name>belinghy</name>
-            <uri>https://news.ycombinator.com/user?id=belinghy</uri>
         </author>
     </entry>
 </feed>
