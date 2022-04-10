@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T05:37:23.180Z</updated>
+    <updated>2022-04-10T06:14:21.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓俄羅斯石油流向歐洲的後門]]></title>
+        <id>https://news.ycombinator.com/item?id=30974775</id>
+        <link href="https://news.ycombinator.com/item?id=30974775"/>
+        <updated>2022-04-10T06:03:18.000Z</updated>
+        <summary type="html"><![CDATA[The Backdoor That Keeps Russian Oil Flowing into Europe]]></summary>
+        <author>
+            <name>krzyk</name>
+            <uri>https://news.ycombinator.com/user?id=krzyk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於檢測PR中脆弱依賴關係的GitHub官方動作]]></title>
+        <id>https://news.ycombinator.com/item?id=30974298</id>
+        <link href="https://news.ycombinator.com/item?id=30974298"/>
+        <updated>2022-04-10T03:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Official GitHub Action for detecting vulnerable dependencies in PRs]]></summary>
+        <author>
+            <name>myroon5</name>
+            <uri>https://news.ycombinator.com/user?id=myroon5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個免費的、研究級的情報收集工具]]></title>
         <id>https://news.ycombinator.com/item?id=30974594</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fader</name>
             <uri>https://news.ycombinator.com/user?id=fader</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[價格昂貴的沿海市場出現住房放緩的初步跡象]]></title>
-        <id>https://news.ycombinator.com/item?id=30959620</id>
-        <link href="https://news.ycombinator.com/item?id=30959620"/>
-        <updated>2022-04-08T16:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Pricey Coastal Markets Show First Signs of Housing Slowdown]]></summary>
-        <author>
-            <name>williamsmj</name>
-            <uri>https://news.ycombinator.com/user?id=williamsmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擁有FAANG客戶的機構如何保持員工不為FAANG離職？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959552</id>
-        <link href="https://news.ycombinator.com/item?id=30959552"/>
-        <updated>2022-04-08T16:53:42.000Z</updated>
-        <summary type="html"><![CDATA[How do agencies with FAANG clients keep staff from leaving for FAANGs?]]></summary>
-        <author>
-            <name>robertakarobin</name>
-            <uri>https://news.ycombinator.com/user?id=robertakarobin</uri>
         </author>
     </entry>
 </feed>
