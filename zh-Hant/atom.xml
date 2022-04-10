@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T20:33:32.249Z</updated>
+    <updated>2022-04-10T20:42:31.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可能的Nginx/LDAP 0-day RCE]]></title>
+        <id>https://news.ycombinator.com/item?id=30981417</id>
+        <link href="https://news.ycombinator.com/item?id=30981417"/>
+        <updated>2022-04-10T20:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Possible Nginx/LDAP 0-day RCE]]></summary>
+        <author>
+            <name>alexis2b</name>
+            <uri>https://news.ycombinator.com/user?id=alexis2b</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海被封鎖的精英們正在加入尋找雜貨的行列]]></title>
+        <id>https://news.ycombinator.com/item?id=30981407</id>
+        <link href="https://news.ycombinator.com/item?id=30981407"/>
+        <updated>2022-04-10T20:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Shanghai’s Locked-Down Elite Are Joining Hunt for Groceries]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的祖母，城市農夫》（2012）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30981351</id>
+        <link href="https://news.ycombinator.com/item?id=30981351"/>
+        <updated>2022-04-10T20:26:41.000Z</updated>
+        <summary type="html"><![CDATA[My Grandma, the Urban Farmer (2012)]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid正變得越來越具有疫苗功能]]></title>
         <id>https://news.ycombinator.com/item?id=30981325</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sahin</name>
             <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尾部斜線的意想不到的重要性]]></title>
-        <id>https://news.ycombinator.com/item?id=30965200</id>
-        <link href="https://news.ycombinator.com/item?id=30965200"/>
-        <updated>2022-04-09T04:03:31.000Z</updated>
-        <summary type="html"><![CDATA[The Unexpected Importance of the Trailing Slash]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現實生活中的可訪問性：你是否聽到了你的網站？]]></title>
-        <id>https://news.ycombinator.com/item?id=30965032</id>
-        <link href="https://news.ycombinator.com/item?id=30965032"/>
-        <updated>2022-04-09T03:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Real Life Accessibility: Have you HEARD your site?]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子產品跳蚤市場]]></title>
-        <id>https://news.ycombinator.com/item?id=30965183</id>
-        <link href="https://news.ycombinator.com/item?id=30965183"/>
-        <updated>2022-04-09T03:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Electronics Flea Market]]></summary>
-        <author>
-            <name>bittercynic</name>
-            <uri>https://news.ycombinator.com/user?id=bittercynic</uri>
         </author>
     </entry>
 </feed>
