@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T19:37:01.068Z</updated>
+    <updated>2022-04-10T19:51:53.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CAFE如何扼殺了緊湊型卡車和旅行車]]></title>
+        <id>https://news.ycombinator.com/item?id=30980897</id>
+        <link href="https://news.ycombinator.com/item?id=30980897"/>
+        <updated>2022-04-10T19:39:55.000Z</updated>
+        <summary type="html"><![CDATA[How CAFE Killed Compact Trucks And Station Wagons]]></summary>
+        <author>
+            <name>hyperpape</name>
+            <uri>https://news.ycombinator.com/user?id=hyperpape</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我怎麼會在技術領域工作得這麼不開心？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980893</id>
+        <link href="https://news.ycombinator.com/item?id=30980893"/>
+        <updated>2022-04-10T19:39:34.000Z</updated>
+        <summary type="html"><![CDATA[How did I get so unhappy working in tech?]]></summary>
+        <author>
+            <name>linuxbo</name>
+            <uri>https://news.ycombinator.com/user?id=linuxbo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-霍夫曼--如何在不犧牲的情況下將你的激情變成事業]]></title>
+        <id>https://news.ycombinator.com/item?id=30980819</id>
+        <link href="https://news.ycombinator.com/item?id=30980819"/>
+        <updated>2022-04-10T19:31:27.000Z</updated>
+        <summary type="html"><![CDATA[James Hoffmann – How to Turn Your Passion into a Business Without Sacrifice]]></summary>
+        <author>
+            <name>lolsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=lolsoftware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox和Chromium的威脅景觀：安全、分叉和Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30980712</id>
+        <link href="https://news.ycombinator.com/item?id=30980712"/>
+        <updated>2022-04-10T19:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Threat landscape of Mozilla Firefox and Chromium: security, forks, and Rust]]></summary>
+        <author>
+            <name>opengears</name>
+            <uri>https://news.ycombinator.com/user?id=opengears</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust編寫的超快速Terraform計劃和狀態解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30980599</id>
+        <link href="https://news.ycombinator.com/item?id=30980599"/>
+        <updated>2022-04-10T19:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ultra fast Terraform plan and state parser written in Rust]]></summary>
+        <author>
+            <name>semanser</name>
+            <uri>https://news.ycombinator.com/user?id=semanser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmarTTY - 一個多標籤的SSH客戶端，支持SCP]]></title>
+        <id>https://news.ycombinator.com/item?id=30980585</id>
+        <link href="https://news.ycombinator.com/item?id=30980585"/>
+        <updated>2022-04-10T19:09:51.000Z</updated>
+        <summary type="html"><![CDATA[SmarTTY – a multi-tabbed SSH client with SCP support]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractal已經為GTK4重寫了。]]></title>
+        <id>https://news.ycombinator.com/item?id=30980154</id>
+        <link href="https://news.ycombinator.com/item?id=30980154"/>
+        <updated>2022-04-10T18:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Fractal has been rewritten for GTK4]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未來學家預測新一輪工人騷亂即將來臨]]></title>
         <id>https://news.ycombinator.com/item?id=30980689</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的入侵引發了美國對其黑客的鎮壓]]></title>
-        <id>https://news.ycombinator.com/item?id=30964220</id>
-        <link href="https://news.ycombinator.com/item?id=30964220"/>
-        <updated>2022-04-09T00:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Russia's Invasion Triggered a US Crackdown on Its Hackers]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼蘋果不為Swift提供可搜索的文檔？]]></title>
-        <id>https://news.ycombinator.com/item?id=30964637</id>
-        <link href="https://news.ycombinator.com/item?id=30964637"/>
-        <updated>2022-04-09T02:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Why doesn't Apple provide searchable docs for Swift?]]></summary>
-        <author>
-            <name>mleonhard</name>
-            <uri>https://news.ycombinator.com/user?id=mleonhard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被處決的中國囚犯在死前被切除了心臟或肺部]]></title>
-        <id>https://news.ycombinator.com/item?id=30964590</id>
-        <link href="https://news.ycombinator.com/item?id=30964590"/>
-        <updated>2022-04-09T01:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Executed Chinese inmates had hearts or lungs removed before death]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的靈魂[視頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=30964500</id>
-        <link href="https://news.ycombinator.com/item?id=30964500"/>
-        <updated>2022-04-09T01:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Souls of Ukraine [video]]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[總是告訴你的孩子真相]]></title>
-        <id>https://news.ycombinator.com/item?id=30964453</id>
-        <link href="https://news.ycombinator.com/item?id=30964453"/>
-        <updated>2022-04-09T01:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Always Tell Your Kids the Truth]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州可能禁止歧視性的人工智能招聘工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30964446</id>
-        <link href="https://news.ycombinator.com/item?id=30964446"/>
-        <updated>2022-04-09T01:25:32.000Z</updated>
-        <summary type="html"><![CDATA[California could ban AI hiring tools that discriminate]]></summary>
-        <author>
-            <name>Jeff_Powell</name>
-            <uri>https://news.ycombinator.com/user?id=Jeff_Powell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快手CEO在逃離過去後在硅谷重塑自我]]></title>
-        <id>https://news.ycombinator.com/item?id=30964438</id>
-        <link href="https://news.ycombinator.com/item?id=30964438"/>
-        <updated>2022-04-09T01:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Fast CEO reinvented himself in Silicon Valley after running from the past]]></summary>
-        <author>
-            <name>colinarms</name>
-            <uri>https://news.ycombinator.com/user?id=colinarms</uri>
         </author>
     </entry>
 </feed>
