@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T19:27:45.086Z</updated>
+    <updated>2022-04-10T19:37:00.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未来学家预测新一轮工人骚乱即将来临]]></title>
+        <id>https://news.ycombinator.com/item?id=30980689</id>
+        <link href="https://news.ycombinator.com/item?id=30980689"/>
+        <updated>2022-04-10T19:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Futurist predicts new waves of worker unrest are on the horizon]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是如何遇到你目前的目标或人生目标的？]]></title>
         <id>https://news.ycombinator.com/item?id=30980583</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>colinarms</name>
             <uri>https://news.ycombinator.com/user?id=colinarms</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊称具有里程碑意义的斯塔滕岛工会投票应被否决]]></title>
-        <id>https://news.ycombinator.com/item?id=30964413</id>
-        <link href="https://news.ycombinator.com/item?id=30964413"/>
-        <updated>2022-04-09T01:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon says landmark Staten Island union vote should be thrown out]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
