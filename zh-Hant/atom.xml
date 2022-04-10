@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T15:47:17.719Z</updated>
+    <updated>2022-04-10T15:53:57.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們是否正在見證去美元化的開始？]]></title>
+        <id>https://news.ycombinator.com/item?id=30977833</id>
+        <link href="https://news.ycombinator.com/item?id=30977833"/>
+        <updated>2022-04-10T15:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Are we witnessing the beginning of de-dollarization?]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家為何對W波色子感到擔憂："有些東西是不正常的]]></title>
         <id>https://news.ycombinator.com/item?id=30977931</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belinghy</name>
             <uri>https://news.ycombinator.com/user?id=belinghy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Overflow #120: 人類的懶惰是終極安全威脅]]></title>
-        <id>https://news.ycombinator.com/item?id=30962401</id>
-        <link href="https://news.ycombinator.com/item?id=30962401"/>
-        <updated>2022-04-08T20:56:19.000Z</updated>
-        <summary type="html"><![CDATA[The Overflow #120: Human laziness is the ultimate security threat]]></summary>
-        <author>
-            <name>carlos-menezes</name>
-            <uri>https://news.ycombinator.com/user?id=carlos-menezes</uri>
         </author>
     </entry>
 </feed>
