@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T07:30:06.032Z</updated>
+    <updated>2022-04-10T07:38:26.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一個反應式應用中同步動畫和定時器]]></title>
+        <id>https://news.ycombinator.com/item?id=30975056</id>
+        <link href="https://news.ycombinator.com/item?id=30975056"/>
+        <updated>2022-04-10T07:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sync animations and timers across a react app]]></summary>
+        <author>
+            <name>peterjuras</name>
+            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在是2022年，為什麼USB-C仍然如此該死的複雜？]]></title>
         <id>https://news.ycombinator.com/item?id=30974971</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>acconrad</name>
             <uri>https://news.ycombinator.com/user?id=acconrad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新墨西哥州的腳印提出了人類何時居住在北美的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30959869</id>
-        <link href="https://news.ycombinator.com/item?id=30959869"/>
-        <updated>2022-04-08T17:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Footprints in New Mexico raise questions when humans inhabited North America]]></summary>
-        <author>
-            <name>oblib</name>
-            <uri>https://news.ycombinator.com/user?id=oblib</uri>
         </author>
     </entry>
 </feed>
