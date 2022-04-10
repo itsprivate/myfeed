@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Apr 2022 11:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 11:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐洲正在建立一個國際面部識別系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30976119</link>
+            <guid>https://news.ycombinator.com/item?id=30976119</guid>
+            <pubDate>Sun, 10 Apr 2022 11:20:20 GMT</pubDate>
+            <description><![CDATA[Europe Is Building an International Facial Recognition System]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PSA：React 18在嚴格模式下兩次調用代碼，以檢測非故意的副作用]]></title>
+            <link>https://news.ycombinator.com/item?id=30976040</link>
+            <guid>https://news.ycombinator.com/item?id=30976040</guid>
+            <pubDate>Sun, 10 Apr 2022 11:03:48 GMT</pubDate>
+            <description><![CDATA[PSA: React 18 calls code twice in strict mode to detect unintended side effects]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國利用情報與俄羅斯打信息戰，即使情報並不牢靠。]]></title>
+            <link>https://news.ycombinator.com/item?id=30975955</link>
+            <guid>https://news.ycombinator.com/item?id=30975955</guid>
+            <pubDate>Sun, 10 Apr 2022 10:45:08 GMT</pubDate>
+            <description><![CDATA[US using Intel to fight infowar with Russia,even when the Intel isn't rock solid]]></description>
+        </item>
         <item>
             <title><![CDATA[在Nvidia Geforce體驗中利用Node.js]]></title>
             <link>https://news.ycombinator.com/item?id=30975974</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30960941</guid>
             <pubDate>Fri, 08 Apr 2022 18:42:33 GMT</pubDate>
             <description><![CDATA[Why I avoid async/await]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴比-費舍爾談保羅-墨菲和開局理論如何摧毀國際象棋]]></title>
-            <link>https://news.ycombinator.com/item?id=30961176</link>
-            <guid>https://news.ycombinator.com/item?id=30961176</guid>
-            <pubDate>Fri, 08 Apr 2022 19:02:25 GMT</pubDate>
-            <description><![CDATA[Bobby Fischer on Paul Morphy and how opening theory destroyed chess]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼專家們總是弄錯]]></title>
-            <link>https://news.ycombinator.com/item?id=30961131</link>
-            <guid>https://news.ycombinator.com/item?id=30961131</guid>
-            <pubDate>Fri, 08 Apr 2022 18:58:53 GMT</pubDate>
-            <description><![CDATA[Why the experts keep getting it wrong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年4月7日，聖何塞的DHL B752飛機出現液壓故障，導致跑道偏移]]></title>
-            <link>https://news.ycombinator.com/item?id=30961071</link>
-            <guid>https://news.ycombinator.com/item?id=30961071</guid>
-            <pubDate>Fri, 08 Apr 2022 18:53:20 GMT</pubDate>
-            <description><![CDATA[DHL B752 at San Jose on Apr 7 2022 hydraulic failure results in runway excursion]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T11:29:11.084Z</updated>
+    <updated>2022-04-10T11:36:47.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐洲正在建立一個國際面部識別系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30976119</id>
+        <link href="https://news.ycombinator.com/item?id=30976119"/>
+        <updated>2022-04-10T11:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Europe Is Building an International Facial Recognition System]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA：React 18在嚴格模式下兩次調用代碼，以檢測非故意的副作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30976040</id>
+        <link href="https://news.ycombinator.com/item?id=30976040"/>
+        <updated>2022-04-10T11:03:48.000Z</updated>
+        <summary type="html"><![CDATA[PSA: React 18 calls code twice in strict mode to detect unintended side effects]]></summary>
+        <author>
+            <name>tomduncalf</name>
+            <uri>https://news.ycombinator.com/user?id=tomduncalf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國利用情報與俄羅斯打信息戰，即使情報並不牢靠。]]></title>
+        <id>https://news.ycombinator.com/item?id=30975955</id>
+        <link href="https://news.ycombinator.com/item?id=30975955"/>
+        <updated>2022-04-10T10:45:08.000Z</updated>
+        <summary type="html"><![CDATA[US using Intel to fight infowar with Russia,even when the Intel isn't rock solid]]></summary>
+        <author>
+            <name>Ambolia</name>
+            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Nvidia Geforce體驗中利用Node.js]]></title>
         <id>https://news.ycombinator.com/item?id=30975974</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>xweb</name>
             <uri>https://news.ycombinator.com/user?id=xweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴比-費舍爾談保羅-墨菲和開局理論如何摧毀國際象棋]]></title>
-        <id>https://news.ycombinator.com/item?id=30961176</id>
-        <link href="https://news.ycombinator.com/item?id=30961176"/>
-        <updated>2022-04-08T19:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Bobby Fischer on Paul Morphy and how opening theory destroyed chess]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼專家們總是弄錯]]></title>
-        <id>https://news.ycombinator.com/item?id=30961131</id>
-        <link href="https://news.ycombinator.com/item?id=30961131"/>
-        <updated>2022-04-08T18:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Why the experts keep getting it wrong]]></summary>
-        <author>
-            <name>malchow</name>
-            <uri>https://news.ycombinator.com/user?id=malchow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月7日，聖何塞的DHL B752飛機出現液壓故障，導致跑道偏移]]></title>
-        <id>https://news.ycombinator.com/item?id=30961071</id>
-        <link href="https://news.ycombinator.com/item?id=30961071"/>
-        <updated>2022-04-08T18:53:20.000Z</updated>
-        <summary type="html"><![CDATA[DHL B752 at San Jose on Apr 7 2022 hydraulic failure results in runway excursion]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
