@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T12:52:08.237Z</updated>
+    <updated>2022-04-10T13:20:53.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Erik Naggum - Wikiquote]]></title>
+        <id>https://news.ycombinator.com/item?id=30976616</id>
+        <link href="https://news.ycombinator.com/item?id=30976616"/>
+        <updated>2022-04-10T13:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Erik Naggum – Wikiquote]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DYMO標籤製造商通過重新使用亞馬遜列表隱藏DRM負面評論]]></title>
+        <id>https://news.ycombinator.com/item?id=30976563</id>
+        <link href="https://news.ycombinator.com/item?id=30976563"/>
+        <updated>2022-04-10T12:55:36.000Z</updated>
+        <summary type="html"><![CDATA[DYMO label maker hides negative DRM reviews by re-using Amazon listings]]></summary>
+        <author>
+            <name>retox</name>
+            <uri>https://news.ycombinator.com/user?id=retox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客之道。重新思考Facebook的網絡應用程序開發（2015）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30976493</id>
+        <link href="https://news.ycombinator.com/item?id=30976493"/>
+        <updated>2022-04-10T12:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Hacker Way: Rethinking Web App Development at Facebook (2015)]]></summary>
+        <author>
+            <name>math-dev</name>
+            <uri>https://news.ycombinator.com/user?id=math-dev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martian Mono: Evil Martians的新（WIP）單色字體]]></title>
+        <id>https://news.ycombinator.com/item?id=30976394</id>
+        <link href="https://news.ycombinator.com/item?id=30976394"/>
+        <updated>2022-04-10T12:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Martian Mono: new (WIP) monospace font by Evil Martians]]></summary>
+        <author>
+            <name>czottmann</name>
+            <uri>https://news.ycombinator.com/user?id=czottmann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[持續集成在指示單語句錯誤方面的有效性如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30976288</id>
+        <link href="https://news.ycombinator.com/item?id=30976288"/>
+        <updated>2022-04-10T11:59:56.000Z</updated>
+        <summary type="html"><![CDATA[How Effective Is Continuous Integration in Indicating Single-Statement Bugs?]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數獨。數獨的零知識證明系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30976275</id>
+        <link href="https://news.ycombinator.com/item?id=30976275"/>
+        <updated>2022-04-10T11:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Zudoku: Zero-Knowledge Proof System for Sudoku]]></summary>
+        <author>
+            <name>0x45696e6172</name>
+            <uri>https://news.ycombinator.com/user?id=0x45696e6172</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杜魯門主義。冷戰的開始[音頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30975703</id>
+        <link href="https://news.ycombinator.com/item?id=30975703"/>
+        <updated>2022-04-10T09:55:49.000Z</updated>
+        <summary type="html"><![CDATA[The Truman Doctrine: Beginnings of the Cold War [audio]]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何推薦書籍，或者，停止推薦SICP]]></title>
         <id>https://news.ycombinator.com/item?id=30976439</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>danielgh7</name>
             <uri>https://news.ycombinator.com/user?id=danielgh7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成為一名全職的創造者，成為一名軟件工程師。有爭議的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30960569</id>
-        <link href="https://news.ycombinator.com/item?id=30960569"/>
-        <updated>2022-04-08T18:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Becoming a Full-Time Creator as a Software Engineer: Controversial Advice]]></summary>
-        <author>
-            <name>manesioz</name>
-            <uri>https://news.ycombinator.com/user?id=manesioz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人設法將整個Raspberry Pi裝入盒式錄音機的機身內]]></title>
-        <id>https://news.ycombinator.com/item?id=30961440</id>
-        <link href="https://news.ycombinator.com/item?id=30961440"/>
-        <updated>2022-04-08T19:26:37.000Z</updated>
-        <summary type="html"><![CDATA[Someone managed to fit an entire Raspberry Pi inside the body of a cassette]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs是來破壞D&D的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30961392</id>
-        <link href="https://news.ycombinator.com/item?id=30961392"/>
-        <updated>2022-04-08T19:21:35.000Z</updated>
-        <summary type="html"><![CDATA[NFTs Are Here to Ruin D&D]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亂穿馬路 "的發明]]></title>
-        <id>https://news.ycombinator.com/item?id=30961340</id>
-        <link href="https://news.ycombinator.com/item?id=30961340"/>
-        <updated>2022-04-08T19:16:26.000Z</updated>
-        <summary type="html"><![CDATA[The Invention of ‘Jaywalking’]]></summary>
-        <author>
-            <name>BerislavLopac</name>
-            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自閉症的 "心智理論"。一個重生的研究領域]]></title>
-        <id>https://news.ycombinator.com/item?id=30961338</id>
-        <link href="https://news.ycombinator.com/item?id=30961338"/>
-        <updated>2022-04-08T19:16:20.000Z</updated>
-        <summary type="html"><![CDATA['Theory of mind' in autism: A research field reborn]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用密集的地標進行三維人臉重建]]></title>
-        <id>https://news.ycombinator.com/item?id=30961232</id>
-        <link href="https://news.ycombinator.com/item?id=30961232"/>
-        <updated>2022-04-08T19:07:49.000Z</updated>
-        <summary type="html"><![CDATA[3D face reconstruction with dense landmarks]]></summary>
-        <author>
-            <name>dlivingston</name>
-            <uri>https://news.ycombinator.com/user?id=dlivingston</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Race64: 最快的Base64編碼器/解碼器]]></title>
-        <id>https://news.ycombinator.com/item?id=30961049</id>
-        <link href="https://news.ycombinator.com/item?id=30961049"/>
-        <updated>2022-04-08T18:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Race64: Fastest Base64 Encoder / Decoder]]></summary>
-        <author>
-            <name>lsferreira42</name>
-            <uri>https://news.ycombinator.com/user?id=lsferreira42</uri>
         </author>
     </entry>
 </feed>
