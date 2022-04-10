@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T11:36:47.163Z</updated>
+    <updated>2022-04-10T11:51:26.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[红杉冷血地谋杀了Instacart公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30976152</id>
+        <link href="https://news.ycombinator.com/item?id=30976152"/>
+        <updated>2022-04-10T11:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Sequoia murdered Instacart in cold blood]]></summary>
+        <author>
+            <name>Issaclabs</name>
+            <uri>https://news.ycombinator.com/user?id=Issaclabs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对远程程序调用范式的批判 (1988) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30976140</id>
+        <link href="https://news.ycombinator.com/item?id=30976140"/>
+        <updated>2022-04-10T11:25:19.000Z</updated>
+        <summary type="html"><![CDATA[A Critique of the Remote Procedure Call Paradigm (1988) [pdf]]]></summary>
+        <author>
+            <name>culturedsystems</name>
+            <uri>https://news.ycombinator.com/user?id=culturedsystems</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲正在建立一个国际面部识别系统]]></title>
         <id>https://news.ycombinator.com/item?id=30976119</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟削减燃油税对俄罗斯的石油收入有什么影响？]]></title>
-        <id>https://news.ycombinator.com/item?id=30960965</id>
-        <link href="https://news.ycombinator.com/item?id=30960965"/>
-        <updated>2022-04-08T18:44:03.000Z</updated>
-        <summary type="html"><![CDATA[What is the effect of EU's fuel-tax cuts on Russia's oil income?]]></summary>
-        <author>
-            <name>Breadmaker</name>
-            <uri>https://news.ycombinator.com/user?id=Breadmaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我避免使用async/await]]></title>
-        <id>https://news.ycombinator.com/item?id=30960941</id>
-        <link href="https://news.ycombinator.com/item?id=30960941"/>
-        <updated>2022-04-08T18:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Why I avoid async/await]]></summary>
-        <author>
-            <name>xweb</name>
-            <uri>https://news.ycombinator.com/user?id=xweb</uri>
         </author>
     </entry>
 </feed>

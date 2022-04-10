@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Apr 2022 11:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 11:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紅杉冷血地謀殺了Instacart公司]]></title>
+            <link>https://news.ycombinator.com/item?id=30976152</link>
+            <guid>https://news.ycombinator.com/item?id=30976152</guid>
+            <pubDate>Sun, 10 Apr 2022 11:28:01 GMT</pubDate>
+            <description><![CDATA[Sequoia murdered Instacart in cold blood]]></description>
+        </item>
+        <item>
+            <title><![CDATA[對遠程程序調用範式的批判 (1988) [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30976140</link>
+            <guid>https://news.ycombinator.com/item?id=30976140</guid>
+            <pubDate>Sun, 10 Apr 2022 11:25:19 GMT</pubDate>
+            <description><![CDATA[A Critique of the Remote Procedure Call Paradigm (1988) [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[歐洲正在建立一個國際面部識別系統]]></title>
             <link>https://news.ycombinator.com/item?id=30976119</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30961184</guid>
             <pubDate>Fri, 08 Apr 2022 19:03:16 GMT</pubDate>
             <description><![CDATA[Some managers plan to penalize workers who don't want to return to the office]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐盟削減燃油稅對俄羅斯的石油收入有什麼影響？]]></title>
-            <link>https://news.ycombinator.com/item?id=30960965</link>
-            <guid>https://news.ycombinator.com/item?id=30960965</guid>
-            <pubDate>Fri, 08 Apr 2022 18:44:03 GMT</pubDate>
-            <description><![CDATA[What is the effect of EU's fuel-tax cuts on Russia's oil income?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我避免使用async/await]]></title>
-            <link>https://news.ycombinator.com/item?id=30960941</link>
-            <guid>https://news.ycombinator.com/item?id=30960941</guid>
-            <pubDate>Fri, 08 Apr 2022 18:42:33 GMT</pubDate>
-            <description><![CDATA[Why I avoid async/await]]></description>
         </item>
     </channel>
 </rss>
