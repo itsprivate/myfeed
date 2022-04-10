@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T05:30:11.078Z</updated>
+    <updated>2022-04-10T05:37:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个免费的、研究级的情报收集工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30974594</id>
+        <link href="https://news.ycombinator.com/item?id=30974594"/>
+        <updated>2022-04-10T05:01:38.000Z</updated>
+        <summary type="html"><![CDATA[A free, research-grade Intelligence gathering tool]]></summary>
+        <author>
+            <name>sub3suite</name>
+            <uri>https://news.ycombinator.com/user?id=sub3suite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有史以来最糟糕的编程语言 - Mark Rendle - NDC Oslo 2021]]></title>
         <id>https://news.ycombinator.com/item?id=30974667</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robertakarobin</name>
             <uri>https://news.ycombinator.com/user?id=robertakarobin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放式RISOP。一位前美国核战争策划者对美国的攻击计划。]]></title>
-        <id>https://news.ycombinator.com/item?id=30959388</id>
-        <link href="https://news.ycombinator.com/item?id=30959388"/>
-        <updated>2022-04-08T16:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Open-RISOP: A former U.S. Nuclear warplanner's attack plans against the U.S.]]></summary>
-        <author>
-            <name>chakalakasp</name>
-            <uri>https://news.ycombinator.com/user?id=chakalakasp</uri>
         </author>
     </entry>
 </feed>
