@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T08:53:17.829Z</updated>
+    <updated>2022-04-10T09:14:31.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究发现，当福克斯新闻的观众转向CNN时，他们的观点也会发生变化]]></title>
+        <id>https://news.ycombinator.com/item?id=30975505</id>
+        <link href="https://news.ycombinator.com/item?id=30975505"/>
+        <updated>2022-04-10T09:07:45.000Z</updated>
+        <summary type="html"><![CDATA[When Fox News viewers flip to CNN, their opinions shift too, study finds]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制作你自己的去中心化的YouTube]]></title>
+        <id>https://news.ycombinator.com/item?id=30975504</id>
+        <link href="https://news.ycombinator.com/item?id=30975504"/>
+        <updated>2022-04-10T09:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Make your own Decentralized YouTube]]></summary>
+        <author>
+            <name>ipfsbsb123</name>
+            <uri>https://news.ycombinator.com/user?id=ipfsbsb123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetstream - Laravel框架的Tailwind脚手架]]></title>
+        <id>https://news.ycombinator.com/item?id=30975474</id>
+        <link href="https://news.ycombinator.com/item?id=30975474"/>
+        <updated>2022-04-10T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Jetstream – Tailwind scaffolding for the Laravel framework]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何将Longhorn.io Kubernetes备份到分散存储中]]></title>
+        <id>https://news.ycombinator.com/item?id=30975473</id>
+        <link href="https://news.ycombinator.com/item?id=30975473"/>
+        <updated>2022-04-10T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[How to Backup Longhorn.io Kubernetes to Decentralized Storage]]></summary>
+        <author>
+            <name>tsect23</name>
+            <uri>https://news.ycombinator.com/user?id=tsect23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在净零排放的世界中重塑能源效率]]></title>
+        <id>https://news.ycombinator.com/item?id=30975467</id>
+        <link href="https://news.ycombinator.com/item?id=30975467"/>
+        <updated>2022-04-10T08:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Reinventing Energy Efficiency in a Net-Zero World]]></summary>
+        <author>
+            <name>danans</name>
+            <uri>https://news.ycombinator.com/user?id=danans</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Filebase创建和使用预签名的URLs]]></title>
+        <id>https://news.ycombinator.com/item?id=30975453</id>
+        <link href="https://news.ycombinator.com/item?id=30975453"/>
+        <updated>2022-04-10T08:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Create and Use Pre-Signed URLs with Filebase]]></summary>
+        <author>
+            <name>lejf92</name>
+            <uri>https://news.ycombinator.com/user?id=lejf92</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猫有多聪明？]]></title>
+        <id>https://news.ycombinator.com/item?id=30975378</id>
+        <link href="https://news.ycombinator.com/item?id=30975378"/>
+        <updated>2022-04-10T08:41:23.000Z</updated>
+        <summary type="html"><![CDATA[How Intelligent Are Cats?]]></summary>
+        <author>
+            <name>maxmouchet</name>
+            <uri>https://news.ycombinator.com/user?id=maxmouchet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见跟踪？iOS应用程序跟踪透明度和隐私标签的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30975301</id>
+        <link href="https://news.ycombinator.com/item?id=30975301"/>
+        <updated>2022-04-10T08:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye Tracking? Impact of iOS App Tracking Transparency and Privacy Labels]]></summary>
+        <author>
+            <name>cglong</name>
+            <uri>https://news.ycombinator.com/user?id=cglong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPFS如何工作]]></title>
         <id>https://news.ycombinator.com/item?id=30975381</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
-        <id>https://news.ycombinator.com/item?id=30960509</id>
-        <link href="https://news.ycombinator.com/item?id=30960509"/>
-        <updated>2022-04-08T18:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zaplib – Speedup your webapp with Rust+Wasm]]></summary>
-        <author>
-            <name>stevekrouse</name>
-            <uri>https://news.ycombinator.com/user?id=stevekrouse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多个Atlassian服务遭遇中断]]></title>
-        <id>https://news.ycombinator.com/item?id=30960499</id>
-        <link href="https://news.ycombinator.com/item?id=30960499"/>
-        <updated>2022-04-08T18:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Multiple Atlassian services suffering outages]]></summary>
-        <author>
-            <name>unmole</name>
-            <uri>https://news.ycombinator.com/user?id=unmole</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blobfish是什么鬼东西？]]></title>
-        <id>https://news.ycombinator.com/item?id=30960455</id>
-        <link href="https://news.ycombinator.com/item?id=30960455"/>
-        <updated>2022-04-08T18:02:33.000Z</updated>
-        <summary type="html"><![CDATA[What the Heck Is a Blobfish?]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，Gmail将更多来自保守派的电子邮件发送为垃圾邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=30960246</id>
-        <link href="https://news.ycombinator.com/item?id=30960246"/>
-        <updated>2022-04-08T17:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Gmail sends far more emails from conservatives to spam: study]]></summary>
-        <author>
-            <name>ccleve</name>
-            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们将新的Prometheus TSDB Grafana Mimir的规模扩大到1B个活动系列]]></title>
-        <id>https://news.ycombinator.com/item?id=30960210</id>
-        <link href="https://news.ycombinator.com/item?id=30960210"/>
-        <updated>2022-04-08T17:43:40.000Z</updated>
-        <summary type="html"><![CDATA[We scaled our new Prometheus TSDB Grafana Mimir to 1B active series]]></summary>
-        <author>
-            <name>cip01</name>
-            <uri>https://news.ycombinator.com/user?id=cip01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zephyrus G14不是MacBook Pro 14]]></title>
-        <id>https://news.ycombinator.com/item?id=30960169</id>
-        <link href="https://news.ycombinator.com/item?id=30960169"/>
-        <updated>2022-04-08T17:39:48.000Z</updated>
-        <summary type="html"><![CDATA[The Zephyrus G14 is not a MacBook Pro 14]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我作为一个单独的开发者建立了我的技术创业公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30959972</id>
-        <link href="https://news.ycombinator.com/item?id=30959972"/>
-        <updated>2022-04-08T17:24:51.000Z</updated>
-        <summary type="html"><![CDATA[I built my tech startup as a solo developer]]></summary>
-        <author>
-            <name>JensRantil</name>
-            <uri>https://news.ycombinator.com/user?id=JensRantil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比声音更快的喷气式发动机的突破]]></title>
-        <id>https://news.ycombinator.com/item?id=30960049</id>
-        <link href="https://news.ycombinator.com/item?id=30960049"/>
-        <updated>2022-04-08T17:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Breakthrough in faster-than-sound jet engines]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
