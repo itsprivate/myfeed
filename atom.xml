@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T19:11:05.246Z</updated>
+    <updated>2022-04-10T19:27:45.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何遇到你目前的目标或人生目标的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30980583</id>
+        <link href="https://news.ycombinator.com/item?id=30980583"/>
+        <updated>2022-04-10T19:09:48.000Z</updated>
+        <summary type="html"><![CDATA[How did you come across your current goal or life's purpose?]]></summary>
+        <author>
+            <name>accepting_chaos</name>
+            <uri>https://news.ycombinator.com/user?id=accepting_chaos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad9 - 移动配置配置文件来了]]></title>
+        <id>https://news.ycombinator.com/item?id=30980564</id>
+        <link href="https://news.ycombinator.com/item?id=30980564"/>
+        <updated>2022-04-10T19:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Quad9 – Mobile Provisioning Profiles Are Here]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Outline.com已下线，域名待售]]></title>
+        <id>https://news.ycombinator.com/item?id=30980446</id>
+        <link href="https://news.ycombinator.com/item?id=30980446"/>
+        <updated>2022-04-10T18:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Outline.com is offline, domain for sale]]></summary>
+        <author>
+            <name>dredmorbius</name>
+            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scala的Gitter到Discord的迁移错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30980421</id>
+        <link href="https://news.ycombinator.com/item?id=30980421"/>
+        <updated>2022-04-10T18:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Scala's Gitter to Discord migration mistake]]></summary>
+        <author>
+            <name>hanlec</name>
+            <uri>https://news.ycombinator.com/user?id=hanlec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用GenServers射击自己的脚]]></title>
+        <id>https://news.ycombinator.com/item?id=30980280</id>
+        <link href="https://news.ycombinator.com/item?id=30980280"/>
+        <updated>2022-04-10T18:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Shooting Yourself in the Foot with GenServers]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用机器人绘画的假日项目]]></title>
+        <id>https://news.ycombinator.com/item?id=30980165</id>
+        <link href="https://news.ycombinator.com/item?id=30980165"/>
+        <updated>2022-04-10T18:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Holiday Project to Draw with a Robot]]></summary>
+        <author>
+            <name>chairmanwow1</name>
+            <uri>https://news.ycombinator.com/user?id=chairmanwow1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小项目的乐趣]]></title>
         <id>https://news.ycombinator.com/item?id=30980307</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究。为避免感染科维德，要像对待陌生人一样对待朋友和家人]]></title>
-        <id>https://news.ycombinator.com/item?id=30964267</id>
-        <link href="https://news.ycombinator.com/item?id=30964267"/>
-        <updated>2022-04-09T00:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Study: To avoid catching Covid, treat friends and family like strangers]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON简历]]></title>
-        <id>https://news.ycombinator.com/item?id=30964239</id>
-        <link href="https://news.ycombinator.com/item?id=30964239"/>
-        <updated>2022-04-09T00:50:30.000Z</updated>
-        <summary type="html"><![CDATA[JSON Resume]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么屏幕保护程序不再是必要的了]]></title>
-        <id>https://news.ycombinator.com/item?id=30964221</id>
-        <link href="https://news.ycombinator.com/item?id=30964221"/>
-        <updated>2022-04-09T00:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Why Screen Savers Are No Longer Necessary]]></summary>
-        <author>
-            <name>bubbab</name>
-            <uri>https://news.ycombinator.com/user?id=bubbab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新兴风险投资的人工智能]]></title>
-        <id>https://news.ycombinator.com/item?id=30964157</id>
-        <link href="https://news.ycombinator.com/item?id=30964157"/>
-        <updated>2022-04-09T00:36:38.000Z</updated>
-        <summary type="html"><![CDATA[AI for Emergent Ventures]]></summary>
-        <author>
-            <name>barry-cotter</name>
-            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我组装的机器人和人工进化的潜力]]></title>
-        <id>https://news.ycombinator.com/item?id=30964150</id>
-        <link href="https://news.ycombinator.com/item?id=30964150"/>
-        <updated>2022-04-09T00:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Self-assembling robots and the potential of artificial evolution]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二维码是如何工作的，以及是什么让它们变得危险。一位计算机科学家解释]]></title>
-        <id>https://news.ycombinator.com/item?id=30964138</id>
-        <link href="https://news.ycombinator.com/item?id=30964138"/>
-        <updated>2022-04-09T00:34:23.000Z</updated>
-        <summary type="html"><![CDATA[How QR codes work, and what makes them dangerous: A computer scientist explains]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>
