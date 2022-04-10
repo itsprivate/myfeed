@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T08:36:50.931Z</updated>
+    <updated>2022-04-10T08:53:17.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IPFS如何工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30975381</id>
+        <link href="https://news.ycombinator.com/item?id=30975381"/>
+        <updated>2022-04-10T08:42:23.000Z</updated>
+        <summary type="html"><![CDATA[How IPFS Works]]></summary>
+        <author>
+            <name>olivem12</name>
+            <uri>https://news.ycombinator.com/user?id=olivem12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasp: 用于统计分析的开放源码程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30975371</id>
+        <link href="https://news.ycombinator.com/item?id=30975371"/>
+        <updated>2022-04-10T08:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Jasp: Open-source program for statistical analysis]]></summary>
+        <author>
+            <name>valdect</name>
+            <uri>https://news.ycombinator.com/user?id=valdect</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航天飞机。可重复使用的航天器的回归？(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30975347</id>
+        <link href="https://news.ycombinator.com/item?id=30975347"/>
+        <updated>2022-04-10T08:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Spaceplanes: The return of the reusable spacecraft? (2021)]]></summary>
+        <author>
+            <name>tempestn</name>
+            <uri>https://news.ycombinator.com/user?id=tempestn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来自Arca Noae的ArcaOS 5.0是21世纪OS/2的新版本。]]></title>
         <id>https://news.ycombinator.com/item?id=30975262</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年甲烷排放量飙升至历史新高]]></title>
-        <id>https://news.ycombinator.com/item?id=30960047</id>
-        <link href="https://news.ycombinator.com/item?id=30960047"/>
-        <updated>2022-04-08T17:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Methane Emissions Soared to a Record in 2021]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRISPR基因编辑揭示了常见血液疾病背后的生物机制]]></title>
-        <id>https://news.ycombinator.com/item?id=30960045</id>
-        <link href="https://news.ycombinator.com/item?id=30960045"/>
-        <updated>2022-04-08T17:29:05.000Z</updated>
-        <summary type="html"><![CDATA[CRISPR gene editing reveals biological mechanism behind common blood disorder]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大将禁止盲目竞标作为购房者权利法案的一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30959992</id>
-        <link href="https://news.ycombinator.com/item?id=30959992"/>
-        <updated>2022-04-08T17:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Canada to Ban Blind Bidding as Part of Home Buyers’ Bill of Rights]]></summary>
-        <author>
-            <name>Victerius</name>
-            <uri>https://news.ycombinator.com/user?id=Victerius</uri>
         </author>
     </entry>
 </feed>
