@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T18:56:09.338Z</updated>
+    <updated>2022-04-10T19:11:05.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小项目的乐趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30980307</id>
+        <link href="https://news.ycombinator.com/item?id=30980307"/>
+        <updated>2022-04-10T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[The Joy of Small Projects]]></summary>
+        <author>
+            <name>dschroer</name>
+            <uri>https://news.ycombinator.com/user?id=dschroer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型语言模型的新比例法则--钦定比例法则]]></title>
+        <id>https://news.ycombinator.com/item?id=30980145</id>
+        <link href="https://news.ycombinator.com/item?id=30980145"/>
+        <updated>2022-04-10T18:31:32.000Z</updated>
+        <summary type="html"><![CDATA[New Scaling Laws for Large Language Models – Chinchilla Scaling Law]]></summary>
+        <author>
+            <name>axg11</name>
+            <uri>https://news.ycombinator.com/user?id=axg11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公立学校有1500多本书被禁]]></title>
+        <id>https://news.ycombinator.com/item?id=30980087</id>
+        <link href="https://news.ycombinator.com/item?id=30980087"/>
+        <updated>2022-04-10T18:26:54.000Z</updated>
+        <summary type="html"><![CDATA[More than 1,500 books have been banned in public schools]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[锈蚀的例子]]></title>
         <id>https://news.ycombinator.com/item?id=30980285</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何对统计数字有信心]]></title>
-        <id>https://news.ycombinator.com/item?id=30964072</id>
-        <link href="https://news.ycombinator.com/item?id=30964072"/>
-        <updated>2022-04-09T00:24:33.000Z</updated>
-        <summary type="html"><![CDATA[How to Get Confident with Statistics]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对生财有道图库 - 超级组织者 - 每一个]]></title>
-        <id>https://news.ycombinator.com/item?id=30964018</id>
-        <link href="https://news.ycombinator.com/item?id=30964018"/>
-        <updated>2022-04-09T00:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Against Ikigai – Superorganizers – Every]]></summary>
-        <author>
-            <name>khehy</name>
-            <uri>https://news.ycombinator.com/user?id=khehy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可转移的技能？创始人作为风险资本家]]></title>
-        <id>https://news.ycombinator.com/item?id=30963987</id>
-        <link href="https://news.ycombinator.com/item?id=30963987"/>
-        <updated>2022-04-09T00:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Transferable skills? Founders as venture capitalists]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
         </author>
     </entry>
 </feed>
