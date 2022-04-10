@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T21:13:00.651Z</updated>
+    <updated>2022-04-10T21:29:55.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么科技部将在未来几年内放弃书写历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30981095</id>
+        <link href="https://news.ycombinator.com/item?id=30981095"/>
+        <updated>2022-04-10T19:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Why Tech will quit writing history for the next few years]]></summary>
+        <author>
+            <name>LeslieDewhurst</name>
+            <uri>https://news.ycombinator.com/user?id=LeslieDewhurst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无人驾驶汽车被警察拦下]]></title>
         <id>https://news.ycombinator.com/item?id=30981694</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>avestura</name>
             <uri>https://news.ycombinator.com/user?id=avestura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯在切尔诺贝利的失误。他们来了，做了他们想做的事。]]></title>
-        <id>https://news.ycombinator.com/item?id=30965281</id>
-        <link href="https://news.ycombinator.com/item?id=30965281"/>
-        <updated>2022-04-09T04:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted.’]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
