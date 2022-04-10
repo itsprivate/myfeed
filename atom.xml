@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-10T11:51:26.955Z</updated>
+    <updated>2022-04-10T12:16:45.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让俄罗斯石油流向欧洲的后门]]></title>
+        <id>https://news.ycombinator.com/item?id=30976232</id>
+        <link href="https://news.ycombinator.com/item?id=30976232"/>
+        <updated>2022-04-10T11:43:40.000Z</updated>
+        <summary type="html"><![CDATA[The Backdoor That Keeps Russian Oil Flowing into Europe]]></summary>
+        <author>
+            <name>amai</name>
+            <uri>https://news.ycombinator.com/user?id=amai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红杉冷血地谋杀了Instacart公司]]></title>
         <id>https://news.ycombinator.com/item?id=30976152</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gvb</name>
             <uri>https://news.ycombinator.com/user?id=gvb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些管理者计划惩罚不愿返回办公室的工人]]></title>
-        <id>https://news.ycombinator.com/item?id=30961184</id>
-        <link href="https://news.ycombinator.com/item?id=30961184"/>
-        <updated>2022-04-08T19:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Some managers plan to penalize workers who don't want to return to the office]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>
