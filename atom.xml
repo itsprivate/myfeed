@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T05:30:28.998Z</updated>
+    <updated>2022-04-11T05:38:41.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星空下的舞蹈：星光下的视频去噪]]></title>
+        <id>https://news.ycombinator.com/item?id=30984933</id>
+        <link href="https://news.ycombinator.com/item?id=30984933"/>
+        <updated>2022-04-11T05:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Dancing under the stars: video denoising in starlight]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际象棋、数学和比萨饼中的祖格兹旺]]></title>
+        <id>https://news.ycombinator.com/item?id=30984499</id>
+        <link href="https://news.ycombinator.com/item?id=30984499"/>
+        <updated>2022-04-11T03:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Zugzwang in Chess, Math and Pizzas]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何寻找合作伙伴]]></title>
         <id>https://news.ycombinator.com/item?id=30984646</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>XQorp</name>
             <uri>https://news.ycombinator.com/user?id=XQorp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国被指控对印度电网进行网络攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=30968414</id>
-        <link href="https://news.ycombinator.com/item?id=30968414"/>
-        <updated>2022-04-09T14:38:23.000Z</updated>
-        <summary type="html"><![CDATA[China accused of cyberattacks on Indian power grid]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anno - 毫不费力地对视频/音频进行注释和评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30968391</id>
-        <link href="https://news.ycombinator.com/item?id=30968391"/>
-        <updated>2022-04-09T14:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Anno – Effortlessly annotate and comment on videos/audio]]></summary>
-        <author>
-            <name>zackoverflow</name>
-            <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
         </author>
     </entry>
 </feed>
