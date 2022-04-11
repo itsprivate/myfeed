@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T06:40:36.001Z</updated>
+    <updated>2022-04-11T06:56:44.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用数学画风景]]></title>
+        <id>https://news.ycombinator.com/item?id=30985396</id>
+        <link href="https://news.ycombinator.com/item?id=30985396"/>
+        <updated>2022-04-11T06:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Painting a Landscape Using Mathematics]]></summary>
+        <author>
+            <name>chii</name>
+            <uri>https://news.ycombinator.com/user?id=chii</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特首席执行官。埃隆-马斯克将不会加入Twitter董事会]]></title>
         <id>https://news.ycombinator.com/item?id=30985072</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hi5eyes</name>
             <uri>https://news.ycombinator.com/user?id=hi5eyes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过网络分析识别欺诈性的PPP贷款]]></title>
-        <id>https://news.ycombinator.com/item?id=30968495</id>
-        <link href="https://news.ycombinator.com/item?id=30968495"/>
-        <updated>2022-04-09T14:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Identifying fraudulent PPP loans through network analysis]]></summary>
-        <author>
-            <name>apwheele</name>
-            <uri>https://news.ycombinator.com/user?id=apwheele</uri>
         </author>
     </entry>
 </feed>
