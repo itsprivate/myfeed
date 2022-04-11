@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T22:43:20.915Z</updated>
+    <updated>2022-04-11T22:51:44.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看哪，一匹苍白的马]]></title>
+        <id>https://news.ycombinator.com/item?id=30996069</id>
+        <link href="https://news.ycombinator.com/item?id=30996069"/>
+        <updated>2022-04-11T22:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Behold a Pale Horse]]></summary>
+        <author>
+            <name>Mobil1</name>
+            <uri>https://news.ycombinator.com/user?id=Mobil1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡尔文 分区数据库系统的快速分布式交易]]></title>
+        <id>https://news.ycombinator.com/item?id=30996055</id>
+        <link href="https://news.ycombinator.com/item?id=30996055"/>
+        <updated>2022-04-11T22:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Calvin: Fast Distributed Transactions for Partitioned Database Systems]]></summary>
+        <author>
+            <name>timf</name>
+            <uri>https://news.ycombinator.com/user?id=timf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从A到Z的HDR]]></title>
+        <id>https://news.ycombinator.com/item?id=30995624</id>
+        <link href="https://news.ycombinator.com/item?id=30995624"/>
+        <updated>2022-04-11T21:57:04.000Z</updated>
+        <summary type="html"><![CDATA[HDR from a to Z]]></summary>
+        <author>
+            <name>js2</name>
+            <uri>https://news.ycombinator.com/user?id=js2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更好、更快、更节能的预测]]></title>
+        <id>https://news.ycombinator.com/item?id=30994965</id>
+        <link href="https://news.ycombinator.com/item?id=30994965"/>
+        <updated>2022-04-11T21:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Better, faster, energy efficient predictions]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[东京地铁沙林中毒的前庭-小脑延迟效应（1998年）]]></title>
         <id>https://news.ycombinator.com/item?id=30994826</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>737min</name>
             <uri>https://news.ycombinator.com/user?id=737min</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铸铁锅是如何制成的 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30978212</id>
-        <link href="https://news.ycombinator.com/item?id=30978212"/>
-        <updated>2022-04-10T15:51:56.000Z</updated>
-        <summary type="html"><![CDATA[How Cast Iron Pans Are Made (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用智能手机阅读会降低阅读理解能力]]></title>
-        <id>https://news.ycombinator.com/item?id=30978771</id>
-        <link href="https://news.ycombinator.com/item?id=30978771"/>
-        <updated>2022-04-10T16:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Reading on a smartphone lowers reading comprehension]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超速摄影机应用开发商面临英国司机的辱骂]]></title>
-        <id>https://news.ycombinator.com/item?id=30978603</id>
-        <link href="https://news.ycombinator.com/item?id=30978603"/>
-        <updated>2022-04-10T16:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Speed camera app developers face abuse from UK drivers]]></summary>
-        <author>
-            <name>sefrost</name>
-            <uri>https://news.ycombinator.com/user?id=sefrost</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国的食品抗议活动演变成暴乱]]></title>
-        <id>https://news.ycombinator.com/item?id=30978470</id>
-        <link href="https://news.ycombinator.com/item?id=30978470"/>
-        <updated>2022-04-10T16:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Food protests in China spill into Rioting]]></summary>
-        <author>
-            <name>abledon</name>
-            <uri>https://news.ycombinator.com/user?id=abledon</uri>
         </author>
     </entry>
 </feed>
