@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 11 Apr 2022 20:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於 - 閱讀有趣的東西]]></title>
+            <link>https://news.ycombinator.com/item?id=30994734</link>
+            <guid>https://news.ycombinator.com/item?id=30994734</guid>
+            <pubDate>Mon, 11 Apr 2022 20:44:53 GMT</pubDate>
+            <description><![CDATA[About – Read Something Interesting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彼得-泰爾："ESG只是一個仇恨工廠，它是一個命名敵人的工廠"]]></title>
+            <link>https://news.ycombinator.com/item?id=30994623</link>
+            <guid>https://news.ycombinator.com/item?id=30994623</guid>
+            <pubDate>Mon, 11 Apr 2022 20:36:54 GMT</pubDate>
+            <description><![CDATA[Peter Thiel: “ESG is just a hate factory, it's a factory for naming enemies"]]></description>
+        </item>
         <item>
             <title><![CDATA[隨著遠程工作成為永久性工作，曼哈頓能否適應？]]></title>
             <link>https://news.ycombinator.com/item?id=30994483</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30976710</guid>
             <pubDate>Sun, 10 Apr 2022 13:17:18 GMT</pubDate>
             <description><![CDATA[Content Moderation and Free Speech]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國有兩隻腳。它即將失去其中的一隻。(2020)]]></title>
-            <link>https://news.ycombinator.com/item?id=30976664</link>
-            <guid>https://news.ycombinator.com/item?id=30976664</guid>
-            <pubDate>Sun, 10 Apr 2022 13:10:23 GMT</pubDate>
-            <description><![CDATA[America Has Two Feet. It’s About to Lose One of Them. (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CodeViz - 源代碼統計的OSS，包括VS代碼中的互動圖表]]></title>
-            <link>https://news.ycombinator.com/item?id=30976380</link>
-            <guid>https://news.ycombinator.com/item?id=30976380</guid>
-            <pubDate>Sun, 10 Apr 2022 12:19:14 GMT</pubDate>
-            <description><![CDATA[Show HN: CodeViz – OSS for source code stats w. interactive charts in VS Code]]></description>
         </item>
     </channel>
 </rss>
