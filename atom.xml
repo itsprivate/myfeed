@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T17:53:07.031Z</updated>
+    <updated>2022-04-11T18:16:17.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,116 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crunchbase的REST API的一个Python客户端。]]></title>
+        <id>https://news.ycombinator.com/item?id=30992435</id>
+        <link href="https://news.ycombinator.com/item?id=30992435"/>
+        <updated>2022-04-11T17:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></summary>
+        <author>
+            <name>fahad_noor</name>
+            <uri>https://news.ycombinator.com/user?id=fahad_noor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的建议是否过于市侩？]]></title>
+        <id>https://news.ycombinator.com/item?id=30992409</id>
+        <link href="https://news.ycombinator.com/item?id=30992409"/>
+        <updated>2022-04-11T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Is my advice too mercenary?]]></summary>
+        <author>
+            <name>Tangiest</name>
+            <uri>https://news.ycombinator.com/user?id=Tangiest</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python中单位的自然语法]]></title>
+        <id>https://news.ycombinator.com/item?id=30992378</id>
+        <link href="https://news.ycombinator.com/item?id=30992378"/>
+        <updated>2022-04-11T17:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Natural Syntax for Units in Python]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国总统选举在互联网上留下痕迹]]></title>
+        <id>https://news.ycombinator.com/item?id=30992372</id>
+        <link href="https://news.ycombinator.com/item?id=30992372"/>
+        <updated>2022-04-11T17:53:37.000Z</updated>
+        <summary type="html"><![CDATA[French Presidential election leaves its mark on the Internet]]></summary>
+        <author>
+            <name>emmanuelgautier</name>
+            <uri>https://news.ycombinator.com/user?id=emmanuelgautier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么过去10年的美国生活是独特的愚蠢的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30992322</id>
+        <link href="https://news.ycombinator.com/item?id=30992322"/>
+        <updated>2022-04-11T17:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Why the Past 10 Years of American Life Have Been Uniquely Stupid]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大规模的研究表明特定基因与精神分裂症有关]]></title>
+        <id>https://news.ycombinator.com/item?id=30992280</id>
+        <link href="https://news.ycombinator.com/item?id=30992280"/>
+        <updated>2022-04-11T17:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Biggest study of its kind implicates specific genes in schizophrenia]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个5岁孩子和一个人工智能写的故事和插图]]></title>
+        <id>https://news.ycombinator.com/item?id=30992265</id>
+        <link href="https://news.ycombinator.com/item?id=30992265"/>
+        <updated>2022-04-11T17:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Tales written and illustrated by a 5-year old and an AI]]></summary>
+        <author>
+            <name>spking</name>
+            <uri>https://news.ycombinator.com/user?id=spking</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub的性能：用rack.after_reply来延迟统计信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30991984</id>
+        <link href="https://news.ycombinator.com/item?id=30991984"/>
+        <updated>2022-04-11T17:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Performance at GitHub: deferring stats with rack.after_reply]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于Mister FPGA的真正软盘驱动器 - 目前的进展]]></title>
+        <id>https://news.ycombinator.com/item?id=30991951</id>
+        <link href="https://news.ycombinator.com/item?id=30991951"/>
+        <updated>2022-04-11T17:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Real Floppy Disk Drive for the Mister FPGA – Current Progress]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试数以百计的数据连接器]]></title>
+        <id>https://news.ycombinator.com/item?id=30991034</id>
+        <link href="https://news.ycombinator.com/item?id=30991034"/>
+        <updated>2022-04-11T16:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Testing hundreds of data connectors]]></summary>
+        <author>
+            <name>Arimbr</name>
+            <uri>https://news.ycombinator.com/user?id=Arimbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司默默地将Mac Studio的价格降低了10%。]]></title>
         <id>https://news.ycombinator.com/item?id=30992219</id>
@@ -6503,116 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在临床前研究中使用超声波成功治疗糖尿病]]></title>
-        <id>https://news.ycombinator.com/item?id=30974377</id>
-        <link href="https://news.ycombinator.com/item?id=30974377"/>
-        <updated>2022-04-10T04:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Diabetes successfully treated using ultrasound in preclinical study]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于实用深度学习的新课程]]></title>
-        <id>https://news.ycombinator.com/item?id=30973875</id>
-        <link href="https://news.ycombinator.com/item?id=30973875"/>
-        <updated>2022-04-10T02:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New course on practical deep learning]]></summary>
-        <author>
-            <name>amaas</name>
-            <uri>https://news.ycombinator.com/user?id=amaas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让俄罗斯石油流向欧洲的后门]]></title>
-        <id>https://news.ycombinator.com/item?id=30974775</id>
-        <link href="https://news.ycombinator.com/item?id=30974775"/>
-        <updated>2022-04-10T06:03:18.000Z</updated>
-        <summary type="html"><![CDATA[The Backdoor That Keeps Russian Oil Flowing into Europe]]></summary>
-        <author>
-            <name>krzyk</name>
-            <uri>https://news.ycombinator.com/user?id=krzyk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于检测PR中脆弱依赖关系的GitHub官方动作]]></title>
-        <id>https://news.ycombinator.com/item?id=30974298</id>
-        <link href="https://news.ycombinator.com/item?id=30974298"/>
-        <updated>2022-04-10T03:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Official GitHub Action for detecting vulnerable dependencies in PRs]]></summary>
-        <author>
-            <name>myroon5</name>
-            <uri>https://news.ycombinator.com/user?id=myroon5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个免费的、研究级的情报收集工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30974594</id>
-        <link href="https://news.ycombinator.com/item?id=30974594"/>
-        <updated>2022-04-10T05:01:38.000Z</updated>
-        <summary type="html"><![CDATA[A free, research-grade Intelligence gathering tool]]></summary>
-        <author>
-            <name>sub3suite</name>
-            <uri>https://news.ycombinator.com/user?id=sub3suite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有史以来最糟糕的编程语言 - Mark Rendle - NDC Oslo 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=30974667</id>
-        <link href="https://news.ycombinator.com/item?id=30974667"/>
-        <updated>2022-04-10T05:22:22.000Z</updated>
-        <summary type="html"><![CDATA[The Worst Programming Language Ever – Mark Rendle – NDC Oslo 2021]]></summary>
-        <author>
-            <name>dtx1</name>
-            <uri>https://news.ycombinator.com/user?id=dtx1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复整个《超级马里奥64》的源代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30974564</id>
-        <link href="https://news.ycombinator.com/item?id=30974564"/>
-        <updated>2022-04-10T04:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Fixing the entire Super Mario 64 source code]]></summary>
-        <author>
-            <name>smaddock</name>
-            <uri>https://news.ycombinator.com/user?id=smaddock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是欧洲美元体系？(2020) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30974598</id>
-        <link href="https://news.ycombinator.com/item?id=30974598"/>
-        <updated>2022-04-10T05:01:55.000Z</updated>
-        <summary type="html"><![CDATA[What is the Eurodollar System? (2020) [pdf]]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs是一个隐私和安全的噩梦]]></title>
-        <id>https://news.ycombinator.com/item?id=30974486</id>
-        <link href="https://news.ycombinator.com/item?id=30974486"/>
-        <updated>2022-04-10T04:30:34.000Z</updated>
-        <summary type="html"><![CDATA[NFTs Are a Privacy and Security Nightmare]]></summary>
-        <author>
-            <name>vic_nyc</name>
-            <uri>https://news.ycombinator.com/user?id=vic_nyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个关于位置跟踪的 "警世通言"。新闻中心]]></title>
-        <id>https://news.ycombinator.com/item?id=30974436</id>
-        <link href="https://news.ycombinator.com/item?id=30974436"/>
-        <updated>2022-04-10T04:16:10.000Z</updated>
-        <summary type="html"><![CDATA[A ‘cautionary tale’ about location tracking: NewsCenter]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
