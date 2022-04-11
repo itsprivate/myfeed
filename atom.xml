@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T06:56:44.290Z</updated>
+    <updated>2022-04-11T07:13:38.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我必须宣布立即终止SSLPing的服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30985514</id>
+        <link href="https://news.ycombinator.com/item?id=30985514"/>
+        <updated>2022-04-11T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[I must announce the immediate end of service of SSLPing]]></summary>
+        <author>
+            <name>WelcomeShorty</name>
+            <uri>https://news.ycombinator.com/user?id=WelcomeShorty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指责游戏并不有趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30985429</id>
+        <link href="https://news.ycombinator.com/item?id=30985429"/>
+        <updated>2022-04-11T06:40:42.000Z</updated>
+        <summary type="html"><![CDATA[The Blame Game Isn’t Fun]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2型糖尿病的致命性有多大？]]></title>
+        <id>https://news.ycombinator.com/item?id=30985371</id>
+        <link href="https://news.ycombinator.com/item?id=30985371"/>
+        <updated>2022-04-11T06:29:21.000Z</updated>
+        <summary type="html"><![CDATA[How deadly is type 2 diabetes?]]></summary>
+        <author>
+            <name>nradov</name>
+            <uri>https://news.ycombinator.com/user?id=nradov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将错误定罪，我们注定要重蹈覆辙]]></title>
+        <id>https://news.ycombinator.com/item?id=30985363</id>
+        <link href="https://news.ycombinator.com/item?id=30985363"/>
+        <updated>2022-04-11T06:27:36.000Z</updated>
+        <summary type="html"><![CDATA[In Criminalizing Error, We Are Doomed to Repeat Our Mistakes]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Tcl的CFFI包做一个不完全是小事的实验]]></title>
+        <id>https://news.ycombinator.com/item?id=30984877</id>
+        <link href="https://news.ycombinator.com/item?id=30984877"/>
+        <updated>2022-04-11T05:03:31.000Z</updated>
+        <summary type="html"><![CDATA[A not entirely trivial experiment with Tcl's CFFI package]]></summary>
+        <author>
+            <name>blacksqr</name>
+            <uri>https://news.ycombinator.com/user?id=blacksqr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用数学画风景]]></title>
         <id>https://news.ycombinator.com/item?id=30985396</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>rahulbstomar</name>
             <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非洲青蛙在5,800英里的旅行后在薄荷袋中被发现]]></title>
-        <id>https://news.ycombinator.com/item?id=30968158</id>
-        <link href="https://news.ycombinator.com/item?id=30968158"/>
-        <updated>2022-04-09T14:03:06.000Z</updated>
-        <summary type="html"><![CDATA[African frog found in bag of mint after 5,800-mile trip]]></summary>
-        <author>
-            <name>woldemariam</name>
-            <uri>https://news.ycombinator.com/user?id=woldemariam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉米-卡特在加拿大核反应堆熔毁后拯救了它]]></title>
-        <id>https://news.ycombinator.com/item?id=30968633</id>
-        <link href="https://news.ycombinator.com/item?id=30968633"/>
-        <updated>2022-04-09T15:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Jimmy Carter Saved Canadian Nuclear Reactor After Meltdown]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拟议的法案将把加州的工作时间缩短到32小时]]></title>
-        <id>https://news.ycombinator.com/item?id=30968614</id>
-        <link href="https://news.ycombinator.com/item?id=30968614"/>
-        <updated>2022-04-09T15:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Proposed bill would shorten California workweek to 32 hours]]></summary>
-        <author>
-            <name>nomagicbullet</name>
-            <uri>https://news.ycombinator.com/user?id=nomagicbullet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建你自己的去中心化版本的YouTube]]></title>
-        <id>https://news.ycombinator.com/item?id=30968575</id>
-        <link href="https://news.ycombinator.com/item?id=30968575"/>
-        <updated>2022-04-09T14:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Create Your Own Decentralized Version of YouTube]]></summary>
-        <author>
-            <name>geekydev</name>
-            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佐尔坦-波兹萨。我们正在见证一个新的世界货币秩序的诞生]]></title>
-        <id>https://news.ycombinator.com/item?id=30968499</id>
-        <link href="https://news.ycombinator.com/item?id=30968499"/>
-        <updated>2022-04-09T14:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Zoltan Pozsar: We are witnessing the birth of a new world monetary order]]></summary>
-        <author>
-            <name>hi5eyes</name>
-            <uri>https://news.ycombinator.com/user?id=hi5eyes</uri>
         </author>
     </entry>
 </feed>
