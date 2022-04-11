@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T18:16:17.858Z</updated>
+    <updated>2022-04-11T18:44:34.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Intuit要求Mailchimp員工自掏腰包支付醫療費用]]></title>
+        <id>https://news.ycombinator.com/item?id=30992602</id>
+        <link href="https://news.ycombinator.com/item?id=30992602"/>
+        <updated>2022-04-11T18:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Intuit asked Mailchimp employees to pay medical costs out of pocket]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Elixir構建的多人遊戲演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30992587</id>
+        <link href="https://news.ycombinator.com/item?id=30992587"/>
+        <updated>2022-04-11T18:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></summary>
+        <author>
+            <name>wenbo</name>
+            <uri>https://news.ycombinator.com/user?id=wenbo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[化學家利用太陽來回收塑料垃圾]]></title>
+        <id>https://news.ycombinator.com/item?id=30992541</id>
+        <link href="https://news.ycombinator.com/item?id=30992541"/>
+        <updated>2022-04-11T18:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Chemists harness the sun to upcycle plastic waste]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聽我的，不聽谷歌的]]></title>
+        <id>https://news.ycombinator.com/item?id=30992535</id>
+        <link href="https://news.ycombinator.com/item?id=30992535"/>
+        <updated>2022-04-11T18:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Listen to Me and Not Google]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - Valinet/ExplorerPatcher]]></title>
+        <id>https://news.ycombinator.com/item?id=30992493</id>
+        <link href="https://news.ycombinator.com/item?id=30992493"/>
+        <updated>2022-04-11T18:02:18.000Z</updated>
+        <summary type="html"><![CDATA[GitHub – Valinet/ExplorerPatcher]]></summary>
+        <author>
+            <name>rolph</name>
+            <uri>https://news.ycombinator.com/user?id=rolph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go中80倍的緩存改進]]></title>
+        <id>https://news.ycombinator.com/item?id=30992355</id>
+        <link href="https://news.ycombinator.com/item?id=30992355"/>
+        <updated>2022-04-11T17:52:07.000Z</updated>
+        <summary type="html"><![CDATA[80x Caching Improvement in Go]]></summary>
+        <author>
+            <name>ksred</name>
+            <uri>https://news.ycombinator.com/user?id=ksred</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙質樺木筆記]]></title>
+        <id>https://news.ycombinator.com/item?id=30992106</id>
+        <link href="https://news.ycombinator.com/item?id=30992106"/>
+        <updated>2022-04-11T17:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Paper Birch Notes]]></summary>
+        <author>
+            <name>NWoodsman</name>
+            <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修復整個SM64源代碼以提高性能]]></title>
+        <id>https://news.ycombinator.com/item?id=30992000</id>
+        <link href="https://news.ycombinator.com/item?id=30992000"/>
+        <updated>2022-04-11T17:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Fixing the entire SM64 source code for performance improvements]]></summary>
+        <author>
+            <name>dimator</name>
+            <uri>https://news.ycombinator.com/user?id=dimator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crunchbase的REST API的一個Python客戶端。]]></title>
         <id>https://news.ycombinator.com/item?id=30992435</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>mehtology</name>
             <uri>https://news.ycombinator.com/user?id=mehtology</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zim - 具有極快速度和模塊化擴展的Zsh配置框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30974880</id>
-        <link href="https://news.ycombinator.com/item?id=30974880"/>
-        <updated>2022-04-10T06:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Zim – The Zsh configuration framework with blazing speed and modular extensions]]></summary>
-        <author>
-            <name>coldblues</name>
-            <uri>https://news.ycombinator.com/user?id=coldblues</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懷特島的電動車充電點被黑客攻擊，顯示色情內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30974785</id>
-        <link href="https://news.ycombinator.com/item?id=30974785"/>
-        <updated>2022-04-10T06:04:51.000Z</updated>
-        <summary type="html"><![CDATA[Electric car charging points hacked to show porn in Isle of Wight]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個表情符號URL縮短器]]></title>
-        <id>https://news.ycombinator.com/item?id=30974768</id>
-        <link href="https://news.ycombinator.com/item?id=30974768"/>
-        <updated>2022-04-10T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an emoji URL shortener]]></summary>
-        <author>
-            <name>sekun</name>
-            <uri>https://news.ycombinator.com/user?id=sekun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不確定我是否曾經喜歡過編程]]></title>
-        <id>https://news.ycombinator.com/item?id=30974726</id>
-        <link href="https://news.ycombinator.com/item?id=30974726"/>
-        <updated>2022-04-10T05:48:52.000Z</updated>
-        <summary type="html"><![CDATA[I'm Not Sure I've Ever Enjoyed Programming]]></summary>
-        <author>
-            <name>Alekhine</name>
-            <uri>https://news.ycombinator.com/user?id=Alekhine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活在中國古老的外籍人士泡沫中是什麼樣子的]]></title>
-        <id>https://news.ycombinator.com/item?id=30974704</id>
-        <link href="https://news.ycombinator.com/item?id=30974704"/>
-        <updated>2022-04-10T05:39:24.000Z</updated>
-        <summary type="html"><![CDATA[What living in China’s old expat bubbles was like]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉-加迪斯：《愚人船的甲板下》(Pt. 1)]]></title>
-        <id>https://news.ycombinator.com/item?id=30974668</id>
-        <link href="https://news.ycombinator.com/item?id=30974668"/>
-        <updated>2022-04-10T05:22:54.000Z</updated>
-        <summary type="html"><![CDATA[William Gaddis: Below Deck on the Ship of Fools (Pt. 1)]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邁阿密的加密貨幣熱在比特幣會議上得到充分展示]]></title>
-        <id>https://news.ycombinator.com/item?id=30974648</id>
-        <link href="https://news.ycombinator.com/item?id=30974648"/>
-        <updated>2022-04-10T05:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Miami’s Crypto Craze on Full Display at Bitcoin Conference]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是偏光照明以及為什麼你應該使用它（2017年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30974500</id>
-        <link href="https://news.ycombinator.com/item?id=30974500"/>
-        <updated>2022-04-10T04:35:19.000Z</updated>
-        <summary type="html"><![CDATA[What Bias Lighting Is and Why You Should Be Using It (2017)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
