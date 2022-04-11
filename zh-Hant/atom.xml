@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T08:38:02.456Z</updated>
+    <updated>2022-04-11T08:55:05.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[testsl.sh]]></title>
+        <id>https://news.ycombinator.com/item?id=30986082</id>
+        <link href="https://news.ycombinator.com/item?id=30986082"/>
+        <updated>2022-04-11T08:29:02.000Z</updated>
+        <summary type="html"><![CDATA[testssl.sh]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跳出發行版和詢問其他人選擇的操作系統的缺陷]]></title>
+        <id>https://news.ycombinator.com/item?id=30986028</id>
+        <link href="https://news.ycombinator.com/item?id=30986028"/>
+        <updated>2022-04-11T08:19:41.000Z</updated>
+        <summary type="html"><![CDATA[The flaws of distro hopping and asking other people about their OS of choice]]></summary>
+        <author>
+            <name>WhyNotHugo</name>
+            <uri>https://news.ycombinator.com/user?id=WhyNotHugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟Excel簡介 (1992)]]></title>
+        <id>https://news.ycombinator.com/item?id=30985980</id>
+        <link href="https://news.ycombinator.com/item?id=30985980"/>
+        <updated>2022-04-11T08:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Microsoft Excel (1992)]]></summary>
+        <author>
+            <name>omarfarooq</name>
+            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們熱愛Linux]]></title>
         <id>https://news.ycombinator.com/item?id=30985502</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在15歲時賣掉了我的第一家科技公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30968820</id>
-        <link href="https://news.ycombinator.com/item?id=30968820"/>
-        <updated>2022-04-09T15:22:34.000Z</updated>
-        <summary type="html"><![CDATA[I sold my first tech company at 15 years old]]></summary>
-        <author>
-            <name>naissa</name>
-            <uri>https://news.ycombinator.com/user?id=naissa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基世界。維基百科的銀河系重構]]></title>
-        <id>https://news.ycombinator.com/item?id=30968680</id>
-        <link href="https://news.ycombinator.com/item?id=30968680"/>
-        <updated>2022-04-09T15:09:06.000Z</updated>
-        <summary type="html"><![CDATA[Wikiverse: A Galactic Reimagining of Wikipedia]]></summary>
-        <author>
-            <name>pps</name>
-            <uri>https://news.ycombinator.com/user?id=pps</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[功能性網絡應用程序--如何構建]]></title>
-        <id>https://news.ycombinator.com/item?id=30968672</id>
-        <link href="https://news.ycombinator.com/item?id=30968672"/>
-        <updated>2022-04-09T15:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Functional Web Apps – How to Build]]></summary>
-        <author>
-            <name>craigkerstiens</name>
-            <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
         </author>
     </entry>
 </feed>
