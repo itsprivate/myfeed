@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T10:40:21.405Z</updated>
+    <updated>2022-04-11T10:55:36.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個將人工智能模型作為輸入並輸出一個更快的版本的開放源碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30986962</id>
+        <link href="https://news.ycombinator.com/item?id=30986962"/>
+        <updated>2022-04-11T10:50:16.000Z</updated>
+        <summary type="html"><![CDATA[An open-source that takes an AI model as input and outputs a much faster version]]></summary>
+        <author>
+            <name>zzz_sleeping</name>
+            <uri>https://news.ycombinator.com/user?id=zzz_sleeping</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是邪教"。比特幣無恥的炒作活動的內幕]]></title>
         <id>https://news.ycombinator.com/item?id=30986762</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gigglesupstairs</name>
             <uri>https://news.ycombinator.com/user?id=gigglesupstairs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在虛擬現實中去了俱樂部。元老級的狂歡]]></title>
-        <id>https://news.ycombinator.com/item?id=30969516</id>
-        <link href="https://news.ycombinator.com/item?id=30969516"/>
-        <updated>2022-04-09T16:37:32.000Z</updated>
-        <summary type="html"><![CDATA[I Went Clubbing in Virtual Reality: Metaverse Raves]]></summary>
-        <author>
-            <name>mcp_</name>
-            <uri>https://news.ycombinator.com/user?id=mcp_</uri>
         </author>
     </entry>
 </feed>
