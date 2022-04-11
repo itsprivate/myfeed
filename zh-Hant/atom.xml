@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T08:55:05.976Z</updated>
+    <updated>2022-04-11T09:13:13.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有石油美元，而且焦點不在這裡]]></title>
+        <id>https://news.ycombinator.com/item?id=30986147</id>
+        <link href="https://news.ycombinator.com/item?id=30986147"/>
+        <updated>2022-04-11T08:37:12.000Z</updated>
+        <summary type="html"><![CDATA[There Are No Petrodollars, Plus the Focus Misses the Point]]></summary>
+        <author>
+            <name>johntfella</name>
+            <uri>https://news.ycombinator.com/user?id=johntfella</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[testsl.sh]]></title>
         <id>https://news.ycombinator.com/item?id=30986082</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數字足跡可以幫助黑客滲透到計算機網絡中去]]></title>
-        <id>https://news.ycombinator.com/item?id=30968904</id>
-        <link href="https://news.ycombinator.com/item?id=30968904"/>
-        <updated>2022-04-09T15:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Digital footprints could help hackers infiltrate computer networks]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
         </author>
     </entry>
 </feed>
