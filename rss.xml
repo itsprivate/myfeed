@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在生产中调试你的AWS Lambda]]></title>
+            <link>https://news.ycombinator.com/item?id=30985689</link>
+            <guid>https://news.ycombinator.com/item?id=30985689</guid>
+            <pubDate>Mon, 11 Apr 2022 07:22:33 GMT</pubDate>
+            <description><![CDATA[Debug Your AWS Lambda in Production]]></description>
+        </item>
         <item>
             <title><![CDATA[我决定为了我的孩子和我自己的大科技而搬走。]]></title>
             <link>https://news.ycombinator.com/item?id=30985684</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30968384</guid>
             <pubDate>Sat, 09 Apr 2022 14:35:17 GMT</pubDate>
             <description><![CDATA[Childhood hepatitis: Why are we seeing an unusual spike in cases?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[555定时器电路]]></title>
-            <link>https://news.ycombinator.com/item?id=30968306</link>
-            <guid>https://news.ycombinator.com/item?id=30968306</guid>
-            <pubDate>Sat, 09 Apr 2022 14:23:54 GMT</pubDate>
-            <description><![CDATA[555 Timer Circuits]]></description>
         </item>
     </channel>
 </rss>

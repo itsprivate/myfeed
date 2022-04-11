@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T07:33:17.013Z</updated>
+    <updated>2022-04-11T07:51:24.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在生产中调试你的AWS Lambda]]></title>
+        <id>https://news.ycombinator.com/item?id=30985689</id>
+        <link href="https://news.ycombinator.com/item?id=30985689"/>
+        <updated>2022-04-11T07:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Debug Your AWS Lambda in Production]]></summary>
+        <author>
+            <name>burakkantarci</name>
+            <uri>https://news.ycombinator.com/user?id=burakkantarci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我决定为了我的孩子和我自己的大科技而搬走。]]></title>
         <id>https://news.ycombinator.com/item?id=30985684</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[555定时器电路]]></title>
-        <id>https://news.ycombinator.com/item?id=30968306</id>
-        <link href="https://news.ycombinator.com/item?id=30968306"/>
-        <updated>2022-04-09T14:23:54.000Z</updated>
-        <summary type="html"><![CDATA[555 Timer Circuits]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
         </author>
     </entry>
 </feed>
