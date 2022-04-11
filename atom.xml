@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T05:38:41.912Z</updated>
+    <updated>2022-04-11T05:51:05.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1951年，空军飞行员将飞机降落在雷尼尔山上]]></title>
+        <id>https://news.ycombinator.com/item?id=30984830</id>
+        <link href="https://news.ycombinator.com/item?id=30984830"/>
+        <updated>2022-04-11T04:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Air Force pilot lands airplane on Mount Rainier in 1951]]></summary>
+        <author>
+            <name>noduerme</name>
+            <uri>https://news.ycombinator.com/user?id=noduerme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星空下的舞蹈：星光下的视频去噪]]></title>
         <id>https://news.ycombinator.com/item?id=30984933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Gangggang</name>
             <uri>https://news.ycombinator.com/user?id=Gangggang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威尔-史密斯在2022年奥斯卡颁奖典礼上掌掴克里斯-洛克的一切错误之处]]></title>
-        <id>https://news.ycombinator.com/item?id=30968421</id>
-        <link href="https://news.ycombinator.com/item?id=30968421"/>
-        <updated>2022-04-09T14:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Everything Wrong with Will Smith Slapping Chris Rock at the 2022 Oscars]]></summary>
-        <author>
-            <name>XQorp</name>
-            <uri>https://news.ycombinator.com/user?id=XQorp</uri>
         </author>
     </entry>
 </feed>
