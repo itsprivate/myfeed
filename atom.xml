@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T11:13:38.506Z</updated>
+    <updated>2022-04-11T11:31:32.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DOS的怀旧。关于使用现代DOS工作站]]></title>
+        <id>https://news.ycombinator.com/item?id=30987063</id>
+        <link href="https://news.ycombinator.com/item?id=30987063"/>
+        <updated>2022-04-11T11:04:18.000Z</updated>
+        <summary type="html"><![CDATA[DOS Nostalgia: On using a modern DOS workstation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰士兵拆除了俄罗斯的Orlan无人机]]></title>
         <id>https://news.ycombinator.com/item?id=30986994</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>janandonly</name>
             <uri>https://news.ycombinator.com/user?id=janandonly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对生命的可能起源的新认识]]></title>
-        <id>https://news.ycombinator.com/item?id=30969804</id>
-        <link href="https://news.ycombinator.com/item?id=30969804"/>
-        <updated>2022-04-09T17:08:40.000Z</updated>
-        <summary type="html"><![CDATA[New insight into the possible origins of life]]></summary>
-        <author>
-            <name>wintercarver</name>
-            <uri>https://news.ycombinator.com/user?id=wintercarver</uri>
         </author>
     </entry>
 </feed>
