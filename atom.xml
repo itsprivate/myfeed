@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T05:12:03.316Z</updated>
+    <updated>2022-04-11T05:30:28.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何寻找合作伙伴]]></title>
+        <id>https://news.ycombinator.com/item?id=30984646</id>
+        <link href="https://news.ycombinator.com/item?id=30984646"/>
+        <updated>2022-04-11T04:21:44.000Z</updated>
+        <summary type="html"><![CDATA[How to Look for Partners]]></summary>
+        <author>
+            <name>arbiternitrite</name>
+            <uri>https://news.ycombinator.com/user?id=arbiternitrite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript实例化表达式]]></title>
         <id>https://news.ycombinator.com/item?id=30984818</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zackoverflow</name>
             <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近距离观察一个鲜为人知的8位数计算机]]></title>
-        <id>https://news.ycombinator.com/item?id=30968354</id>
-        <link href="https://news.ycombinator.com/item?id=30968354"/>
-        <updated>2022-04-09T14:30:30.000Z</updated>
-        <summary type="html"><![CDATA[A Close Look at a Little Known 8-Bit Computer]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
         </author>
     </entry>
 </feed>
