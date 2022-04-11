@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T21:12:47.015Z</updated>
+    <updated>2022-04-11T21:32:15.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国天夏]]></title>
+        <id>https://news.ycombinator.com/item?id=30995243</id>
+        <link href="https://news.ycombinator.com/item?id=30995243"/>
+        <updated>2022-04-11T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[American Tianxia]]></summary>
+        <author>
+            <name>telotortium</name>
+            <uri>https://news.ycombinator.com/user?id=telotortium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果-1的移位寄存器内存]]></title>
+        <id>https://news.ycombinator.com/item?id=30995051</id>
+        <link href="https://news.ycombinator.com/item?id=30995051"/>
+        <updated>2022-04-11T21:07:05.000Z</updated>
+        <summary type="html"><![CDATA[The Apple-1's shift-register memory]]></summary>
+        <author>
+            <name>kens</name>
+            <uri>https://news.ycombinator.com/user?id=kens</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熟悉Go Workspaces]]></title>
+        <id>https://news.ycombinator.com/item?id=30995029</id>
+        <link href="https://news.ycombinator.com/item?id=30995029"/>
+        <updated>2022-04-11T21:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Get Familiar with Go Workspaces]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这种人工智能是否像人类一样思考？]]></title>
+        <id>https://news.ycombinator.com/item?id=30994970</id>
+        <link href="https://news.ycombinator.com/item?id=30994970"/>
+        <updated>2022-04-11T21:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Does this artificial intelligence think like a human?]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[合理的。自我托管的谷歌分析替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30994931</id>
+        <link href="https://news.ycombinator.com/item?id=30994931"/>
+        <updated>2022-04-11T20:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Plausible: Self-Hosted Google Analytics Alternative]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从头开始建设一个新城市的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30994910</id>
+        <link href="https://news.ycombinator.com/item?id=30994910"/>
+        <updated>2022-04-11T20:57:39.000Z</updated>
+        <summary type="html"><![CDATA[The problem with building a new city from scratch]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了保持最新的ML/AI新闻，应该关注哪个blob/期刊/报纸？]]></title>
+        <id>https://news.ycombinator.com/item?id=30994712</id>
+        <link href="https://news.ycombinator.com/item?id=30994712"/>
+        <updated>2022-04-11T20:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Which blob/journal/paper to follow to stay uptodate on ML/AI news?]]></summary>
+        <author>
+            <name>jackallis</name>
+            <uri>https://news.ycombinator.com/user?id=jackallis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱德华-阿特米耶夫，苏联和俄罗斯的电子音乐和电影配乐作曲家]]></title>
+        <id>https://news.ycombinator.com/item?id=30994496</id>
+        <link href="https://news.ycombinator.com/item?id=30994496"/>
+        <updated>2022-04-11T20:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Eduard Artemyev, Soviet and Russian composer of electronic music and film scores]]></summary>
+        <author>
+            <name>paganel</name>
+            <uri>https://news.ycombinator.com/user?id=paganel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯拼凑超级计算机平台以摆脱外国供应商的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30994201</id>
+        <link href="https://news.ycombinator.com/item?id=30994201"/>
+        <updated>2022-04-11T20:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Russia cobbles together supercomputing platform to wean off foreign suppliers]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯军队可能在乌克兰用磷弹 "烧死人"。]]></title>
         <id>https://news.ycombinator.com/item?id=30994896</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>elvis70</name>
             <uri>https://news.ycombinator.com/user?id=elvis70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear - 你会喜欢使用的问题跟踪工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30976859</id>
-        <link href="https://news.ycombinator.com/item?id=30976859"/>
-        <updated>2022-04-10T13:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Linear – The issue tracking tool you'll enjoy using]]></summary>
-        <author>
-            <name>legrande</name>
-            <uri>https://news.ycombinator.com/user?id=legrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubbrband，一个为音乐家设计的跟踪动态的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30977329</id>
-        <link href="https://news.ycombinator.com/item?id=30977329"/>
-        <updated>2022-04-10T14:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rubbrband, an app for musicians that tracks dynamics]]></summary>
-        <author>
-            <name>oaknutspiano</name>
-            <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德诺经验]]></title>
-        <id>https://news.ycombinator.com/item?id=30977280</id>
-        <link href="https://news.ycombinator.com/item?id=30977280"/>
-        <updated>2022-04-10T14:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Deno Experience]]></summary>
-        <author>
-            <name>droyson</name>
-            <uri>https://news.ycombinator.com/user?id=droyson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业公司雇用高管时]]></title>
-        <id>https://news.ycombinator.com/item?id=30977126</id>
-        <link href="https://news.ycombinator.com/item?id=30977126"/>
-        <updated>2022-04-10T14:22:28.000Z</updated>
-        <summary type="html"><![CDATA[When start ups hire execs]]></summary>
-        <author>
-            <name>kasamoah</name>
-            <uri>https://news.ycombinator.com/user?id=kasamoah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个地方来探索许多平台上发布的所有产品]]></title>
-        <id>https://news.ycombinator.com/item?id=30976771</id>
-        <link href="https://news.ycombinator.com/item?id=30976771"/>
-        <updated>2022-04-10T13:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made one place to explore all products posted on many platform]]></summary>
-        <author>
-            <name>TheOmkarBirje</name>
-            <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异端]]></title>
-        <id>https://news.ycombinator.com/item?id=30977147</id>
-        <link href="https://news.ycombinator.com/item?id=30977147"/>
-        <updated>2022-04-10T14:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Heresy]]></summary>
-        <author>
-            <name>prtkgpt</name>
-            <uri>https://news.ycombinator.com/user?id=prtkgpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被忽视的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30977078</id>
-        <link href="https://news.ycombinator.com/item?id=30977078"/>
-        <updated>2022-04-10T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Overlooked Problems]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对罗马钱币的分析发现了金融危机的证据]]></title>
-        <id>https://news.ycombinator.com/item?id=30977070</id>
-        <link href="https://news.ycombinator.com/item?id=30977070"/>
-        <updated>2022-04-10T14:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of Roman coins uncovers evidence of financial crisis]]></summary>
-        <author>
-            <name>rgrieselhuber</name>
-            <uri>https://news.ycombinator.com/user?id=rgrieselhuber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司仍在未经同意的情况下跟踪你]]></title>
-        <id>https://news.ycombinator.com/item?id=30977011</id>
-        <link href="https://news.ycombinator.com/item?id=30977011"/>
-        <updated>2022-04-10T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Apple Is Still Tracking You Without Consent]]></summary>
-        <author>
-            <name>dexwell</name>
-            <uri>https://news.ycombinator.com/user?id=dexwell</uri>
         </author>
     </entry>
 </feed>
