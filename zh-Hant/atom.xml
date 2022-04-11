@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-11T13:00:46.063Z</updated>
+    <updated>2022-04-11T13:30:01.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更新的AMD Zen 1至Zen 3 CPU微代碼發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=30988215</id>
+        <link href="https://news.ycombinator.com/item?id=30988215"/>
+        <updated>2022-04-11T13:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Updated AMD Zen 1 Through Zen 3 CPU Microcode Published]]></summary>
+        <author>
+            <name>lhoff</name>
+            <uri>https://news.ycombinator.com/user?id=lhoff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js包不值得你信任]]></title>
+        <id>https://news.ycombinator.com/item?id=30988034</id>
+        <link href="https://news.ycombinator.com/item?id=30988034"/>
+        <updated>2022-04-11T12:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Node.js packages don't deserve your trust]]></summary>
+        <author>
+            <name>lewisjoe</name>
+            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發人員的CI/CD社區]]></title>
+        <id>https://news.ycombinator.com/item?id=30988032</id>
+        <link href="https://news.ycombinator.com/item?id=30988032"/>
+        <updated>2022-04-11T12:57:24.000Z</updated>
+        <summary type="html"><![CDATA[CI/CD Community for Developers]]></summary>
+        <author>
+            <name>drousch</name>
+            <uri>https://news.ycombinator.com/user?id=drousch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更硬的驅動器。我們不想要或不需要的硬盤]]></title>
+        <id>https://news.ycombinator.com/item?id=30987824</id>
+        <link href="https://news.ycombinator.com/item?id=30987824"/>
+        <updated>2022-04-11T12:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Harder Drives: Hard drives we didn’t want or need]]></summary>
+        <author>
+            <name>bgschulman31</name>
+            <uri>https://news.ycombinator.com/user?id=bgschulman31</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在火星上，聲音的速度取決於它的音高]]></title>
+        <id>https://news.ycombinator.com/item?id=30987614</id>
+        <link href="https://news.ycombinator.com/item?id=30987614"/>
+        <updated>2022-04-11T12:12:56.000Z</updated>
+        <summary type="html"><![CDATA[On Mars the speed of sound depends on its pitch]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何創建ERC20 Meme代幣並引導AMM的流動性]]></title>
+        <id>https://news.ycombinator.com/item?id=30987511</id>
+        <link href="https://news.ycombinator.com/item?id=30987511"/>
+        <updated>2022-04-11T12:00:37.000Z</updated>
+        <summary type="html"><![CDATA[How to Create ERC20 Meme Token and Bootstrap AMM Liquidity]]></summary>
+        <author>
+            <name>pawurb</name>
+            <uri>https://news.ycombinator.com/user?id=pawurb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rust建立一個創業公司]]></title>
         <id>https://news.ycombinator.com/item?id=30987932</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監管區塊鏈。技術-社會和法律挑戰（2018年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30971005</id>
-        <link href="https://news.ycombinator.com/item?id=30971005"/>
-        <updated>2022-04-09T19:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Regulating Blockchain: Techno-Social and Legal Challenges (2018)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潛伏學習]]></title>
-        <id>https://news.ycombinator.com/item?id=30970674</id>
-        <link href="https://news.ycombinator.com/item?id=30970674"/>
-        <updated>2022-04-09T18:34:01.000Z</updated>
-        <summary type="html"><![CDATA[Learning by Lurking]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 4.7測試版]]></title>
-        <id>https://news.ycombinator.com/item?id=30970421</id>
-        <link href="https://news.ycombinator.com/item?id=30970421"/>
-        <updated>2022-04-09T18:07:43.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript 4.7 Beta]]></summary>
-        <author>
-            <name>soheilpro</name>
-            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福大學教授報警，稱伯克利大學教授曝光她每小時5千美元的諮詢費]]></title>
-        <id>https://news.ycombinator.com/item?id=30970938</id>
-        <link href="https://news.ycombinator.com/item?id=30970938"/>
-        <updated>2022-04-09T19:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Stanford prof calls cops on Berkeley prof who exposed her $5K/hr consulting fee]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堆積。一個免費的、開源的、跨平臺的遊戲引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30970934</id>
-        <link href="https://news.ycombinator.com/item?id=30970934"/>
-        <updated>2022-04-09T19:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Heaps: A free, open-source and cross-platform game engine]]></summary>
-        <author>
-            <name>technophiliac</name>
-            <uri>https://news.ycombinator.com/user?id=technophiliac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為你做了一個網站，以第一人稱POV的方式環遊世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30970911</id>
-        <link href="https://news.ycombinator.com/item?id=30970911"/>
-        <updated>2022-04-09T18:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></summary>
-        <author>
-            <name>eddieweng</name>
-            <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
         </author>
     </entry>
 </feed>
