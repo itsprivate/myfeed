@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T14:40:09.115Z</updated>
+    <updated>2022-04-12T14:52:25.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個在PHP中建立穩固的分散式應用程序的庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31003389</id>
+        <link href="https://news.ycombinator.com/item?id=31003389"/>
+        <updated>2022-04-12T14:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A library to build Solid decentralized applications in PHP]]></summary>
+        <author>
+            <name>kdunglas</name>
+            <uri>https://news.ycombinator.com/user?id=kdunglas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國能否向烏克蘭提供反艦導彈？]]></title>
+        <id>https://news.ycombinator.com/item?id=31003373</id>
+        <link href="https://news.ycombinator.com/item?id=31003373"/>
+        <updated>2022-04-12T14:41:24.000Z</updated>
+        <summary type="html"><![CDATA[Can the UK supply anti-ship missiles to Ukraine?]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐空局望遠鏡捕捉到海王星溫度的驚人變化]]></title>
+        <id>https://news.ycombinator.com/item?id=31003348</id>
+        <link href="https://news.ycombinator.com/item?id=31003348"/>
+        <updated>2022-04-12T14:39:12.000Z</updated>
+        <summary type="html"><![CDATA[ESO telescope captures surprising changes in Neptune's temperatures]]></summary>
+        <author>
+            <name>rgrieselhuber</name>
+            <uri>https://news.ycombinator.com/user?id=rgrieselhuber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaverse經濟到2030年可能增長到8T至13T美元之間]]></title>
+        <id>https://news.ycombinator.com/item?id=31003338</id>
+        <link href="https://news.ycombinator.com/item?id=31003338"/>
+        <updated>2022-04-12T14:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Metaverse economy could grow to between $8T and $13T by 2030]]></summary>
+        <author>
+            <name>marcoslozada</name>
+            <uri>https://news.ycombinator.com/user?id=marcoslozada</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國首相因在全國封鎖期間舉行宴會而被罰款]]></title>
+        <id>https://news.ycombinator.com/item?id=31003036</id>
+        <link href="https://news.ycombinator.com/item?id=31003036"/>
+        <updated>2022-04-12T14:16:03.000Z</updated>
+        <summary type="html"><![CDATA[British PM fined for parties during national lockdown]]></summary>
+        <author>
+            <name>rob_c</name>
+            <uri>https://news.ycombinator.com/user?id=rob_c</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯的現金流湧動。儘管受到制裁，俄羅斯的現金流在第一季度飆升]]></title>
+        <id>https://news.ycombinator.com/item?id=31002974</id>
+        <link href="https://news.ycombinator.com/item?id=31002974"/>
+        <updated>2022-04-12T14:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Russia's cash Gusher: Russian cash flows soared during Q1, despite sanctions]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes 1.24將於下週發佈--哪些是新的，哪些是棄用的列表]]></title>
         <id>https://news.ycombinator.com/item?id=31003261</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TLD測驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30987257</id>
-        <link href="https://news.ycombinator.com/item?id=30987257"/>
-        <updated>2022-04-11T11:31:37.000Z</updated>
-        <summary type="html"><![CDATA[TLD Quiz]]></summary>
-        <author>
-            <name>healeycodes</name>
-            <uri>https://news.ycombinator.com/user?id=healeycodes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes CronJobs - 可操作指南和教程]]></title>
-        <id>https://news.ycombinator.com/item?id=30987154</id>
-        <link href="https://news.ycombinator.com/item?id=30987154"/>
-        <updated>2022-04-11T11:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes CronJobs – Actionable Guide and Tutorial]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Twitch打破巨石。第一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30986901</id>
-        <link href="https://news.ycombinator.com/item?id=30986901"/>
-        <updated>2022-04-11T10:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Breaking the Monolith at Twitch: Part One]]></summary>
-        <author>
-            <name>bkq</name>
-            <uri>https://news.ycombinator.com/user?id=bkq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE實用指南：事件嚴重程度等級]]></title>
-        <id>https://news.ycombinator.com/item?id=30986857</id>
-        <link href="https://news.ycombinator.com/item?id=30986857"/>
-        <updated>2022-04-11T10:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Practical Guide to SRE: Incident Severity Levels]]></summary>
-        <author>
-            <name>nancychauhan</name>
-            <uri>https://news.ycombinator.com/user?id=nancychauhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們如何學會安全烹飪有毒植物？(2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30987263</id>
-        <link href="https://news.ycombinator.com/item?id=30987263"/>
-        <updated>2022-04-11T11:32:18.000Z</updated>
-        <summary type="html"><![CDATA[How do people learn to cook a poisonous plant safely? (2019)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒藥之謎：三王之一的巴爾塔薩是如何變成黑人的？(2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30987259</id>
-        <link href="https://news.ycombinator.com/item?id=30987259"/>
-        <updated>2022-04-11T11:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Myrrh mystery: how did Balthasar, one of the three kings, become black? (2020)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
