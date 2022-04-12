@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T04:45:14.828Z</updated>
+    <updated>2022-04-12T04:58:42.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在PyTorch中實現DALL-E 2]]></title>
+        <id>https://news.ycombinator.com/item?id=30998651</id>
+        <link href="https://news.ycombinator.com/item?id=30998651"/>
+        <updated>2022-04-12T04:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Implementation of DALL-E 2 in PyTorch]]></summary>
+        <author>
+            <name>m15i</name>
+            <uri>https://news.ycombinator.com/user?id=m15i</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞭解史蒂夫-喬布斯和蘋果公司歷史的書籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30998490</id>
+        <link href="https://news.ycombinator.com/item?id=30998490"/>
+        <updated>2022-04-12T04:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Books to learn about Steve Jobs and the history of Apple Inc]]></summary>
+        <author>
+            <name>WoodenChair</name>
+            <uri>https://news.ycombinator.com/user?id=WoodenChair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[末日之城]]></title>
         <id>https://news.ycombinator.com/item?id=30998562</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bcantrill</name>
             <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reiser5: 本地主機上的並行擴展 - 數字]]></title>
-        <id>https://news.ycombinator.com/item?id=30980966</id>
-        <link href="https://news.ycombinator.com/item?id=30980966"/>
-        <updated>2022-04-10T19:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Reiser5: Parallel scaling out on local hosts - Numbers]]></summary>
-        <author>
-            <name>cf100clunk</name>
-            <uri>https://news.ycombinator.com/user?id=cf100clunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Yubikey是什麼鬼東西，我為什麼要買？"。一份用戶指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30980923</id>
-        <link href="https://news.ycombinator.com/item?id=30980923"/>
-        <updated>2022-04-10T19:41:54.000Z</updated>
-        <summary type="html"><![CDATA[“What the heck is a Yubikey and why did I buy one?”: A user guide]]></summary>
-        <author>
-            <name>sph</name>
-            <uri>https://news.ycombinator.com/user?id=sph</uri>
         </author>
     </entry>
 </feed>
