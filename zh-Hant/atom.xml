@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T19:28:20.456Z</updated>
+    <updated>2022-04-12T19:36:57.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立一個客戶服務聊天機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=31007153</id>
+        <link href="https://news.ycombinator.com/item?id=31007153"/>
+        <updated>2022-04-12T19:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Build a Customer Service Chatbot]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓國人的年齡將隨著取消 "韓國年齡 "的計劃而改變]]></title>
+        <id>https://news.ycombinator.com/item?id=31007097</id>
+        <link href="https://news.ycombinator.com/item?id=31007097"/>
+        <updated>2022-04-12T19:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Ages of South Koreans to Change with Plans to Eliminate 'Korean Age']]></summary>
+        <author>
+            <name>pigtailgirl</name>
+            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱性記憶症]]></title>
         <id>https://news.ycombinator.com/item?id=31007069</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>NWoodsman</name>
             <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修復整個SM64源代碼以提高性能]]></title>
-        <id>https://news.ycombinator.com/item?id=30992000</id>
-        <link href="https://news.ycombinator.com/item?id=30992000"/>
-        <updated>2022-04-11T17:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Fixing the entire SM64 source code for performance improvements]]></summary>
-        <author>
-            <name>dimator</name>
-            <uri>https://news.ycombinator.com/user?id=dimator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crunchbase的REST API的一個Python客戶端。]]></title>
-        <id>https://news.ycombinator.com/item?id=30992435</id>
-        <link href="https://news.ycombinator.com/item?id=30992435"/>
-        <updated>2022-04-11T17:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></summary>
-        <author>
-            <name>fahad_noor</name>
-            <uri>https://news.ycombinator.com/user?id=fahad_noor</uri>
         </author>
     </entry>
 </feed>
