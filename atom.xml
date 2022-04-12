@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T20:44:38.560Z</updated>
+    <updated>2022-04-12T20:51:39.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通往随机替代包的门户]]></title>
+        <id>https://news.ycombinator.com/item?id=31007944</id>
+        <link href="https://news.ycombinator.com/item?id=31007944"/>
+        <updated>2022-04-12T20:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Portal to Random Substacks]]></summary>
+        <author>
+            <name>cjlm</name>
+            <uri>https://news.ycombinator.com/user?id=cjlm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜剧传奇人物吉尔伯特-戈特弗里德去世，享年67岁]]></title>
+        <id>https://news.ycombinator.com/item?id=31007528</id>
+        <link href="https://news.ycombinator.com/item?id=31007528"/>
+        <updated>2022-04-12T19:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Comedy Legend Gilbert Gottfried Dead at 67]]></summary>
+        <author>
+            <name>donatj</name>
+            <uri>https://news.ycombinator.com/user?id=donatj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Outlook/O365设置OAuth2来阅读和发送邮件]]></title>
         <id>https://news.ycombinator.com/item?id=31007910</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nobody9999</name>
             <uri>https://news.ycombinator.com/user?id=nobody9999</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某些人格特征与晚年的认知功能有关]]></title>
-        <id>https://news.ycombinator.com/item?id=30993388</id>
-        <link href="https://news.ycombinator.com/item?id=30993388"/>
-        <updated>2022-04-11T19:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Certain personality traits associated with cognitive functioning late in life]]></summary>
-        <author>
-            <name>Kaibeezy</name>
-            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perforce收购DevOps力量Puppet]]></title>
-        <id>https://news.ycombinator.com/item?id=30993386</id>
-        <link href="https://news.ycombinator.com/item?id=30993386"/>
-        <updated>2022-04-11T19:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Perforce acquires DevOps power Puppet]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
         </author>
     </entry>
 </feed>
