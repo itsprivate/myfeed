@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T10:39:21.072Z</updated>
+    <updated>2022-04-12T10:55:06.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.3發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=31000876</id>
+        <link href="https://news.ycombinator.com/item?id=31000876"/>
+        <updated>2022-04-12T10:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Qt 6.3 Released]]></summary>
+        <author>
+            <name>obdev</name>
+            <uri>https://news.ycombinator.com/user?id=obdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於GLTF規範的WebGPU渲染器]]></title>
+        <id>https://news.ycombinator.com/item?id=31000807</id>
+        <link href="https://news.ycombinator.com/item?id=31000807"/>
+        <updated>2022-04-12T10:37:21.000Z</updated>
+        <summary type="html"><![CDATA[WebGPU renderer based on GLTF spec]]></summary>
+        <author>
+            <name>reon90</name>
+            <uri>https://news.ycombinator.com/user?id=reon90</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超過15%的世界人口在任何一天都有頭痛的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=31000803</id>
+        <link href="https://news.ycombinator.com/item?id=31000803"/>
+        <updated>2022-04-12T10:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Over 15% of world population has a headache on any given day]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前新疆囚犯抵達美國，成為虐待行為的關鍵證人]]></title>
+        <id>https://news.ycombinator.com/item?id=31000744</id>
+        <link href="https://news.ycombinator.com/item?id=31000744"/>
+        <updated>2022-04-12T10:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Former Xinjiang prisoner arrives in U.S. as key witness to abuses]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松鼠。一個用於快速和靈活的大規模數據加載的Python庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31000667</id>
+        <link href="https://news.ycombinator.com/item?id=31000667"/>
+        <updated>2022-04-12T10:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Squirrel: A Python library for fast and flexible large-scale data loading]]></summary>
+        <author>
+            <name>nksmxm</name>
+            <uri>https://news.ycombinator.com/user?id=nksmxm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樹莓的免費固件進展如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31000725</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>really_relay</name>
             <uri>https://news.ycombinator.com/user?id=really_relay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為我的Raspberry Pi相機添加動作]]></title>
-        <id>https://news.ycombinator.com/item?id=30983798</id>
-        <link href="https://news.ycombinator.com/item?id=30983798"/>
-        <updated>2022-04-11T02:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Adding movement to my Raspberry Pi camera]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無衝突複製的數據類型（CRDT）]]></title>
-        <id>https://news.ycombinator.com/item?id=30983770</id>
-        <link href="https://news.ycombinator.com/item?id=30983770"/>
-        <updated>2022-04-11T02:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Conflict-Free Replicated Data Types (CRDT)]]></summary>
-        <author>
-            <name>leonidasv</name>
-            <uri>https://news.ycombinator.com/user?id=leonidasv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SARS兩次逃出北京實驗室：然後實驗室搬到了武漢 (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30983730</id>
-        <link href="https://news.ycombinator.com/item?id=30983730"/>
-        <updated>2022-04-11T02:00:13.000Z</updated>
-        <summary type="html"><![CDATA[SARS Escaped Beijing Lab Twice: Then Lab Moved to Wuhan (2004)]]></summary>
-        <author>
-            <name>barry-cotter</name>
-            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現代化的廢棄購物中心與可怕的西爾斯公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30983723</id>
-        <link href="https://news.ycombinator.com/item?id=30983723"/>
-        <updated>2022-04-11T01:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Modern Abandoned Mall with Terrifying Sears]]></summary>
-        <author>
-            <name>tartoran</name>
-            <uri>https://news.ycombinator.com/user?id=tartoran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[範式生活（癌症版）的結局]]></title>
-        <id>https://news.ycombinator.com/item?id=30983714</id>
-        <link href="https://news.ycombinator.com/item?id=30983714"/>
-        <updated>2022-04-11T01:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Van life (cancer edition) finale]]></summary>
-        <author>
-            <name>BadCookie</name>
-            <uri>https://news.ycombinator.com/user?id=BadCookie</uri>
         </author>
     </entry>
 </feed>
