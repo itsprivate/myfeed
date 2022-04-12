@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T09:53:40.514Z</updated>
+    <updated>2022-04-12T10:15:30.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果訓練數據被破壞，機器學習模型會洩露個人信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31000043</id>
+        <link href="https://news.ycombinator.com/item?id=31000043"/>
+        <updated>2022-04-12T08:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning models leak personal info if training data is compromised]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯 "使用伊朗從伊拉克走私的武器對付烏克蘭]]></title>
         <id>https://news.ycombinator.com/item?id=31000468</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fallat</name>
             <uri>https://news.ycombinator.com/user?id=fallat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立學校節慶活動的支付系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30983365</id>
-        <link href="https://news.ycombinator.com/item?id=30983365"/>
-        <updated>2022-04-11T00:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Building a payment system for school festivals]]></summary>
-        <author>
-            <name>anaclumos</name>
-            <uri>https://news.ycombinator.com/user?id=anaclumos</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 12 Apr 2022 09:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如果訓練數據被破壞，機器學習模型會洩露個人信息]]></title>
+            <link>https://news.ycombinator.com/item?id=31000043</link>
+            <guid>https://news.ycombinator.com/item?id=31000043</guid>
+            <pubDate>Tue, 12 Apr 2022 08:33:34 GMT</pubDate>
+            <description><![CDATA[Machine learning models leak personal info if training data is compromised]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯 "使用伊朗從伊拉克走私的武器對付烏克蘭]]></title>
             <link>https://news.ycombinator.com/item?id=31000468</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30983381</guid>
             <pubDate>Mon, 11 Apr 2022 00:57:42 GMT</pubDate>
             <description><![CDATA[I'm ready: Let the 100 year programs begin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建立學校節慶活動的支付系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30983365</link>
-            <guid>https://news.ycombinator.com/item?id=30983365</guid>
-            <pubDate>Mon, 11 Apr 2022 00:55:17 GMT</pubDate>
-            <description><![CDATA[Building a payment system for school festivals]]></description>
         </item>
     </channel>
 </rss>
