@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现在计算机的内存超过了4MB，我们能在任务栏上获得秒数吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30998786</link>
+            <guid>https://news.ycombinator.com/item?id=30998786</guid>
+            <pubDate>Tue, 12 Apr 2022 04:57:39 GMT</pubDate>
+            <description><![CDATA[Now that computers have more than 4MB of memory, can we get seconds on taskbar?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[互联网的 "算法语言 "正在实时改变我们的语言]]></title>
+            <link>https://news.ycombinator.com/item?id=30998738</link>
+            <guid>https://news.ycombinator.com/item?id=30998738</guid>
+            <pubDate>Tue, 12 Apr 2022 04:48:41 GMT</pubDate>
+            <description><![CDATA[Internet ‘algospeak’ is changing our language in real time]]></description>
+        </item>
         <item>
             <title><![CDATA[在PyTorch中实现DALL-E 2]]></title>
             <link>https://news.ycombinator.com/item?id=30998651</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30981085</guid>
             <pubDate>Sun, 10 Apr 2022 19:58:05 GMT</pubDate>
             <description><![CDATA[Zuckerberg plans to turn Instagram into NFT marketplace]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐秘的亿万富翁如何在2年内悄悄努力捐出120亿美元的资金]]></title>
-            <link>https://news.ycombinator.com/item?id=30981047</link>
-            <guid>https://news.ycombinator.com/item?id=30981047</guid>
-            <pubDate>Sun, 10 Apr 2022 19:54:31 GMT</pubDate>
-            <description><![CDATA[How the secretive billionaire quietly worked to give away $12B in 2 years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成就解锁：Rustc segfault]]></title>
-            <link>https://news.ycombinator.com/item?id=30980984</link>
-            <guid>https://news.ycombinator.com/item?id=30980984</guid>
-            <pubDate>Sun, 10 Apr 2022 19:47:23 GMT</pubDate>
-            <description><![CDATA[Achievement unlocked: rustc segfault]]></description>
         </item>
     </channel>
 </rss>

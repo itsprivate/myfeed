@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T04:58:42.138Z</updated>
+    <updated>2022-04-12T05:11:55.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在計算機的內存超過了4MB，我們能在任務欄上獲得秒數嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30998786</id>
+        <link href="https://news.ycombinator.com/item?id=30998786"/>
+        <updated>2022-04-12T04:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Now that computers have more than 4MB of memory, can we get seconds on taskbar?]]></summary>
+        <author>
+            <name>paulmooreparks</name>
+            <uri>https://news.ycombinator.com/user?id=paulmooreparks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互聯網的 "算法語言 "正在實時改變我們的語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30998738</id>
+        <link href="https://news.ycombinator.com/item?id=30998738"/>
+        <updated>2022-04-12T04:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Internet ‘algospeak’ is changing our language in real time]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在PyTorch中實現DALL-E 2]]></title>
         <id>https://news.ycombinator.com/item?id=30998651</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的億萬富翁如何在2年內悄悄努力捐出120億美元的資金]]></title>
-        <id>https://news.ycombinator.com/item?id=30981047</id>
-        <link href="https://news.ycombinator.com/item?id=30981047"/>
-        <updated>2022-04-10T19:54:31.000Z</updated>
-        <summary type="html"><![CDATA[How the secretive billionaire quietly worked to give away $12B in 2 years]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成就解鎖：Rustc segfault]]></title>
-        <id>https://news.ycombinator.com/item?id=30980984</id>
-        <link href="https://news.ycombinator.com/item?id=30980984"/>
-        <updated>2022-04-10T19:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Achievement unlocked: rustc segfault]]></summary>
-        <author>
-            <name>bcantrill</name>
-            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
         </author>
     </entry>
 </feed>
