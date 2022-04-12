@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T05:11:55.886Z</updated>
+    <updated>2022-04-12T05:30:21.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯邦政府將大麻合法化的時機是否已到？]]></title>
+        <id>https://news.ycombinator.com/item?id=30998603</id>
+        <link href="https://news.ycombinator.com/item?id=30998603"/>
+        <updated>2022-04-12T04:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Is it high time for the feds to legalize weed?]]></summary>
+        <author>
+            <name>chapulin</name>
+            <uri>https://news.ycombinator.com/user?id=chapulin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現在計算機的內存超過了4MB，我們能在任務欄上獲得秒數嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30998786</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格計劃將Instagram變成NFT市場]]></title>
-        <id>https://news.ycombinator.com/item?id=30981085</id>
-        <link href="https://news.ycombinator.com/item?id=30981085"/>
-        <updated>2022-04-10T19:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Zuckerberg plans to turn Instagram into NFT marketplace]]></summary>
-        <author>
-            <name>nowherebeen</name>
-            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
         </author>
     </entry>
 </feed>
