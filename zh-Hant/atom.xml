@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T10:15:30.088Z</updated>
+    <updated>2022-04-12T10:39:21.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[樹莓的免費固件進展如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=31000725</id>
+        <link href="https://news.ycombinator.com/item?id=31000725"/>
+        <updated>2022-04-12T10:23:23.000Z</updated>
+        <summary type="html"><![CDATA[How is the free firmware for the Raspberry progressing?]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可微分編程--簡單介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=31000709</id>
+        <link href="https://news.ycombinator.com/item?id=31000709"/>
+        <updated>2022-04-12T10:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Differentiable Programming – A Simple Introduction]]></summary>
+        <author>
+            <name>dylanbfox</name>
+            <uri>https://news.ycombinator.com/user?id=dylanbfox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九萬億次嘗試之後。研究人員破解了SHA-1 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=31000626</id>
+        <link href="https://news.ycombinator.com/item?id=31000626"/>
+        <updated>2022-04-12T10:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Nine Quintillion Tries Later: Researchers Crack SHA-1 (2017)]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果感覺你在烏克蘭戰爭中被人操縱，那是因為你在被操縱]]></title>
+        <id>https://news.ycombinator.com/item?id=31000612</id>
+        <link href="https://news.ycombinator.com/item?id=31000612"/>
+        <updated>2022-04-12T10:04:05.000Z</updated>
+        <summary type="html"><![CDATA[If it feels like you're being manipulated on Ukrainian war, It's because you are]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勒-柯布西耶對辦公空間的看法是正確的]]></title>
+        <id>https://news.ycombinator.com/item?id=31000602</id>
+        <link href="https://news.ycombinator.com/item?id=31000602"/>
+        <updated>2022-04-12T10:02:31.000Z</updated>
+        <summary type="html"><![CDATA[What Le Corbusier got right about office space]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino、ESP8266和ESP32的MQ2氣體傳感器教程(2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31000535</id>
+        <link href="https://news.ycombinator.com/item?id=31000535"/>
+        <updated>2022-04-12T09:50:35.000Z</updated>
+        <summary type="html"><![CDATA[MQ2 Gas Sensor Tutorial for Arduino, ESP8266 and ESP32 (2020)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[資助 "實驗的回顧]]></title>
+        <id>https://news.ycombinator.com/item?id=31000473</id>
+        <link href="https://news.ycombinator.com/item?id=31000473"/>
+        <updated>2022-04-12T09:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Recap of the `Funding` Experiment]]></summary>
+        <author>
+            <name>manigandham</name>
+            <uri>https://news.ycombinator.com/user?id=manigandham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果訓練數據被破壞，機器學習模型會洩露個人信息]]></title>
         <id>https://news.ycombinator.com/item?id=31000043</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>BadCookie</name>
             <uri>https://news.ycombinator.com/user?id=BadCookie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[論日常生活中的凸性]]></title>
-        <id>https://news.ycombinator.com/item?id=30983707</id>
-        <link href="https://news.ycombinator.com/item?id=30983707"/>
-        <updated>2022-04-11T01:56:06.000Z</updated>
-        <summary type="html"><![CDATA[On the Convexities of Everyday Life]]></summary>
-        <author>
-            <name>madiator</name>
-            <uri>https://news.ycombinator.com/user?id=madiator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃疣子的蟋蟀]]></title>
-        <id>https://news.ycombinator.com/item?id=30983629</id>
-        <link href="https://news.ycombinator.com/item?id=30983629"/>
-        <updated>2022-04-11T01:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Wart Eating Crickets]]></summary>
-        <author>
-            <name>forrest2</name>
-            <uri>https://news.ycombinator.com/user?id=forrest2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宮崎駿退休後毀掉了好萊塢]]></title>
-        <id>https://news.ycombinator.com/item?id=30983625</id>
-        <link href="https://news.ycombinator.com/item?id=30983625"/>
-        <updated>2022-04-11T01:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Hayao Miyazaki retires and destroys Hollywood]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭和俄羅斯準備進行大規模的戰鬥，讓人聯想到二戰時的情景]]></title>
-        <id>https://news.ycombinator.com/item?id=30983596</id>
-        <link href="https://news.ycombinator.com/item?id=30983596"/>
-        <updated>2022-04-11T01:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine and Russia gear up for large-scale battles reminiscent of WWII]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在早期人體試驗數據中，mRNA疫苗促進了癌症免疫療法的發展]]></title>
-        <id>https://news.ycombinator.com/item?id=30983588</id>
-        <link href="https://news.ycombinator.com/item?id=30983588"/>
-        <updated>2022-04-11T01:36:01.000Z</updated>
-        <summary type="html"><![CDATA[mRNA vaccine boosts cancer immunotherapy in early human trial data]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擴大你的SaaS業務的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30983566</id>
-        <link href="https://news.ycombinator.com/item?id=30983566"/>
-        <updated>2022-04-11T01:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Ways to Expand Your SaaS Business]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經準備好了。讓100年的計劃開始]]></title>
-        <id>https://news.ycombinator.com/item?id=30983381</id>
-        <link href="https://news.ycombinator.com/item?id=30983381"/>
-        <updated>2022-04-11T00:57:42.000Z</updated>
-        <summary type="html"><![CDATA[I'm ready: Let the 100 year programs begin]]></summary>
-        <author>
-            <name>fallat</name>
-            <uri>https://news.ycombinator.com/user?id=fallat</uri>
         </author>
     </entry>
 </feed>
