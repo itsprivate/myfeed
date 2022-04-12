@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T03:49:43.797Z</updated>
+    <updated>2022-04-12T04:02:32.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用FPV無人機拍攝了特斯拉的病毒式Gigafactory視頻]]></title>
+        <id>https://news.ycombinator.com/item?id=30998092</id>
+        <link href="https://news.ycombinator.com/item?id=30998092"/>
+        <updated>2022-04-12T03:00:29.000Z</updated>
+        <summary type="html"><![CDATA[I shot Tesla's viral Gigafactory video with my FPV drone]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021: 泰坦-M的奧德賽 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30998159</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>accepting_chaos</name>
             <uri>https://news.ycombinator.com/user?id=accepting_chaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quad9 - 移動配置配置文件來了]]></title>
-        <id>https://news.ycombinator.com/item?id=30980564</id>
-        <link href="https://news.ycombinator.com/item?id=30980564"/>
-        <updated>2022-04-10T19:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Quad9 – Mobile Provisioning Profiles Are Here]]></summary>
-        <author>
-            <name>vmoore</name>
-            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
         </author>
     </entry>
 </feed>
