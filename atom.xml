@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T07:32:37.185Z</updated>
+    <updated>2022-04-12T07:51:34.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenVX：开放、免版税和跨平台的计算机视觉加速器]]></title>
+        <id>https://news.ycombinator.com/item?id=30999692</id>
+        <link href="https://news.ycombinator.com/item?id=30999692"/>
+        <updated>2022-04-12T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[OpenVX: Open, royalty-free and cross platform acceleration for computer vision]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线订阅《经济学人》的费用在新西兰是美国的两倍。为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30999684</id>
+        <link href="https://news.ycombinator.com/item?id=30999684"/>
+        <updated>2022-04-12T07:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Online subscriptions to The Economist cost twice as much in NZ as the US. Why?]]></summary>
+        <author>
+            <name>slyall</name>
+            <uri>https://news.ycombinator.com/user?id=slyall</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[棺材舞备忘录以100万美元的价格作为NFT出售]]></title>
+        <id>https://news.ycombinator.com/item?id=30999594</id>
+        <link href="https://news.ycombinator.com/item?id=30999594"/>
+        <updated>2022-04-12T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Coffin dance meme sold as an NFT for $1M]]></summary>
+        <author>
+            <name>wilsonfiifi</name>
+            <uri>https://news.ycombinator.com/user?id=wilsonfiifi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qrclip - 通过命令行将剪贴板即时传送到你的手机上]]></title>
         <id>https://news.ycombinator.com/item?id=30999416</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亲俄示威者在德国举行集会]]></title>
-        <id>https://news.ycombinator.com/item?id=30982184</id>
-        <link href="https://news.ycombinator.com/item?id=30982184"/>
-        <updated>2022-04-10T22:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Pro-Russia protesters rally in Germany]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矩阵。我们是P2P吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30982050</id>
-        <link href="https://news.ycombinator.com/item?id=30982050"/>
-        <updated>2022-04-10T21:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Matrix: Are We P2P Yet?]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福大学教育学教授对伯克利大学曝光5000美元/小时费用的教授叫警察]]></title>
-        <id>https://news.ycombinator.com/item?id=30982034</id>
-        <link href="https://news.ycombinator.com/item?id=30982034"/>
-        <updated>2022-04-10T21:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Stanford education prof calls cops on Berkeley prof who exposed $5000/hour fee]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
