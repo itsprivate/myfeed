@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-12T11:30:55.820Z</updated>
+    <updated>2022-04-12T11:38:00.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪些国家提供不分性别的护照？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001166</id>
+        <link href="https://news.ycombinator.com/item?id=31001166"/>
+        <updated>2022-04-12T11:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Which countries offer gender-neutral passports?]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是Haskell中的单体？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001153</id>
+        <link href="https://news.ycombinator.com/item?id=31001153"/>
+        <updated>2022-04-12T11:31:22.000Z</updated>
+        <summary type="html"><![CDATA[What Is a Monoid in Haskell?]]></summary>
+        <author>
+            <name>aroccoli</name>
+            <uri>https://news.ycombinator.com/user?id=aroccoli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天文学家发现了另一个地球（558光年远）。]]></title>
         <id>https://news.ycombinator.com/item?id=31001018</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>scapecast</name>
             <uri>https://news.ycombinator.com/user?id=scapecast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超速摄影机应用开发商面临英国司机的辱骂]]></title>
-        <id>https://news.ycombinator.com/item?id=30984311</id>
-        <link href="https://news.ycombinator.com/item?id=30984311"/>
-        <updated>2022-04-11T03:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Speed camera app developers face abuse from UK drivers]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于各州对Covid-19的反应的最终报告卡 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30984108</id>
-        <link href="https://news.ycombinator.com/item?id=30984108"/>
-        <updated>2022-04-11T03:02:56.000Z</updated>
-        <summary type="html"><![CDATA[A Final Report Card on the States’ Response to Covid-19 [pdf]]]></summary>
-        <author>
-            <name>mudil</name>
-            <uri>https://news.ycombinator.com/user?id=mudil</uri>
         </author>
     </entry>
 </feed>
