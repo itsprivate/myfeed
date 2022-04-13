@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 13 Apr 2022 09:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[远程过程调用运行时的远程代码执行漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=31012416</link>
+            <guid>https://news.ycombinator.com/item?id=31012416</guid>
+            <pubDate>Wed, 13 Apr 2022 08:40:21 GMT</pubDate>
+            <description><![CDATA[Remote Procedure Call Runtime Remote Code Execution Vulnerability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的机器人替身卖光了（所以我不需要）[视频]]]></title>
+            <link>https://news.ycombinator.com/item?id=31011847</link>
+            <guid>https://news.ycombinator.com/item?id=31011847</guid>
+            <pubDate>Wed, 13 Apr 2022 06:42:30 GMT</pubDate>
+            <description><![CDATA[My robot double sells out (so I don't have to) [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[身份管理的SaaS或自我托管？]]></title>
             <link>https://news.ycombinator.com/item?id=31012595</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30999226</guid>
             <pubDate>Tue, 12 Apr 2022 06:14:52 GMT</pubDate>
             <description><![CDATA[There Is No Such Thing as a Petrodollar [Eurodollar University, Ep. 215]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用塑料瓶代替油箱。无人机Orlan 10俄罗斯技术]]></title>
-            <link>https://news.ycombinator.com/item?id=30999189</link>
-            <guid>https://news.ycombinator.com/item?id=30999189</guid>
-            <pubDate>Tue, 12 Apr 2022 06:09:05 GMT</pubDate>
-            <description><![CDATA[Plastic bottle instead of a gas tank: UAV Orlan 10 Russian tech]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工作者工具 - Cloudflare工作环境中的HTTP服务器]]></title>
-            <link>https://news.ycombinator.com/item?id=30998990</link>
-            <guid>https://news.ycombinator.com/item?id=30998990</guid>
-            <pubDate>Tue, 12 Apr 2022 05:38:41 GMT</pubDate>
-            <description><![CDATA[Worker Tools – HTTP Servers in Cloudflare Worker Environments]]></description>
         </item>
     </channel>
 </rss>

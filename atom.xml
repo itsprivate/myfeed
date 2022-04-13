@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T09:33:38.617Z</updated>
+    <updated>2022-04-13T09:42:58.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程过程调用运行时的远程代码执行漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31012416</id>
+        <link href="https://news.ycombinator.com/item?id=31012416"/>
+        <updated>2022-04-13T08:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Remote Procedure Call Runtime Remote Code Execution Vulnerability]]></summary>
+        <author>
+            <name>croes</name>
+            <uri>https://news.ycombinator.com/user?id=croes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的机器人替身卖光了（所以我不需要）[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=31011847</id>
+        <link href="https://news.ycombinator.com/item?id=31011847"/>
+        <updated>2022-04-13T06:42:30.000Z</updated>
+        <summary type="html"><![CDATA[My robot double sells out (so I don't have to) [video]]]></summary>
+        <author>
+            <name>lisper</name>
+            <uri>https://news.ycombinator.com/user?id=lisper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身份管理的SaaS或自我托管？]]></title>
         <id>https://news.ycombinator.com/item?id=31012595</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cinquemb</name>
             <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用塑料瓶代替油箱。无人机Orlan 10俄罗斯技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30999189</id>
-        <link href="https://news.ycombinator.com/item?id=30999189"/>
-        <updated>2022-04-12T06:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Plastic bottle instead of a gas tank: UAV Orlan 10 Russian tech]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作者工具 - Cloudflare工作环境中的HTTP服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=30998990</id>
-        <link href="https://news.ycombinator.com/item?id=30998990"/>
-        <updated>2022-04-12T05:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Worker Tools – HTTP Servers in Cloudflare Worker Environments]]></summary>
-        <author>
-            <name>sebmellen</name>
-            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
         </author>
     </entry>
 </feed>
