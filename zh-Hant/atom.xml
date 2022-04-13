@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T08:40:21.250Z</updated>
+    <updated>2022-04-13T08:55:43.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coinbase的內幕交易]]></title>
+        <id>https://news.ycombinator.com/item?id=31012462</id>
+        <link href="https://news.ycombinator.com/item?id=31012462"/>
+        <updated>2022-04-13T08:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Insider Trading at Coinbase]]></summary>
+        <author>
+            <name>Shadonototra</name>
+            <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaskFocus - 帶時間跟蹤的任務列表]]></title>
+        <id>https://news.ycombinator.com/item?id=31012417</id>
+        <link href="https://news.ycombinator.com/item?id=31012417"/>
+        <updated>2022-04-13T08:40:30.000Z</updated>
+        <summary type="html"><![CDATA[TaskFocus – Tasks list with time tracking]]></summary>
+        <author>
+            <name>Zeustik</name>
+            <uri>https://news.ycombinator.com/user?id=Zeustik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度的UPI支付增長利用數據聲波進行可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=31012310</id>
+        <link href="https://news.ycombinator.com/item?id=31012310"/>
+        <updated>2022-04-13T08:21:10.000Z</updated>
+        <summary type="html"><![CDATA[India's UPI payments growth visualised using data sonification]]></summary>
+        <author>
+            <name>pvsukale3</name>
+            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JFScan - 使用Masscan和NMAP進行超快速端口掃描和服務發現]]></title>
+        <id>https://news.ycombinator.com/item?id=31012235</id>
+        <link href="https://news.ycombinator.com/item?id=31012235"/>
+        <updated>2022-04-13T08:06:08.000Z</updated>
+        <summary type="html"><![CDATA[JFScan – Super fast port scanning and service discovery using Masscan and NMAP]]></summary>
+        <author>
+            <name>0t3r</name>
+            <uri>https://news.ycombinator.com/user?id=0t3r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙特認定賈裡德-庫什納是個笑話，給了他20億美元]]></title>
         <id>https://news.ycombinator.com/item?id=31012320</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>m15i</name>
             <uri>https://news.ycombinator.com/user?id=m15i</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解史蒂夫-喬布斯和蘋果公司歷史的書籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30998490</id>
-        <link href="https://news.ycombinator.com/item?id=30998490"/>
-        <updated>2022-04-12T04:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Books to learn about Steve Jobs and the history of Apple Inc]]></summary>
-        <author>
-            <name>WoodenChair</name>
-            <uri>https://news.ycombinator.com/user?id=WoodenChair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[末日之城]]></title>
-        <id>https://news.ycombinator.com/item?id=30998562</id>
-        <link href="https://news.ycombinator.com/item?id=30998562"/>
-        <updated>2022-04-12T04:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Doom Cacowards]]></summary>
-        <author>
-            <name>ecliptik</name>
-            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W玻色子粒子的發現與對宇宙運行方式的理解相矛盾]]></title>
-        <id>https://news.ycombinator.com/item?id=30998553</id>
-        <link href="https://news.ycombinator.com/item?id=30998553"/>
-        <updated>2022-04-12T04:14:28.000Z</updated>
-        <summary type="html"><![CDATA[W boson particle finding contradicts understanding of how universe works]]></summary>
-        <author>
-            <name>riffraff</name>
-            <uri>https://news.ycombinator.com/user?id=riffraff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移動輸入類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30998488</id>
-        <link href="https://news.ycombinator.com/item?id=30998488"/>
-        <updated>2022-04-12T04:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Input Types]]></summary>
-        <author>
-            <name>zhte415</name>
-            <uri>https://news.ycombinator.com/user?id=zhte415</uri>
         </author>
     </entry>
 </feed>
