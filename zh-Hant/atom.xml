@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T13:48:45.329Z</updated>
+    <updated>2022-04-13T13:54:07.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移植的免疫細胞能對抗愛因斯坦-巴爾病毒，使多發性硬化症得以逆轉]]></title>
+        <id>https://news.ycombinator.com/item?id=31014523</id>
+        <link href="https://news.ycombinator.com/item?id=31014523"/>
+        <updated>2022-04-13T13:38:52.000Z</updated>
+        <summary type="html"><![CDATA[MS reversed by transplanted immune cells that fight Epstein-Barr virus]]></summary>
+        <author>
+            <name>voisin</name>
+            <uri>https://news.ycombinator.com/user?id=voisin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊開發者因幫助朝鮮逃避制裁而被監禁]]></title>
+        <id>https://news.ycombinator.com/item?id=31014445</id>
+        <link href="https://news.ycombinator.com/item?id=31014445"/>
+        <updated>2022-04-13T13:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum dev imprisoned for helping North Korea evade sanctions]]></summary>
+        <author>
+            <name>DemiGuru</name>
+            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源的Coreboot BIOS被移植到微星Z690-A主板上]]></title>
         <id>https://news.ycombinator.com/item?id=31014539</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dylanbfox</name>
             <uri>https://news.ycombinator.com/user?id=dylanbfox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[九萬億次嘗試之後。研究人員破解了SHA-1 (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=31000626</id>
-        <link href="https://news.ycombinator.com/item?id=31000626"/>
-        <updated>2022-04-12T10:06:27.000Z</updated>
-        <summary type="html"><![CDATA[Nine Quintillion Tries Later: Researchers Crack SHA-1 (2017)]]></summary>
-        <author>
-            <name>limoce</name>
-            <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果感覺你在烏克蘭戰爭中被人操縱，那是因為你在被操縱]]></title>
-        <id>https://news.ycombinator.com/item?id=31000612</id>
-        <link href="https://news.ycombinator.com/item?id=31000612"/>
-        <updated>2022-04-12T10:04:05.000Z</updated>
-        <summary type="html"><![CDATA[If it feels like you're being manipulated on Ukrainian war, It's because you are]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
