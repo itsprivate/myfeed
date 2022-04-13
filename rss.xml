@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[肯-伯恩斯效应]]></title>
+            <link>https://news.ycombinator.com/item?id=31012005</link>
+            <guid>https://news.ycombinator.com/item?id=31012005</guid>
+            <pubDate>Wed, 13 Apr 2022 07:18:37 GMT</pubDate>
+            <description><![CDATA[Ken Burns Effect]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Git Repo中合并Jupyter笔记本而不感到头疼]]></title>
+            <link>https://news.ycombinator.com/item?id=31011929</link>
+            <guid>https://news.ycombinator.com/item?id=31011929</guid>
+            <pubDate>Wed, 13 Apr 2022 07:02:08 GMT</pubDate>
+            <description><![CDATA[Merge Jupyter Notebooks in Git Repo Without a Headache]]></description>
+        </item>
         <item>
             <title><![CDATA[什么都能做"：1999年公寓爆炸案解释了普京的崛起和政权]]></title>
             <link>https://news.ycombinator.com/item?id=31012039</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30998443</guid>
             <pubDate>Tue, 12 Apr 2022 03:59:21 GMT</pubDate>
             <description><![CDATA[Legislatures, say DeSantis will map Florida congressional districts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[傲慢和孤立导致普京对乌克兰的误判]]></title>
-            <link>https://news.ycombinator.com/item?id=30998329</link>
-            <guid>https://news.ycombinator.com/item?id=30998329</guid>
-            <pubDate>Tue, 12 Apr 2022 03:40:51 GMT</pubDate>
-            <description><![CDATA[Hubris and isolation led Vladimir Putin to misjudge Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript 4.7测试版]]></title>
-            <link>https://news.ycombinator.com/item?id=30998063</link>
-            <guid>https://news.ycombinator.com/item?id=30998063</guid>
-            <pubDate>Tue, 12 Apr 2022 02:57:30 GMT</pubDate>
-            <description><![CDATA[TypeScript 4.7 Beta]]></description>
         </item>
     </channel>
 </rss>
