@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T11:11:57.542Z</updated>
+    <updated>2022-04-13T11:31:05.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[串联语言]]></title>
+        <id>https://news.ycombinator.com/item?id=31013100</id>
+        <link href="https://news.ycombinator.com/item?id=31013100"/>
+        <updated>2022-04-13T10:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Concatenative Language]]></summary>
+        <author>
+            <name>optimalsolver</name>
+            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度Uber司机关闭空调，抗议气温飙升导致的低工资]]></title>
+        <id>https://news.ycombinator.com/item?id=31013077</id>
+        <link href="https://news.ycombinator.com/item?id=31013077"/>
+        <updated>2022-04-13T10:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Uber drivers in India are turning off AC to protest low pay as temperatures soar]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么世界上有那么多的人不愿意站出来反对俄罗斯？]]></title>
+        <id>https://news.ycombinator.com/item?id=31013072</id>
+        <link href="https://news.ycombinator.com/item?id=31013072"/>
+        <updated>2022-04-13T10:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Why so much of the world won’t stand up to Russia]]></summary>
+        <author>
+            <name>woldemariam</name>
+            <uri>https://news.ycombinator.com/user?id=woldemariam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[补充维生素可以帮助阿尔茨海默病患者吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31012981</id>
+        <link href="https://news.ycombinator.com/item?id=31012981"/>
+        <updated>2022-04-13T10:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Could Vitamin Supplementation Help Alzheimer’s Patients?]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经理人对 "繁忙工作 "的迷恋]]></title>
+        <id>https://news.ycombinator.com/item?id=31012920</id>
+        <link href="https://news.ycombinator.com/item?id=31012920"/>
+        <updated>2022-04-13T10:11:15.000Z</updated>
+        <summary type="html"><![CDATA[The Managerial Obsession with 'Busywork']]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硅谷寻找下一个大型科技平台的过程]]></title>
+        <id>https://news.ycombinator.com/item?id=31012420</id>
+        <link href="https://news.ycombinator.com/item?id=31012420"/>
+        <updated>2022-04-13T08:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Silicon Valley’s search for the next big tech platform]]></summary>
+        <author>
+            <name>simonh</name>
+            <uri>https://news.ycombinator.com/user?id=simonh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学模型为道德如何随时间变化提供了答案]]></title>
         <id>https://news.ycombinator.com/item?id=31013092</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>zelon88</name>
             <uri>https://news.ycombinator.com/user?id=zelon88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qalc - 像Soulver/Numi一样，但在VS代码中。]]></title>
-        <id>https://news.ycombinator.com/item?id=30999578</id>
-        <link href="https://news.ycombinator.com/item?id=30999578"/>
-        <updated>2022-04-12T07:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Qalc – Like Soulver/Numi but in VS Code]]></summary>
-        <author>
-            <name>vivek-jain</name>
-            <uri>https://news.ycombinator.com/user?id=vivek-jain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fishnet: Lichess.org的分布式库存鱼分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30999296</id>
-        <link href="https://news.ycombinator.com/item?id=30999296"/>
-        <updated>2022-04-12T06:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Fishnet: Distributed Stockfish Analysis for Lichess.org]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复整个《超级马里奥64》的源代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30998625</id>
-        <link href="https://news.ycombinator.com/item?id=30998625"/>
-        <updated>2022-04-12T04:28:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixing the Entire Super Mario 64 Source Code]]></summary>
-        <author>
-            <name>canjobear</name>
-            <uri>https://news.ycombinator.com/user?id=canjobear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenVX：开放、免版税和跨平台的计算机视觉加速器]]></title>
-        <id>https://news.ycombinator.com/item?id=30999692</id>
-        <link href="https://news.ycombinator.com/item?id=30999692"/>
-        <updated>2022-04-12T07:30:15.000Z</updated>
-        <summary type="html"><![CDATA[OpenVX: Open, royalty-free and cross platform acceleration for computer vision]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在线订阅《经济学人》的费用在新西兰是美国的两倍。为什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30999684</id>
-        <link href="https://news.ycombinator.com/item?id=30999684"/>
-        <updated>2022-04-12T07:28:22.000Z</updated>
-        <summary type="html"><![CDATA[Online subscriptions to The Economist cost twice as much in NZ as the US. Why?]]></summary>
-        <author>
-            <name>slyall</name>
-            <uri>https://news.ycombinator.com/user?id=slyall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[棺材舞备忘录以100万美元的价格作为NFT出售]]></title>
-        <id>https://news.ycombinator.com/item?id=30999594</id>
-        <link href="https://news.ycombinator.com/item?id=30999594"/>
-        <updated>2022-04-12T07:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Coffin dance meme sold as an NFT for $1M]]></summary>
-        <author>
-            <name>wilsonfiifi</name>
-            <uri>https://news.ycombinator.com/user?id=wilsonfiifi</uri>
         </author>
     </entry>
 </feed>
