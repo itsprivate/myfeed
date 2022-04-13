@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T21:32:15.372Z</updated>
+    <updated>2022-04-13T21:40:15.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome 71将对cache.addAll（）和importScripts（）进行调整]]></title>
+        <id>https://news.ycombinator.com/item?id=31020582</id>
+        <link href="https://news.ycombinator.com/item?id=31020582"/>
+        <updated>2022-04-13T21:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Tweaks to cache.addAll() and importScripts() coming in Chrome 71]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美达公司计划对其元空间中的虚拟资产销售进行近50%的削减]]></title>
         <id>https://news.ycombinator.com/item?id=31020501</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>devtailz</name>
             <uri>https://news.ycombinator.com/user?id=devtailz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星人和他们的学校教育]]></title>
-        <id>https://news.ycombinator.com/item?id=31006546</id>
-        <link href="https://news.ycombinator.com/item?id=31006546"/>
-        <updated>2022-04-12T18:28:36.000Z</updated>
-        <summary type="html"><![CDATA[The Martians and Their Schooling]]></summary>
-        <author>
-            <name>dgs_sgd</name>
-            <uri>https://news.ycombinator.com/user?id=dgs_sgd</uri>
         </author>
     </entry>
 </feed>
