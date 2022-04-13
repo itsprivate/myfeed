@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T05:00:04.258Z</updated>
+    <updated>2022-04-13T05:12:34.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比诺克。将二进制数据可视化的图形工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31011262</id>
+        <link href="https://news.ycombinator.com/item?id=31011262"/>
+        <updated>2022-04-13T04:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Binocle: Graphical tool to visualize binary data]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级机器学习系统中的学习型优化的风险]]></title>
+        <id>https://news.ycombinator.com/item?id=31011078</id>
+        <link href="https://news.ycombinator.com/item?id=31011078"/>
+        <updated>2022-04-13T03:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Risks from Learned Optimization in Advanced Machine Learning Systems]]></summary>
+        <author>
+            <name>echen</name>
+            <uri>https://news.ycombinator.com/user?id=echen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Xcode中使用LLDB命令进行更好的调试]]></title>
         <id>https://news.ycombinator.com/item?id=31011215</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>TeeMassive</name>
             <uri>https://news.ycombinator.com/user?id=TeeMassive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再为自己的废话找借口了[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30997251</id>
-        <link href="https://news.ycombinator.com/item?id=30997251"/>
-        <updated>2022-04-12T00:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Stop making excuses for your bullshit [video]]]></summary>
-        <author>
-            <name>exolymph</name>
-            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[源代码泄密的棘手后遗症]]></title>
-        <id>https://news.ycombinator.com/item?id=30997250</id>
-        <link href="https://news.ycombinator.com/item?id=30997250"/>
-        <updated>2022-04-12T00:54:16.000Z</updated>
-        <summary type="html"><![CDATA[The Tricky Aftermath of Source Code Leaks]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>

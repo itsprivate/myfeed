@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[比诺克。将二进制数据可视化的图形工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31011262</link>
+            <guid>https://news.ycombinator.com/item?id=31011262</guid>
+            <pubDate>Wed, 13 Apr 2022 04:43:34 GMT</pubDate>
+            <description><![CDATA[Binocle: Graphical tool to visualize binary data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高级机器学习系统中的学习型优化的风险]]></title>
+            <link>https://news.ycombinator.com/item?id=31011078</link>
+            <guid>https://news.ycombinator.com/item?id=31011078</guid>
+            <pubDate>Wed, 13 Apr 2022 03:57:42 GMT</pubDate>
+            <description><![CDATA[Risks from Learned Optimization in Advanced Machine Learning Systems]]></description>
+        </item>
         <item>
             <title><![CDATA[在Xcode中使用LLDB命令进行更好的调试]]></title>
             <link>https://news.ycombinator.com/item?id=31011215</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30997278</guid>
             <pubDate>Tue, 12 Apr 2022 00:57:40 GMT</pubDate>
             <description><![CDATA[Red Flag Grooming Behaviors by Perpetrators (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要再为自己的废话找借口了[视频]]]></title>
-            <link>https://news.ycombinator.com/item?id=30997251</link>
-            <guid>https://news.ycombinator.com/item?id=30997251</guid>
-            <pubDate>Tue, 12 Apr 2022 00:54:22 GMT</pubDate>
-            <description><![CDATA[Stop making excuses for your bullshit [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[源代码泄密的棘手后遗症]]></title>
-            <link>https://news.ycombinator.com/item?id=30997250</link>
-            <guid>https://news.ycombinator.com/item?id=30997250</guid>
-            <pubDate>Tue, 12 Apr 2022 00:54:16 GMT</pubDate>
-            <description><![CDATA[The Tricky Aftermath of Source Code Leaks]]></description>
         </item>
     </channel>
 </rss>
