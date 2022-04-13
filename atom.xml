@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T10:53:22.538Z</updated>
+    <updated>2022-04-13T11:11:57.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数学模型为道德如何随时间变化提供了答案]]></title>
+        <id>https://news.ycombinator.com/item?id=31013092</id>
+        <link href="https://news.ycombinator.com/item?id=31013092"/>
+        <updated>2022-04-13T10:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Mathematical model offers answers to how morals will change over time]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET MAUI候选版本--为跨平台应用开发做好准备]]></title>
+        <id>https://news.ycombinator.com/item?id=31013034</id>
+        <link href="https://news.ycombinator.com/item?id=31013034"/>
+        <updated>2022-04-13T10:31:38.000Z</updated>
+        <summary type="html"><![CDATA[.NET MAUI Release Candidate – Ready for cross-platform app development]]></summary>
+        <author>
+            <name>MikusR</name>
+            <uri>https://news.ycombinator.com/user?id=MikusR</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯巨魔在2016年试图用音乐推文分散选民的注意力]]></title>
+        <id>https://news.ycombinator.com/item?id=31013030</id>
+        <link href="https://news.ycombinator.com/item?id=31013030"/>
+        <updated>2022-04-13T10:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Russian trolls tried to distract voters with music tweets in 2016]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芬兰和瑞典更接近于加入北约]]></title>
+        <id>https://news.ycombinator.com/item?id=31012932</id>
+        <link href="https://news.ycombinator.com/item?id=31012932"/>
+        <updated>2022-04-13T10:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Finland and Sweden move closer to joining NATO]]></summary>
+        <author>
+            <name>hnarn</name>
+            <uri>https://news.ycombinator.com/user?id=hnarn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州初创公司将微型机器人送入大脑的奇妙之旅]]></title>
         <id>https://news.ycombinator.com/item?id=31012953</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>wilsonfiifi</name>
             <uri>https://news.ycombinator.com/user?id=wilsonfiifi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qrclip - 通过命令行将剪贴板即时传送到你的手机上]]></title>
-        <id>https://news.ycombinator.com/item?id=30999416</id>
-        <link href="https://news.ycombinator.com/item?id=30999416"/>
-        <updated>2022-04-12T06:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Qrclip – Transfer the clipboard to your phone instantly through the command line]]></summary>
-        <author>
-            <name>crudeoilok</name>
-            <uri>https://news.ycombinator.com/user?id=crudeoilok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DI-Star (星际争霸2的AI，AlphaStar的延续)]]></title>
-        <id>https://news.ycombinator.com/item?id=30999410</id>
-        <link href="https://news.ycombinator.com/item?id=30999410"/>
-        <updated>2022-04-12T06:42:28.000Z</updated>
-        <summary type="html"><![CDATA[DI-Star (Starcraft 2 AI, Continuation of AlphaStar)]]></summary>
-        <author>
-            <name>almostdigital</name>
-            <uri>https://news.ycombinator.com/user?id=almostdigital</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六边形架构和领域驱动设计]]></title>
-        <id>https://news.ycombinator.com/item?id=30999322</id>
-        <link href="https://news.ycombinator.com/item?id=30999322"/>
-        <updated>2022-04-12T06:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Hexagonal Architecture and Domain Driven Design]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决Nginx LDAP参考实现中的安全弱点]]></title>
-        <id>https://news.ycombinator.com/item?id=30999310</id>
-        <link href="https://news.ycombinator.com/item?id=30999310"/>
-        <updated>2022-04-12T06:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Addressing Security Weaknesses in the Nginx LDAP Reference Implementation]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
