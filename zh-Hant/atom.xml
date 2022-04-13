@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T21:40:15.808Z</updated>
+    <updated>2022-04-13T21:51:17.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[她處於實驗室洩漏爭議的中心。現在她正在講述她的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=31020629</id>
+        <link href="https://news.ycombinator.com/item?id=31020629"/>
+        <updated>2022-04-13T21:39:24.000Z</updated>
+        <summary type="html"><![CDATA[She’s at the center of the lab leak controversy. Now she’s telling her story]]></summary>
+        <author>
+            <name>johndfsgdgdfg</name>
+            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜向美國賣家徵收5%的燃油和通貨膨脹附加費]]></title>
+        <id>https://news.ycombinator.com/item?id=31020215</id>
+        <link href="https://news.ycombinator.com/item?id=31020215"/>
+        <updated>2022-04-13T21:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon slaps U.S. sellers with 5% fuel and inflation surcharge]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦貿易委員會執行新的 "美國製造 "規則，針對Lithionics公司的虛假標籤行為。]]></title>
+        <id>https://news.ycombinator.com/item?id=31020110</id>
+        <link href="https://news.ycombinator.com/item?id=31020110"/>
+        <updated>2022-04-13T20:53:36.000Z</updated>
+        <summary type="html"><![CDATA[FTC Enforces New Made in USA Rule Against Lithionics for False Labeling]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome 71將對cache.addAll（）和importScripts（）進行調整]]></title>
         <id>https://news.ycombinator.com/item?id=31020582</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPU上的大規模矩陣分解]]></title>
-        <id>https://news.ycombinator.com/item?id=31006630</id>
-        <link href="https://news.ycombinator.com/item?id=31006630"/>
-        <updated>2022-04-12T18:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Large-Scale Matrix Factorization on TPUs]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆-庫克認為 "針對大科技公司的反壟斷法對隱私不利"]]></title>
-        <id>https://news.ycombinator.com/item?id=31006619</id>
-        <link href="https://news.ycombinator.com/item?id=31006619"/>
-        <updated>2022-04-12T18:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Tim Cook argues “antitrust laws against big tech are bad for privacy”]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿特拉斯雲服務中斷更新]]></title>
-        <id>https://news.ycombinator.com/item?id=31006607</id>
-        <link href="https://news.ycombinator.com/item?id=31006607"/>
-        <updated>2022-04-12T18:33:08.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian Cloud Outage Update]]></summary>
-        <author>
-            <name>devtailz</name>
-            <uri>https://news.ycombinator.com/user?id=devtailz</uri>
         </author>
     </entry>
 </feed>
