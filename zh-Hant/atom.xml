@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T03:30:28.872Z</updated>
+    <updated>2022-04-13T03:54:45.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最大都市區的生育率表]]></title>
+        <id>https://news.ycombinator.com/item?id=31010987</id>
+        <link href="https://news.ycombinator.com/item?id=31010987"/>
+        <updated>2022-04-13T03:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Table of fertility rates in the largest metropolitan areas]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊本-納菲斯和肺循環的發現]]></title>
+        <id>https://news.ycombinator.com/item?id=31010534</id>
+        <link href="https://news.ycombinator.com/item?id=31010534"/>
+        <updated>2022-04-13T02:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Ibn al-Nafis and the discovery of the pulmonary circulation]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蛋白質結構的AlphaFold數據庫。一個生物學家的指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31010531</id>
+        <link href="https://news.ycombinator.com/item?id=31010531"/>
+        <updated>2022-04-13T02:16:14.000Z</updated>
+        <summary type="html"><![CDATA[The AlphaFold Database of Protein Structures: A Biologist’s Guide]]></summary>
+        <author>
+            <name>afpx</name>
+            <uri>https://news.ycombinator.com/user?id=afpx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安克公司有史以來最大的電池組是一個43磅的發電站]]></title>
         <id>https://news.ycombinator.com/item?id=31010865</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>qoding</name>
             <uri>https://news.ycombinator.com/user?id=qoding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丹的太陽能滑板車]]></title>
-        <id>https://news.ycombinator.com/item?id=30996331</id>
-        <link href="https://news.ycombinator.com/item?id=30996331"/>
-        <updated>2022-04-11T23:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Dan's Solar Scooter]]></summary>
-        <author>
-            <name>jbm</name>
-            <uri>https://news.ycombinator.com/user?id=jbm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡拉維拉斯縣著名的跳跳蛙]]></title>
-        <id>https://news.ycombinator.com/item?id=30996913</id>
-        <link href="https://news.ycombinator.com/item?id=30996913"/>
-        <updated>2022-04-12T00:09:49.000Z</updated>
-        <summary type="html"><![CDATA[The Celebrated Jumping Frog of Calaveras County]]></summary>
-        <author>
-            <name>_ttg</name>
-            <uri>https://news.ycombinator.com/user?id=_ttg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasmblr - 單一頭文件中的C++ WebAssembly 彙編器]]></title>
-        <id>https://news.ycombinator.com/item?id=30996866</id>
-        <link href="https://news.ycombinator.com/item?id=30996866"/>
-        <updated>2022-04-12T00:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Wasmblr – C++ WebAssembly Assembler in a single header file]]></summary>
-        <author>
-            <name>brrrrrm</name>
-            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
         </author>
     </entry>
 </feed>
