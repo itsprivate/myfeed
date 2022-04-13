@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T03:54:45.329Z</updated>
+    <updated>2022-04-13T04:14:52.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維基百科停止接受加密貨幣的RFC以多數票通過]]></title>
+        <id>https://news.ycombinator.com/item?id=31011083</id>
+        <link href="https://news.ycombinator.com/item?id=31011083"/>
+        <updated>2022-04-13T03:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote]]></summary>
+        <author>
+            <name>SwimSwimHungry</name>
+            <uri>https://news.ycombinator.com/user?id=SwimSwimHungry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最大都市區的生育率表]]></title>
         <id>https://news.ycombinator.com/item?id=31010987</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KlatchianMist</name>
             <uri>https://news.ycombinator.com/user?id=KlatchianMist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python的SQLite數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30996721</id>
-        <link href="https://news.ycombinator.com/item?id=30996721"/>
-        <updated>2022-04-11T23:47:46.000Z</updated>
-        <summary type="html"><![CDATA[SQLite Databases with Python]]></summary>
-        <author>
-            <name>qoding</name>
-            <uri>https://news.ycombinator.com/user?id=qoding</uri>
         </author>
     </entry>
 </feed>
