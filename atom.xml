@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-13T06:40:36.349Z</updated>
+    <updated>2022-04-13T06:56:59.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特投资者起诉埃隆-马斯克未及时披露其股份]]></title>
+        <id>https://news.ycombinator.com/item?id=31011684</id>
+        <link href="https://news.ycombinator.com/item?id=31011684"/>
+        <updated>2022-04-13T06:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Twitter investor sues Elon Musk for failure to promptly disclose his shares]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以今天的技术可能实现的太空电梯（悬挂在月球上） (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=31010863</id>
+        <link href="https://news.ycombinator.com/item?id=31010863"/>
+        <updated>2022-04-13T03:21:50.000Z</updated>
+        <summary type="html"><![CDATA[A space elevator possible with today’s technology (dangled off the moon) (2019)]]></summary>
+        <author>
+            <name>tempestn</name>
+            <uri>https://news.ycombinator.com/user?id=tempestn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgreSQL 更改数据捕获（CDC）]]></title>
         <id>https://news.ycombinator.com/item?id=31011720</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>heshiebee</name>
             <uri>https://news.ycombinator.com/user?id=heshiebee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于我们为什么都在网上发疯的一个理论]]></title>
-        <id>https://news.ycombinator.com/item?id=30997962</id>
-        <link href="https://news.ycombinator.com/item?id=30997962"/>
-        <updated>2022-04-12T02:40:07.000Z</updated>
-        <summary type="html"><![CDATA[A theory of why we’re all going nuts online]]></summary>
-        <author>
-            <name>earthboundkid</name>
-            <uri>https://news.ycombinator.com/user?id=earthboundkid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[退役设备在新的物理学实验中继续存在 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30997949</id>
-        <link href="https://news.ycombinator.com/item?id=30997949"/>
-        <updated>2022-04-12T02:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Retired equipment lives on in new physics experiments (2019)]]></summary>
-        <author>
-            <name>Ace_Archer</name>
-            <uri>https://news.ycombinator.com/user?id=Ace_Archer</uri>
         </author>
     </entry>
 </feed>
