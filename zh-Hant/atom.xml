@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T06:59:12.335Z</updated>
+    <updated>2022-04-14T07:13:18.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓Rust更適合Cheri和其他平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=31024127</id>
+        <link href="https://news.ycombinator.com/item?id=31024127"/>
+        <updated>2022-04-14T07:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Making Rust a Better Fit for Cheri and Other Platforms]]></summary>
+        <author>
+            <name>ltratt</name>
+            <uri>https://news.ycombinator.com/user?id=ltratt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紅杉領投金融科技公司Hubble的340萬美元融資]]></title>
+        <id>https://news.ycombinator.com/item?id=31024097</id>
+        <link href="https://news.ycombinator.com/item?id=31024097"/>
+        <updated>2022-04-14T06:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Sequoia leads $3.4 mn funding in fintech firm Hubble]]></summary>
+        <author>
+            <name>junaid1460</name>
+            <uri>https://news.ycombinator.com/user?id=junaid1460</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有人知道為什麼這個Unicode字符存在]]></title>
         <id>https://news.ycombinator.com/item?id=31023984</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoPro把Hero10 Black的內臟撕掉，把它的骨頭給了無人機]]></title>
-        <id>https://news.ycombinator.com/item?id=31009547</id>
-        <link href="https://news.ycombinator.com/item?id=31009547"/>
-        <updated>2022-04-12T23:37:44.000Z</updated>
-        <summary type="html"><![CDATA[GoPro ripped out the guts of the Hero10 Black to give its bones to drones]]></summary>
-        <author>
-            <name>alexsb92</name>
-            <uri>https://news.ycombinator.com/user?id=alexsb92</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['你現在能聽到我嗎？研究揭示了視頻通話中聲音被提高的原因]]></title>
-        <id>https://news.ycombinator.com/item?id=31009496</id>
-        <link href="https://news.ycombinator.com/item?id=31009496"/>
-        <updated>2022-04-12T23:30:34.000Z</updated>
-        <summary type="html"><![CDATA[‘Can you hear me now?’ Study reveals why voices are raised on video calls]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
