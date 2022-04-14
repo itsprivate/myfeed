@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T13:30:08.772Z</updated>
+    <updated>2022-04-14T13:50:38.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约市枪手的妄想很可能是由种族怨恨的培养滋生的]]></title>
+        <id>https://news.ycombinator.com/item?id=31026759</id>
+        <link href="https://news.ycombinator.com/item?id=31026759"/>
+        <updated>2022-04-14T13:35:07.000Z</updated>
+        <summary type="html"><![CDATA[NYC shooter’s delusions were likely fed by cultivation of racial resentment]]></summary>
+        <author>
+            <name>Bostonian</name>
+            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鼠园药物实验漫画（2013）]]></title>
+        <id>https://news.ycombinator.com/item?id=31026644</id>
+        <link href="https://news.ycombinator.com/item?id=31026644"/>
+        <updated>2022-04-14T13:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Rat Park drug experiment comic (2013)]]></summary>
+        <author>
+            <name>notamy</name>
+            <uri>https://news.ycombinator.com/user?id=notamy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的博客。一个org文件中的一年的帖子（2015年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31026586</id>
+        <link href="https://news.ycombinator.com/item?id=31026586"/>
+        <updated>2022-04-14T13:18:41.000Z</updated>
+        <summary type="html"><![CDATA[I blog: One year of posts in a single org file (2015)]]></summary>
+        <author>
+            <name>sanketpatrikar</name>
+            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openapi-cli-generator: 从OpenAPI 3规范中生成CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=31025064</id>
+        <link href="https://news.ycombinator.com/item?id=31025064"/>
+        <updated>2022-04-14T10:24:23.000Z</updated>
+        <summary type="html"><![CDATA[openapi-cli-generator: Generate a CLI from an OpenAPI 3 specification]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克的推特，第一个评论]]></title>
         <id>https://news.ycombinator.com/item?id=31026530</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>sschueller</name>
             <uri>https://news.ycombinator.com/user?id=sschueller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于签署供应配置文件的苹果证书过期，影响商店上传]]></title>
-        <id>https://news.ycombinator.com/item?id=31012476</id>
-        <link href="https://news.ycombinator.com/item?id=31012476"/>
-        <updated>2022-04-13T08:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Apple certs used to sign provisioning profiles expired, affecting store uploads]]></summary>
-        <author>
-            <name>sdflhasjd</name>
-            <uri>https://news.ycombinator.com/user?id=sdflhasjd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[处决一个独裁者。罗马尼亚圣诞革命的公开伤口 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=31012466</id>
-        <link href="https://news.ycombinator.com/item?id=31012466"/>
-        <updated>2022-04-13T08:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Executing a dictator: Open wounds of Romania's Christmas revolution (2019)]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新西兰最高法院首次允许将谋杀嫌疑人引渡到中国]]></title>
-        <id>https://news.ycombinator.com/item?id=31012459</id>
-        <link href="https://news.ycombinator.com/item?id=31012459"/>
-        <updated>2022-04-13T08:47:32.000Z</updated>
-        <summary type="html"><![CDATA[New Zealand Supreme Court allows murder suspects extradition to China in first]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾应使用 "破巢"，在中国的入侵中摧毁台积电。美国军方]]></title>
-        <id>https://news.ycombinator.com/item?id=31012442</id>
-        <link href="https://news.ycombinator.com/item?id=31012442"/>
-        <updated>2022-04-13T08:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Taiwan should use “broken nest”, destroy TSMC in Chinese invasion: US military]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
