@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T10:55:03.702Z</updated>
+    <updated>2022-04-14T11:13:09.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[许可黑豹。杀手级应用的权限]]></title>
+        <id>https://news.ycombinator.com/item?id=31025232</id>
+        <link href="https://news.ycombinator.com/item?id=31025232"/>
+        <updated>2022-04-14T10:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Permission Panther: Permissions for killer apps]]></summary>
+        <author>
+            <name>dangoodmanUT</name>
+            <uri>https://news.ycombinator.com/user?id=dangoodmanUT</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克提出以430亿美元收购Twitter的100%股权]]></title>
+        <id>https://news.ycombinator.com/item?id=31025210</id>
+        <link href="https://news.ycombinator.com/item?id=31025210"/>
+        <updated>2022-04-14T10:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s $43B offer to buy 100% of Twitter]]></summary>
+        <author>
+            <name>iSloth</name>
+            <uri>https://news.ycombinator.com/user?id=iSloth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韦伯望远镜最冷的仪器达到工作温度]]></title>
+        <id>https://news.ycombinator.com/item?id=31025126</id>
+        <link href="https://news.ycombinator.com/item?id=31025126"/>
+        <updated>2022-04-14T10:36:48.000Z</updated>
+        <summary type="html"><![CDATA[James Webb telescope's coldest instrument reaches operating temperature]]></summary>
+        <author>
+            <name>dnetesn</name>
+            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过度设计的日本机械铅笔]]></title>
+        <id>https://news.ycombinator.com/item?id=31024600</id>
+        <link href="https://news.ycombinator.com/item?id=31024600"/>
+        <updated>2022-04-14T08:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Overengineered Japanese Mechanical Pencils]]></summary>
+        <author>
+            <name>jkellermann</name>
+            <uri>https://news.ycombinator.com/user?id=jkellermann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克提出以430亿美元收购Twitter的建议]]></title>
         <id>https://news.ycombinator.com/item?id=31025152</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>app4soft</name>
             <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型计算机揭示大溪地的树蜗牛如何躲避凶猛的捕食者]]></title>
-        <id>https://news.ycombinator.com/item?id=31011066</id>
-        <link href="https://news.ycombinator.com/item?id=31011066"/>
-        <updated>2022-04-13T03:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Tiny Computers Reveal How Tahiti's Tree Snails Evade a Fierce Predator]]></summary>
-        <author>
-            <name>theonething</name>
-            <uri>https://news.ycombinator.com/user?id=theonething</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比诺克。将二进制数据可视化的图形工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31011262</id>
-        <link href="https://news.ycombinator.com/item?id=31011262"/>
-        <updated>2022-04-13T04:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Binocle: Graphical tool to visualize binary data]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高级机器学习系统中的学习型优化的风险]]></title>
-        <id>https://news.ycombinator.com/item?id=31011078</id>
-        <link href="https://news.ycombinator.com/item?id=31011078"/>
-        <updated>2022-04-13T03:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Risks from Learned Optimization in Advanced Machine Learning Systems]]></summary>
-        <author>
-            <name>echen</name>
-            <uri>https://news.ycombinator.com/user?id=echen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Xcode中使用LLDB命令进行更好的调试]]></title>
-        <id>https://news.ycombinator.com/item?id=31011215</id>
-        <link href="https://news.ycombinator.com/item?id=31011215"/>
-        <updated>2022-04-13T04:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Better debugging in Xcode with LLDB commands]]></summary>
-        <author>
-            <name>atultw</name>
-            <uri>https://news.ycombinator.com/user?id=atultw</uri>
         </author>
     </entry>
 </feed>
