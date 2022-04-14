@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T13:56:58.309Z</updated>
+    <updated>2022-04-14T14:12:29.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将Steam带入Chrome OS]]></title>
+        <id>https://news.ycombinator.com/item?id=31026869</id>
+        <link href="https://news.ycombinator.com/item?id=31026869"/>
+        <updated>2022-04-14T13:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Bringing Steam to Chrome OS]]></summary>
+        <author>
+            <name>jsnell</name>
+            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[练习机器学习的不同方式]]></title>
         <id>https://news.ycombinator.com/item?id=31026931</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>csomar</name>
             <uri>https://news.ycombinator.com/user?id=csomar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳能鸭子曲线的解释]]></title>
-        <id>https://news.ycombinator.com/item?id=31012457</id>
-        <link href="https://news.ycombinator.com/item?id=31012457"/>
-        <updated>2022-04-13T08:47:13.000Z</updated>
-        <summary type="html"><![CDATA[The Solar Power Duck Curve Explained]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
         </author>
     </entry>
 </feed>
