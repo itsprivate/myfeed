@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T18:56:04.692Z</updated>
+    <updated>2022-04-14T19:13:26.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的研究。希特勒的牙齿证实他死于1945年]]></title>
+        <id>https://news.ycombinator.com/item?id=31031698</id>
+        <link href="https://news.ycombinator.com/item?id=31031698"/>
+        <updated>2022-04-14T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[New Research: Hitler’s Teeth Confirm He Died in 1945]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1M并发连接]]></title>
+        <id>https://news.ycombinator.com/item?id=31031599</id>
+        <link href="https://news.ycombinator.com/item?id=31031599"/>
+        <updated>2022-04-14T18:55:33.000Z</updated>
+        <summary type="html"><![CDATA[1M Concurrent Connections]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲开始起草对俄罗斯石油进口的禁令]]></title>
+        <id>https://news.ycombinator.com/item?id=31031543</id>
+        <link href="https://news.ycombinator.com/item?id=31031543"/>
+        <updated>2022-04-14T18:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Europe starts drafting a ban on Russian oil imports]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波特五力对B2B软件行业的不适用性]]></title>
+        <id>https://news.ycombinator.com/item?id=31031528</id>
+        <link href="https://news.ycombinator.com/item?id=31031528"/>
+        <updated>2022-04-14T18:50:49.000Z</updated>
+        <summary type="html"><![CDATA[The Irrelevance of Porter’s Five Forces for the B2B Software Industry]]></summary>
+        <author>
+            <name>djhope</name>
+            <uri>https://news.ycombinator.com/user?id=djhope</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD的Ryzen 5800X3D对消费者来说缺陷太大]]></title>
+        <id>https://news.ycombinator.com/item?id=31031485</id>
+        <link href="https://news.ycombinator.com/item?id=31031485"/>
+        <updated>2022-04-14T18:47:20.000Z</updated>
+        <summary type="html"><![CDATA[AMD’s Ryzen 5800X3D is too flawed for consumer use]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多发性硬化症的症状可能在免疫疗法的突破中被 "扭转 "了过来]]></title>
         <id>https://news.ycombinator.com/item?id=31031384</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>kavehkhorram</name>
             <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 "中立 "的国际象棋步骤？]]></title>
-        <id>https://news.ycombinator.com/item?id=31015158</id>
-        <link href="https://news.ycombinator.com/item?id=31015158"/>
-        <updated>2022-04-13T14:36:50.000Z</updated>
-        <summary type="html"><![CDATA[What is the “neutral” chess move?]]></summary>
-        <author>
-            <name>memish</name>
-            <uri>https://news.ycombinator.com/user?id=memish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WasCm: 低级别的Lisp用于WebAssembly]]></title>
-        <id>https://news.ycombinator.com/item?id=31015075</id>
-        <link href="https://news.ycombinator.com/item?id=31015075"/>
-        <updated>2022-04-13T14:31:09.000Z</updated>
-        <summary type="html"><![CDATA[WasCm: Low Level Lisp for WebAssembly]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoolLabs Fonts: "对隐私友好的谷歌字体的替代品"]]></title>
-        <id>https://news.ycombinator.com/item?id=31015009</id>
-        <link href="https://news.ycombinator.com/item?id=31015009"/>
-        <updated>2022-04-13T14:25:38.000Z</updated>
-        <summary type="html"><![CDATA[CoolLabs Fonts: “A privacy-friendly drop-in replacement for Google Fonts”]]></summary>
-        <author>
-            <name>nafnlj</name>
-            <uri>https://news.ycombinator.com/user?id=nafnlj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向新手的PostGIS]]></title>
-        <id>https://news.ycombinator.com/item?id=31014770</id>
-        <link href="https://news.ycombinator.com/item?id=31014770"/>
-        <updated>2022-04-13T14:03:58.000Z</updated>
-        <summary type="html"><![CDATA[PostGIS for Newbies]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究显示，比特币粉丝是不关心任何人的心理变态者]]></title>
-        <id>https://news.ycombinator.com/item?id=31015128</id>
-        <link href="https://news.ycombinator.com/item?id=31015128"/>
-        <updated>2022-04-13T14:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin fans are psychopaths who don’t care about anyone, study shows]]></summary>
-        <author>
-            <name>ca98am79</name>
-            <uri>https://news.ycombinator.com/user?id=ca98am79</uri>
         </author>
     </entry>
 </feed>
