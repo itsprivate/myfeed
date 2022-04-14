@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T05:51:42.019Z</updated>
+    <updated>2022-04-14T06:16:13.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個數學家的悲歌》(2002) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31023823</id>
+        <link href="https://news.ycombinator.com/item?id=31023823"/>
+        <updated>2022-04-14T05:57:37.000Z</updated>
+        <summary type="html"><![CDATA[A Mathematician’s Lament (2002) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有速度限制 (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=31023821</id>
+        <link href="https://news.ycombinator.com/item?id=31023821"/>
+        <updated>2022-04-14T05:57:20.000Z</updated>
+        <summary type="html"><![CDATA[There’s no speed limit (2009)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禁止一切的法律]]></title>
+        <id>https://news.ycombinator.com/item?id=31023766</id>
+        <link href="https://news.ycombinator.com/item?id=31023766"/>
+        <updated>2022-04-14T05:43:54.000Z</updated>
+        <summary type="html"><![CDATA[The law that banned everything]]></summary>
+        <author>
+            <name>car_analogy</name>
+            <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃爾朗虛擬機的歷史 (2011) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31023551</id>
+        <link href="https://news.ycombinator.com/item?id=31023551"/>
+        <updated>2022-04-14T04:59:29.000Z</updated>
+        <summary type="html"><![CDATA[A History of the Erlang VM (2011) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一個單獨的創始人，如何學會處理錯誤？]]></title>
+        <id>https://news.ycombinator.com/item?id=31023379</id>
+        <link href="https://news.ycombinator.com/item?id=31023379"/>
+        <updated>2022-04-14T04:22:58.000Z</updated>
+        <summary type="html"><![CDATA[How to learn to deal with mistakes as a solo founder]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態語言為何受制於複雜度]]></title>
+        <id>https://news.ycombinator.com/item?id=31023033</id>
+        <link href="https://news.ycombinator.com/item?id=31023033"/>
+        <updated>2022-04-14T03:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Why Static Languages Suffer from Complexity]]></summary>
+        <author>
+            <name>ledauphin</name>
+            <uri>https://news.ycombinator.com/user?id=ledauphin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追蹤詹姆斯-韋伯太空望遠鏡]]></title>
+        <id>https://news.ycombinator.com/item?id=31022653</id>
+        <link href="https://news.ycombinator.com/item?id=31022653"/>
+        <updated>2022-04-14T02:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Tracking the James Webb Space Telescope]]></summary>
+        <author>
+            <name>phsilva</name>
+            <uri>https://news.ycombinator.com/user?id=phsilva</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Apache Samza將數據庫由內向外翻轉]]></title>
+        <id>https://news.ycombinator.com/item?id=31022462</id>
+        <link href="https://news.ycombinator.com/item?id=31022462"/>
+        <updated>2022-04-14T01:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Turning the database inside-out with Apache Samza]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT收藏家以280美元的最高價收購了他去年以290萬美元買下的傑克-多爾西NFT]]></title>
         <id>https://news.ycombinator.com/item?id=31023773</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>danbolt</name>
             <uri>https://news.ycombinator.com/user?id=danbolt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda和Razer推出用於深度學習的筆記本電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=31009100</id>
-        <link href="https://news.ycombinator.com/item?id=31009100"/>
-        <updated>2022-04-12T22:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Lambda and Razer launch laptop for Deep Learning]]></summary>
-        <author>
-            <name>asselinpaul</name>
-            <uri>https://news.ycombinator.com/user?id=asselinpaul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runet已經在那裡了。不久，俄羅斯將與互聯網斷開連接]]></title>
-        <id>https://news.ycombinator.com/item?id=31008427</id>
-        <link href="https://news.ycombinator.com/item?id=31008427"/>
-        <updated>2022-04-12T21:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Runet is already there. Soon Russia will be disconnected from the Internet]]></summary>
-        <author>
-            <name>neverminder</name>
-            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帝國時代4》的玩家有資格通過歷史部獲得UA亞利桑那州的學分]]></title>
-        <id>https://news.ycombinator.com/item?id=31009215</id>
-        <link href="https://news.ycombinator.com/item?id=31009215"/>
-        <updated>2022-04-12T22:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Age of Empires IV Players Eligible for UArizona Credit Through History Dept]]></summary>
-        <author>
-            <name>kuida0r3</name>
-            <uri>https://news.ycombinator.com/user?id=kuida0r3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反對Monorepos的案例]]></title>
-        <id>https://news.ycombinator.com/item?id=31009205</id>
-        <link href="https://news.ycombinator.com/item?id=31009205"/>
-        <updated>2022-04-12T22:53:10.000Z</updated>
-        <summary type="html"><![CDATA[The Case Against Monorepos]]></summary>
-        <author>
-            <name>bb88</name>
-            <uri>https://news.ycombinator.com/user?id=bb88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的神秘Facebook "超級粉絲 "在執行任務]]></title>
-        <id>https://news.ycombinator.com/item?id=31009162</id>
-        <link href="https://news.ycombinator.com/item?id=31009162"/>
-        <updated>2022-04-12T22:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Putin's mysterious Facebook 'superfans' on a mission]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在使用DALL-E方面學到的幾件事]]></title>
-        <id>https://news.ycombinator.com/item?id=31009129</id>
-        <link href="https://news.ycombinator.com/item?id=31009129"/>
-        <updated>2022-04-12T22:43:56.000Z</updated>
-        <summary type="html"><![CDATA[A few things I learned about using DALL·E]]></summary>
-        <author>
-            <name>_bramses</name>
-            <uri>https://news.ycombinator.com/user?id=_bramses</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個微小的、嵌入式的、免費的開源RISC-V SoC]]></title>
-        <id>https://news.ycombinator.com/item?id=31009123</id>
-        <link href="https://news.ycombinator.com/item?id=31009123"/>
-        <updated>2022-04-12T22:43:28.000Z</updated>
-        <summary type="html"><![CDATA[A tiny, embedded and free-of-charge open-source RISC-V SoC]]></summary>
-        <author>
-            <name>we_might_fall</name>
-            <uri>https://news.ycombinator.com/user?id=we_might_fall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改變全球頂級貨幣意味著改變全球貿易的模式]]></title>
-        <id>https://news.ycombinator.com/item?id=31009010</id>
-        <link href="https://news.ycombinator.com/item?id=31009010"/>
-        <updated>2022-04-12T22:28:45.000Z</updated>
-        <summary type="html"><![CDATA[Changing the Top Global Currency Means Changing the Patterns of Global Trade]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
