@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T19:29:18.222Z</updated>
+    <updated>2022-04-14T19:37:35.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[調查顯示，最富有的美國人只需繳納收入的3.4%的稅收]]></title>
+        <id>https://news.ycombinator.com/item?id=31032133</id>
+        <link href="https://news.ycombinator.com/item?id=31032133"/>
+        <updated>2022-04-14T19:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Wealthiest Americans pay just 3.4% of income in taxes, investigation reveals]]></summary>
+        <author>
+            <name>DemiGuru</name>
+            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對Golang中真實世界的數據競爭的研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31032132</id>
+        <link href="https://news.ycombinator.com/item?id=31032132"/>
+        <updated>2022-04-14T19:31:15.000Z</updated>
+        <summary type="html"><![CDATA[A Study of Real-World Data Races in Golang]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4月9日朱諾拍攝的木衛一圖像]]></title>
+        <id>https://news.ycombinator.com/item?id=31032086</id>
+        <link href="https://news.ycombinator.com/item?id=31032086"/>
+        <updated>2022-04-14T19:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Juno images of Io from April 9th]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度的種姓。其機制、起源和發展]]></title>
+        <id>https://news.ycombinator.com/item?id=31032051</id>
+        <link href="https://news.ycombinator.com/item?id=31032051"/>
+        <updated>2022-04-14T19:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Castes in India: Their Mechanism, Genesis and Development]]></summary>
+        <author>
+            <name>rosharody</name>
+            <uri>https://news.ycombinator.com/user?id=rosharody</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無牌無線電]]></title>
+        <id>https://news.ycombinator.com/item?id=31031858</id>
+        <link href="https://news.ycombinator.com/item?id=31031858"/>
+        <updated>2022-04-14T19:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Unlicensed Radio]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[血鉛水平與發育不良、消瘦和體重不足之間的關係]]></title>
+        <id>https://news.ycombinator.com/item?id=31031640</id>
+        <link href="https://news.ycombinator.com/item?id=31031640"/>
+        <updated>2022-04-14T18:57:40.000Z</updated>
+        <summary type="html"><![CDATA[The relationship between blood lead level and stunting, wasting and underweight]]></summary>
+        <author>
+            <name>DoreenMichele</name>
+            <uri>https://news.ycombinator.com/user?id=DoreenMichele</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將LLVM IR編譯成支持WASI的WebAssembly]]></title>
         <id>https://news.ycombinator.com/item?id=31031844</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>hsnewman</name>
             <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100萬科維德死亡的悲痛並沒有消失]]></title>
-        <id>https://news.ycombinator.com/item?id=31015418</id>
-        <link href="https://news.ycombinator.com/item?id=31015418"/>
-        <updated>2022-04-13T14:57:15.000Z</updated>
-        <summary type="html"><![CDATA[The Grief of 1M Covid Deaths Is Not Going Away]]></summary>
-        <author>
-            <name>neaden</name>
-            <uri>https://news.ycombinator.com/user?id=neaden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nexo和萬事達卡推出 "全球首張 "加密貨幣支持的支付卡]]></title>
-        <id>https://news.ycombinator.com/item?id=31015415</id>
-        <link href="https://news.ycombinator.com/item?id=31015415"/>
-        <updated>2022-04-13T14:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Nexo and MasterCard launch 'world first' crypto-backed payment card]]></summary>
-        <author>
-            <name>aratob</name>
-            <uri>https://news.ycombinator.com/user?id=aratob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理查德-斯托爾曼現場會議]]></title>
-        <id>https://news.ycombinator.com/item?id=31015379</id>
-        <link href="https://news.ycombinator.com/item?id=31015379"/>
-        <updated>2022-04-13T14:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Richard Stallman Live-Session]]></summary>
-        <author>
-            <name>kukrak</name>
-            <uri>https://news.ycombinator.com/user?id=kukrak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西發現泰坦龍的築巢地點]]></title>
-        <id>https://news.ycombinator.com/item?id=31015365</id>
-        <link href="https://news.ycombinator.com/item?id=31015365"/>
-        <updated>2022-04-13T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Titanosaur nesting spot found in Brazil]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Ruby的程序合成]]></title>
-        <id>https://news.ycombinator.com/item?id=31015363</id>
-        <link href="https://news.ycombinator.com/item?id=31015363"/>
-        <updated>2022-04-13T14:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Program Synthesis for Ruby]]></summary>
-        <author>
-            <name>sankha93</name>
-            <uri>https://news.ycombinator.com/user?id=sankha93</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子遊戲有點無聊]]></title>
-        <id>https://news.ycombinator.com/item?id=31015328</id>
-        <link href="https://news.ycombinator.com/item?id=31015328"/>
-        <updated>2022-04-13T14:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Video games are kinda boring]]></summary>
-        <author>
-            <name>thecsw</name>
-            <uri>https://news.ycombinator.com/user?id=thecsw</uri>
         </author>
     </entry>
 </feed>
