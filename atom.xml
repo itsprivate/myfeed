@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T07:32:20.768Z</updated>
+    <updated>2022-04-14T07:41:23.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java 18默认为UTF-8]]></title>
+        <id>https://news.ycombinator.com/item?id=31024255</id>
+        <link href="https://news.ycombinator.com/item?id=31024255"/>
+        <updated>2022-04-14T07:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Java 18 is UTF-8 by Default]]></summary>
+        <author>
+            <name>ivanche</name>
+            <uri>https://news.ycombinator.com/user?id=ivanche</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比尔-哈特卸任弗林特的维护者并离开学术界]]></title>
+        <id>https://news.ycombinator.com/item?id=31024228</id>
+        <link href="https://news.ycombinator.com/item?id=31024228"/>
+        <updated>2022-04-14T07:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Bill Hart steps down as maintainer of Flint and leaves academia]]></summary>
+        <author>
+            <name>stncls</name>
+            <uri>https://news.ycombinator.com/user?id=stncls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家说，太阳能现在可以储存长达18年之久]]></title>
         <id>https://news.ycombinator.com/item?id=31024251</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>AiFoGhost</name>
             <uri>https://news.ycombinator.com/user?id=AiFoGhost</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSF欢迎新任执行董事Deb Nicholson的到来]]></title>
-        <id>https://news.ycombinator.com/item?id=31009700</id>
-        <link href="https://news.ycombinator.com/item?id=31009700"/>
-        <updated>2022-04-13T00:07:16.000Z</updated>
-        <summary type="html"><![CDATA[PSF Welcomes New Executive Director Deb Nicholson]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年甲板上的最佳公司]]></title>
-        <id>https://news.ycombinator.com/item?id=31009682</id>
-        <link href="https://news.ycombinator.com/item?id=31009682"/>
-        <updated>2022-04-13T00:03:44.000Z</updated>
-        <summary type="html"><![CDATA[On Deck's Top Companies 2022]]></summary>
-        <author>
-            <name>sshah1983</name>
-            <uri>https://news.ycombinator.com/user?id=sshah1983</uri>
         </author>
     </entry>
 </feed>
