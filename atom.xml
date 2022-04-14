@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T07:51:29.607Z</updated>
+    <updated>2022-04-14T08:18:03.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ELTRES。索尼用于无线物联网的新LPWAN技术]]></title>
+        <id>https://news.ycombinator.com/item?id=31024405</id>
+        <link href="https://news.ycombinator.com/item?id=31024405"/>
+        <updated>2022-04-14T08:02:53.000Z</updated>
+        <summary type="html"><![CDATA[ELTRES: New LPWAN technology from Sony for wireless IoT]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么红宝石有符号]]></title>
+        <id>https://news.ycombinator.com/item?id=31024363</id>
+        <link href="https://news.ycombinator.com/item?id=31024363"/>
+        <updated>2022-04-14T07:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Why Ruby Has Symbols]]></summary>
+        <author>
+            <name>dmitrytsepelev</name>
+            <uri>https://news.ycombinator.com/user?id=dmitrytsepelev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[度假时自动浇灌植物 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=31024288</id>
+        <link href="https://news.ycombinator.com/item?id=31024288"/>
+        <updated>2022-04-14T07:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Watering plants automatically while on vacation (2011)]]></summary>
+        <author>
+            <name>risfriend</name>
+            <uri>https://news.ycombinator.com/user?id=risfriend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epstein-Barr病毒。科学家认为病毒导致多发性硬化症]]></title>
+        <id>https://news.ycombinator.com/item?id=31024234</id>
+        <link href="https://news.ycombinator.com/item?id=31024234"/>
+        <updated>2022-04-14T07:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Epstein-Barr virus: Scientists believe virus causes multiple sclerosis]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8300万像素的太阳图片]]></title>
+        <id>https://news.ycombinator.com/item?id=31023338</id>
+        <link href="https://news.ycombinator.com/item?id=31023338"/>
+        <updated>2022-04-14T04:13:13.000Z</updated>
+        <summary type="html"><![CDATA[83 Megapixel Picture Of The Sun]]></summary>
+        <author>
+            <name>alex_young</name>
+            <uri>https://news.ycombinator.com/user?id=alex_young</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clojure并不适合我]]></title>
         <id>https://news.ycombinator.com/item?id=31024333</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jhncls</name>
             <uri>https://news.ycombinator.com/user?id=jhncls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在是2022年：我们承诺的无人机送货到哪里去了？]]></title>
-        <id>https://news.ycombinator.com/item?id=31009815</id>
-        <link href="https://news.ycombinator.com/item?id=31009815"/>
-        <updated>2022-04-13T00:23:52.000Z</updated>
-        <summary type="html"><![CDATA[It’s 2022: Where are the drone deliveries we were promised?]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于应该如何学习代码的信念]]></title>
-        <id>https://news.ycombinator.com/item?id=31009802</id>
-        <link href="https://news.ycombinator.com/item?id=31009802"/>
-        <updated>2022-04-13T00:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Beliefs on how you should learn to code]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在2022年4月加快Rust编译器的速度]]></title>
-        <id>https://news.ycombinator.com/item?id=31009801</id>
-        <link href="https://news.ycombinator.com/item?id=31009801"/>
-        <updated>2022-04-13T00:22:19.000Z</updated>
-        <summary type="html"><![CDATA[How to speed up the Rust compiler in April 2022]]></summary>
-        <author>
-            <name>nnethercote</name>
-            <uri>https://news.ycombinator.com/user?id=nnethercote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员的复古游戏机的历史]]></title>
-        <id>https://news.ycombinator.com/item?id=31009787</id>
-        <link href="https://news.ycombinator.com/item?id=31009787"/>
-        <updated>2022-04-13T00:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The History of Retro Game Consoles for Programmers]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI的DALL-E AI图像生成器现在也能编辑图片了]]></title>
-        <id>https://news.ycombinator.com/item?id=31009747</id>
-        <link href="https://news.ycombinator.com/item?id=31009747"/>
-        <updated>2022-04-13T00:15:33.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s DALL-E AI image generator can now edit pictures, too]]></summary>
-        <author>
-            <name>JerryRorsch</name>
-            <uri>https://news.ycombinator.com/user?id=JerryRorsch</uri>
         </author>
     </entry>
 </feed>
