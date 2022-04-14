@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 14 Apr 2022 15:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 16:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,69 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[今天44岁了，我迷失了方向]]></title>
+            <link>https://news.ycombinator.com/item?id=31028795</link>
+            <guid>https://news.ycombinator.com/item?id=31028795</guid>
+            <pubDate>Thu, 14 Apr 2022 16:04:55 GMT</pubDate>
+            <description><![CDATA[Turned 44 today and I'm lost]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lumafield初创公司为工程师提供负担得起的3D X射线成像技术]]></title>
+            <link>https://news.ycombinator.com/item?id=31028773</link>
+            <guid>https://news.ycombinator.com/item?id=31028773</guid>
+            <pubDate>Thu, 14 Apr 2022 16:03:38 GMT</pubDate>
+            <description><![CDATA[Lumafield startup offers affordable 3D X-Ray imaging to engineers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Spotify的播客搜索详解]]></title>
+            <link>https://news.ycombinator.com/item?id=31028718</link>
+            <guid>https://news.ycombinator.com/item?id=31028718</guid>
+            <pubDate>Thu, 14 Apr 2022 16:00:06 GMT</pubDate>
+            <description><![CDATA[Spotify's Podcast Search Explained]]></description>
+        </item>
+        <item>
+            <title><![CDATA[照片之外的Instagram。性骚扰者、加密货币骗子、身份证窃贼]]></title>
+            <link>https://news.ycombinator.com/item?id=31028441</link>
+            <guid>https://news.ycombinator.com/item?id=31028441</guid>
+            <pubDate>Thu, 14 Apr 2022 15:43:38 GMT</pubDate>
+            <description><![CDATA[Instagram beyond pics: Sexual harassers, crypto crooks, ID thieves]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仿真的边缘。游戏男孩的缝纫机]]></title>
+            <link>https://news.ycombinator.com/item?id=31028360</link>
+            <guid>https://news.ycombinator.com/item?id=31028360</guid>
+            <pubDate>Thu, 14 Apr 2022 15:38:30 GMT</pubDate>
+            <description><![CDATA[Edge of Emulation: Game Boy Sewing Machines]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用GitHub Actions和GitHub OIDC for AWS建立Terraform管道]]></title>
+            <link>https://news.ycombinator.com/item?id=31028341</link>
+            <guid>https://news.ycombinator.com/item?id=31028341</guid>
+            <pubDate>Thu, 14 Apr 2022 15:37:05 GMT</pubDate>
+            <description><![CDATA[Set Up a Terraform Pipeline with GitHub Actions and GitHub OIDC for AWS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究人员从简单的人工智能中获得新的理解]]></title>
+            <link>https://news.ycombinator.com/item?id=31028265</link>
+            <guid>https://news.ycombinator.com/item?id=31028265</guid>
+            <pubDate>Thu, 14 Apr 2022 15:32:05 GMT</pubDate>
+            <description><![CDATA[Researchers Gain New Understanding from Simple AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PyCharm 2022.1 发行说明]]></title>
+            <link>https://news.ycombinator.com/item?id=31028092</link>
+            <guid>https://news.ycombinator.com/item?id=31028092</guid>
+            <pubDate>Thu, 14 Apr 2022 15:19:11 GMT</pubDate>
+            <description><![CDATA[PyCharm 2022.1 Release Notes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CRISPR和艾滋病毒。人类血液中的新技术揭示了通往治愈的潜在途径]]></title>
+            <link>https://news.ycombinator.com/item?id=31027887</link>
+            <guid>https://news.ycombinator.com/item?id=31027887</guid>
+            <pubDate>Thu, 14 Apr 2022 15:03:26 GMT</pubDate>
+            <description><![CDATA[CRISPR and HIV: New technique in human blood unveils potential paths toward cure]]></description>
+        </item>
         <item>
             <title><![CDATA[荷兰12亿美元的芯片计划以光子学为目标]]></title>
             <link>https://news.ycombinator.com/item?id=31028582</link>
@@ -4150,69 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31013724</guid>
             <pubDate>Wed, 13 Apr 2022 12:15:12 GMT</pubDate>
             <description><![CDATA[What makes Armies commit Atrocities? (Author of acoup.blog)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用LapLink通过DOS上的并行端口传输文件]]></title>
-            <link>https://news.ycombinator.com/item?id=31013707</link>
-            <guid>https://news.ycombinator.com/item?id=31013707</guid>
-            <pubDate>Wed, 13 Apr 2022 12:12:01 GMT</pubDate>
-            <description><![CDATA[File transfers via the parallel port on DOS using LapLink]]></description>
-        </item>
-        <item>
-            <title><![CDATA[深入探究Golang的OpenFaaS功能]]></title>
-            <link>https://news.ycombinator.com/item?id=31013681</link>
-            <guid>https://news.ycombinator.com/item?id=31013681</guid>
-            <pubDate>Wed, 13 Apr 2022 12:07:19 GMT</pubDate>
-            <description><![CDATA[A Deep Dive into Golang for OpenFaaS Functions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Astro进行服务器端渲染]]></title>
-            <link>https://news.ycombinator.com/item?id=31013637</link>
-            <guid>https://news.ycombinator.com/item?id=31013637</guid>
-            <pubDate>Wed, 13 Apr 2022 12:02:06 GMT</pubDate>
-            <description><![CDATA[Server-Side Rendering with Astro]]></description>
-        </item>
-        <item>
-            <title><![CDATA[IBM构建开放式量子软件生态系统的路线图]]></title>
-            <link>https://news.ycombinator.com/item?id=31013609</link>
-            <guid>https://news.ycombinator.com/item?id=31013609</guid>
-            <pubDate>Wed, 13 Apr 2022 11:59:42 GMT</pubDate>
-            <description><![CDATA[IBM’s roadmap for building an open quantum software ecosystem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国收入最高的人和他们的纳税情况揭秘]]></title>
-            <link>https://news.ycombinator.com/item?id=31013590</link>
-            <guid>https://news.ycombinator.com/item?id=31013590</guid>
-            <pubDate>Wed, 13 Apr 2022 11:56:49 GMT</pubDate>
-            <description><![CDATA[America’s Highest Earners and Their Taxes Revealed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有了永久的夏令时，要小心你所希望的东西]]></title>
-            <link>https://news.ycombinator.com/item?id=31013585</link>
-            <guid>https://news.ycombinator.com/item?id=31013585</guid>
-            <pubDate>Wed, 13 Apr 2022 11:56:29 GMT</pubDate>
-            <description><![CDATA[With Permanent Daylight Savings Time, Careful What You Wish For]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ClickHouse 22.3 LTS发布]]></title>
-            <link>https://news.ycombinator.com/item?id=31013571</link>
-            <guid>https://news.ycombinator.com/item?id=31013571</guid>
-            <pubDate>Wed, 13 Apr 2022 11:54:10 GMT</pubDate>
-            <description><![CDATA[ClickHouse 22.3 LTS Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我辞职是因为我的老板要求我做会议记录]]></title>
-            <link>https://news.ycombinator.com/item?id=31013706</link>
-            <guid>https://news.ycombinator.com/item?id=31013706</guid>
-            <pubDate>Wed, 13 Apr 2022 12:11:41 GMT</pubDate>
-            <description><![CDATA[I quit my job because my boss asked me to take meeting notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[平台工程101：从构建内部工具中汲取经验]]></title>
-            <link>https://news.ycombinator.com/item?id=31013695</link>
-            <guid>https://news.ycombinator.com/item?id=31013695</guid>
-            <pubDate>Wed, 13 Apr 2022 12:09:29 GMT</pubDate>
-            <description><![CDATA[Platform Engineering 101: Learnings from Building Internal Tools]]></description>
         </item>
     </channel>
 </rss>
