@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T23:43:10.304Z</updated>
+    <updated>2022-04-14T23:51:29.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊无人机坠毁打击了杰夫-贝佐斯的送货梦想]]></title>
+        <id>https://news.ycombinator.com/item?id=31034810</id>
+        <link href="https://news.ycombinator.com/item?id=31034810"/>
+        <updated>2022-04-14T23:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon drone crashes hit Jeff Bezos' delivery dreams]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯人正试图在阿联酋变现他们的加密货币以购买房地产]]></title>
         <id>https://news.ycombinator.com/item?id=31034871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放源码数据库，一个开源替代品的众包数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=31016919</id>
-        <link href="https://news.ycombinator.com/item?id=31016919"/>
-        <updated>2022-04-13T16:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OSS Database, A crowdsourced database of Open Source alternatives]]></summary>
-        <author>
-            <name>pvsukale3</name>
-            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
         </author>
     </entry>
 </feed>
