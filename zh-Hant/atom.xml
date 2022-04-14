@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T20:45:21.429Z</updated>
+    <updated>2022-04-14T20:51:27.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌會創造一個人工智能之神嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31032901</id>
+        <link href="https://news.ycombinator.com/item?id=31032901"/>
+        <updated>2022-04-14T20:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Will Google Create an AI God?]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紀念加加林，記住那些使他的飛行成為可能的烏克蘭人]]></title>
         <id>https://news.ycombinator.com/item?id=31032935</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac版的DuckDuckGo已經發布]]></title>
-        <id>https://news.ycombinator.com/item?id=31015909</id>
-        <link href="https://news.ycombinator.com/item?id=31015909"/>
-        <updated>2022-04-13T15:33:29.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo for Mac Released]]></summary>
-        <author>
-            <name>blaines</name>
-            <uri>https://news.ycombinator.com/user?id=blaines</uri>
         </author>
     </entry>
 </feed>
