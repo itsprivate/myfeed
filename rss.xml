@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 14 Apr 2022 19:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 20:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[注重可读性的Hacker News阅读器]]></title>
+            <link>https://news.ycombinator.com/item?id=31032601</link>
+            <guid>https://news.ycombinator.com/item?id=31032601</guid>
+            <pubDate>Thu, 14 Apr 2022 20:09:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News reader focused on readability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[软件工程师是美国最不分心的司机]]></title>
+            <link>https://news.ycombinator.com/item?id=31032447</link>
+            <guid>https://news.ycombinator.com/item?id=31032447</guid>
+            <pubDate>Thu, 14 Apr 2022 19:55:02 GMT</pubDate>
+            <description><![CDATA[Software Engineers Are America’s Least Distracted Drivers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我学到的东西 在30天内建立（和销售）一家公司。第1-15天]]></title>
+            <link>https://news.ycombinator.com/item?id=31032410</link>
+            <guid>https://news.ycombinator.com/item?id=31032410</guid>
+            <pubDate>Thu, 14 Apr 2022 19:52:27 GMT</pubDate>
+            <description><![CDATA[What I Learned Building (and Selling?) a Company in 30 days: Days 1–15]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果我有多个连接的键盘，我怎样才能单独读取输入？]]></title>
+            <link>https://news.ycombinator.com/item?id=31032339</link>
+            <guid>https://news.ycombinator.com/item?id=31032339</guid>
+            <pubDate>Thu, 14 Apr 2022 19:46:53 GMT</pubDate>
+            <description><![CDATA[If I have multiple attached keyboards, how can I read input individually?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SAFE.new - 在几秒钟内创建一个SAFE]]></title>
+            <link>https://news.ycombinator.com/item?id=31032301</link>
+            <guid>https://news.ycombinator.com/item?id=31032301</guid>
+            <pubDate>Thu, 14 Apr 2022 19:43:59 GMT</pubDate>
+            <description><![CDATA[SAFE.new – Create a SAFE in Seconds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ShorTor。通过多跳叠加路由改善Tor的网络延时]]></title>
+            <link>https://news.ycombinator.com/item?id=31031757</link>
+            <guid>https://news.ycombinator.com/item?id=31031757</guid>
+            <pubDate>Thu, 14 Apr 2022 19:04:53 GMT</pubDate>
+            <description><![CDATA[ShorTor: Improving Tor Network Latency via Multi-Hop Overlay Routing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[系统思考者的诅咒（第一部分）]]></title>
+            <link>https://news.ycombinator.com/item?id=31030933</link>
+            <guid>https://news.ycombinator.com/item?id=31030933</guid>
+            <pubDate>Thu, 14 Apr 2022 18:11:56 GMT</pubDate>
+            <description><![CDATA[The Curse of Systems Thinkers (Part 1)]]></description>
+        </item>
         <item>
             <title><![CDATA[在Python中使用NumPy Vectorization进行实时彩色ASCII渲染]]></title>
             <link>https://news.ycombinator.com/item?id=31032303</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31015685</guid>
             <pubDate>Wed, 13 Apr 2022 15:17:55 GMT</pubDate>
             <description><![CDATA[Mozilla Partners with the Center for Humane Technology]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Guix Home: 保持家的整洁]]></title>
-            <link>https://news.ycombinator.com/item?id=31015622</link>
-            <guid>https://news.ycombinator.com/item?id=31015622</guid>
-            <pubDate>Wed, 13 Apr 2022 15:11:41 GMT</pubDate>
-            <description><![CDATA[Guix Home: Keeping one’s home tidy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hetzner云 - 数据丢失事件]]></title>
-            <link>https://news.ycombinator.com/item?id=31015840</link>
-            <guid>https://news.ycombinator.com/item?id=31015840</guid>
-            <pubDate>Wed, 13 Apr 2022 15:29:35 GMT</pubDate>
-            <description><![CDATA[Hetzner Cloud – Data loss incident]]></description>
-        </item>
-        <item>
-            <title><![CDATA[夏娃在线的成功显示了为什么游戏不需要NFT的原因]]></title>
-            <link>https://news.ycombinator.com/item?id=31015797</link>
-            <guid>https://news.ycombinator.com/item?id=31015797</guid>
-            <pubDate>Wed, 13 Apr 2022 15:26:22 GMT</pubDate>
-            <description><![CDATA[Eve Online’s success shows why gaming doesn’t need NFTs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新研究揭示了更多关于新陈代谢的工作原理]]></title>
-            <link>https://news.ycombinator.com/item?id=31015688</link>
-            <guid>https://news.ycombinator.com/item?id=31015688</guid>
-            <pubDate>Wed, 13 Apr 2022 15:18:04 GMT</pubDate>
-            <description><![CDATA[New Study Reveals More About How Metabolism Works]]></description>
-        </item>
-        <item>
-            <title><![CDATA[朝鲜区块链演讲后美国判处加密货币专家5年徒刑]]></title>
-            <link>https://news.ycombinator.com/item?id=31015652</link>
-            <guid>https://news.ycombinator.com/item?id=31015652</guid>
-            <pubDate>Wed, 13 Apr 2022 15:14:16 GMT</pubDate>
-            <description><![CDATA[US sentences crypto expert to 5 years after North Korea blockchain presentation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无服务器的语音到文本]]></title>
-            <link>https://news.ycombinator.com/item?id=31015645</link>
-            <guid>https://news.ycombinator.com/item?id=31015645</guid>
-            <pubDate>Wed, 13 Apr 2022 15:13:50 GMT</pubDate>
-            <description><![CDATA[Serverless Speech-to-Text]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迷幻药对抑郁症患者的大脑进行重塑]]></title>
-            <link>https://news.ycombinator.com/item?id=31015636</link>
-            <guid>https://news.ycombinator.com/item?id=31015636</guid>
-            <pubDate>Wed, 13 Apr 2022 15:12:28 GMT</pubDate>
-            <description><![CDATA[Psilocybin Rewires the Brain for People with Depression]]></description>
         </item>
     </channel>
 </rss>

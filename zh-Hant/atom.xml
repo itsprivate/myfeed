@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T19:53:21.494Z</updated>
+    <updated>2022-04-14T20:14:40.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[注重可讀性的Hacker News閱讀器]]></title>
+        <id>https://news.ycombinator.com/item?id=31032601</id>
+        <link href="https://news.ycombinator.com/item?id=31032601"/>
+        <updated>2022-04-14T20:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker News reader focused on readability]]></summary>
+        <author>
+            <name>hsblhsn</name>
+            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件工程師是美國最不分心的司機]]></title>
+        <id>https://news.ycombinator.com/item?id=31032447</id>
+        <link href="https://news.ycombinator.com/item?id=31032447"/>
+        <updated>2022-04-14T19:55:02.000Z</updated>
+        <summary type="html"><![CDATA[Software Engineers Are America’s Least Distracted Drivers]]></summary>
+        <author>
+            <name>musawirali</name>
+            <uri>https://news.ycombinator.com/user?id=musawirali</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我學到的東西 在30天內建立（和銷售）一家公司。第1-15天]]></title>
+        <id>https://news.ycombinator.com/item?id=31032410</id>
+        <link href="https://news.ycombinator.com/item?id=31032410"/>
+        <updated>2022-04-14T19:52:27.000Z</updated>
+        <summary type="html"><![CDATA[What I Learned Building (and Selling?) a Company in 30 days: Days 1–15]]></summary>
+        <author>
+            <name>wrftaylor</name>
+            <uri>https://news.ycombinator.com/user?id=wrftaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果我有多個連接的鍵盤，我怎樣才能單獨讀取輸入？]]></title>
+        <id>https://news.ycombinator.com/item?id=31032339</id>
+        <link href="https://news.ycombinator.com/item?id=31032339"/>
+        <updated>2022-04-14T19:46:53.000Z</updated>
+        <summary type="html"><![CDATA[If I have multiple attached keyboards, how can I read input individually?]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAFE.new - 在幾秒鐘內創建一個SAFE]]></title>
+        <id>https://news.ycombinator.com/item?id=31032301</id>
+        <link href="https://news.ycombinator.com/item?id=31032301"/>
+        <updated>2022-04-14T19:43:59.000Z</updated>
+        <summary type="html"><![CDATA[SAFE.new – Create a SAFE in Seconds]]></summary>
+        <author>
+            <name>sbuccini</name>
+            <uri>https://news.ycombinator.com/user?id=sbuccini</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShorTor。通過多跳疊加路由改善Tor的網絡延時]]></title>
+        <id>https://news.ycombinator.com/item?id=31031757</id>
+        <link href="https://news.ycombinator.com/item?id=31031757"/>
+        <updated>2022-04-14T19:04:53.000Z</updated>
+        <summary type="html"><![CDATA[ShorTor: Improving Tor Network Latency via Multi-Hop Overlay Routing]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系統思考者的詛咒（第一部分）]]></title>
+        <id>https://news.ycombinator.com/item?id=31030933</id>
+        <link href="https://news.ycombinator.com/item?id=31030933"/>
+        <updated>2022-04-14T18:11:56.000Z</updated>
+        <summary type="html"><![CDATA[The Curse of Systems Thinkers (Part 1)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Python中使用NumPy Vectorization進行實時彩色ASCII渲染]]></title>
         <id>https://news.ycombinator.com/item?id=31032303</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>skellertor</name>
             <uri>https://news.ycombinator.com/user?id=skellertor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guix Home: 保持家的整潔]]></title>
-        <id>https://news.ycombinator.com/item?id=31015622</id>
-        <link href="https://news.ycombinator.com/item?id=31015622"/>
-        <updated>2022-04-13T15:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Guix Home: Keeping one’s home tidy]]></summary>
-        <author>
-            <name>podiki</name>
-            <uri>https://news.ycombinator.com/user?id=podiki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hetzner雲 - 數據丟失事件]]></title>
-        <id>https://news.ycombinator.com/item?id=31015840</id>
-        <link href="https://news.ycombinator.com/item?id=31015840"/>
-        <updated>2022-04-13T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Hetzner Cloud – Data loss incident]]></summary>
-        <author>
-            <name>bratao</name>
-            <uri>https://news.ycombinator.com/user?id=bratao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏娃在線的成功顯示了為什麼遊戲不需要NFT的原因]]></title>
-        <id>https://news.ycombinator.com/item?id=31015797</id>
-        <link href="https://news.ycombinator.com/item?id=31015797"/>
-        <updated>2022-04-13T15:26:22.000Z</updated>
-        <summary type="html"><![CDATA[Eve Online’s success shows why gaming doesn’t need NFTs]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新研究揭示了更多關於新陳代謝的工作原理]]></title>
-        <id>https://news.ycombinator.com/item?id=31015688</id>
-        <link href="https://news.ycombinator.com/item?id=31015688"/>
-        <updated>2022-04-13T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[New Study Reveals More About How Metabolism Works]]></summary>
-        <author>
-            <name>lobocinza</name>
-            <uri>https://news.ycombinator.com/user?id=lobocinza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鮮區塊鏈演講後美國判處加密貨幣專家5年徒刑]]></title>
-        <id>https://news.ycombinator.com/item?id=31015652</id>
-        <link href="https://news.ycombinator.com/item?id=31015652"/>
-        <updated>2022-04-13T15:14:16.000Z</updated>
-        <summary type="html"><![CDATA[US sentences crypto expert to 5 years after North Korea blockchain presentation]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無服務器的語音到文本]]></title>
-        <id>https://news.ycombinator.com/item?id=31015645</id>
-        <link href="https://news.ycombinator.com/item?id=31015645"/>
-        <updated>2022-04-13T15:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Serverless Speech-to-Text]]></summary>
-        <author>
-            <name>kyeo10</name>
-            <uri>https://news.ycombinator.com/user?id=kyeo10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷幻藥對抑鬱症患者的大腦進行重塑]]></title>
-        <id>https://news.ycombinator.com/item?id=31015636</id>
-        <link href="https://news.ycombinator.com/item?id=31015636"/>
-        <updated>2022-04-13T15:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Psilocybin Rewires the Brain for People with Depression]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
