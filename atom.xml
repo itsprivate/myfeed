@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T03:54:11.679Z</updated>
+    <updated>2022-04-14T04:13:48.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[经核实的计算机科学博士生补助金]]></title>
+        <id>https://news.ycombinator.com/item?id=31022207</id>
+        <link href="https://news.ycombinator.com/item?id=31022207"/>
+        <updated>2022-04-14T00:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Verified Computer Science PhD Stipends]]></summary>
+        <author>
+            <name>lazyjeff</name>
+            <uri>https://news.ycombinator.com/user?id=lazyjeff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemsmith是一个用于加工Ruby宝石的命令行界面。]]></title>
+        <id>https://news.ycombinator.com/item?id=31022161</id>
+        <link href="https://news.ycombinator.com/item?id=31022161"/>
+        <updated>2022-04-14T00:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Gemsmith is a command line interface for smithing Ruby gems]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增强型工程]]></title>
+        <id>https://news.ycombinator.com/item?id=31022136</id>
+        <link href="https://news.ycombinator.com/item?id=31022136"/>
+        <updated>2022-04-14T00:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Augmented Engineering]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我想给甲骨文钱，但我不能。]]></title>
         <id>https://news.ycombinator.com/item?id=31023201</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mellosouls</name>
             <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿特拉斯公司称正在进行的故障可能还会持续两个星期]]></title>
-        <id>https://news.ycombinator.com/item?id=31008891</id>
-        <link href="https://news.ycombinator.com/item?id=31008891"/>
-        <updated>2022-04-12T22:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian says ongoing outage might last two more weeks]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨西哥卡车司机抗议德克萨斯州的新检查，在边境桥梁上停止贸易]]></title>
-        <id>https://news.ycombinator.com/item?id=31008860</id>
-        <link href="https://news.ycombinator.com/item?id=31008860"/>
-        <updated>2022-04-12T22:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Mexico truckers protest new Texas inspections, halt trade at border bridges]]></summary>
-        <author>
-            <name>rascul</name>
-            <uri>https://news.ycombinator.com/user?id=rascul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去除JPEG伪迹]]></title>
-        <id>https://news.ycombinator.com/item?id=31008855</id>
-        <link href="https://news.ycombinator.com/item?id=31008855"/>
-        <updated>2022-04-12T22:09:10.000Z</updated>
-        <summary type="html"><![CDATA[JPEG Artifacts Removal]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
         </author>
     </entry>
 </feed>
