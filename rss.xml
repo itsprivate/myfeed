@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clojure并不适合我]]></title>
+            <link>https://news.ycombinator.com/item?id=31024333</link>
+            <guid>https://news.ycombinator.com/item?id=31024333</guid>
+            <pubDate>Thu, 14 Apr 2022 07:44:41 GMT</pubDate>
+            <description><![CDATA[Clojure Isn’t for Me]]></description>
+        </item>
         <item>
             <title><![CDATA[Java 18默认为UTF-8]]></title>
             <link>https://news.ycombinator.com/item?id=31024255</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31009747</guid>
             <pubDate>Wed, 13 Apr 2022 00:15:33 GMT</pubDate>
             <description><![CDATA[OpenAI’s DALL-E AI image generator can now edit pictures, too]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌搜索正在落伍]]></title>
-            <link>https://news.ycombinator.com/item?id=31009713</link>
-            <guid>https://news.ycombinator.com/item?id=31009713</guid>
-            <pubDate>Wed, 13 Apr 2022 00:08:52 GMT</pubDate>
-            <description><![CDATA[Google Search Is Falling Behind]]></description>
         </item>
     </channel>
 </rss>
