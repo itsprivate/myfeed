@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T19:13:26.601Z</updated>
+    <updated>2022-04-14T19:29:18.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将LLVM IR编译成支持WASI的WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=31031844</id>
+        <link href="https://news.ycombinator.com/item?id=31031844"/>
+        <updated>2022-04-14T19:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Compiling LLVM IR into WebAssembly with WASI Support]]></summary>
+        <author>
+            <name>evacchi</name>
+            <uri>https://news.ycombinator.com/user?id=evacchi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实时的阿波罗]]></title>
+        <id>https://news.ycombinator.com/item?id=31031840</id>
+        <link href="https://news.ycombinator.com/item?id=31031840"/>
+        <updated>2022-04-14T19:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Apollo in Real Time]]></summary>
+        <author>
+            <name>eafkuor</name>
+            <uri>https://news.ycombinator.com/user?id=eafkuor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对洛杉矶地铁自行车应用程序的抱怨]]></title>
+        <id>https://news.ycombinator.com/item?id=31031771</id>
+        <link href="https://news.ycombinator.com/item?id=31031771"/>
+        <updated>2022-04-14T19:05:25.000Z</updated>
+        <summary type="html"><![CDATA[A Gripe about the Los Angeles Metro Bike App]]></summary>
+        <author>
+            <name>polalavik</name>
+            <uri>https://news.ycombinator.com/user?id=polalavik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柜台.社交]]></title>
+        <id>https://news.ycombinator.com/item?id=31031744</id>
+        <link href="https://news.ycombinator.com/item?id=31031744"/>
+        <updated>2022-04-14T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Counter.Social]]></summary>
+        <author>
+            <name>rg111</name>
+            <uri>https://news.ycombinator.com/user?id=rg111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员对CPU缓存的误解(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=31031646</id>
+        <link href="https://news.ycombinator.com/item?id=31031646"/>
+        <updated>2022-04-14T18:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Myths programmers believe about CPU caches (2018)]]></summary>
+        <author>
+            <name>Kinrany</name>
+            <uri>https://news.ycombinator.com/user?id=Kinrany</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个关于假设的故事，以及为什么我们需要了解他人的心理模式]]></title>
+        <id>https://news.ycombinator.com/item?id=31031544</id>
+        <link href="https://news.ycombinator.com/item?id=31031544"/>
+        <updated>2022-04-14T18:51:35.000Z</updated>
+        <summary type="html"><![CDATA[A story about assumptions, and why we need to understand others’ mental models]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份新报告概述了亚洲女性在科技领域面临的一些障碍]]></title>
+        <id>https://news.ycombinator.com/item?id=31031269</id>
+        <link href="https://news.ycombinator.com/item?id=31031269"/>
+        <updated>2022-04-14T18:32:02.000Z</updated>
+        <summary type="html"><![CDATA[A new report outlines some of the barriers facing Asian women in tech]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的研究。希特勒的牙齿证实他死于1945年]]></title>
         <id>https://news.ycombinator.com/item?id=31031698</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>thecsw</name>
             <uri>https://news.ycombinator.com/user?id=thecsw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究--精通双语可延缓大脑衰老]]></title>
-        <id>https://news.ycombinator.com/item?id=31015325</id>
-        <link href="https://news.ycombinator.com/item?id=31015325"/>
-        <updated>2022-04-13T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Study – being bilingual slows brain aging]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大银行将基准利率上调至1]]></title>
-        <id>https://news.ycombinator.com/item?id=31015279</id>
-        <link href="https://news.ycombinator.com/item?id=31015279"/>
-        <updated>2022-04-13T14:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Bank of Canada hikes benchmark interest rate to 1%]]></summary>
-        <author>
-            <name>juice_bus</name>
-            <uri>https://news.ycombinator.com/user?id=juice_bus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆-库克发表演讲，抨击 "数据工业综合体 "和旁门左道]]></title>
-        <id>https://news.ycombinator.com/item?id=31015255</id>
-        <link href="https://news.ycombinator.com/item?id=31015255"/>
-        <updated>2022-04-13T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Tim Cook delivers speech railing against “data industrial complex,” sideloading]]></summary>
-        <author>
-            <name>paulpan</name>
-            <uri>https://news.ycombinator.com/user?id=paulpan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女人说她们想要一个有幽默感的男人。她们并不这样认为]]></title>
-        <id>https://news.ycombinator.com/item?id=31014796</id>
-        <link href="https://news.ycombinator.com/item?id=31014796"/>
-        <updated>2022-04-13T14:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Women Say They Want a Guy with a Sense of Humor. They Don’t]]></summary>
-        <author>
-            <name>amin</name>
-            <uri>https://news.ycombinator.com/user?id=amin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-最近的邻居]]></title>
-        <id>https://news.ycombinator.com/item?id=31015242</id>
-        <link href="https://news.ycombinator.com/item?id=31015242"/>
-        <updated>2022-04-13T14:42:56.000Z</updated>
-        <summary type="html"><![CDATA[K-Nearest Neighbors]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是一个不堪重负的家庭医生。因此，在45岁时，我放弃了这个工作。]]></title>
-        <id>https://news.ycombinator.com/item?id=31015209</id>
-        <link href="https://news.ycombinator.com/item?id=31015209"/>
-        <updated>2022-04-13T14:40:55.000Z</updated>
-        <summary type="html"><![CDATA[I was an overwhelmed family doctor. So at age 45, I called it quits]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用法，在5分钟内将你的AWS账单减少50%以上]]></title>
-        <id>https://news.ycombinator.com/item?id=31015171</id>
-        <link href="https://news.ycombinator.com/item?id=31015171"/>
-        <updated>2022-04-13T14:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Usage, Cut your AWS Bill by 50%+ in 5 Minutes]]></summary>
-        <author>
-            <name>kavehkhorram</name>
-            <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
         </author>
     </entry>
 </feed>
