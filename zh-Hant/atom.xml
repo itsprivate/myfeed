@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T07:13:18.538Z</updated>
+    <updated>2022-04-14T07:32:20.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家說，太陽能現在可以儲存長達18年之久]]></title>
+        <id>https://news.ycombinator.com/item?id=31024251</id>
+        <link href="https://news.ycombinator.com/item?id=31024251"/>
+        <updated>2022-04-14T07:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Solar energy can now be stored for up to 18 years, say scientists]]></summary>
+        <author>
+            <name>chris_overseas</name>
+            <uri>https://news.ycombinator.com/user?id=chris_overseas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個用於Python的字面字符串類型]]></title>
+        <id>https://news.ycombinator.com/item?id=31023541</id>
+        <link href="https://news.ycombinator.com/item?id=31023541"/>
+        <updated>2022-04-14T04:55:15.000Z</updated>
+        <summary type="html"><![CDATA[A literal string type for Python]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國的石油冠軍因擔心制裁而準備向西方退卻]]></title>
+        <id>https://news.ycombinator.com/item?id=31023220</id>
+        <link href="https://news.ycombinator.com/item?id=31023220"/>
+        <updated>2022-04-14T03:49:04.000Z</updated>
+        <summary type="html"><![CDATA[China's oil champion prepares Western retreat over sanctions fear]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓Rust更適合Cheri和其他平臺]]></title>
         <id>https://news.ycombinator.com/item?id=31024127</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sshah1983</name>
             <uri>https://news.ycombinator.com/user?id=sshah1983</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git 2.30.3 不會在非自有目錄下運行]]></title>
-        <id>https://news.ycombinator.com/item?id=31009675</id>
-        <link href="https://news.ycombinator.com/item?id=31009675"/>
-        <updated>2022-04-13T00:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Git 2.30.3 will not operate in non-owned directories]]></summary>
-        <author>
-            <name>delsarto</name>
-            <uri>https://news.ycombinator.com/user?id=delsarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvim-Compleet - 一個用Rust編寫的Neovim自動完成框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31009663</id>
-        <link href="https://news.ycombinator.com/item?id=31009663"/>
-        <updated>2022-04-13T00:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Nvim-Compleet – A Neovim autocompletion framework written in Rust]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫時間：上午和下午還是上午和下午？]]></title>
-        <id>https://news.ycombinator.com/item?id=31009631</id>
-        <link href="https://news.ycombinator.com/item?id=31009631"/>
-        <updated>2022-04-12T23:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Writing the Time: AM and PM or a.m. and p.m.?]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
