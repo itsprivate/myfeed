@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T06:16:13.642Z</updated>
+    <updated>2022-04-14T06:40:34.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從一個大表中選擇並只返回第N條記錄]]></title>
+        <id>https://news.ycombinator.com/item?id=31023957</id>
+        <link href="https://news.ycombinator.com/item?id=31023957"/>
+        <updated>2022-04-14T06:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Select from a large table and return only every Nth row]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經通貨膨脹調整後，單戶住宅的價格比1987年高出75%。]]></title>
+        <id>https://news.ycombinator.com/item?id=31023928</id>
+        <link href="https://news.ycombinator.com/item?id=31023928"/>
+        <updated>2022-04-14T06:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Adjusted for inflation, a Single Family Home costs 75% more than it did in 1987]]></summary>
+        <author>
+            <name>donsupreme</name>
+            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加州律師因指責紐森插手動視案而辭職]]></title>
+        <id>https://news.ycombinator.com/item?id=31023925</id>
+        <link href="https://news.ycombinator.com/item?id=31023925"/>
+        <updated>2022-04-14T06:23:09.000Z</updated>
+        <summary type="html"><![CDATA[California Lawyer Quits over Allegation Newsom Meddled in Activision Case]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紐約時報》CEO與紅杉資本的關係]]></title>
+        <id>https://news.ycombinator.com/item?id=31023699</id>
+        <link href="https://news.ycombinator.com/item?id=31023699"/>
+        <updated>2022-04-14T05:28:51.000Z</updated>
+        <summary type="html"><![CDATA[The Relationship Between the NYTimes CEO and Sequoia Capital]]></summary>
+        <author>
+            <name>elahieh</name>
+            <uri>https://news.ycombinator.com/user?id=elahieh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個數學家的悲歌》(2002) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=31023823</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的命令行工具列表 - Julia Evans]]></title>
-        <id>https://news.ycombinator.com/item?id=31009313</id>
-        <link href="https://news.ycombinator.com/item?id=31009313"/>
-        <updated>2022-04-12T23:08:52.000Z</updated>
-        <summary type="html"><![CDATA[A list of new(ish) command line tools – Julia Evans]]></summary>
-        <author>
-            <name>grappler</name>
-            <uri>https://news.ycombinator.com/user?id=grappler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyCon US 2022歡迎8家早期公司加入創業行列]]></title>
-        <id>https://news.ycombinator.com/item?id=31009290</id>
-        <link href="https://news.ycombinator.com/item?id=31009290"/>
-        <updated>2022-04-12T23:04:53.000Z</updated>
-        <summary type="html"><![CDATA[PyCon US 2022 Welcomes 8 Early-Stage Companies to Startup Row]]></summary>
-        <author>
-            <name>jasondrowley</name>
-            <uri>https://news.ycombinator.com/user?id=jasondrowley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中的俄勒岡小道--不情願的程序員]]></title>
-        <id>https://news.ycombinator.com/item?id=31009189</id>
-        <link href="https://news.ycombinator.com/item?id=31009189"/>
-        <updated>2022-04-12T22:51:21.000Z</updated>
-        <summary type="html"><![CDATA[The Oregon Trail in Python – The Reluctant Programmer]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大作家進入公有領域的消息在一代人中消失了]]></title>
-        <id>https://news.ycombinator.com/item?id=31009188</id>
-        <link href="https://news.ycombinator.com/item?id=31009188"/>
-        <updated>2022-04-12T22:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Entry to Public Domain of Canadian Authors Lost for a Generation]]></summary>
-        <author>
-            <name>danbolt</name>
-            <uri>https://news.ycombinator.com/user?id=danbolt</uri>
         </author>
     </entry>
 </feed>
