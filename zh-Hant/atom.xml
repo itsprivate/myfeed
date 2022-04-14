@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-14T11:13:09.656Z</updated>
+    <updated>2022-04-14T11:29:16.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐洲事實核查標準網絡項目]]></title>
+        <id>https://news.ycombinator.com/item?id=31024712</id>
+        <link href="https://news.ycombinator.com/item?id=31024712"/>
+        <updated>2022-04-14T09:07:19.000Z</updated>
+        <summary type="html"><![CDATA[European Fact-Checking Standards Network Project]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[許可黑豹。殺手級應用的權限]]></title>
         <id>https://news.ycombinator.com/item?id=31025232</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gscott</name>
             <uri>https://news.ycombinator.com/user?id=gscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["[世界上]唯一需要真正去納粹化的國家是俄羅斯。"]]></title>
-        <id>https://news.ycombinator.com/item?id=31011380</id>
-        <link href="https://news.ycombinator.com/item?id=31011380"/>
-        <updated>2022-04-13T05:05:45.000Z</updated>
-        <summary type="html"><![CDATA[“[The] only country in the world that needs real denazification is the Russia.”]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
         </author>
     </entry>
 </feed>
