@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 14 Apr 2022 04:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微化石可能是地球形成300米后生命开始的证据]]></title>
+            <link>https://news.ycombinator.com/item?id=31023287</link>
+            <guid>https://news.ycombinator.com/item?id=31023287</guid>
+            <pubDate>Thu, 14 Apr 2022 04:03:16 GMT</pubDate>
+            <description><![CDATA[Microfossils may be evidence life began 300m years after Earth formed]]></description>
+        </item>
         <item>
             <title><![CDATA[冲动的精神病患者喜欢加密货币：黑暗的人格特征和加密货币的热情]]></title>
             <link>https://news.ycombinator.com/item?id=31023398</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31008550</guid>
             <pubDate>Tue, 12 Apr 2022 21:40:00 GMT</pubDate>
             <description><![CDATA[First-class TypeScript support in modular AWS SDK for JavaScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CVE-2022-22965 - Spring RCE（不影响spinnaker）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31008467</link>
-            <guid>https://news.ycombinator.com/item?id=31008467</guid>
-            <pubDate>Tue, 12 Apr 2022 21:32:04 GMT</pubDate>
-            <description><![CDATA[CVE-2022-22965 – Spring RCE (which does NOT impact spinnaker)]]></description>
         </item>
     </channel>
 </rss>
