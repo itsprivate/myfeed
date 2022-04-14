@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 14 Apr 2022 19:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 19:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python中使用NumPy Vectorization进行实时彩色ASCII渲染]]></title>
+            <link>https://news.ycombinator.com/item?id=31032303</link>
+            <guid>https://news.ycombinator.com/item?id=31032303</guid>
+            <pubDate>Thu, 14 Apr 2022 19:44:03 GMT</pubDate>
+            <description><![CDATA[Real Time Color ASCII Rendering in Python Using NumPy Vectorization]]></description>
+        </item>
+        <item>
+            <title><![CDATA[梅赛德斯-奔驰的Vision EQXX在一次充电的情况下行驶了1000公里]]></title>
+            <link>https://news.ycombinator.com/item?id=31032267</link>
+            <guid>https://news.ycombinator.com/item?id=31032267</guid>
+            <pubDate>Thu, 14 Apr 2022 19:41:10 GMT</pubDate>
+            <description><![CDATA[Mercedes-Benz's Vision EQXX traveled 1,000km on a single charge]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用USB支持从WSL2上为你的微控制器编程]]></title>
+            <link>https://news.ycombinator.com/item?id=31032238</link>
+            <guid>https://news.ycombinator.com/item?id=31032238</guid>
+            <pubDate>Thu, 14 Apr 2022 19:39:05 GMT</pubDate>
+            <description><![CDATA[Program your microcontrollers from WSL2 with USB support]]></description>
+        </item>
+        <item>
+            <title><![CDATA[论狗屁工作的现象。工作咆哮 (2013)]]></title>
+            <link>https://news.ycombinator.com/item?id=31032229</link>
+            <guid>https://news.ycombinator.com/item?id=31032229</guid>
+            <pubDate>Thu, 14 Apr 2022 19:38:18 GMT</pubDate>
+            <description><![CDATA[On the Phenomenon of Bullshit Jobs: A Work Rant (2013)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Wasmtime: 用WebAssembly支持ScyllaDB中的UDFs]]></title>
+            <link>https://news.ycombinator.com/item?id=31032165</link>
+            <guid>https://news.ycombinator.com/item?id=31032165</guid>
+            <pubDate>Thu, 14 Apr 2022 19:33:38 GMT</pubDate>
+            <description><![CDATA[Wasmtime: Supporting UDFs in ScyllaDB with WebAssembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[tabit-pro团队在Qubes 4.1中的Windows整合工作]]></title>
+            <link>https://news.ycombinator.com/item?id=31032140</link>
+            <guid>https://news.ycombinator.com/item?id=31032140</guid>
+            <pubDate>Thu, 14 Apr 2022 19:31:42 GMT</pubDate>
+            <description><![CDATA[Windows integration work in Qubes 4.1 by the tabit-pro team]]></description>
+        </item>
+        <item>
+            <title><![CDATA[三星网的剥削性聊天系统让员工免费工作]]></title>
+            <link>https://news.ycombinator.com/item?id=31031897</link>
+            <guid>https://news.ycombinator.com/item?id=31031897</guid>
+            <pubDate>Thu, 14 Apr 2022 19:13:40 GMT</pubDate>
+            <description><![CDATA[Samsung.com’s exploitative chat system makes employees work for free]]></description>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学开放数据]]></title>
+            <link>https://news.ycombinator.com/item?id=31031883</link>
+            <guid>https://news.ycombinator.com/item?id=31031883</guid>
+            <pubDate>Thu, 14 Apr 2022 19:12:03 GMT</pubDate>
+            <description><![CDATA[Computer Science Open Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[联邦调查局将Axie Infinity黑客攻击与朝鲜Lazarus黑客组织联系起来]]></title>
+            <link>https://news.ycombinator.com/item?id=31031843</link>
+            <guid>https://news.ycombinator.com/item?id=31031843</guid>
+            <pubDate>Thu, 14 Apr 2022 19:09:20 GMT</pubDate>
+            <description><![CDATA[FBI links Axie Infinity hack to North Korean Lazarus hacking group]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Westfield公司的所有者将出售所有美国商场。在旧金山会发生什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31031394</link>
+            <guid>https://news.ycombinator.com/item?id=31031394</guid>
+            <pubDate>Thu, 14 Apr 2022 18:40:08 GMT</pubDate>
+            <description><![CDATA[Westfield owner to sell all U.S. malls. What will happen in San Francisco?]]></description>
+        </item>
         <item>
             <title><![CDATA[调查显示，最富有的美国人只需缴纳收入的3.4%的税收]]></title>
             <link>https://news.ycombinator.com/item?id=31032133</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31015636</guid>
             <pubDate>Wed, 13 Apr 2022 15:12:28 GMT</pubDate>
             <description><![CDATA[Psilocybin Rewires the Brain for People with Depression]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于中国科技管理没有被提及的事情]]></title>
-            <link>https://news.ycombinator.com/item?id=31015633</link>
-            <guid>https://news.ycombinator.com/item?id=31015633</guid>
-            <pubDate>Wed, 13 Apr 2022 15:12:19 GMT</pubDate>
-            <description><![CDATA[Things not being said about Chinese tech management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美达公司将从地平线世界的销售中抽取48%的佣金]]></title>
-            <link>https://news.ycombinator.com/item?id=31015615</link>
-            <guid>https://news.ycombinator.com/item?id=31015615</guid>
-            <pubDate>Wed, 13 Apr 2022 15:11:32 GMT</pubDate>
-            <description><![CDATA[Meta will take a 48 percent cut from sales in Horizon Worlds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哈勃捕捉到有史以来最大的彗星，它正朝着这个方向前进]]></title>
-            <link>https://news.ycombinator.com/item?id=31015582</link>
-            <guid>https://news.ycombinator.com/item?id=31015582</guid>
-            <pubDate>Wed, 13 Apr 2022 15:09:18 GMT</pubDate>
-            <description><![CDATA[Hubble Captures Largest Comet Ever Seen and It’s Headed This Way]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬兰将在 "几周内 "决定是否加入北约组织]]></title>
-            <link>https://news.ycombinator.com/item?id=31015580</link>
-            <guid>https://news.ycombinator.com/item?id=31015580</guid>
-            <pubDate>Wed, 13 Apr 2022 15:09:12 GMT</pubDate>
-            <description><![CDATA[Finland to decide within ‘weeks’ whether to join NATO]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电视和电影中的源代码]]></title>
-            <link>https://news.ycombinator.com/item?id=31015522</link>
-            <guid>https://news.ycombinator.com/item?id=31015522</guid>
-            <pubDate>Wed, 13 Apr 2022 15:04:37 GMT</pubDate>
-            <description><![CDATA[Source Code in TV and Films]]></description>
-        </item>
-        <item>
-            <title><![CDATA[103岁的男子生活在 "沉默的茧 "中，听力得到恢复]]></title>
-            <link>https://news.ycombinator.com/item?id=31015409</link>
-            <guid>https://news.ycombinator.com/item?id=31015409</guid>
-            <pubDate>Wed, 13 Apr 2022 14:56:12 GMT</pubDate>
-            <description><![CDATA[Man, 103, living in 'a cocoon of silence' has hearing restored]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着淋病变得无法治疗，一种重新利用的疫苗可能会预防它]]></title>
-            <link>https://news.ycombinator.com/item?id=31015354</link>
-            <guid>https://news.ycombinator.com/item?id=31015354</guid>
-            <pubDate>Wed, 13 Apr 2022 14:51:35 GMT</pubDate>
-            <description><![CDATA[As gonorrhea becomes untreatable, a repurposed vaccine may prevent it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个边缘流行病学家对Covid的反思]]></title>
-            <link>https://news.ycombinator.com/item?id=31015334</link>
-            <guid>https://news.ycombinator.com/item?id=31015334</guid>
-            <pubDate>Wed, 13 Apr 2022 14:49:47 GMT</pubDate>
-            <description><![CDATA[A fringe epidemiologist's reflections on Covid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AlphaFold和人工智能蛋白质折叠革命的下一步是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=31015055</link>
-            <guid>https://news.ycombinator.com/item?id=31015055</guid>
-            <pubDate>Wed, 13 Apr 2022 14:29:20 GMT</pubDate>
-            <description><![CDATA[What's next for AlphaFold and the AI protein-folding revolution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rad Power Bikes在融资3.04亿美元后裁员100人，约占员工的14%。]]></title>
-            <link>https://news.ycombinator.com/item?id=31015449</link>
-            <guid>https://news.ycombinator.com/item?id=31015449</guid>
-            <pubDate>Wed, 13 Apr 2022 14:59:10 GMT</pubDate>
-            <description><![CDATA[Rad Power Bikes lays off 100 employees, about 14% of staff, after raising $304M]]></description>
         </item>
     </channel>
 </rss>
