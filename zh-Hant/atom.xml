@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T06:58:22.495Z</updated>
+    <updated>2022-04-15T07:12:37.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邊境上的Rustaceans [Linux Kernel] 。]]></title>
+        <id>https://news.ycombinator.com/item?id=31037273</id>
+        <link href="https://news.ycombinator.com/item?id=31037273"/>
+        <updated>2022-04-15T06:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Rustaceans at the Border [Linux Kernel]]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[純C語言的異步HTTP框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31036758</id>
+        <link href="https://news.ycombinator.com/item?id=31036758"/>
+        <updated>2022-04-15T05:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pure C Asynchronous HTTP Framework]]></summary>
+        <author>
+            <name>adamansky</name>
+            <uri>https://news.ycombinator.com/user?id=adamansky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懷舊的鐘擺。流行文化趨勢的30年滾動週期]]></title>
         <id>https://news.ycombinator.com/item?id=31037095</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：關注能源]]></title>
-        <id>https://news.ycombinator.com/item?id=31018804</id>
-        <link href="https://news.ycombinator.com/item?id=31018804"/>
-        <updated>2022-04-13T19:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Follow the Energy]]></summary>
-        <author>
-            <name>launchiterate</name>
-            <uri>https://news.ycombinator.com/user?id=launchiterate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8,760小時。如何在明年獲得最大收益 (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=31019030</id>
-        <link href="https://news.ycombinator.com/item?id=31019030"/>
-        <updated>2022-04-13T19:23:14.000Z</updated>
-        <summary type="html"><![CDATA[8,760 Hours: How to get the most out of next year (2012)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
