@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T20:44:17.808Z</updated>
+    <updated>2022-04-15T20:52:03.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[相機制造商將Ars的評論區變成臨時的AMA]]></title>
+        <id>https://news.ycombinator.com/item?id=31045462</id>
+        <link href="https://news.ycombinator.com/item?id=31045462"/>
+        <updated>2022-04-15T20:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Camera manufacturer turns Ars comment section into makeshift AMA]]></summary>
+        <author>
+            <name>stoicanalyst</name>
+            <uri>https://news.ycombinator.com/user?id=stoicanalyst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維布倫好]]></title>
+        <id>https://news.ycombinator.com/item?id=31045181</id>
+        <link href="https://news.ycombinator.com/item?id=31045181"/>
+        <updated>2022-04-15T20:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Veblen Good]]></summary>
+        <author>
+            <name>liareye</name>
+            <uri>https://news.ycombinator.com/user?id=liareye</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初創企業的早期安全]]></title>
         <id>https://news.ycombinator.com/item?id=31045504</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ducktective</name>
             <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克的推特，第一個評論]]></title>
-        <id>https://news.ycombinator.com/item?id=31026530</id>
-        <link href="https://news.ycombinator.com/item?id=31026530"/>
-        <updated>2022-04-14T13:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Musk's Twitter, First Comments]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上（幾乎）每臺自動售貨機的一天]]></title>
-        <id>https://news.ycombinator.com/item?id=31026343</id>
-        <link href="https://news.ycombinator.com/item?id=31026343"/>
-        <updated>2022-04-14T12:57:22.000Z</updated>
-        <summary type="html"><![CDATA[A day in the life of (almost) every vending machine in the world]]></summary>
-        <author>
-            <name>lom</name>
-            <uri>https://news.ycombinator.com/user?id=lom</uri>
         </author>
     </entry>
 </feed>
