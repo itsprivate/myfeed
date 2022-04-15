@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T08:54:57.282Z</updated>
+    <updated>2022-04-15T09:13:16.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[算法和數據結構 - 過渡系統 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31037988</id>
+        <link href="https://news.ycombinator.com/item?id=31037988"/>
+        <updated>2022-04-15T09:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms and Data Structures – Transition systems [pdf]]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹尼斯-德爾克]]></title>
+        <id>https://news.ycombinator.com/item?id=31037868</id>
+        <link href="https://news.ycombinator.com/item?id=31037868"/>
+        <updated>2022-04-15T08:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Denny Delk]]></summary>
+        <author>
+            <name>Michelangelo11</name>
+            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜2021年致股東的信]]></title>
+        <id>https://news.ycombinator.com/item?id=31037211</id>
+        <link href="https://news.ycombinator.com/item?id=31037211"/>
+        <updated>2022-04-15T06:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon 2021 Letter to Shareholders]]></summary>
+        <author>
+            <name>madmax108</name>
+            <uri>https://news.ycombinator.com/user?id=madmax108</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gambit - 用於進行博弈論計算的開源工具]]></title>
         <id>https://news.ycombinator.com/item?id=31037842</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dangle1</name>
             <uri>https://news.ycombinator.com/user?id=dangle1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於Node.js的模塊化CIDR掃描器]]></title>
-        <id>https://news.ycombinator.com/item?id=31019760</id>
-        <link href="https://news.ycombinator.com/item?id=31019760"/>
-        <updated>2022-04-13T20:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Node.js based modular CIDR Scanner]]></summary>
-        <author>
-            <name>tugkancengiz</name>
-            <uri>https://news.ycombinator.com/user?id=tugkancengiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建一個跨平臺的開發者工具作為單獨的開發]]></title>
-        <id>https://news.ycombinator.com/item?id=31019727</id>
-        <link href="https://news.ycombinator.com/item?id=31019727"/>
-        <updated>2022-04-13T20:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Building a cross-platform developer tool as solo dev]]></summary>
-        <author>
-            <name>mpurham</name>
-            <uri>https://news.ycombinator.com/user?id=mpurham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse公司將通過 "永生 "模式提供不死之身]]></title>
-        <id>https://news.ycombinator.com/item?id=31019719</id>
-        <link href="https://news.ycombinator.com/item?id=31019719"/>
-        <updated>2022-04-13T20:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Metaverse Company to Offer Immortality Through ‘Live Forever’ Mode]]></summary>
-        <author>
-            <name>mbaytas</name>
-            <uri>https://news.ycombinator.com/user?id=mbaytas</uri>
         </author>
     </entry>
 </feed>
