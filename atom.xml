@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T20:52:03.387Z</updated>
+    <updated>2022-04-15T21:12:17.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收购公司Thoma Bravo向Twitter提出收购意向]]></title>
+        <id>https://news.ycombinator.com/item?id=31045822</id>
+        <link href="https://news.ycombinator.com/item?id=31045822"/>
+        <updated>2022-04-15T21:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Buyout firm Thoma Bravo approaches Twitter with acquisition interest]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的人工智能制造深层假象]]></title>
+        <id>https://news.ycombinator.com/item?id=31045447</id>
+        <link href="https://news.ycombinator.com/item?id=31045447"/>
+        <updated>2022-04-15T20:29:30.000Z</updated>
+        <summary type="html"><![CDATA[New AI Makes DeepFakes]]></summary>
+        <author>
+            <name>sahin</name>
+            <uri>https://news.ycombinator.com/user?id=sahin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独角兽还是变色龙？输出可定制的React组件的两种策略]]></title>
+        <id>https://news.ycombinator.com/item?id=31045289</id>
+        <link href="https://news.ycombinator.com/item?id=31045289"/>
+        <updated>2022-04-15T20:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Unicorn or Chameleon? Two strategies for exporting customizable React components]]></summary>
+        <author>
+            <name>bsid</name>
+            <uri>https://news.ycombinator.com/user?id=bsid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[相机制造商将Ars的评论区变成临时的AMA]]></title>
         <id>https://news.ycombinator.com/item?id=31045462</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Bostonian</name>
             <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼠园药物实验漫画（2013）]]></title>
-        <id>https://news.ycombinator.com/item?id=31026644</id>
-        <link href="https://news.ycombinator.com/item?id=31026644"/>
-        <updated>2022-04-14T13:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Rat Park drug experiment comic (2013)]]></summary>
-        <author>
-            <name>notamy</name>
-            <uri>https://news.ycombinator.com/user?id=notamy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的博客。一个org文件中的一年的帖子（2015年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31026586</id>
-        <link href="https://news.ycombinator.com/item?id=31026586"/>
-        <updated>2022-04-14T13:18:41.000Z</updated>
-        <summary type="html"><![CDATA[I blog: One year of posts in a single org file (2015)]]></summary>
-        <author>
-            <name>sanketpatrikar</name>
-            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openapi-cli-generator: 从OpenAPI 3规范中生成CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=31025064</id>
-        <link href="https://news.ycombinator.com/item?id=31025064"/>
-        <updated>2022-04-14T10:24:23.000Z</updated>
-        <summary type="html"><![CDATA[openapi-cli-generator: Generate a CLI from an OpenAPI 3 specification]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
         </author>
     </entry>
 </feed>
