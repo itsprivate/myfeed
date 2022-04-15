@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国证券交易委员会的一项新提案威胁到言论自由]]></title>
+            <link>https://news.ycombinator.com/item?id=31037176</link>
+            <guid>https://news.ycombinator.com/item?id=31037176</guid>
+            <pubDate>Fri, 15 Apr 2022 06:36:12 GMT</pubDate>
+            <description><![CDATA[A new SEC proposal threatens free speech]]></description>
+        </item>
+        <item>
+            <title><![CDATA["我为Windows内核做贡献。我们比其他操作系统更慢"]]></title>
+            <link>https://news.ycombinator.com/item?id=31036427</link>
+            <guid>https://news.ycombinator.com/item?id=31036427</guid>
+            <pubDate>Fri, 15 Apr 2022 03:41:16 GMT</pubDate>
+            <description><![CDATA[“I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems”]]></description>
+        </item>
         <item>
             <title><![CDATA[不要过早放弃创业的理由：时间可以解决你的问题]]></title>
             <link>https://news.ycombinator.com/item?id=31037355</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31018638</guid>
             <pubDate>Wed, 13 Apr 2022 18:51:37 GMT</pubDate>
             <description><![CDATA[Demystifying Sparse Merkle Trees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Trie计算国际电话费]]></title>
-            <link>https://news.ycombinator.com/item?id=31018223</link>
-            <guid>https://news.ycombinator.com/item?id=31018223</guid>
-            <pubDate>Wed, 13 Apr 2022 18:17:42 GMT</pubDate>
-            <description><![CDATA[Computing International Call Rates with a Trie]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上帝在浴室的地板上]]></title>
-            <link>https://news.ycombinator.com/item?id=31018161</link>
-            <guid>https://news.ycombinator.com/item?id=31018161</guid>
-            <pubDate>Wed, 13 Apr 2022 18:13:44 GMT</pubDate>
-            <description><![CDATA[God Is on the Bathroom Floor]]></description>
         </item>
     </channel>
 </rss>

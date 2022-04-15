@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T07:32:06.243Z</updated>
+    <updated>2022-04-15T07:40:37.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国证券交易委员会的一项新提案威胁到言论自由]]></title>
+        <id>https://news.ycombinator.com/item?id=31037176</id>
+        <link href="https://news.ycombinator.com/item?id=31037176"/>
+        <updated>2022-04-15T06:36:12.000Z</updated>
+        <summary type="html"><![CDATA[A new SEC proposal threatens free speech]]></summary>
+        <author>
+            <name>CryptoPunk</name>
+            <uri>https://news.ycombinator.com/user?id=CryptoPunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["我为Windows内核做贡献。我们比其他操作系统更慢"]]></title>
+        <id>https://news.ycombinator.com/item?id=31036427</id>
+        <link href="https://news.ycombinator.com/item?id=31036427"/>
+        <updated>2022-04-15T03:41:16.000Z</updated>
+        <summary type="html"><![CDATA[“I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems”]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要过早放弃创业的理由：时间可以解决你的问题]]></title>
         <id>https://news.ycombinator.com/item?id=31037355</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>irwt</name>
             <uri>https://news.ycombinator.com/user?id=irwt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Trie计算国际电话费]]></title>
-        <id>https://news.ycombinator.com/item?id=31018223</id>
-        <link href="https://news.ycombinator.com/item?id=31018223"/>
-        <updated>2022-04-13T18:17:42.000Z</updated>
-        <summary type="html"><![CDATA[Computing International Call Rates with a Trie]]></summary>
-        <author>
-            <name>zaik</name>
-            <uri>https://news.ycombinator.com/user?id=zaik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上帝在浴室的地板上]]></title>
-        <id>https://news.ycombinator.com/item?id=31018161</id>
-        <link href="https://news.ycombinator.com/item?id=31018161"/>
-        <updated>2022-04-13T18:13:44.000Z</updated>
-        <summary type="html"><![CDATA[God Is on the Bathroom Floor]]></summary>
-        <author>
-            <name>arkj</name>
-            <uri>https://news.ycombinator.com/user?id=arkj</uri>
         </author>
     </entry>
 </feed>
