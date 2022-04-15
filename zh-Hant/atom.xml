@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T21:31:50.967Z</updated>
+    <updated>2022-04-15T21:41:27.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo的隱私濫用 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31046166</id>
+        <link href="https://news.ycombinator.com/item?id=31046166"/>
+        <updated>2022-04-15T21:35:46.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGo's Privacy Abuses (2020)]]></summary>
+        <author>
+            <name>t0bia_s</name>
+            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舊金山是否已失去其作為世界科技之都的地位？]]></title>
+        <id>https://news.ycombinator.com/item?id=31046055</id>
+        <link href="https://news.ycombinator.com/item?id=31046055"/>
+        <updated>2022-04-15T21:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Has San Francisco lost its spot as the world’s tech capital?]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python從文本中生成圖像，如DALLE]]></title>
+        <id>https://news.ycombinator.com/item?id=31046050</id>
+        <link href="https://news.ycombinator.com/item?id=31046050"/>
+        <updated>2022-04-15T21:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Python generate images from text like DALLE]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人員創造出由一個分子組成的磁鐵]]></title>
+        <id>https://news.ycombinator.com/item?id=31045892</id>
+        <link href="https://news.ycombinator.com/item?id=31045892"/>
+        <updated>2022-04-15T21:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Researchers create a magnet made of one molecule]]></summary>
+        <author>
+            <name>rolph</name>
+            <uri>https://news.ycombinator.com/user?id=rolph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們能給地球降溫嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31045781</id>
+        <link href="https://news.ycombinator.com/item?id=31045781"/>
+        <updated>2022-04-15T21:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Can We Cool the Planet?]]></summary>
+        <author>
+            <name>chaitanyav</name>
+            <uri>https://news.ycombinator.com/user?id=chaitanyav</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一臺復古風格的電腦，為自制的Z80（RC2014）的終端而建。]]></title>
+        <id>https://news.ycombinator.com/item?id=31045334</id>
+        <link href="https://news.ycombinator.com/item?id=31045334"/>
+        <updated>2022-04-15T20:21:37.000Z</updated>
+        <summary type="html"><![CDATA[A retro styled computer built to be a terminal for a homebrew Z80 (RC2014)]]></summary>
+        <author>
+            <name>tadbit</name>
+            <uri>https://news.ycombinator.com/user?id=tadbit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海德魯斯網絡]]></title>
         <id>https://news.ycombinator.com/item?id=31046020</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更多的控制與怠速性]]></title>
-        <id>https://news.ycombinator.com/item?id=31027403</id>
-        <link href="https://news.ycombinator.com/item?id=31027403"/>
-        <updated>2022-04-14T14:20:26.000Z</updated>
-        <summary type="html"><![CDATA[More Control with Idempotency]]></summary>
-        <author>
-            <name>charlieirish</name>
-            <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia中的小型神經網絡比PyTorch快5倍]]></title>
-        <id>https://news.ycombinator.com/item?id=31027299</id>
-        <link href="https://news.ycombinator.com/item?id=31027299"/>
-        <updated>2022-04-14T14:13:22.000Z</updated>
-        <summary type="html"><![CDATA[Small Neural networks in Julia 5x faster than PyTorch]]></summary>
-        <author>
-            <name>adgjlsfhk1</name>
-            <uri>https://news.ycombinator.com/user?id=adgjlsfhk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑克-多爾西的第一條推特NFT以4800萬美元的價格上市，最高出價為280美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31027142</id>
-        <link href="https://news.ycombinator.com/item?id=31027142"/>
-        <updated>2022-04-14T14:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Jack Dorsey's First Tweet NFT Listed for $48M, Highest Bid at $280]]></summary>
-        <author>
-            <name>the_decider</name>
-            <uri>https://news.ycombinator.com/user?id=the_decider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對基於核磁共振的個人保健預警系統的思考]]></title>
-        <id>https://news.ycombinator.com/item?id=31026689</id>
-        <link href="https://news.ycombinator.com/item?id=31026689"/>
-        <updated>2022-04-14T13:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on MRI-based early warning system for personal healthcare]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國防部將建造佩萊項目移動微反應器]]></title>
-        <id>https://news.ycombinator.com/item?id=31026660</id>
-        <link href="https://news.ycombinator.com/item?id=31026660"/>
-        <updated>2022-04-14T13:26:42.000Z</updated>
-        <summary type="html"><![CDATA[DoD to build project Pele mobile microreactor]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱蔽的懷孕干預措施]]></title>
-        <id>https://news.ycombinator.com/item?id=31026106</id>
-        <link href="https://news.ycombinator.com/item?id=31026106"/>
-        <updated>2022-04-14T12:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Obscure Pregnancy Interventions]]></summary>
-        <author>
-            <name>iNic</name>
-            <uri>https://news.ycombinator.com/user?id=iNic</uri>
         </author>
     </entry>
 </feed>
