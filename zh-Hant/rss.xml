@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微型前端]]></title>
+            <link>https://news.ycombinator.com/item?id=31038970</link>
+            <guid>https://news.ycombinator.com/item?id=31038970</guid>
+            <pubDate>Fri, 15 Apr 2022 11:31:15 GMT</pubDate>
+            <description><![CDATA[Micro Front Ends]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用語言模型來（可能）加快閱讀速度]]></title>
+            <link>https://news.ycombinator.com/item?id=31038854</link>
+            <guid>https://news.ycombinator.com/item?id=31038854</guid>
+            <pubDate>Fri, 15 Apr 2022 11:15:47 GMT</pubDate>
+            <description><![CDATA[Using Language Models to (Probably) Read Faster]]></description>
+        </item>
         <item>
             <title><![CDATA[Rithmomachy - 哲學家的棋盤遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=31038404</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31020702</guid>
             <pubDate>Wed, 13 Apr 2022 21:46:22 GMT</pubDate>
             <description><![CDATA[Backblaze Share Conversion and Founder Selling Plan]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HeftySearch - 同時搜索任何數量的網站]]></title>
-            <link>https://news.ycombinator.com/item?id=31020507</link>
-            <guid>https://news.ycombinator.com/item?id=31020507</guid>
-            <pubDate>Wed, 13 Apr 2022 21:26:27 GMT</pubDate>
-            <description><![CDATA[Show HN: HeftySearch – Search any number of sites at the same time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：DoorDash倒閉了]]></title>
-            <link>https://news.ycombinator.com/item?id=31020440</link>
-            <guid>https://news.ycombinator.com/item?id=31020440</guid>
-            <pubDate>Wed, 13 Apr 2022 21:21:39 GMT</pubDate>
-            <description><![CDATA[Tell HN: DoorDash Is Down]]></description>
         </item>
     </channel>
 </rss>
