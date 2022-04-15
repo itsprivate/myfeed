@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T06:14:48.818Z</updated>
+    <updated>2022-04-15T06:39:51.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大意：我們應該擺脫科學論文嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036813</id>
+        <link href="https://news.ycombinator.com/item?id=31036813"/>
+        <updated>2022-04-15T05:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The big idea: should we get rid of the scientific paper?]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI寫的關於愛情的故事/詩歌/Rap]]></title>
+        <id>https://news.ycombinator.com/item?id=31036432</id>
+        <link href="https://news.ycombinator.com/item?id=31036432"/>
+        <updated>2022-04-15T03:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI Written Stories/Poetry/Raps about Love]]></summary>
+        <author>
+            <name>exdsq</name>
+            <uri>https://news.ycombinator.com/user?id=exdsq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些適合創始人的最佳創業管理工具？]]></title>
+        <id>https://news.ycombinator.com/item?id=31036050</id>
+        <link href="https://news.ycombinator.com/item?id=31036050"/>
+        <updated>2022-04-15T02:23:27.000Z</updated>
+        <summary type="html"><![CDATA[What are some best startup management tools for founders?]]></summary>
+        <author>
+            <name>samichattha</name>
+            <uri>https://news.ycombinator.com/user?id=samichattha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閃電小子2.0。去中心化交易所的前哨戰，礦工的可提取價值]]></title>
+        <id>https://news.ycombinator.com/item?id=31035740</id>
+        <link href="https://news.ycombinator.com/item?id=31035740"/>
+        <updated>2022-04-15T01:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value]]></summary>
+        <author>
+            <name>croes</name>
+            <uri>https://news.ycombinator.com/user?id=croes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果埃隆-馬斯克得逞，Twitter將失去多年來的進展]]></title>
         <id>https://news.ycombinator.com/item?id=31036955</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[增強現實 - 不需要應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31018918</id>
-        <link href="https://news.ycombinator.com/item?id=31018918"/>
-        <updated>2022-04-13T19:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Augmented Reality – No apps needed]]></summary>
-        <author>
-            <name>swapratim</name>
-            <uri>https://news.ycombinator.com/user?id=swapratim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack通過通知管理每天1千2百萬用戶的注意力]]></title>
-        <id>https://news.ycombinator.com/item?id=31018852</id>
-        <link href="https://news.ycombinator.com/item?id=31018852"/>
-        <updated>2022-04-13T19:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Slack Manages the Attention of 12 Mil Daily Users via Notifications]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TI-84 Plus CE-T Python版圖形計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=31018850</id>
-        <link href="https://news.ycombinator.com/item?id=31018850"/>
-        <updated>2022-04-13T19:07:00.000Z</updated>
-        <summary type="html"><![CDATA[TI-84 Plus CE-T Python Edition graphing calculator]]></summary>
-        <author>
-            <name>mrintellectual</name>
-            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SemVer for TypeScript Types (v1.0.0-beta.1)]]></title>
-        <id>https://news.ycombinator.com/item?id=31018801</id>
-        <link href="https://news.ycombinator.com/item?id=31018801"/>
-        <updated>2022-04-13T19:03:20.000Z</updated>
-        <summary type="html"><![CDATA[SemVer for TypeScript Types (v1.0.0-beta.1)]]></summary>
-        <author>
-            <name>chriskrycho</name>
-            <uri>https://news.ycombinator.com/user?id=chriskrycho</uri>
         </author>
     </entry>
 </feed>
