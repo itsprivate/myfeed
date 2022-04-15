@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T09:43:32.163Z</updated>
+    <updated>2022-04-15T09:51:37.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub開始禁止俄羅斯賬戶[俄語]]]></title>
+        <id>https://news.ycombinator.com/item?id=31038162</id>
+        <link href="https://news.ycombinator.com/item?id=31038162"/>
+        <updated>2022-04-15T09:34:28.000Z</updated>
+        <summary type="html"><![CDATA[GitHub starts banning Russian accounts [Russian]]]></summary>
+        <author>
+            <name>kitsu</name>
+            <uri>https://news.ycombinator.com/user?id=kitsu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們通過管理/減少警報噪音，避免了警報疲勞綜合症。]]></title>
+        <id>https://news.ycombinator.com/item?id=31038159</id>
+        <link href="https://news.ycombinator.com/item?id=31038159"/>
+        <updated>2022-04-15T09:34:13.000Z</updated>
+        <summary type="html"><![CDATA[We avoided alarm fatigue syndrome by managing/reducing the alerting noise]]></summary>
+        <author>
+            <name>G4uth</name>
+            <uri>https://news.ycombinator.com/user?id=G4uth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[格里特很了不起]]></title>
+        <id>https://news.ycombinator.com/item?id=31037847</id>
+        <link href="https://news.ycombinator.com/item?id=31037847"/>
+        <updated>2022-04-15T08:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Gerrit Is Awesome]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新平衡ZFS鏡像上的數據 - JRS系統：博客]]></title>
         <id>https://news.ycombinator.com/item?id=31038135</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>zovin</name>
             <uri>https://news.ycombinator.com/user?id=zovin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基媒體社區投票決定停止接受加密貨幣捐款]]></title>
-        <id>https://news.ycombinator.com/item?id=31020125</id>
-        <link href="https://news.ycombinator.com/item?id=31020125"/>
-        <updated>2022-04-13T20:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Wikimedia community votes to stop accepting cryptocurrency donations]]></summary>
-        <author>
-            <name>raybb</name>
-            <uri>https://news.ycombinator.com/user?id=raybb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嬰幼兒配方奶粉短缺使家庭緊張，迫使商店進行配給]]></title>
-        <id>https://news.ycombinator.com/item?id=31020089</id>
-        <link href="https://news.ycombinator.com/item?id=31020089"/>
-        <updated>2022-04-13T20:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Baby formula shortage strains families, forces stores to ration]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在線訂閱《經濟學人》的費用在新西蘭是美國的兩倍。為什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31019980</id>
-        <link href="https://news.ycombinator.com/item?id=31019980"/>
-        <updated>2022-04-13T20:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Online subscriptions to The Economist cost twice as much in NZ as the US. Why?]]></summary>
-        <author>
-            <name>simonsmithies</name>
-            <uri>https://news.ycombinator.com/user?id=simonsmithies</uri>
         </author>
     </entry>
 </feed>
