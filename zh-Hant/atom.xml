@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T22:33:13.816Z</updated>
+    <updated>2022-04-15T22:43:59.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一些Salesforce私人GitHub倉庫被盜]]></title>
+        <id>https://news.ycombinator.com/item?id=31046791</id>
+        <link href="https://news.ycombinator.com/item?id=31046791"/>
+        <updated>2022-04-15T22:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Some Salesforce private GitHub repos stolen]]></summary>
+        <author>
+            <name>heyoni</name>
+            <uri>https://news.ycombinator.com/user?id=heyoni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙特王子阿瓦里德-本-塔拉勒拒絕了埃隆-馬斯克的推特收購要約]]></title>
+        <id>https://news.ycombinator.com/item?id=31046718</id>
+        <link href="https://news.ycombinator.com/item?id=31046718"/>
+        <updated>2022-04-15T22:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Saudi prince Alwaleed bin Talal rejects Elon Musk's Twitter takeover bid]]></summary>
+        <author>
+            <name>sebmellen</name>
+            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偉大的翻譯運動]]></title>
+        <id>https://news.ycombinator.com/item?id=31046654</id>
+        <link href="https://news.ycombinator.com/item?id=31046654"/>
+        <updated>2022-04-15T22:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Great Translation Movement]]></summary>
+        <author>
+            <name>temp8964</name>
+            <uri>https://news.ycombinator.com/user?id=temp8964</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入採訪沃洛迪米爾-澤倫斯基。最壞的情況可能出現在前面]]></title>
         <id>https://news.ycombinator.com/item?id=31046477</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爭取合併的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=31027615</id>
-        <link href="https://news.ycombinator.com/item?id=31027615"/>
-        <updated>2022-04-14T14:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Getting Things Merged]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刪掉11行NPM包的人打破了互聯網[視頻]。]]></title>
-        <id>https://news.ycombinator.com/item?id=31027576</id>
-        <link href="https://news.ycombinator.com/item?id=31027576"/>
-        <updated>2022-04-14T14:33:55.000Z</updated>
-        <summary type="html"><![CDATA[The man who broke the internet by deleting an 11-line NPM package [video]]]></summary>
-        <author>
-            <name>normhill</name>
-            <uri>https://news.ycombinator.com/user?id=normhill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從零開始的線程]]></title>
-        <id>https://news.ycombinator.com/item?id=31027498</id>
-        <link href="https://news.ycombinator.com/item?id=31027498"/>
-        <updated>2022-04-14T14:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Threading from Scratch]]></summary>
-        <author>
-            <name>ljan</name>
-            <uri>https://news.ycombinator.com/user?id=ljan</uri>
         </author>
     </entry>
 </feed>
