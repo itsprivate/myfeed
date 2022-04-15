@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T09:51:37.137Z</updated>
+    <updated>2022-04-15T10:13:48.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌尔的皇家游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31038306</id>
+        <link href="https://news.ycombinator.com/item?id=31038306"/>
+        <updated>2022-04-15T09:54:15.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Game of Ur]]></summary>
+        <author>
+            <name>petewailes</name>
+            <uri>https://news.ycombinator.com/user?id=petewailes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyber密钥封装机制（后量子密码学标准化）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31038278</id>
+        <link href="https://news.ycombinator.com/item?id=31038278"/>
+        <updated>2022-04-15T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Kyber key encapsulation mechanism (Post Quantum Cryptography Standardization)]]></summary>
+        <author>
+            <name>throwawaybutwhy</name>
+            <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掌心。用路径扩展语言建模（540B参数转换器）]]></title>
+        <id>https://news.ycombinator.com/item?id=31038249</id>
+        <link href="https://news.ycombinator.com/item?id=31038249"/>
+        <updated>2022-04-15T09:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Palm: Scaling Language Modeling with Pathways (540B parameter transformer)]]></summary>
+        <author>
+            <name>vpj</name>
+            <uri>https://news.ycombinator.com/user?id=vpj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelensky现代总部的幕后花絮]]></title>
+        <id>https://news.ycombinator.com/item?id=31038099</id>
+        <link href="https://news.ycombinator.com/item?id=31038099"/>
+        <updated>2022-04-15T09:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Behind the scenes in Zelensky's modern HQ]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub开始禁止俄罗斯账户[俄语]]]></title>
         <id>https://news.ycombinator.com/item?id=31038162</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>goodway</name>
             <uri>https://news.ycombinator.com/user?id=goodway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伏尔泰全集》，205卷，经过精心编辑，现已完成]]></title>
-        <id>https://news.ycombinator.com/item?id=31020351</id>
-        <link href="https://news.ycombinator.com/item?id=31020351"/>
-        <updated>2022-04-13T21:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Complete works of Voltaire, 205 meticulously edited volumes, now complete]]></summary>
-        <author>
-            <name>BayAreaEscapee</name>
-            <uri>https://news.ycombinator.com/user?id=BayAreaEscapee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌在过去10分钟内发生了39次中断事件]]></title>
-        <id>https://news.ycombinator.com/item?id=31020242</id>
-        <link href="https://news.ycombinator.com/item?id=31020242"/>
-        <updated>2022-04-13T21:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Google has had 39 outage events in the past 10 minutes]]></summary>
-        <author>
-            <name>pininja</name>
-            <uri>https://news.ycombinator.com/user?id=pininja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索正在落伍，尤其是在代码、烹饪和旅游方面]]></title>
-        <id>https://news.ycombinator.com/item?id=31020229</id>
-        <link href="https://news.ycombinator.com/item?id=31020229"/>
-        <updated>2022-04-13T21:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Google Search Is Falling Behind, Especially in Code, Cooking and Travel]]></summary>
-        <author>
-            <name>swethmandava</name>
-            <uri>https://news.ycombinator.com/user?id=swethmandava</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub行动计费错误最高分挑战]]></title>
-        <id>https://news.ycombinator.com/item?id=31020197</id>
-        <link href="https://news.ycombinator.com/item?id=31020197"/>
-        <updated>2022-04-13T21:00:14.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions Billing Bug Top Score Challenge]]></summary>
-        <author>
-            <name>zovin</name>
-            <uri>https://news.ycombinator.com/user?id=zovin</uri>
         </author>
     </entry>
 </feed>
