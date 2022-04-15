@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T10:52:51.395Z</updated>
+    <updated>2022-04-15T11:12:15.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shirky.com已經消失了（重要的文章，網絡的歷史，正在消失。）]]></title>
+        <id>https://news.ycombinator.com/item?id=31038660</id>
+        <link href="https://news.ycombinator.com/item?id=31038660"/>
+        <updated>2022-04-15T10:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Shirky.com is gone (important essays, the history of the Web, is disappearing)]]></summary>
+        <author>
+            <name>lkrubner</name>
+            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從SQLite遷移到PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=31038614</id>
+        <link href="https://news.ycombinator.com/item?id=31038614"/>
+        <updated>2022-04-15T10:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Migrating from SQLite to PostgreSQL]]></summary>
+        <author>
+            <name>cloudsql</name>
+            <uri>https://news.ycombinator.com/user?id=cloudsql</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破解 "取消文化 "的恐慌性故事]]></title>
+        <id>https://news.ycombinator.com/item?id=31038563</id>
+        <link href="https://news.ycombinator.com/item?id=31038563"/>
+        <updated>2022-04-15T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Breaking down a “cancel culture” scare story]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不顧俄羅斯的戰爭罪行，雀巢公司繼續在俄羅斯開展業務]]></title>
+        <id>https://news.ycombinator.com/item?id=31038517</id>
+        <link href="https://news.ycombinator.com/item?id=31038517"/>
+        <updated>2022-04-15T10:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Despite Russian war crimes, Nestle continues to do business in Russia]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國宇航局停止SLS練習倒計時的第三次嘗試]]></title>
         <id>https://news.ycombinator.com/item?id=31038548</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本田下令收回創客社區的3D打印模型]]></title>
-        <id>https://news.ycombinator.com/item?id=31020709</id>
-        <link href="https://news.ycombinator.com/item?id=31020709"/>
-        <updated>2022-04-13T21:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Honda Orders Takedown of 3D Printing Models from Maker Communities]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京稱俄羅斯將恢復月球計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=31020311</id>
-        <link href="https://news.ycombinator.com/item?id=31020311"/>
-        <updated>2022-04-13T21:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Putin says Russia will resume lunar program]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D&D的所有者孩之寶公司正在收購D&D Beyond，這是RPG的領先數字工具集]]></title>
-        <id>https://news.ycombinator.com/item?id=31020120</id>
-        <link href="https://news.ycombinator.com/item?id=31020120"/>
-        <updated>2022-04-13T20:54:07.000Z</updated>
-        <summary type="html"><![CDATA[D&D owner Hasbro is buying D&D Beyond, the RPG’s leading digital toolset]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[她處於實驗室洩漏爭議的中心。現在她正在講述她的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=31020629</id>
-        <link href="https://news.ycombinator.com/item?id=31020629"/>
-        <updated>2022-04-13T21:39:24.000Z</updated>
-        <summary type="html"><![CDATA[She’s at the center of the lab leak controversy. Now she’s telling her story]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
         </author>
     </entry>
 </feed>
