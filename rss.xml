@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 15 Apr 2022 20:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 20:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[初创企业的早期安全]]></title>
+            <link>https://news.ycombinator.com/item?id=31045504</link>
+            <guid>https://news.ycombinator.com/item?id=31045504</guid>
+            <pubDate>Fri, 15 Apr 2022 20:36:03 GMT</pubDate>
+            <description><![CDATA[Early Security for Startups]]></description>
+        </item>
+        <item>
+            <title><![CDATA[线性代数教学 (2009)]]></title>
+            <link>https://news.ycombinator.com/item?id=31045109</link>
+            <guid>https://news.ycombinator.com/item?id=31045109</guid>
+            <pubDate>Fri, 15 Apr 2022 20:04:10 GMT</pubDate>
+            <description><![CDATA[Teaching Linear Algebra (2009)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[evenmoreutils: 用于扩展shell环境的命令行工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31045022</link>
+            <guid>https://news.ycombinator.com/item?id=31045022</guid>
+            <pubDate>Fri, 15 Apr 2022 19:57:11 GMT</pubDate>
+            <description><![CDATA[evenmoreutils: Command line tools to extend the shell environment]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub开始封杀俄罗斯开发者和公司，包括被制裁的银行]]></title>
             <link>https://news.ycombinator.com/item?id=31045340</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31026343</guid>
             <pubDate>Thu, 14 Apr 2022 12:57:22 GMT</pubDate>
             <description><![CDATA[A day in the life of (almost) every vending machine in the world]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要再使用这些自由言论的论据了]]></title>
-            <link>https://news.ycombinator.com/item?id=31026326</link>
-            <guid>https://news.ycombinator.com/item?id=31026326</guid>
-            <pubDate>Thu, 14 Apr 2022 12:56:26 GMT</pubDate>
-            <description><![CDATA[Don’t Use These Free-Speech Arguments Ever Again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可能发生的最坏情况是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=31026325</link>
-            <guid>https://news.ycombinator.com/item?id=31026325</guid>
-            <pubDate>Thu, 14 Apr 2022 12:56:19 GMT</pubDate>
-            <description><![CDATA[What’s the Worst That Could Happen?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[功能性编程概念的入门指南]]></title>
-            <link>https://news.ycombinator.com/item?id=31026279</link>
-            <guid>https://news.ycombinator.com/item?id=31026279</guid>
-            <pubDate>Thu, 14 Apr 2022 12:51:57 GMT</pubDate>
-            <description><![CDATA[An Introductory Guide to Functional Programming Concepts]]></description>
         </item>
     </channel>
 </rss>

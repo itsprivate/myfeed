@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T20:34:59.243Z</updated>
+    <updated>2022-04-15T20:44:17.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初创企业的早期安全]]></title>
+        <id>https://news.ycombinator.com/item?id=31045504</id>
+        <link href="https://news.ycombinator.com/item?id=31045504"/>
+        <updated>2022-04-15T20:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Early Security for Startups]]></summary>
+        <author>
+            <name>michlim</name>
+            <uri>https://news.ycombinator.com/user?id=michlim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线性代数教学 (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=31045109</id>
+        <link href="https://news.ycombinator.com/item?id=31045109"/>
+        <updated>2022-04-15T20:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Linear Algebra (2009)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[evenmoreutils: 用于扩展shell环境的命令行工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31045022</id>
+        <link href="https://news.ycombinator.com/item?id=31045022"/>
+        <updated>2022-04-15T19:57:11.000Z</updated>
+        <summary type="html"><![CDATA[evenmoreutils: Command line tools to extend the shell environment]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub开始封杀俄罗斯开发者和公司，包括被制裁的银行]]></title>
         <id>https://news.ycombinator.com/item?id=31045340</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>lom</name>
             <uri>https://news.ycombinator.com/user?id=lom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再使用这些自由言论的论据了]]></title>
-        <id>https://news.ycombinator.com/item?id=31026326</id>
-        <link href="https://news.ycombinator.com/item?id=31026326"/>
-        <updated>2022-04-14T12:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Don’t Use These Free-Speech Arguments Ever Again]]></summary>
-        <author>
-            <name>pcaharrier</name>
-            <uri>https://news.ycombinator.com/user?id=pcaharrier</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能发生的最坏情况是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31026325</id>
-        <link href="https://news.ycombinator.com/item?id=31026325"/>
-        <updated>2022-04-14T12:56:19.000Z</updated>
-        <summary type="html"><![CDATA[What’s the Worst That Could Happen?]]></summary>
-        <author>
-            <name>carlgreene</name>
-            <uri>https://news.ycombinator.com/user?id=carlgreene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[功能性编程概念的入门指南]]></title>
-        <id>https://news.ycombinator.com/item?id=31026279</id>
-        <link href="https://news.ycombinator.com/item?id=31026279"/>
-        <updated>2022-04-14T12:51:57.000Z</updated>
-        <summary type="html"><![CDATA[An Introductory Guide to Functional Programming Concepts]]></summary>
-        <author>
-            <name>sreedevk</name>
-            <uri>https://news.ycombinator.com/user?id=sreedevk</uri>
         </author>
     </entry>
 </feed>
