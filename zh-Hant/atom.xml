@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T09:13:16.075Z</updated>
+    <updated>2022-04-15T09:33:38.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭的利害關係是什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=31038118</id>
+        <link href="https://news.ycombinator.com/item?id=31038118"/>
+        <updated>2022-04-15T09:25:31.000Z</updated>
+        <summary type="html"><![CDATA[What Is at Stake in Ukraine]]></summary>
+        <author>
+            <name>nathan_phoenix</name>
+            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parcel--通用的暴力工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31038110</id>
+        <link href="https://news.ycombinator.com/item?id=31038110"/>
+        <updated>2022-04-15T09:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Parcel – generic brute-force tool]]></summary>
+        <author>
+            <name>rucky290</name>
+            <uri>https://news.ycombinator.com/user?id=rucky290</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由信使/自由信使]]></title>
+        <id>https://news.ycombinator.com/item?id=31037972</id>
+        <link href="https://news.ycombinator.com/item?id=31037972"/>
+        <updated>2022-04-15T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Freie Messenger / Free Messengers]]></summary>
+        <author>
+            <name>Freie_Messenger</name>
+            <uri>https://news.ycombinator.com/user?id=Freie_Messenger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最終失敗的數學模式的例子]]></title>
+        <id>https://news.ycombinator.com/item?id=31037860</id>
+        <link href="https://news.ycombinator.com/item?id=31037860"/>
+        <updated>2022-04-15T08:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Examples of mathematical patterns that eventually fail]]></summary>
+        <author>
+            <name>stared</name>
+            <uri>https://news.ycombinator.com/user?id=stared</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法和數據結構 - 過渡系統 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=31037988</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>sergiomattei</name>
             <uri>https://news.ycombinator.com/user?id=sergiomattei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要使用Atlassian，因為你可以推出自己的Wiki]]></title>
-        <id>https://news.ycombinator.com/item?id=31019877</id>
-        <link href="https://news.ycombinator.com/item?id=31019877"/>
-        <updated>2022-04-13T20:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Why use Atlassian when you can roll your own Wiki]]></summary>
-        <author>
-            <name>postingposts</name>
-            <uri>https://news.ycombinator.com/user?id=postingposts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按計劃使用尼康8毫米f/8魚眼尼康相機：用於科學]]></title>
-        <id>https://news.ycombinator.com/item?id=31019616</id>
-        <link href="https://news.ycombinator.com/item?id=31019616"/>
-        <updated>2022-04-13T20:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Using the Nikon 8mm f/8 Fish-eye Nikkor as Intended: for SCIENCE]]></summary>
-        <author>
-            <name>bydo</name>
-            <uri>https://news.ycombinator.com/user?id=bydo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超速攝影機應用開發商面臨英國司機的辱罵]]></title>
-        <id>https://news.ycombinator.com/item?id=31019955</id>
-        <link href="https://news.ycombinator.com/item?id=31019955"/>
-        <updated>2022-04-13T20:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Speed camera app developers face abuse from UK drivers]]></summary>
-        <author>
-            <name>tobltobs</name>
-            <uri>https://news.ycombinator.com/user?id=tobltobs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國宇航局科學主管表示他 "更喜歡 "經過飛行驗證的獵鷹9號助推器]]></title>
-        <id>https://news.ycombinator.com/item?id=31019837</id>
-        <link href="https://news.ycombinator.com/item?id=31019837"/>
-        <updated>2022-04-13T20:28:21.000Z</updated>
-        <summary type="html"><![CDATA[NASA science chief states he ‘prefers’ flight proven Falcon 9 boosters]]></summary>
-        <author>
-            <name>dangle1</name>
-            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
         </author>
     </entry>
 </feed>
