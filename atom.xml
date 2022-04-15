@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T11:12:15.220Z</updated>
+    <updated>2022-04-15T11:30:46.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用知识图谱解决了中国的Wordle]]></title>
+        <id>https://news.ycombinator.com/item?id=31038929</id>
+        <link href="https://news.ycombinator.com/item?id=31038929"/>
+        <updated>2022-04-15T11:25:29.000Z</updated>
+        <summary type="html"><![CDATA[I solved Chinese Wordle using knowledge graph]]></summary>
+        <author>
+            <name>CupofChineseTea</name>
+            <uri>https://news.ycombinator.com/user?id=CupofChineseTea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你想要适当和直接的答案，但]]></title>
+        <id>https://news.ycombinator.com/item?id=31038791</id>
+        <link href="https://news.ycombinator.com/item?id=31038791"/>
+        <updated>2022-04-15T11:05:17.000Z</updated>
+        <summary type="html"><![CDATA[You want proper and direct answers, but]]></summary>
+        <author>
+            <name>yottaanswers</name>
+            <uri>https://news.ycombinator.com/user?id=yottaanswers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴恩斯和诺布尔公司从小人变成了英雄]]></title>
+        <id>https://news.ycombinator.com/item?id=31038581</id>
+        <link href="https://news.ycombinator.com/item?id=31038581"/>
+        <updated>2022-04-15T10:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Barnes and Noble Went from Villain to Hero]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数以百万计的美国人正在诉诸于危险的方式来购买负担得起的房屋]]></title>
+        <id>https://news.ycombinator.com/item?id=31038468</id>
+        <link href="https://news.ycombinator.com/item?id=31038468"/>
+        <updated>2022-04-15T10:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Millions of Americans are resorting to risky ways to buy an affordable home]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shirky.com已经消失了（重要的文章，网络的历史，正在消失。）]]></title>
         <id>https://news.ycombinator.com/item?id=31038660</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>dmix</name>
             <uri>https://news.ycombinator.com/user?id=dmix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯 "沙虫 "黑客试图在乌克兰进行第三次断电]]></title>
-        <id>https://news.ycombinator.com/item?id=31020781</id>
-        <link href="https://news.ycombinator.com/item?id=31020781"/>
-        <updated>2022-04-13T21:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Russia's Sandworm Hackers Attempted a Third Blackout in Ukraine]]></summary>
-        <author>
-            <name>curmudgeon22</name>
-            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在埃尔登环，斗争的感觉是真实的]]></title>
-        <id>https://news.ycombinator.com/item?id=31020761</id>
-        <link href="https://news.ycombinator.com/item?id=31020761"/>
-        <updated>2022-04-13T21:52:55.000Z</updated>
-        <summary type="html"><![CDATA[In Elden Ring, the Struggle Feels Real]]></summary>
-        <author>
-            <name>karaokeyoga</name>
-            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Express、Fastify和NestJS之间的插件架构概述]]></title>
-        <id>https://news.ycombinator.com/item?id=31020750</id>
-        <link href="https://news.ycombinator.com/item?id=31020750"/>
-        <updated>2022-04-13T21:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Plugin Architecture Overview Between Express, Fastify and NestJS]]></summary>
-        <author>
-            <name>lizparody23</name>
-            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在你的钱包里？]]></title>
-        <id>https://news.ycombinator.com/item?id=31020728</id>
-        <link href="https://news.ycombinator.com/item?id=31020728"/>
-        <updated>2022-04-13T21:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Who’s in Your Wallet?]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
