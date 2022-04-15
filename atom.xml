@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-15T05:05:13.177Z</updated>
+    <updated>2022-04-15T05:25:08.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抵押贷款利率自2011年以来首次达到5%。]]></title>
+        <id>https://news.ycombinator.com/item?id=31036717</id>
+        <link href="https://news.ycombinator.com/item?id=31036717"/>
+        <updated>2022-04-15T04:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Mortgage Rates Hit 5% for First Time Since 2011]]></summary>
+        <author>
+            <name>cjdrake</name>
+            <uri>https://news.ycombinator.com/user?id=cjdrake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[铁路地图。浏览世界各地的铁路，查看Amtrak、Caltrain的实时情况]]></title>
         <id>https://news.ycombinator.com/item?id=31036628</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>crishoj</name>
             <uri>https://news.ycombinator.com/user?id=crishoj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州律师辞职 "抗议 "纽森对动视案的 "干涉"]]></title>
-        <id>https://news.ycombinator.com/item?id=31018467</id>
-        <link href="https://news.ycombinator.com/item?id=31018467"/>
-        <updated>2022-04-13T18:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Calif. lawyer resigns “in protest” of Newsom's “interference” in Activision case]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
