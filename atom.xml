@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T15:46:50.024Z</updated>
+    <updated>2022-04-16T15:54:41.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找地球的曲率]]></title>
+        <id>https://news.ycombinator.com/item?id=31053104</id>
+        <link href="https://news.ycombinator.com/item?id=31053104"/>
+        <updated>2022-04-16T15:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Finding the Curvature of the Earth]]></summary>
+        <author>
+            <name>maybe_pablo</name>
+            <uri>https://news.ycombinator.com/user?id=maybe_pablo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员从简单的人工智能中获得新的理解]]></title>
+        <id>https://news.ycombinator.com/item?id=31053019</id>
+        <link href="https://news.ycombinator.com/item?id=31053019"/>
+        <updated>2022-04-16T15:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Researchers Gain New Understanding from Simple AI]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源节衣缩食软件--需要反馈]]></title>
         <id>https://news.ycombinator.com/item?id=31053177</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列成功测试激光防御系统以防止火箭弹袭击]]></title>
-        <id>https://news.ycombinator.com/item?id=31035947</id>
-        <link href="https://news.ycombinator.com/item?id=31035947"/>
-        <updated>2022-04-15T02:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Israel successfully tests lazer defense systems to protect against rockets]]></summary>
-        <author>
-            <name>heshiebee</name>
-            <uri>https://news.ycombinator.com/user?id=heshiebee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果推动供应商使用更多可再生能源]]></title>
-        <id>https://news.ycombinator.com/item?id=31035910</id>
-        <link href="https://news.ycombinator.com/item?id=31035910"/>
-        <updated>2022-04-15T02:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Apple pushes suppliers to use more renewable energy]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
