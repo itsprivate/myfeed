@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T10:36:53.847Z</updated>
+    <updated>2022-04-16T10:52:54.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單手鍵盤（不僅僅是為殘疾人服務的）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31050827</id>
+        <link href="https://news.ycombinator.com/item?id=31050827"/>
+        <updated>2022-04-16T08:59:12.000Z</updated>
+        <summary type="html"><![CDATA[One-Handed Keyboard (Not just for the disabled)]]></summary>
+        <author>
+            <name>pseingatl</name>
+            <uri>https://news.ycombinator.com/user?id=pseingatl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27年前，我意外地在家鄉舉辦了最難的復活節尋蛋活動]]></title>
         <id>https://news.ycombinator.com/item?id=31051223</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rasulkireev</name>
             <uri>https://news.ycombinator.com/user?id=rasulkireev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為傑克-多爾西第一條推特的NFT支付290萬美元的男子將損失近290萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31033434</id>
-        <link href="https://news.ycombinator.com/item?id=31033434"/>
-        <updated>2022-04-14T21:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Man who paid $2.9m for NFT of Jack Dorsey’s first tweet set to lose almost $2.9m]]></summary>
-        <author>
-            <name>twapi</name>
-            <uri>https://news.ycombinator.com/user?id=twapi</uri>
         </author>
     </entry>
 </feed>
