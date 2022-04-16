@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T04:42:13.570Z</updated>
+    <updated>2022-04-16T04:58:37.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[時間可能不存在 物理學家說因果關係是我們宇宙的基本特徵]]></title>
+        <id>https://news.ycombinator.com/item?id=31049572</id>
+        <link href="https://news.ycombinator.com/item?id=31049572"/>
+        <updated>2022-04-16T04:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Time Might Not Exist Physicists Say Causation Is the Basic Feature of Our Univer]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為我的網站建立了一個開放的儀表板]]></title>
         <id>https://news.ycombinator.com/item?id=31049524</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>deep_earning</name>
             <uri>https://news.ycombinator.com/user?id=deep_earning</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大股東Alwaleed bin Talal和KHC拒絕了Musk的Twitter收購要約]]></title>
-        <id>https://news.ycombinator.com/item?id=31030399</id>
-        <link href="https://news.ycombinator.com/item?id=31030399"/>
-        <updated>2022-04-14T17:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Large shareholders Alwaleed bin Talal and KHC reject Musk's Twitter takeover bid]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
