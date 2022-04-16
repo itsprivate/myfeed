@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 11:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 11:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果公司为设计自己的芯片所做的长达一年的冒险努力正在得到回报]]></title>
+            <link>https://news.ycombinator.com/item?id=31051509</link>
+            <guid>https://news.ycombinator.com/item?id=31051509</guid>
+            <pubDate>Sat, 16 Apr 2022 11:32:16 GMT</pubDate>
+            <description><![CDATA[Apple’s risky, yearslong effort to design its own silicon is paying off]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我可以在互联网上搜索到比电脑上的文件更快、更详细的信息。]]></title>
+            <link>https://news.ycombinator.com/item?id=31051503</link>
+            <guid>https://news.ycombinator.com/item?id=31051503</guid>
+            <pubDate>Sat, 16 Apr 2022 11:30:39 GMT</pubDate>
+            <description><![CDATA[I can search the internet faster and in greater detail than files on my computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用于Hacker News API的GraphQL封装器]]></title>
+            <link>https://news.ycombinator.com/item?id=31051463</link>
+            <guid>https://news.ycombinator.com/item?id=31051463</guid>
+            <pubDate>Sat, 16 Apr 2022 11:19:37 GMT</pubDate>
+            <description><![CDATA[Show HN: GraphQL Wrapper for Hacker News API]]></description>
+        </item>
         <item>
             <title><![CDATA[五的烦恼 (2007)]]></title>
             <link>https://news.ycombinator.com/item?id=31051488</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31033325</guid>
             <pubDate>Thu, 14 Apr 2022 21:08:41 GMT</pubDate>
             <description><![CDATA[The love that went into the netdata release notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Modis航天器事件，在安全模式下运行，所有舱门关闭]]></title>
-            <link>https://news.ycombinator.com/item?id=31033467</link>
-            <guid>https://news.ycombinator.com/item?id=31033467</guid>
-            <pubDate>Thu, 14 Apr 2022 21:21:10 GMT</pubDate>
-            <description><![CDATA[Modis spacecraft incident, operating in safe mode with all doors closed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta公司首席技术官预告将推出Horizon Worlds元空间平台的网络版]]></title>
-            <link>https://news.ycombinator.com/item?id=31033460</link>
-            <guid>https://news.ycombinator.com/item?id=31033460</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:45 GMT</pubDate>
-            <description><![CDATA[Meta's CTO teases a web version of Horizon Worlds metaverse platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特大股东沙特王子拒绝马斯克收购公司的提议]]></title>
-            <link>https://news.ycombinator.com/item?id=31033450</link>
-            <guid>https://news.ycombinator.com/item?id=31033450</guid>
-            <pubDate>Thu, 14 Apr 2022 21:20:02 GMT</pubDate>
-            <description><![CDATA[Saudi prince, a major Twitter shareholder, rejects Musk offer to buy company]]></description>
         </item>
     </channel>
 </rss>

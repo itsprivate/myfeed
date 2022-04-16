@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T11:36:36.396Z</updated>
+    <updated>2022-04-16T11:51:35.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司為設計自己的芯片所做的長達一年的冒險努力正在得到回報]]></title>
+        <id>https://news.ycombinator.com/item?id=31051509</id>
+        <link href="https://news.ycombinator.com/item?id=31051509"/>
+        <updated>2022-04-16T11:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s risky, yearslong effort to design its own silicon is paying off]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以在互聯網上搜索到比電腦上的文件更快、更詳細的信息。]]></title>
+        <id>https://news.ycombinator.com/item?id=31051503</id>
+        <link href="https://news.ycombinator.com/item?id=31051503"/>
+        <updated>2022-04-16T11:30:39.000Z</updated>
+        <summary type="html"><![CDATA[I can search the internet faster and in greater detail than files on my computer]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於Hacker News API的GraphQL封裝器]]></title>
+        <id>https://news.ycombinator.com/item?id=31051463</id>
+        <link href="https://news.ycombinator.com/item?id=31051463"/>
+        <updated>2022-04-16T11:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphQL Wrapper for Hacker News API]]></summary>
+        <author>
+            <name>hsblhsn</name>
+            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五的煩惱 (2007)]]></title>
         <id>https://news.ycombinator.com/item?id=31051488</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>danrl</name>
             <uri>https://news.ycombinator.com/user?id=danrl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modis航天器事件，在安全模式下運行，所有艙門關閉]]></title>
-        <id>https://news.ycombinator.com/item?id=31033467</id>
-        <link href="https://news.ycombinator.com/item?id=31033467"/>
-        <updated>2022-04-14T21:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Modis spacecraft incident, operating in safe mode with all doors closed]]></summary>
-        <author>
-            <name>asperous</name>
-            <uri>https://news.ycombinator.com/user?id=asperous</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司首席技術官預告將推出Horizon Worlds元空間平臺的網絡版]]></title>
-        <id>https://news.ycombinator.com/item?id=31033460</id>
-        <link href="https://news.ycombinator.com/item?id=31033460"/>
-        <updated>2022-04-14T21:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Meta's CTO teases a web version of Horizon Worlds metaverse platform]]></summary>
-        <author>
-            <name>astlouis44</name>
-            <uri>https://news.ycombinator.com/user?id=astlouis44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特大股東沙特王子拒絕馬斯克收購公司的提議]]></title>
-        <id>https://news.ycombinator.com/item?id=31033450</id>
-        <link href="https://news.ycombinator.com/item?id=31033450"/>
-        <updated>2022-04-14T21:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Saudi prince, a major Twitter shareholder, rejects Musk offer to buy company]]></summary>
-        <author>
-            <name>version_five</name>
-            <uri>https://news.ycombinator.com/user?id=version_five</uri>
         </author>
     </entry>
 </feed>
