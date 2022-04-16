@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T09:32:26.036Z</updated>
+    <updated>2022-04-16T10:15:44.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梅德韦杰夫宣布了一项销毁星联卫星的任务]]></title>
+        <id>https://news.ycombinator.com/item?id=31051109</id>
+        <link href="https://news.ycombinator.com/item?id=31051109"/>
+        <updated>2022-04-16T10:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Medvedev announced a task is given to destroy Starlink satellites]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure声音]]></title>
+        <id>https://news.ycombinator.com/item?id=31051084</id>
+        <link href="https://news.ycombinator.com/item?id=31051084"/>
+        <updated>2022-04-16T09:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Clojure Sound]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YAML中的Gstreamer（示例）]]></title>
+        <id>https://news.ycombinator.com/item?id=31051072</id>
+        <link href="https://news.ycombinator.com/item?id=31051072"/>
+        <updated>2022-04-16T09:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Gstreamer in YAML (Example)]]></summary>
+        <author>
+            <name>ouzb64ty</name>
+            <uri>https://news.ycombinator.com/user?id=ouzb64ty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systeroid。用Rust编写的sysctl(8)的一个更强大的替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=31050908</id>
+        <link href="https://news.ycombinator.com/item?id=31050908"/>
+        <updated>2022-04-16T09:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Systeroid: A more powerful alternative to sysctl(8) written in Rust]]></summary>
+        <author>
+            <name>orhunp_</name>
+            <uri>https://news.ycombinator.com/user?id=orhunp_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是法治？]]></title>
+        <id>https://news.ycombinator.com/item?id=31050788</id>
+        <link href="https://news.ycombinator.com/item?id=31050788"/>
+        <updated>2022-04-16T08:49:09.000Z</updated>
+        <summary type="html"><![CDATA[What Is the Rule of Law?]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小野田。一个在丛林中躲藏了30年的人]]></title>
         <id>https://news.ycombinator.com/item?id=31050924</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>bananamerica</name>
             <uri>https://news.ycombinator.com/user?id=bananamerica</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德克-霍恩德尔 Linux、Linus、许可证和开源业务]]></title>
-        <id>https://news.ycombinator.com/item?id=31032942</id>
-        <link href="https://news.ycombinator.com/item?id=31032942"/>
-        <updated>2022-04-14T20:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Dirk Hohndel: Linux, Linus, Licenses, and the Business of Open Source]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯军舰在黑海沉没，乌克兰称其被导弹击中]]></title>
-        <id>https://news.ycombinator.com/item?id=31033207</id>
-        <link href="https://news.ycombinator.com/item?id=31033207"/>
-        <updated>2022-04-14T20:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Russian warship sinks in Black Sea after Ukraine claims it was hit by missile]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash vs. Powershell vs. CMD:软件拖累系列E03]]></title>
-        <id>https://news.ycombinator.com/item?id=31033174</id>
-        <link href="https://news.ycombinator.com/item?id=31033174"/>
-        <updated>2022-04-14T20:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Bash vs. Powershell vs. CMD: The Software Drag Racing Series E03]]></summary>
-        <author>
-            <name>Decabytes</name>
-            <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯军舰Moskva号沉没 - 国防部]]></title>
-        <id>https://news.ycombinator.com/item?id=31033173</id>
-        <link href="https://news.ycombinator.com/item?id=31033173"/>
-        <updated>2022-04-14T20:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Russian warship Moskva has sunk – defence ministry]]></summary>
-        <author>
-            <name>vanburen</name>
-            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计黑暗模式而不感到头疼]]></title>
-        <id>https://news.ycombinator.com/item?id=31033089</id>
-        <link href="https://news.ycombinator.com/item?id=31033089"/>
-        <updated>2022-04-14T20:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Designing dark mode without the headaches]]></summary>
-        <author>
-            <name>mayop100</name>
-            <uri>https://news.ycombinator.com/user?id=mayop100</uri>
         </author>
     </entry>
 </feed>
