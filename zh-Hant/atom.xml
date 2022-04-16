@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T03:57:33.573Z</updated>
+    <updated>2022-04-16T04:15:20.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Oculus的10年]]></title>
+        <id>https://news.ycombinator.com/item?id=31049319</id>
+        <link href="https://news.ycombinator.com/item?id=31049319"/>
+        <updated>2022-04-16T03:56:45.000Z</updated>
+        <summary type="html"><![CDATA[10 Years of Oculus]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主是一種詭計]]></title>
+        <id>https://news.ycombinator.com/item?id=31048753</id>
+        <link href="https://news.ycombinator.com/item?id=31048753"/>
+        <updated>2022-04-16T02:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Democracy Is a Ruse]]></summary>
+        <author>
+            <name>morpheos137</name>
+            <uri>https://news.ycombinator.com/user?id=morpheos137</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔笛手"。一種寄生甲蟲的旋律調控螞蟻的行為（2015年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31047586</id>
+        <link href="https://news.ycombinator.com/item?id=31047586"/>
+        <updated>2022-04-16T00:11:17.000Z</updated>
+        <summary type="html"><![CDATA[The Pied Piper: A Parasitic Beetle’s Melodies Modulate Ant Behaviours (2015)]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+            <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何創建一個新的 Debian 端口]]></title>
         <id>https://news.ycombinator.com/item?id=31049212</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ourmandave</name>
             <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓你的頭腦瞭解數字的精確性]]></title>
-        <id>https://news.ycombinator.com/item?id=31030632</id>
-        <link href="https://news.ycombinator.com/item?id=31030632"/>
-        <updated>2022-04-14T17:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Wrapping Your Head Around Numerical Precision]]></summary>
-        <author>
-            <name>cattleprodigy</name>
-            <uri>https://news.ycombinator.com/user?id=cattleprodigy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProPublica繼續報道（糟糕的）非法洩露的納稅人數據]]></title>
-        <id>https://news.ycombinator.com/item?id=31030629</id>
-        <link href="https://news.ycombinator.com/item?id=31030629"/>
-        <updated>2022-04-14T17:55:22.000Z</updated>
-        <summary type="html"><![CDATA[ProPublica Continues to Report (Badly) on Illegally Leaked Taxpayer Data]]></summary>
-        <author>
-            <name>hnburnsy</name>
-            <uri>https://news.ycombinator.com/user?id=hnburnsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜旗下的Twitch公司傳播俄羅斯關於烏克蘭的錯誤信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31030515</id>
-        <link href="https://news.ycombinator.com/item?id=31030515"/>
-        <updated>2022-04-14T17:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon-Owned Twitch Spreading Russian Misinformation on Ukraine]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
