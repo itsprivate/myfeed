@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 22:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 22:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘑菇可能利用电脉冲相互交流]]></title>
+            <link>https://news.ycombinator.com/item?id=31056415</link>
+            <guid>https://news.ycombinator.com/item?id=31056415</guid>
+            <pubDate>Sat, 16 Apr 2022 21:51:46 GMT</pubDate>
+            <description><![CDATA[Mushrooms May Communicate with Each Other Using Electrical Impulses]]></description>
+        </item>
         <item>
             <title><![CDATA[揭示不可触摸的海洋生物的真相]]></title>
             <link>https://news.ycombinator.com/item?id=31056677</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31039748</guid>
             <pubDate>Fri, 15 Apr 2022 13:05:51 GMT</pubDate>
             <description><![CDATA[Airbus' Biomimicry EXtra Performance Wing Demonstrator Finishes Testing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用NumPy进行数组编程 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=31039694</link>
-            <guid>https://news.ycombinator.com/item?id=31039694</guid>
-            <pubDate>Fri, 15 Apr 2022 13:00:45 GMT</pubDate>
-            <description><![CDATA[Array Programming with NumPy [pdf]]]></description>
         </item>
     </channel>
 </rss>

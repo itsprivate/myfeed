@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T22:42:41.906Z</updated>
+    <updated>2022-04-16T22:51:14.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘑菇可能利用電脈衝相互交流]]></title>
+        <id>https://news.ycombinator.com/item?id=31056415</id>
+        <link href="https://news.ycombinator.com/item?id=31056415"/>
+        <updated>2022-04-16T21:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Mushrooms May Communicate with Each Other Using Electrical Impulses]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭示不可觸摸的海洋生物的真相]]></title>
         <id>https://news.ycombinator.com/item?id=31056677</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nixass</name>
             <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用NumPy進行數組編程 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31039694</id>
-        <link href="https://news.ycombinator.com/item?id=31039694"/>
-        <updated>2022-04-15T13:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Array Programming with NumPy [pdf]]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
