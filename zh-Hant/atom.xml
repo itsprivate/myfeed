@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T20:42:59.467Z</updated>
+    <updated>2022-04-16T20:51:21.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯是如何在高超音速導彈方面擊敗美國的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31055705</id>
+        <link href="https://news.ycombinator.com/item?id=31055705"/>
+        <updated>2022-04-16T20:13:23.000Z</updated>
+        <summary type="html"><![CDATA[How Russia Beat America to the Hypersonic Missile]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bash-powershell-轉換器：將bash腳本轉換為powershell腳本]]></title>
         <id>https://news.ycombinator.com/item?id=31055821</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KoftaBob</name>
             <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用語言模型來（可能）加快閱讀速度]]></title>
-        <id>https://news.ycombinator.com/item?id=31038854</id>
-        <link href="https://news.ycombinator.com/item?id=31038854"/>
-        <updated>2022-04-15T11:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Using Language Models to (Probably) Read Faster]]></summary>
-        <author>
-            <name>hexomancer</name>
-            <uri>https://news.ycombinator.com/user?id=hexomancer</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 20:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 20:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[俄罗斯是如何在高超音速导弹方面击败美国的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31055705</link>
+            <guid>https://news.ycombinator.com/item?id=31055705</guid>
+            <pubDate>Sat, 16 Apr 2022 20:13:23 GMT</pubDate>
+            <description><![CDATA[How Russia Beat America to the Hypersonic Missile]]></description>
+        </item>
         <item>
             <title><![CDATA[Bash-powershell-转换器：将bash脚本转换为powershell脚本]]></title>
             <link>https://news.ycombinator.com/item?id=31055821</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31038970</guid>
             <pubDate>Fri, 15 Apr 2022 11:31:15 GMT</pubDate>
             <description><![CDATA[Micro Front Ends]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用语言模型来（可能）加快阅读速度]]></title>
-            <link>https://news.ycombinator.com/item?id=31038854</link>
-            <guid>https://news.ycombinator.com/item?id=31038854</guid>
-            <pubDate>Fri, 15 Apr 2022 11:15:47 GMT</pubDate>
-            <description><![CDATA[Using Language Models to (Probably) Read Faster]]></description>
         </item>
     </channel>
 </rss>
