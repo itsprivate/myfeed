@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 07:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 08:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用SBCL使用其他编程语言的Lisp库]]></title>
+            <link>https://news.ycombinator.com/item?id=31050589</link>
+            <guid>https://news.ycombinator.com/item?id=31050589</guid>
+            <pubDate>Sat, 16 Apr 2022 08:11:54 GMT</pubDate>
+            <description><![CDATA[Using Lisp libraries from other programming languages with SBCL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[RISC-V架构配置文件0.5（RVI20、RVA20和RVA22）供讨论]]></title>
+            <link>https://news.ycombinator.com/item?id=31050537</link>
+            <guid>https://news.ycombinator.com/item?id=31050537</guid>
+            <pubDate>Sat, 16 Apr 2022 07:59:39 GMT</pubDate>
+            <description><![CDATA[RISC-V Architecture Profiles 0.5 (RVI20, RVA20 and RVA22) for Discussion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[史蒂夫-乔布斯谈咨询]]></title>
+            <link>https://news.ycombinator.com/item?id=31050316</link>
+            <guid>https://news.ycombinator.com/item?id=31050316</guid>
+            <pubDate>Sat, 16 Apr 2022 07:16:31 GMT</pubDate>
+            <description><![CDATA[Steve Jobs on Consulting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[num-utils: 一套用于从Unix命令行处理数字的程序。]]></title>
+            <link>https://news.ycombinator.com/item?id=31050181</link>
+            <guid>https://news.ycombinator.com/item?id=31050181</guid>
+            <pubDate>Sat, 16 Apr 2022 06:49:43 GMT</pubDate>
+            <description><![CDATA[num-utils: A set of programs for dealing with numbers from the Unix command line]]></description>
+        </item>
+        <item>
+            <title><![CDATA[未来的奔驰内燃机车将基于电动车平台]]></title>
+            <link>https://news.ycombinator.com/item?id=31049565</link>
+            <guid>https://news.ycombinator.com/item?id=31049565</guid>
+            <pubDate>Sat, 16 Apr 2022 04:46:08 GMT</pubDate>
+            <description><![CDATA[Future Mercedes Internal Combustion Cars Will Be Based on EV Platforms]]></description>
+        </item>
         <item>
             <title><![CDATA[在中国，"零容忍 "的Covid-19政策导致了一个乌托邦式的噩梦]]></title>
             <link>https://news.ycombinator.com/item?id=31050414</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31032601</guid>
             <pubDate>Thu, 14 Apr 2022 20:09:22 GMT</pubDate>
             <description><![CDATA[Show HN: Hacker News reader focused on readability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软件工程师是美国最不分心的司机]]></title>
-            <link>https://news.ycombinator.com/item?id=31032447</link>
-            <guid>https://news.ycombinator.com/item?id=31032447</guid>
-            <pubDate>Thu, 14 Apr 2022 19:55:02 GMT</pubDate>
-            <description><![CDATA[Software Engineers Are America’s Least Distracted Drivers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我学到的东西 在30天内建立（和销售）一家公司。第1-15天]]></title>
-            <link>https://news.ycombinator.com/item?id=31032410</link>
-            <guid>https://news.ycombinator.com/item?id=31032410</guid>
-            <pubDate>Thu, 14 Apr 2022 19:52:27 GMT</pubDate>
-            <description><![CDATA[What I Learned Building (and Selling?) a Company in 30 days: Days 1–15]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我有多个连接的键盘，我怎样才能单独读取输入？]]></title>
-            <link>https://news.ycombinator.com/item?id=31032339</link>
-            <guid>https://news.ycombinator.com/item?id=31032339</guid>
-            <pubDate>Thu, 14 Apr 2022 19:46:53 GMT</pubDate>
-            <description><![CDATA[If I have multiple attached keyboards, how can I read input individually?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SAFE.new - 在几秒钟内创建一个SAFE]]></title>
-            <link>https://news.ycombinator.com/item?id=31032301</link>
-            <guid>https://news.ycombinator.com/item?id=31032301</guid>
-            <pubDate>Thu, 14 Apr 2022 19:43:59 GMT</pubDate>
-            <description><![CDATA[SAFE.new – Create a SAFE in Seconds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ShorTor。通过多跳叠加路由改善Tor的网络延时]]></title>
-            <link>https://news.ycombinator.com/item?id=31031757</link>
-            <guid>https://news.ycombinator.com/item?id=31031757</guid>
-            <pubDate>Thu, 14 Apr 2022 19:04:53 GMT</pubDate>
-            <description><![CDATA[ShorTor: Improving Tor Network Latency via Multi-Hop Overlay Routing]]></description>
         </item>
     </channel>
 </rss>

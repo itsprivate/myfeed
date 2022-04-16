@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T07:52:08.780Z</updated>
+    <updated>2022-04-16T08:37:43.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用SBCL使用其他编程语言的Lisp库]]></title>
+        <id>https://news.ycombinator.com/item?id=31050589</id>
+        <link href="https://news.ycombinator.com/item?id=31050589"/>
+        <updated>2022-04-16T08:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Using Lisp libraries from other programming languages with SBCL]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V架构配置文件0.5（RVI20、RVA20和RVA22）供讨论]]></title>
+        <id>https://news.ycombinator.com/item?id=31050537</id>
+        <link href="https://news.ycombinator.com/item?id=31050537"/>
+        <updated>2022-04-16T07:59:39.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V Architecture Profiles 0.5 (RVI20, RVA20 and RVA22) for Discussion]]></summary>
+        <author>
+            <name>snvzz</name>
+            <uri>https://news.ycombinator.com/user?id=snvzz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫-乔布斯谈咨询]]></title>
+        <id>https://news.ycombinator.com/item?id=31050316</id>
+        <link href="https://news.ycombinator.com/item?id=31050316"/>
+        <updated>2022-04-16T07:16:31.000Z</updated>
+        <summary type="html"><![CDATA[Steve Jobs on Consulting]]></summary>
+        <author>
+            <name>motyar</name>
+            <uri>https://news.ycombinator.com/user?id=motyar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[num-utils: 一套用于从Unix命令行处理数字的程序。]]></title>
+        <id>https://news.ycombinator.com/item?id=31050181</id>
+        <link href="https://news.ycombinator.com/item?id=31050181"/>
+        <updated>2022-04-16T06:49:43.000Z</updated>
+        <summary type="html"><![CDATA[num-utils: A set of programs for dealing with numbers from the Unix command line]]></summary>
+        <author>
+            <name>divbzero</name>
+            <uri>https://news.ycombinator.com/user?id=divbzero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来的奔驰内燃机车将基于电动车平台]]></title>
+        <id>https://news.ycombinator.com/item?id=31049565</id>
+        <link href="https://news.ycombinator.com/item?id=31049565"/>
+        <updated>2022-04-16T04:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Future Mercedes Internal Combustion Cars Will Be Based on EV Platforms]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在中国，"零容忍 "的Covid-19政策导致了一个乌托邦式的噩梦]]></title>
         <id>https://news.ycombinator.com/item?id=31050414</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>hsblhsn</name>
             <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程师是美国最不分心的司机]]></title>
-        <id>https://news.ycombinator.com/item?id=31032447</id>
-        <link href="https://news.ycombinator.com/item?id=31032447"/>
-        <updated>2022-04-14T19:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Software Engineers Are America’s Least Distracted Drivers]]></summary>
-        <author>
-            <name>musawirali</name>
-            <uri>https://news.ycombinator.com/user?id=musawirali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我学到的东西 在30天内建立（和销售）一家公司。第1-15天]]></title>
-        <id>https://news.ycombinator.com/item?id=31032410</id>
-        <link href="https://news.ycombinator.com/item?id=31032410"/>
-        <updated>2022-04-14T19:52:27.000Z</updated>
-        <summary type="html"><![CDATA[What I Learned Building (and Selling?) a Company in 30 days: Days 1–15]]></summary>
-        <author>
-            <name>wrftaylor</name>
-            <uri>https://news.ycombinator.com/user?id=wrftaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我有多个连接的键盘，我怎样才能单独读取输入？]]></title>
-        <id>https://news.ycombinator.com/item?id=31032339</id>
-        <link href="https://news.ycombinator.com/item?id=31032339"/>
-        <updated>2022-04-14T19:46:53.000Z</updated>
-        <summary type="html"><![CDATA[If I have multiple attached keyboards, how can I read input individually?]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAFE.new - 在几秒钟内创建一个SAFE]]></title>
-        <id>https://news.ycombinator.com/item?id=31032301</id>
-        <link href="https://news.ycombinator.com/item?id=31032301"/>
-        <updated>2022-04-14T19:43:59.000Z</updated>
-        <summary type="html"><![CDATA[SAFE.new – Create a SAFE in Seconds]]></summary>
-        <author>
-            <name>sbuccini</name>
-            <uri>https://news.ycombinator.com/user?id=sbuccini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShorTor。通过多跳叠加路由改善Tor的网络延时]]></title>
-        <id>https://news.ycombinator.com/item?id=31031757</id>
-        <link href="https://news.ycombinator.com/item?id=31031757"/>
-        <updated>2022-04-14T19:04:53.000Z</updated>
-        <summary type="html"><![CDATA[ShorTor: Improving Tor Network Latency via Multi-Hop Overlay Routing]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
