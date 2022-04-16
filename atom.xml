@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T08:37:43.396Z</updated>
+    <updated>2022-04-16T08:53:44.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[印度Covid期间信息混乱的案例研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31050718</id>
+        <link href="https://news.ycombinator.com/item?id=31050718"/>
+        <updated>2022-04-16T08:34:24.000Z</updated>
+        <summary type="html"><![CDATA[A Case Study of the Information Chaos During Covid in India]]></summary>
+        <author>
+            <name>debarshri</name>
+            <uri>https://news.ycombinator.com/user?id=debarshri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用SBCL使用其他编程语言的Lisp库]]></title>
         <id>https://news.ycombinator.com/item?id=31050589</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[注重可读性的Hacker News阅读器]]></title>
-        <id>https://news.ycombinator.com/item?id=31032601</id>
-        <link href="https://news.ycombinator.com/item?id=31032601"/>
-        <updated>2022-04-14T20:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News reader focused on readability]]></summary>
-        <author>
-            <name>hsblhsn</name>
-            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
         </author>
     </entry>
 </feed>

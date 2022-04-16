@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 08:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 08:53:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[印度Covid期间信息混乱的案例研究]]></title>
+            <link>https://news.ycombinator.com/item?id=31050718</link>
+            <guid>https://news.ycombinator.com/item?id=31050718</guid>
+            <pubDate>Sat, 16 Apr 2022 08:34:24 GMT</pubDate>
+            <description><![CDATA[A Case Study of the Information Chaos During Covid in India]]></description>
+        </item>
         <item>
             <title><![CDATA[用SBCL使用其他编程语言的Lisp库]]></title>
             <link>https://news.ycombinator.com/item?id=31050589</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31031569</guid>
             <pubDate>Thu, 14 Apr 2022 18:53:41 GMT</pubDate>
             <description><![CDATA[UK freezes record $13B in assets linked to two Abramovich associates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[注重可读性的Hacker News阅读器]]></title>
-            <link>https://news.ycombinator.com/item?id=31032601</link>
-            <guid>https://news.ycombinator.com/item?id=31032601</guid>
-            <pubDate>Thu, 14 Apr 2022 20:09:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Hacker News reader focused on readability]]></description>
         </item>
     </channel>
 </rss>
