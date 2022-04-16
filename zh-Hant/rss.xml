@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Apr 2022 19:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 19:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在RISC-V彙編中打開一個UDP插座]]></title>
+            <link>https://news.ycombinator.com/item?id=31055300</link>
+            <guid>https://news.ycombinator.com/item?id=31055300</guid>
+            <pubDate>Sat, 16 Apr 2022 19:26:30 GMT</pubDate>
+            <description><![CDATA[Opening a UDP Socket in RISC-V Assembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[殺死亞洲大黃蜂和拯救蜜蜂的激光裝置 - 開源的]]></title>
+            <link>https://news.ycombinator.com/item?id=31055180</link>
+            <guid>https://news.ycombinator.com/item?id=31055180</guid>
+            <pubDate>Sat, 16 Apr 2022 19:13:41 GMT</pubDate>
+            <description><![CDATA[Laser device for killing Asian hornet and saving bee – open-source]]></description>
+        </item>
         <item>
             <title><![CDATA[Windows 10 中國政府版]]></title>
             <link>https://news.ycombinator.com/item?id=31055215</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31037847</guid>
             <pubDate>Fri, 15 Apr 2022 08:38:45 GMT</pubDate>
             <description><![CDATA[Gerrit Is Awesome]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新平衡ZFS鏡像上的數據 - JRS系統：博客]]></title>
-            <link>https://news.ycombinator.com/item?id=31038135</link>
-            <guid>https://news.ycombinator.com/item?id=31038135</guid>
-            <pubDate>Fri, 15 Apr 2022 09:28:06 GMT</pubDate>
-            <description><![CDATA[Rebalancing data on ZFS mirrors – JRS Systems: the blog]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SUSE Linux Enterprise向公眾開放其開發模式]]></title>
-            <link>https://news.ycombinator.com/item?id=31038084</link>
-            <guid>https://news.ycombinator.com/item?id=31038084</guid>
-            <pubDate>Fri, 15 Apr 2022 09:20:28 GMT</pubDate>
-            <description><![CDATA[SUSE Linux Enterprise Opens Its Development Model to the Public]]></description>
         </item>
     </channel>
 </rss>

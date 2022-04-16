@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T19:26:48.484Z</updated>
+    <updated>2022-04-16T19:36:44.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在RISC-V彙編中打開一個UDP插座]]></title>
+        <id>https://news.ycombinator.com/item?id=31055300</id>
+        <link href="https://news.ycombinator.com/item?id=31055300"/>
+        <updated>2022-04-16T19:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Opening a UDP Socket in RISC-V Assembly]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殺死亞洲大黃蜂和拯救蜜蜂的激光裝置 - 開源的]]></title>
+        <id>https://news.ycombinator.com/item?id=31055180</id>
+        <link href="https://news.ycombinator.com/item?id=31055180"/>
+        <updated>2022-04-16T19:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Laser device for killing Asian hornet and saving bee – open-source]]></summary>
+        <author>
+            <name>ildaronronsilda</name>
+            <uri>https://news.ycombinator.com/user?id=ildaronronsilda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 中國政府版]]></title>
         <id>https://news.ycombinator.com/item?id=31055215</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新平衡ZFS鏡像上的數據 - JRS系統：博客]]></title>
-        <id>https://news.ycombinator.com/item?id=31038135</id>
-        <link href="https://news.ycombinator.com/item?id=31038135"/>
-        <updated>2022-04-15T09:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Rebalancing data on ZFS mirrors – JRS Systems: the blog]]></summary>
-        <author>
-            <name>rodrigo975</name>
-            <uri>https://news.ycombinator.com/user?id=rodrigo975</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSE Linux Enterprise向公眾開放其開發模式]]></title>
-        <id>https://news.ycombinator.com/item?id=31038084</id>
-        <link href="https://news.ycombinator.com/item?id=31038084"/>
-        <updated>2022-04-15T09:20:28.000Z</updated>
-        <summary type="html"><![CDATA[SUSE Linux Enterprise Opens Its Development Model to the Public]]></summary>
-        <author>
-            <name>em-bee</name>
-            <uri>https://news.ycombinator.com/user?id=em-bee</uri>
         </author>
     </entry>
 </feed>
