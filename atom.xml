@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-16T19:36:44.118Z</updated>
+    <updated>2022-04-16T19:52:15.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能帮我做回形针吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31055390</id>
+        <link href="https://news.ycombinator.com/item?id=31055390"/>
+        <updated>2022-04-16T19:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Can you help me make paperclips?]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我读到的大多数Hacker News的评论都是由阴阳人男性写的，我想做得更好]]></title>
+        <id>https://news.ycombinator.com/item?id=31055371</id>
+        <link href="https://news.ycombinator.com/item?id=31055371"/>
+        <updated>2022-04-16T19:33:03.000Z</updated>
+        <summary type="html"><![CDATA[I read most Hacker News comments as written by cis males, I want to do better]]></summary>
+        <author>
+            <name>jaltekruse</name>
+            <uri>https://news.ycombinator.com/user?id=jaltekruse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Gmail中被垃圾邮件淹没？如何阻止xt.local的垃圾邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=31055328</id>
+        <link href="https://news.ycombinator.com/item?id=31055328"/>
+        <updated>2022-04-16T19:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Getting flooded by spam in Gmail? How to block xt.local spam]]></summary>
+        <author>
+            <name>debraallen</name>
+            <uri>https://news.ycombinator.com/user?id=debraallen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在巴黎圣母院发现的神秘石棺将被打开]]></title>
+        <id>https://news.ycombinator.com/item?id=31055210</id>
+        <link href="https://news.ycombinator.com/item?id=31055210"/>
+        <updated>2022-04-16T19:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Mystery sarcophagus found in Notre-Dame to be opened]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两张纸规则]]></title>
+        <id>https://news.ycombinator.com/item?id=31054994</id>
+        <link href="https://news.ycombinator.com/item?id=31054994"/>
+        <updated>2022-04-16T18:51:41.000Z</updated>
+        <summary type="html"><![CDATA[The Two Paper Rule]]></summary>
+        <author>
+            <name>throw0101a</name>
+            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在RISC-V汇编中打开一个UDP插座]]></title>
         <id>https://news.ycombinator.com/item?id=31055300</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>throwawaybutwhy</name>
             <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌心。用路径扩展语言建模（540B参数转换器）]]></title>
-        <id>https://news.ycombinator.com/item?id=31038249</id>
-        <link href="https://news.ycombinator.com/item?id=31038249"/>
-        <updated>2022-04-15T09:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Palm: Scaling Language Modeling with Pathways (540B parameter transformer)]]></summary>
-        <author>
-            <name>vpj</name>
-            <uri>https://news.ycombinator.com/user?id=vpj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zelensky现代总部的幕后花絮]]></title>
-        <id>https://news.ycombinator.com/item?id=31038099</id>
-        <link href="https://news.ycombinator.com/item?id=31038099"/>
-        <updated>2022-04-15T09:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Behind the scenes in Zelensky's modern HQ]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub开始禁止俄罗斯账户[俄语]]]></title>
-        <id>https://news.ycombinator.com/item?id=31038162</id>
-        <link href="https://news.ycombinator.com/item?id=31038162"/>
-        <updated>2022-04-15T09:34:28.000Z</updated>
-        <summary type="html"><![CDATA[GitHub starts banning Russian accounts [Russian]]]></summary>
-        <author>
-            <name>kitsu</name>
-            <uri>https://news.ycombinator.com/user?id=kitsu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们通过管理/减少警报噪音，避免了警报疲劳综合症。]]></title>
-        <id>https://news.ycombinator.com/item?id=31038159</id>
-        <link href="https://news.ycombinator.com/item?id=31038159"/>
-        <updated>2022-04-15T09:34:13.000Z</updated>
-        <summary type="html"><![CDATA[We avoided alarm fatigue syndrome by managing/reducing the alerting noise]]></summary>
-        <author>
-            <name>G4uth</name>
-            <uri>https://news.ycombinator.com/user?id=G4uth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格里特很了不起]]></title>
-        <id>https://news.ycombinator.com/item?id=31037847</id>
-        <link href="https://news.ycombinator.com/item?id=31037847"/>
-        <updated>2022-04-15T08:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Gerrit Is Awesome]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
