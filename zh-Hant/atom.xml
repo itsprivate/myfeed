@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T06:14:01.534Z</updated>
+    <updated>2022-04-17T06:38:32.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是科學主義？]]></title>
+        <id>https://news.ycombinator.com/item?id=31058841</id>
+        <link href="https://news.ycombinator.com/item?id=31058841"/>
+        <updated>2022-04-17T05:58:13.000Z</updated>
+        <summary type="html"><![CDATA[What Is Scientism?]]></summary>
+        <author>
+            <name>aww_dang</name>
+            <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不遵守規則的州際公路 (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=31058845</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JSeymourATL</name>
             <uri>https://news.ycombinator.com/user?id=JSeymourATL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bleskos - 在保護模式下工作的操作系統]]></title>
-        <id>https://news.ycombinator.com/item?id=31041733</id>
-        <link href="https://news.ycombinator.com/item?id=31041733"/>
-        <updated>2022-04-15T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Bleskos – Operation system working in protected mode]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
