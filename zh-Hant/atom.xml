@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T07:12:12.983Z</updated>
+    <updated>2022-04-17T07:30:47.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go比Rust快？Go vs. Rust vs. TypeScript服務器（作為一個科學家）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31059011</id>
+        <link href="https://news.ycombinator.com/item?id=31059011"/>
+        <updated>2022-04-17T06:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Go is faster than Rust? Go vs. Rust vs. TypeScript Servers (as a scientist)]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家通過教兩隻猴子玩 "吃豆人 "學到了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31058598</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>andrenth</name>
             <uri>https://news.ycombinator.com/user?id=andrenth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無]]></title>
-        <id>https://news.ycombinator.com/item?id=31041881</id>
-        <link href="https://news.ycombinator.com/item?id=31041881"/>
-        <updated>2022-04-15T16:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Null]]></summary>
-        <author>
-            <name>chaosmachine</name>
-            <uri>https://news.ycombinator.com/user?id=chaosmachine</uri>
         </author>
     </entry>
 </feed>
