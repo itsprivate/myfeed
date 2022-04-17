@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T23:13:16.433Z</updated>
+    <updated>2022-04-17T23:33:16.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grafog - 用于PyTorch Geometric的图形数据增强库]]></title>
+        <id>https://news.ycombinator.com/item?id=31065412</id>
+        <link href="https://news.ycombinator.com/item?id=31065412"/>
+        <updated>2022-04-17T23:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Grafog – Graph Data Augmentation Library for PyTorch Geometric]]></summary>
+        <author>
+            <name>peanutcrisis</name>
+            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国 "埃塞克斯男孩 "交易员因操纵石油市场 "7亿美元 "而面临美国审判]]></title>
+        <id>https://news.ycombinator.com/item?id=31065408</id>
+        <link href="https://news.ycombinator.com/item?id=31065408"/>
+        <updated>2022-04-17T23:09:08.000Z</updated>
+        <summary type="html"><![CDATA[UK “Essex Boys” traders face US trial for "$700m" manipulation of the oil market]]></summary>
+        <author>
+            <name>rmak</name>
+            <uri>https://news.ycombinator.com/user?id=rmak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑色梅沙。重塑半衰期的16年计划--Noclip纪录片]]></title>
+        <id>https://news.ycombinator.com/item?id=31065340</id>
+        <link href="https://news.ycombinator.com/item?id=31065340"/>
+        <updated>2022-04-17T22:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Black Mesa: The 16 Year Project to Remake Half-Life – Noclip Documentary]]></summary>
+        <author>
+            <name>hnthrowaway0315</name>
+            <uri>https://news.ycombinator.com/user?id=hnthrowaway0315</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资本主义在乌克兰战争中的作用]]></title>
+        <id>https://news.ycombinator.com/item?id=31065312</id>
+        <link href="https://news.ycombinator.com/item?id=31065312"/>
+        <updated>2022-04-17T22:53:35.000Z</updated>
+        <summary type="html"><![CDATA[The Role of Capitalism in the War in Ukraine]]></summary>
+        <author>
+            <name>yesenadam</name>
+            <uri>https://news.ycombinator.com/user?id=yesenadam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蓖麻。一个C++库，用于 "按照Matlab "进行编码]]></title>
         <id>https://news.ycombinator.com/item?id=31065361</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retool如何升级其4TB的主要应用PostgreSQL数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=31049497</id>
-        <link href="https://news.ycombinator.com/item?id=31049497"/>
-        <updated>2022-04-16T04:31:03.000Z</updated>
-        <summary type="html"><![CDATA[How Retool upgraded its 4 TB main application PostgreSQL database]]></summary>
-        <author>
-            <name>whitepoplar</name>
-            <uri>https://news.ycombinator.com/user?id=whitepoplar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[准备好迎接下一个供应链冲击波]]></title>
-        <id>https://news.ycombinator.com/item?id=31049355</id>
-        <link href="https://news.ycombinator.com/item?id=31049355"/>
-        <updated>2022-04-16T04:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for the next supply chain shockwave]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人创始人应将工作自动化以防止决策疲劳]]></title>
-        <id>https://news.ycombinator.com/item?id=31049281</id>
-        <link href="https://news.ycombinator.com/item?id=31049281"/>
-        <updated>2022-04-16T03:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Solo Founders Should Automate Their Job to Prevent Decision Fatigue]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过网络科学揭示语言之间的相似性和差异性]]></title>
-        <id>https://news.ycombinator.com/item?id=31049245</id>
-        <link href="https://news.ycombinator.com/item?id=31049245"/>
-        <updated>2022-04-16T03:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Revealing Similarities and Differences Between Languages Through Network Science]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
