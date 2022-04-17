@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T13:43:31.038Z</updated>
+    <updated>2022-04-17T14:12:13.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数字音频发行没有补丁]]></title>
+        <id>https://news.ycombinator.com/item?id=31060640</id>
+        <link href="https://news.ycombinator.com/item?id=31060640"/>
+        <updated>2022-04-17T13:22:04.000Z</updated>
+        <summary type="html"><![CDATA[No patches for digital audio releases]]></summary>
+        <author>
+            <name>mcraiha</name>
+            <uri>https://news.ycombinator.com/user?id=mcraiha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向大众的开源SLS 3D打印]]></title>
+        <id>https://news.ycombinator.com/item?id=31060639</id>
+        <link href="https://news.ycombinator.com/item?id=31060639"/>
+        <updated>2022-04-17T13:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Open Source SLS 3D Printing for the Masses]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扇贝：一种神经符号编程语言]]></title>
+        <id>https://news.ycombinator.com/item?id=31060265</id>
+        <link href="https://news.ycombinator.com/item?id=31060265"/>
+        <updated>2022-04-17T11:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Scallop: A Neurosymbolic Programming Language]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[区块链的搭车指南。解释它是如何工作的]]></title>
         <id>https://news.ycombinator.com/item?id=31060697</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript函数组成。这有什么大不了的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31043430</id>
-        <link href="https://news.ycombinator.com/item?id=31043430"/>
-        <updated>2022-04-15T17:59:08.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript function composition: What’s the big deal?]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是哑巴吗？视频会议中静音按钮的隐私分析]]></title>
-        <id>https://news.ycombinator.com/item?id=31044290</id>
-        <link href="https://news.ycombinator.com/item?id=31044290"/>
-        <updated>2022-04-15T19:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Are You Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果的iCloud+自定义域名服务似乎没有合格的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=31044265</id>
-        <link href="https://news.ycombinator.com/item?id=31044265"/>
-        <updated>2022-04-15T18:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Apple's iCloud+ Custom Domain service appears to have no competent support]]></summary>
-        <author>
-            <name>geekifier</name>
-            <uri>https://news.ycombinator.com/user?id=geekifier</uri>
         </author>
     </entry>
 </feed>

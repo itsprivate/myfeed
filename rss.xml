@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 17 Apr 2022 13:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 14:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[数字音频发行没有补丁]]></title>
+            <link>https://news.ycombinator.com/item?id=31060640</link>
+            <guid>https://news.ycombinator.com/item?id=31060640</guid>
+            <pubDate>Sun, 17 Apr 2022 13:22:04 GMT</pubDate>
+            <description><![CDATA[No patches for digital audio releases]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面向大众的开源SLS 3D打印]]></title>
+            <link>https://news.ycombinator.com/item?id=31060639</link>
+            <guid>https://news.ycombinator.com/item?id=31060639</guid>
+            <pubDate>Sun, 17 Apr 2022 13:21:53 GMT</pubDate>
+            <description><![CDATA[Open Source SLS 3D Printing for the Masses]]></description>
+        </item>
+        <item>
+            <title><![CDATA[扇贝：一种神经符号编程语言]]></title>
+            <link>https://news.ycombinator.com/item?id=31060265</link>
+            <guid>https://news.ycombinator.com/item?id=31060265</guid>
+            <pubDate>Sun, 17 Apr 2022 11:58:50 GMT</pubDate>
+            <description><![CDATA[Scallop: A Neurosymbolic Programming Language]]></description>
+        </item>
         <item>
             <title><![CDATA[区块链的搭车指南。解释它是如何工作的]]></title>
             <link>https://news.ycombinator.com/item?id=31060697</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31044130</guid>
             <pubDate>Fri, 15 Apr 2022 18:47:43 GMT</pubDate>
             <description><![CDATA[Why ‘Vision Zero’ Hit a Wall]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript函数组成。这有什么大不了的？]]></title>
-            <link>https://news.ycombinator.com/item?id=31043430</link>
-            <guid>https://news.ycombinator.com/item?id=31043430</guid>
-            <pubDate>Fri, 15 Apr 2022 17:59:08 GMT</pubDate>
-            <description><![CDATA[JavaScript function composition: What’s the big deal?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是哑巴吗？视频会议中静音按钮的隐私分析]]></title>
-            <link>https://news.ycombinator.com/item?id=31044290</link>
-            <guid>https://news.ycombinator.com/item?id=31044290</guid>
-            <pubDate>Fri, 15 Apr 2022 19:01:19 GMT</pubDate>
-            <description><![CDATA[Are You Muted?: A Privacy Analysis of Mute Buttons in Video Conferencing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果的iCloud+自定义域名服务似乎没有合格的支持]]></title>
-            <link>https://news.ycombinator.com/item?id=31044265</link>
-            <guid>https://news.ycombinator.com/item?id=31044265</guid>
-            <pubDate>Fri, 15 Apr 2022 18:59:11 GMT</pubDate>
-            <description><![CDATA[Apple's iCloud+ Custom Domain service appears to have no competent support]]></description>
         </item>
     </channel>
 </rss>
