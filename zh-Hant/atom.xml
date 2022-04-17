@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T11:29:06.132Z</updated>
+    <updated>2022-04-17T11:37:14.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泰坦尼克號的不沉的斯托克 (2012)]]></title>
+        <id>https://news.ycombinator.com/item?id=31060042</id>
+        <link href="https://news.ycombinator.com/item?id=31060042"/>
+        <updated>2022-04-17T11:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Titanic's Unsinkable Stoker (2012)]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是SAP？]]></title>
+        <id>https://news.ycombinator.com/item?id=31059993</id>
+        <link href="https://news.ycombinator.com/item?id=31059993"/>
+        <updated>2022-04-17T11:02:42.000Z</updated>
+        <summary type="html"><![CDATA[What’s SAP?]]></summary>
+        <author>
+            <name>rsecora</name>
+            <uri>https://news.ycombinator.com/user?id=rsecora</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Srm - 刪除文件並防止其恢復]]></title>
         <id>https://news.ycombinator.com/item?id=31060007</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bb88</name>
             <uri>https://news.ycombinator.com/user?id=bb88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粘性膠帶清單]]></title>
-        <id>https://news.ycombinator.com/item?id=31043179</id>
-        <link href="https://news.ycombinator.com/item?id=31043179"/>
-        <updated>2022-04-15T17:41:12.000Z</updated>
-        <summary type="html"><![CDATA[List Of Adhesive Tapes]]></summary>
-        <author>
-            <name>optimalsolver</name>
-            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McCLIM後端--第一部分：介質輸出協議]]></title>
-        <id>https://news.ycombinator.com/item?id=31043142</id>
-        <link href="https://news.ycombinator.com/item?id=31043142"/>
-        <updated>2022-04-15T17:39:03.000Z</updated>
-        <summary type="html"><![CDATA[McCLIM back ends – Part I: Medium Output Protocol]]></summary>
-        <author>
-            <name>jackdaniel</name>
-            <uri>https://news.ycombinator.com/user?id=jackdaniel</uri>
         </author>
     </entry>
 </feed>
