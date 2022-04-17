@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T19:27:49.523Z</updated>
+    <updated>2022-04-17T19:36:31.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勒龐和她的父親被指控在選舉前一週挪用了50多萬英鎊的資金]]></title>
+        <id>https://news.ycombinator.com/item?id=31063524</id>
+        <link href="https://news.ycombinator.com/item?id=31063524"/>
+        <updated>2022-04-17T19:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Le Pen and her father are accused of embezzling £500K+ a week before election]]></summary>
+        <author>
+            <name>c0balt</name>
+            <uri>https://news.ycombinator.com/user?id=c0balt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從Uniswap計算隱含波動率]]></title>
+        <id>https://news.ycombinator.com/item?id=31062941</id>
+        <link href="https://news.ycombinator.com/item?id=31062941"/>
+        <updated>2022-04-17T18:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Calculating Implied Volatility from Uniswap]]></summary>
+        <author>
+            <name>cwaffles</name>
+            <uri>https://news.ycombinator.com/user?id=cwaffles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一場跳傘事故幫助啟動了增強現實技術]]></title>
         <id>https://news.ycombinator.com/item?id=31063503</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭助理的最新帶來了令人敬畏的]]></title>
-        <id>https://news.ycombinator.com/item?id=31046946</id>
-        <link href="https://news.ycombinator.com/item?id=31046946"/>
-        <updated>2022-04-15T22:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Home Assistant’s newest brings back the awesome]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FASP。快速和安全協議]]></title>
-        <id>https://news.ycombinator.com/item?id=31046887</id>
-        <link href="https://news.ycombinator.com/item?id=31046887"/>
-        <updated>2022-04-15T22:48:48.000Z</updated>
-        <summary type="html"><![CDATA[FASP: Fast and Secure Protocol]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
         </author>
     </entry>
 </feed>
