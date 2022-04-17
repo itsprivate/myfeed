@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T02:26:09.406Z</updated>
+    <updated>2022-04-17T03:15:39.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们离第三次世界大战有多远？]]></title>
+        <id>https://news.ycombinator.com/item?id=31058082</id>
+        <link href="https://news.ycombinator.com/item?id=31058082"/>
+        <updated>2022-04-17T03:00:20.000Z</updated>
+        <summary type="html"><![CDATA[How Close Are We to World War III?]]></summary>
+        <author>
+            <name>pigtailgirl</name>
+            <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上最强的核磁共振机器正在将人类成像推向新的极限]]></title>
+        <id>https://news.ycombinator.com/item?id=31058000</id>
+        <link href="https://news.ycombinator.com/item?id=31058000"/>
+        <updated>2022-04-17T02:44:42.000Z</updated>
+        <summary type="html"><![CDATA[The world’s strongest MRI machines are pushing human imaging to new limits]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[压力终端用户界面：S-TUI]]></title>
+        <id>https://news.ycombinator.com/item?id=31057931</id>
+        <link href="https://news.ycombinator.com/item?id=31057931"/>
+        <updated>2022-04-17T02:28:44.000Z</updated>
+        <summary type="html"><![CDATA[The Stress Terminal UI: s-TUI]]></summary>
+        <author>
+            <name>ruph123</name>
+            <uri>https://news.ycombinator.com/user?id=ruph123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[u-root CPU命令]]></title>
+        <id>https://news.ycombinator.com/item?id=31057873</id>
+        <link href="https://news.ycombinator.com/item?id=31057873"/>
+        <updated>2022-04-17T02:17:35.000Z</updated>
+        <summary type="html"><![CDATA[The u-root CPU command]]></summary>
+        <author>
+            <name>liveranga</name>
+            <uri>https://news.ycombinator.com/user?id=liveranga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陆军五角大楼将建造核微反应堆为遥远的基地提供动力]]></title>
+        <id>https://news.ycombinator.com/item?id=31057681</id>
+        <link href="https://news.ycombinator.com/item?id=31057681"/>
+        <updated>2022-04-17T01:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Army Pentagon to build nuclear microreactors to power far-flung bases]]></summary>
+        <author>
+            <name>Ice_cream_suit</name>
+            <uri>https://news.ycombinator.com/user?id=Ice_cream_suit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何不给有限状态机编码 (1988) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31057447</id>
+        <link href="https://news.ycombinator.com/item?id=31057447"/>
+        <updated>2022-04-17T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[How Not to Code a Finite State Machine (1988) [pdf]]]></summary>
+        <author>
+            <name>Cieplak</name>
+            <uri>https://news.ycombinator.com/user?id=Cieplak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分层状态机简介(2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=31057431</id>
+        <link href="https://news.ycombinator.com/item?id=31057431"/>
+        <updated>2022-04-17T00:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Hierarchical State Machines (2016)]]></summary>
+        <author>
+            <name>Cieplak</name>
+            <uri>https://news.ycombinator.com/user?id=Cieplak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust制作一个RISC-V操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31057206</id>
+        <link href="https://news.ycombinator.com/item?id=31057206"/>
+        <updated>2022-04-17T00:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Making a RISC-V Operating System in Rust]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以不同的免费方式在网上获得公正、平衡和最多阅读的新闻]]></title>
         <id>https://news.ycombinator.com/item?id=31057748</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>timdaub</name>
             <uri>https://news.ycombinator.com/user?id=timdaub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费的《英雄无敌II》（Fheroes2）是《HoMM2》的复制品]]></title>
-        <id>https://news.ycombinator.com/item?id=31041146</id>
-        <link href="https://news.ycombinator.com/item?id=31041146"/>
-        <updated>2022-04-15T15:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Free Heroes of Might and Magic II (Fheroes2) Is a Recreation of HoMM2]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骗取蛋白质折叠软件]]></title>
-        <id>https://news.ycombinator.com/item?id=31041134</id>
-        <link href="https://news.ycombinator.com/item?id=31041134"/>
-        <updated>2022-04-15T15:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Fooling Protein Folding Software]]></summary>
-        <author>
-            <name>hprotagonist</name>
-            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国的错误之处]]></title>
-        <id>https://news.ycombinator.com/item?id=31041006</id>
-        <link href="https://news.ycombinator.com/item?id=31041006"/>
-        <updated>2022-04-15T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[What China Gets Wrong]]></summary>
-        <author>
-            <name>FatalLogic</name>
-            <uri>https://news.ycombinator.com/user?id=FatalLogic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克谈Twitter、特斯拉和未来--在TED2022现场]]></title>
-        <id>https://news.ycombinator.com/item?id=31040997</id>
-        <link href="https://news.ycombinator.com/item?id=31040997"/>
-        <updated>2022-04-15T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk talks Twitter, Tesla and the future – live at TED2022]]></summary>
-        <author>
-            <name>mlindner</name>
-            <uri>https://news.ycombinator.com/user?id=mlindner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达莫克和贾拉德在坦格拉]]></title>
-        <id>https://news.ycombinator.com/item?id=31040819</id>
-        <link href="https://news.ycombinator.com/item?id=31040819"/>
-        <updated>2022-04-15T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Darmok and Jalad at Tanagra]]></summary>
-        <author>
-            <name>swills</name>
-            <uri>https://news.ycombinator.com/user?id=swills</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新的Python 3.9/3.8图像破坏编码]]></title>
-        <id>https://news.ycombinator.com/item?id=31040805</id>
-        <link href="https://news.ycombinator.com/item?id=31040805"/>
-        <updated>2022-04-15T14:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Latest Python 3.9/3.8 images break encoding]]></summary>
-        <author>
-            <name>ilpianista</name>
-            <uri>https://news.ycombinator.com/user?id=ilpianista</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帆船石之谜是如何被解开的]]></title>
-        <id>https://news.ycombinator.com/item?id=31040794</id>
-        <link href="https://news.ycombinator.com/item?id=31040794"/>
-        <updated>2022-04-15T14:41:08.000Z</updated>
-        <summary type="html"><![CDATA[How the mystery of sailing stones was solved]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦调查局对在马拉戈发现的 "机密材料 "进行调查的报告]]></title>
-        <id>https://news.ycombinator.com/item?id=31040681</id>
-        <link href="https://news.ycombinator.com/item?id=31040681"/>
-        <updated>2022-04-15T14:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Reports from an FBI investigation into 'classified material' found at Mar-a-Lago]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
         </author>
     </entry>
 </feed>
