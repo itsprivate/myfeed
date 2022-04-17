@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T08:37:05.599Z</updated>
+    <updated>2022-04-17T08:54:04.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年致股东的信]]></title>
+        <id>https://news.ycombinator.com/item?id=31059475</id>
+        <link href="https://news.ycombinator.com/item?id=31059475"/>
+        <updated>2022-04-17T08:41:24.000Z</updated>
+        <summary type="html"><![CDATA[2021 Letter to Shareholders]]></summary>
+        <author>
+            <name>JamesAdir</name>
+            <uri>https://news.ycombinator.com/user?id=JamesAdir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国的 "零库存 "政策是如何使上海失败的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31059472</id>
+        <link href="https://news.ycombinator.com/item?id=31059472"/>
+        <updated>2022-04-17T08:39:36.000Z</updated>
+        <summary type="html"><![CDATA[How China’s Zero Covid policy is failing Shanghai]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高超音速太空炮承诺从地面到轨道只需10分钟]]></title>
+        <id>https://news.ycombinator.com/item?id=31059424</id>
+        <link href="https://news.ycombinator.com/item?id=31059424"/>
+        <updated>2022-04-17T08:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Hypersonic space cannon promises 10 minutes from ground to orbit]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们升级了我们4TB的主要应用Postgres数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=31059401</id>
+        <link href="https://news.ycombinator.com/item?id=31059401"/>
+        <updated>2022-04-17T08:20:16.000Z</updated>
+        <summary type="html"><![CDATA[We upgraded our 4 TB main application Postgres database]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的心肌病患者会接受基因治疗吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31059280</id>
+        <link href="https://news.ycombinator.com/item?id=31059280"/>
+        <updated>2022-04-17T07:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Will our cardiomyopathy patients accept gene therapy?]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU Coreutils 9.1版发布]]></title>
         <id>https://news.ycombinator.com/item?id=31059391</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>chmaynard</name>
             <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司正在开发其Horizon Worlds元空间平台的网络版]]></title>
-        <id>https://news.ycombinator.com/item?id=31042204</id>
-        <link href="https://news.ycombinator.com/item?id=31042204"/>
-        <updated>2022-04-15T16:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Meta is developing a web version of its Horizon Worlds metaverse platform]]></summary>
-        <author>
-            <name>astlouis44</name>
-            <uri>https://news.ycombinator.com/user?id=astlouis44</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文本分析如何工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31042160</id>
-        <link href="https://news.ycombinator.com/item?id=31042160"/>
-        <updated>2022-04-15T16:29:03.000Z</updated>
-        <summary type="html"><![CDATA[How Text Analysis Works]]></summary>
-        <author>
-            <name>juancolamendy</name>
-            <uri>https://news.ycombinator.com/user?id=juancolamendy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐匿的狼]]></title>
-        <id>https://news.ycombinator.com/item?id=31042128</id>
-        <link href="https://news.ycombinator.com/item?id=31042128"/>
-        <updated>2022-04-15T16:26:26.000Z</updated>
-        <summary type="html"><![CDATA[The Wolf of Crypto]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EveryAuth：你的应用程序访问API的最简单方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31041761</id>
-        <link href="https://news.ycombinator.com/item?id=31041761"/>
-        <updated>2022-04-15T16:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EveryAuth: The Easiest Way for Your App to Access APIs]]></summary>
-        <author>
-            <name>chrismore</name>
-            <uri>https://news.ycombinator.com/user?id=chrismore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雇员不受欢迎的生日派对在诉讼后为其带来45万美元的收入]]></title>
-        <id>https://news.ycombinator.com/item?id=31042383</id>
-        <link href="https://news.ycombinator.com/item?id=31042383"/>
-        <updated>2022-04-15T16:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Employee’s unwanted birthday party nets him $450k after lawsuit]]></summary>
-        <author>
-            <name>sharkweek</name>
-            <uri>https://news.ycombinator.com/user?id=sharkweek</uri>
         </author>
     </entry>
 </feed>
