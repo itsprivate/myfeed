@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T20:13:34.949Z</updated>
+    <updated>2022-04-17T20:33:22.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作中的民主是不好的]]></title>
+        <id>https://news.ycombinator.com/item?id=31064059</id>
+        <link href="https://news.ycombinator.com/item?id=31064059"/>
+        <updated>2022-04-17T20:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Democracy at Work Is Bad]]></summary>
+        <author>
+            <name>bluefone</name>
+            <uri>https://news.ycombinator.com/user?id=bluefone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VHDL]]></title>
+        <id>https://news.ycombinator.com/item?id=31062946</id>
+        <link href="https://news.ycombinator.com/item?id=31062946"/>
+        <updated>2022-04-17T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[VHDL]]></summary>
+        <author>
+            <name>pvorb</name>
+            <uri>https://news.ycombinator.com/user?id=pvorb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web-ext。一个命令行工具，帮助建立、运行和测试Firefox网络扩展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31062720</id>
+        <link href="https://news.ycombinator.com/item?id=31062720"/>
+        <updated>2022-04-17T17:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Web-ext: A command line tool to help build, run, and test Firefox web extensions]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[牟赛：在几秒钟内识别歌曲]]></title>
         <id>https://news.ycombinator.com/item?id=31063850</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sarazzip</name>
             <uri>https://news.ycombinator.com/user?id=sarazzip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复活节是什么时候，为什么逾越节不总是重合？]]></title>
-        <id>https://news.ycombinator.com/item?id=31047220</id>
-        <link href="https://news.ycombinator.com/item?id=31047220"/>
-        <updated>2022-04-15T23:29:02.000Z</updated>
-        <summary type="html"><![CDATA[When Is Easter, and Why Doesn't Passover Always Overlap?]]></summary>
-        <author>
-            <name>aaronbrethorst</name>
-            <uri>https://news.ycombinator.com/user?id=aaronbrethorst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我讨厌每次支付发票时支付~3%的处理费，所以我这样做了]]></title>
-        <id>https://news.ycombinator.com/item?id=31047217</id>
-        <link href="https://news.ycombinator.com/item?id=31047217"/>
-        <updated>2022-04-15T23:28:25.000Z</updated>
-        <summary type="html"><![CDATA[I hate paying ~3% processing fees every time my invoice gets paid, so I did this]]></summary>
-        <author>
-            <name>sssaini</name>
-            <uri>https://news.ycombinator.com/user?id=sssaini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两个版本的手推车问题在各地引起了类似的反应]]></title>
-        <id>https://news.ycombinator.com/item?id=31046976</id>
-        <link href="https://news.ycombinator.com/item?id=31046976"/>
-        <updated>2022-04-15T22:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Two versions of the trolley problem elicit similar responses everywhere]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
         </author>
     </entry>
 </feed>
