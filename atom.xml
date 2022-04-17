@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T17:22:17.516Z</updated>
+    <updated>2022-04-17T17:40:59.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我小时候攒的钱今天可以买一皮克的黄金了]]></title>
+        <id>https://news.ycombinator.com/item?id=31062465</id>
+        <link href="https://news.ycombinator.com/item?id=31062465"/>
+        <updated>2022-04-17T17:20:33.000Z</updated>
+        <summary type="html"><![CDATA[The money I saved as a child would buy one picogram of gold today]]></summary>
+        <author>
+            <name>diego</name>
+            <uri>https://news.ycombinator.com/user?id=diego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰人利用VKontakte市场平台向俄罗斯人通报战争情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31062450</id>
+        <link href="https://news.ycombinator.com/item?id=31062450"/>
+        <updated>2022-04-17T17:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainians use VKontakte marketplaces to inform Russians about the war]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决Covid导致的儿童识字率下降问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31062240</id>
+        <link href="https://news.ycombinator.com/item?id=31062240"/>
+        <updated>2022-04-17T16:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Addressing the Covid-Caused Decline in Child Literacy]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShell的Grep（Select-String）足够强大]]></title>
+        <id>https://news.ycombinator.com/item?id=31062215</id>
+        <link href="https://news.ycombinator.com/item?id=31062215"/>
+        <updated>2022-04-17T16:50:25.000Z</updated>
+        <summary type="html"><![CDATA[PowerShell's Grep (Select-String) Is Powerful Enough]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过偷窃为二元分形添加颜色]]></title>
         <id>https://news.ycombinator.com/item?id=31062304</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pigtailgirl</name>
             <uri>https://news.ycombinator.com/user?id=pigtailgirl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强化学习, 最佳控制: 书籍，视频讲座，和课程材料]]></title>
-        <id>https://news.ycombinator.com/item?id=31045379</id>
-        <link href="https://news.ycombinator.com/item?id=31045379"/>
-        <updated>2022-04-15T20:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Reinforcement Learning, Optimal Control: Books, Videolectures, & CourseMaterial]]></summary>
-        <author>
-            <name>malshe</name>
-            <uri>https://news.ycombinator.com/user?id=malshe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo的隐私滥用 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=31046166</id>
-        <link href="https://news.ycombinator.com/item?id=31046166"/>
-        <updated>2022-04-15T21:35:46.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo's Privacy Abuses (2020)]]></summary>
-        <author>
-            <name>t0bia_s</name>
-            <uri>https://news.ycombinator.com/user?id=t0bia_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧金山是否已失去其作为世界科技之都的地位？]]></title>
-        <id>https://news.ycombinator.com/item?id=31046055</id>
-        <link href="https://news.ycombinator.com/item?id=31046055"/>
-        <updated>2022-04-15T21:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Has San Francisco lost its spot as the world’s tech capital?]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python从文本中生成图像，如DALLE]]></title>
-        <id>https://news.ycombinator.com/item?id=31046050</id>
-        <link href="https://news.ycombinator.com/item?id=31046050"/>
-        <updated>2022-04-15T21:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Python generate images from text like DALLE]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
         </author>
     </entry>
 </feed>
