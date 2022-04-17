@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T05:12:00.366Z</updated>
+    <updated>2022-04-17T05:30:03.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Telegram机器人的网络应用]]></title>
+        <id>https://news.ycombinator.com/item?id=31058673</id>
+        <link href="https://news.ycombinator.com/item?id=31058673"/>
+        <updated>2022-04-17T05:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Web Apps for Telegram Bots]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们记住了音乐而忘记了其他的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=31058573</id>
+        <link href="https://news.ycombinator.com/item?id=31058573"/>
+        <updated>2022-04-17T04:45:44.000Z</updated>
+        <summary type="html"><![CDATA[We Remember Music and Forget Everything Else]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在过去的50年里，你吃的鸡肉体积增加了364%。]]></title>
         <id>https://news.ycombinator.com/item?id=31058636</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员利用红外光从远处控制大脑电路]]></title>
-        <id>https://news.ycombinator.com/item?id=31041612</id>
-        <link href="https://news.ycombinator.com/item?id=31041612"/>
-        <updated>2022-04-15T15:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Researchers control brain circuits from a distance using infrared light]]></summary>
-        <author>
-            <name>Amorymeltzer</name>
-            <uri>https://news.ycombinator.com/user?id=Amorymeltzer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家说，太阳能现在可以储存长达18年之久]]></title>
-        <id>https://news.ycombinator.com/item?id=31041394</id>
-        <link href="https://news.ycombinator.com/item?id=31041394"/>
-        <updated>2022-04-15T15:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Solar energy can now be stored for up to 18 years, say scientists]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
         </author>
     </entry>
 </feed>
