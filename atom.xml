@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T07:30:47.311Z</updated>
+    <updated>2022-04-17T07:51:28.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究为文明的起源提供了新的启示]]></title>
+        <id>https://news.ycombinator.com/item?id=31058577</id>
+        <link href="https://news.ycombinator.com/item?id=31058577"/>
+        <updated>2022-04-17T04:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Study sheds new light on the origin of civilization]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go比Rust快？Go vs. Rust vs. TypeScript服务器（作为一个科学家）。]]></title>
         <id>https://news.ycombinator.com/item?id=31059011</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ethanpil</name>
             <uri>https://news.ycombinator.com/user?id=ethanpil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给予战争一个机会]]></title>
-        <id>https://news.ycombinator.com/item?id=31042023</id>
-        <link href="https://news.ycombinator.com/item?id=31042023"/>
-        <updated>2022-04-15T16:20:11.000Z</updated>
-        <summary type="html"><![CDATA[Give War a Chance]]></summary>
-        <author>
-            <name>andrenth</name>
-            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
         </author>
     </entry>
 </feed>
