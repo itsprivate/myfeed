@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T09:42:20.014Z</updated>
+    <updated>2022-04-17T10:14:22.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為無服務器應用程序建立一個Cypress測試基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=31059758</id>
+        <link href="https://news.ycombinator.com/item?id=31059758"/>
+        <updated>2022-04-17T10:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Build a Cypress tests infrastructure for serverless applications]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增加郵戳的容量。一個關於管道的寓言]]></title>
+        <id>https://news.ycombinator.com/item?id=31059748</id>
+        <link href="https://news.ycombinator.com/item?id=31059748"/>
+        <updated>2022-04-17T09:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Increasing Postmark's capacity: A parable of pipes]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用GitHub Actions和GitHub OIDC for AWS建立Terraform管道]]></title>
+        <id>https://news.ycombinator.com/item?id=31059732</id>
+        <link href="https://news.ycombinator.com/item?id=31059732"/>
+        <updated>2022-04-17T09:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Set Up a Terraform Pipeline with GitHub Actions and GitHub OIDC for AWS]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子游戲。建立一個量子計算機，一次一個量子比特]]></title>
+        <id>https://news.ycombinator.com/item?id=31059299</id>
+        <link href="https://news.ycombinator.com/item?id=31059299"/>
+        <updated>2022-04-17T07:57:01.000Z</updated>
+        <summary type="html"><![CDATA[The Qubit Game: Build a quantum computer, one qubit at a time]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數百萬美國工人被認為將無限期地離開勞動力市場]]></title>
+        <id>https://news.ycombinator.com/item?id=31059285</id>
+        <link href="https://news.ycombinator.com/item?id=31059285"/>
+        <updated>2022-04-17T07:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Several Million U.S. Workers Seen Staying Out of Labor Force Indefinitely]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼有些蛋黃是橙色的？]]></title>
         <id>https://news.ycombinator.com/item?id=31059524</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>thinkingemote</name>
             <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托馬-布拉沃考慮競標Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=31042524</id>
-        <link href="https://news.ycombinator.com/item?id=31042524"/>
-        <updated>2022-04-15T16:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Thoma Bravo considers Twitter bid]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們經常看到的銀行網絡安全錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=31042503</id>
-        <link href="https://news.ycombinator.com/item?id=31042503"/>
-        <updated>2022-04-15T16:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Banking cybersecurity mistakes we see way too often]]></summary>
-        <author>
-            <name>LarRosh</name>
-            <uri>https://news.ycombinator.com/user?id=LarRosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特用戰略反擊馬斯克的收購，迫使其進行談判]]></title>
-        <id>https://news.ycombinator.com/item?id=31042486</id>
-        <link href="https://news.ycombinator.com/item?id=31042486"/>
-        <updated>2022-04-15T16:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Twitter Counters a Musk Takeover with Strategy to Force a Negotiation]]></summary>
-        <author>
-            <name>arunbahl</name>
-            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡利法案--吊銷宣傳Covid-19虛假信息的醫生的執照]]></title>
-        <id>https://news.ycombinator.com/item?id=31042447</id>
-        <link href="https://news.ycombinator.com/item?id=31042447"/>
-        <updated>2022-04-15T16:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Cali bill – revoke license of physicians who promote Covid-19 disinformation]]></summary>
-        <author>
-            <name>SQL2219</name>
-            <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辦公室已開放，酒水在流淌]]></title>
-        <id>https://news.ycombinator.com/item?id=31042437</id>
-        <link href="https://news.ycombinator.com/item?id=31042437"/>
-        <updated>2022-04-15T16:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Office Is Open and the Liquor Is Flowing]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
         </author>
     </entry>
 </feed>
