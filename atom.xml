@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T16:47:15.893Z</updated>
+    <updated>2022-04-17T17:04:01.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[类似于DX7的Dexed调频合成器在裸机Raspberry Pi上运行]]></title>
+        <id>https://news.ycombinator.com/item?id=31062237</id>
+        <link href="https://news.ycombinator.com/item?id=31062237"/>
+        <updated>2022-04-17T16:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技股的抛售蔓延至私营初创企业]]></title>
+        <id>https://news.ycombinator.com/item?id=31062227</id>
+        <link href="https://news.ycombinator.com/item?id=31062227"/>
+        <updated>2022-04-17T16:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Sell-off in tech stocks spreads to private startups]]></summary>
+        <author>
+            <name>koolhead17</name>
+            <uri>https://news.ycombinator.com/user?id=koolhead17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTAP - 一个用于开发和执行测试的开源项目]]></title>
+        <id>https://news.ycombinator.com/item?id=31062208</id>
+        <link href="https://news.ycombinator.com/item?id=31062208"/>
+        <updated>2022-04-17T16:49:33.000Z</updated>
+        <summary type="html"><![CDATA[OpenTAP – an Open Source project for development and execution of tests]]></summary>
+        <author>
+            <name>markhollis</name>
+            <uri>https://news.ycombinator.com/user?id=markhollis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: ADL要求不合格的查询已经找到了一个函数]]></title>
+        <id>https://news.ycombinator.com/item?id=31062001</id>
+        <link href="https://news.ycombinator.com/item?id=31062001"/>
+        <updated>2022-04-17T16:26:05.000Z</updated>
+        <summary type="html"><![CDATA[PSA: ADL requires that unqualified lookup has found a function]]></summary>
+        <author>
+            <name>nickysielicki</name>
+            <uri>https://news.ycombinator.com/user?id=nickysielicki</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据化 - 开发人员的数据集成开发环境（控制台访谈）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31061442</id>
+        <link href="https://news.ycombinator.com/item?id=31061442"/>
+        <updated>2022-04-17T15:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Datastation – The Data IDE for Developers (Console Interview)]]></summary>
+        <author>
+            <name>mmmmkay</name>
+            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是埃隆的世界]]></title>
         <id>https://news.ycombinator.com/item?id=31062126</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>boling11</name>
             <uri>https://news.ycombinator.com/user?id=boling11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有争议的角落限制了对西部11个州830英亩土地的访问]]></title>
-        <id>https://news.ycombinator.com/item?id=31045962</id>
-        <link href="https://news.ycombinator.com/item?id=31045962"/>
-        <updated>2022-04-15T21:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Controversial Corners Restrict Access to 8.3M Acres in 11 Western States]]></summary>
-        <author>
-            <name>groggo</name>
-            <uri>https://news.ycombinator.com/user?id=groggo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌扼杀免费的Gsuite账户之前，为什么不提供一个家庭电子邮件计划呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=31045950</id>
-        <link href="https://news.ycombinator.com/item?id=31045950"/>
-        <updated>2022-04-15T21:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Before Google kills free Gsuite accounts, why not offer a family email plan?]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究有助于解释黄原胶在肠道中的处理方式]]></title>
-        <id>https://news.ycombinator.com/item?id=31045909</id>
-        <link href="https://news.ycombinator.com/item?id=31045909"/>
-        <updated>2022-04-15T21:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Study helps explain how xanthan gum is processed in the gut]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理22万亿美元资产的AI软件]]></title>
-        <id>https://news.ycombinator.com/item?id=31045879</id>
-        <link href="https://news.ycombinator.com/item?id=31045879"/>
-        <updated>2022-04-15T21:10:54.000Z</updated>
-        <summary type="html"><![CDATA[AI Software that manages 22 trillion $ in assets]]></summary>
-        <author>
-            <name>kalmuraee</name>
-            <uri>https://news.ycombinator.com/user?id=kalmuraee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个完整的订阅管理系统可在骨架模板上使用]]></title>
-        <id>https://news.ycombinator.com/item?id=31045857</id>
-        <link href="https://news.ycombinator.com/item?id=31045857"/>
-        <updated>2022-04-15T21:09:04.000Z</updated>
-        <summary type="html"><![CDATA[A full subscription management system is available on the Skeleton boilerplate]]></summary>
-        <author>
-            <name>gadelkareem</name>
-            <uri>https://news.ycombinator.com/user?id=gadelkareem</uri>
         </author>
     </entry>
 </feed>
