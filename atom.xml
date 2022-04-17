@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T20:43:17.965Z</updated>
+    <updated>2022-04-17T20:51:45.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个适用于WinBox的React组件，一个适用于React的虚拟窗口管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=31064159</id>
+        <link href="https://news.ycombinator.com/item?id=31064159"/>
+        <updated>2022-04-17T20:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A React component for WinBox, A virtual window manager for React]]></summary>
+        <author>
+            <name>Coffee63</name>
+            <uri>https://news.ycombinator.com/user?id=Coffee63</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么GIMP仍然如此糟糕？]]></title>
+        <id>https://news.ycombinator.com/item?id=31063953</id>
+        <link href="https://news.ycombinator.com/item?id=31063953"/>
+        <updated>2022-04-17T20:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Why is GIMP still so bad?]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢性疲劳综合征的非改善性：提升、麻烦、自律神经失调]]></title>
+        <id>https://news.ycombinator.com/item?id=31063860</id>
+        <link href="https://news.ycombinator.com/item?id=31063860"/>
+        <updated>2022-04-17T19:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Non-improvement in chronic fatigue syndrome: uplifts, hassles, autonomic dysfunc]]></summary>
+        <author>
+            <name>cpncrunch</name>
+            <uri>https://news.ycombinator.com/user?id=cpncrunch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deel - 在你的待办事项上寻求报价并将其转化为报价的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31063459</id>
+        <link href="https://news.ycombinator.com/item?id=31063459"/>
+        <updated>2022-04-17T19:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Deel – App to seek offers on your to-dos and turn them into offers]]></summary>
+        <author>
+            <name>heinsaar</name>
+            <uri>https://news.ycombinator.com/user?id=heinsaar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子邮件机器人递送DNS更新]]></title>
         <id>https://news.ycombinator.com/item?id=31064155</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔在酷睿系列处理器上弃用SGX]]></title>
-        <id>https://news.ycombinator.com/item?id=31047888</id>
-        <link href="https://news.ycombinator.com/item?id=31047888"/>
-        <updated>2022-04-16T00:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Intel deprecates SGX on Core series processors]]></summary>
-        <author>
-            <name>thinkmassive</name>
-            <uri>https://news.ycombinator.com/user?id=thinkmassive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧的（1994年）IRC服务器列表--还有多少个？]]></title>
-        <id>https://news.ycombinator.com/item?id=31047860</id>
-        <link href="https://news.ycombinator.com/item?id=31047860"/>
-        <updated>2022-04-16T00:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Old (1994) List of IRC Servers – How many remain?]]></summary>
-        <author>
-            <name>tldrthelaw</name>
-            <uri>https://news.ycombinator.com/user?id=tldrthelaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有数学的宇宙是我们无法想象的。]]></title>
-        <id>https://news.ycombinator.com/item?id=31047822</id>
-        <link href="https://news.ycombinator.com/item?id=31047822"/>
-        <updated>2022-04-16T00:44:45.000Z</updated>
-        <summary type="html"><![CDATA[A universe without mathematics is beyond the scope of our imagination]]></summary>
-        <author>
-            <name>happy-go-lucky</name>
-            <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塑造互联网的法律为埃隆-马斯克提出了一个问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31047755</id>
-        <link href="https://news.ycombinator.com/item?id=31047755"/>
-        <updated>2022-04-16T00:37:03.000Z</updated>
-        <summary type="html"><![CDATA[The Law That Shaped the Internet Presents a Question for Elon Musk]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
