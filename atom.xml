@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T08:54:04.993Z</updated>
+    <updated>2022-04-17T09:12:53.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个扩展，以禁止从stackoverflow复制]]></title>
+        <id>https://news.ycombinator.com/item?id=31059549</id>
+        <link href="https://news.ycombinator.com/item?id=31059549"/>
+        <updated>2022-04-17T09:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an extension to disable copying from stackoverflow]]></summary>
+        <author>
+            <name>pankajtanwar</name>
+            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰正在扫描死去的俄罗斯人的脸，然后与母亲联系]]></title>
+        <id>https://news.ycombinator.com/item?id=31058632</id>
+        <link href="https://news.ycombinator.com/item?id=31058632"/>
+        <updated>2022-04-17T04:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine is scanning faces of dead Russians, then contacting the mothers]]></summary>
+        <author>
+            <name>blahedo</name>
+            <uri>https://news.ycombinator.com/user?id=blahedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年致股东的信]]></title>
         <id>https://news.ycombinator.com/item?id=31059475</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器中的单一图像转为3D]]></title>
-        <id>https://news.ycombinator.com/item?id=31042306</id>
-        <link href="https://news.ycombinator.com/item?id=31042306"/>
-        <updated>2022-04-15T16:38:30.000Z</updated>
-        <summary type="html"><![CDATA[Single Image to 3D in the Browser]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位医生解释了Covid-19是如何使嗅觉失灵的]]></title>
-        <id>https://news.ycombinator.com/item?id=31042257</id>
-        <link href="https://news.ycombinator.com/item?id=31042257"/>
-        <updated>2022-04-15T16:35:44.000Z</updated>
-        <summary type="html"><![CDATA[A physician explains how Covid-19 mutes sense of smell]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>
