@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T10:14:22.534Z</updated>
+    <updated>2022-04-17T10:34:31.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[遠程工作的喬爾測試]]></title>
+        <id>https://news.ycombinator.com/item?id=31059770</id>
+        <link href="https://news.ycombinator.com/item?id=31059770"/>
+        <updated>2022-04-17T10:03:31.000Z</updated>
+        <summary type="html"><![CDATA[The Joel test for remote work]]></summary>
+        <author>
+            <name>fidrelity</name>
+            <uri>https://news.ycombinator.com/user?id=fidrelity</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為無服務器應用程序建立一個Cypress測試基礎設施]]></title>
         <id>https://news.ycombinator.com/item?id=31059758</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ali92hm</name>
             <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肩部嚴重受傷的內出血導致耶穌基督的死亡]]></title>
-        <id>https://news.ycombinator.com/item?id=31042525</id>
-        <link href="https://news.ycombinator.com/item?id=31042525"/>
-        <updated>2022-04-15T16:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Internal bleeding from severe shoulder injury caused death of Jesus Christ]]></summary>
-        <author>
-            <name>thinkingemote</name>
-            <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
         </author>
     </entry>
 </feed>
