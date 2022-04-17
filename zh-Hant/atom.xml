@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T06:57:31.916Z</updated>
+    <updated>2022-04-17T07:12:12.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家通過教兩隻猴子玩 "吃豆人 "學到了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31058598</id>
+        <link href="https://news.ycombinator.com/item?id=31058598"/>
+        <updated>2022-04-17T04:50:32.000Z</updated>
+        <summary type="html"><![CDATA[What scientists learned by teaching two monkeys to play Pac-Man]]></summary>
+        <author>
+            <name>tellarin</name>
+            <uri>https://news.ycombinator.com/user?id=tellarin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome正在嘗試使用Qt後端]]></title>
         <id>https://news.ycombinator.com/item?id=31058972</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chaosmachine</name>
             <uri>https://news.ycombinator.com/user?id=chaosmachine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對機器人的適應性：檢查你工作的自動化風險]]></title>
-        <id>https://news.ycombinator.com/item?id=31041849</id>
-        <link href="https://news.ycombinator.com/item?id=31041849"/>
-        <updated>2022-04-15T16:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Resilience To Robots: check the automation risk of your job]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
