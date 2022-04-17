@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T09:12:53.373Z</updated>
+    <updated>2022-04-17T09:42:20.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼有些蛋黃是橙色的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31059524</id>
+        <link href="https://news.ycombinator.com/item?id=31059524"/>
+        <updated>2022-04-17T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Are Some Egg Yolks So Orange?]]></summary>
+        <author>
+            <name>azizsaya</name>
+            <uri>https://news.ycombinator.com/user?id=azizsaya</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微生物是回收的未來嗎？這很複雜]]></title>
+        <id>https://news.ycombinator.com/item?id=31059416</id>
+        <link href="https://news.ycombinator.com/item?id=31059416"/>
+        <updated>2022-04-17T08:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Are microbes the future of recycling? It’s complicated]]></summary>
+        <author>
+            <name>thread_id</name>
+            <uri>https://news.ycombinator.com/user?id=thread_id</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個擴展，以禁止從stackoverflow複製]]></title>
         <id>https://news.ycombinator.com/item?id=31059549</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>blopeur</name>
             <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟最熱門的新產品是 - - - 炒鍋]]></title>
-        <id>https://news.ycombinator.com/item?id=31042377</id>
-        <link href="https://news.ycombinator.com/item?id=31042377"/>
-        <updated>2022-04-15T16:42:39.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s hottest new product is – – – a wok]]></summary>
-        <author>
-            <name>doppp</name>
-            <uri>https://news.ycombinator.com/user?id=doppp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我從AudioEye那裡得到的終止和停止聲明]]></title>
-        <id>https://news.ycombinator.com/item?id=31042332</id>
-        <link href="https://news.ycombinator.com/item?id=31042332"/>
-        <updated>2022-04-15T16:40:22.000Z</updated>
-        <summary type="html"><![CDATA[My Cease and Desist from AudioEye]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
         </author>
     </entry>
 </feed>
