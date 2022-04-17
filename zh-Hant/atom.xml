@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T11:37:14.083Z</updated>
+    <updated>2022-04-17T11:51:32.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[半導體平均交貨時間突破半年大關]]></title>
+        <id>https://news.ycombinator.com/item?id=31060122</id>
+        <link href="https://news.ycombinator.com/item?id=31060122"/>
+        <updated>2022-04-17T11:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Semiconductor average lead time breaks half-year barrier]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[底特律10萬房主被非法徵稅6億美元仍在等待賠償]]></title>
+        <id>https://news.ycombinator.com/item?id=31060043</id>
+        <link href="https://news.ycombinator.com/item?id=31060043"/>
+        <updated>2022-04-17T11:13:48.000Z</updated>
+        <summary type="html"><![CDATA[100,000 Detroit homeowners illegally taxed $600M still waiting to be compensated]]></summary>
+        <author>
+            <name>dataflow</name>
+            <uri>https://news.ycombinator.com/user?id=dataflow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泰坦尼克號的不沉的斯托克 (2012)]]></title>
         <id>https://news.ycombinator.com/item?id=31060042</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>verisimi</name>
             <uri>https://news.ycombinator.com/user?id=verisimi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尺寸問題。節日海報的政治內幕]]></title>
-        <id>https://news.ycombinator.com/item?id=31043336</id>
-        <link href="https://news.ycombinator.com/item?id=31043336"/>
-        <updated>2022-04-15T17:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Size Matters: Inside the Politics of Festival Posters]]></summary>
-        <author>
-            <name>onychomys</name>
-            <uri>https://news.ycombinator.com/user?id=onychomys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫奈羅持有者計劃擠兌銀行]]></title>
-        <id>https://news.ycombinator.com/item?id=31043286</id>
-        <link href="https://news.ycombinator.com/item?id=31043286"/>
-        <updated>2022-04-15T17:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Monero Holders Plan a Bank Run]]></summary>
-        <author>
-            <name>bb88</name>
-            <uri>https://news.ycombinator.com/user?id=bb88</uri>
         </author>
     </entry>
 </feed>
