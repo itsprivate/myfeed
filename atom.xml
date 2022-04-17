@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T14:12:13.285Z</updated>
+    <updated>2022-04-17T14:29:48.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用第三方鼠标滚动在MacOS上看起来很糟糕]]></title>
+        <id>https://news.ycombinator.com/item?id=31060990</id>
+        <link href="https://news.ycombinator.com/item?id=31060990"/>
+        <updated>2022-04-17T14:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Scrolling with a third-party mouse looks horrible on macOS]]></summary>
+        <author>
+            <name>xqcgrek2</name>
+            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交媒体让我们变得愚蠢]]></title>
+        <id>https://news.ycombinator.com/item?id=31060917</id>
+        <link href="https://news.ycombinator.com/item?id=31060917"/>
+        <updated>2022-04-17T14:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Social Media is Making us Stupid]]></summary>
+        <author>
+            <name>bonkerbits</name>
+            <uri>https://news.ycombinator.com/user?id=bonkerbits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contra Chrome]]></title>
+        <id>https://news.ycombinator.com/item?id=31060628</id>
+        <link href="https://news.ycombinator.com/item?id=31060628"/>
+        <updated>2022-04-17T13:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Contra Chrome]]></summary>
+        <author>
+            <name>teddyh</name>
+            <uri>https://news.ycombinator.com/user?id=teddyh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数字音频发行没有补丁]]></title>
         <id>https://news.ycombinator.com/item?id=31060640</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国的核反应堆的发电量是所有天然气工厂的80%。]]></title>
-        <id>https://news.ycombinator.com/item?id=31044230</id>
-        <link href="https://news.ycombinator.com/item?id=31044230"/>
-        <updated>2022-04-15T18:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear reactors in Germany generated 80% as much power as all the gas plants]]></summary>
-        <author>
-            <name>valkrieco</name>
-            <uri>https://news.ycombinator.com/user?id=valkrieco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操作保真度超过99%的双量子比特硅量子处理器]]></title>
-        <id>https://news.ycombinator.com/item?id=31044211</id>
-        <link href="https://news.ycombinator.com/item?id=31044211"/>
-        <updated>2022-04-15T18:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Two-qubit silicon quantum processor with operation fidelity exceeding 99%]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 "零排放愿景 "会碰壁？]]></title>
-        <id>https://news.ycombinator.com/item?id=31044130</id>
-        <link href="https://news.ycombinator.com/item?id=31044130"/>
-        <updated>2022-04-15T18:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Why ‘Vision Zero’ Hit a Wall]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
