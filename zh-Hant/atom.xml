@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T22:12:15.474Z</updated>
+    <updated>2022-04-17T22:32:30.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每年授予的大多數美國專利]]></title>
+        <id>https://news.ycombinator.com/item?id=31064950</id>
+        <link href="https://news.ycombinator.com/item?id=31064950"/>
+        <updated>2022-04-17T22:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Most U.S. patents granted each year]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜劇演員做了個賣昂貴的二手紙巾的假公司，結果走紅網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=31064812</id>
+        <link href="https://news.ycombinator.com/item?id=31064812"/>
+        <updated>2022-04-17T21:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Comedian made a fake company selling expensive used tissue and it went viral]]></summary>
+        <author>
+            <name>heavyset_go</name>
+            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在機器學習模型中植入不可察覺的後門]]></title>
+        <id>https://news.ycombinator.com/item?id=31064787</id>
+        <link href="https://news.ycombinator.com/item?id=31064787"/>
+        <updated>2022-04-17T21:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Planting Undetectable Backdoors in Machine Learning Models]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年用OPML和XSLT在靜態生成的網站上寫博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31064299</id>
+        <link href="https://news.ycombinator.com/item?id=31064299"/>
+        <updated>2022-04-17T20:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Blogging on static generated sites with OPML and XSLT in 2022]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一個不賺錢的C公司的創始人，我應該給自己發工資嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31064803</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴基於Arm的128核CPU將使英特爾和AMD感到不寒而慄]]></title>
-        <id>https://news.ycombinator.com/item?id=31048757</id>
-        <link href="https://news.ycombinator.com/item?id=31048757"/>
-        <updated>2022-04-16T02:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba's Arm-based 128 core CPU will send a shiver down spines at Intel and AMD]]></summary>
-        <author>
-            <name>saqrais</name>
-            <uri>https://news.ycombinator.com/user?id=saqrais</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最令人討厭的表情符號，排名]]></title>
-        <id>https://news.ycombinator.com/item?id=31048228</id>
-        <link href="https://news.ycombinator.com/item?id=31048228"/>
-        <updated>2022-04-16T01:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Horniest Emoji, Ranked]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neptune Lang - 一種併發的快速動態類型的腳本語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31048752</id>
-        <link href="https://news.ycombinator.com/item?id=31048752"/>
-        <updated>2022-04-16T02:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Neptune Lang – A concurrent fast dynamically typed scripting language]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另一家大型航運公司拒絕出口西方的塑料垃圾]]></title>
-        <id>https://news.ycombinator.com/item?id=31048601</id>
-        <link href="https://news.ycombinator.com/item?id=31048601"/>
-        <updated>2022-04-16T02:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Another big shipping line is refusing to export the West’s plastic waste]]></summary>
-        <author>
-            <name>rguiscard</name>
-            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
         </author>
     </entry>
 </feed>
