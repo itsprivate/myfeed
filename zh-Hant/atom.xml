@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T14:38:11.551Z</updated>
+    <updated>2022-04-17T14:51:18.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大學的一位心理學家說他已經破解了一擊即中的密碼]]></title>
+        <id>https://news.ycombinator.com/item?id=31061134</id>
+        <link href="https://news.ycombinator.com/item?id=31061134"/>
+        <updated>2022-04-17T14:38:06.000Z</updated>
+        <summary type="html"><![CDATA[A Stanford Psychologist Says He’s Cracked the Code of One-Hit Wonders]]></summary>
+        <author>
+            <name>mrtedbear</name>
+            <uri>https://news.ycombinator.com/user?id=mrtedbear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查理的日記。我為什麼討厭星際迷航 (2009)]]></title>
         <id>https://news.ycombinator.com/item?id=31061034</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛大學為何對其最好的黑人教授之一下手？]]></title>
-        <id>https://news.ycombinator.com/item?id=31044467</id>
-        <link href="https://news.ycombinator.com/item?id=31044467"/>
-        <updated>2022-04-15T19:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Did Harvard University Go After One of Its Best Black Professors?]]></summary>
-        <author>
-            <name>thereare5lights</name>
-            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
         </author>
     </entry>
 </feed>
