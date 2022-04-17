@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T22:32:30.178Z</updated>
+    <updated>2022-04-17T22:42:41.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于以太坊的稳定币协议Beanstalk因被利用而损失约1.82亿美元]]></title>
+        <id>https://news.ycombinator.com/item?id=31065068</id>
+        <link href="https://news.ycombinator.com/item?id=31065068"/>
+        <updated>2022-04-17T22:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum-based stablecoin protocol Beanstalk loses about $182M to exploit]]></summary>
+        <author>
+            <name>gennarro</name>
+            <uri>https://news.ycombinator.com/user?id=gennarro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习培训的碳足迹将趋于平稳，然后缩减]]></title>
+        <id>https://news.ycombinator.com/item?id=31064294</id>
+        <link href="https://news.ycombinator.com/item?id=31064294"/>
+        <updated>2022-04-17T20:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每年授予的大多数美国专利]]></title>
         <id>https://news.ycombinator.com/item?id=31064950</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>YeGoblynQueenne</name>
             <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何创建一个新的 Debian 端口]]></title>
-        <id>https://news.ycombinator.com/item?id=31049212</id>
-        <link href="https://news.ycombinator.com/item?id=31049212"/>
-        <updated>2022-04-16T03:39:16.000Z</updated>
-        <summary type="html"><![CDATA[How to create a new Debian port]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约公共图书馆免费提供被禁书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=31049085</id>
-        <link href="https://news.ycombinator.com/item?id=31049085"/>
-        <updated>2022-04-16T03:17:50.000Z</updated>
-        <summary type="html"><![CDATA[New York Public Library makes banned books available for free]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
