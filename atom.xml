@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T19:52:04.938Z</updated>
+    <updated>2022-04-17T20:13:34.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[牟赛：在几秒钟内识别歌曲]]></title>
+        <id>https://news.ycombinator.com/item?id=31063850</id>
+        <link href="https://news.ycombinator.com/item?id=31063850"/>
+        <updated>2022-04-17T19:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Mousai: Identify Songs in Seconds]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中情局的重磅炸弹。苏斯曼的数据是 "用户创造 "的]]></title>
+        <id>https://news.ycombinator.com/item?id=31063832</id>
+        <link href="https://news.ycombinator.com/item?id=31063832"/>
+        <updated>2022-04-17T19:52:25.000Z</updated>
+        <summary type="html"><![CDATA[CIA Bombshell: The Sussmann data was “user created”]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星舰机器人调查购物中心与儿童相撞事件]]></title>
+        <id>https://news.ycombinator.com/item?id=31063554</id>
+        <link href="https://news.ycombinator.com/item?id=31063554"/>
+        <updated>2022-04-17T19:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Starship robots investigate shopping centre collision with a child]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国家航空航天局（NASA）在加油尝试失败后将阿特米斯1号月球火箭推出发射台]]></title>
+        <id>https://news.ycombinator.com/item?id=31063533</id>
+        <link href="https://news.ycombinator.com/item?id=31063533"/>
+        <updated>2022-04-17T19:25:00.000Z</updated>
+        <summary type="html"><![CDATA[NASA to roll Artemis 1 moon rocket off the launch pad after failed fueling tries]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫苗比不上长效科威德。治疗它是科学的下一个挑战。]]></title>
+        <id>https://news.ycombinator.com/item?id=31063509</id>
+        <link href="https://news.ycombinator.com/item?id=31063509"/>
+        <updated>2022-04-17T19:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Vaccines are no match for long Covid. Treating it is science’s next challange]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[螃蟹之血 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=31063441</id>
+        <link href="https://news.ycombinator.com/item?id=31063441"/>
+        <updated>2022-04-17T19:15:08.000Z</updated>
+        <summary type="html"><![CDATA[The Blood of the Crab (2019)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免疫系统的杀手T细胞摧毁卵巢癌细胞的视频]]></title>
+        <id>https://news.ycombinator.com/item?id=31063331</id>
+        <link href="https://news.ycombinator.com/item?id=31063331"/>
+        <updated>2022-04-17T19:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Video of a killer T cell of the immune system destroying an ovarian cancer cell]]></summary>
+        <author>
+            <name>kristianpaul</name>
+            <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感染Covid-19前一个月的健康行为，发展长Covid]]></title>
         <id>https://news.ycombinator.com/item?id=31063758</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>WithinReason</name>
             <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对kernel.org的透明度日志进行为期一年的监测]]></title>
-        <id>https://news.ycombinator.com/item?id=31047588</id>
-        <link href="https://news.ycombinator.com/item?id=31047588"/>
-        <updated>2022-04-16T00:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring the kernel.org Transparency Log for a year]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯警告美国，如果它向乌克兰运送更多的武器，将会产生影响]]></title>
-        <id>https://news.ycombinator.com/item?id=31047536</id>
-        <link href="https://news.ycombinator.com/item?id=31047536"/>
-        <updated>2022-04-16T00:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Russia warns US of repercussions if it sends more arms to Ukraine]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝莱德将在筹集到4亿美元后管理美联储的500亿美元储备金]]></title>
-        <id>https://news.ycombinator.com/item?id=31047462</id>
-        <link href="https://news.ycombinator.com/item?id=31047462"/>
-        <updated>2022-04-15T23:56:41.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock Will Manage USDC's $50B Reserves Following $400M Raise]]></summary>
-        <author>
-            <name>opting</name>
-            <uri>https://news.ycombinator.com/user?id=opting</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷如何帮助普京和其他暴君赢得信息战争]]></title>
-        <id>https://news.ycombinator.com/item?id=31047441</id>
-        <link href="https://news.ycombinator.com/item?id=31047441"/>
-        <updated>2022-04-15T23:54:42.000Z</updated>
-        <summary type="html"><![CDATA[How Silicon Valley is helping Putin and other tyrants win the information war]]></summary>
-        <author>
-            <name>sampo</name>
-            <uri>https://news.ycombinator.com/user?id=sampo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更好的互联网系列。架构和开放标准]]></title>
-        <id>https://news.ycombinator.com/item?id=31047439</id>
-        <link href="https://news.ycombinator.com/item?id=31047439"/>
-        <updated>2022-04-15T23:54:34.000Z</updated>
-        <summary type="html"><![CDATA[Better Internet Series: Architecture and Open Standards]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样才能真正地雇用到优秀的开发人员]]></title>
-        <id>https://news.ycombinator.com/item?id=31047409</id>
-        <link href="https://news.ycombinator.com/item?id=31047409"/>
-        <updated>2022-04-15T23:51:19.000Z</updated>
-        <summary type="html"><![CDATA[How to Freaking Hire Great Developers]]></summary>
-        <author>
-            <name>ewag</name>
-            <uri>https://news.ycombinator.com/user?id=ewag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两名硅谷高管被指控犯有H-1B签证欺诈罪]]></title>
-        <id>https://news.ycombinator.com/item?id=31047295</id>
-        <link href="https://news.ycombinator.com/item?id=31047295"/>
-        <updated>2022-04-15T23:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Two Silicon Valley executives charged with H-1B visa fraud]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
