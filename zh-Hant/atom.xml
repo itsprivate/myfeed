@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T03:59:54.166Z</updated>
+    <updated>2022-04-17T04:13:52.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[修復所有《超級馬里奧64》的源代碼並提高性能]]></title>
+        <id>https://news.ycombinator.com/item?id=31058178</id>
+        <link href="https://news.ycombinator.com/item?id=31058178"/>
+        <updated>2022-04-17T03:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Fixing all Super Mario 64 source and improving performance]]></summary>
+        <author>
+            <name>bane</name>
+            <uri>https://news.ycombinator.com/user?id=bane</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贊成馬斯克收購Twitter的真正理由是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31057288</id>
+        <link href="https://news.ycombinator.com/item?id=31057288"/>
+        <updated>2022-04-17T00:20:46.000Z</updated>
+        <summary type="html"><![CDATA[What’s the real argument in favor of Musk buying Twitter?]]></summary>
+        <author>
+            <name>daveed</name>
+            <uri>https://news.ycombinator.com/user?id=daveed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國和俄羅斯就食品價格上漲的原因發生衝突]]></title>
         <id>https://news.ycombinator.com/item?id=31058183</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>freelanceinin</name>
             <uri>https://news.ycombinator.com/user?id=freelanceinin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司準備推出幾款採用下一代M2芯片的新Mac電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=31041317</id>
-        <link href="https://news.ycombinator.com/item?id=31041317"/>
-        <updated>2022-04-15T15:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Apple Readies Several New Macs with Next-Generation M2 Chips]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bubbletea在Go中快速構建交互式CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=31041311</id>
-        <link href="https://news.ycombinator.com/item?id=31041311"/>
-        <updated>2022-04-15T15:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Rapidly building interactive CLIs in Go with Bubbletea]]></summary>
-        <author>
-            <name>gojiberries</name>
-            <uri>https://news.ycombinator.com/user?id=gojiberries</uri>
         </author>
     </entry>
 </feed>
