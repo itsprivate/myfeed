@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-17T03:45:33.547Z</updated>
+    <updated>2022-04-17T03:59:54.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國和俄羅斯就食品價格上漲的原因發生衝突]]></title>
+        <id>https://news.ycombinator.com/item?id=31058183</id>
+        <link href="https://news.ycombinator.com/item?id=31058183"/>
+        <updated>2022-04-17T03:24:06.000Z</updated>
+        <summary type="html"><![CDATA[US and Russia clash over cause of food price rises]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌億萬富翁的指紋遍佈白宮科學辦公室]]></title>
+        <id>https://news.ycombinator.com/item?id=31058075</id>
+        <link href="https://news.ycombinator.com/item?id=31058075"/>
+        <updated>2022-04-17T02:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Google billionaire's fingerprints are all over White House science office]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豐田警告說不要倉促進入電氣化領域]]></title>
+        <id>https://news.ycombinator.com/item?id=31057793</id>
+        <link href="https://news.ycombinator.com/item?id=31057793"/>
+        <updated>2022-04-17T02:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Toyota Warns About Rushing into Electrification]]></summary>
+        <author>
+            <name>RickJWagner</name>
+            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修復火狐瀏覽器中的書籤文件]]></title>
+        <id>https://news.ycombinator.com/item?id=31057635</id>
+        <link href="https://news.ycombinator.com/item?id=31057635"/>
+        <updated>2022-04-17T01:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fix for the Bookmark Files from Firefox]]></summary>
+        <author>
+            <name>gform</name>
+            <uri>https://news.ycombinator.com/user?id=gform</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Python中使用NumPy Vectorization進行實時彩色ASCII渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=31057322</id>
+        <link href="https://news.ycombinator.com/item?id=31057322"/>
+        <updated>2022-04-17T00:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Real Time Color ASCII Rendering in Python Using NumPy Vectorization]]></summary>
+        <author>
+            <name>crypt0lution</name>
+            <uri>https://news.ycombinator.com/user?id=crypt0lution</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Wii遙控器進行桌面VR顯示的頭部追蹤 (2007)]]></title>
         <id>https://news.ycombinator.com/item?id=31058135</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>gojiberries</name>
             <uri>https://news.ycombinator.com/user?id=gojiberries</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾公司承諾到2040年在其全球業務中實現淨零排放]]></title>
-        <id>https://news.ycombinator.com/item?id=31041289</id>
-        <link href="https://news.ycombinator.com/item?id=31041289"/>
-        <updated>2022-04-15T15:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Commits to Net-Zero by 2040 in Its Global Operations]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發人員的倦怠感助長了偉大的辭職人員遷移]]></title>
-        <id>https://news.ycombinator.com/item?id=31041288</id>
-        <link href="https://news.ycombinator.com/item?id=31041288"/>
-        <updated>2022-04-15T15:28:28.000Z</updated>
-        <summary type="html"><![CDATA[Developer Burnout Fueling Great Resignation Staff Migration]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用商店的應用程序要錢並禁用 "退出 "功能]]></title>
-        <id>https://news.ycombinator.com/item?id=31041254</id>
-        <link href="https://news.ycombinator.com/item?id=31041254"/>
-        <updated>2022-04-15T15:25:05.000Z</updated>
-        <summary type="html"><![CDATA[App Store app asks for money and disables the “Quit” function]]></summary>
-        <author>
-            <name>keleftheriou</name>
-            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[識別 "假的敏捷 "軟件工程團隊的面試問題]]></title>
-        <id>https://news.ycombinator.com/item?id=31041253</id>
-        <link href="https://news.ycombinator.com/item?id=31041253"/>
-        <updated>2022-04-15T15:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Interview Questions to Spot “Fake Agile” Software Engineering Teams]]></summary>
-        <author>
-            <name>recurrence</name>
-            <uri>https://news.ycombinator.com/user?id=recurrence</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼糖果種類這麼少？歸咎於巧克力的寡頭壟斷 (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=31041217</id>
-        <link href="https://news.ycombinator.com/item?id=31041217"/>
-        <updated>2022-04-15T15:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Why So Little Candy Variety? Blame the Chocolate Oligopoly (2013)]]></summary>
-        <author>
-            <name>connor11528</name>
-            <uri>https://news.ycombinator.com/user?id=connor11528</uri>
         </author>
     </entry>
 </feed>
