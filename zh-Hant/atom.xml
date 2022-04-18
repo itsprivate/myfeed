@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T06:58:34.890Z</updated>
+    <updated>2022-04-18T07:13:27.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一首關於離開朋友的短詩]]></title>
+        <id>https://news.ycombinator.com/item?id=31068115</id>
+        <link href="https://news.ycombinator.com/item?id=31068115"/>
+        <updated>2022-04-18T06:55:35.000Z</updated>
+        <summary type="html"><![CDATA[A short poem on leaving friends]]></summary>
+        <author>
+            <name>Pranav2612000</name>
+            <uri>https://news.ycombinator.com/user?id=Pranav2612000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他曾設想過一個噩夢般的歇斯底里的俄羅斯。現在他害怕生活在其中]]></title>
+        <id>https://news.ycombinator.com/item?id=31066919</id>
+        <link href="https://news.ycombinator.com/item?id=31066919"/>
+        <updated>2022-04-18T03:09:07.000Z</updated>
+        <summary type="html"><![CDATA[He Envisioned a Nightmarish, Dystopian Russia. Now He Fears Living in One]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人員從簡單的人工智能中獲得新的理解]]></title>
         <id>https://news.ycombinator.com/item?id=31067851</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sonnyp</name>
             <uri>https://news.ycombinator.com/user?id=sonnyp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布倫丹-格雷格將離開Netflix]]></title>
-        <id>https://news.ycombinator.com/item?id=31051662</id>
-        <link href="https://news.ycombinator.com/item?id=31051662"/>
-        <updated>2022-04-16T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Gregg is leaving Netflix]]></summary>
-        <author>
-            <name>heinrichhartman</name>
-            <uri>https://news.ycombinator.com/user?id=heinrichhartman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在4004上計算Pi]]></title>
-        <id>https://news.ycombinator.com/item?id=31051635</id>
-        <link href="https://news.ycombinator.com/item?id=31051635"/>
-        <updated>2022-04-16T12:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Calculating Pi on the 4004]]></summary>
-        <author>
-            <name>jamesy0ung</name>
-            <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
         </author>
     </entry>
 </feed>
