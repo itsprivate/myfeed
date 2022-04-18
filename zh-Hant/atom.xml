@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T22:35:06.805Z</updated>
+    <updated>2022-04-18T22:45:39.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=31077525</id>
+        <link href="https://news.ycombinator.com/item?id=31077525"/>
+        <updated>2022-04-18T22:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Six companies control 90% of what you read, watch, and hear]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[諾姆-喬姆斯基談俄烏戰爭、媒體、宣傳和責任問題]]></title>
         <id>https://news.ycombinator.com/item?id=31077395</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lauluz</name>
             <uri>https://news.ycombinator.com/user?id=lauluz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I.正在掌握語言。我們應該相信它所說的嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31060277</id>
-        <link href="https://news.ycombinator.com/item?id=31060277"/>
-        <updated>2022-04-17T12:01:22.000Z</updated>
-        <summary type="html"><![CDATA[A.I. Is Mastering Language. Should We Trust What It Says?]]></summary>
-        <author>
-            <name>kamroot</name>
-            <uri>https://news.ycombinator.com/user?id=kamroot</uri>
         </author>
     </entry>
 </feed>
