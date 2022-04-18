@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T20:35:42.197Z</updated>
+    <updated>2022-04-18T20:46:08.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我今天如何体验网络]]></title>
+        <id>https://news.ycombinator.com/item?id=31076083</id>
+        <link href="https://news.ycombinator.com/item?id=31076083"/>
+        <updated>2022-04-18T20:31:16.000Z</updated>
+        <summary type="html"><![CDATA[How I Experience the Web Today]]></summary>
+        <author>
+            <name>tshoaib</name>
+            <uri>https://news.ycombinator.com/user?id=tshoaib</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-1271：GNU gzip的zgrep工具中存在任意文件写入漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31076009</id>
+        <link href="https://news.ycombinator.com/item?id=31076009"/>
+        <updated>2022-04-18T20:25:49.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-1271: arbitrary file write vulnerability in GNU gzip's zgrep utility]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tri-County成为佛罗里达州第一个处理FTTH的电力合作社]]></title>
+        <id>https://news.ycombinator.com/item?id=31075626</id>
+        <link href="https://news.ycombinator.com/item?id=31075626"/>
+        <updated>2022-04-18T19:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Tri-County becomes the first electric co-op in Florida to tackle FTTH]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消除Git冲突解决的痛苦：使用diff3]]></title>
+        <id>https://news.ycombinator.com/item?id=31075608</id>
+        <link href="https://news.ycombinator.com/item?id=31075608"/>
+        <updated>2022-04-18T19:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Take the pain out of Git conflict resolution: use diff3]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[操作系统之争。OpenBSD vs. NixOS]]></title>
+        <id>https://news.ycombinator.com/item?id=31075570</id>
+        <link href="https://news.ycombinator.com/item?id=31075570"/>
+        <updated>2022-04-18T19:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Operating systems battle: OpenBSD vs. NixOS]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经理的承诺]]></title>
+        <id>https://news.ycombinator.com/item?id=31075506</id>
+        <link href="https://news.ycombinator.com/item?id=31075506"/>
+        <updated>2022-04-18T19:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Promises from a Manager]]></summary>
+        <author>
+            <name>ducaale</name>
+            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[智能手机是狗屎：LineageOS和PinePhone的案例]]></title>
         <id>https://news.ycombinator.com/item?id=31076036</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>lcnmrn</name>
             <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一队的8分是另一队的2分]]></title>
-        <id>https://news.ycombinator.com/item?id=31059826</id>
-        <link href="https://news.ycombinator.com/item?id=31059826"/>
-        <updated>2022-04-17T10:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Eight points for one team is two points for another team]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为32亿谷歌浏览器用户提供紧急安全更新-攻击正在进行中]]></title>
-        <id>https://news.ycombinator.com/item?id=31059740</id>
-        <link href="https://news.ycombinator.com/item?id=31059740"/>
-        <updated>2022-04-17T09:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Emergency Security Update for 3.2B Google Chrome Users–Attacks Underway]]></summary>
-        <author>
-            <name>richardboegli</name>
-            <uri>https://news.ycombinator.com/user?id=richardboegli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[副总干事：我们没有从结果中 "清除 "任何媒体机构]]></title>
-        <id>https://news.ycombinator.com/item?id=31059882</id>
-        <link href="https://news.ycombinator.com/item?id=31059882"/>
-        <updated>2022-04-17T10:34:37.000Z</updated>
-        <summary type="html"><![CDATA[DDG: We are not “purging” any media outlets from results]]></summary>
-        <author>
-            <name>EastSmith</name>
-            <uri>https://news.ycombinator.com/user?id=EastSmith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家初创公司正在设计树木，使其更快地生长并捕获更多的碳]]></title>
-        <id>https://news.ycombinator.com/item?id=31059731</id>
-        <link href="https://news.ycombinator.com/item?id=31059731"/>
-        <updated>2022-04-17T09:55:40.000Z</updated>
-        <summary type="html"><![CDATA[A Startup Is Engineering Trees to Grow Faster and Capture More Carbon]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我实施加密货币支付网关的历程（从零开始）]]></title>
-        <id>https://news.ycombinator.com/item?id=31059649</id>
-        <link href="https://news.ycombinator.com/item?id=31059649"/>
-        <updated>2022-04-17T09:36:27.000Z</updated>
-        <summary type="html"><![CDATA[My journey of implementing a Cryptocurrencies payment gateway (from scratch)]]></summary>
-        <author>
-            <name>ben165</name>
-            <uri>https://news.ycombinator.com/user?id=ben165</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[植物的隐藏记忆]]></title>
-        <id>https://news.ycombinator.com/item?id=31059631</id>
-        <link href="https://news.ycombinator.com/item?id=31059631"/>
-        <updated>2022-04-17T09:31:47.000Z</updated>
-        <summary type="html"><![CDATA[The Hidden Memories of Plants]]></summary>
-        <author>
-            <name>pps</name>
-            <uri>https://news.ycombinator.com/user?id=pps</uri>
         </author>
     </entry>
 </feed>
