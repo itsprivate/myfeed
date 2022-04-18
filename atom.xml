@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T10:38:02.659Z</updated>
+    <updated>2022-04-18T10:53:58.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超过2.5千名活跃用户使用Apache Wayang工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31069067</id>
+        <link href="https://news.ycombinator.com/item?id=31069067"/>
+        <updated>2022-04-18T10:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Over 2.5k active users working with Apache Wayang]]></summary>
+        <author>
+            <name>2pk03</name>
+            <uri>https://news.ycombinator.com/user?id=2pk03</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你同意什么？税务网站想要你的数据，不仅仅是为了报税]]></title>
+        <id>https://news.ycombinator.com/item?id=31069065</id>
+        <link href="https://news.ycombinator.com/item?id=31069065"/>
+        <updated>2022-04-18T10:23:41.000Z</updated>
+        <summary type="html"><![CDATA[You agreed to what? Tax sites want your data for more than filing]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耐克思。从你的Node.js应用程序中创建一个单一的可执行文件]]></title>
+        <id>https://news.ycombinator.com/item?id=31068919</id>
+        <link href="https://news.ycombinator.com/item?id=31068919"/>
+        <updated>2022-04-18T09:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Nexe: Create a single executable out of your Node.js apps]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Git在MacOS和Android上免费同步黑曜石金库]]></title>
+        <id>https://news.ycombinator.com/item?id=31068875</id>
+        <link href="https://news.ycombinator.com/item?id=31068875"/>
+        <updated>2022-04-18T09:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Syncing Obsidian Vault on macOS and Android, using Git, for free]]></summary>
+        <author>
+            <name>SpaghettiX</name>
+            <uri>https://news.ycombinator.com/user?id=SpaghettiX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发现有三颗恒星的行星背后的团队撤回了他们的文章]]></title>
         <id>https://news.ycombinator.com/item?id=31068990</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源节衣缩食软件--需要反馈]]></title>
-        <id>https://news.ycombinator.com/item?id=31053177</id>
-        <link href="https://news.ycombinator.com/item?id=31053177"/>
-        <updated>2022-04-16T15:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Thrifting Software – Need Feedback]]></summary>
-        <author>
-            <name>spenc</name>
-            <uri>https://news.ycombinator.com/user?id=spenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩偶之家 "辉煌的曲柄背后的8年过程]]></title>
-        <id>https://news.ycombinator.com/item?id=31053032</id>
-        <link href="https://news.ycombinator.com/item?id=31053032"/>
-        <updated>2022-04-16T15:23:30.000Z</updated>
-        <summary type="html"><![CDATA[The 8-year process behind Playdate’s glorious crank]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[氧化亚铜产生雷德堡极子，光和物质的混合粒子]]></title>
-        <id>https://news.ycombinator.com/item?id=31053024</id>
-        <link href="https://news.ycombinator.com/item?id=31053024"/>
-        <updated>2022-04-16T15:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Cuprous oxide produces Rydberg polaritons, hybrid particles of light and matter]]></summary>
-        <author>
-            <name>kaonwarb</name>
-            <uri>https://news.ycombinator.com/user?id=kaonwarb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果是如何组织创新的（2020）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31052647</id>
-        <link href="https://news.ycombinator.com/item?id=31052647"/>
-        <updated>2022-04-16T14:33:53.000Z</updated>
-        <summary type="html"><![CDATA[How Apple Is Organized for Innovation (2020)]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
