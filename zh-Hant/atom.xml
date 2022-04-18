@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T17:41:43.131Z</updated>
+    <updated>2022-04-18T17:52:41.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們選擇了在 "雪花 "的基礎上進行建設]]></title>
+        <id>https://news.ycombinator.com/item?id=31073995</id>
+        <link href="https://news.ycombinator.com/item?id=31073995"/>
+        <updated>2022-04-18T17:43:13.000Z</updated>
+        <summary type="html"><![CDATA[We Chose to Build on Snowflake]]></summary>
+        <author>
+            <name>rosslazer</name>
+            <uri>https://news.ycombinator.com/user?id=rosslazer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類的驗證。最初的3千多年]]></title>
+        <id>https://news.ycombinator.com/item?id=31073953</id>
+        <link href="https://news.ycombinator.com/item?id=31073953"/>
+        <updated>2022-04-18T17:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Humanity Verification: The First 3k Years]]></summary>
+        <author>
+            <name>eatbots</name>
+            <uri>https://news.ycombinator.com/user?id=eatbots</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型強子對撞機揭示了宇宙碰撞中反物質產生的秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=31073854</id>
+        <link href="https://news.ycombinator.com/item?id=31073854"/>
+        <updated>2022-04-18T17:31:54.000Z</updated>
+        <summary type="html"><![CDATA[LHCb reveals secret of antimatter creation in cosmic collisions]]></summary>
+        <author>
+            <name>Jason_Protell</name>
+            <uri>https://news.ycombinator.com/user?id=Jason_Protell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arstechnica Playdate評論]]></title>
+        <id>https://news.ycombinator.com/item?id=31073766</id>
+        <link href="https://news.ycombinator.com/item?id=31073766"/>
+        <updated>2022-04-18T17:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Arstechnica Playdate Review]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lezer解析器系統]]></title>
         <id>https://news.ycombinator.com/item?id=31073800</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>blacksqr</name>
             <uri>https://news.ycombinator.com/user?id=blacksqr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拯救美國的專利制度]]></title>
-        <id>https://news.ycombinator.com/item?id=31057563</id>
-        <link href="https://news.ycombinator.com/item?id=31057563"/>
-        <updated>2022-04-17T01:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Save America’s Patent System]]></summary>
-        <author>
-            <name>leroman</name>
-            <uri>https://news.ycombinator.com/user?id=leroman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Linux HugePages對DB服務器來說超級重要。PostgreSQL的一個案例]]></title>
-        <id>https://news.ycombinator.com/item?id=31057503</id>
-        <link href="https://news.ycombinator.com/item?id=31057503"/>
-        <updated>2022-04-17T01:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Why Linux HugePages Are Super Important for DB Servers: A Case with PostgreSQL]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Zaraz: 一個為速度、隱私、安全而建立的第三方工具管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=31057475</id>
-        <link href="https://news.ycombinator.com/item?id=31057475"/>
-        <updated>2022-04-17T00:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare Zaraz: A third-party tool manager built for speed, privacy, security]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對不起，收藏品是糟糕的投資]]></title>
-        <id>https://news.ycombinator.com/item?id=31057464</id>
-        <link href="https://news.ycombinator.com/item?id=31057464"/>
-        <updated>2022-04-17T00:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Sorry, collectibles are terrible investments]]></summary>
-        <author>
-            <name>exolymph</name>
-            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
         </author>
     </entry>
 </feed>
