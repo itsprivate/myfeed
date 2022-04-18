@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T11:38:38.339Z</updated>
+    <updated>2022-04-18T11:51:24.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPS接收機卡爾曼濾波算法的發展(2016) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31069465</id>
+        <link href="https://news.ycombinator.com/item?id=31069465"/>
+        <updated>2022-04-18T11:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Development of GPS Receiver Kalman Filter Algorithms (2016) [pdf]]]></summary>
+        <author>
+            <name>rsecora</name>
+            <uri>https://news.ycombinator.com/user?id=rsecora</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超級智能是不可能的]]></title>
+        <id>https://news.ycombinator.com/item?id=31069298</id>
+        <link href="https://news.ycombinator.com/item?id=31069298"/>
+        <updated>2022-04-18T11:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Superintelligence Is Impossible]]></summary>
+        <author>
+            <name>dsr12</name>
+            <uri>https://news.ycombinator.com/user?id=dsr12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文件庫。用Web3構建Web3]]></title>
         <id>https://news.ycombinator.com/item?id=31069324</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編程中的固定點：數據類型和協議(2014) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31052881</id>
-        <link href="https://news.ycombinator.com/item?id=31052881"/>
-        <updated>2022-04-16T15:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Fixed points in programming: datatypes and protocols (2014) [pdf]]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食品價格上漲？這個芝士漢堡解釋了你更大的食品雜貨賬單]]></title>
-        <id>https://news.ycombinator.com/item?id=31053423</id>
-        <link href="https://news.ycombinator.com/item?id=31053423"/>
-        <updated>2022-04-16T16:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Food prices rising? This cheeseburger explains your bigger grocery bill]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
