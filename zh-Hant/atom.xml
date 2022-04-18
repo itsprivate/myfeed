@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T06:40:42.687Z</updated>
+    <updated>2022-04-18T06:58:34.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人員從簡單的人工智能中獲得新的理解]]></title>
+        <id>https://news.ycombinator.com/item?id=31067851</id>
+        <link href="https://news.ycombinator.com/item?id=31067851"/>
+        <updated>2022-04-18T05:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Researchers Gain New Understanding from Simple AI]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[指數級更好的輪換]]></title>
         <id>https://news.ycombinator.com/item?id=31067525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jamesy0ung</name>
             <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯為謀殺烏克蘭人辯護]]></title>
-        <id>https://news.ycombinator.com/item?id=31051601</id>
-        <link href="https://news.ycombinator.com/item?id=31051601"/>
-        <updated>2022-04-16T11:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Russia Justifies the Murder of Ukrainians]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
         </author>
     </entry>
 </feed>
