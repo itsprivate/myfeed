@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T07:51:08.922Z</updated>
+    <updated>2022-04-18T08:14:36.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[60岁之前，智力速度都很高]]></title>
+        <id>https://news.ycombinator.com/item?id=31068388</id>
+        <link href="https://news.ycombinator.com/item?id=31068388"/>
+        <updated>2022-04-18T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Mental speed is high until age 60]]></summary>
+        <author>
+            <name>qw</name>
+            <uri>https://news.ycombinator.com/user?id=qw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天我在GIMP中为JPEG增加了CMYK输出功能]]></title>
+        <id>https://news.ycombinator.com/item?id=31068327</id>
+        <link href="https://news.ycombinator.com/item?id=31068327"/>
+        <updated>2022-04-18T07:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Today I added CMYK export for JPEG in GIMP]]></summary>
+        <author>
+            <name>dantondwa</name>
+            <uri>https://news.ycombinator.com/user?id=dantondwa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克将在太空中发射英国新的发电站，创造无限的清洁能源]]></title>
         <id>https://news.ycombinator.com/item?id=31067795</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>adamgordonbell</name>
             <uri>https://news.ycombinator.com/user?id=adamgordonbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国公司。玩俄罗斯轮盘赌--而且输了]]></title>
-        <id>https://news.ycombinator.com/item?id=31051743</id>
-        <link href="https://news.ycombinator.com/item?id=31051743"/>
-        <updated>2022-04-16T12:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Germany Inc. Played Russian Roulette – and Lost]]></summary>
-        <author>
-            <name>propter_hoc</name>
-            <uri>https://news.ycombinator.com/user?id=propter_hoc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeoWorks Ensemble (1991)]]></title>
-        <id>https://news.ycombinator.com/item?id=31051737</id>
-        <link href="https://news.ycombinator.com/item?id=31051737"/>
-        <updated>2022-04-16T12:23:30.000Z</updated>
-        <summary type="html"><![CDATA[GeoWorks Ensemble (1991)]]></summary>
-        <author>
-            <name>JasonFruit</name>
-            <uri>https://news.ycombinator.com/user?id=JasonFruit</uri>
         </author>
     </entry>
 </feed>
