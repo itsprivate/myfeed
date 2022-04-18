@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T07:32:35.963Z</updated>
+    <updated>2022-04-18T07:51:09.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬斯克將在太空中發射英國新的發電站，創造無限的清潔能源]]></title>
+        <id>https://news.ycombinator.com/item?id=31067795</id>
+        <link href="https://news.ycombinator.com/item?id=31067795"/>
+        <updated>2022-04-18T05:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Musk to launch UK’s new power station in SPACE to create limitless clean energy]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼在Hacker News上有這麼多的自我幫助專題？]]></title>
         <id>https://news.ycombinator.com/item?id=31068201</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JasonFruit</name>
             <uri>https://news.ycombinator.com/user?id=JasonFruit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在線半衰期Text2speech]]></title>
-        <id>https://news.ycombinator.com/item?id=31051663</id>
-        <link href="https://news.ycombinator.com/item?id=31051663"/>
-        <updated>2022-04-16T12:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Online Half-Life Text2speech]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
         </author>
     </entry>
 </feed>
