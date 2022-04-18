@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T13:50:02.656Z</updated>
+    <updated>2022-04-18T13:55:42.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vega Strike 0.8.0版發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=31069993</id>
+        <link href="https://news.ycombinator.com/item?id=31069993"/>
+        <updated>2022-04-18T12:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Vega Strike 0.8.0 Released]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I.正在掌握語言。我們應該相信它所說的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31069911</id>
+        <link href="https://news.ycombinator.com/item?id=31069911"/>
+        <updated>2022-04-18T12:48:13.000Z</updated>
+        <summary type="html"><![CDATA[A.I. Is Mastering Language. Should We Trust What It Says?]]></summary>
+        <author>
+            <name>abzug</name>
+            <uri>https://news.ycombinator.com/user?id=abzug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國的嚴肅性案例 - 作者：凱瑟琳-博伊爾]]></title>
         <id>https://news.ycombinator.com/item?id=31070362</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>probst</name>
             <uri>https://news.ycombinator.com/user?id=probst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯法院稱谷歌和維基百科因 "虛假 "內容面臨罰款]]></title>
-        <id>https://news.ycombinator.com/item?id=31053529</id>
-        <link href="https://news.ycombinator.com/item?id=31053529"/>
-        <updated>2022-04-16T16:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Russian court says Google, Wikipedia face fines over 'fake' content]]></summary>
-        <author>
-            <name>FinnKuhn</name>
-            <uri>https://news.ycombinator.com/user?id=FinnKuhn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullettrain - 開源的Ruby on Rails SaaS框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31053356</id>
-        <link href="https://news.ycombinator.com/item?id=31053356"/>
-        <updated>2022-04-16T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Bullettrain – The Open Source Ruby on Rails SaaS Framework]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
