@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T09:33:41.283Z</updated>
+    <updated>2022-04-18T09:44:00.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的Omicron变体。到目前为止我们所知道的情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31068786</id>
+        <link href="https://news.ycombinator.com/item?id=31068786"/>
+        <updated>2022-04-18T09:24:33.000Z</updated>
+        <summary type="html"><![CDATA[New omicron variants: What we know so far]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身体的疲劳在大脑中，也在身体中]]></title>
         <id>https://news.ycombinator.com/item?id=31068734</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Bost</name>
             <uri>https://news.ycombinator.com/user?id=Bost</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯Orlan-10无人机开箱(YouTube)]]></title>
-        <id>https://news.ycombinator.com/item?id=31052500</id>
-        <link href="https://news.ycombinator.com/item?id=31052500"/>
-        <updated>2022-04-16T14:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Russian Orlan-10 Drone Unboxing (YouTube)]]></summary>
-        <author>
-            <name>jollybean</name>
-            <uri>https://news.ycombinator.com/user?id=jollybean</uri>
         </author>
     </entry>
 </feed>
