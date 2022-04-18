@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T19:36:49.339Z</updated>
+    <updated>2022-04-18T19:52:26.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特现在有了毒药]]></title>
+        <id>https://news.ycombinator.com/item?id=31075435</id>
+        <link href="https://news.ycombinator.com/item?id=31075435"/>
+        <updated>2022-04-18T19:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Has a Poison Pill Now]]></summary>
+        <author>
+            <name>projectsforlife</name>
+            <uri>https://news.ycombinator.com/user?id=projectsforlife</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国上诉法院重申网络搜刮是合法的]]></title>
+        <id>https://news.ycombinator.com/item?id=31075396</id>
+        <link href="https://news.ycombinator.com/item?id=31075396"/>
+        <updated>2022-04-18T19:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping is legal, US appeals court reaffirms]]></summary>
+        <author>
+            <name>spenvo</name>
+            <uri>https://news.ycombinator.com/user?id=spenvo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过设备的电源指示灯LED来恢复光学暴风雨的声音（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31075343</id>
+        <link href="https://news.ycombinator.com/item?id=31075343"/>
+        <updated>2022-04-18T19:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Optical Tempest Sound Recovery via a Device’s Power Indicator LED (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个人拥有世界上最先进的私人空军]]></title>
         <id>https://news.ycombinator.com/item?id=31075261</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Coreutils 9.1版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31059391</id>
-        <link href="https://news.ycombinator.com/item?id=31059391"/>
-        <updated>2022-04-17T08:17:32.000Z</updated>
-        <summary type="html"><![CDATA[GNU Coreutils 9.1 Released]]></summary>
-        <author>
-            <name>pdenton</name>
-            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack如何决定发送通知的流程图]]></title>
-        <id>https://news.ycombinator.com/item?id=31059294</id>
-        <link href="https://news.ycombinator.com/item?id=31059294"/>
-        <updated>2022-04-17T07:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Flowchart of how slack decides to send a notification]]></summary>
-        <author>
-            <name>pierreneter</name>
-            <uri>https://news.ycombinator.com/user?id=pierreneter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于沸腾温度以上的超导性迹象的激烈争论出现了]]></title>
-        <id>https://news.ycombinator.com/item?id=31059347</id>
-        <link href="https://news.ycombinator.com/item?id=31059347"/>
-        <updated>2022-04-17T08:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Heated Debate Rises over Hints of Superconductivity Above Boiling Temperatures]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
