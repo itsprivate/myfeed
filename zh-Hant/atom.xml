@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T22:45:39.474Z</updated>
+    <updated>2022-04-18T22:52:12.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌地圖取消了對俄羅斯軍事基地的模糊處理]]></title>
+        <id>https://news.ycombinator.com/item?id=31077518</id>
+        <link href="https://news.ycombinator.com/item?id=31077518"/>
+        <updated>2022-04-18T22:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps Removes Blurring for Russia’s Military Sites]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
         <id>https://news.ycombinator.com/item?id=31077525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發者文件是否應包括在 "完成的定義 "中？]]></title>
-        <id>https://news.ycombinator.com/item?id=31060671</id>
-        <link href="https://news.ycombinator.com/item?id=31060671"/>
-        <updated>2022-04-17T13:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Should developer documentation be included in the Definition of Done?]]></summary>
-        <author>
-            <name>lauluz</name>
-            <uri>https://news.ycombinator.com/user?id=lauluz</uri>
         </author>
     </entry>
 </feed>
