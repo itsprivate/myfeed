@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T21:30:55.479Z</updated>
+    <updated>2022-04-18T21:38:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[證明編碼面試]]></title>
+        <id>https://news.ycombinator.com/item?id=31076821</id>
+        <link href="https://news.ycombinator.com/item?id=31076821"/>
+        <updated>2022-04-18T21:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Proving the Coding Interview]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用WebGL渲染的西雅圖地標的攝影測量法]]></title>
+        <id>https://news.ycombinator.com/item?id=31076623</id>
+        <link href="https://news.ycombinator.com/item?id=31076623"/>
+        <updated>2022-04-18T21:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Photogrammetry of Seattle landmarks rendered in WebGL]]></summary>
+        <author>
+            <name>gglover</name>
+            <uri>https://news.ycombinator.com/user?id=gglover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[煙塵中的聲音。人類已知的最早的錄音]]></title>
+        <id>https://news.ycombinator.com/item?id=31076601</id>
+        <link href="https://news.ycombinator.com/item?id=31076601"/>
+        <updated>2022-04-18T21:11:03.000Z</updated>
+        <summary type="html"><![CDATA[The Voice in the Soot: Humanity's Earliest Known Recording]]></summary>
+        <author>
+            <name>ohjeez</name>
+            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女權主義的最後一戰 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=31076606</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ProtonPower</name>
             <uri>https://news.ycombinator.com/user?id=ProtonPower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何更清晰地寫作，更清晰地思考，並學習複雜的材料 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31060362</id>
-        <link href="https://news.ycombinator.com/item?id=31060362"/>
-        <updated>2022-04-17T12:23:43.000Z</updated>
-        <summary type="html"><![CDATA[How to Write More Clearly, Think More Clearly, and Learn Complex Material [pdf]]]></summary>
-        <author>
-            <name>Secrethus</name>
-            <uri>https://news.ycombinator.com/user?id=Secrethus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國宇航局在未能完成倒計時測試後將回退其巨型火箭]]></title>
-        <id>https://news.ycombinator.com/item?id=31060171</id>
-        <link href="https://news.ycombinator.com/item?id=31060171"/>
-        <updated>2022-04-17T11:40:50.000Z</updated>
-        <summary type="html"><![CDATA[NASA to roll back its mega rocket after failing to complete countdown test]]></summary>
-        <author>
-            <name>kristianp</name>
-            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第二架安東諾夫安-225：最大的未完成的飛機藏在倉庫裡]]></title>
-        <id>https://news.ycombinator.com/item?id=31059514</id>
-        <link href="https://news.ycombinator.com/item?id=31059514"/>
-        <updated>2022-04-17T08:52:04.000Z</updated>
-        <summary type="html"><![CDATA[2nd Antonov An-225: biggest unfinished airplane lies hidden in warehouse]]></summary>
-        <author>
-            <name>gscott</name>
-            <uri>https://news.ycombinator.com/user?id=gscott</uri>
         </author>
     </entry>
 </feed>
