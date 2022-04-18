@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T05:02:15.713Z</updated>
+    <updated>2022-04-18T05:32:54.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学术申诉研究和学术腐败现象]]></title>
+        <id>https://news.ycombinator.com/item?id=31067628</id>
+        <link href="https://news.ycombinator.com/item?id=31067628"/>
+        <updated>2022-04-18T05:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Academic Grievance Studies and the Corruption of Scholarship]]></summary>
+        <author>
+            <name>kvee</name>
+            <uri>https://news.ycombinator.com/user?id=kvee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲现代人种群中复杂性状的进化]]></title>
         <id>https://news.ycombinator.com/item?id=31067555</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Hacker News API的GraphQL封装器]]></title>
-        <id>https://news.ycombinator.com/item?id=31051463</id>
-        <link href="https://news.ycombinator.com/item?id=31051463"/>
-        <updated>2022-04-16T11:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GraphQL Wrapper for Hacker News API]]></summary>
-        <author>
-            <name>hsblhsn</name>
-            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
         </author>
     </entry>
 </feed>
