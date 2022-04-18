@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-18T23:37:15.859Z</updated>
+    <updated>2022-04-18T23:52:41.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Elo为两年来的《魔法：集会》游戏打分]]></title>
+        <id>https://news.ycombinator.com/item?id=31078151</id>
+        <link href="https://news.ycombinator.com/item?id=31078151"/>
+        <updated>2022-04-18T23:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Elo scoring two years of Magic: The Gathering games]]></summary>
+        <author>
+            <name>shakezula</name>
+            <uri>https://news.ycombinator.com/user?id=shakezula</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在美国，哪些人死于意外死亡，为什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31078031</id>
+        <link href="https://news.ycombinator.com/item?id=31078031"/>
+        <updated>2022-04-18T23:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Who dies of accidental death in America, and why?]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS提要发现引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=31077932</id>
+        <link href="https://news.ycombinator.com/item?id=31077932"/>
+        <updated>2022-04-18T23:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RSS Feed Discovery Engine]]></summary>
+        <author>
+            <name>thirdplace_</name>
+            <uri>https://news.ycombinator.com/user?id=thirdplace_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用树莓派检测家里的漏水情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31077830</id>
+        <link href="https://news.ycombinator.com/item?id=31077830"/>
+        <updated>2022-04-18T23:06:29.000Z</updated>
+        <summary type="html"><![CDATA[I Used Raspberry Pi to Detect Water Leaks in My Home]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在TypeScript中深入挑选类型]]></title>
+        <id>https://news.ycombinator.com/item?id=31077691</id>
+        <link href="https://news.ycombinator.com/item?id=31077691"/>
+        <updated>2022-04-18T22:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Deep Pick Typings in TypeScript]]></summary>
+        <author>
+            <name>bno1</name>
+            <uri>https://news.ycombinator.com/user?id=bno1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guix背后的10年故事]]></title>
+        <id>https://news.ycombinator.com/item?id=31077681</id>
+        <link href="https://news.ycombinator.com/item?id=31077681"/>
+        <updated>2022-04-18T22:51:39.000Z</updated>
+        <summary type="html"><![CDATA[10 years of stories behind Guix]]></summary>
+        <author>
+            <name>thinkmassive</name>
+            <uri>https://news.ycombinator.com/user?id=thinkmassive</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对GitHub仓库的ESOP和SAFE的一个想法]]></title>
+        <id>https://news.ycombinator.com/item?id=31077003</id>
+        <link href="https://news.ycombinator.com/item?id=31077003"/>
+        <updated>2022-04-18T21:45:47.000Z</updated>
+        <summary type="html"><![CDATA[A idea to ESOP and SAFE for GitHub repos]]></summary>
+        <author>
+            <name>austin362667</name>
+            <uri>https://news.ycombinator.com/user?id=austin362667</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23年前，我创建了Freenet]]></title>
         <id>https://news.ycombinator.com/item?id=31078015</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>JosephPitt</name>
             <uri>https://news.ycombinator.com/user?id=JosephPitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evenmoreutils - 一个命令行工具的集合]]></title>
-        <id>https://news.ycombinator.com/item?id=31061132</id>
-        <link href="https://news.ycombinator.com/item?id=31061132"/>
-        <updated>2022-04-17T14:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Evenmoreutils – a collection of command line tools]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用Gitlab和Gitpod从iPad上进行编码、构建和部署]]></title>
-        <id>https://news.ycombinator.com/item?id=31060363</id>
-        <link href="https://news.ycombinator.com/item?id=31060363"/>
-        <updated>2022-04-17T12:23:50.000Z</updated>
-        <summary type="html"><![CDATA[How to code, build, and deploy from an iPad using Gitlab and Gitpod]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死亡、税收和数据库迁移]]></title>
-        <id>https://news.ycombinator.com/item?id=31061366</id>
-        <link href="https://news.ycombinator.com/item?id=31061366"/>
-        <updated>2022-04-17T15:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Death, Taxes, and Database Migrations]]></summary>
-        <author>
-            <name>laneqvault</name>
-            <uri>https://news.ycombinator.com/user?id=laneqvault</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术问题影响了DuckDuckGo对盗版网站和YouTube翻录者的结果]]></title>
-        <id>https://news.ycombinator.com/item?id=31061259</id>
-        <link href="https://news.ycombinator.com/item?id=31061259"/>
-        <updated>2022-04-17T14:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Technical Issue Affects DuckDuckGo Results for Piracy Sites, YouTube Rippers]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这场大流行本来是要把所有的购物都推到网上。它并没有]]></title>
-        <id>https://news.ycombinator.com/item?id=31061212</id>
-        <link href="https://news.ycombinator.com/item?id=31061212"/>
-        <updated>2022-04-17T14:48:03.000Z</updated>
-        <summary type="html"><![CDATA[The Pandemic Was Supposed to Push All Shopping Online. It Didn’t]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周一回顾。它几乎毁了我的生意。不惜一切代价避免这种软件]]></title>
-        <id>https://news.ycombinator.com/item?id=31061192</id>
-        <link href="https://news.ycombinator.com/item?id=31061192"/>
-        <updated>2022-04-17T14:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Monday review. It's almost ruined my business. Avoid this software at all costs]]></summary>
-        <author>
-            <name>JamesAdir</name>
-            <uri>https://news.ycombinator.com/user?id=JamesAdir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国法官裁定，马斯克关于将特斯拉私有化的推文是虚假的]]></title>
-        <id>https://news.ycombinator.com/item?id=31061171</id>
-        <link href="https://news.ycombinator.com/item?id=31061171"/>
-        <updated>2022-04-17T14:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Musk's tweet about taking Tesla private was false, U.S. judge rules]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
         </author>
     </entry>
 </feed>
