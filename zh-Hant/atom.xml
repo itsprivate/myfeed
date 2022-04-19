@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T19:00:50.642Z</updated>
+    <updated>2022-04-19T19:11:51.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Dendron和VSCode的明文任務管理]]></title>
+        <id>https://news.ycombinator.com/item?id=31087338</id>
+        <link href="https://news.ycombinator.com/item?id=31087338"/>
+        <updated>2022-04-19T18:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Plaintext Task Management with Dendron and VSCode]]></summary>
+        <author>
+            <name>jpknowles</name>
+            <uri>https://news.ycombinator.com/user?id=jpknowles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私募股權巨頭有意為收購Twitter融資]]></title>
+        <id>https://news.ycombinator.com/item?id=31087269</id>
+        <link href="https://news.ycombinator.com/item?id=31087269"/>
+        <updated>2022-04-19T18:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Private Equity Giant Interested in Financing Twitter Purchase]]></summary>
+        <author>
+            <name>cbtacy</name>
+            <uri>https://news.ycombinator.com/user?id=cbtacy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[專家表示，被洩露的Switch遊戲機模擬器是由任天堂製作的]]></title>
+        <id>https://news.ycombinator.com/item?id=31087262</id>
+        <link href="https://news.ycombinator.com/item?id=31087262"/>
+        <updated>2022-04-19T18:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Leaked Game Boy emulators for Switch were made by Nintendo, experts suggest]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京在與巴勒斯坦權力機構的阿巴斯通話時表示要批評以色列在阿克薩的政策]]></title>
+        <id>https://news.ycombinator.com/item?id=31087072</id>
+        <link href="https://news.ycombinator.com/item?id=31087072"/>
+        <updated>2022-04-19T18:36:48.000Z</updated>
+        <summary type="html"><![CDATA[In call with PA’s Abbas, Putin said to criticize Israeli policies at Al-Aqsa]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不安全的Rust代碼在實踐中是如何使用的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31086440</id>
+        <link href="https://news.ycombinator.com/item?id=31086440"/>
+        <updated>2022-04-19T17:52:05.000Z</updated>
+        <summary type="html"><![CDATA[How is unsafe Rust code used in practice?]]></summary>
+        <author>
+            <name>jdorfman</name>
+            <uri>https://news.ycombinator.com/user?id=jdorfman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用ROS、Arduino和PS4控制器控制臉部肌肉]]></title>
+        <id>https://news.ycombinator.com/item?id=31086289</id>
+        <link href="https://news.ycombinator.com/item?id=31086289"/>
+        <updated>2022-04-19T17:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Controlling Facial Muscles with ROS, Arduino, and a PS4 Controller]]></summary>
+        <author>
+            <name>kscottz</name>
+            <uri>https://news.ycombinator.com/user?id=kscottz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有MIDI功能的虛擬鋼琴鍵盤]]></title>
         <id>https://news.ycombinator.com/item?id=31087232</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>xweb</name>
             <uri>https://news.ycombinator.com/user?id=xweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿奇漫畫公司宣佈 "Archieverse "NFT，受到壓倒性的負面評價]]></title>
-        <id>https://news.ycombinator.com/item?id=31072087</id>
-        <link href="https://news.ycombinator.com/item?id=31072087"/>
-        <updated>2022-04-18T15:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Archie comics announces “Archieverse” NFT to overwhelmingly negative reception]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回到Twitter的未來]]></title>
-        <id>https://news.ycombinator.com/item?id=31072038</id>
-        <link href="https://news.ycombinator.com/item?id=31072038"/>
-        <updated>2022-04-18T15:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Back to the Future of Twitter]]></summary>
-        <author>
-            <name>greenSunglass</name>
-            <uri>https://news.ycombinator.com/user?id=greenSunglass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯合太平洋公司削減化肥運輸量，推遲交貨，防止訂單。]]></title>
-        <id>https://news.ycombinator.com/item?id=31071934</id>
-        <link href="https://news.ycombinator.com/item?id=31071934"/>
-        <updated>2022-04-18T15:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Union Pacific Cuts Fertilizer Shipments, Delaying Deliveries, Preventis Orders]]></summary>
-        <author>
-            <name>airhangerf15</name>
-            <uri>https://news.ycombinator.com/user?id=airhangerf15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水星推進器。及時避免了一場全球性的災難]]></title>
-        <id>https://news.ycombinator.com/item?id=31071556</id>
-        <link href="https://news.ycombinator.com/item?id=31071556"/>
-        <updated>2022-04-18T14:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Mercury Thrusters: A Worldwide Disaster Averted Just in Time]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用網絡安全框架確保衛星指揮和控制]]></title>
-        <id>https://news.ycombinator.com/item?id=31071255</id>
-        <link href="https://news.ycombinator.com/item?id=31071255"/>
-        <updated>2022-04-18T14:39:20.000Z</updated>
-        <summary type="html"><![CDATA[Applying the Cybersecurity Framework to Assure Satellite Command and Control]]></summary>
-        <author>
-            <name>infodocket</name>
-            <uri>https://news.ycombinator.com/user?id=infodocket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit前首席執行官希望你們都不要再在網上爭吵了]]></title>
-        <id>https://news.ycombinator.com/item?id=31072059</id>
-        <link href="https://news.ycombinator.com/item?id=31072059"/>
-        <updated>2022-04-18T15:32:08.000Z</updated>
-        <summary type="html"><![CDATA[The former CEO of Reddit would like you all to stop bickering online]]></summary>
-        <author>
-            <name>stalfosknight</name>
-            <uri>https://news.ycombinator.com/user?id=stalfosknight</uri>
         </author>
     </entry>
 </feed>
