@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T05:04:53.452Z</updated>
+    <updated>2022-04-19T05:29:18.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1903年，《纽约时报》预测飞机将需要1000万年的时间来发展。]]></title>
+        <id>https://news.ycombinator.com/item?id=31079860</id>
+        <link href="https://news.ycombinator.com/item?id=31079860"/>
+        <updated>2022-04-19T04:55:57.000Z</updated>
+        <summary type="html"><![CDATA[In 1903, the NY Times predicted airplanes would take 10M years to develop]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在伊斯坦布尔火车站发现的希腊化火葬墓]]></title>
+        <id>https://news.ycombinator.com/item?id=31079682</id>
+        <link href="https://news.ycombinator.com/item?id=31079682"/>
+        <updated>2022-04-19T04:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Hellenistic cremation burial found in Istanbul train station]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能否阻止人工智能定价算法学习串通？(2020, pdf)]]></title>
+        <id>https://news.ycombinator.com/item?id=31079672</id>
+        <link href="https://news.ycombinator.com/item?id=31079672"/>
+        <updated>2022-04-19T04:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Can AI pricing algorithms be stopped from learning to collude? (2020, pdf)]]></summary>
+        <author>
+            <name>IAmEveryone</name>
+            <uri>https://news.ycombinator.com/user?id=IAmEveryone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非亚马逊的网上购物地点]]></title>
+        <id>https://news.ycombinator.com/item?id=31079626</id>
+        <link href="https://news.ycombinator.com/item?id=31079626"/>
+        <updated>2022-04-19T03:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Where to shop online that isn’t Amazon]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的小鹿生活]]></title>
         <id>https://news.ycombinator.com/item?id=31079861</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窥视孔优化器（针对QBE）。研究LLVM和GCC的优化器]]></title>
-        <id>https://news.ycombinator.com/item?id=31062768</id>
-        <link href="https://news.ycombinator.com/item?id=31062768"/>
-        <updated>2022-04-17T17:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Peephole Optimizer (For QBE): Studying the LLVM and GCC Optimizers]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美化你的GitHub Repo]]></title>
-        <id>https://news.ycombinator.com/item?id=31062404</id>
-        <link href="https://news.ycombinator.com/item?id=31062404"/>
-        <updated>2022-04-17T17:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Beautify Your GitHub Repo]]></summary>
-        <author>
-            <name>nfrankel</name>
-            <uri>https://news.ycombinator.com/user?id=nfrankel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[git-remote-dropbox]]></title>
-        <id>https://news.ycombinator.com/item?id=31062290</id>
-        <link href="https://news.ycombinator.com/item?id=31062290"/>
-        <updated>2022-04-17T16:59:09.000Z</updated>
-        <summary type="html"><![CDATA[git-remote-dropbox]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子游戏粘液的根源：Snottites、明星果冻和 "活迷宫"（2018）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31063045</id>
-        <link href="https://news.ycombinator.com/item?id=31063045"/>
-        <updated>2022-04-17T18:31:18.000Z</updated>
-        <summary type="html"><![CDATA[The roots of videogame slime: snottites, star jelly and 'living mazes' (2018)]]></summary>
-        <author>
-            <name>bandibus</name>
-            <uri>https://news.ycombinator.com/user?id=bandibus</uri>
         </author>
     </entry>
 </feed>
