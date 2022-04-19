@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T05:29:18.251Z</updated>
+    <updated>2022-04-19T05:45:28.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被認為是有危害的斯坦普斯]]></title>
+        <id>https://news.ycombinator.com/item?id=31080005</id>
+        <link href="https://news.ycombinator.com/item?id=31080005"/>
+        <updated>2022-04-19T05:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Standups Considered Harmful]]></summary>
+        <author>
+            <name>sporadicprocess</name>
+            <uri>https://news.ycombinator.com/user?id=sporadicprocess</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避免使用`NPM鏈接'的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=31079892</id>
+        <link href="https://news.ycombinator.com/item?id=31079892"/>
+        <updated>2022-04-19T05:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Reasons to avoid using `NPM link`]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移動MitM - 攔截你的安卓應用 (EFF)]]></title>
+        <id>https://news.ycombinator.com/item?id=31079795</id>
+        <link href="https://news.ycombinator.com/item?id=31079795"/>
+        <updated>2022-04-19T04:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Mobile MitM – Intercepting Your Android App (EFF)]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深C (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=31079653</id>
+        <link href="https://news.ycombinator.com/item?id=31079653"/>
+        <updated>2022-04-19T04:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Deep C (2011)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1903年，《紐約時報》預測飛機將需要1000萬年的時間來發展。]]></title>
         <id>https://news.ycombinator.com/item?id=31079860</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Jtsummers</name>
             <uri>https://news.ycombinator.com/user?id=Jtsummers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼馬斯克與中本聰有如此多的共同點？]]></title>
-        <id>https://news.ycombinator.com/item?id=31063327</id>
-        <link href="https://news.ycombinator.com/item?id=31063327"/>
-        <updated>2022-04-17T19:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Why does Musk have so much in common with Satoshi Nakamoto?]]></summary>
-        <author>
-            <name>captobvious42</name>
-            <uri>https://news.ycombinator.com/user?id=captobvious42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜推出首款亞馬遜兒童+原創移動遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=31063126</id>
-        <link href="https://news.ycombinator.com/item?id=31063126"/>
-        <updated>2022-04-17T18:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon launches its first Amazon Kids+ Original mobile games]]></summary>
-        <author>
-            <name>NicoJuicy</name>
-            <uri>https://news.ycombinator.com/user?id=NicoJuicy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修復整個《超級馬里奧64》的源代碼[視頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=31063075</id>
-        <link href="https://news.ycombinator.com/item?id=31063075"/>
-        <updated>2022-04-17T18:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Fixing the Entire Super Mario 64 Source Code [video]]]></summary>
-        <author>
-            <name>rubyn00bie</name>
-            <uri>https://news.ycombinator.com/user?id=rubyn00bie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的瀏覽器擴展]]></title>
-        <id>https://news.ycombinator.com/item?id=31062801</id>
-        <link href="https://news.ycombinator.com/item?id=31062801"/>
-        <updated>2022-04-17T18:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Open-Source Browser Extensions]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
