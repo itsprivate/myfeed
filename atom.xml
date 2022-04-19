@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T11:31:05.645Z</updated>
+    <updated>2022-04-19T11:40:25.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苏格兰赫瑞瓦特大学的IT故障进入第二周]]></title>
+        <id>https://news.ycombinator.com/item?id=31081749</id>
+        <link href="https://news.ycombinator.com/item?id=31081749"/>
+        <updated>2022-04-19T11:29:14.000Z</updated>
+        <summary type="html"><![CDATA[IT outage at Scotland's Heriot-Watt University enters second week]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["最佳实践 "不是做某事的理由]]></title>
+        <id>https://news.ycombinator.com/item?id=31081695</id>
+        <link href="https://news.ycombinator.com/item?id=31081695"/>
+        <updated>2022-04-19T11:19:10.000Z</updated>
+        <summary type="html"><![CDATA[“Best Practice” is not a reason to do something]]></summary>
+        <author>
+            <name>ClawsOnPaws</name>
+            <uri>https://news.ycombinator.com/user?id=ClawsOnPaws</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么美国的政治变得如此混乱？]]></title>
+        <id>https://news.ycombinator.com/item?id=31081664</id>
+        <link href="https://news.ycombinator.com/item?id=31081664"/>
+        <updated>2022-04-19T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Why have politics in the USA become so chaotic?]]></summary>
+        <author>
+            <name>lkrubner</name>
+            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国承诺不进行破坏性的反卫星试验]]></title>
+        <id>https://news.ycombinator.com/item?id=31080540</id>
+        <link href="https://news.ycombinator.com/item?id=31080540"/>
+        <updated>2022-04-19T07:40:18.000Z</updated>
+        <summary type="html"><![CDATA[US pledges not to conduct destructive anti-satellite tests]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bingolfing - WASM/GBA/7Zip in 584 Bytes (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=31081666</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>memish</name>
             <uri>https://news.ycombinator.com/user?id=memish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafog - 用于PyTorch Geometric的图形数据增强库]]></title>
-        <id>https://news.ycombinator.com/item?id=31065412</id>
-        <link href="https://news.ycombinator.com/item?id=31065412"/>
-        <updated>2022-04-17T23:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Grafog – Graph Data Augmentation Library for PyTorch Geometric]]></summary>
-        <author>
-            <name>peanutcrisis</name>
-            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国 "埃塞克斯男孩 "交易员因操纵石油市场 "7亿美元 "而面临美国审判]]></title>
-        <id>https://news.ycombinator.com/item?id=31065408</id>
-        <link href="https://news.ycombinator.com/item?id=31065408"/>
-        <updated>2022-04-17T23:09:08.000Z</updated>
-        <summary type="html"><![CDATA[UK “Essex Boys” traders face US trial for "$700m" manipulation of the oil market]]></summary>
-        <author>
-            <name>rmak</name>
-            <uri>https://news.ycombinator.com/user?id=rmak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑色梅沙。重塑半衰期的16年计划--Noclip纪录片]]></title>
-        <id>https://news.ycombinator.com/item?id=31065340</id>
-        <link href="https://news.ycombinator.com/item?id=31065340"/>
-        <updated>2022-04-17T22:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Black Mesa: The 16 Year Project to Remake Half-Life – Noclip Documentary]]></summary>
-        <author>
-            <name>hnthrowaway0315</name>
-            <uri>https://news.ycombinator.com/user?id=hnthrowaway0315</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资本主义在乌克兰战争中的作用]]></title>
-        <id>https://news.ycombinator.com/item?id=31065312</id>
-        <link href="https://news.ycombinator.com/item?id=31065312"/>
-        <updated>2022-04-17T22:53:35.000Z</updated>
-        <summary type="html"><![CDATA[The Role of Capitalism in the War in Ukraine]]></summary>
-        <author>
-            <name>yesenadam</name>
-            <uri>https://news.ycombinator.com/user?id=yesenadam</uri>
         </author>
     </entry>
 </feed>
