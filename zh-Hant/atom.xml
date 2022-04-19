@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T09:13:17.933Z</updated>
+    <updated>2022-04-19T09:33:11.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個博客，是一個單一的可執行二進制文件]]></title>
+        <id>https://news.ycombinator.com/item?id=31081049</id>
+        <link href="https://news.ycombinator.com/item?id=31081049"/>
+        <updated>2022-04-19T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog that is a single executable binary]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每天30分鐘的運動是否足以保持身體健康？]]></title>
         <id>https://news.ycombinator.com/item?id=31080968</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>GuyLewin</name>
             <uri>https://news.ycombinator.com/user?id=GuyLewin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loggie - 一個輕量級、雲原生數據傳輸代理和聚合器]]></title>
-        <id>https://news.ycombinator.com/item?id=31064468</id>
-        <link href="https://news.ycombinator.com/item?id=31064468"/>
-        <updated>2022-04-17T21:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Loggie – A lightweight, cloud-native data transfer agent and aggregator]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>

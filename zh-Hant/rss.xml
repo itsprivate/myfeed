@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個博客，是一個單一的可執行二進制文件]]></title>
+            <link>https://news.ycombinator.com/item?id=31081049</link>
+            <guid>https://news.ycombinator.com/item?id=31081049</guid>
+            <pubDate>Tue, 19 Apr 2022 09:15:00 GMT</pubDate>
+            <description><![CDATA[A blog that is a single executable binary]]></description>
+        </item>
         <item>
             <title><![CDATA[每天30分鐘的運動是否足以保持身體健康？]]></title>
             <link>https://news.ycombinator.com/item?id=31080968</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31064512</guid>
             <pubDate>Sun, 17 Apr 2022 21:05:50 GMT</pubDate>
             <description><![CDATA[THCon CTF Writeup – SHA-1 Exploitation, PHP LFI and RCE]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loggie - 一個輕量級、雲原生數據傳輸代理和聚合器]]></title>
-            <link>https://news.ycombinator.com/item?id=31064468</link>
-            <guid>https://news.ycombinator.com/item?id=31064468</guid>
-            <pubDate>Sun, 17 Apr 2022 21:00:27 GMT</pubDate>
-            <description><![CDATA[Loggie – A lightweight, cloud-native data transfer agent and aggregator]]></description>
         </item>
     </channel>
 </rss>
