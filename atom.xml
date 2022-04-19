@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-19T21:32:22.653Z</updated>
+    <updated>2022-04-19T21:40:54.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向天王星发送探测器被空间科学界列为最优先事项]]></title>
+        <id>https://news.ycombinator.com/item?id=31089465</id>
+        <link href="https://news.ycombinator.com/item?id=31089465"/>
+        <updated>2022-04-19T21:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Sending a probe to Uranus labeled as top priority by space science community]]></summary>
+        <author>
+            <name>Coryodaniel</name>
+            <uri>https://news.ycombinator.com/user?id=Coryodaniel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私有化如何导致印度的不平等加剧]]></title>
+        <id>https://news.ycombinator.com/item?id=31089440</id>
+        <link href="https://news.ycombinator.com/item?id=31089440"/>
+        <updated>2022-04-19T21:26:33.000Z</updated>
+        <summary type="html"><![CDATA[How Privatisation Is Leading to Growing Inequality in India]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jepsen测试rqlite，建立在Raft和SQLite上的分布式数据库]]></title>
         <id>https://news.ycombinator.com/item?id=31089363</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jdkee</name>
             <uri>https://news.ycombinator.com/user?id=jdkee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和解。一个旨在挫败玩家的游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=31073423</id>
-        <link href="https://news.ycombinator.com/item?id=31073423"/>
-        <updated>2022-04-18T17:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Reconciliation: A game designed to frustrate the player]]></summary>
-        <author>
-            <name>smitop</name>
-            <uri>https://news.ycombinator.com/user?id=smitop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音乐家每周只工作5小时，每月赚取16万美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31074328</id>
-        <link href="https://news.ycombinator.com/item?id=31074328"/>
-        <updated>2022-04-18T18:08:57.000Z</updated>
-        <summary type="html"><![CDATA[Musician Earns $160K Per Month Working Just 5 Hours a Week]]></summary>
-        <author>
-            <name>ytNumbers</name>
-            <uri>https://news.ycombinator.com/user?id=ytNumbers</uri>
         </author>
     </entry>
 </feed>
