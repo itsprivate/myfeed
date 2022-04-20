@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[全球人口正在崩溃、飙升和移动]]></title>
+            <link>https://news.ycombinator.com/item?id=31093134</link>
+            <guid>https://news.ycombinator.com/item?id=31093134</guid>
+            <pubDate>Wed, 20 Apr 2022 05:24:16 GMT</pubDate>
+            <description><![CDATA[Global population is crashing, soaring and moving]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Raspberry Pi、Rust和13Mb Linux系统监控我的车库门]]></title>
+            <link>https://news.ycombinator.com/item?id=31093107</link>
+            <guid>https://news.ycombinator.com/item?id=31093107</guid>
+            <pubDate>Wed, 20 Apr 2022 05:20:15 GMT</pubDate>
+            <description><![CDATA[Monitoring My Garage Door with a Raspberry Pi, Rust, and a 13Mb Linux System]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Box86/Box64与QEMU-User与FEX-Emu的基准测试（与Rosetta2）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31093082</link>
+            <guid>https://news.ycombinator.com/item?id=31093082</guid>
+            <pubDate>Wed, 20 Apr 2022 05:16:47 GMT</pubDate>
+            <description><![CDATA[Benchmark of Box86/Box64 vs. QEMU-User vs. FEX-Emu (Vs Rosetta2)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我承认，我的成功涉及运气]]></title>
+            <link>https://news.ycombinator.com/item?id=31093039</link>
+            <guid>https://news.ycombinator.com/item?id=31093039</guid>
+            <pubDate>Wed, 20 Apr 2022 05:10:24 GMT</pubDate>
+            <description><![CDATA[I admit it, my success involves luck]]></description>
+        </item>
         <item>
             <title><![CDATA[停止用Regex验证电子邮件地址 (2012)]]></title>
             <link>https://news.ycombinator.com/item?id=31092912</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31078246</guid>
             <pubDate>Mon, 18 Apr 2022 23:57:57 GMT</pubDate>
             <description><![CDATA[Cisco Wireless LAN Controller Interface Authentication Bypass Vulnerability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[另一种类的智人可能仍然活着]]></title>
-            <link>https://news.ycombinator.com/item?id=31078244</link>
-            <guid>https://news.ycombinator.com/item?id=31078244</guid>
-            <pubDate>Mon, 18 Apr 2022 23:57:53 GMT</pubDate>
-            <description><![CDATA[Another Species of Hominin May Still Be Alive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芯片级太阳能热发电]]></title>
-            <link>https://news.ycombinator.com/item?id=31078220</link>
-            <guid>https://news.ycombinator.com/item?id=31078220</guid>
-            <pubDate>Mon, 18 Apr 2022 23:52:30 GMT</pubDate>
-            <description><![CDATA[Chip-scale solar thermal electrical power generation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为Azure带来自己的IP地址（Byoip）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31078203</link>
-            <guid>https://news.ycombinator.com/item?id=31078203</guid>
-            <pubDate>Mon, 18 Apr 2022 23:49:31 GMT</pubDate>
-            <description><![CDATA[Bring Your Own IP Addresses (Byoip) to Azure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你们是怎么说话的]]></title>
-            <link>https://news.ycombinator.com/item?id=31078192</link>
-            <guid>https://news.ycombinator.com/item?id=31078192</guid>
-            <pubDate>Mon, 18 Apr 2022 23:48:17 GMT</pubDate>
-            <description><![CDATA[How Y’all Talk]]></description>
         </item>
     </channel>
 </rss>
