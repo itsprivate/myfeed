@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T07:42:50.874Z</updated>
+    <updated>2022-04-20T08:41:39.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移植到Rust的Ruby YJIT]]></title>
+        <id>https://news.ycombinator.com/item?id=31094130</id>
+        <link href="https://news.ycombinator.com/item?id=31094130"/>
+        <updated>2022-04-20T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Ruby YJIT Ported to Rust]]></summary>
+        <author>
+            <name>the_duke</name>
+            <uri>https://news.ycombinator.com/user?id=the_duke</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube终止了香港唯一领导人候选人的竞选频道]]></title>
+        <id>https://news.ycombinator.com/item?id=31094058</id>
+        <link href="https://news.ycombinator.com/item?id=31094058"/>
+        <updated>2022-04-20T08:08:02.000Z</updated>
+        <summary type="html"><![CDATA[YouTube terminates campaign channel of Hong Kong's sole leadership candidate]]></summary>
+        <author>
+            <name>syndic8_xyz</name>
+            <uri>https://news.ycombinator.com/user?id=syndic8_xyz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惧怕融化 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=31093951</id>
+        <link href="https://news.ycombinator.com/item?id=31093951"/>
+        <updated>2022-04-20T07:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Fear of a Meltdown (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F*Ex]]></title>
+        <id>https://news.ycombinator.com/item?id=31093948</id>
+        <link href="https://news.ycombinator.com/item?id=31093948"/>
+        <updated>2022-04-20T07:49:40.000Z</updated>
+        <summary type="html"><![CDATA[F*Ex]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[检测DNS根的操纵]]></title>
         <id>https://news.ycombinator.com/item?id=31093863</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>jonpalmisc</name>
             <uri>https://news.ycombinator.com/user?id=jonpalmisc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张量拼图]]></title>
-        <id>https://news.ycombinator.com/item?id=31079452</id>
-        <link href="https://news.ycombinator.com/item?id=31079452"/>
-        <updated>2022-04-19T03:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Tensor Puzzles]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3生成的营销内容]]></title>
-        <id>https://news.ycombinator.com/item?id=31079423</id>
-        <link href="https://news.ycombinator.com/item?id=31079423"/>
-        <updated>2022-04-19T03:09:20.000Z</updated>
-        <summary type="html"><![CDATA[GPT-3 Generated Marketing Content]]></summary>
-        <author>
-            <name>runesoerensen</name>
-            <uri>https://news.ycombinator.com/user?id=runesoerensen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧金山有这么糟糕吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079393</id>
-        <link href="https://news.ycombinator.com/item?id=31079393"/>
-        <updated>2022-04-19T03:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Is San Francisco this bad?]]></summary>
-        <author>
-            <name>totaldude87</name>
-            <uri>https://news.ycombinator.com/user?id=totaldude87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于证据的实践。它是什么以及它为什么重要 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31079375</id>
-        <link href="https://news.ycombinator.com/item?id=31079375"/>
-        <updated>2022-04-19T03:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Evidence-Based Practice: What It Is and Why It Matters [pdf]]]></summary>
-        <author>
-            <name>animal_spirits</name>
-            <uri>https://news.ycombinator.com/user?id=animal_spirits</uri>
         </author>
     </entry>
 </feed>

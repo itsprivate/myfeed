@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[移植到Rust的Ruby YJIT]]></title>
+            <link>https://news.ycombinator.com/item?id=31094130</link>
+            <guid>https://news.ycombinator.com/item?id=31094130</guid>
+            <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
+            <description><![CDATA[Ruby YJIT Ported to Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[YouTube终止了香港唯一领导人候选人的竞选频道]]></title>
+            <link>https://news.ycombinator.com/item?id=31094058</link>
+            <guid>https://news.ycombinator.com/item?id=31094058</guid>
+            <pubDate>Wed, 20 Apr 2022 08:08:02 GMT</pubDate>
+            <description><![CDATA[YouTube terminates campaign channel of Hong Kong's sole leadership candidate]]></description>
+        </item>
+        <item>
+            <title><![CDATA[惧怕融化 (2018)]]></title>
+            <link>https://news.ycombinator.com/item?id=31093951</link>
+            <guid>https://news.ycombinator.com/item?id=31093951</guid>
+            <pubDate>Wed, 20 Apr 2022 07:50:03 GMT</pubDate>
+            <description><![CDATA[Fear of a Meltdown (2018)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[F*Ex]]></title>
+            <link>https://news.ycombinator.com/item?id=31093948</link>
+            <guid>https://news.ycombinator.com/item?id=31093948</guid>
+            <pubDate>Wed, 20 Apr 2022 07:49:40 GMT</pubDate>
+            <description><![CDATA[F*Ex]]></description>
+        </item>
         <item>
             <title><![CDATA[检测DNS根的操纵]]></title>
             <link>https://news.ycombinator.com/item?id=31093863</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31079458</guid>
             <pubDate>Tue, 19 Apr 2022 03:18:21 GMT</pubDate>
             <description><![CDATA[Go Fonts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[张量拼图]]></title>
-            <link>https://news.ycombinator.com/item?id=31079452</link>
-            <guid>https://news.ycombinator.com/item?id=31079452</guid>
-            <pubDate>Tue, 19 Apr 2022 03:15:47 GMT</pubDate>
-            <description><![CDATA[Tensor Puzzles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GPT-3生成的营销内容]]></title>
-            <link>https://news.ycombinator.com/item?id=31079423</link>
-            <guid>https://news.ycombinator.com/item?id=31079423</guid>
-            <pubDate>Tue, 19 Apr 2022 03:09:20 GMT</pubDate>
-            <description><![CDATA[GPT-3 Generated Marketing Content]]></description>
-        </item>
-        <item>
-            <title><![CDATA[旧金山有这么糟糕吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=31079393</link>
-            <guid>https://news.ycombinator.com/item?id=31079393</guid>
-            <pubDate>Tue, 19 Apr 2022 03:03:34 GMT</pubDate>
-            <description><![CDATA[Is San Francisco this bad?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于证据的实践。它是什么以及它为什么重要 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=31079375</link>
-            <guid>https://news.ycombinator.com/item?id=31079375</guid>
-            <pubDate>Tue, 19 Apr 2022 03:00:35 GMT</pubDate>
-            <description><![CDATA[Evidence-Based Practice: What It Is and Why It Matters [pdf]]]></description>
         </item>
     </channel>
 </rss>
