@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T07:33:51.696Z</updated>
+    <updated>2022-04-20T07:42:50.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[檢測DNS根的操縱]]></title>
+        <id>https://news.ycombinator.com/item?id=31093863</id>
+        <link href="https://news.ycombinator.com/item?id=31093863"/>
+        <updated>2022-04-20T07:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Detecting DNS Root Manipulation]]></summary>
+        <author>
+            <name>minusf</name>
+            <uri>https://news.ycombinator.com/user?id=minusf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix暴跌，20萬用戶退出，十年來首次下跌]]></title>
+        <id>https://news.ycombinator.com/item?id=31093817</id>
+        <link href="https://news.ycombinator.com/item?id=31093817"/>
+        <updated>2022-04-20T07:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Netflix Tumbles as 200k Users Exit for First Drop in Decade]]></summary>
+        <author>
+            <name>spacebanana7</name>
+            <uri>https://news.ycombinator.com/user?id=spacebanana7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell中的Doctests介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=31093371</id>
+        <link href="https://news.ycombinator.com/item?id=31093371"/>
+        <updated>2022-04-20T06:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Doctests in Haskell]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VCS基金的想法而不是執行]]></title>
         <id>https://news.ycombinator.com/item?id=31093803</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>animal_spirits</name>
             <uri>https://news.ycombinator.com/user?id=animal_spirits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦調查局網絡俚語指南]]></title>
-        <id>https://news.ycombinator.com/item?id=31079334</id>
-        <link href="https://news.ycombinator.com/item?id=31079334"/>
-        <updated>2022-04-19T02:51:07.000Z</updated>
-        <summary type="html"><![CDATA[The FBI Guide to Internet Slang]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回到Twitter的未來]]></title>
-        <id>https://news.ycombinator.com/item?id=31079304</id>
-        <link href="https://news.ycombinator.com/item?id=31079304"/>
-        <updated>2022-04-19T02:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Back to the Future of Twitter]]></summary>
-        <author>
-            <name>migueloller</name>
-            <uri>https://news.ycombinator.com/user?id=migueloller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scripnix: 適用於macOS/BSD和*NIX的實用Python3和bash shell腳本]]></title>
-        <id>https://news.ycombinator.com/item?id=31079223</id>
-        <link href="https://news.ycombinator.com/item?id=31079223"/>
-        <updated>2022-04-19T02:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Scripnix: Useful Python3 and bash shell scripts for macOS/BSD and *NIX]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>

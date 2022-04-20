@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[檢測DNS根的操縱]]></title>
+            <link>https://news.ycombinator.com/item?id=31093863</link>
+            <guid>https://news.ycombinator.com/item?id=31093863</guid>
+            <pubDate>Wed, 20 Apr 2022 07:34:39 GMT</pubDate>
+            <description><![CDATA[Detecting DNS Root Manipulation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netflix暴跌，20萬用戶退出，十年來首次下跌]]></title>
+            <link>https://news.ycombinator.com/item?id=31093817</link>
+            <guid>https://news.ycombinator.com/item?id=31093817</guid>
+            <pubDate>Wed, 20 Apr 2022 07:26:59 GMT</pubDate>
+            <description><![CDATA[Netflix Tumbles as 200k Users Exit for First Drop in Decade]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Haskell中的Doctests介紹]]></title>
+            <link>https://news.ycombinator.com/item?id=31093371</link>
+            <guid>https://news.ycombinator.com/item?id=31093371</guid>
+            <pubDate>Wed, 20 Apr 2022 06:00:24 GMT</pubDate>
+            <description><![CDATA[Introduction to Doctests in Haskell]]></description>
+        </item>
         <item>
             <title><![CDATA[VCS基金的想法而不是執行]]></title>
             <link>https://news.ycombinator.com/item?id=31093803</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31079375</guid>
             <pubDate>Tue, 19 Apr 2022 03:00:35 GMT</pubDate>
             <description><![CDATA[Evidence-Based Practice: What It Is and Why It Matters [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦調查局網絡俚語指南]]></title>
-            <link>https://news.ycombinator.com/item?id=31079334</link>
-            <guid>https://news.ycombinator.com/item?id=31079334</guid>
-            <pubDate>Tue, 19 Apr 2022 02:51:07 GMT</pubDate>
-            <description><![CDATA[The FBI Guide to Internet Slang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[回到Twitter的未來]]></title>
-            <link>https://news.ycombinator.com/item?id=31079304</link>
-            <guid>https://news.ycombinator.com/item?id=31079304</guid>
-            <pubDate>Tue, 19 Apr 2022 02:44:19 GMT</pubDate>
-            <description><![CDATA[Back to the Future of Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scripnix: 適用於macOS/BSD和*NIX的實用Python3和bash shell腳本]]></title>
-            <link>https://news.ycombinator.com/item?id=31079223</link>
-            <guid>https://news.ycombinator.com/item?id=31079223</guid>
-            <pubDate>Tue, 19 Apr 2022 02:28:20 GMT</pubDate>
-            <description><![CDATA[Scripnix: Useful Python3 and bash shell scripts for macOS/BSD and *NIX]]></description>
         </item>
     </channel>
 </rss>
