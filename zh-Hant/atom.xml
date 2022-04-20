@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T22:49:11.319Z</updated>
+    <updated>2022-04-20T22:56:12.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用非免費程序是否永遠是件好事？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103880</id>
+        <link href="https://news.ycombinator.com/item?id=31103880"/>
+        <updated>2022-04-20T22:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Is It Ever a Good Thing to Use a Nonfree Program?]]></summary>
+        <author>
+            <name>crazypython</name>
+            <uri>https://news.ycombinator.com/user?id=crazypython</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州科技億萬富翁啟動參議院競選活動，與特斯拉對壘]]></title>
         <id>https://news.ycombinator.com/item?id=31103976</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix營收不及預期 淨用戶數下降 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31088531</id>
-        <link href="https://news.ycombinator.com/item?id=31088531"/>
-        <updated>2022-04-19T20:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Netflix Misses Revenue Net Subscribers Declines [pdf]]]></summary>
-        <author>
-            <name>11thEarlOfMar</name>
-            <uri>https://news.ycombinator.com/user?id=11thEarlOfMar</uri>
         </author>
     </entry>
 </feed>
