@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T11:39:06.544Z</updated>
+    <updated>2022-04-20T11:52:17.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[24小时比赛由行驶了1微米的分子获胜]]></title>
+        <id>https://news.ycombinator.com/item?id=31095369</id>
+        <link href="https://news.ycombinator.com/item?id=31095369"/>
+        <updated>2022-04-20T11:33:29.000Z</updated>
+        <summary type="html"><![CDATA[24-hour race won by molecule that traveled 1 micron]]></summary>
+        <author>
+            <name>ordu</name>
+            <uri>https://news.ycombinator.com/user?id=ordu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I9-12900KS WR在8个核心上的频率为7.8Ghz：我是如何用70升液氮打出这个成绩的]]></title>
+        <id>https://news.ycombinator.com/item?id=31095363</id>
+        <link href="https://news.ycombinator.com/item?id=31095363"/>
+        <updated>2022-04-20T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[I9-12900KS WR at 7.8Ghz on 8 cores: how I hit this with 70l of liquid nitrogen]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eee PC修改指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31095327</id>
+        <link href="https://news.ycombinator.com/item?id=31095327"/>
+        <updated>2022-04-20T11:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Eee PC Modding Guide]]></summary>
+        <author>
+            <name>jamesy0ung</name>
+            <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN用的Favicons]]></title>
+        <id>https://news.ycombinator.com/item?id=31095046</id>
+        <link href="https://news.ycombinator.com/item?id=31095046"/>
+        <updated>2022-04-20T10:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Favicons for HN]]></summary>
+        <author>
+            <name>frabert</name>
+            <uri>https://news.ycombinator.com/user?id=frabert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国法院批准将朱利安-阿桑奇引渡到美国]]></title>
         <id>https://news.ycombinator.com/item?id=31095326</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约30%的Covid患者会出现 "长Covid"。]]></title>
-        <id>https://news.ycombinator.com/item?id=31080850</id>
-        <link href="https://news.ycombinator.com/item?id=31080850"/>
-        <updated>2022-04-19T08:37:53.000Z</updated>
-        <summary type="html"><![CDATA[About 30% of Covid patients develop 'Long Covid']]></summary>
-        <author>
-            <name>mdp2021</name>
-            <uri>https://news.ycombinator.com/user?id=mdp2021</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Node.js中用Execa运行命令]]></title>
-        <id>https://news.ycombinator.com/item?id=31080578</id>
-        <link href="https://news.ycombinator.com/item?id=31080578"/>
-        <updated>2022-04-19T07:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Running Commands with Execa in Node.js]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解NFTs的环境影响]]></title>
-        <id>https://news.ycombinator.com/item?id=31080751</id>
-        <link href="https://news.ycombinator.com/item?id=31080751"/>
-        <updated>2022-04-19T08:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Environmental Impacts of NFTs]]></summary>
-        <author>
-            <name>howdoyousaynejc</name>
-            <uri>https://news.ycombinator.com/user?id=howdoyousaynejc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Guix背后的10年故事]]></title>
-        <id>https://news.ycombinator.com/item?id=31080735</id>
-        <link href="https://news.ycombinator.com/item?id=31080735"/>
-        <updated>2022-04-19T08:16:23.000Z</updated>
-        <summary type="html"><![CDATA[10 years of stories behind GNU Guix]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
