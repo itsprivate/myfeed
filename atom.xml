@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T08:41:39.723Z</updated>
+    <updated>2022-04-20T08:58:10.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SND: 为用户体验开发者精心制作的UI声音资产]]></title>
+        <id>https://news.ycombinator.com/item?id=31094250</id>
+        <link href="https://news.ycombinator.com/item?id=31094250"/>
+        <updated>2022-04-20T08:40:33.000Z</updated>
+        <summary type="html"><![CDATA[SND: Crafted UI sound assets for UX developers]]></summary>
+        <author>
+            <name>syx</name>
+            <uri>https://news.ycombinator.com/user?id=syx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记忆的战争。为什么Z-战争不会以和平结束]]></title>
+        <id>https://news.ycombinator.com/item?id=31094131</id>
+        <link href="https://news.ycombinator.com/item?id=31094131"/>
+        <updated>2022-04-20T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[War of memes: Why Z-war won't end with peace]]></summary>
+        <author>
+            <name>boffinism</name>
+            <uri>https://news.ycombinator.com/user?id=boffinism</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dunelm在AWS Lambdas中同时运行400多个浏览器测试]]></title>
+        <id>https://news.ycombinator.com/item?id=31094059</id>
+        <link href="https://news.ycombinator.com/item?id=31094059"/>
+        <updated>2022-04-20T08:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Dunelm run over 400 browser tests at the same time in AWS Lambdas]]></summary>
+        <author>
+            <name>VOBOSHI</name>
+            <uri>https://news.ycombinator.com/user?id=VOBOSHI</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能正在创造一个新的殖民主义世界秩序]]></title>
+        <id>https://news.ycombinator.com/item?id=31093253</id>
+        <link href="https://news.ycombinator.com/item?id=31093253"/>
+        <updated>2022-04-20T05:39:37.000Z</updated>
+        <summary type="html"><![CDATA[AI is creating a new colonial world order]]></summary>
+        <author>
+            <name>jcolman</name>
+            <uri>https://news.ycombinator.com/user?id=jcolman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移植到Rust的Ruby YJIT]]></title>
         <id>https://news.ycombinator.com/item?id=31094130</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>panicpanicpanic</name>
             <uri>https://news.ycombinator.com/user?id=panicpanicpanic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模拟 "莫斯科 "号沉没的战争游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=31079574</id>
-        <link href="https://news.ycombinator.com/item?id=31079574"/>
-        <updated>2022-04-19T03:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Wargame Simulating the Sinking of the Moskva]]></summary>
-        <author>
-            <name>dragontamer</name>
-            <uri>https://news.ycombinator.com/user?id=dragontamer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么导致了欧美儿童肝炎的突然爆发？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079435</id>
-        <link href="https://news.ycombinator.com/item?id=31079435"/>
-        <updated>2022-04-19T03:12:46.000Z</updated>
-        <summary type="html"><![CDATA[What’s Causing a Sudden Outbreak of Hepatitis in Kids in Europe and the US?]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[咖啡的简要看法 - 第二部分]]></title>
-        <id>https://news.ycombinator.com/item?id=31079182</id>
-        <link href="https://news.ycombinator.com/item?id=31079182"/>
-        <updated>2022-04-19T02:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Brief View of Coffee – Part 2]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去吧 字体]]></title>
-        <id>https://news.ycombinator.com/item?id=31079458</id>
-        <link href="https://news.ycombinator.com/item?id=31079458"/>
-        <updated>2022-04-19T03:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Go Fonts]]></summary>
-        <author>
-            <name>jonpalmisc</name>
-            <uri>https://news.ycombinator.com/user?id=jonpalmisc</uri>
         </author>
     </entry>
 </feed>
