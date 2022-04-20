@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T05:55:50.010Z</updated>
+    <updated>2022-04-20T06:15:12.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更快的地理空间充实度。PostgreSQL vs. ClickHouse vs. BigQuery]]></title>
+        <id>https://news.ycombinator.com/item?id=31093376</id>
+        <link href="https://news.ycombinator.com/item?id=31093376"/>
+        <updated>2022-04-20T06:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蝶变的表现如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=31093347</id>
+        <link href="https://news.ycombinator.com/item?id=31093347"/>
+        <updated>2022-04-20T05:55:02.000Z</updated>
+        <summary type="html"><![CDATA[How Is Debian Doing?]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罕见的情况使我的视力出现静电]]></title>
+        <id>https://news.ycombinator.com/item?id=31093321</id>
+        <link href="https://news.ycombinator.com/item?id=31093321"/>
+        <updated>2022-04-20T05:49:38.000Z</updated>
+        <summary type="html"><![CDATA['Rare condition gives me TV static in my vision']]></summary>
+        <author>
+            <name>incidentnormal</name>
+            <uri>https://news.ycombinator.com/user?id=incidentnormal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alexa.com将于2022年5月1日退役]]></title>
+        <id>https://news.ycombinator.com/item?id=31092989</id>
+        <link href="https://news.ycombinator.com/item?id=31092989"/>
+        <updated>2022-04-20T05:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Alexa.com to be retired May 1 2022]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尿液和前列腺的微生物组与人类前列腺癌风险群体有关]]></title>
+        <id>https://news.ycombinator.com/item?id=31092812</id>
+        <link href="https://news.ycombinator.com/item?id=31092812"/>
+        <updated>2022-04-20T04:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Microbiomes of Urine and Prostate Linked to Human Prostate Cancer Risk Groups]]></summary>
+        <author>
+            <name>zinekeller</name>
+            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix在抵制多年后正在探索低价的广告支持计划]]></title>
+        <id>https://news.ycombinator.com/item?id=31092775</id>
+        <link href="https://news.ycombinator.com/item?id=31092775"/>
+        <updated>2022-04-20T04:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Netflix is exploring lower-priced, ad-supported plans after years of resisting]]></summary>
+        <author>
+            <name>samaysharma</name>
+            <uri>https://news.ycombinator.com/user?id=samaysharma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神经空间填充曲线]]></title>
+        <id>https://news.ycombinator.com/item?id=31092554</id>
+        <link href="https://news.ycombinator.com/item?id=31092554"/>
+        <updated>2022-04-20T03:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Neural Space-Filling Curves]]></summary>
+        <author>
+            <name>nnx</name>
+            <uri>https://news.ycombinator.com/user?id=nnx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球人口正在崩溃、飙升和移动]]></title>
         <id>https://news.ycombinator.com/item?id=31093134</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>andersource</name>
             <uri>https://news.ycombinator.com/user?id=andersource</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Rust实现blake3哈希算法的MySQL UDF]]></title>
-        <id>https://news.ycombinator.com/item?id=31078322</id>
-        <link href="https://news.ycombinator.com/item?id=31078322"/>
-        <updated>2022-04-19T00:08:29.000Z</updated>
-        <summary type="html"><![CDATA[MySQL UDF that implements blake3 hash algorithm using Rust]]></summary>
-        <author>
-            <name>mliezun</name>
-            <uri>https://news.ycombinator.com/user?id=mliezun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这个新脚本增加树莓派的可用内存（ZRAM swapdrive）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31077770</id>
-        <link href="https://news.ycombinator.com/item?id=31077770"/>
-        <updated>2022-04-18T23:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Increase usable RAM on your Raspberry Pi with this new script (ZRAM swapdrive)]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TiDB v6.0发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31078512</id>
-        <link href="https://news.ycombinator.com/item?id=31078512"/>
-        <updated>2022-04-19T00:36:38.000Z</updated>
-        <summary type="html"><![CDATA[TiDB v6.0 Released]]></summary>
-        <author>
-            <name>c4pt0r</name>
-            <uri>https://news.ycombinator.com/user?id=c4pt0r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁是All-in Podcast/本周初创企业的制作人？]]></title>
-        <id>https://news.ycombinator.com/item?id=31078416</id>
-        <link href="https://news.ycombinator.com/item?id=31078416"/>
-        <updated>2022-04-19T00:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Who is the producer of the All-in Podcast/This week in startups?]]></summary>
-        <author>
-            <name>jdcampolargo</name>
-            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我失去了对一台服务器的控制]]></title>
-        <id>https://news.ycombinator.com/item?id=31078344</id>
-        <link href="https://news.ycombinator.com/item?id=31078344"/>
-        <updated>2022-04-19T00:11:08.000Z</updated>
-        <summary type="html"><![CDATA[I Lost Control of a Server]]></summary>
-        <author>
-            <name>sonicrocketman</name>
-            <uri>https://news.ycombinator.com/user?id=sonicrocketman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示，加拿大人认为某些宗教对社会有损害]]></title>
-        <id>https://news.ycombinator.com/item?id=31078253</id>
-        <link href="https://news.ycombinator.com/item?id=31078253"/>
-        <updated>2022-04-18T23:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Canadians consider certain religions damaging to society: survey]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思科无线局域网控制器接口认证绕过漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=31078246</id>
-        <link href="https://news.ycombinator.com/item?id=31078246"/>
-        <updated>2022-04-18T23:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Cisco Wireless LAN Controller Interface Authentication Bypass Vulnerability]]></summary>
-        <author>
-            <name>dangle1</name>
-            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
         </author>
     </entry>
 </feed>

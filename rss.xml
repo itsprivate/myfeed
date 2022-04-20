@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[更快的地理空间充实度。PostgreSQL vs. ClickHouse vs. BigQuery]]></title>
+            <link>https://news.ycombinator.com/item?id=31093376</link>
+            <guid>https://news.ycombinator.com/item?id=31093376</guid>
+            <pubDate>Wed, 20 Apr 2022 06:01:19 GMT</pubDate>
+            <description><![CDATA[Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蝶变的表现如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=31093347</link>
+            <guid>https://news.ycombinator.com/item?id=31093347</guid>
+            <pubDate>Wed, 20 Apr 2022 05:55:02 GMT</pubDate>
+            <description><![CDATA[How Is Debian Doing?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[罕见的情况使我的视力出现静电]]></title>
+            <link>https://news.ycombinator.com/item?id=31093321</link>
+            <guid>https://news.ycombinator.com/item?id=31093321</guid>
+            <pubDate>Wed, 20 Apr 2022 05:49:38 GMT</pubDate>
+            <description><![CDATA['Rare condition gives me TV static in my vision']]></description>
+        </item>
+        <item>
+            <title><![CDATA[Alexa.com将于2022年5月1日退役]]></title>
+            <link>https://news.ycombinator.com/item?id=31092989</link>
+            <guid>https://news.ycombinator.com/item?id=31092989</guid>
+            <pubDate>Wed, 20 Apr 2022 05:00:50 GMT</pubDate>
+            <description><![CDATA[Alexa.com to be retired May 1 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尿液和前列腺的微生物组与人类前列腺癌风险群体有关]]></title>
+            <link>https://news.ycombinator.com/item?id=31092812</link>
+            <guid>https://news.ycombinator.com/item?id=31092812</guid>
+            <pubDate>Wed, 20 Apr 2022 04:27:45 GMT</pubDate>
+            <description><![CDATA[Microbiomes of Urine and Prostate Linked to Human Prostate Cancer Risk Groups]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netflix在抵制多年后正在探索低价的广告支持计划]]></title>
+            <link>https://news.ycombinator.com/item?id=31092775</link>
+            <guid>https://news.ycombinator.com/item?id=31092775</guid>
+            <pubDate>Wed, 20 Apr 2022 04:21:28 GMT</pubDate>
+            <description><![CDATA[Netflix is exploring lower-priced, ad-supported plans after years of resisting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[神经空间填充曲线]]></title>
+            <link>https://news.ycombinator.com/item?id=31092554</link>
+            <guid>https://news.ycombinator.com/item?id=31092554</guid>
+            <pubDate>Wed, 20 Apr 2022 03:39:06 GMT</pubDate>
+            <description><![CDATA[Neural Space-Filling Curves]]></description>
+        </item>
         <item>
             <title><![CDATA[全球人口正在崩溃、飙升和移动]]></title>
             <link>https://news.ycombinator.com/item?id=31093134</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31078441</guid>
             <pubDate>Tue, 19 Apr 2022 00:27:07 GMT</pubDate>
             <description><![CDATA[I can't let go of “The Dunning-Kruger Effect is Autocorrelation”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Rust实现blake3哈希算法的MySQL UDF]]></title>
-            <link>https://news.ycombinator.com/item?id=31078322</link>
-            <guid>https://news.ycombinator.com/item?id=31078322</guid>
-            <pubDate>Tue, 19 Apr 2022 00:08:29 GMT</pubDate>
-            <description><![CDATA[MySQL UDF that implements blake3 hash algorithm using Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用这个新脚本增加树莓派的可用内存（ZRAM swapdrive）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31077770</link>
-            <guid>https://news.ycombinator.com/item?id=31077770</guid>
-            <pubDate>Mon, 18 Apr 2022 23:01:43 GMT</pubDate>
-            <description><![CDATA[Increase usable RAM on your Raspberry Pi with this new script (ZRAM swapdrive)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TiDB v6.0发布]]></title>
-            <link>https://news.ycombinator.com/item?id=31078512</link>
-            <guid>https://news.ycombinator.com/item?id=31078512</guid>
-            <pubDate>Tue, 19 Apr 2022 00:36:38 GMT</pubDate>
-            <description><![CDATA[TiDB v6.0 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁是All-in Podcast/本周初创企业的制作人？]]></title>
-            <link>https://news.ycombinator.com/item?id=31078416</link>
-            <guid>https://news.ycombinator.com/item?id=31078416</guid>
-            <pubDate>Tue, 19 Apr 2022 00:21:30 GMT</pubDate>
-            <description><![CDATA[Who is the producer of the All-in Podcast/This week in startups?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我失去了对一台服务器的控制]]></title>
-            <link>https://news.ycombinator.com/item?id=31078344</link>
-            <guid>https://news.ycombinator.com/item?id=31078344</guid>
-            <pubDate>Tue, 19 Apr 2022 00:11:08 GMT</pubDate>
-            <description><![CDATA[I Lost Control of a Server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[调查显示，加拿大人认为某些宗教对社会有损害]]></title>
-            <link>https://news.ycombinator.com/item?id=31078253</link>
-            <guid>https://news.ycombinator.com/item?id=31078253</guid>
-            <pubDate>Mon, 18 Apr 2022 23:58:25 GMT</pubDate>
-            <description><![CDATA[Canadians consider certain religions damaging to society: survey]]></description>
-        </item>
-        <item>
-            <title><![CDATA[思科无线局域网控制器接口认证绕过漏洞]]></title>
-            <link>https://news.ycombinator.com/item?id=31078246</link>
-            <guid>https://news.ycombinator.com/item?id=31078246</guid>
-            <pubDate>Mon, 18 Apr 2022 23:57:57 GMT</pubDate>
-            <description><![CDATA[Cisco Wireless LAN Controller Interface Authentication Bypass Vulnerability]]></description>
         </item>
     </channel>
 </rss>
