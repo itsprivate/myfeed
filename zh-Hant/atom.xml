@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T12:20:21.809Z</updated>
+    <updated>2022-04-20T13:06:55.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java 15引入了一個密碼學漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31096184</id>
+        <link href="https://news.ycombinator.com/item?id=31096184"/>
+        <updated>2022-04-20T12:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Java 15 introduced a cryptographic vulnerability]]></summary>
+        <author>
+            <name>TwoFactor</name>
+            <uri>https://news.ycombinator.com/user?id=TwoFactor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用、檢測和糾正IAM的安全錯誤配置]]></title>
+        <id>https://news.ycombinator.com/item?id=31096137</id>
+        <link href="https://news.ycombinator.com/item?id=31096137"/>
+        <updated>2022-04-20T12:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting, detecting, and correcting IAM security misconfigurations]]></summary>
+        <author>
+            <name>MiguelHzBz</name>
+            <uri>https://news.ycombinator.com/user?id=MiguelHzBz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Pulsar與Apache Kafka 2022年基準測試]]></title>
+        <id>https://news.ycombinator.com/item?id=31095915</id>
+        <link href="https://news.ycombinator.com/item?id=31095915"/>
+        <updated>2022-04-20T12:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Apache Pulsar vs. Apache Kafka 2022 Benchmark]]></summary>
+        <author>
+            <name>mountainview</name>
+            <uri>https://news.ycombinator.com/user?id=mountainview</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[涉及鋰硫電池的幸運發現]]></title>
+        <id>https://news.ycombinator.com/item?id=31095893</id>
+        <link href="https://news.ycombinator.com/item?id=31095893"/>
+        <updated>2022-04-20T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Lucky discovery involving lithium-sulfur batteries]]></summary>
+        <author>
+            <name>vardhanw</name>
+            <uri>https://news.ycombinator.com/user?id=vardhanw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大麻對我們的認知和心理產生影響]]></title>
+        <id>https://news.ycombinator.com/item?id=31095846</id>
+        <link href="https://news.ycombinator.com/item?id=31095846"/>
+        <updated>2022-04-20T12:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Cannabis Affects Our Cognition and Psychology]]></summary>
+        <author>
+            <name>maskedinvader</name>
+            <uri>https://news.ycombinator.com/user?id=maskedinvader</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scribo AI]]></title>
+        <id>https://news.ycombinator.com/item?id=31095774</id>
+        <link href="https://news.ycombinator.com/item?id=31095774"/>
+        <updated>2022-04-20T12:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Scribo AI]]></summary>
+        <author>
+            <name>scriboai</name>
+            <uri>https://news.ycombinator.com/user?id=scriboai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playfreeminecraft.farted.net]]></title>
+        <id>https://news.ycombinator.com/item?id=31095708</id>
+        <link href="https://news.ycombinator.com/item?id=31095708"/>
+        <updated>2022-04-20T12:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Playfreeminecraft.farted.net]]></summary>
+        <author>
+            <name>wazbug</name>
+            <uri>https://news.ycombinator.com/user?id=wazbug</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我住在被封鎖的上海--這裡的生活是這樣的]]></title>
+        <id>https://news.ycombinator.com/item?id=31095545</id>
+        <link href="https://news.ycombinator.com/item?id=31095545"/>
+        <updated>2022-04-20T11:50:51.000Z</updated>
+        <summary type="html"><![CDATA[I live in locked-down Shanghai – here’s what life is like]]></summary>
+        <author>
+            <name>RickJWagner</name>
+            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanscubicle - 一個由印度最優秀的人才組成的服務DAO社區]]></title>
+        <id>https://news.ycombinator.com/item?id=31094936</id>
+        <link href="https://news.ycombinator.com/item?id=31094936"/>
+        <updated>2022-04-20T10:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sanscubicle – A Community of service DAOs with India's finest minds]]></summary>
+        <author>
+            <name>damenci</name>
+            <uri>https://news.ycombinator.com/user?id=damenci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉Gigafactory 4月發生化學品洩漏事件]]></title>
         <id>https://news.ycombinator.com/item?id=31095623</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>svermigo</name>
             <uri>https://news.ycombinator.com/user?id=svermigo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環球公司的有聲水印]]></title>
-        <id>https://news.ycombinator.com/item?id=31080999</id>
-        <link href="https://news.ycombinator.com/item?id=31080999"/>
-        <updated>2022-04-19T09:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Universal's Audible Watermark]]></summary>
-        <author>
-            <name>crummy</name>
-            <uri>https://news.ycombinator.com/user?id=crummy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大禁止外國購房者兩年]]></title>
-        <id>https://news.ycombinator.com/item?id=31081417</id>
-        <link href="https://news.ycombinator.com/item?id=31081417"/>
-        <updated>2022-04-19T10:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Canada bans foreign home buyers for two years]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo "恢復 "盜版網站並指出Bing是罪魁禍首]]></title>
-        <id>https://news.ycombinator.com/item?id=31081321</id>
-        <link href="https://news.ycombinator.com/item?id=31081321"/>
-        <updated>2022-04-19T10:09:30.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo ‘Restores’ Pirate Sites and Points to Bing as Culprit]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本發明 "電動 "筷子，使食物看起來更鹹]]></title>
-        <id>https://news.ycombinator.com/item?id=31081312</id>
-        <link href="https://news.ycombinator.com/item?id=31081312"/>
-        <updated>2022-04-19T10:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Japan invents ‘electric’ chopsticks that make food seem more salty]]></summary>
-        <author>
-            <name>camtarn</name>
-            <uri>https://news.ycombinator.com/user?id=camtarn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[說服力和威望悖論]]></title>
-        <id>https://news.ycombinator.com/item?id=31081261</id>
-        <link href="https://news.ycombinator.com/item?id=31081261"/>
-        <updated>2022-04-19T09:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Persuasion and the Prestige Paradox]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動物王國的馬基雅弗利主義者]]></title>
-        <id>https://news.ycombinator.com/item?id=31081385</id>
-        <link href="https://news.ycombinator.com/item?id=31081385"/>
-        <updated>2022-04-19T10:23:16.000Z</updated>
-        <summary type="html"><![CDATA[The Machiavellians of the Animal Kingdom]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數十年後，神秘的柯達馬賽克在幹牆背後被發現]]></title>
-        <id>https://news.ycombinator.com/item?id=31081366</id>
-        <link href="https://news.ycombinator.com/item?id=31081366"/>
-        <updated>2022-04-19T10:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Mysterious Kodak Mosaic Discovered Behind Drywall After Decades]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31%的加拿大人的收入不足以支付他們的賬單。調查顯示]]></title>
-        <id>https://news.ycombinator.com/item?id=31081347</id>
-        <link href="https://news.ycombinator.com/item?id=31081347"/>
-        <updated>2022-04-19T10:15:22.000Z</updated>
-        <summary type="html"><![CDATA[31% of Canadians don't earn enough to pay their bills: Survey]]></summary>
-        <author>
-            <name>okasaki</name>
-            <uri>https://news.ycombinator.com/user?id=okasaki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拋棄衛星導航：自然導航的失落秘密(2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=31081022</id>
-        <link href="https://news.ycombinator.com/item?id=31081022"/>
-        <updated>2022-04-19T09:08:43.000Z</updated>
-        <summary type="html"><![CDATA[Ditching the satnav: the lost secrets of natural navigation (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
