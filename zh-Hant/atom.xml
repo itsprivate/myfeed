@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T23:44:37.189Z</updated>
+    <updated>2022-04-20T23:52:01.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據中心的停電導致mailbox.org的宕機]]></title>
+        <id>https://news.ycombinator.com/item?id=31104448</id>
+        <link href="https://news.ycombinator.com/item?id=31104448"/>
+        <updated>2022-04-20T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[A power outage in the data centre led to downtime at mailbox.org]]></summary>
+        <author>
+            <name>BOOSTERHIDROGEN</name>
+            <uri>https://news.ycombinator.com/user?id=BOOSTERHIDROGEN</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司人--推特--崛起與衰落？]]></title>
+        <id>https://news.ycombinator.com/item?id=31103902</id>
+        <link href="https://news.ycombinator.com/item?id=31103902"/>
+        <updated>2022-04-20T22:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Company Man – Twitter – The Rise and Fall?]]></summary>
+        <author>
+            <name>thrusong</name>
+            <uri>https://news.ycombinator.com/user?id=thrusong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM被勒令就科技項目的倒閉向保險公司支付1.05億美元]]></title>
         <id>https://news.ycombinator.com/item?id=31104425</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Riseed</name>
             <uri>https://news.ycombinator.com/user?id=Riseed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyft宣佈收購PBSC城市解決方案的協議]]></title>
-        <id>https://news.ycombinator.com/item?id=31088436</id>
-        <link href="https://news.ycombinator.com/item?id=31088436"/>
-        <updated>2022-04-19T20:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Lyft Announces Agreement to Acquire PBSC Urban Solutions]]></summary>
-        <author>
-            <name>bsilvereagle</name>
-            <uri>https://news.ycombinator.com/user?id=bsilvereagle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不受監管的德克薩斯州天然氣管道引發甲烷洩漏事件]]></title>
-        <id>https://news.ycombinator.com/item?id=31088399</id>
-        <link href="https://news.ycombinator.com/item?id=31088399"/>
-        <updated>2022-04-19T20:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Unregulated Texas Gas Pipeline Triggers a Methane Leak]]></summary>
-        <author>
-            <name>montalbano</name>
-            <uri>https://news.ycombinator.com/user?id=montalbano</uri>
         </author>
     </entry>
 </feed>
