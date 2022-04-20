@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T21:12:40.475Z</updated>
+    <updated>2022-04-20T21:33:48.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金融科技和实用乌托邦主义]]></title>
+        <id>https://news.ycombinator.com/item?id=31103105</id>
+        <link href="https://news.ycombinator.com/item?id=31103105"/>
+        <updated>2022-04-20T21:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Fintech and Practical Utopianism]]></summary>
+        <author>
+            <name>colesantiago</name>
+            <uri>https://news.ycombinator.com/user?id=colesantiago</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19年来的62个项目]]></title>
+        <id>https://news.ycombinator.com/item?id=31103089</id>
+        <link href="https://news.ycombinator.com/item?id=31103089"/>
+        <updated>2022-04-20T21:14:04.000Z</updated>
+        <summary type="html"><![CDATA[62 Projects in 19 Years]]></summary>
+        <author>
+            <name>stephsmithio</name>
+            <uri>https://news.ycombinator.com/user?id=stephsmithio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美禄。社区拥有的自我托管的dApp商店]]></title>
+        <id>https://news.ycombinator.com/item?id=31103075</id>
+        <link href="https://news.ycombinator.com/item?id=31103075"/>
+        <updated>2022-04-20T21:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Meroku: Community owned self-hosted dApp store]]></summary>
+        <author>
+            <name>bitpack</name>
+            <uri>https://news.ycombinator.com/user?id=bitpack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时间安全比内存安全更重要]]></title>
+        <id>https://news.ycombinator.com/item?id=31103018</id>
+        <link href="https://news.ycombinator.com/item?id=31103018"/>
+        <updated>2022-04-20T21:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Time safety is more important than memory safety]]></summary>
+        <author>
+            <name>smartmic</name>
+            <uri>https://news.ycombinator.com/user?id=smartmic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌应用引擎中的10k美元主机头漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31102998</id>
+        <link href="https://news.ycombinator.com/item?id=31102998"/>
+        <updated>2022-04-20T21:05:52.000Z</updated>
+        <summary type="html"><![CDATA[$10k Host header vulnerability in Google App Engine]]></summary>
+        <author>
+            <name>alpb</name>
+            <uri>https://news.ycombinator.com/user?id=alpb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于真实世界ML系统的新课程]]></title>
+        <id>https://news.ycombinator.com/item?id=31102996</id>
+        <link href="https://news.ycombinator.com/item?id=31102996"/>
+        <updated>2022-04-20T21:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New course on real-world ML systems]]></summary>
+        <author>
+            <name>nihit-desai</name>
+            <uri>https://news.ycombinator.com/user?id=nihit-desai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无师自通的随机数]]></title>
+        <id>https://news.ycombinator.com/item?id=31102664</id>
+        <link href="https://news.ycombinator.com/item?id=31102664"/>
+        <updated>2022-04-20T20:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Divisionless Random Numbers]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[姆雷]]></title>
         <id>https://news.ycombinator.com/item?id=31102918</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>gagejustins</name>
             <uri>https://news.ycombinator.com/user?id=gagejustins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crontabula。用Python解析Crontab表达式]]></title>
-        <id>https://news.ycombinator.com/item?id=31087447</id>
-        <link href="https://news.ycombinator.com/item?id=31087447"/>
-        <updated>2022-04-19T19:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Crontabula: Parse Crontab Expressions with Python]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剃须的历史和演变]]></title>
-        <id>https://news.ycombinator.com/item?id=31087444</id>
-        <link href="https://news.ycombinator.com/item?id=31087444"/>
-        <updated>2022-04-19T19:05:09.000Z</updated>
-        <summary type="html"><![CDATA[The History and Evolution of Shaving]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学虚无主义]]></title>
-        <id>https://news.ycombinator.com/item?id=31086956</id>
-        <link href="https://news.ycombinator.com/item?id=31086956"/>
-        <updated>2022-04-19T18:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Scientific Nihilism]]></summary>
-        <author>
-            <name>themgt</name>
-            <uri>https://news.ycombinator.com/user?id=themgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同性恋的地方 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31086924</id>
-        <link href="https://news.ycombinator.com/item?id=31086924"/>
-        <updated>2022-04-19T18:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Where the Gay Things Are (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉化的美国所有电动汽车模型。]]></title>
-        <id>https://news.ycombinator.com/item?id=31086740</id>
-        <link href="https://news.ycombinator.com/item?id=31086740"/>
-        <updated>2022-04-19T18:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Visualizing All the Electric Car Models Available in the U.S.]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Dendron和VSCode的明文任务管理]]></title>
-        <id>https://news.ycombinator.com/item?id=31087338</id>
-        <link href="https://news.ycombinator.com/item?id=31087338"/>
-        <updated>2022-04-19T18:56:55.000Z</updated>
-        <summary type="html"><![CDATA[Plaintext Task Management with Dendron and VSCode]]></summary>
-        <author>
-            <name>jpknowles</name>
-            <uri>https://news.ycombinator.com/user?id=jpknowles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私募股权巨头有意为收购Twitter融资]]></title>
-        <id>https://news.ycombinator.com/item?id=31087269</id>
-        <link href="https://news.ycombinator.com/item?id=31087269"/>
-        <updated>2022-04-19T18:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Private Equity Giant Interested in Financing Twitter Purchase]]></summary>
-        <author>
-            <name>cbtacy</name>
-            <uri>https://news.ycombinator.com/user?id=cbtacy</uri>
         </author>
     </entry>
 </feed>
