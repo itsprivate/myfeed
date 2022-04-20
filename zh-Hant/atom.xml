@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T19:38:01.505Z</updated>
+    <updated>2022-04-20T19:52:54.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客可以使用空白簽名來通過Java中的ECDSA驗證檢查]]></title>
+        <id>https://news.ycombinator.com/item?id=31101897</id>
+        <link href="https://news.ycombinator.com/item?id=31101897"/>
+        <updated>2022-04-20T19:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Hackers can use blank signatures to pass ECDSA verification checks in Java]]></summary>
+        <author>
+            <name>carride</name>
+            <uri>https://news.ycombinator.com/user?id=carride</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增長是線性的，不是指數性的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31101622</id>
+        <link href="https://news.ycombinator.com/item?id=31101622"/>
+        <updated>2022-04-20T19:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Is growth linear, not exponential?]]></summary>
+        <author>
+            <name>jasoncrawford</name>
+            <uri>https://news.ycombinator.com/user?id=jasoncrawford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那不是一個數字，那是一個被釋放的對象]]></title>
+        <id>https://news.ycombinator.com/item?id=31101548</id>
+        <link href="https://news.ycombinator.com/item?id=31101548"/>
+        <updated>2022-04-20T19:11:18.000Z</updated>
+        <summary type="html"><![CDATA[That is not a number, that is a freed object]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思考構建空間-時間和大腦的部分]]></title>
+        <id>https://news.ycombinator.com/item?id=31101409</id>
+        <link href="https://news.ycombinator.com/item?id=31101409"/>
+        <updated>2022-04-20T19:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Pondering the Bits That Build Space-Time and Brains]]></summary>
+        <author>
+            <name>digital55</name>
+            <uri>https://news.ycombinator.com/user?id=digital55</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過XMPP的ActivityStreams]]></title>
         <id>https://news.ycombinator.com/item?id=31101600</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>PeterCorless</name>
             <uri>https://news.ycombinator.com/user?id=PeterCorless</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapr: Rust中的原生跨平臺地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=31086087</id>
-        <link href="https://news.ycombinator.com/item?id=31086087"/>
-        <updated>2022-04-19T17:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Mapr: Native cross platform maps in Rust]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要介意縫合--有可能將傷口焊接起來]]></title>
-        <id>https://news.ycombinator.com/item?id=31086085</id>
-        <link href="https://news.ycombinator.com/item?id=31086085"/>
-        <updated>2022-04-19T17:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Never mind stitches–it is possible to solder wounds closed]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們必須禁止鍋爐，以迫使公眾改用1萬英鎊的熱泵]]></title>
-        <id>https://news.ycombinator.com/item?id=31086020</id>
-        <link href="https://news.ycombinator.com/item?id=31086020"/>
-        <updated>2022-04-19T17:19:48.000Z</updated>
-        <summary type="html"><![CDATA[We must ban boilers to force public to switch to £10k heat pumps']]></summary>
-        <author>
-            <name>alexellisuk</name>
-            <uri>https://news.ycombinator.com/user?id=alexellisuk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僱主用來強迫 "重返辦公室 "的巨大誤區]]></title>
-        <id>https://news.ycombinator.com/item?id=31086003</id>
-        <link href="https://news.ycombinator.com/item?id=31086003"/>
-        <updated>2022-04-19T17:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Big Myths Employers Are Using to Force “Return to Office”]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>

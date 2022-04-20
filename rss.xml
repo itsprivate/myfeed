@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 20 Apr 2022 19:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 19:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客可以使用空白签名来通过Java中的ECDSA验证检查]]></title>
+            <link>https://news.ycombinator.com/item?id=31101897</link>
+            <guid>https://news.ycombinator.com/item?id=31101897</guid>
+            <pubDate>Wed, 20 Apr 2022 19:40:55 GMT</pubDate>
+            <description><![CDATA[Hackers can use blank signatures to pass ECDSA verification checks in Java]]></description>
+        </item>
+        <item>
+            <title><![CDATA[增长是线性的，不是指数性的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31101622</link>
+            <guid>https://news.ycombinator.com/item?id=31101622</guid>
+            <pubDate>Wed, 20 Apr 2022 19:18:38 GMT</pubDate>
+            <description><![CDATA[Is growth linear, not exponential?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[那不是一个数字，那是一个被释放的对象]]></title>
+            <link>https://news.ycombinator.com/item?id=31101548</link>
+            <guid>https://news.ycombinator.com/item?id=31101548</guid>
+            <pubDate>Wed, 20 Apr 2022 19:11:18 GMT</pubDate>
+            <description><![CDATA[That is not a number, that is a freed object]]></description>
+        </item>
+        <item>
+            <title><![CDATA[思考构建空间-时间和大脑的部分]]></title>
+            <link>https://news.ycombinator.com/item?id=31101409</link>
+            <guid>https://news.ycombinator.com/item?id=31101409</guid>
+            <pubDate>Wed, 20 Apr 2022 19:02:01 GMT</pubDate>
+            <description><![CDATA[Pondering the Bits That Build Space-Time and Brains]]></description>
+        </item>
         <item>
             <title><![CDATA[通过XMPP的ActivityStreams]]></title>
             <link>https://news.ycombinator.com/item?id=31101600</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31086111</guid>
             <pubDate>Tue, 19 Apr 2022 17:26:36 GMT</pubDate>
             <description><![CDATA[Exploring Phantom Jams in Your Data Flow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mapr: Rust中的原生跨平台地图]]></title>
-            <link>https://news.ycombinator.com/item?id=31086087</link>
-            <guid>https://news.ycombinator.com/item?id=31086087</guid>
-            <pubDate>Tue, 19 Apr 2022 17:24:54 GMT</pubDate>
-            <description><![CDATA[Mapr: Native cross platform maps in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要介意缝合--有可能将伤口焊接起来]]></title>
-            <link>https://news.ycombinator.com/item?id=31086085</link>
-            <guid>https://news.ycombinator.com/item?id=31086085</guid>
-            <pubDate>Tue, 19 Apr 2022 17:24:45 GMT</pubDate>
-            <description><![CDATA[Never mind stitches–it is possible to solder wounds closed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们必须禁止锅炉，以迫使公众改用1万英镑的热泵]]></title>
-            <link>https://news.ycombinator.com/item?id=31086020</link>
-            <guid>https://news.ycombinator.com/item?id=31086020</guid>
-            <pubDate>Tue, 19 Apr 2022 17:19:48 GMT</pubDate>
-            <description><![CDATA[We must ban boilers to force public to switch to £10k heat pumps']]></description>
-        </item>
-        <item>
-            <title><![CDATA[雇主用来强迫 "重返办公室 "的巨大误区]]></title>
-            <link>https://news.ycombinator.com/item?id=31086003</link>
-            <guid>https://news.ycombinator.com/item?id=31086003</guid>
-            <pubDate>Tue, 19 Apr 2022 17:18:51 GMT</pubDate>
-            <description><![CDATA[Big Myths Employers Are Using to Force “Return to Office”]]></description>
         </item>
     </channel>
 </rss>
