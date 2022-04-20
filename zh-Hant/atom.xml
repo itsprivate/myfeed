@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T18:41:07.635Z</updated>
+    <updated>2022-04-20T18:54:55.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[索尼計劃在Playstation遊戲中出售廣告]]></title>
+        <id>https://news.ycombinator.com/item?id=31101270</id>
+        <link href="https://news.ycombinator.com/item?id=31101270"/>
+        <updated>2022-04-20T18:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Sony Plans to Sell Advertising in Playstation Games]]></summary>
+        <author>
+            <name>djrogers</name>
+            <uri>https://news.ycombinator.com/user?id=djrogers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何種植松露。罕見的美味佳餚]]></title>
+        <id>https://news.ycombinator.com/item?id=31101097</id>
+        <link href="https://news.ycombinator.com/item?id=31101097"/>
+        <updated>2022-04-20T18:36:02.000Z</updated>
+        <summary type="html"><![CDATA[How to Grow Truffles: A Rare Delicacy]]></summary>
+        <author>
+            <name>melenaboija</name>
+            <uri>https://news.ycombinator.com/user?id=melenaboija</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國宇航局正在支持一些嚴重冒險的登月任務--是時候了]]></title>
+        <id>https://news.ycombinator.com/item?id=31100886</id>
+        <link href="https://news.ycombinator.com/item?id=31100886"/>
+        <updated>2022-04-20T18:17:27.000Z</updated>
+        <summary type="html"><![CDATA[NASA is supporting some seriously risky missions to the Moon–it’s about time]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guido van Rossum: 讓Web3在一個燃燒的火球中死亡]]></title>
         <id>https://news.ycombinator.com/item?id=31101082</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過一個Istio網關端口實現gRPC和gRPC-web]]></title>
-        <id>https://news.ycombinator.com/item?id=31085482</id>
-        <link href="https://news.ycombinator.com/item?id=31085482"/>
-        <updated>2022-04-19T16:38:28.000Z</updated>
-        <summary type="html"><![CDATA[gRPC and gRPC-web via a single Istio gateway port]]></summary>
-        <author>
-            <name>jackielii</name>
-            <uri>https://news.ycombinator.com/user?id=jackielii</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[道路減肥 (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=31085424</id>
-        <link href="https://news.ycombinator.com/item?id=31085424"/>
-        <updated>2022-04-19T16:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Road Dieting (2017)]]></summary>
-        <author>
-            <name>riffic</name>
-            <uri>https://news.ycombinator.com/user?id=riffic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專注提醒--5分鐘的提醒，以保持專注]]></title>
-        <id>https://news.ycombinator.com/item?id=31085418</id>
-        <link href="https://news.ycombinator.com/item?id=31085418"/>
-        <updated>2022-04-19T16:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Focus Reminder – A 5 minute reminder to stay focused]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
