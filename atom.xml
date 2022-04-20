@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T07:13:15.196Z</updated>
+    <updated>2022-04-20T07:33:51.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VCS基金的想法而不是执行]]></title>
+        <id>https://news.ycombinator.com/item?id=31093803</id>
+        <link href="https://news.ycombinator.com/item?id=31093803"/>
+        <updated>2022-04-20T07:24:43.000Z</updated>
+        <summary type="html"><![CDATA[VCS Fund Idea Not Execution]]></summary>
+        <author>
+            <name>sch00lb0y</name>
+            <uri>https://news.ycombinator.com/user?id=sch00lb0y</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[练习编程]]></title>
+        <id>https://news.ycombinator.com/item?id=31093778</id>
+        <link href="https://news.ycombinator.com/item?id=31093778"/>
+        <updated>2022-04-20T07:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Practising Programming]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过鸟类的眼睛看紫外光的世界]]></title>
+        <id>https://news.ycombinator.com/item?id=31093746</id>
+        <link href="https://news.ycombinator.com/item?id=31093746"/>
+        <updated>2022-04-20T07:15:08.000Z</updated>
+        <summary type="html"><![CDATA[The World of UV Vision, Seen Through the Eyes of Birds]]></summary>
+        <author>
+            <name>echo_hessel</name>
+            <uri>https://news.ycombinator.com/user?id=echo_hessel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Owky - 开源的双因素应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31093606</id>
+        <link href="https://news.ycombinator.com/item?id=31093606"/>
+        <updated>2022-04-20T06:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Owky – open source two-factor application]]></summary>
+        <author>
+            <name>charlietango592</name>
+            <uri>https://news.ycombinator.com/user?id=charlietango592</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix估计有1亿个家庭在共享密码]]></title>
+        <id>https://news.ycombinator.com/item?id=31093577</id>
+        <link href="https://news.ycombinator.com/item?id=31093577"/>
+        <updated>2022-04-20T06:43:23.000Z</updated>
+        <summary type="html"><![CDATA[Netflix estimates 100M households are sharing passwords]]></summary>
+        <author>
+            <name>LordAtlas</name>
+            <uri>https://news.ycombinator.com/user?id=LordAtlas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天狼星，一个用于创建漂亮的技术档案的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31093672</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌拿下OSINT战争空军基地活动数据集]]></title>
-        <id>https://news.ycombinator.com/item?id=31079217</id>
-        <link href="https://news.ycombinator.com/item?id=31079217"/>
-        <updated>2022-04-19T02:27:29.000Z</updated>
-        <summary type="html"><![CDATA[Google Takes Down OSINT War Airbase Activity Dataset]]></summary>
-        <author>
-            <name>s5300</name>
-            <uri>https://news.ycombinator.com/user?id=s5300</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 6用户称其手机自动拒绝一些来电]]></title>
-        <id>https://news.ycombinator.com/item?id=31079187</id>
-        <link href="https://news.ycombinator.com/item?id=31079187"/>
-        <updated>2022-04-19T02:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Pixel 6 owners say their phones are automatically rejecting some incoming calls]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰克-雷：你为什么不对推特董事会的功能障碍采取任何措施？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079141</id>
-        <link href="https://news.ycombinator.com/item?id=31079141"/>
-        <updated>2022-04-19T02:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Jack RE: why didn't you do anything about Twitter board dysfunction?]]></summary>
-        <author>
-            <name>pcbro141</name>
-            <uri>https://news.ycombinator.com/user?id=pcbro141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用Rust和Metaplex在Solana上铸造NFTs]]></title>
-        <id>https://news.ycombinator.com/item?id=31079122</id>
-        <link href="https://news.ycombinator.com/item?id=31079122"/>
-        <updated>2022-04-19T02:09:46.000Z</updated>
-        <summary type="html"><![CDATA[How to Mint NFTs on Solana Using Rust and Metaplex]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上（几乎）每台自动售货机的一天]]></title>
-        <id>https://news.ycombinator.com/item?id=31078759</id>
-        <link href="https://news.ycombinator.com/item?id=31078759"/>
-        <updated>2022-04-19T01:12:51.000Z</updated>
-        <summary type="html"><![CDATA[A day in the life of (almost) every vending machine in the world]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
         </author>
     </entry>
 </feed>
