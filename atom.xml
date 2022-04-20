@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-20T07:00:27.762Z</updated>
+    <updated>2022-04-20T07:13:15.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[天狼星，一个用于创建漂亮的技术档案的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31093672</id>
+        <link href="https://news.ycombinator.com/item?id=31093672"/>
+        <updated>2022-04-20T07:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sirius, a tool for creating beautiful tech profiles]]></summary>
+        <author>
+            <name>scott82anderson</name>
+            <uri>https://news.ycombinator.com/user?id=scott82anderson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用虚幻引擎5制作的超真实的《匆忙时刻》模拟游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31093646</id>
+        <link href="https://news.ycombinator.com/item?id=31093646"/>
+        <updated>2022-04-20T06:58:19.000Z</updated>
+        <summary type="html"><![CDATA[An Ultra-Realistic Rush Hour Simulation Made in Unreal Engine 5]]></summary>
+        <author>
+            <name>mariuz</name>
+            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在欧洲和美国的儿童中发现肝炎病例]]></title>
+        <id>https://news.ycombinator.com/item?id=31093397</id>
+        <link href="https://news.ycombinator.com/item?id=31093397"/>
+        <updated>2022-04-20T06:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Hepatitis cases detected in children in Europe and the US]]></summary>
+        <author>
+            <name>JLK_121416</name>
+            <uri>https://news.ycombinator.com/user?id=JLK_121416</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有所谓的纯文本]]></title>
+        <id>https://news.ycombinator.com/item?id=31093111</id>
+        <link href="https://news.ycombinator.com/item?id=31093111"/>
+        <updated>2022-04-20T05:20:59.000Z</updated>
+        <summary type="html"><![CDATA[There's no such thing as plain text]]></summary>
+        <author>
+            <name>mikewarot</name>
+            <uri>https://news.ycombinator.com/user?id=mikewarot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClickHouse Keeper。Apache ZooKeeper的替代品]]></title>
         <id>https://news.ycombinator.com/item?id=31093619</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>axiomdata316</name>
             <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蝶变与固件 - 我们要怎么做呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=31079253</id>
-        <link href="https://news.ycombinator.com/item?id=31079253"/>
-        <updated>2022-04-19T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Debian & Firmware – what are we going to do about it?]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据报道，微软正寻求将广告引入免费的Xbox游戏中]]></title>
-        <id>https://news.ycombinator.com/item?id=31079180</id>
-        <link href="https://news.ycombinator.com/item?id=31079180"/>
-        <updated>2022-04-19T02:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is reportedly looking to bring ads to free-to-play Xbox games]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nixery - 使用Nix飞行的Docker图像]]></title>
-        <id>https://news.ycombinator.com/item?id=31079144</id>
-        <link href="https://news.ycombinator.com/item?id=31079144"/>
-        <updated>2022-04-19T02:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Nixery – Docker images on the fly with Nix]]></summary>
-        <author>
-            <name>merlinscholz</name>
-            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surge XT - 开源的混合合成器（VST）]]></title>
-        <id>https://news.ycombinator.com/item?id=31079036</id>
-        <link href="https://news.ycombinator.com/item?id=31079036"/>
-        <updated>2022-04-19T01:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Surge XT – open-source Hybrid Synth (VST)]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
         </author>
     </entry>
 </feed>
