@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T11:12:13.430Z</updated>
+    <updated>2022-04-21T11:32:05.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扁平化2.0以及它如何解決扁平化設計的可用性問題]]></title>
+        <id>https://news.ycombinator.com/item?id=31108000</id>
+        <link href="https://news.ycombinator.com/item?id=31108000"/>
+        <updated>2022-04-21T11:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Flat 2.0 and How It Solves Flat Design’s Usability Problems]]></summary>
+        <author>
+            <name>danny00</name>
+            <uri>https://news.ycombinator.com/user?id=danny00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[緬因州居民死於罕見的蜱傳病毒]]></title>
+        <id>https://news.ycombinator.com/item?id=31107994</id>
+        <link href="https://news.ycombinator.com/item?id=31107994"/>
+        <updated>2022-04-21T11:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Maine Resident Dies of Rare Tick-Borne Virus]]></summary>
+        <author>
+            <name>yassinejahid</name>
+            <uri>https://news.ycombinator.com/user?id=yassinejahid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[節食時進行高強度的運動可能會減少對脂肪類食物的渴望]]></title>
+        <id>https://news.ycombinator.com/item?id=31107992</id>
+        <link href="https://news.ycombinator.com/item?id=31107992"/>
+        <updated>2022-04-21T11:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Intense exercise while dieting may reduce cravings for fatty food]]></summary>
+        <author>
+            <name>mishkovski</name>
+            <uri>https://news.ycombinator.com/user?id=mishkovski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強迫性色彩的解釋。實用指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31107973</id>
+        <link href="https://news.ycombinator.com/item?id=31107973"/>
+        <updated>2022-04-21T11:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Forced colors explained: A practical guide]]></summary>
+        <author>
+            <name>madmax108</name>
+            <uri>https://news.ycombinator.com/user?id=madmax108</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是否應該使用現有的WebSocket連接進行請求/響應操作？]]></title>
+        <id>https://news.ycombinator.com/item?id=31107921</id>
+        <link href="https://news.ycombinator.com/item?id=31107921"/>
+        <updated>2022-04-21T11:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Should I use the existing WebSocket connection for request/response operations?]]></summary>
+        <author>
+            <name>shlosky</name>
+            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香草征服》是第一代C&C引擎的完全便攜版本]]></title>
+        <id>https://news.ycombinator.com/item?id=31107917</id>
+        <link href="https://news.ycombinator.com/item?id=31107917"/>
+        <updated>2022-04-21T11:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Vanilla Conquer is a fully portable version of the first generation C&C engine]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASML正在購買洗衣機來撕掉芯片並重新使用它們]]></title>
         <id>https://news.ycombinator.com/item?id=31107768</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Raspberry Pi、Rust和13Mb Linux系統監控我的車庫門]]></title>
-        <id>https://news.ycombinator.com/item?id=31093107</id>
-        <link href="https://news.ycombinator.com/item?id=31093107"/>
-        <updated>2022-04-20T05:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring My Garage Door with a Raspberry Pi, Rust, and a 13Mb Linux System]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box86/Box64與QEMU-User與FEX-Emu的基準測試（與Rosetta2）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31093082</id>
-        <link href="https://news.ycombinator.com/item?id=31093082"/>
-        <updated>2022-04-20T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Benchmark of Box86/Box64 vs. QEMU-User vs. FEX-Emu (Vs Rosetta2)]]></summary>
-        <author>
-            <name>goombacloud</name>
-            <uri>https://news.ycombinator.com/user?id=goombacloud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我承認，我的成功涉及運氣]]></title>
-        <id>https://news.ycombinator.com/item?id=31093039</id>
-        <link href="https://news.ycombinator.com/item?id=31093039"/>
-        <updated>2022-04-20T05:10:24.000Z</updated>
-        <summary type="html"><![CDATA[I admit it, my success involves luck]]></summary>
-        <author>
-            <name>jamie-vesoft</name>
-            <uri>https://news.ycombinator.com/user?id=jamie-vesoft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止用Regex驗證電子郵件地址 (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=31092912</id>
-        <link href="https://news.ycombinator.com/item?id=31092912"/>
-        <updated>2022-04-20T04:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Stop Validating Email Addresses with Regex (2012)]]></summary>
-        <author>
-            <name>gitgud</name>
-            <uri>https://news.ycombinator.com/user?id=gitgud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐慌的玩伴》深度回顧]]></title>
-        <id>https://news.ycombinator.com/item?id=31092909</id>
-        <link href="https://news.ycombinator.com/item?id=31092909"/>
-        <updated>2022-04-20T04:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Panic Playdate In-Depth Review]]></summary>
-        <author>
-            <name>marcobambini</name>
-            <uri>https://news.ycombinator.com/user?id=marcobambini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[222行VBScript中的勒索軟件保護]]></title>
-        <id>https://news.ycombinator.com/item?id=31092848</id>
-        <link href="https://news.ycombinator.com/item?id=31092848"/>
-        <updated>2022-04-20T04:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ransomware protection in 222 lines of VBScript]]></summary>
-        <author>
-            <name>zelon88</name>
-            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
         </author>
     </entry>
 </feed>
