@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T18:43:45.199Z</updated>
+    <updated>2022-04-21T18:59:23.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳的WebRTC項目、服務器和庫在一個地方]]></title>
+        <id>https://news.ycombinator.com/item?id=31113648</id>
+        <link href="https://news.ycombinator.com/item?id=31113648"/>
+        <updated>2022-04-21T18:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Best of WebRTC projects, server and lib in one place]]></summary>
+        <author>
+            <name>bestofwebrtc</name>
+            <uri>https://news.ycombinator.com/user?id=bestofwebrtc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘿，有孩子的朋友。告訴我一些關於成為父母的積極因素]]></title>
+        <id>https://news.ycombinator.com/item?id=31113595</id>
+        <link href="https://news.ycombinator.com/item?id=31113595"/>
+        <updated>2022-04-21T18:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Hey friends with kids. Tell me something positive about becoming a parent]]></summary>
+        <author>
+            <name>bhouston</name>
+            <uri>https://news.ycombinator.com/user?id=bhouston</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gramine的SGX飛地內支持GDB]]></title>
+        <id>https://news.ycombinator.com/item?id=31113492</id>
+        <link href="https://news.ycombinator.com/item?id=31113492"/>
+        <updated>2022-04-21T18:37:43.000Z</updated>
+        <summary type="html"><![CDATA[GDB support inside Gramine's SGX enclaves]]></summary>
+        <author>
+            <name>pwmarcz</name>
+            <uri>https://news.ycombinator.com/user?id=pwmarcz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根士丹利：與B&M商店的合作對比特幣的未來至關重要]]></title>
+        <id>https://news.ycombinator.com/item?id=31113206</id>
+        <link href="https://news.ycombinator.com/item?id=31113206"/>
+        <updated>2022-04-21T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Partnerships with b&m stores critical to future of Bitcoin, Morgan Stanley]]></summary>
+        <author>
+            <name>asasidh</name>
+            <uri>https://news.ycombinator.com/user?id=asasidh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Asahi Linux作為開發者工作站]]></title>
+        <id>https://news.ycombinator.com/item?id=31113189</id>
+        <link href="https://news.ycombinator.com/item?id=31113189"/>
+        <updated>2022-04-21T18:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Using Asahi Linux as a developer workstation]]></summary>
+        <author>
+            <name>jasoneckert</name>
+            <uri>https://news.ycombinator.com/user?id=jasoneckert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dashibase.com - 使用Supabase的無代碼用戶儀表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31113158</id>
+        <link href="https://news.ycombinator.com/item?id=31113158"/>
+        <updated>2022-04-21T18:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dashibase.com – No-code user dashboards with Supabase]]></summary>
+        <author>
+            <name>greentfrapp</name>
+            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們沒有使用谷歌認證器進行認證的選項。]]></title>
+        <id>https://news.ycombinator.com/item?id=31112939</id>
+        <link href="https://news.ycombinator.com/item?id=31112939"/>
+        <updated>2022-04-21T17:58:12.000Z</updated>
+        <summary type="html"><![CDATA[We don't have an option to authenticate using the Google Authenticator]]></summary>
+        <author>
+            <name>throwway1922</name>
+            <uri>https://news.ycombinator.com/user?id=throwway1922</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix的密碼鎮壓即將到來]]></title>
+        <id>https://news.ycombinator.com/item?id=31112930</id>
+        <link href="https://news.ycombinator.com/item?id=31112930"/>
+        <updated>2022-04-21T17:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Netflix’s Password Crackdown Is Coming]]></summary>
+        <author>
+            <name>malshe</name>
+            <uri>https://news.ycombinator.com/user?id=malshe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fig現在支持JetBrains IDEs]]></title>
         <id>https://news.ycombinator.com/item?id=31113396</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>physhster</name>
             <uri>https://news.ycombinator.com/user?id=physhster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSRF攻擊實例和緩解措施]]></title>
-        <id>https://news.ycombinator.com/item?id=31098959</id>
-        <link href="https://news.ycombinator.com/item?id=31098959"/>
-        <updated>2022-04-20T16:04:46.000Z</updated>
-        <summary type="html"><![CDATA[SSRF Attack Examples and Mitigations]]></summary>
-        <author>
-            <name>benarent</name>
-            <uri>https://news.ycombinator.com/user?id=benarent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法官批准將阿桑奇引渡到美國，令人憤怒]]></title>
-        <id>https://news.ycombinator.com/item?id=31099704</id>
-        <link href="https://news.ycombinator.com/item?id=31099704"/>
-        <updated>2022-04-20T16:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Outrage as Judge Approves Assange Extradition to US]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭利用ClearviewAI面部識別技術識別俄羅斯戰死者身份]]></title>
-        <id>https://news.ycombinator.com/item?id=31099623</id>
-        <link href="https://news.ycombinator.com/item?id=31099623"/>
-        <updated>2022-04-20T16:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine using ClearviewAI facial recognition to identify Russian war dead]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telosys代碼生成器4.0.0版本已經推出]]></title>
-        <id>https://news.ycombinator.com/item?id=31099622</id>
-        <link href="https://news.ycombinator.com/item?id=31099622"/>
-        <updated>2022-04-20T16:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Telosys Code Generator version 4.0.0 is available]]></summary>
-        <author>
-            <name>lguerin</name>
-            <uri>https://news.ycombinator.com/user?id=lguerin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X 宏觀]]></title>
-        <id>https://news.ycombinator.com/item?id=31099595</id>
-        <link href="https://news.ycombinator.com/item?id=31099595"/>
-        <updated>2022-04-20T16:41:18.000Z</updated>
-        <summary type="html"><![CDATA[X Macro]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日誌告訴我們是DNS，感覺是DNS，必須是DNS，不是DNS]]></title>
-        <id>https://news.ycombinator.com/item?id=31099576</id>
-        <link href="https://news.ycombinator.com/item?id=31099576"/>
-        <updated>2022-04-20T16:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Logs Told Us It Was DNS, It Felt Like DNS, It Had to Be DNS, It Wasn’t DNS]]></summary>
-        <author>
-            <name>lbernail</name>
-            <uri>https://news.ycombinator.com/user?id=lbernail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入侵烏克蘭後，人們對俄羅斯的黑客攻擊到底有多大？]]></title>
-        <id>https://news.ycombinator.com/item?id=31099562</id>
-        <link href="https://news.ycombinator.com/item?id=31099562"/>
-        <updated>2022-04-20T16:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Just how much, after invading Ukraine, people are hacking Russia]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix的崩潰是股票的一個警告信號]]></title>
-        <id>https://news.ycombinator.com/item?id=31099559</id>
-        <link href="https://news.ycombinator.com/item?id=31099559"/>
-        <updated>2022-04-20T16:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Netflix's collapse is a warning sign for stocks]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
