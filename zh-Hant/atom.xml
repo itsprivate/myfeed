@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T17:52:20.416Z</updated>
+    <updated>2022-04-21T17:57:31.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奇怪的Unicode數學符號]]></title>
+        <id>https://news.ycombinator.com/item?id=31112835</id>
+        <link href="https://news.ycombinator.com/item?id=31112835"/>
+        <updated>2022-04-21T17:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Weird Unicode Math Symbols]]></summary>
+        <author>
+            <name>woliveirajr</name>
+            <uri>https://news.ycombinator.com/user?id=woliveirajr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN+於3月29日啟動。它將於4月30日關閉]]></title>
         <id>https://news.ycombinator.com/item?id=31112706</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每個計算機科學專業的學生都應該知道什麼]]></title>
-        <id>https://news.ycombinator.com/item?id=31098876</id>
-        <link href="https://news.ycombinator.com/item?id=31098876"/>
-        <updated>2022-04-20T15:59:48.000Z</updated>
-        <summary type="html"><![CDATA[What every computer science major should know]]></summary>
-        <author>
-            <name>rsecora</name>
-            <uri>https://news.ycombinator.com/user?id=rsecora</uri>
         </author>
     </entry>
 </feed>

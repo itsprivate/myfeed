@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 21 Apr 2022 17:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 17:57:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奇怪的Unicode数学符号]]></title>
+            <link>https://news.ycombinator.com/item?id=31112835</link>
+            <guid>https://news.ycombinator.com/item?id=31112835</guid>
+            <pubDate>Thu, 21 Apr 2022 17:51:09 GMT</pubDate>
+            <description><![CDATA[Weird Unicode Math Symbols]]></description>
+        </item>
         <item>
             <title><![CDATA[CNN+于3月29日启动。它将于4月30日关闭]]></title>
             <link>https://news.ycombinator.com/item?id=31112706</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31099022</guid>
             <pubDate>Wed, 20 Apr 2022 16:08:43 GMT</pubDate>
             <description><![CDATA[Candidates Can Signal Sincerity in an Era of Cynicism]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每个计算机科学专业的学生都应该知道什么]]></title>
-            <link>https://news.ycombinator.com/item?id=31098876</link>
-            <guid>https://news.ycombinator.com/item?id=31098876</guid>
-            <pubDate>Wed, 20 Apr 2022 15:59:48 GMT</pubDate>
-            <description><![CDATA[What every computer science major should know]]></description>
         </item>
     </channel>
 </rss>
