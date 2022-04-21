@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T09:46:33.800Z</updated>
+    <updated>2022-04-21T09:53:28.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要扩大规模：99.999%的正常运行时间是为沃尔玛准备的 (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=31107505</id>
+        <link href="https://news.ycombinator.com/item?id=31107505"/>
+        <updated>2022-04-21T09:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Don’t scale: 99.999% uptime is for Wal-Mart (2005)]]></summary>
+        <author>
+            <name>panic</name>
+            <uri>https://news.ycombinator.com/user?id=panic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Datom: 互动式Datomic教程]]></title>
+        <id>https://news.ycombinator.com/item?id=31107499</id>
+        <link href="https://news.ycombinator.com/item?id=31107499"/>
+        <updated>2022-04-21T09:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Max Datom: Interactive Datomic Tutorial]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以0.2美元赢得高级域名]]></title>
+        <id>https://news.ycombinator.com/item?id=31107484</id>
+        <link href="https://news.ycombinator.com/item?id=31107484"/>
+        <updated>2022-04-21T09:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Win premium domain names for $0.20]]></summary>
+        <author>
+            <name>jagadeep</name>
+            <uri>https://news.ycombinator.com/user?id=jagadeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何人都可以编辑的区块链笔记，但每小时只能编辑一次]]></title>
         <id>https://news.ycombinator.com/item?id=31107447</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>RyanShook</name>
             <uri>https://news.ycombinator.com/user?id=RyanShook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凤凰卫视--更长、更深入的教程]]></title>
-        <id>https://news.ycombinator.com/item?id=31092564</id>
-        <link href="https://news.ycombinator.com/item?id=31092564"/>
-        <updated>2022-04-20T03:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Phoenix Liveview – a longer and deeper tutorial]]></summary>
-        <author>
-            <name>taatparya</name>
-            <uri>https://news.ycombinator.com/user?id=taatparya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嗨，Insteon用户]]></title>
-        <id>https://news.ycombinator.com/item?id=31092559</id>
-        <link href="https://news.ycombinator.com/item?id=31092559"/>
-        <updated>2022-04-20T03:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Hey Insteon Users]]></summary>
-        <author>
-            <name>mikalauskas</name>
-            <uri>https://news.ycombinator.com/user?id=mikalauskas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仅限帧数的模式。让Emacs与平铺式窗口管理器很好地配合。]]></title>
-        <id>https://news.ycombinator.com/item?id=31092542</id>
-        <link href="https://news.ycombinator.com/item?id=31092542"/>
-        <updated>2022-04-20T03:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Frames-only-mode: Make Emacs play nicely with tiling window managers]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
