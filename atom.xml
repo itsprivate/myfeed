@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T08:42:05.205Z</updated>
+    <updated>2022-04-21T08:57:49.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FOAF 词汇规范]]></title>
+        <id>https://news.ycombinator.com/item?id=31107182</id>
+        <link href="https://news.ycombinator.com/item?id=31107182"/>
+        <updated>2022-04-21T08:35:48.000Z</updated>
+        <summary type="html"><![CDATA[FOAF Vocabulary Specification]]></summary>
+        <author>
+            <name>Jaruzel</name>
+            <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聪明的加密货币盗窃案]]></title>
+        <id>https://news.ycombinator.com/item?id=31107169</id>
+        <link href="https://news.ycombinator.com/item?id=31107169"/>
+        <updated>2022-04-21T08:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Clever Cryptocurrency Theft]]></summary>
+        <author>
+            <name>ndr</name>
+            <uri>https://news.ycombinator.com/user?id=ndr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在是哪一年？]]></title>
+        <id>https://news.ycombinator.com/item?id=31107152</id>
+        <link href="https://news.ycombinator.com/item?id=31107152"/>
+        <updated>2022-04-21T08:30:13.000Z</updated>
+        <summary type="html"><![CDATA[What Year Is It?]]></summary>
+        <author>
+            <name>4pkjai</name>
+            <uri>https://news.ycombinator.com/user?id=4pkjai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令美国情报专家困惑的假联邦特工案]]></title>
+        <id>https://news.ycombinator.com/item?id=31107003</id>
+        <link href="https://news.ycombinator.com/item?id=31107003"/>
+        <updated>2022-04-21T07:59:54.000Z</updated>
+        <summary type="html"><![CDATA[The Fake Federal Agents Case Baffling US Intelligence Experts]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora考虑废除传统的BIOS启动]]></title>
+        <id>https://news.ycombinator.com/item?id=31106980</id>
+        <link href="https://news.ycombinator.com/item?id=31106980"/>
+        <updated>2022-04-21T07:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Fedora considers deprecating legacy BIOS boot]]></summary>
+        <author>
+            <name>rwmj</name>
+            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见了，感谢所有的鱼]]></title>
+        <id>https://news.ycombinator.com/item?id=31106978</id>
+        <link href="https://news.ycombinator.com/item?id=31106978"/>
+        <updated>2022-04-21T07:55:45.000Z</updated>
+        <summary type="html"><![CDATA[So long and thanks for all the fish]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯针对医院和其他医疗设施]]></title>
+        <id>https://news.ycombinator.com/item?id=31106563</id>
+        <link href="https://news.ycombinator.com/item?id=31106563"/>
+        <updated>2022-04-21T06:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Russia targets hospitals and other healthcare facilities]]></summary>
+        <author>
+            <name>WorldDev</name>
+            <uri>https://news.ycombinator.com/user?id=WorldDev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兴趣爱好的货币化]]></title>
         <id>https://news.ycombinator.com/item?id=31107128</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>jdkee</name>
             <uri>https://news.ycombinator.com/user?id=jdkee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia发布针对Nvdla的开源DRM内核驱动程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31092330</id>
-        <link href="https://news.ycombinator.com/item?id=31092330"/>
-        <updated>2022-04-20T02:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia Posts Open-Source DRM Kernel Driver for Nvdla]]></summary>
-        <author>
-            <name>kaladin-jasnah</name>
-            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国扼杀任何使用水星作为火箭推进剂的计划]]></title>
-        <id>https://news.ycombinator.com/item?id=31092182</id>
-        <link href="https://news.ycombinator.com/item?id=31092182"/>
-        <updated>2022-04-20T02:39:45.000Z</updated>
-        <summary type="html"><![CDATA[U.N. Kills Any Plans to Use Mercury as a Rocket Propellant]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰男子用偷来的AirPods追踪俄罗斯军队的行踪]]></title>
-        <id>https://news.ycombinator.com/item?id=31092052</id>
-        <link href="https://news.ycombinator.com/item?id=31092052"/>
-        <updated>2022-04-20T02:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian Man Tracks Russian Troops with Stolen AirPods]]></summary>
-        <author>
-            <name>asebold</name>
-            <uri>https://news.ycombinator.com/user?id=asebold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VQGAN-CLIP：带有自然语言指导的开放域图像生成/编辑]]></title>
-        <id>https://news.ycombinator.com/item?id=31091725</id>
-        <link href="https://news.ycombinator.com/item?id=31091725"/>
-        <updated>2022-04-20T01:32:44.000Z</updated>
-        <summary type="html"><![CDATA[VQGAN-CLIP: Open Domain Image Generation/Editing with Natural Language Guidance]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找风险投资工作的招聘网站]]></title>
-        <id>https://news.ycombinator.com/item?id=31092262</id>
-        <link href="https://news.ycombinator.com/item?id=31092262"/>
-        <updated>2022-04-20T02:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Job board to find venture capital jobs]]></summary>
-        <author>
-            <name>AbiTyasTunggal</name>
-            <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链上棋智能合约细分]]></title>
-        <id>https://news.ycombinator.com/item?id=31092204</id>
-        <link href="https://news.ycombinator.com/item?id=31092204"/>
-        <updated>2022-04-20T02:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: On-Chain Chess Smart Contract Breakdown]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穿着衣服的人类的单眼三维重建的逼真性]]></title>
-        <id>https://news.ycombinator.com/item?id=31092190</id>
-        <link href="https://news.ycombinator.com/item?id=31092190"/>
-        <updated>2022-04-20T02:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>
