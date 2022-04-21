@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T21:32:22.179Z</updated>
+    <updated>2022-04-21T21:41:14.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冯小刚]]></title>
+        <id>https://news.ycombinator.com/item?id=31115071</id>
+        <link href="https://news.ycombinator.com/item?id=31115071"/>
+        <updated>2022-04-21T20:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Goldpinger]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国为乌克兰迅速开发 "幽灵 "无人机]]></title>
+        <id>https://news.ycombinator.com/item?id=31114259</id>
+        <link href="https://news.ycombinator.com/item?id=31114259"/>
+        <updated>2022-04-21T19:40:42.000Z</updated>
+        <summary type="html"><![CDATA[U.S. rapidly developed 'Ghost' drones for Ukraine]]></summary>
+        <author>
+            <name>melling</name>
+            <uri>https://news.ycombinator.com/user?id=melling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uyuni - SUSE Manager的开源版本]]></title>
         <id>https://news.ycombinator.com/item?id=31115254</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>steve8708</name>
             <uri>https://news.ycombinator.com/user?id=steve8708</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小城市住房市场蓬勃发展，推动经济适用房危机]]></title>
-        <id>https://news.ycombinator.com/item?id=31101221</id>
-        <link href="https://news.ycombinator.com/item?id=31101221"/>
-        <updated>2022-04-20T18:46:15.000Z</updated>
-        <summary type="html"><![CDATA[The housing market is booming in small cities, driving affordable housing crisis]]></summary>
-        <author>
-            <name>mistersquid</name>
-            <uri>https://news.ycombinator.com/user?id=mistersquid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国和盟国警告俄罗斯黑客对关键基础设施的威胁]]></title>
-        <id>https://news.ycombinator.com/item?id=31101163</id>
-        <link href="https://news.ycombinator.com/item?id=31101163"/>
-        <updated>2022-04-20T18:41:32.000Z</updated>
-        <summary type="html"><![CDATA[US and allies warn of Russian hacking threat to critical infrastructure]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
         </author>
     </entry>
 </feed>
