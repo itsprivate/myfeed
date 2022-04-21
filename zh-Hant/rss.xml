@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 20:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,62 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[達勒2生成的人臉]]></title>
+            <link>https://news.ycombinator.com/item?id=31114710</link>
+            <guid>https://news.ycombinator.com/item?id=31114710</guid>
+            <pubDate>Thu, 21 Apr 2022 20:22:43 GMT</pubDate>
+            <description><![CDATA[Dalle 2 generated human faces]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鯊魚吞噬攝像機，捕捉到被吃掉的樣子]]></title>
+            <link>https://news.ycombinator.com/item?id=31114670</link>
+            <guid>https://news.ycombinator.com/item?id=31114670</guid>
+            <pubDate>Thu, 21 Apr 2022 20:17:36 GMT</pubDate>
+            <description><![CDATA[Shark Gobbles Up Camera, Captures What It Looks Like to Get Eaten]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
+            <link>https://news.ycombinator.com/item?id=31114554</link>
+            <guid>https://news.ycombinator.com/item?id=31114554</guid>
+            <pubDate>Thu, 21 Apr 2022 20:05:35 GMT</pubDate>
+            <description><![CDATA[Python’s “Type Hints” are a bit of a disappointment to me]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從零開始的神經網絡]]></title>
+            <link>https://news.ycombinator.com/item?id=31114536</link>
+            <guid>https://news.ycombinator.com/item?id=31114536</guid>
+            <pubDate>Thu, 21 Apr 2022 20:03:54 GMT</pubDate>
+            <description><![CDATA[Neural Networks from Scratch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[佛羅里達州結束迪斯尼特別稅區的法案將提交給德桑蒂斯州長進行審核]]></title>
+            <link>https://news.ycombinator.com/item?id=31114486</link>
+            <guid>https://news.ycombinator.com/item?id=31114486</guid>
+            <pubDate>Thu, 21 Apr 2022 19:59:10 GMT</pubDate>
+            <description><![CDATA[Florida Bill to End Disneys Special Tax District Heads to Gov DeSantis for Sig]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面對現實的檢查，Netflix發誓要遏制其揮霍的方式]]></title>
+            <link>https://news.ycombinator.com/item?id=31114427</link>
+            <guid>https://news.ycombinator.com/item?id=31114427</guid>
+            <pubDate>Thu, 21 Apr 2022 19:54:42 GMT</pubDate>
+            <description><![CDATA[Netflix, Facing Reality Check, Vows to Curb Its Profligate Ways]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果將停止Fleetsmith服務]]></title>
+            <link>https://news.ycombinator.com/item?id=31114378</link>
+            <guid>https://news.ycombinator.com/item?id=31114378</guid>
+            <pubDate>Thu, 21 Apr 2022 19:50:29 GMT</pubDate>
+            <description><![CDATA[Apple will discontinue Fleetsmith service]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MX-21.1 respin "Workbench "發佈]]></title>
+            <link>https://news.ycombinator.com/item?id=31113840</link>
+            <guid>https://news.ycombinator.com/item?id=31113840</guid>
+            <pubDate>Thu, 21 Apr 2022 19:03:08 GMT</pubDate>
+            <description><![CDATA[MX-21.1 respin “Workbench” released]]></description>
+        </item>
         <item>
             <title><![CDATA[沒有陀螺儀或腳輪效應的自平衡自行車]]></title>
             <link>https://news.ycombinator.com/item?id=31114449</link>
@@ -4157,62 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31100439</guid>
             <pubDate>Wed, 20 Apr 2022 17:45:34 GMT</pubDate>
             <description><![CDATA[“Crypto bug of the year”: ECDSA signatures broken in Java]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果將向英國推出兒童安全功能，掃描信息中的裸體內容]]></title>
-            <link>https://news.ycombinator.com/item?id=31100340</link>
-            <guid>https://news.ycombinator.com/item?id=31100340</guid>
-            <pubDate>Wed, 20 Apr 2022 17:38:43 GMT</pubDate>
-            <description><![CDATA[Apple to roll out child safety feature that scans messages for nudity to UK]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ask HW: 哪些開源項目有困難的性能限制]]></title>
-            <link>https://news.ycombinator.com/item?id=31100319</link>
-            <guid>https://news.ycombinator.com/item?id=31100319</guid>
-            <pubDate>Wed, 20 Apr 2022 17:36:31 GMT</pubDate>
-            <description><![CDATA[Ask HW: What open source projects have difficult performance constraints]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Postgres選擇在查詢中使用哪個索引]]></title>
-            <link>https://news.ycombinator.com/item?id=31099732</link>
-            <guid>https://news.ycombinator.com/item?id=31099732</guid>
-            <pubDate>Wed, 20 Apr 2022 16:50:29 GMT</pubDate>
-            <description><![CDATA[Postgres Chooses Which Index to Use for a Query]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機器人感知的校準參考電子書]]></title>
-            <link>https://news.ycombinator.com/item?id=31100311</link>
-            <guid>https://news.ycombinator.com/item?id=31100311</guid>
-            <pubDate>Wed, 20 Apr 2022 17:35:54 GMT</pubDate>
-            <description><![CDATA[Calibration Reference eBook for Robotic Perception]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pydantic-core現已公開]]></title>
-            <link>https://news.ycombinator.com/item?id=31100291</link>
-            <guid>https://news.ycombinator.com/item?id=31100291</guid>
-            <pubDate>Wed, 20 Apr 2022 17:33:32 GMT</pubDate>
-            <description><![CDATA[Pydantic-core is now public]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沖繩未披露的美軍性犯罪案件]]></title>
-            <link>https://news.ycombinator.com/item?id=31100265</link>
-            <guid>https://news.ycombinator.com/item?id=31100265</guid>
-            <pubDate>Wed, 20 Apr 2022 17:31:25 GMT</pubDate>
-            <description><![CDATA[Undisclosed U.S. Military Sex Crimes in Okinawa]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列在2060億美元的儲備中增加人民幣的 "哲學 "變化]]></title>
-            <link>https://news.ycombinator.com/item?id=31100248</link>
-            <guid>https://news.ycombinator.com/item?id=31100248</guid>
-            <pubDate>Wed, 20 Apr 2022 17:30:13 GMT</pubDate>
-            <description><![CDATA[Israel Adds Yuan to $206B Reserves in ‘Philosophy’ Change]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase NFT Marketplace（測試版）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31100196</link>
-            <guid>https://news.ycombinator.com/item?id=31100196</guid>
-            <pubDate>Wed, 20 Apr 2022 17:27:19 GMT</pubDate>
-            <description><![CDATA[Coinbase NFT Marketplace (Beta)]]></description>
         </item>
     </channel>
 </rss>
