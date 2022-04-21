@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T05:57:54.303Z</updated>
+    <updated>2022-04-21T06:43:04.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[入侵烏克蘭後，人們開始黑客攻擊俄羅斯]]></title>
+        <id>https://news.ycombinator.com/item?id=31106382</id>
+        <link href="https://news.ycombinator.com/item?id=31106382"/>
+        <updated>2022-04-21T05:51:45.000Z</updated>
+        <summary type="html"><![CDATA[After invading Ukraine, people are hacking Russia]]></summary>
+        <author>
+            <name>mturmon</name>
+            <uri>https://news.ycombinator.com/user?id=mturmon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn在反對網絡刮擦的鬥爭中失利]]></title>
+        <id>https://news.ycombinator.com/item?id=31106367</id>
+        <link href="https://news.ycombinator.com/item?id=31106367"/>
+        <updated>2022-04-21T05:50:07.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn loses fight against web scraping]]></summary>
+        <author>
+            <name>danbmil99</name>
+            <uri>https://news.ycombinator.com/user?id=danbmil99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muzmatch（穆斯林約會應用）輸給了Match（擁有Tinder等）的法律訴訟。]]></title>
+        <id>https://news.ycombinator.com/item?id=31106365</id>
+        <link href="https://news.ycombinator.com/item?id=31106365"/>
+        <updated>2022-04-21T05:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Muzmatch (Muslim dating app) loses legal battle to Match (owns Tinder and more)]]></summary>
+        <author>
+            <name>chagaif</name>
+            <uri>https://news.ycombinator.com/user?id=chagaif</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年薪資透明化]]></title>
+        <id>https://news.ycombinator.com/item?id=31105784</id>
+        <link href="https://news.ycombinator.com/item?id=31105784"/>
+        <updated>2022-04-21T03:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Salary Transparency 2022]]></summary>
+        <author>
+            <name>kreeWall</name>
+            <uri>https://news.ycombinator.com/user?id=kreeWall</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodexDB通過OpenAI的GPT-3 Codex模型為SQL查詢處理生成代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=31105484</id>
+        <link href="https://news.ycombinator.com/item?id=31105484"/>
+        <updated>2022-04-21T02:34:14.000Z</updated>
+        <summary type="html"><![CDATA[CodexDB generates code for SQL query processing via OpenAI's GPT-3 Codex model]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不靈活的返回辦公室政策正在打擊員工的體驗得分]]></title>
         <id>https://news.ycombinator.com/item?id=31106285</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>sexy_seedbox</name>
             <uri>https://news.ycombinator.com/user?id=sexy_seedbox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廣告將進入Netflix]]></title>
-        <id>https://news.ycombinator.com/item?id=31091340</id>
-        <link href="https://news.ycombinator.com/item?id=31091340"/>
-        <updated>2022-04-20T00:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Ads Are Coming to Netflix]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克爭相為競購Twitter融資]]></title>
-        <id>https://news.ycombinator.com/item?id=31091326</id>
-        <link href="https://news.ycombinator.com/item?id=31091326"/>
-        <updated>2022-04-20T00:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Races to Secure Financing for Twitter Bid]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods被俄羅斯人洗劫一空，通過查找我的位置洩露了他們的位置]]></title>
-        <id>https://news.ycombinator.com/item?id=31091270</id>
-        <link href="https://news.ycombinator.com/item?id=31091270"/>
-        <updated>2022-04-20T00:30:49.000Z</updated>
-        <summary type="html"><![CDATA[AirPods looted by Russians giving away their location via Find My]]></summary>
-        <author>
-            <name>ashitlerferad</name>
-            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓Apache比Nginx更快(呃)]]></title>
-        <id>https://news.ycombinator.com/item?id=31091262</id>
-        <link href="https://news.ycombinator.com/item?id=31091262"/>
-        <updated>2022-04-20T00:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Make Apache fast(er) than Nginx]]></summary>
-        <author>
-            <name>ashitlerferad</name>
-            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Epyc服務器是奔馳F1車隊成功的關鍵]]></title>
-        <id>https://news.ycombinator.com/item?id=31091072</id>
-        <link href="https://news.ycombinator.com/item?id=31091072"/>
-        <updated>2022-04-20T00:06:25.000Z</updated>
-        <summary type="html"><![CDATA[AMD Epyc Servers a Key to Mercedes' F1 Team Success]]></summary>
-        <author>
-            <name>FinnKuhn</name>
-            <uri>https://news.ycombinator.com/user?id=FinnKuhn</uri>
         </author>
     </entry>
 </feed>
