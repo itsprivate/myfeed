@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T11:39:34.295Z</updated>
+    <updated>2022-04-21T11:51:44.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尼克斯是什麼？(2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31108170</id>
+        <link href="https://news.ycombinator.com/item?id=31108170"/>
+        <updated>2022-04-21T11:38:35.000Z</updated>
+        <summary type="html"><![CDATA[What Is Nix? (2020)]]></summary>
+        <author>
+            <name>runeks</name>
+            <uri>https://news.ycombinator.com/user?id=runeks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙井蓋如何進行耐久性測試]]></title>
+        <id>https://news.ycombinator.com/item?id=31108163</id>
+        <link href="https://news.ycombinator.com/item?id=31108163"/>
+        <updated>2022-04-21T11:37:44.000Z</updated>
+        <summary type="html"><![CDATA[How Manhole Covers Are Endurance Tested]]></summary>
+        <author>
+            <name>noahbradley</name>
+            <uri>https://news.ycombinator.com/user?id=noahbradley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儘管對一些喝茶的人來說是新事物，但耀邦卻有著深厚的歷史。]]></title>
+        <id>https://news.ycombinator.com/item?id=31107782</id>
+        <link href="https://news.ycombinator.com/item?id=31107782"/>
+        <updated>2022-04-21T10:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Though New to Some Tea Drinkers, Yaupon Is Steeped in History]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix聲稱《堡壘之夜》是比HBO更大的競爭者]]></title>
         <id>https://news.ycombinator.com/item?id=31108035</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>incidentnormal</name>
             <uri>https://news.ycombinator.com/user?id=incidentnormal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alexa.com將於2022年5月1日退役]]></title>
-        <id>https://news.ycombinator.com/item?id=31092989</id>
-        <link href="https://news.ycombinator.com/item?id=31092989"/>
-        <updated>2022-04-20T05:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Alexa.com to be retired May 1 2022]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尿液和前列腺的微生物組與人類前列腺癌風險群體有關]]></title>
-        <id>https://news.ycombinator.com/item?id=31092812</id>
-        <link href="https://news.ycombinator.com/item?id=31092812"/>
-        <updated>2022-04-20T04:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Microbiomes of Urine and Prostate Linked to Human Prostate Cancer Risk Groups]]></summary>
-        <author>
-            <name>zinekeller</name>
-            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix在抵制多年後正在探索低價的廣告支持計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=31092775</id>
-        <link href="https://news.ycombinator.com/item?id=31092775"/>
-        <updated>2022-04-20T04:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Netflix is exploring lower-priced, ad-supported plans after years of resisting]]></summary>
-        <author>
-            <name>samaysharma</name>
-            <uri>https://news.ycombinator.com/user?id=samaysharma</uri>
         </author>
     </entry>
 </feed>
