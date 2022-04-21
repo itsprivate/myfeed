@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T07:40:37.442Z</updated>
+    <updated>2022-04-21T07:51:22.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zink是第一个基于Vulkan的Windows的OpenGL驱动。]]></title>
+        <id>https://news.ycombinator.com/item?id=31106738</id>
+        <link href="https://news.ycombinator.com/item?id=31106738"/>
+        <updated>2022-04-21T07:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Zink is the first OpenGL driver based on Vulkan for Windows]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五眼国家担心俄罗斯对关键基础设施的攻击浪潮]]></title>
+        <id>https://news.ycombinator.com/item?id=31106661</id>
+        <link href="https://news.ycombinator.com/item?id=31106661"/>
+        <updated>2022-04-21T06:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Five Eyes nations fear wave of Russian attacks against critical infrastructure]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争。世界银行警告说 "人类灾难 "的粮食危机]]></title>
+        <id>https://news.ycombinator.com/item?id=31106624</id>
+        <link href="https://news.ycombinator.com/item?id=31106624"/>
+        <updated>2022-04-21T06:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine war: World Bank warns of 'human catastrophe' food crisis]]></summary>
+        <author>
+            <name>WorldDev</name>
+            <uri>https://news.ycombinator.com/user?id=WorldDev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在脸书上，否认俄罗斯在布加的暴行比真相更受欢迎]]></title>
         <id>https://news.ycombinator.com/item?id=31106854</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typing.io: 程序员的打字练习]]></title>
-        <id>https://news.ycombinator.com/item?id=31091898</id>
-        <link href="https://news.ycombinator.com/item?id=31091898"/>
-        <updated>2022-04-20T01:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Typing.io: Typing Practice for Programmers]]></summary>
-        <author>
-            <name>awestrom</name>
-            <uri>https://news.ycombinator.com/user?id=awestrom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1车队为减轻重量而剥去赛车上的油漆]]></title>
-        <id>https://news.ycombinator.com/item?id=31091897</id>
-        <link href="https://news.ycombinator.com/item?id=31091897"/>
-        <updated>2022-04-20T01:58:45.000Z</updated>
-        <summary type="html"><![CDATA[F1 Teams Are Stripping Paint Off Their Cars to Save Weight]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crispy Doom - 更高的分辨率，去除限制的Doom引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=31091861</id>
-        <link href="https://news.ycombinator.com/item?id=31091861"/>
-        <updated>2022-04-20T01:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Crispy Doom – Higher Resolution, Limit Removing Doom Engine]]></summary>
-        <author>
-            <name>ecliptik</name>
-            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
         </author>
     </entry>
 </feed>
