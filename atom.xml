@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T08:57:49.868Z</updated>
+    <updated>2022-04-21T09:13:49.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PuppetDB可能是世界上部署最多的Clojure应用程序之一]]></title>
+        <id>https://news.ycombinator.com/item?id=31107315</id>
+        <link href="https://news.ycombinator.com/item?id=31107315"/>
+        <updated>2022-04-21T09:03:14.000Z</updated>
+        <summary type="html"><![CDATA[PuppetDB is probably one of the most deployed Clojure apps around the world]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国宇航局正在支持一些严重冒险的登月任务--是时候了]]></title>
+        <id>https://news.ycombinator.com/item?id=31107266</id>
+        <link href="https://news.ycombinator.com/item?id=31107266"/>
+        <updated>2022-04-21T08:55:07.000Z</updated>
+        <summary type="html"><![CDATA[NASA is supporting some seriously risky missions to the Moon–it’s about time]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora考虑废止传统的BIOS]]></title>
+        <id>https://news.ycombinator.com/item?id=31107262</id>
+        <link href="https://news.ycombinator.com/item?id=31107262"/>
+        <updated>2022-04-21T08:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Fedora considers deprecating legacy BIOS]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毛里求斯挑战英国对印度洋领域的权利]]></title>
+        <id>https://news.ycombinator.com/item?id=31107089</id>
+        <link href="https://news.ycombinator.com/item?id=31107089"/>
+        <updated>2022-04-21T08:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Mauritius challenges UK rights over Indian Ocean domain]]></summary>
+        <author>
+            <name>KarlKemp</name>
+            <uri>https://news.ycombinator.com/user?id=KarlKemp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大科技公司面试难度分级表]]></title>
+        <id>https://news.ycombinator.com/item?id=31107080</id>
+        <link href="https://news.ycombinator.com/item?id=31107080"/>
+        <updated>2022-04-21T08:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech Interview Difficulty Tier List]]></summary>
+        <author>
+            <name>danielgh7</name>
+            <uri>https://news.ycombinator.com/user?id=danielgh7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FOAF 词汇规范]]></title>
         <id>https://news.ycombinator.com/item?id=31107182</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>divbzero</name>
             <uri>https://news.ycombinator.com/user?id=divbzero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软在Windows 11 Home中默认停用SMB1文件共享协议]]></title>
-        <id>https://news.ycombinator.com/item?id=31092432</id>
-        <link href="https://news.ycombinator.com/item?id=31092432"/>
-        <updated>2022-04-20T03:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft disables SMB1 file-sharing protocol by default in Windows 11 Home]]></summary>
-        <author>
-            <name>thesuperbigfrog</name>
-            <uri>https://news.ycombinator.com/user?id=thesuperbigfrog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习不确定性的警世通言]]></title>
-        <id>https://news.ycombinator.com/item?id=31092417</id>
-        <link href="https://news.ycombinator.com/item?id=31092417"/>
-        <updated>2022-04-20T03:15:22.000Z</updated>
-        <summary type="html"><![CDATA[A cautionary tale of machine learning uncertainty]]></summary>
-        <author>
-            <name>blanketPlans</name>
-            <uri>https://news.ycombinator.com/user?id=blanketPlans</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metager.org - 关注隐私的德国元搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=31092413</id>
-        <link href="https://news.ycombinator.com/item?id=31092413"/>
-        <updated>2022-04-20T03:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Metager.org – German metasearch engine focused on privacy]]></summary>
-        <author>
-            <name>oriettaxx</name>
-            <uri>https://news.ycombinator.com/user?id=oriettaxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave的De-AMP功能可以绕过 "有害的 "谷歌AMP页面]]></title>
-        <id>https://news.ycombinator.com/item?id=31092352</id>
-        <link href="https://news.ycombinator.com/item?id=31092352"/>
-        <updated>2022-04-20T03:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Brave’s De-AMP feature bypasses ‘harmful’ Google AMP pages]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在核爆炸中幸存下来]]></title>
-        <id>https://news.ycombinator.com/item?id=31092331</id>
-        <link href="https://news.ycombinator.com/item?id=31092331"/>
-        <updated>2022-04-20T02:59:32.000Z</updated>
-        <summary type="html"><![CDATA[How to Survive a Nuclear Explosion]]></summary>
-        <author>
-            <name>jdkee</name>
-            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
         </author>
     </entry>
 </feed>
