@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T09:53:28.894Z</updated>
+    <updated>2022-04-21T10:14:28.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust的學習和編程挑戰。一個混合方法的研究[視頻］]]></title>
+        <id>https://news.ycombinator.com/item?id=31107620</id>
+        <link href="https://news.ycombinator.com/item?id=31107620"/>
+        <updated>2022-04-21T10:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Learning and Programming Challenges of Rust: A Mixed-Methods Study [video]]]></summary>
+        <author>
+            <name>hummusandsushi</name>
+            <uri>https://news.ycombinator.com/user?id=hummusandsushi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用WebAssembly的JavaScript垃圾收集今天是可能的]]></title>
+        <id>https://news.ycombinator.com/item?id=31107591</id>
+        <link href="https://news.ycombinator.com/item?id=31107591"/>
+        <updated>2022-04-21T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript Garbage Collection with WebAssembly Is Possible Today]]></summary>
+        <author>
+            <name>PainfullyNormal</name>
+            <uri>https://news.ycombinator.com/user?id=PainfullyNormal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro在Netlify邊緣的功能]]></title>
+        <id>https://news.ycombinator.com/item?id=31107580</id>
+        <link href="https://news.ycombinator.com/item?id=31107580"/>
+        <updated>2022-04-21T09:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Astro on Netlify Edge Functions]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬天在燃燒：烏克蘭為自由而戰，2014年起義紀錄片[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=31107540</id>
+        <link href="https://news.ycombinator.com/item?id=31107540"/>
+        <updated>2022-04-21T09:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Winter on Fire: Ukraine's Fight for Freedom, 2014 uprising documentary [video]]]></summary>
+        <author>
+            <name>type0</name>
+            <uri>https://news.ycombinator.com/user?id=type0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD 7.1發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=31107528</id>
+        <link href="https://news.ycombinator.com/item?id=31107528"/>
+        <updated>2022-04-21T09:49:14.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD 7.1 Released]]></summary>
+        <author>
+            <name>vermaden</name>
+            <uri>https://news.ycombinator.com/user?id=vermaden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每次聚會都是一次家庭團聚]]></title>
+        <id>https://news.ycombinator.com/item?id=31107506</id>
+        <link href="https://news.ycombinator.com/item?id=31107506"/>
+        <updated>2022-04-21T09:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Every gathering is a family reunion]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神經科學家確定了長期記憶存儲的基本機制]]></title>
+        <id>https://news.ycombinator.com/item?id=31107475</id>
+        <link href="https://news.ycombinator.com/item?id=31107475"/>
+        <updated>2022-04-21T09:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Neuroscientists Identify Fundamental Mechanism for Long Term Memory Storage]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代碼簽名和為什麼它（目前）很糟糕（2018年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31107037</id>
+        <link href="https://news.ycombinator.com/item?id=31107037"/>
+        <updated>2022-04-21T08:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Code Signing and why it (currently) sucks (2018)]]></summary>
+        <author>
+            <name>kaeruct</name>
+            <uri>https://news.ycombinator.com/user?id=kaeruct</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要擴大規模：99.999%的正常運行時間是為沃爾瑪準備的 (2005)]]></title>
         <id>https://news.ycombinator.com/item?id=31107505</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>axiomdata316</name>
             <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊通過利多樁的集中化窘境]]></title>
-        <id>https://news.ycombinator.com/item?id=31092716</id>
-        <link href="https://news.ycombinator.com/item?id=31092716"/>
-        <updated>2022-04-20T04:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's Centralization Dilemma Through Lido Staking]]></summary>
-        <author>
-            <name>thinkmassive</name>
-            <uri>https://news.ycombinator.com/user?id=thinkmassive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州麻煩不斷的子彈頭列車的成本再次上升，估計為50億美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31092707</id>
-        <link href="https://news.ycombinator.com/item?id=31092707"/>
-        <updated>2022-04-20T04:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Costs of California’s troubled bullet train rise again, by estimated $5B]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何與機器人競爭]]></title>
-        <id>https://news.ycombinator.com/item?id=31092704</id>
-        <link href="https://news.ycombinator.com/item?id=31092704"/>
-        <updated>2022-04-20T04:08:22.000Z</updated>
-        <summary type="html"><![CDATA[How to Compete with Robots]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誤導性的大科技反壟斷立法只會傷害消費者]]></title>
-        <id>https://news.ycombinator.com/item?id=31092700</id>
-        <link href="https://news.ycombinator.com/item?id=31092700"/>
-        <updated>2022-04-20T04:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Misguided Big Tech Antitrust Legislation Will Only Harm Consumers]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NWA的創始成員一路走來，進入了一個醫療保健的元空間]]></title>
-        <id>https://news.ycombinator.com/item?id=31092668</id>
-        <link href="https://news.ycombinator.com/item?id=31092668"/>
-        <updated>2022-04-20T03:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Founding member of NWA goes all the way into a health-care metaverse]]></summary>
-        <author>
-            <name>HoppedUpMenace</name>
-            <uri>https://news.ycombinator.com/user?id=HoppedUpMenace</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個最可靠的盟友：俄羅斯軍隊的腐敗如何能拯救烏克蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=31092600</id>
-        <link href="https://news.ycombinator.com/item?id=31092600"/>
-        <updated>2022-04-20T03:48:53.000Z</updated>
-        <summary type="html"><![CDATA[A Most Reliable Ally: How Corruption in the Russian Military Could Save Ukraine]]></summary>
-        <author>
-            <name>thesuperbigfrog</name>
-            <uri>https://news.ycombinator.com/user?id=thesuperbigfrog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在C語言預處理程序中帶有用戶可定義條款的循環宏，用於Awk]]></title>
-        <id>https://news.ycombinator.com/item?id=31092597</id>
-        <link href="https://news.ycombinator.com/item?id=31092597"/>
-        <updated>2022-04-20T03:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Loop macro with user-definable clauses in C preprocessor, for Awk]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在YouTube上採訪每天的俄羅斯人。觀眾認為我們被洗腦了]]></title>
-        <id>https://news.ycombinator.com/item?id=31092569</id>
-        <link href="https://news.ycombinator.com/item?id=31092569"/>
-        <updated>2022-04-20T03:41:15.000Z</updated>
-        <summary type="html"><![CDATA[I interview everyday Russians on YouTube. Viewers think we're brainwashed]]></summary>
-        <author>
-            <name>RyanShook</name>
-            <uri>https://news.ycombinator.com/user?id=RyanShook</uri>
         </author>
     </entry>
 </feed>
