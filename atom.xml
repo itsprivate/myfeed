@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T07:14:35.700Z</updated>
+    <updated>2022-04-21T07:31:52.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我受Wordle的启发创建了一个游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31106811</id>
+        <link href="https://news.ycombinator.com/item?id=31106811"/>
+        <updated>2022-04-21T07:21:33.000Z</updated>
+        <summary type="html"><![CDATA[I have created a game inspired by Wordle]]></summary>
+        <author>
+            <name>chillartech</name>
+            <uri>https://news.ycombinator.com/user?id=chillartech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OutCast。带有投射阴影的户外单体图像重新打光]]></title>
+        <id>https://news.ycombinator.com/item?id=31106758</id>
+        <link href="https://news.ycombinator.com/item?id=31106758"/>
+        <updated>2022-04-21T07:11:32.000Z</updated>
+        <summary type="html"><![CDATA[OutCast: Outdoor Single Image Relighting with Cast Shadows]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整数因子化]]></title>
+        <id>https://news.ycombinator.com/item?id=31106474</id>
+        <link href="https://news.ycombinator.com/item?id=31106474"/>
+        <updated>2022-04-21T06:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Integer Factorization]]></summary>
+        <author>
+            <name>subhendrabasu</name>
+            <uri>https://news.ycombinator.com/user?id=subhendrabasu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌克兰打开俄罗斯无人机，发现里面有佳能单反相机]]></title>
         <id>https://news.ycombinator.com/item?id=31106727</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>chuckjchen</name>
             <uri>https://news.ycombinator.com/user?id=chuckjchen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锂很贵：为什么我们不回收锂电池？]]></title>
-        <id>https://news.ycombinator.com/item?id=31091805</id>
-        <link href="https://news.ycombinator.com/item?id=31091805"/>
-        <updated>2022-04-20T01:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Lithium is expensive: why don't we recycle lithium batteries?]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能家居公司Insteon无预警关闭服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=31091740</id>
-        <link href="https://news.ycombinator.com/item?id=31091740"/>
-        <updated>2022-04-20T01:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Smart Home Company Insteon Shuts Down Servers Without Warning]]></summary>
-        <author>
-            <name>tdrnd</name>
-            <uri>https://news.ycombinator.com/user?id=tdrnd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何保护AWS KMS内部的HMACs]]></title>
-        <id>https://news.ycombinator.com/item?id=31091710</id>
-        <link href="https://news.ycombinator.com/item?id=31091710"/>
-        <updated>2022-04-20T01:31:16.000Z</updated>
-        <summary type="html"><![CDATA[How to protect HMACs inside AWS KMS]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
