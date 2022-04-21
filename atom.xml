@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T06:43:04.042Z</updated>
+    <updated>2022-04-21T07:01:52.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[再次改进地图生成中的岛屿塑造工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31106419</id>
+        <link href="https://news.ycombinator.com/item?id=31106419"/>
+        <updated>2022-04-21T05:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Improving island shaping for map generation, again]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厕所里的三秒钟太长--关于办公室自动化的无情之处]]></title>
+        <id>https://news.ycombinator.com/item?id=31106383</id>
+        <link href="https://news.ycombinator.com/item?id=31106383"/>
+        <updated>2022-04-21T05:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Three Seconds Too Long in the Bathroom – on the callousness of office automation]]></summary>
+        <author>
+            <name>upwardbound</name>
+            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁说写文档很无聊？让文档变得有趣的指南清单]]></title>
+        <id>https://news.ycombinator.com/item?id=31106177</id>
+        <link href="https://news.ycombinator.com/item?id=31106177"/>
+        <updated>2022-04-21T05:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Who said writing documentation is boring? A list of guides to make docs fun]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入侵乌克兰后，人们开始黑客攻击俄罗斯]]></title>
         <id>https://news.ycombinator.com/item?id=31106382</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nullc</name>
             <uri>https://news.ycombinator.com/user?id=nullc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网计算机上的TypeScript、GraphQL和Python]]></title>
-        <id>https://news.ycombinator.com/item?id=31091422</id>
-        <link href="https://news.ycombinator.com/item?id=31091422"/>
-        <updated>2022-04-20T00:49:33.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript, GraphQL, and Python on the Internet Computer]]></summary>
-        <author>
-            <name>Flaming_Heart</name>
-            <uri>https://news.ycombinator.com/user?id=Flaming_Heart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix十年来首次失去用户]]></title>
-        <id>https://news.ycombinator.com/item?id=31091420</id>
-        <link href="https://news.ycombinator.com/item?id=31091420"/>
-        <updated>2022-04-20T00:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Netflix loses subscribers for first time in 10 years]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiwi Browser - 在手机上禁用AMP、夜间模式和桌面扩展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31091406</id>
-        <link href="https://news.ycombinator.com/item?id=31091406"/>
-        <updated>2022-04-20T00:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Kiwi Browser – Disable AMP, Night Mode, Desktop Extensions on Mobile]]></summary>
-        <author>
-            <name>sexy_seedbox</name>
-            <uri>https://news.ycombinator.com/user?id=sexy_seedbox</uri>
         </author>
     </entry>
 </feed>
