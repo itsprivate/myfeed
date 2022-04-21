@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T21:52:01.328Z</updated>
+    <updated>2022-04-21T22:12:21.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特的算法飼料如何工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31115755</id>
+        <link href="https://news.ycombinator.com/item?id=31115755"/>
+        <updated>2022-04-21T22:05:06.000Z</updated>
+        <summary type="html"><![CDATA[How Twitter's Algorithmic Feed Works]]></summary>
+        <author>
+            <name>transitivebs</name>
+            <uri>https://news.ycombinator.com/user?id=transitivebs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub。私人檔案測試版]]></title>
+        <id>https://news.ycombinator.com/item?id=31115642</id>
+        <link href="https://news.ycombinator.com/item?id=31115642"/>
+        <updated>2022-04-21T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[GitHub: Private Profiles beta]]></summary>
+        <author>
+            <name>judge2020</name>
+            <uri>https://news.ycombinator.com/user?id=judge2020</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub InFocus指南：改善軟件開發團隊的工作方式]]></title>
+        <id>https://news.ycombinator.com/item?id=31115292</id>
+        <link href="https://news.ycombinator.com/item?id=31115292"/>
+        <updated>2022-04-21T21:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Guide to GitHub InFocus: Improving the way software development teams work]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在這黑暗時期保持樂觀]]></title>
         <id>https://news.ycombinator.com/item?id=31115510</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AV Linux MX版]]></title>
-        <id>https://news.ycombinator.com/item?id=31101536</id>
-        <link href="https://news.ycombinator.com/item?id=31101536"/>
-        <updated>2022-04-20T19:10:31.000Z</updated>
-        <summary type="html"><![CDATA[AV Linux MX Edition]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能不需要AWS，沒有它更好。]]></title>
-        <id>https://news.ycombinator.com/item?id=31101516</id>
-        <link href="https://news.ycombinator.com/item?id=31101516"/>
-        <updated>2022-04-20T19:09:29.000Z</updated>
-        <summary type="html"><![CDATA[You probably don’t need AWS and are better off without it]]></summary>
-        <author>
-            <name>rl1987</name>
-            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[框架筆記本電腦上的Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=31101449</id>
-        <link href="https://news.ycombinator.com/item?id=31101449"/>
-        <updated>2022-04-20T19:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Linux on the Framework Laptop]]></summary>
-        <author>
-            <name>pimterry</name>
-            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
         </author>
     </entry>
 </feed>
