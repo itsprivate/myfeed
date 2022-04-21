@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-21T09:13:49.563Z</updated>
+    <updated>2022-04-21T09:36:48.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这不是玩笑--自从封锁以来，现场观众已经忘记了如何做人。]]></title>
+        <id>https://news.ycombinator.com/item?id=31107417</id>
+        <link href="https://news.ycombinator.com/item?id=31107417"/>
+        <updated>2022-04-21T09:22:17.000Z</updated>
+        <summary type="html"><![CDATA[It’s no joke – since lockdown, live audiences have forgotten how to behave]]></summary>
+        <author>
+            <name>nigerian1981</name>
+            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x86架构是个怪人，第二部分]]></title>
+        <id>https://news.ycombinator.com/item?id=31107372</id>
+        <link href="https://news.ycombinator.com/item?id=31107372"/>
+        <updated>2022-04-21T09:12:49.000Z</updated>
+        <summary type="html"><![CDATA[The x86 architecture is the weirdo, part 2]]></summary>
+        <author>
+            <name>AndrewDucker</name>
+            <uri>https://news.ycombinator.com/user?id=AndrewDucker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PuppetDB可能是世界上部署最多的Clojure应用程序之一]]></title>
         <id>https://news.ycombinator.com/item?id=31107315</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>WalterSobchak</name>
             <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim8的消息通知系统]]></title>
-        <id>https://news.ycombinator.com/item?id=31092464</id>
-        <link href="https://news.ycombinator.com/item?id=31092464"/>
-        <updated>2022-04-20T03:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Message Notification System for Vim8]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023-2032年行星科学和天体生物学的十年战略]]></title>
-        <id>https://news.ycombinator.com/item?id=31092451</id>
-        <link href="https://news.ycombinator.com/item?id=31092451"/>
-        <updated>2022-04-20T03:19:45.000Z</updated>
-        <summary type="html"><![CDATA[A Decadal Strategy for Planetary Science and Astrobiology 2023-2032]]></summary>
-        <author>
-            <name>divbzero</name>
-            <uri>https://news.ycombinator.com/user?id=divbzero</uri>
         </author>
     </entry>
 </feed>
