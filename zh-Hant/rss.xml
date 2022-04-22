@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 22 Apr 2022 21:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 21:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你一直在錯誤地使用這5個表情符號]]></title>
+            <link>https://news.ycombinator.com/item?id=31128401</link>
+            <guid>https://news.ycombinator.com/item?id=31128401</guid>
+            <pubDate>Fri, 22 Apr 2022 21:28:38 GMT</pubDate>
+            <description><![CDATA[You have been using these 5 emojis wrong]]></description>
+        </item>
         <item>
             <title><![CDATA[隱性狂熱主義的終結]]></title>
             <link>https://news.ycombinator.com/item?id=31128398</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31111220</guid>
             <pubDate>Thu, 21 Apr 2022 16:00:34 GMT</pubDate>
             <description><![CDATA[The Birth of Tcl]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Semaphore的工程師面試]]></title>
-            <link>https://news.ycombinator.com/item?id=31111181</link>
-            <guid>https://news.ycombinator.com/item?id=31111181</guid>
-            <pubDate>Thu, 21 Apr 2022 15:57:26 GMT</pubDate>
-            <description><![CDATA[Interviewing Engineers at Semaphore]]></description>
         </item>
     </channel>
 </rss>
