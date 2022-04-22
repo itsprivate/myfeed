@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T22:52:24.301Z</updated>
+    <updated>2022-04-22T23:12:54.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究顯示，英格蘭每10人中就有7人有過科維德的經歷]]></title>
+        <id>https://news.ycombinator.com/item?id=31129258</id>
+        <link href="https://news.ycombinator.com/item?id=31129258"/>
+        <updated>2022-04-22T22:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Seven in 10 people in England have had Covid, research shows]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[構建一個由WebAssembly驅動的無服務器平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=31129251</id>
+        <link href="https://news.ycombinator.com/item?id=31129251"/>
+        <updated>2022-04-22T22:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Building a WebAssembly-powered serverless platform]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秘魯罷工導致數千名遊客滯留在馬丘比丘]]></title>
+        <id>https://news.ycombinator.com/item?id=31129209</id>
+        <link href="https://news.ycombinator.com/item?id=31129209"/>
+        <updated>2022-04-22T22:50:52.000Z</updated>
+        <summary type="html"><![CDATA[Strike in Peru leaves thousands of tourists stranded at Machu Picchu]]></summary>
+        <author>
+            <name>conradegusa</name>
+            <uri>https://news.ycombinator.com/user?id=conradegusa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要成為戰術性的龍捲風 開發軟件而不破壞它]]></title>
+        <id>https://news.ycombinator.com/item?id=31129094</id>
+        <link href="https://news.ycombinator.com/item?id=31129094"/>
+        <updated>2022-04-22T22:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Don't be a tactical tornado Develop software without devastating it]]></summary>
+        <author>
+            <name>devy</name>
+            <uri>https://news.ycombinator.com/user?id=devy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloaker.mobi現在可以在桌面Chrome中任意加密大文件了]]></title>
+        <id>https://news.ycombinator.com/item?id=31128684</id>
+        <link href="https://news.ycombinator.com/item?id=31128684"/>
+        <updated>2022-04-22T21:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cloaker.mobi now encrypts arbitrarily large files in desktop Chrome]]></summary>
+        <author>
+            <name>spieglt</name>
+            <uri>https://news.ycombinator.com/user?id=spieglt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[糟糕的初稿 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=31129054</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>CarCooler</name>
             <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府。駕駛自動駕駛汽車的人將不對車禍負責]]></title>
-        <id>https://news.ycombinator.com/item?id=31111739</id>
-        <link href="https://news.ycombinator.com/item?id=31111739"/>
-        <updated>2022-04-21T16:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Government: Motorists in self-driving cars will not be liable for crashes]]></summary>
-        <author>
-            <name>ericvanular</name>
-            <uri>https://news.ycombinator.com/user?id=ericvanular</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與恩華的DIY服務網]]></title>
-        <id>https://news.ycombinator.com/item?id=31111723</id>
-        <link href="https://news.ycombinator.com/item?id=31111723"/>
-        <updated>2022-04-21T16:38:59.000Z</updated>
-        <summary type="html"><![CDATA[DIY Service Mesh with Envoy]]></summary>
-        <author>
-            <name>dilyevsky</name>
-            <uri>https://news.ycombinator.com/user?id=dilyevsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建一個全棧式的API]]></title>
-        <id>https://news.ycombinator.com/item?id=31111681</id>
-        <link href="https://news.ycombinator.com/item?id=31111681"/>
-        <updated>2022-04-21T16:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Building a Full Stack API]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌在被監督機構罰款後給歐洲一個拒絕所有追蹤的按鈕]]></title>
-        <id>https://news.ycombinator.com/item?id=31111668</id>
-        <link href="https://news.ycombinator.com/item?id=31111668"/>
-        <updated>2022-04-21T16:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Google gives Europe a reject all button for tracking after fines from watchdogs]]></summary>
-        <author>
-            <name>hadrien01</name>
-            <uri>https://news.ycombinator.com/user?id=hadrien01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果音樂推出空間音頻的DJ混合曲目]]></title>
-        <id>https://news.ycombinator.com/item?id=31111660</id>
-        <link href="https://news.ycombinator.com/item?id=31111660"/>
-        <updated>2022-04-21T16:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music launches DJ mixes in spatial audio]]></summary>
-        <author>
-            <name>bredren</name>
-            <uri>https://news.ycombinator.com/user?id=bredren</uri>
         </author>
     </entry>
 </feed>
