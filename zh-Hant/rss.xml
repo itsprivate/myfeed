@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 22 Apr 2022 18:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 19:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[漢薩同盟]]></title>
+            <link>https://news.ycombinator.com/item?id=31125442</link>
+            <guid>https://news.ycombinator.com/item?id=31125442</guid>
+            <pubDate>Fri, 22 Apr 2022 17:54:24 GMT</pubDate>
+            <description><![CDATA[Hanseatic League]]></description>
+        </item>
         <item>
             <title><![CDATA[首個在AWS Lambda上運行的惡意軟件被發現]]></title>
             <link>https://news.ycombinator.com/item?id=31126205</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31109922</guid>
             <pubDate>Thu, 21 Apr 2022 14:32:23 GMT</pubDate>
             <description><![CDATA[California’s off-grid ‘free city’ where lawless residents live]]></description>
-        </item>
-        <item>
-            <title><![CDATA[天文學家發現微星，一種新的恆星爆炸]]></title>
-            <link>https://news.ycombinator.com/item?id=31109786</link>
-            <guid>https://news.ycombinator.com/item?id=31109786</guid>
-            <pubDate>Thu, 21 Apr 2022 14:22:23 GMT</pubDate>
-            <description><![CDATA[Astronomers discover micronovae, a new kind of stellar explosion]]></description>
         </item>
     </channel>
 </rss>

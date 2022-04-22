@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T18:58:42.630Z</updated>
+    <updated>2022-04-22T19:11:33.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漢薩同盟]]></title>
+        <id>https://news.ycombinator.com/item?id=31125442</id>
+        <link href="https://news.ycombinator.com/item?id=31125442"/>
+        <updated>2022-04-22T17:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Hanseatic League]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首個在AWS Lambda上運行的惡意軟件被發現]]></title>
         <id>https://news.ycombinator.com/item?id=31126205</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Vaslo</name>
             <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文學家發現微星，一種新的恆星爆炸]]></title>
-        <id>https://news.ycombinator.com/item?id=31109786</id>
-        <link href="https://news.ycombinator.com/item?id=31109786"/>
-        <updated>2022-04-21T14:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Astronomers discover micronovae, a new kind of stellar explosion]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
         </author>
     </entry>
 </feed>
