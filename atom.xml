@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T14:13:53.753Z</updated>
+    <updated>2022-04-22T14:32:00.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[怪异而奇妙的人工智能艺术世界]]></title>
+        <id>https://news.ycombinator.com/item?id=31121890</id>
+        <link href="https://news.ycombinator.com/item?id=31121890"/>
+        <updated>2022-04-22T14:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The Weird and Wonderful World of AI Art]]></summary>
+        <author>
+            <name>jxmorris12</name>
+            <uri>https://news.ycombinator.com/user?id=jxmorris12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扩增实境的应用程序使之成为动手的互动工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31121676</id>
+        <link href="https://news.ycombinator.com/item?id=31121676"/>
+        <updated>2022-04-22T14:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Augmented reality apps made hands-on interactive]]></summary>
+        <author>
+            <name>jing_qian</name>
+            <uri>https://news.ycombinator.com/user?id=jing_qian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexbor。开源的C语言HTML渲染器库]]></title>
+        <id>https://news.ycombinator.com/item?id=31121459</id>
+        <link href="https://news.ycombinator.com/item?id=31121459"/>
+        <updated>2022-04-22T13:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Lexbor: Open-source HTML Renderer library in C]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用谷歌图书API和Ruby on Rails构建阅读日志应用--第二部分]]></title>
+        <id>https://news.ycombinator.com/item?id=31121425</id>
+        <link href="https://news.ycombinator.com/item?id=31121425"/>
+        <updated>2022-04-22T13:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Building a Reading Log App with the Google Books API and Ruby on Rails – Part 2]]></summary>
+        <author>
+            <name>davidwguymon</name>
+            <uri>https://news.ycombinator.com/user?id=davidwguymon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据报道，Wirecard高管Jan Marsalak藏身于莫斯科]]></title>
         <id>https://news.ycombinator.com/item?id=31121533</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>AndrewDucker</name>
             <uri>https://news.ycombinator.com/user?id=AndrewDucker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PuppetDB可能是世界上部署最多的Clojure应用程序之一]]></title>
-        <id>https://news.ycombinator.com/item?id=31107315</id>
-        <link href="https://news.ycombinator.com/item?id=31107315"/>
-        <updated>2022-04-21T09:03:14.000Z</updated>
-        <summary type="html"><![CDATA[PuppetDB is probably one of the most deployed Clojure apps around the world]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航局正在支持一些严重冒险的登月任务--是时候了]]></title>
-        <id>https://news.ycombinator.com/item?id=31107266</id>
-        <link href="https://news.ycombinator.com/item?id=31107266"/>
-        <updated>2022-04-21T08:55:07.000Z</updated>
-        <summary type="html"><![CDATA[NASA is supporting some seriously risky missions to the Moon–it’s about time]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora考虑废止传统的BIOS]]></title>
-        <id>https://news.ycombinator.com/item?id=31107262</id>
-        <link href="https://news.ycombinator.com/item?id=31107262"/>
-        <updated>2022-04-21T08:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Fedora considers deprecating legacy BIOS]]></summary>
-        <author>
-            <name>bitcharmer</name>
-            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毛里求斯挑战英国对印度洋领域的权利]]></title>
-        <id>https://news.ycombinator.com/item?id=31107089</id>
-        <link href="https://news.ycombinator.com/item?id=31107089"/>
-        <updated>2022-04-21T08:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Mauritius challenges UK rights over Indian Ocean domain]]></summary>
-        <author>
-            <name>KarlKemp</name>
-            <uri>https://news.ycombinator.com/user?id=KarlKemp</uri>
         </author>
     </entry>
 </feed>
