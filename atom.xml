@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T19:11:33.219Z</updated>
+    <updated>2022-04-22T19:28:23.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[肿瘤基因组的宝库提供了癌症起源的线索]]></title>
+        <id>https://news.ycombinator.com/item?id=31126532</id>
+        <link href="https://news.ycombinator.com/item?id=31126532"/>
+        <updated>2022-04-22T19:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Trove of tumour genomes offers clues to cancer origins]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用PostgreSQL的确定性查询计划器进行优化]]></title>
+        <id>https://news.ycombinator.com/item?id=31126528</id>
+        <link href="https://news.ycombinator.com/item?id=31126528"/>
+        <updated>2022-04-22T19:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing with the PostgreSQL deterministic query planner]]></summary>
+        <author>
+            <name>justinpaulson</name>
+            <uri>https://news.ycombinator.com/user?id=justinpaulson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在罕见的采访中，《猴岛》设计师向《阿斯报》讲述了期待已久的《回归》。]]></title>
+        <id>https://news.ycombinator.com/item?id=31126249</id>
+        <link href="https://news.ycombinator.com/item?id=31126249"/>
+        <updated>2022-04-22T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[In rare interview, Monkey Island designers tell Ars about long-awaited Return]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最不起眼的电池材料的惊人气候成本]]></title>
+        <id>https://news.ycombinator.com/item?id=31125823</id>
+        <link href="https://news.ycombinator.com/item?id=31125823"/>
+        <updated>2022-04-22T18:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The surprising climate cost of the humblest battery material]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汉萨同盟]]></title>
         <id>https://news.ycombinator.com/item?id=31125442</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kovalevski</name>
             <uri>https://news.ycombinator.com/user?id=kovalevski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克考虑对推特提出收购要约，称465亿美元已排队等候]]></title>
-        <id>https://news.ycombinator.com/item?id=31110018</id>
-        <link href="https://news.ycombinator.com/item?id=31110018"/>
-        <updated>2022-04-21T14:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Considering Tender Offer for Twitter, Says $46.5 Billion Lined Up]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过AVL树了解锈蚀]]></title>
-        <id>https://news.ycombinator.com/item?id=31110006</id>
-        <link href="https://news.ycombinator.com/item?id=31110006"/>
-        <updated>2022-04-21T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Rust Through AVL Trees]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美达公司的谢丽尔-桑德伯格向《每日邮报》施压，要求放弃鲍比-科蒂克的报道]]></title>
-        <id>https://news.ycombinator.com/item?id=31109993</id>
-        <link href="https://news.ycombinator.com/item?id=31109993"/>
-        <updated>2022-04-21T14:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Meta’s Sheryl Sandberg Pressured Daily Mail to Drop Bobby Kotick Reporting]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加利福尼亚州的离网 "自由城市"，那里的居民无法无天。]]></title>
-        <id>https://news.ycombinator.com/item?id=31109922</id>
-        <link href="https://news.ycombinator.com/item?id=31109922"/>
-        <updated>2022-04-21T14:32:23.000Z</updated>
-        <summary type="html"><![CDATA[California’s off-grid ‘free city’ where lawless residents live]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>
