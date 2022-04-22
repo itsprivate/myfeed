@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T10:40:07.017Z</updated>
+    <updated>2022-04-22T10:55:28.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们的眼睛如何保持专注于我们所接触的东西？]]></title>
+        <id>https://news.ycombinator.com/item?id=31120100</id>
+        <link href="https://news.ycombinator.com/item?id=31120100"/>
+        <updated>2022-04-22T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[How do our eyes stay focused on what we reach for?]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞公司的底线正在跌落]]></title>
+        <id>https://news.ycombinator.com/item?id=31120094</id>
+        <link href="https://news.ycombinator.com/item?id=31120094"/>
+        <updated>2022-04-22T10:45:53.000Z</updated>
+        <summary type="html"><![CDATA[The Bottom Is Dropping Out of Netflix]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥巴马呼吁科技监管，打击社交媒体上的虚假信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31120049</id>
+        <link href="https://news.ycombinator.com/item?id=31120049"/>
+        <updated>2022-04-22T10:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Obama calls for tech regulation to combat disinformation on social media]]></summary>
+        <author>
+            <name>A4ET8a8uTh0</name>
+            <uri>https://news.ycombinator.com/user?id=A4ET8a8uTh0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国海军利用微波将1.6千瓦的电力无线传输到一公里之外]]></title>
+        <id>https://news.ycombinator.com/item?id=31119843</id>
+        <link href="https://news.ycombinator.com/item?id=31119843"/>
+        <updated>2022-04-22T09:54:51.000Z</updated>
+        <summary type="html"><![CDATA[US Navy wirelessly beams 1.6 kW of power a kilometer using microwaves]]></summary>
+        <author>
+            <name>sahin</name>
+            <uri>https://news.ycombinator.com/user?id=sahin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编程中的版本控制概述]]></title>
+        <id>https://news.ycombinator.com/item?id=31119228</id>
+        <link href="https://news.ycombinator.com/item?id=31119228"/>
+        <updated>2022-04-22T07:40:28.000Z</updated>
+        <summary type="html"><![CDATA[An overview of version control in programming]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spike.sh]]></title>
         <id>https://news.ycombinator.com/item?id=31120033</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万事万物、无处不在、一气呵成和量子力学]]></title>
-        <id>https://news.ycombinator.com/item?id=31105291</id>
-        <link href="https://news.ycombinator.com/item?id=31105291"/>
-        <updated>2022-04-21T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything, Everywhere, All at Once and Quantum Mechanics]]></summary>
-        <author>
-            <name>vigilantangel</name>
-            <uri>https://news.ycombinator.com/user?id=vigilantangel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qubit游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=31104895</id>
-        <link href="https://news.ycombinator.com/item?id=31104895"/>
-        <updated>2022-04-21T00:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The Qubit Game]]></summary>
-        <author>
-            <name>pronoiac</name>
-            <uri>https://news.ycombinator.com/user?id=pronoiac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cog: 机器学习的容器]]></title>
-        <id>https://news.ycombinator.com/item?id=31105507</id>
-        <link href="https://news.ycombinator.com/item?id=31105507"/>
-        <updated>2022-04-21T02:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Cog: Containers for Machine Learning]]></summary>
-        <author>
-            <name>fdalvi</name>
-            <uri>https://news.ycombinator.com/user?id=fdalvi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Logfmter]]></title>
-        <id>https://news.ycombinator.com/item?id=31105429</id>
-        <link href="https://news.ycombinator.com/item?id=31105429"/>
-        <updated>2022-04-21T02:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python Logfmter]]></summary>
-        <author>
-            <name>jteppinette</name>
-            <uri>https://news.ycombinator.com/user?id=jteppinette</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析。牛津大学的生物多样性足迹]]></title>
-        <id>https://news.ycombinator.com/item?id=31105407</id>
-        <link href="https://news.ycombinator.com/item?id=31105407"/>
-        <updated>2022-04-21T02:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Analysis: The biodiversity footprint of the University of Oxford]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
