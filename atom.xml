@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T18:15:57.340Z</updated>
+    <updated>2022-04-22T18:40:32.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大学的一位心理学家说他已经破解了一鸣惊人的密码]]></title>
+        <id>https://news.ycombinator.com/item?id=31126051</id>
+        <link href="https://news.ycombinator.com/item?id=31126051"/>
+        <updated>2022-04-22T18:33:50.000Z</updated>
+        <summary type="html"><![CDATA[A Stanford psychologist says he's cracked the code of one-hit wonders]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当提示 "我是一个Python程序员专家 "时，代码模型会变得更好]]></title>
+        <id>https://news.ycombinator.com/item?id=31125843</id>
+        <link href="https://news.ycombinator.com/item?id=31125843"/>
+        <updated>2022-04-22T18:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Code models get better when prompted with “I'm an expert Python programmer”]]></summary>
+        <author>
+            <name>algo_trader</name>
+            <uri>https://news.ycombinator.com/user?id=algo_trader</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD 7.1发布了，包括对苹果M1的支持]]></title>
+        <id>https://news.ycombinator.com/item?id=31125842</id>
+        <link href="https://news.ycombinator.com/item?id=31125842"/>
+        <updated>2022-04-22T18:20:19.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD 7.1 is out, including Apple M1 support]]></summary>
+        <author>
+            <name>raybb</name>
+            <uri>https://news.ycombinator.com/user?id=raybb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN下降了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31125782</id>
+        <link href="https://news.ycombinator.com/item?id=31125782"/>
+        <updated>2022-04-22T18:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Is HN Down?]]></summary>
+        <author>
+            <name>novateg</name>
+            <uri>https://news.ycombinator.com/user?id=novateg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员。黑洞寿命可能比霍金预测的短]]></title>
+        <id>https://news.ycombinator.com/item?id=31125406</id>
+        <link href="https://news.ycombinator.com/item?id=31125406"/>
+        <updated>2022-04-22T17:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Researchers: Black Hole Lifetime could be shorter than Hawking predicted]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌否认其对俄罗斯军事基地的卫星图像进行了模糊处理]]></title>
+        <id>https://news.ycombinator.com/item?id=31125328</id>
+        <link href="https://news.ycombinator.com/item?id=31125328"/>
+        <updated>2022-04-22T17:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Google denies it unblurred satellite imagery of Russian military bases]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XeroLinux。为初学者准备的漂亮的基于Arch的Linux发行版]]></title>
+        <id>https://news.ycombinator.com/item?id=31125086</id>
+        <link href="https://news.ycombinator.com/item?id=31125086"/>
+        <updated>2022-04-22T17:35:17.000Z</updated>
+        <summary type="html"><![CDATA[XeroLinux: A Beautiful Arch-Based Linux Distribution for Beginners]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[视频显示，迈克-泰森在飞行途中多次殴打一名乘客]]></title>
         <id>https://news.ycombinator.com/item?id=31125636</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>djrobstep</name>
             <uri>https://news.ycombinator.com/user?id=djrobstep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD Webzine #9]]></title>
-        <id>https://news.ycombinator.com/item?id=31109616</id>
-        <link href="https://news.ycombinator.com/item?id=31109616"/>
-        <updated>2022-04-21T14:09:13.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD Webzine #9]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德诺1.21版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31109561</id>
-        <link href="https://news.ycombinator.com/item?id=31109561"/>
-        <updated>2022-04-21T14:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Deno 1.21 Release]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参议员希望在全网强制推行反盗版技术]]></title>
-        <id>https://news.ycombinator.com/item?id=31109560</id>
-        <link href="https://news.ycombinator.com/item?id=31109560"/>
-        <updated>2022-04-21T14:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Senators want to mandate anti-piracy technology across the web]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base64.ai: 文档理解AI]]></title>
-        <id>https://news.ycombinator.com/item?id=31109522</id>
-        <link href="https://news.ycombinator.com/item?id=31109522"/>
-        <updated>2022-04-21T14:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Base64.ai: Document Understanding AI]]></summary>
-        <author>
-            <name>oebilgen</name>
-            <uri>https://news.ycombinator.com/user?id=oebilgen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由职业者CRM应用发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31109487</id>
-        <link href="https://news.ycombinator.com/item?id=31109487"/>
-        <updated>2022-04-21T13:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Freelancer CRM Application Published]]></summary>
-        <author>
-            <name>mfurkanyilmazzz</name>
-            <uri>https://news.ycombinator.com/user?id=mfurkanyilmazzz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD 7.1: 风扇噪音和高温解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=31109466</id>
-        <link href="https://news.ycombinator.com/item?id=31109466"/>
-        <updated>2022-04-21T13:56:55.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD 7.1: fan noise and high temperature solution]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要什么和弦？]]></title>
-        <id>https://news.ycombinator.com/item?id=31109456</id>
-        <link href="https://news.ycombinator.com/item?id=31109456"/>
-        <updated>2022-04-21T13:56:09.000Z</updated>
-        <summary type="html"><![CDATA[What Chords Do You Need?]]></summary>
-        <author>
-            <name>janvdberg</name>
-            <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
         </author>
     </entry>
 </feed>
