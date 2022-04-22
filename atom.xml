@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T22:45:18.438Z</updated>
+    <updated>2022-04-22T22:52:24.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[糟糕的初稿 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31129054</id>
+        <link href="https://news.ycombinator.com/item?id=31129054"/>
+        <updated>2022-04-22T22:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Shitty First Drafts [pdf]]]></summary>
+        <author>
+            <name>duck</name>
+            <uri>https://news.ycombinator.com/user?id=duck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罗南-法罗在调查最臭名昭著的间谍软件公司。NSO]]></title>
         <id>https://news.ycombinator.com/item?id=31128591</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bredren</name>
             <uri>https://news.ycombinator.com/user?id=bredren</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌班图22.04版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31111652</id>
-        <link href="https://news.ycombinator.com/item?id=31111652"/>
-        <updated>2022-04-21T16:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 Released]]></summary>
-        <author>
-            <name>ladyanita22</name>
-            <uri>https://news.ycombinator.com/user?id=ladyanita22</uri>
         </author>
     </entry>
 </feed>
