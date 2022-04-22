@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T08:38:59.364Z</updated>
+    <updated>2022-04-22T08:57:03.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[原始的共产主义]]></title>
+        <id>https://news.ycombinator.com/item?id=31119428</id>
+        <link href="https://news.ycombinator.com/item?id=31119428"/>
+        <updated>2022-04-22T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Primitive Communism]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为Slack做了一个披萨破冰的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31119111</id>
+        <link href="https://news.ycombinator.com/item?id=31119111"/>
+        <updated>2022-04-22T07:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a pizza icebreaker app for Slack]]></summary>
+        <author>
+            <name>jic00</name>
+            <uri>https://news.ycombinator.com/user?id=jic00</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为渐进式增强的网络组件]]></title>
         <id>https://news.ycombinator.com/item?id=31119419</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pessimizer</name>
             <uri>https://news.ycombinator.com/user?id=pessimizer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦航空局称，一名优酷网友故意在加州坠毁飞机]]></title>
-        <id>https://news.ycombinator.com/item?id=31104691</id>
-        <link href="https://news.ycombinator.com/item?id=31104691"/>
-        <updated>2022-04-21T00:14:32.000Z</updated>
-        <summary type="html"><![CDATA[A YouTuber Purposely Crashed His Plane in California, FAA Says]]></summary>
-        <author>
-            <name>chrononaut</name>
-            <uri>https://news.ycombinator.com/user?id=chrononaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX上个月关闭了俄罗斯在乌克兰的一次电磁战攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=31104637</id>
-        <link href="https://news.ycombinator.com/item?id=31104637"/>
-        <updated>2022-04-21T00:06:45.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX shut down a Russian electromagnetic warfare attack in Ukraine last month]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
         </author>
     </entry>
 </feed>
