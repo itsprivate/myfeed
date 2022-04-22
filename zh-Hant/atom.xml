@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T20:45:44.511Z</updated>
+    <updated>2022-04-22T20:52:10.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[遷移你的Azure函數以在一個孤立的進程中運行]]></title>
+        <id>https://news.ycombinator.com/item?id=31127641</id>
+        <link href="https://news.ycombinator.com/item?id=31127641"/>
+        <updated>2022-04-22T20:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Migrating your Azure Functions to run in an isolated process]]></summary>
+        <author>
+            <name>carltonupp</name>
+            <uri>https://news.ycombinator.com/user?id=carltonupp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個專業的基於網絡的協作式視頻編輯工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31127359</id>
+        <link href="https://news.ycombinator.com/item?id=31127359"/>
+        <updated>2022-04-22T20:07:09.000Z</updated>
+        <summary type="html"><![CDATA[A professional web-based collaborative video editing tool]]></summary>
+        <author>
+            <name>cris3</name>
+            <uri>https://news.ycombinator.com/user?id=cris3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance與俄羅斯秘密警察的關係]]></title>
         <id>https://news.ycombinator.com/item?id=31127791</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>myth_drannon</name>
             <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對俄羅斯科技公司來說，普京的鎮壓結束了他們的全球野心]]></title>
-        <id>https://news.ycombinator.com/item?id=31110596</id>
-        <link href="https://news.ycombinator.com/item?id=31110596"/>
-        <updated>2022-04-21T15:18:56.000Z</updated>
-        <summary type="html"><![CDATA[For Russian tech firms, Putin’s crackdown ended their global ambitions]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你的開發團隊被公車撞了會怎樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=31109989</id>
-        <link href="https://news.ycombinator.com/item?id=31109989"/>
-        <updated>2022-04-21T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[What happens if your development team is hit by a bus?]]></summary>
-        <author>
-            <name>stloyd</name>
-            <uri>https://news.ycombinator.com/user?id=stloyd</uri>
         </author>
     </entry>
 </feed>
