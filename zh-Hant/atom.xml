@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T07:13:43.040Z</updated>
+    <updated>2022-04-22T07:31:50.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在減肥過程中是否有時間限制飲食的熱量限制]]></title>
+        <id>https://news.ycombinator.com/item?id=31119067</id>
+        <link href="https://news.ycombinator.com/item?id=31119067"/>
+        <updated>2022-04-22T07:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Calorie Restriction with or Without Time-Restricted Eating in Weight Loss]]></summary>
+        <author>
+            <name>rrauenza</name>
+            <uri>https://news.ycombinator.com/user?id=rrauenza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GhostiPy: 面向大數據的開源信號處理和頻譜分析]]></title>
         <id>https://news.ycombinator.com/item?id=31119013</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linsomniac</name>
             <uri>https://news.ycombinator.com/user?id=linsomniac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的文件表明，民主黨人對他們的國內敵人欺騙了中情局。]]></title>
-        <id>https://news.ycombinator.com/item?id=31104227</id>
-        <link href="https://news.ycombinator.com/item?id=31104227"/>
-        <updated>2022-04-20T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[New Documents Suggest Democrats Sicced the CIA on Their Domestic Enemy]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
