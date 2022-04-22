@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T20:36:11.354Z</updated>
+    <updated>2022-04-22T20:45:44.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Binance与俄罗斯秘密警察的关系]]></title>
+        <id>https://news.ycombinator.com/item?id=31127791</id>
+        <link href="https://news.ycombinator.com/item?id=31127791"/>
+        <updated>2022-04-22T20:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Binance Ties with Russian Secret Police]]></summary>
+        <author>
+            <name>Koshkin</name>
+            <uri>https://news.ycombinator.com/user?id=Koshkin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客攻击国土安全部 "的错误猎手在国土安全部系统中发现122个安全缺陷]]></title>
+        <id>https://news.ycombinator.com/item?id=31127777</id>
+        <link href="https://news.ycombinator.com/item?id=31127777"/>
+        <updated>2022-04-22T20:39:46.000Z</updated>
+        <summary type="html"><![CDATA['Hack DHS' bug hunters find 122 security flaws in DHS systems]]></summary>
+        <author>
+            <name>el_duderino</name>
+            <uri>https://news.ycombinator.com/user?id=el_duderino</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无代码的SQL（可视化数据语言）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31127751</id>
+        <link href="https://news.ycombinator.com/item?id=31127751"/>
+        <updated>2022-04-22T20:37:49.000Z</updated>
+        <summary type="html"><![CDATA[No-code SQL (visual data language)]]></summary>
+        <author>
+            <name>george_ciobanu</name>
+            <uri>https://news.ycombinator.com/user?id=george_ciobanu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.04 LTS]]></title>
+        <id>https://news.ycombinator.com/item?id=31127679</id>
+        <link href="https://news.ycombinator.com/item?id=31127679"/>
+        <updated>2022-04-22T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 22.04 LTS]]></summary>
+        <author>
+            <name>el_duderino</name>
+            <uri>https://news.ycombinator.com/user?id=el_duderino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本在与俄罗斯的领土争端中转为强硬立场]]></title>
         <id>https://news.ycombinator.com/item?id=31127596</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>stloyd</name>
             <uri>https://news.ycombinator.com/user?id=stloyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果因不含充电器被罚1000美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31110755</id>
-        <link href="https://news.ycombinator.com/item?id=31110755"/>
-        <updated>2022-04-21T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Apple fined $1000 for not including charger]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想发布笔记本电脑后门的修复措施]]></title>
-        <id>https://news.ycombinator.com/item?id=31110722</id>
-        <link href="https://news.ycombinator.com/item?id=31110722"/>
-        <updated>2022-04-21T15:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo issues fixes for laptop backdoors]]></summary>
-        <author>
-            <name>pat-jay</name>
-            <uri>https://news.ycombinator.com/user?id=pat-jay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学者称，俄罗斯的 "撒旦2号 "导弹对美国来说变化不大]]></title>
-        <id>https://news.ycombinator.com/item?id=31110688</id>
-        <link href="https://news.ycombinator.com/item?id=31110688"/>
-        <updated>2022-04-21T15:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s ‘Satan 2’ missile changes little for U.S., scholars say]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript如何工作：在Node.js中实现gRPC]]></title>
-        <id>https://news.ycombinator.com/item?id=31110685</id>
-        <link href="https://news.ycombinator.com/item?id=31110685"/>
-        <updated>2022-04-21T15:25:47.000Z</updated>
-        <summary type="html"><![CDATA[How JavaScript works: implementation of gRPC in a Node.js]]></summary>
-        <author>
-            <name>rafi-shgn</name>
-            <uri>https://news.ycombinator.com/user?id=rafi-shgn</uri>
         </author>
     </entry>
 </feed>
