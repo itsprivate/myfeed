@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T10:55:28.382Z</updated>
+    <updated>2022-04-22T11:12:08.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[令人讨厌的曲线]]></title>
+        <id>https://news.ycombinator.com/item?id=31120139</id>
+        <link href="https://news.ycombinator.com/item?id=31120139"/>
+        <updated>2022-04-22T10:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Repulsive Curves]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的眼睛如何保持专注于我们所接触的东西？]]></title>
         <id>https://news.ycombinator.com/item?id=31120100</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近代最重要的统计学思想的物理学渊源]]></title>
-        <id>https://news.ycombinator.com/item?id=31105386</id>
-        <link href="https://news.ycombinator.com/item?id=31105386"/>
-        <updated>2022-04-21T02:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Physics origins of the most important statistical ideas of recent times]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
