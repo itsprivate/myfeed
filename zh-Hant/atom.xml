@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T11:38:29.459Z</updated>
+    <updated>2022-04-22T11:51:53.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[硅谷動物園。CPU芯片上的微小藝術品]]></title>
+        <id>https://news.ycombinator.com/item?id=31120439</id>
+        <link href="https://news.ycombinator.com/item?id=31120439"/>
+        <updated>2022-04-22T11:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Silicon Zoo: Tiny artwork on CPU dies]]></summary>
+        <author>
+            <name>michaelt</name>
+            <uri>https://news.ycombinator.com/user?id=michaelt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通Lisp資源]]></title>
+        <id>https://news.ycombinator.com/item?id=31120359</id>
+        <link href="https://news.ycombinator.com/item?id=31120359"/>
+        <updated>2022-04-22T11:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Common Lisp Resources]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲批准新科技法，美國進一步落後]]></title>
+        <id>https://news.ycombinator.com/item?id=31120345</id>
+        <link href="https://news.ycombinator.com/item?id=31120345"/>
+        <updated>2022-04-22T11:29:32.000Z</updated>
+        <summary type="html"><![CDATA[As Europe Approves New Tech Laws, the U.S. Falls Further Behind]]></summary>
+        <author>
+            <name>pg_1234</name>
+            <uri>https://news.ycombinator.com/user?id=pg_1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對bash腳本和函數進行單元測試]]></title>
+        <id>https://news.ycombinator.com/item?id=31120208</id>
+        <link href="https://news.ycombinator.com/item?id=31120208"/>
+        <updated>2022-04-22T11:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Unit testing for bash-scripts and functions]]></summary>
+        <author>
+            <name>smoochy</name>
+            <uri>https://news.ycombinator.com/user?id=smoochy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯無人機Orlan的開箱顯示佳能消費者相機被用作傳感器]]></title>
+        <id>https://news.ycombinator.com/item?id=31119998</id>
+        <link href="https://news.ycombinator.com/item?id=31119998"/>
+        <updated>2022-04-22T10:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Unboxing of Russian Drone Orlan shows Canon consumer camera used as sensor]]></summary>
+        <author>
+            <name>dmos62</name>
+            <uri>https://news.ycombinator.com/user?id=dmos62</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國電話跟蹤公司通過監視中情局和國安局展示監控權力]]></title>
         <id>https://news.ycombinator.com/item?id=31120327</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jamesy0ung</name>
             <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於 "健康 "糖技術的激烈而混亂的鬥爭]]></title>
-        <id>https://news.ycombinator.com/item?id=31105816</id>
-        <link href="https://news.ycombinator.com/item?id=31105816"/>
-        <updated>2022-04-21T03:37:28.000Z</updated>
-        <summary type="html"><![CDATA[The fierce, messy fight over “healthy” sugar tech]]></summary>
-        <author>
-            <name>minhduong243</name>
-            <uri>https://news.ycombinator.com/user?id=minhduong243</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微新星：天文學家發現新類型的恆星爆炸]]></title>
-        <id>https://news.ycombinator.com/item?id=31105815</id>
-        <link href="https://news.ycombinator.com/item?id=31105815"/>
-        <updated>2022-04-21T03:37:23.000Z</updated>
-        <summary type="html"><![CDATA[The micronova: Astronomers discovered new type of stellar explosion]]></summary>
-        <author>
-            <name>kristianp</name>
-            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司測試採用下一代M2芯片的新Mac電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=31105791</id>
-        <link href="https://news.ycombinator.com/item?id=31105791"/>
-        <updated>2022-04-21T03:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Apple Testing New Macs with Next-Generation M2 Chips]]></summary>
-        <author>
-            <name>nreece</name>
-            <uri>https://news.ycombinator.com/user?id=nreece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克將接管Twitter？]]></title>
-        <id>https://news.ycombinator.com/item?id=31105749</id>
-        <link href="https://news.ycombinator.com/item?id=31105749"/>
-        <updated>2022-04-21T03:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Will Elon Musk Take over Twitter?]]></summary>
-        <author>
-            <name>cjdrake</name>
-            <uri>https://news.ycombinator.com/user?id=cjdrake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezos的創造者將在YouTube上進行AMA活動]]></title>
-        <id>https://news.ycombinator.com/item?id=31105650</id>
-        <link href="https://news.ycombinator.com/item?id=31105650"/>
-        <updated>2022-04-21T03:04:38.000Z</updated>
-        <summary type="html"><![CDATA[The creator of Tezos will have an AMA on YouTube]]></summary>
-        <author>
-            <name>aljgz</name>
-            <uri>https://news.ycombinator.com/user?id=aljgz</uri>
         </author>
     </entry>
 </feed>
