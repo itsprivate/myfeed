@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T06:40:25.468Z</updated>
+    <updated>2022-04-22T06:59:41.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紅丸王子]]></title>
+        <id>https://news.ycombinator.com/item?id=31118840</id>
+        <link href="https://news.ycombinator.com/item?id=31118840"/>
+        <updated>2022-04-22T06:28:06.000Z</updated>
+        <summary type="html"><![CDATA[The Red-Pill Prince]]></summary>
+        <author>
+            <name>bonefishgrill</name>
+            <uri>https://news.ycombinator.com/user?id=bonefishgrill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle的障礙：設置謎題的陷阱]]></title>
+        <id>https://news.ycombinator.com/item?id=31118470</id>
+        <link href="https://news.ycombinator.com/item?id=31118470"/>
+        <updated>2022-04-22T05:20:57.000Z</updated>
+        <summary type="html"><![CDATA[The Wordle hurdle: the pitfalls of setting puzzles]]></summary>
+        <author>
+            <name>Wowfunhappy</name>
+            <uri>https://news.ycombinator.com/user?id=Wowfunhappy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳被動收入投資的排名]]></title>
         <id>https://news.ycombinator.com/item?id=31118172</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>donohoe</name>
             <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大意：我們應該擺脫科學論文嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31103911</id>
-        <link href="https://news.ycombinator.com/item?id=31103911"/>
-        <updated>2022-04-20T22:28:57.000Z</updated>
-        <summary type="html"><![CDATA[The big idea: should we get rid of the scientific paper?]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原始的共產主義]]></title>
-        <id>https://news.ycombinator.com/item?id=31103848</id>
-        <link href="https://news.ycombinator.com/item?id=31103848"/>
-        <updated>2022-04-20T22:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Primitive Communism]]></summary>
-        <author>
-            <name>thatperson101</name>
-            <uri>https://news.ycombinator.com/user?id=thatperson101</uri>
         </author>
     </entry>
 </feed>
