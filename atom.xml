@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T22:34:12.517Z</updated>
+    <updated>2022-04-22T22:45:18.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罗南-法罗在调查最臭名昭著的间谍软件公司。NSO]]></title>
+        <id>https://news.ycombinator.com/item?id=31128591</id>
+        <link href="https://news.ycombinator.com/item?id=31128591"/>
+        <updated>2022-04-22T21:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Ronan Farrow on investigating the most notorious spyware company: NSO]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用于编码的Arch Linux设置]]></title>
+        <id>https://news.ycombinator.com/item?id=31128549</id>
+        <link href="https://news.ycombinator.com/item?id=31128549"/>
+        <updated>2022-04-22T21:42:23.000Z</updated>
+        <summary type="html"><![CDATA[My Arch Linux setup for coding]]></summary>
+        <author>
+            <name>zt4ff</name>
+            <uri>https://news.ycombinator.com/user?id=zt4ff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杰克-多尔西的新头衔。块头]]></title>
         <id>https://news.ycombinator.com/item?id=31129009</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ladyanita22</name>
             <uri>https://news.ycombinator.com/user?id=ladyanita22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过更快的服务器端钩子改善Git推送时间]]></title>
-        <id>https://news.ycombinator.com/item?id=31111603</id>
-        <link href="https://news.ycombinator.com/item?id=31111603"/>
-        <updated>2022-04-21T16:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Improving Git push times through faster server side hooks]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写好单元测试；不要模拟数据库连接]]></title>
-        <id>https://news.ycombinator.com/item?id=31111585</id>
-        <link href="https://news.ycombinator.com/item?id=31111585"/>
-        <updated>2022-04-21T16:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Writing Good Unit Tests; Don’t Mock Database Connections]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
         </author>
     </entry>
 </feed>

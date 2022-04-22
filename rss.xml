@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 22 Apr 2022 22:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 22:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[罗南-法罗在调查最臭名昭著的间谍软件公司。NSO]]></title>
+            <link>https://news.ycombinator.com/item?id=31128591</link>
+            <guid>https://news.ycombinator.com/item?id=31128591</guid>
+            <pubDate>Fri, 22 Apr 2022 21:46:14 GMT</pubDate>
+            <description><![CDATA[Ronan Farrow on investigating the most notorious spyware company: NSO]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我用于编码的Arch Linux设置]]></title>
+            <link>https://news.ycombinator.com/item?id=31128549</link>
+            <guid>https://news.ycombinator.com/item?id=31128549</guid>
+            <pubDate>Fri, 22 Apr 2022 21:42:23 GMT</pubDate>
+            <description><![CDATA[My Arch Linux setup for coding]]></description>
+        </item>
         <item>
             <title><![CDATA[杰克-多尔西的新头衔。块头]]></title>
             <link>https://news.ycombinator.com/item?id=31129009</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31111652</guid>
             <pubDate>Thu, 21 Apr 2022 16:34:44 GMT</pubDate>
             <description><![CDATA[Ubuntu 22.04 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过更快的服务器端钩子改善Git推送时间]]></title>
-            <link>https://news.ycombinator.com/item?id=31111603</link>
-            <guid>https://news.ycombinator.com/item?id=31111603</guid>
-            <pubDate>Thu, 21 Apr 2022 16:30:54 GMT</pubDate>
-            <description><![CDATA[Improving Git push times through faster server side hooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[写好单元测试；不要模拟数据库连接]]></title>
-            <link>https://news.ycombinator.com/item?id=31111585</link>
-            <guid>https://news.ycombinator.com/item?id=31111585</guid>
-            <pubDate>Thu, 21 Apr 2022 16:29:30 GMT</pubDate>
-            <description><![CDATA[Writing Good Unit Tests; Don’t Mock Database Connections]]></description>
         </item>
     </channel>
 </rss>
