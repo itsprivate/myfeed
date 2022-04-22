@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-22T06:15:48.163Z</updated>
+    <updated>2022-04-22T06:40:25.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳被動收入投資的排名]]></title>
+        <id>https://news.ycombinator.com/item?id=31118172</id>
+        <link href="https://news.ycombinator.com/item?id=31118172"/>
+        <updated>2022-04-22T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Ranking the Best Passive Income Investments]]></summary>
+        <author>
+            <name>gamechangr</name>
+            <uri>https://news.ycombinator.com/user?id=gamechangr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix、電影和互聯網]]></title>
         <id>https://news.ycombinator.com/item?id=31118710</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thatperson101</name>
             <uri>https://news.ycombinator.com/user?id=thatperson101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04 LTS (Jammy Jellyfish)]]></title>
-        <id>https://news.ycombinator.com/item?id=31103834</id>
-        <link href="https://news.ycombinator.com/item?id=31103834"/>
-        <updated>2022-04-20T22:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTS (Jammy Jellyfish)]]></summary>
-        <author>
-            <name>wdomitrz</name>
-            <uri>https://news.ycombinator.com/user?id=wdomitrz</uri>
         </author>
     </entry>
 </feed>
