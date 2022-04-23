@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T10:36:13.791Z</updated>
+    <updated>2022-04-23T10:53:05.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[敏捷使我们迅速陷入困境]]></title>
+        <id>https://news.ycombinator.com/item?id=31132959</id>
+        <link href="https://news.ycombinator.com/item?id=31132959"/>
+        <updated>2022-04-23T10:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Agile Is Getting Us Nowhere Fast]]></summary>
+        <author>
+            <name>tomerbd</name>
+            <uri>https://news.ycombinator.com/user?id=tomerbd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国军事科学家说他们已经创造了 "隐形斗篷"。]]></title>
         <id>https://news.ycombinator.com/item?id=31132891</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anarticle</name>
             <uri>https://news.ycombinator.com/user?id=anarticle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克为竞购Twitter寻找潜在的股权合作伙伴]]></title>
-        <id>https://news.ycombinator.com/item?id=31115218</id>
-        <link href="https://news.ycombinator.com/item?id=31115218"/>
-        <updated>2022-04-21T21:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Vets Potential Equity Partners for Twitter Bid]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
