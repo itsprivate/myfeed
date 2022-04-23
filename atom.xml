@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T07:39:46.419Z</updated>
+    <updated>2022-04-23T08:14:17.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉被传唤，但一架小飞机挡住了去路]]></title>
+        <id>https://news.ycombinator.com/item?id=31132326</id>
+        <link href="https://news.ycombinator.com/item?id=31132326"/>
+        <updated>2022-04-23T07:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Tesla summoned but a small plane was in the way]]></summary>
+        <author>
+            <name>stillworks</name>
+            <uri>https://news.ycombinator.com/user?id=stillworks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元素--在测试中引入线程]]></title>
+        <id>https://news.ycombinator.com/item?id=31132313</id>
+        <link href="https://news.ycombinator.com/item?id=31132313"/>
+        <updated>2022-04-23T07:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Element – Introducing Threads in Beta]]></summary>
+        <author>
+            <name>unicornporn</name>
+            <uri>https://news.ycombinator.com/user?id=unicornporn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏道夫写作]]></title>
+        <id>https://news.ycombinator.com/item?id=31132161</id>
+        <link href="https://news.ycombinator.com/item?id=31132161"/>
+        <updated>2022-04-23T07:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Sudowrite]]></summary>
+        <author>
+            <name>bspear</name>
+            <uri>https://news.ycombinator.com/user?id=bspear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minos（嵌入式系统的虚拟化解决方案）v0.4发布]]></title>
         <id>https://news.ycombinator.com/item?id=31131933</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将停止Fleetsmith服务]]></title>
-        <id>https://news.ycombinator.com/item?id=31114378</id>
-        <link href="https://news.ycombinator.com/item?id=31114378"/>
-        <updated>2022-04-21T19:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Apple will discontinue Fleetsmith service]]></summary>
-        <author>
-            <name>mrpippy</name>
-            <uri>https://news.ycombinator.com/user?id=mrpippy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MX-21.1 respin "Workbench "发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31113840</id>
-        <link href="https://news.ycombinator.com/item?id=31113840"/>
-        <updated>2022-04-21T19:03:08.000Z</updated>
-        <summary type="html"><![CDATA[MX-21.1 respin “Workbench” released]]></summary>
-        <author>
-            <name>cf100clunk</name>
-            <uri>https://news.ycombinator.com/user?id=cf100clunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有陀螺仪或脚轮效应的自平衡自行车]]></title>
-        <id>https://news.ycombinator.com/item?id=31114449</id>
-        <link href="https://news.ycombinator.com/item?id=31114449"/>
-        <updated>2022-04-21T19:55:57.000Z</updated>
-        <summary type="html"><![CDATA[Self balancing bicycle without gyroscopic or caster effects]]></summary>
-        <author>
-            <name>ActorNightly</name>
-            <uri>https://news.ycombinator.com/user?id=ActorNightly</uri>
         </author>
     </entry>
 </feed>
