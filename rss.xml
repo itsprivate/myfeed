@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 09:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[[实验性] Fleet--Rust的构建工具，速度快达5倍。]]></title>
+            <link>https://news.ycombinator.com/item?id=31132659</link>
+            <guid>https://news.ycombinator.com/item?id=31132659</guid>
+            <pubDate>Sat, 23 Apr 2022 09:31:29 GMT</pubDate>
+            <description><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Raspberry Pi Zero显示乌克兰的活动防空警报器]]></title>
             <link>https://news.ycombinator.com/item?id=31132596</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31114925</guid>
             <pubDate>Thu, 21 Apr 2022 20:43:05 GMT</pubDate>
             <description><![CDATA[Sheryl Sandberg reportedly used Facebook resources to help Activision CEO]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用线索阅读法伪造Covid测试的阳性结果]]></title>
-            <link>https://news.ycombinator.com/item?id=31114844</link>
-            <guid>https://news.ycombinator.com/item?id=31114844</guid>
-            <pubDate>Thu, 21 Apr 2022 20:35:44 GMT</pubDate>
-            <description><![CDATA[Faking a Positive Covid Test with Cue Readers]]></description>
         </item>
     </channel>
 </rss>

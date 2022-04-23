@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T09:32:26.707Z</updated>
+    <updated>2022-04-23T09:42:38.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[[實驗性] Fleet--Rust的構建工具，速度快達5倍。]]></title>
+        <id>https://news.ycombinator.com/item?id=31132659</id>
+        <link href="https://news.ycombinator.com/item?id=31132659"/>
+        <updated>2022-04-23T09:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></summary>
+        <author>
+            <name>VarunPotti</name>
+            <uri>https://news.ycombinator.com/user?id=VarunPotti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Raspberry Pi Zero顯示烏克蘭的活動防空警報器]]></title>
         <id>https://news.ycombinator.com/item?id=31132596</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>perihelions</name>
             <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用線索閱讀法偽造Covid測試的陽性結果]]></title>
-        <id>https://news.ycombinator.com/item?id=31114844</id>
-        <link href="https://news.ycombinator.com/item?id=31114844"/>
-        <updated>2022-04-21T20:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Faking a Positive Covid Test with Cue Readers]]></summary>
-        <author>
-            <name>kipply</name>
-            <uri>https://news.ycombinator.com/user?id=kipply</uri>
         </author>
     </entry>
 </feed>
