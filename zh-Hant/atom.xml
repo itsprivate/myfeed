@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T05:11:49.524Z</updated>
+    <updated>2022-04-23T05:30:18.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[萬事通，無師自通]]></title>
+        <id>https://news.ycombinator.com/item?id=31131504</id>
+        <link href="https://news.ycombinator.com/item?id=31131504"/>
+        <updated>2022-04-23T04:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Jack of all trades, master of none]]></summary>
+        <author>
+            <name>mailatpriyank</name>
+            <uri>https://news.ycombinator.com/user?id=mailatpriyank</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反轉試驗]]></title>
+        <id>https://news.ycombinator.com/item?id=31131356</id>
+        <link href="https://news.ycombinator.com/item?id=31131356"/>
+        <updated>2022-04-23T04:20:12.000Z</updated>
+        <summary type="html"><![CDATA[The Reversal Test]]></summary>
+        <author>
+            <name>teddykoker</name>
+            <uri>https://news.ycombinator.com/user?id=teddykoker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3400萬美元（11,539個ETH）永久鎖定在AkuDreams合同中]]></title>
         <id>https://news.ycombinator.com/item?id=31131454</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sebmellen</name>
             <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長達一年的試驗發現，間歇性禁食並不比常規節食更好]]></title>
-        <id>https://news.ycombinator.com/item?id=31114174</id>
-        <link href="https://news.ycombinator.com/item?id=31114174"/>
-        <updated>2022-04-21T19:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Intermittent Fasting Not Better Than Regular Dieting, Year-Long Trial Finds]]></summary>
-        <author>
-            <name>ourmandave</name>
-            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨西哥因針對婦女的暴力不斷增加而感到不安]]></title>
-        <id>https://news.ycombinator.com/item?id=31114083</id>
-        <link href="https://news.ycombinator.com/item?id=31114083"/>
-        <updated>2022-04-21T19:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Mexico rattled by increasing violence against women]]></summary>
-        <author>
-            <name>conradegusa</name>
-            <uri>https://news.ycombinator.com/user?id=conradegusa</uri>
         </author>
     </entry>
 </feed>
