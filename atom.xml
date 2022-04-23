@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T23:33:48.338Z</updated>
+    <updated>2022-04-23T23:44:21.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chris Lattner谈垃圾收集与自动引用计数（2017）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31139610</id>
+        <link href="https://news.ycombinator.com/item?id=31139610"/>
+        <updated>2022-04-23T23:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尘埃塌陷的量子引力：来自黑洞的冲击波]]></title>
+        <id>https://news.ycombinator.com/item?id=31138743</id>
+        <link href="https://news.ycombinator.com/item?id=31138743"/>
+        <updated>2022-04-23T21:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Quantum gravity of dust collapse: shock waves from black holes]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯在打击黑客窃取大量数据的战争中败下阵来]]></title>
         <id>https://news.ycombinator.com/item?id=31139662</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yen7</name>
             <uri>https://news.ycombinator.com/user?id=yen7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaluma: 适用于RP2040（Raspberry Pi Pico）的微小JavaScript运行时]]></title>
-        <id>https://news.ycombinator.com/item?id=31121003</id>
-        <link href="https://news.ycombinator.com/item?id=31121003"/>
-        <updated>2022-04-22T12:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Kaluma: A Tiny JavaScript Runtime for RP2040 (Raspberry Pi Pico)]]></summary>
-        <author>
-            <name>petercooper</name>
-            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11预览。任务和异常组]]></title>
-        <id>https://news.ycombinator.com/item?id=31120813</id>
-        <link href="https://news.ycombinator.com/item?id=31120813"/>
-        <updated>2022-04-22T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.11 Preview: Task and Exception Groups]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
         </author>
     </entry>
 </feed>

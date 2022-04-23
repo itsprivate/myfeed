@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 23 Apr 2022 23:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 23:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Chris Lattner谈垃圾收集与自动引用计数（2017）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31139610</link>
+            <guid>https://news.ycombinator.com/item?id=31139610</guid>
+            <pubDate>Sat, 23 Apr 2022 23:14:28 GMT</pubDate>
+            <description><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尘埃塌陷的量子引力：来自黑洞的冲击波]]></title>
+            <link>https://news.ycombinator.com/item?id=31138743</link>
+            <guid>https://news.ycombinator.com/item?id=31138743</guid>
+            <pubDate>Sat, 23 Apr 2022 21:26:12 GMT</pubDate>
+            <description><![CDATA[Quantum gravity of dust collapse: shock waves from black holes]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯在打击黑客窃取大量数据的战争中败下阵来]]></title>
             <link>https://news.ycombinator.com/item?id=31139662</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31121061</guid>
             <pubDate>Fri, 22 Apr 2022 12:58:59 GMT</pubDate>
             <description><![CDATA[Show HN: Laravel Nova alternative with no code UI editor, search, BRAC, and more]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kaluma: 适用于RP2040（Raspberry Pi Pico）的微小JavaScript运行时]]></title>
-            <link>https://news.ycombinator.com/item?id=31121003</link>
-            <guid>https://news.ycombinator.com/item?id=31121003</guid>
-            <pubDate>Fri, 22 Apr 2022 12:53:00 GMT</pubDate>
-            <description><![CDATA[Kaluma: A Tiny JavaScript Runtime for RP2040 (Raspberry Pi Pico)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python 3.11预览。任务和异常组]]></title>
-            <link>https://news.ycombinator.com/item?id=31120813</link>
-            <guid>https://news.ycombinator.com/item?id=31120813</guid>
-            <pubDate>Fri, 22 Apr 2022 12:30:02 GMT</pubDate>
-            <description><![CDATA[Python 3.11 Preview: Task and Exception Groups]]></description>
         </item>
     </channel>
 </rss>
