@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T10:53:05.470Z</updated>
+    <updated>2022-04-23T11:11:33.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bellingcat在俄罗斯被禁--以下是如何击败封锁的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=31133143</id>
+        <link href="https://news.ycombinator.com/item?id=31133143"/>
+        <updated>2022-04-23T10:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Bellingcat Is Banned in Russia – Here’s How to Beat the Block]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XMPP有什么好处吗？让我们用Tcl写一个客户端，也许吧]]></title>
+        <id>https://news.ycombinator.com/item?id=31133082</id>
+        <link href="https://news.ycombinator.com/item?id=31133082"/>
+        <updated>2022-04-23T10:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Is XMPP any good? Let's write a client in Tcl, maybe]]></summary>
+        <author>
+            <name>wusspuss</name>
+            <uri>https://news.ycombinator.com/user?id=wusspuss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人力资源管理（HRM）如何创造更好的工作环境]]></title>
+        <id>https://news.ycombinator.com/item?id=31133080</id>
+        <link href="https://news.ycombinator.com/item?id=31133080"/>
+        <updated>2022-04-23T10:48:59.000Z</updated>
+        <summary type="html"><![CDATA[How Human Resource Management (HRM) can create better working environments]]></summary>
+        <author>
+            <name>lorissee</name>
+            <uri>https://news.ycombinator.com/user?id=lorissee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折纸大师]]></title>
+        <id>https://news.ycombinator.com/item?id=31133066</id>
+        <link href="https://news.ycombinator.com/item?id=31133066"/>
+        <updated>2022-04-23T10:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Origami Masters]]></summary>
+        <author>
+            <name>mkosmul</name>
+            <uri>https://news.ycombinator.com/user?id=mkosmul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简历编辑]]></title>
+        <id>https://news.ycombinator.com/item?id=31132788</id>
+        <link href="https://news.ycombinator.com/item?id=31132788"/>
+        <updated>2022-04-23T10:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Resume Editor]]></summary>
+        <author>
+            <name>jacob_rezi</name>
+            <uri>https://news.ycombinator.com/user?id=jacob_rezi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敏捷使我们迅速陷入困境]]></title>
         <id>https://news.ycombinator.com/item?id=31132959</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在这黑暗时期保持乐观]]></title>
-        <id>https://news.ycombinator.com/item?id=31115510</id>
-        <link href="https://news.ycombinator.com/item?id=31115510"/>
-        <updated>2022-04-21T21:39:12.000Z</updated>
-        <summary type="html"><![CDATA[How to stay optimistic in these dark times]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOTA评论。用视觉AI提高图像分辨率]]></title>
-        <id>https://news.ycombinator.com/item?id=31115493</id>
-        <link href="https://news.ycombinator.com/item?id=31115493"/>
-        <updated>2022-04-21T21:37:16.000Z</updated>
-        <summary type="html"><![CDATA[SOTA Review: Enhancing Image Resolution with Visual AI]]></summary>
-        <author>
-            <name>leopiney</name>
-            <uri>https://news.ycombinator.com/user?id=leopiney</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres如何选择在查询中使用哪个索引]]></title>
-        <id>https://news.ycombinator.com/item?id=31115492</id>
-        <link href="https://news.ycombinator.com/item?id=31115492"/>
-        <updated>2022-04-21T21:37:14.000Z</updated>
-        <summary type="html"><![CDATA[How Postgres Chooses Which Index to Use for a Query]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix估计有1亿个家庭在共享密码]]></title>
-        <id>https://news.ycombinator.com/item?id=31115478</id>
-        <link href="https://news.ycombinator.com/item?id=31115478"/>
-        <updated>2022-04-21T21:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Netflix estimates 100M households are sharing passwords]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ByteDance的机器学习合成器Mawf]]></title>
-        <id>https://news.ycombinator.com/item?id=31115421</id>
-        <link href="https://news.ycombinator.com/item?id=31115421"/>
-        <updated>2022-04-21T21:28:57.000Z</updated>
-        <summary type="html"><![CDATA[ByteDance's Machine Learning Synthesizer Mawf]]></summary>
-        <author>
-            <name>anarticle</name>
-            <uri>https://news.ycombinator.com/user?id=anarticle</uri>
         </author>
     </entry>
 </feed>
