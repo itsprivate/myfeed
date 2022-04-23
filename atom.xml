@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T22:12:57.314Z</updated>
+    <updated>2022-04-23T22:33:13.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国公司正在挖掘芬兰语中的独特品牌名称]]></title>
+        <id>https://news.ycombinator.com/item?id=31139040</id>
+        <link href="https://news.ycombinator.com/item?id=31139040"/>
+        <updated>2022-04-23T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[American companies are mining the Finnish language for unique brand names]]></summary>
+        <author>
+            <name>macbookaries</name>
+            <uri>https://news.ycombinator.com/user?id=macbookaries</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伟大的辞职"。超过70%的工人对辞职感到后悔]]></title>
+        <id>https://news.ycombinator.com/item?id=31139019</id>
+        <link href="https://news.ycombinator.com/item?id=31139019"/>
+        <updated>2022-04-23T21:57:34.000Z</updated>
+        <summary type="html"><![CDATA['Great Resignation': Over 70% of workers regret quitting their jobs]]></summary>
+        <author>
+            <name>yonixw</name>
+            <uri>https://news.ycombinator.com/user?id=yonixw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我反对嘲讽框架的理由]]></title>
+        <id>https://news.ycombinator.com/item?id=31138605</id>
+        <link href="https://news.ycombinator.com/item?id=31138605"/>
+        <updated>2022-04-23T21:12:28.000Z</updated>
+        <summary type="html"><![CDATA[My case against mocking frameworks]]></summary>
+        <author>
+            <name>john-shaffer</name>
+            <uri>https://news.ycombinator.com/user?id=john-shaffer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将一个网站从中间切成两半]]></title>
+        <id>https://news.ycombinator.com/item?id=31137813</id>
+        <link href="https://news.ycombinator.com/item?id=31137813"/>
+        <updated>2022-04-23T19:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Slicing a Website in Half Down the Middle]]></summary>
+        <author>
+            <name>zvorygin</name>
+            <uri>https://news.ycombinator.com/user?id=zvorygin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何从轨道上的卫星调取图像]]></title>
         <id>https://news.ycombinator.com/item?id=31138975</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>occamschainsaw</name>
             <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们在2021年打击了谷歌上的搜索垃圾邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=31120402</id>
-        <link href="https://news.ycombinator.com/item?id=31120402"/>
-        <updated>2022-04-22T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We fought Search spam on Google in 2021]]></summary>
-        <author>
-            <name>shelfchair</name>
-            <uri>https://news.ycombinator.com/user?id=shelfchair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前NHS人工智能领导加入美国间谍技术公司Palantir]]></title>
-        <id>https://news.ycombinator.com/item?id=31120398</id>
-        <link href="https://news.ycombinator.com/item?id=31120398"/>
-        <updated>2022-04-22T11:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Former NHS AI leader joins US spy-tech firm Palantir]]></summary>
-        <author>
-            <name>jjgreen</name>
-            <uri>https://news.ycombinator.com/user?id=jjgreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Espressif ESP32-C3上的嵌入式Rust - 图书]]></title>
-        <id>https://news.ycombinator.com/item?id=31120332</id>
-        <link href="https://news.ycombinator.com/item?id=31120332"/>
-        <updated>2022-04-22T11:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Embedded Rust on Espressif ESP32-C3 – Book]]></summary>
-        <author>
-            <name>mcp_</name>
-            <uri>https://news.ycombinator.com/user?id=mcp_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[watever: WebAssembly文本捆绑器]]></title>
-        <id>https://news.ycombinator.com/item?id=31120210</id>
-        <link href="https://news.ycombinator.com/item?id=31120210"/>
-        <updated>2022-04-22T11:07:10.000Z</updated>
-        <summary type="html"><![CDATA[watever: WebAssembly Text Bundler]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
