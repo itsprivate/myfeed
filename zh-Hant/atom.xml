@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T20:34:15.026Z</updated>
+    <updated>2022-04-23T20:44:07.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[發明Postscript--讓印刷業不再痛苦的技術]]></title>
+        <id>https://news.ycombinator.com/item?id=31138228</id>
+        <link href="https://news.ycombinator.com/item?id=31138228"/>
+        <updated>2022-04-23T20:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Inventing Postscript, the Tech That Took the Pain Out of Printing]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司的編譯器（TASC）。我們擁有源代碼，從某種意義上說]]></title>
+        <id>https://news.ycombinator.com/item?id=31138214</id>
+        <link href="https://news.ycombinator.com/item?id=31138214"/>
+        <updated>2022-04-23T20:31:55.000Z</updated>
+        <summary type="html"><![CDATA[The Applesoft Compiler (TASC): We have the source code, in a sense]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡里爾梨。一個 "比謀殺大黃蜂更可怕 "的入侵者]]></title>
+        <id>https://news.ycombinator.com/item?id=31138102</id>
+        <link href="https://news.ycombinator.com/item?id=31138102"/>
+        <updated>2022-04-23T20:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Callery pears: An invader ‘worse than murder hornets ’]]></summary>
+        <author>
+            <name>rawgabbit</name>
+            <uri>https://news.ycombinator.com/user?id=rawgabbit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們為什麼要決鬥]]></title>
         <id>https://news.ycombinator.com/item?id=31138089</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>donohoe</name>
             <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的說法：機器學習模型容易受到無法檢測的後門的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=31120083</id>
-        <link href="https://news.ycombinator.com/item?id=31120083"/>
-        <updated>2022-04-22T10:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Machine-learning models vulnerable to undetectable backdoors: new claim]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個程序員尋找禮物的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31120050</id>
-        <link href="https://news.ycombinator.com/item?id=31120050"/>
-        <updated>2022-04-22T10:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A programmer's approach to finding gifts]]></summary>
-        <author>
-            <name>cvanvlack</name>
-            <uri>https://news.ycombinator.com/user?id=cvanvlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人討厭的曲線]]></title>
-        <id>https://news.ycombinator.com/item?id=31120139</id>
-        <link href="https://news.ycombinator.com/item?id=31120139"/>
-        <updated>2022-04-22T10:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Repulsive Curves]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>
