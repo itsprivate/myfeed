@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T13:44:23.762Z</updated>
+    <updated>2022-04-23T13:51:41.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让开源硬件设计成为现实]]></title>
+        <id>https://news.ycombinator.com/item?id=31134201</id>
+        <link href="https://news.ycombinator.com/item?id=31134201"/>
+        <updated>2022-04-23T13:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Making open source hardware design a reality]]></summary>
+        <author>
+            <name>adapteva</name>
+            <uri>https://news.ycombinator.com/user?id=adapteva</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于代码不良，3400万美元被永久锁定在AkuDreams合同中]]></title>
+        <id>https://news.ycombinator.com/item?id=31134154</id>
+        <link href="https://news.ycombinator.com/item?id=31134154"/>
+        <updated>2022-04-23T13:37:38.000Z</updated>
+        <summary type="html"><![CDATA[$34M permanently locked into AkuDreams contract forever due to bad code]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我停止了关于黑洞信息丢失的工作。这就是原因]]></title>
         <id>https://news.ycombinator.com/item?id=31134074</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aaronbrethorst</name>
             <uri>https://news.ycombinator.com/user?id=aaronbrethorst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穿透血脑屏障的CRISPR纳米胶囊胶质母细胞瘤基因疗法]]></title>
-        <id>https://news.ycombinator.com/item?id=31116662</id>
-        <link href="https://news.ycombinator.com/item?id=31116662"/>
-        <updated>2022-04-21T23:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Blood-brain barrier–penetrating CRISPR nanocapsule glioblastoma gene therapy]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Omicron定制的助推器似乎没有提供什么优势]]></title>
-        <id>https://news.ycombinator.com/item?id=31116649</id>
-        <link href="https://news.ycombinator.com/item?id=31116649"/>
-        <updated>2022-04-21T23:57:38.000Z</updated>
-        <summary type="html"><![CDATA[Boosters customised for Omicron seem to offer little advantage]]></summary>
-        <author>
-            <name>marsknight</name>
-            <uri>https://news.ycombinator.com/user?id=marsknight</uri>
         </author>
     </entry>
 </feed>
