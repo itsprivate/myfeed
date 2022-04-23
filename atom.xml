@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T09:12:35.742Z</updated>
+    <updated>2022-04-23T09:32:26.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Raspberry Pi Zero显示乌克兰的活动防空警报器]]></title>
+        <id>https://news.ycombinator.com/item?id=31132596</id>
+        <link href="https://news.ycombinator.com/item?id=31132596"/>
+        <updated>2022-04-23T09:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Shows active air-raid sirens in Ukraine using a Raspberry Pi Zero]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真正的武器 [史密斯表更新] - Minecraft PE Mods and Addons]]></title>
+        <id>https://news.ycombinator.com/item?id=31132443</id>
+        <link href="https://news.ycombinator.com/item?id=31132443"/>
+        <updated>2022-04-23T08:28:55.000Z</updated>
+        <summary type="html"><![CDATA[True Weapons [Smithing Table Update ] – Minecraft PE Mods and Addons]]></summary>
+        <author>
+            <name>higu</name>
+            <uri>https://news.ycombinator.com/user?id=higu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaluma--适用于RP2040（Raspberry Pi Pico）的微小JavaScript运行时]]></title>
+        <id>https://news.ycombinator.com/item?id=31132373</id>
+        <link href="https://news.ycombinator.com/item?id=31132373"/>
+        <updated>2022-04-23T08:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Kaluma- a Tiny JavaScript Runtime for RP2040 (Raspberry Pi Pico)]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我也不喜欢电脑了]]></title>
         <id>https://news.ycombinator.com/item?id=31132489</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kipply</name>
             <uri>https://news.ycombinator.com/user?id=kipply</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04 LTS黑暗风格的变化]]></title>
-        <id>https://news.ycombinator.com/item?id=31114825</id>
-        <link href="https://news.ycombinator.com/item?id=31114825"/>
-        <updated>2022-04-21T20:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTS Dark Style Changes]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关键漏洞可能让黑客霸占了数百万台安卓设备]]></title>
-        <id>https://news.ycombinator.com/item?id=31114730</id>
-        <link href="https://news.ycombinator.com/item?id=31114730"/>
-        <updated>2022-04-21T20:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Critical bug could have let hackers commandeer millions of Android devices]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓝调起源于新奥尔良吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31114564</id>
-        <link href="https://news.ycombinator.com/item?id=31114564"/>
-        <updated>2022-04-21T20:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Did the Blues Originate in New Orleans?]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
         </author>
     </entry>
 </feed>
