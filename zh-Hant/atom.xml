@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T21:39:38.813Z</updated>
+    <updated>2022-04-23T21:51:50.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[摩根大通稱其正在招聘 "數千名有犯罪背景的人]]></title>
+        <id>https://news.ycombinator.com/item?id=31138832</id>
+        <link href="https://news.ycombinator.com/item?id=31138832"/>
+        <updated>2022-04-23T21:35:49.000Z</updated>
+        <summary type="html"><![CDATA[JPMorgan says it's hiring 'thousands of individuals with criminal backgrounds']]></summary>
+        <author>
+            <name>cityzen</name>
+            <uri>https://news.ycombinator.com/user?id=cityzen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維基百科刪除亨特-拜登投資公司Rosemont Seneca的條目]]></title>
+        <id>https://news.ycombinator.com/item?id=31138759</id>
+        <link href="https://news.ycombinator.com/item?id=31138759"/>
+        <updated>2022-04-23T21:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia deletes entry for Hunter Biden investment firm Rosemont Seneca]]></summary>
+        <author>
+            <name>theduder99</name>
+            <uri>https://news.ycombinator.com/user?id=theduder99</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[測量與阿波羅飛船的距離：模擬]]></title>
         <id>https://news.ycombinator.com/item?id=31138701</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可解釋的語義搜索，用txtai構建你自己的查詢語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31120118</id>
-        <link href="https://news.ycombinator.com/item?id=31120118"/>
-        <updated>2022-04-22T10:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Explainable semantic search, build your own query language with txtai]]></summary>
-        <author>
-            <name>txtai</name>
-            <uri>https://news.ycombinator.com/user?id=txtai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C語言中的二叉樹倒置]]></title>
-        <id>https://news.ycombinator.com/item?id=31119564</id>
-        <link href="https://news.ycombinator.com/item?id=31119564"/>
-        <updated>2022-04-22T09:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Inverting a Binary Tree in C]]></summary>
-        <author>
-            <name>kormosi</name>
-            <uri>https://news.ycombinator.com/user?id=kormosi</uri>
         </author>
     </entry>
 </feed>
