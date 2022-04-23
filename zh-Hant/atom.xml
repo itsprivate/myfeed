@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T23:44:21.434Z</updated>
+    <updated>2022-04-23T23:51:17.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣是網絡安全的警報]]></title>
+        <id>https://news.ycombinator.com/item?id=31139829</id>
+        <link href="https://news.ycombinator.com/item?id=31139829"/>
+        <updated>2022-04-23T23:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency as a Cybersecurity Alarm]]></summary>
+        <author>
+            <name>toricalea</name>
+            <uri>https://news.ycombinator.com/user?id=toricalea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastly Compute@Edge JavaScript Runtime]]></title>
+        <id>https://news.ycombinator.com/item?id=31139688</id>
+        <link href="https://news.ycombinator.com/item?id=31139688"/>
+        <updated>2022-04-23T23:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Fastly Compute@Edge JavaScript Runtime]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Lattner談垃圾收集與自動引用計數（2017）。]]></title>
         <id>https://news.ycombinator.com/item?id=31139610</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罕見的Commodore 65原型機在eBay上售價近3萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31121070</id>
-        <link href="https://news.ycombinator.com/item?id=31121070"/>
-        <updated>2022-04-22T12:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Rare Commodore 65 Prototype Is Selling for Nearly $30k on eBay]]></summary>
-        <author>
-            <name>ashitlerferad</name>
-            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laravel Nova的替代品，無代碼UI編輯器，搜索，BRAC，以及更多]]></title>
-        <id>https://news.ycombinator.com/item?id=31121061</id>
-        <link href="https://news.ycombinator.com/item?id=31121061"/>
-        <updated>2022-04-22T12:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Laravel Nova alternative with no code UI editor, search, BRAC, and more]]></summary>
-        <author>
-            <name>yen7</name>
-            <uri>https://news.ycombinator.com/user?id=yen7</uri>
         </author>
     </entry>
 </feed>
