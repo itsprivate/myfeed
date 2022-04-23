@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T05:30:18.001Z</updated>
+    <updated>2022-04-23T06:14:08.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冥想可以帮助你减少犯错]]></title>
+        <id>https://news.ycombinator.com/item?id=31131557</id>
+        <link href="https://news.ycombinator.com/item?id=31131557"/>
+        <updated>2022-04-23T05:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Meditation can help you make fewer mistakes]]></summary>
+        <author>
+            <name>rhollos</name>
+            <uri>https://news.ycombinator.com/user?id=rhollos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当无代码停止扩展时]]></title>
+        <id>https://news.ycombinator.com/item?id=31131533</id>
+        <link href="https://news.ycombinator.com/item?id=31131533"/>
+        <updated>2022-04-23T04:57:04.000Z</updated>
+        <summary type="html"><![CDATA[When No-Code Stops Scaling]]></summary>
+        <author>
+            <name>andrewedstrom</name>
+            <uri>https://news.ycombinator.com/user?id=andrewedstrom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HabituWall-手机壁纸，帮助你养成习惯]]></title>
+        <id>https://news.ycombinator.com/item?id=31130803</id>
+        <link href="https://news.ycombinator.com/item?id=31130803"/>
+        <updated>2022-04-23T02:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HabituWall–Phone wallpaper to help with your habits]]></summary>
+        <author>
+            <name>benfrancom</name>
+            <uri>https://news.ycombinator.com/user?id=benfrancom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万事通，无师自通]]></title>
         <id>https://news.ycombinator.com/item?id=31131504</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>suchow</name>
             <uri>https://news.ycombinator.com/user?id=suchow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅层脸部判断的深度模型]]></title>
-        <id>https://news.ycombinator.com/item?id=31113953</id>
-        <link href="https://news.ycombinator.com/item?id=31113953"/>
-        <updated>2022-04-21T19:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Deep models of superficial face judgments]]></summary>
-        <author>
-            <name>suchow</name>
-            <uri>https://news.ycombinator.com/user?id=suchow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤瓦尔-哈拉里警告说，如果非盟不进行全球监管，人类将被 "黑 "掉（2021）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31113801</id>
-        <link href="https://news.ycombinator.com/item?id=31113801"/>
-        <updated>2022-04-21T19:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Yuval Harari warns humans will be “hacked” if AU isn’t globally regulated (2021)]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重压程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31113701</id>
-        <link href="https://news.ycombinator.com/item?id=31113701"/>
-        <updated>2022-04-21T18:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Heavy Press Program]]></summary>
-        <author>
-            <name>sebmellen</name>
-            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
         </author>
     </entry>
 </feed>
