@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 23 Apr 2022 06:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 06:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[比特扭動的黑客]]></title>
+            <link>https://news.ycombinator.com/item?id=31131837</link>
+            <guid>https://news.ycombinator.com/item?id=31131837</guid>
+            <pubDate>Sat, 23 Apr 2022 06:05:37 GMT</pubDate>
+            <description><![CDATA[Bit Twiddling Hacks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[理查德-斯托爾曼的個人常見問題]]></title>
+            <link>https://news.ycombinator.com/item?id=31131591</link>
+            <guid>https://news.ycombinator.com/item?id=31131591</guid>
+            <pubDate>Sat, 23 Apr 2022 05:16:58 GMT</pubDate>
+            <description><![CDATA[Richard Stallman's Personal FAQ]]></description>
+        </item>
         <item>
             <title><![CDATA[冥想可以幫助你減少犯錯]]></title>
             <link>https://news.ycombinator.com/item?id=31131557</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31114166</guid>
             <pubDate>Thu, 21 Apr 2022 19:32:29 GMT</pubDate>
             <description><![CDATA[North American Birds Face Their Own Pandemic with Latest Bout of Avian Flu]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一句話，讓你的心靈得到滿足]]></title>
-            <link>https://news.ycombinator.com/item?id=31113975</link>
-            <guid>https://news.ycombinator.com/item?id=31113975</guid>
-            <pubDate>Thu, 21 Apr 2022 19:15:48 GMT</pubDate>
-            <description><![CDATA[One Line for Your Mind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一百萬印象數據集]]></title>
-            <link>https://news.ycombinator.com/item?id=31113958</link>
-            <guid>https://news.ycombinator.com/item?id=31113958</guid>
-            <pubDate>Thu, 21 Apr 2022 19:13:09 GMT</pubDate>
-            <description><![CDATA[The One Million Impressions Dataset]]></description>
         </item>
     </channel>
 </rss>
