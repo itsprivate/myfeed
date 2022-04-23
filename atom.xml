@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T13:22:32.406Z</updated>
+    <updated>2022-04-23T13:44:23.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我停止了关于黑洞信息丢失的工作。这就是原因]]></title>
+        <id>https://news.ycombinator.com/item?id=31134074</id>
+        <link href="https://news.ycombinator.com/item?id=31134074"/>
+        <updated>2022-04-23T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[I stopped working on black hole information loss. Here’s why]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排序的声音--排序算法的 "听觉化 "和视觉化]]></title>
+        <id>https://news.ycombinator.com/item?id=31133837</id>
+        <link href="https://news.ycombinator.com/item?id=31133837"/>
+        <updated>2022-04-23T12:55:37.000Z</updated>
+        <summary type="html"><![CDATA[The Sound of Sorting – “Audibilization” and Visualization of Sorting Algorithms]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一家博物馆取消了一场关于警察暴行的演出。这就是艺术]]></title>
+        <id>https://news.ycombinator.com/item?id=31133760</id>
+        <link href="https://news.ycombinator.com/item?id=31133760"/>
+        <updated>2022-04-23T12:39:08.000Z</updated>
+        <summary type="html"><![CDATA[A Museum Canceled a Show About Police Brutality. Here’s the Art]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥扎克技术社区学院被抢走近90万美元]]></title>
         <id>https://news.ycombinator.com/item?id=31133963</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>marsknight</name>
             <uri>https://news.ycombinator.com/user?id=marsknight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数十只天竺鼠被丢弃在成人新奇用品商店附近]]></title>
-        <id>https://news.ycombinator.com/item?id=31116615</id>
-        <link href="https://news.ycombinator.com/item?id=31116615"/>
-        <updated>2022-04-21T23:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Dozens of guinea pigs dumped near adult novelty store]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从电池化学中获取灵感来捕获碳]]></title>
-        <id>https://news.ycombinator.com/item?id=31116606</id>
-        <link href="https://news.ycombinator.com/item?id=31116606"/>
-        <updated>2022-04-21T23:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Capturing Carbon with Inspiration from Battery Chemistry]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11预览。任务和异常组]]></title>
-        <id>https://news.ycombinator.com/item?id=31116545</id>
-        <link href="https://news.ycombinator.com/item?id=31116545"/>
-        <updated>2022-04-21T23:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.11 Preview: Task and Exception Groups]]></summary>
-        <author>
-            <name>psalminen</name>
-            <uri>https://news.ycombinator.com/user?id=psalminen</uri>
         </author>
     </entry>
 </feed>
