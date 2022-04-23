@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T22:33:13.423Z</updated>
+    <updated>2022-04-23T22:43:06.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[茴香酒效应]]></title>
+        <id>https://news.ycombinator.com/item?id=31138998</id>
+        <link href="https://news.ycombinator.com/item?id=31138998"/>
+        <updated>2022-04-23T21:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Ouzo Effect]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国公司正在挖掘芬兰语中的独特品牌名称]]></title>
         <id>https://news.ycombinator.com/item?id=31139040</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重压程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31120450</id>
-        <link href="https://news.ycombinator.com/item?id=31120450"/>
-        <updated>2022-04-22T11:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Heavy Press Program]]></summary>
-        <author>
-            <name>occamschainsaw</name>
-            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
         </author>
     </entry>
 </feed>
