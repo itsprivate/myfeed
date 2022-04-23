@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T14:40:02.420Z</updated>
+    <updated>2022-04-23T14:51:44.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java中的重大密碼學失誤使 "通靈紙 "得以偽造]]></title>
+        <id>https://news.ycombinator.com/item?id=31134684</id>
+        <link href="https://news.ycombinator.com/item?id=31134684"/>
+        <updated>2022-04-23T14:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Major cryptography blunder in Java enables “psychic paper” forgeries]]></summary>
+        <author>
+            <name>readams</name>
+            <uri>https://news.ycombinator.com/user?id=readams</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創造力與學術能力沒有關係]]></title>
+        <id>https://news.ycombinator.com/item?id=31134677</id>
+        <link href="https://news.ycombinator.com/item?id=31134677"/>
+        <updated>2022-04-23T14:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Creativity Has Zero Correlation with Academic Ability]]></summary>
+        <author>
+            <name>jkuria</name>
+            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Internet Explorer 5錯誤表]]></title>
         <id>https://news.ycombinator.com/item?id=31134577</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讀代碼比寫代碼更難]]></title>
-        <id>https://news.ycombinator.com/item?id=31117277</id>
-        <link href="https://news.ycombinator.com/item?id=31117277"/>
-        <updated>2022-04-22T01:35:23.000Z</updated>
-        <summary type="html"><![CDATA[It’s harder to read code than to write it]]></summary>
-        <author>
-            <name>joenathanone</name>
-            <uri>https://news.ycombinator.com/user?id=joenathanone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向所有人的算法交易]]></title>
-        <id>https://news.ycombinator.com/item?id=31117255</id>
-        <link href="https://news.ycombinator.com/item?id=31117255"/>
-        <updated>2022-04-22T01:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Algorithmic trading for everyone]]></summary>
-        <author>
-            <name>Unknomad</name>
-            <uri>https://news.ycombinator.com/user?id=Unknomad</uri>
         </author>
     </entry>
 </feed>
