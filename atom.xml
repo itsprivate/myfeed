@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T08:14:17.353Z</updated>
+    <updated>2022-04-23T08:37:11.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客声称针对俄罗斯机构进行了一系列的网络攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=31132437</id>
+        <link href="https://news.ycombinator.com/item?id=31132437"/>
+        <updated>2022-04-23T08:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Hackers claim to target Russian institutions with a barrage of cyberattacks]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 18终于有了一个更好的JNI替代品了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31132401</id>
+        <link href="https://news.ycombinator.com/item?id=31132401"/>
+        <updated>2022-04-23T08:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Does Java 18 finally have a better alternative to JNI?]]></summary>
+        <author>
+            <name>effbiae</name>
+            <uri>https://news.ycombinator.com/user?id=effbiae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟为谷歌、Meta制定新的在线规则以遏制非法内容]]></title>
+        <id>https://news.ycombinator.com/item?id=31132341</id>
+        <link href="https://news.ycombinator.com/item?id=31132341"/>
+        <updated>2022-04-23T08:00:09.000Z</updated>
+        <summary type="html"><![CDATA[EU sets new online rules for Google, Meta to curb illegal content]]></summary>
+        <author>
+            <name>serial_dev</name>
+            <uri>https://news.ycombinator.com/user?id=serial_dev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告揭示了大科技公司在最后一刻为削弱欧盟规则而进行的游说活动]]></title>
+        <id>https://news.ycombinator.com/item?id=31132283</id>
+        <link href="https://news.ycombinator.com/item?id=31132283"/>
+        <updated>2022-04-23T07:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Report reveals Big Tech’s last minute lobbying to weaken EU rules]]></summary>
+        <author>
+            <name>tcfhgj</name>
+            <uri>https://news.ycombinator.com/user?id=tcfhgj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉被传唤，但一架小飞机挡住了去路]]></title>
         <id>https://news.ycombinator.com/item?id=31132326</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>kyleShropshire</name>
             <uri>https://news.ycombinator.com/user?id=kyleShropshire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python的 "类型提示 "让我感到有点失望]]></title>
-        <id>https://news.ycombinator.com/item?id=31114554</id>
-        <link href="https://news.ycombinator.com/item?id=31114554"/>
-        <updated>2022-04-21T20:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Python’s “Type Hints” are a bit of a disappointment to me]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零开始的神经网络]]></title>
-        <id>https://news.ycombinator.com/item?id=31114536</id>
-        <link href="https://news.ycombinator.com/item?id=31114536"/>
-        <updated>2022-04-21T20:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Neural Networks from Scratch]]></summary>
-        <author>
-            <name>sturza</name>
-            <uri>https://news.ycombinator.com/user?id=sturza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛罗里达州结束迪斯尼特别税区的法案将提交给德桑蒂斯州长进行审核]]></title>
-        <id>https://news.ycombinator.com/item?id=31114486</id>
-        <link href="https://news.ycombinator.com/item?id=31114486"/>
-        <updated>2022-04-21T19:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Florida Bill to End Disneys Special Tax District Heads to Gov DeSantis for Sig]]></summary>
-        <author>
-            <name>frumper</name>
-            <uri>https://news.ycombinator.com/user?id=frumper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面对现实的检查，Netflix发誓要遏制其挥霍的方式]]></title>
-        <id>https://news.ycombinator.com/item?id=31114427</id>
-        <link href="https://news.ycombinator.com/item?id=31114427"/>
-        <updated>2022-04-21T19:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Netflix, Facing Reality Check, Vows to Curb Its Profligate Ways]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
