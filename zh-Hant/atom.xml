@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-23T21:31:37.414Z</updated>
+    <updated>2022-04-23T21:39:38.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測量與阿波羅飛船的距離：模擬]]></title>
+        <id>https://news.ycombinator.com/item?id=31138701</id>
+        <link href="https://news.ycombinator.com/item?id=31138701"/>
+        <updated>2022-04-23T21:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Measuring the distance to the Apollo spacecraft: a simulation]]></summary>
+        <author>
+            <name>aberoham</name>
+            <uri>https://news.ycombinator.com/user?id=aberoham</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個被狼佔領的島嶼讓人們對捕食者和獵物的關係有了新的認識]]></title>
+        <id>https://news.ycombinator.com/item?id=31138392</id>
+        <link href="https://news.ycombinator.com/item?id=31138392"/>
+        <updated>2022-04-23T20:49:48.000Z</updated>
+        <summary type="html"><![CDATA[A wolf-colonized island gives new insights into predator and prey relationships]]></summary>
+        <author>
+            <name>gscott</name>
+            <uri>https://news.ycombinator.com/user?id=gscott</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果M2]]></title>
+        <id>https://news.ycombinator.com/item?id=31137787</id>
+        <link href="https://news.ycombinator.com/item?id=31137787"/>
+        <updated>2022-04-23T19:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple M2]]></summary>
+        <author>
+            <name>wslh</name>
+            <uri>https://news.ycombinator.com/user?id=wslh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果開發者受夠了蘋果的霸王條款]]></title>
         <id>https://news.ycombinator.com/item?id=31138577</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kormosi</name>
             <uri>https://news.ycombinator.com/user?id=kormosi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷動物園。CPU芯片上的微小藝術品]]></title>
-        <id>https://news.ycombinator.com/item?id=31120439</id>
-        <link href="https://news.ycombinator.com/item?id=31120439"/>
-        <updated>2022-04-22T11:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Silicon Zoo: Tiny artwork on CPU dies]]></summary>
-        <author>
-            <name>michaelt</name>
-            <uri>https://news.ycombinator.com/user?id=michaelt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通Lisp資源]]></title>
-        <id>https://news.ycombinator.com/item?id=31120359</id>
-        <link href="https://news.ycombinator.com/item?id=31120359"/>
-        <updated>2022-04-22T11:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Common Lisp Resources]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲批准新科技法，美國進一步落後]]></title>
-        <id>https://news.ycombinator.com/item?id=31120345</id>
-        <link href="https://news.ycombinator.com/item?id=31120345"/>
-        <updated>2022-04-22T11:29:32.000Z</updated>
-        <summary type="html"><![CDATA[As Europe Approves New Tech Laws, the U.S. Falls Further Behind]]></summary>
-        <author>
-            <name>pg_1234</name>
-            <uri>https://news.ycombinator.com/user?id=pg_1234</uri>
         </author>
     </entry>
 </feed>
