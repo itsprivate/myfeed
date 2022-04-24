@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T09:13:03.066Z</updated>
+    <updated>2022-04-24T09:33:00.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[壳牌脚本的颂歌]]></title>
+        <id>https://news.ycombinator.com/item?id=31142409</id>
+        <link href="https://news.ycombinator.com/item?id=31142409"/>
+        <updated>2022-04-24T09:14:51.000Z</updated>
+        <summary type="html"><![CDATA[An Ode to Shell Scripts]]></summary>
+        <author>
+            <name>mg</name>
+            <uri>https://news.ycombinator.com/user?id=mg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc Rtld中的Pi_static_and_hidden]]></title>
+        <id>https://news.ycombinator.com/item?id=31142355</id>
+        <link href="https://news.ycombinator.com/item?id=31142355"/>
+        <updated>2022-04-24T09:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Pi_static_and_hidden in Glibc Rtld]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保罗的极端声音伸展]]></title>
+        <id>https://news.ycombinator.com/item?id=31142351</id>
+        <link href="https://news.ycombinator.com/item?id=31142351"/>
+        <updated>2022-04-24T09:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Paul's Extreme Sound Stretch]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来事物的形态：GraphQL和API的网络]]></title>
+        <id>https://news.ycombinator.com/item?id=31142336</id>
+        <link href="https://news.ycombinator.com/item?id=31142336"/>
+        <updated>2022-04-24T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The Shape of Things to Come: GraphQL and the Web of APIs]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克成立 "X控股公司"，暗示将为特斯拉和SpaceX设立母公司]]></title>
+        <id>https://news.ycombinator.com/item?id=31142308</id>
+        <link href="https://news.ycombinator.com/item?id=31142308"/>
+        <updated>2022-04-24T08:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Musk Forms ‘X Holdings’ After Hints at a Parent Company for Tesla, SpaceX]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neovim 0.7。什么是新的？[视频]]]></title>
         <id>https://news.ycombinator.com/item?id=31142296</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软进入禁用Windows 11中SMB1文件共享的 "最后阶段"]]></title>
-        <id>https://news.ycombinator.com/item?id=31124020</id>
-        <link href="https://news.ycombinator.com/item?id=31124020"/>
-        <updated>2022-04-22T16:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft enters “final phase” of disabling SMB1 file-sharing in Windows 11]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在100秒内为仇恨者做出反应]]></title>
-        <id>https://news.ycombinator.com/item?id=31123993</id>
-        <link href="https://news.ycombinator.com/item?id=31123993"/>
-        <updated>2022-04-22T16:37:49.000Z</updated>
-        <summary type="html"><![CDATA[React for the Haters in 100 Seconds]]></summary>
-        <author>
-            <name>ea550ff70a</name>
-            <uri>https://news.ycombinator.com/user?id=ea550ff70a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯洛伐克的飞行汽车正式获准起飞]]></title>
-        <id>https://news.ycombinator.com/item?id=31123812</id>
-        <link href="https://news.ycombinator.com/item?id=31123812"/>
-        <updated>2022-04-22T16:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Slovakian flying car officially cleared for takeoff]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[. . .]]></title>
-        <id>https://news.ycombinator.com/item?id=31122878</id>
-        <link href="https://news.ycombinator.com/item?id=31122878"/>
-        <updated>2022-04-22T15:33:14.000Z</updated>
-        <summary type="html"><![CDATA[. . .]]></summary>
-        <author>
-            <name>kiddz</name>
-            <uri>https://news.ycombinator.com/user?id=kiddz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克成立 "X控股公司"，暗示将为特斯拉和SpaceX设立母公司]]></title>
-        <id>https://news.ycombinator.com/item?id=31124076</id>
-        <link href="https://news.ycombinator.com/item?id=31124076"/>
-        <updated>2022-04-22T16:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Musk Forms ‘X Holdings’ After Hints at a Parent Company for Tesla, SpaceX]]></summary>
-        <author>
-            <name>hsnewman</name>
-            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
         </author>
     </entry>
 </feed>
