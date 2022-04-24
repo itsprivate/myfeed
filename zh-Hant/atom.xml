@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T20:34:34.951Z</updated>
+    <updated>2022-04-24T20:45:01.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[傳統重金屬的新浪潮]]></title>
+        <id>https://news.ycombinator.com/item?id=31148006</id>
+        <link href="https://news.ycombinator.com/item?id=31148006"/>
+        <updated>2022-04-24T20:29:33.000Z</updated>
+        <summary type="html"><![CDATA[New wave of traditional heavy metal]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+            <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自法國的第一個預測。馬克龍以較大的優勢拉開帷幕]]></title>
         <id>https://news.ycombinator.com/item?id=31146909</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sudheendrach</name>
             <uri>https://news.ycombinator.com/user?id=sudheendrach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何保護你的時間？]]></title>
-        <id>https://news.ycombinator.com/item?id=31130212</id>
-        <link href="https://news.ycombinator.com/item?id=31130212"/>
-        <updated>2022-04-23T00:53:51.000Z</updated>
-        <summary type="html"><![CDATA[How do you protect your time?]]></summary>
-        <author>
-            <name>cougarpoop</name>
-            <uri>https://news.ycombinator.com/user?id=cougarpoop</uri>
         </author>
     </entry>
 </feed>
