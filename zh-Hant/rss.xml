@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 14:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼給東西命名是困難的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31144191</link>
+            <guid>https://news.ycombinator.com/item?id=31144191</guid>
+            <pubDate>Sun, 24 Apr 2022 14:15:17 GMT</pubDate>
+            <description><![CDATA[Why naming stuff is hard?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你需要閱讀的書]]></title>
+            <link>https://news.ycombinator.com/item?id=31144043</link>
+            <guid>https://news.ycombinator.com/item?id=31144043</guid>
+            <pubDate>Sun, 24 Apr 2022 13:58:28 GMT</pubDate>
+            <description><![CDATA[The Book You Need to Read]]></description>
+        </item>
+        <item>
+            <title><![CDATA[米加杜? 郵政？MXroute？或任何其他使用這種模式的郵件服務？]]></title>
+            <link>https://news.ycombinator.com/item?id=31143847</link>
+            <guid>https://news.ycombinator.com/item?id=31143847</guid>
+            <pubDate>Sun, 24 Apr 2022 13:36:29 GMT</pubDate>
+            <description><![CDATA[Migadu? Postale? MXroute? Or Any Other Mail Services Using This Model?]]></description>
+        </item>
         <item>
             <title><![CDATA[用Ghidra對1996年的嵌入式合成器操作系統進行修補]]></title>
             <link>https://news.ycombinator.com/item?id=31144106</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31126732</guid>
             <pubDate>Fri, 22 Apr 2022 19:17:58 GMT</pubDate>
             <description><![CDATA[Coinbase CEO says Apple’s crypto rules highlight ‘potential antitrust issues’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CI/CD的回報大於商業成果]]></title>
-            <link>https://news.ycombinator.com/item?id=31126268</link>
-            <guid>https://news.ycombinator.com/item?id=31126268</guid>
-            <pubDate>Fri, 22 Apr 2022 18:46:43 GMT</pubDate>
-            <description><![CDATA[Return on CI/CD Is Larger Than the Business Outcome]]></description>
-        </item>
-        <item>
-            <title><![CDATA[腫瘤基因組的寶庫提供了癌症起源的線索]]></title>
-            <link>https://news.ycombinator.com/item?id=31126532</link>
-            <guid>https://news.ycombinator.com/item?id=31126532</guid>
-            <pubDate>Fri, 22 Apr 2022 19:04:06 GMT</pubDate>
-            <description><![CDATA[Trove of tumour genomes offers clues to cancer origins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用PostgreSQL的確定性查詢計劃器進行優化]]></title>
-            <link>https://news.ycombinator.com/item?id=31126528</link>
-            <guid>https://news.ycombinator.com/item?id=31126528</guid>
-            <pubDate>Fri, 22 Apr 2022 19:03:54 GMT</pubDate>
-            <description><![CDATA[Optimizing with the PostgreSQL deterministic query planner]]></description>
         </item>
     </channel>
 </rss>

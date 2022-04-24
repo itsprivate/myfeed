@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T14:12:05.830Z</updated>
+    <updated>2022-04-24T14:31:13.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼給東西命名是困難的？]]></title>
+        <id>https://news.ycombinator.com/item?id=31144191</id>
+        <link href="https://news.ycombinator.com/item?id=31144191"/>
+        <updated>2022-04-24T14:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Why naming stuff is hard?]]></summary>
+        <author>
+            <name>shekhargulati</name>
+            <uri>https://news.ycombinator.com/user?id=shekhargulati</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你需要閱讀的書]]></title>
+        <id>https://news.ycombinator.com/item?id=31144043</id>
+        <link href="https://news.ycombinator.com/item?id=31144043"/>
+        <updated>2022-04-24T13:58:28.000Z</updated>
+        <summary type="html"><![CDATA[The Book You Need to Read]]></summary>
+        <author>
+            <name>omarfarooq</name>
+            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米加杜? 郵政？MXroute？或任何其他使用這種模式的郵件服務？]]></title>
+        <id>https://news.ycombinator.com/item?id=31143847</id>
+        <link href="https://news.ycombinator.com/item?id=31143847"/>
+        <updated>2022-04-24T13:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Migadu? Postale? MXroute? Or Any Other Mail Services Using This Model?]]></summary>
+        <author>
+            <name>Normille</name>
+            <uri>https://news.ycombinator.com/user?id=Normille</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Ghidra對1996年的嵌入式合成器操作系統進行修補]]></title>
         <id>https://news.ycombinator.com/item?id=31144106</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jmsflknr</name>
             <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CI/CD的回報大於商業成果]]></title>
-        <id>https://news.ycombinator.com/item?id=31126268</id>
-        <link href="https://news.ycombinator.com/item?id=31126268"/>
-        <updated>2022-04-22T18:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Return on CI/CD Is Larger Than the Business Outcome]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腫瘤基因組的寶庫提供了癌症起源的線索]]></title>
-        <id>https://news.ycombinator.com/item?id=31126532</id>
-        <link href="https://news.ycombinator.com/item?id=31126532"/>
-        <updated>2022-04-22T19:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Trove of tumour genomes offers clues to cancer origins]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用PostgreSQL的確定性查詢計劃器進行優化]]></title>
-        <id>https://news.ycombinator.com/item?id=31126528</id>
-        <link href="https://news.ycombinator.com/item?id=31126528"/>
-        <updated>2022-04-22T19:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing with the PostgreSQL deterministic query planner]]></summary>
-        <author>
-            <name>justinpaulson</name>
-            <uri>https://news.ycombinator.com/user?id=justinpaulson</uri>
         </author>
     </entry>
 </feed>
