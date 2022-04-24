@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 07:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[軟件到位]]></title>
+            <link>https://news.ycombinator.com/item?id=31142025</link>
+            <guid>https://news.ycombinator.com/item?id=31142025</guid>
+            <pubDate>Sun, 24 Apr 2022 07:41:19 GMT</pubDate>
+            <description><![CDATA[Software Mise En Place]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個病毒式的推特話題重新喚起了人類學的黑暗歷史]]></title>
+            <link>https://news.ycombinator.com/item?id=31141931</link>
+            <guid>https://news.ycombinator.com/item?id=31141931</guid>
+            <pubDate>Sun, 24 Apr 2022 07:17:13 GMT</pubDate>
+            <description><![CDATA[A Viral Twitter Thread Reawakens the Dark History of Anthropology]]></description>
+        </item>
         <item>
             <title><![CDATA[歐盟同意制定規則，迫使大型科技公司控制非法內容，否則將面臨罰款]]></title>
             <link>https://news.ycombinator.com/item?id=31141955</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31123470</guid>
             <pubDate>Fri, 22 Apr 2022 16:09:42 GMT</pubDate>
             <description><![CDATA[What's New in PHP 8.2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌的人工智能驅動的 "包容性警告 "功能非常糟糕]]></title>
-            <link>https://news.ycombinator.com/item?id=31123323</link>
-            <guid>https://news.ycombinator.com/item?id=31123323</guid>
-            <pubDate>Fri, 22 Apr 2022 15:59:53 GMT</pubDate>
-            <description><![CDATA[Google’s AI-powered ‘inclusive warnings’ feature is very broken]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SemVer for TS in Practice - 避免破壞性修改的真實案例]]></title>
-            <link>https://news.ycombinator.com/item?id=31123315</link>
-            <guid>https://news.ycombinator.com/item?id=31123315</guid>
-            <pubDate>Fri, 22 Apr 2022 15:59:31 GMT</pubDate>
-            <description><![CDATA[SemVer for TS in Practice – real world example of avoiding breaking changes]]></description>
         </item>
     </channel>
 </rss>

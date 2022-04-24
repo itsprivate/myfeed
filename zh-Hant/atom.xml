@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T07:31:39.314Z</updated>
+    <updated>2022-04-24T07:51:27.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件到位]]></title>
+        <id>https://news.ycombinator.com/item?id=31142025</id>
+        <link href="https://news.ycombinator.com/item?id=31142025"/>
+        <updated>2022-04-24T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Software Mise En Place]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個病毒式的推特話題重新喚起了人類學的黑暗歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=31141931</id>
+        <link href="https://news.ycombinator.com/item?id=31141931"/>
+        <updated>2022-04-24T07:17:13.000Z</updated>
+        <summary type="html"><![CDATA[A Viral Twitter Thread Reawakens the Dark History of Anthropology]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟同意制定規則，迫使大型科技公司控制非法內容，否則將面臨罰款]]></title>
         <id>https://news.ycombinator.com/item?id=31141955</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的人工智能驅動的 "包容性警告 "功能非常糟糕]]></title>
-        <id>https://news.ycombinator.com/item?id=31123323</id>
-        <link href="https://news.ycombinator.com/item?id=31123323"/>
-        <updated>2022-04-22T15:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Google’s AI-powered ‘inclusive warnings’ feature is very broken]]></summary>
-        <author>
-            <name>signor_bosco</name>
-            <uri>https://news.ycombinator.com/user?id=signor_bosco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SemVer for TS in Practice - 避免破壞性修改的真實案例]]></title>
-        <id>https://news.ycombinator.com/item?id=31123315</id>
-        <link href="https://news.ycombinator.com/item?id=31123315"/>
-        <updated>2022-04-22T15:59:31.000Z</updated>
-        <summary type="html"><![CDATA[SemVer for TS in Practice – real world example of avoiding breaking changes]]></summary>
-        <author>
-            <name>chriskrycho</name>
-            <uri>https://news.ycombinator.com/user?id=chriskrycho</uri>
         </author>
     </entry>
 </feed>
