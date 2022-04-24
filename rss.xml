@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 22:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[企业销售手册]]></title>
+            <link>https://news.ycombinator.com/item?id=31148989</link>
+            <guid>https://news.ycombinator.com/item?id=31148989</guid>
+            <pubDate>Sun, 24 Apr 2022 22:46:43 GMT</pubDate>
+            <description><![CDATA[The Enterprise Sales Playbook]]></description>
+        </item>
+        <item>
+            <title><![CDATA[超快速和准确的字符串距离算法。Sift4]]></title>
+            <link>https://news.ycombinator.com/item?id=31148948</link>
+            <guid>https://news.ycombinator.com/item?id=31148948</guid>
+            <pubDate>Sun, 24 Apr 2022 22:39:23 GMT</pubDate>
+            <description><![CDATA[Super Fast and Accurate string distance algorithm: Sift4]]></description>
+        </item>
+        <item>
+            <title><![CDATA[多目标进化算法对JWST的调度 (2008) [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=31148944</link>
+            <guid>https://news.ycombinator.com/item?id=31148944</guid>
+            <pubDate>Sun, 24 Apr 2022 22:38:33 GMT</pubDate>
+            <description><![CDATA[Multi-Objective Evolutionary Algorithms for Scheduling the JWST (2008) [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[莫里斯-张说，美国的芯片竞标是 "徒劳的"。]]></title>
+            <link>https://news.ycombinator.com/item?id=31148929</link>
+            <guid>https://news.ycombinator.com/item?id=31148929</guid>
+            <pubDate>Sun, 24 Apr 2022 22:34:46 GMT</pubDate>
+            <description><![CDATA[US’ chip bid ‘futile,’ Morris Chang says]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于PID控制器的深层神经网络的随机优化加速 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=31148654</link>
+            <guid>https://news.ycombinator.com/item?id=31148654</guid>
+            <pubDate>Sun, 24 Apr 2022 21:48:37 GMT</pubDate>
+            <description><![CDATA[PID Controller-Based Stochastic Optimization Acceleration for Deep Neural Nets [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用RasPi Pico和RAM扩展实现一个透明人系统]]></title>
+            <link>https://news.ycombinator.com/item?id=31148607</link>
+            <guid>https://news.ycombinator.com/item?id=31148607</guid>
+            <pubDate>Sun, 24 Apr 2022 21:42:09 GMT</pubDate>
+            <description><![CDATA[Implementing a Transputer system using RasPi Pico and RAM expansion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[劈开巨石]]></title>
+            <link>https://news.ycombinator.com/item?id=31147974</link>
+            <guid>https://news.ycombinator.com/item?id=31147974</guid>
+            <pubDate>Sun, 24 Apr 2022 20:26:22 GMT</pubDate>
+            <description><![CDATA[Chopping the Monolith]]></description>
+        </item>
         <item>
             <title><![CDATA[谁能推荐一个能与Mac电脑很好配合的显示器品牌？]]></title>
             <link>https://news.ycombinator.com/item?id=31148924</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31132507</guid>
             <pubDate>Sat, 23 Apr 2022 08:46:24 GMT</pubDate>
             <description><![CDATA[Tell HN: Peter Cooper's genius mobile-phone background image hack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用React 18掌握CSS过渡技术]]></title>
-            <link>https://news.ycombinator.com/item?id=31132493</link>
-            <guid>https://news.ycombinator.com/item?id=31132493</guid>
-            <pubDate>Sat, 23 Apr 2022 08:42:06 GMT</pubDate>
-            <description><![CDATA[Mastering CSS Transitions with React 18]]></description>
-        </item>
-        <item>
-            <title><![CDATA[他们已经泄露了数兆字节的俄罗斯电子邮件，但谁在阅读？]]></title>
-            <link>https://news.ycombinator.com/item?id=31132471</link>
-            <guid>https://news.ycombinator.com/item?id=31132471</guid>
-            <pubDate>Sat, 23 Apr 2022 08:35:39 GMT</pubDate>
-            <description><![CDATA[They’ve leaked terabytes of Russian emails, but who’s reading?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧盟DSA：行业和政府利益高于公民的数字权利]]></title>
-            <link>https://news.ycombinator.com/item?id=31132417</link>
-            <guid>https://news.ycombinator.com/item?id=31132417</guid>
-            <pubDate>Sat, 23 Apr 2022 08:22:02 GMT</pubDate>
-            <description><![CDATA[EU DSA: Industry and government interests prevail over citizens’ digital rights]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客声称针对俄罗斯机构进行了一系列的网络攻击]]></title>
-            <link>https://news.ycombinator.com/item?id=31132437</link>
-            <guid>https://news.ycombinator.com/item?id=31132437</guid>
-            <pubDate>Sat, 23 Apr 2022 08:27:39 GMT</pubDate>
-            <description><![CDATA[Hackers claim to target Russian institutions with a barrage of cyberattacks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Java 18终于有了一个更好的JNI替代品了吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=31132401</link>
-            <guid>https://news.ycombinator.com/item?id=31132401</guid>
-            <pubDate>Sat, 23 Apr 2022 08:16:27 GMT</pubDate>
-            <description><![CDATA[Does Java 18 finally have a better alternative to JNI?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧盟为谷歌、Meta制定新的在线规则以遏制非法内容]]></title>
-            <link>https://news.ycombinator.com/item?id=31132341</link>
-            <guid>https://news.ycombinator.com/item?id=31132341</guid>
-            <pubDate>Sat, 23 Apr 2022 08:00:09 GMT</pubDate>
-            <description><![CDATA[EU sets new online rules for Google, Meta to curb illegal content]]></description>
-        </item>
-        <item>
-            <title><![CDATA[报告揭示了大科技公司在最后一刻为削弱欧盟规则而进行的游说活动]]></title>
-            <link>https://news.ycombinator.com/item?id=31132283</link>
-            <guid>https://news.ycombinator.com/item?id=31132283</guid>
-            <pubDate>Sat, 23 Apr 2022 07:48:07 GMT</pubDate>
-            <description><![CDATA[Report reveals Big Tech’s last minute lobbying to weaken EU rules]]></description>
         </item>
     </channel>
 </rss>
