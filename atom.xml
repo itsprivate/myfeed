@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T11:37:11.842Z</updated>
+    <updated>2022-04-24T11:52:06.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随着世界海平面的上升，冰岛的水域正在下降]]></title>
+        <id>https://news.ycombinator.com/item?id=31143022</id>
+        <link href="https://news.ycombinator.com/item?id=31143022"/>
+        <updated>2022-04-24T11:23:30.000Z</updated>
+        <summary type="html"><![CDATA[As the world experiences sea level rise, Iceland’s waters are falling]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲批准新科技法，美国进一步落后]]></title>
+        <id>https://news.ycombinator.com/item?id=31143001</id>
+        <link href="https://news.ycombinator.com/item?id=31143001"/>
+        <updated>2022-04-24T11:20:25.000Z</updated>
+        <summary type="html"><![CDATA[As Europe Approves New Tech Laws, the U.S. Falls Further Behind]]></summary>
+        <author>
+            <name>zbhoy</name>
+            <uri>https://news.ycombinator.com/user?id=zbhoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MnemOS：用于受限环境的小型通用操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31142998</id>
+        <link href="https://news.ycombinator.com/item?id=31142998"/>
+        <updated>2022-04-24T11:19:32.000Z</updated>
+        <summary type="html"><![CDATA[MnemOS: Small, general purpose operating system for constrained environments]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS的未来。CSS切换器]]></title>
+        <id>https://news.ycombinator.com/item?id=31142987</id>
+        <link href="https://news.ycombinator.com/item?id=31142987"/>
+        <updated>2022-04-24T11:17:19.000Z</updated>
+        <summary type="html"><![CDATA[The Future of CSS: CSS Toggles]]></summary>
+        <author>
+            <name>malobre</name>
+            <uri>https://news.ycombinator.com/user?id=malobre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux加固：5条基本规则（不仅适用于你的Raspberry Pi）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31142983</id>
+        <link href="https://news.ycombinator.com/item?id=31142983"/>
+        <updated>2022-04-24T11:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Linux Hardening: 5 Basic Rules (not only for your Raspberry Pi)]]></summary>
+        <author>
+            <name>dck-one</name>
+            <uri>https://news.ycombinator.com/user?id=dck-one</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个云存储的恐怖故事]]></title>
+        <id>https://news.ycombinator.com/item?id=31142845</id>
+        <link href="https://news.ycombinator.com/item?id=31142845"/>
+        <updated>2022-04-24T10:50:06.000Z</updated>
+        <summary type="html"><![CDATA[A Cloud Storage Horror Story]]></summary>
+        <author>
+            <name>rockarage</name>
+            <uri>https://news.ycombinator.com/user?id=rockarage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理解场景的AI图像垫层]]></title>
         <id>https://news.ycombinator.com/item?id=31142070</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LHC运行3有什么新内容？]]></title>
-        <id>https://news.ycombinator.com/item?id=31124913</id>
-        <link href="https://news.ycombinator.com/item?id=31124913"/>
-        <updated>2022-04-22T17:26:58.000Z</updated>
-        <summary type="html"><![CDATA[What’s new for LHC Run 3?]]></summary>
-        <author>
-            <name>ourmandave</name>
-            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用iOS LiDAR设备在增强现实中实现MIDI音符的可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=31124885</id>
-        <link href="https://news.ycombinator.com/item?id=31124885"/>
-        <updated>2022-04-22T17:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualize MIDI notes in augmented reality using iOS LiDAR devices]]></summary>
-        <author>
-            <name>robomex</name>
-            <uri>https://news.ycombinator.com/user?id=robomex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客们的职业病]]></title>
-        <id>https://news.ycombinator.com/item?id=31125395</id>
-        <link href="https://news.ycombinator.com/item?id=31125395"/>
-        <updated>2022-04-22T17:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Hackers Occupational Ailments]]></summary>
-        <author>
-            <name>ircard</name>
-            <uri>https://news.ycombinator.com/user?id=ircard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在面试过程中包括调试]]></title>
-        <id>https://news.ycombinator.com/item?id=31125269</id>
-        <link href="https://news.ycombinator.com/item?id=31125269"/>
-        <updated>2022-04-22T17:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Include Debugging in the Interview Process]]></summary>
-        <author>
-            <name>gururu</name>
-            <uri>https://news.ycombinator.com/user?id=gururu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现场视频流制作API]]></title>
-        <id>https://news.ycombinator.com/item?id=31125120</id>
-        <link href="https://news.ycombinator.com/item?id=31125120"/>
-        <updated>2022-04-22T17:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Live video streaming production API]]></summary>
-        <author>
-            <name>omarfarooq</name>
-            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[等等，环保主义者是反技术的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31124875</id>
-        <link href="https://news.ycombinator.com/item?id=31124875"/>
-        <updated>2022-04-22T17:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Wait, Environmentalists Are Anti-Technology?]]></summary>
-        <author>
-            <name>abetusk</name>
-            <uri>https://news.ycombinator.com/user?id=abetusk</uri>
         </author>
     </entry>
 </feed>
