@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T05:51:26.413Z</updated>
+    <updated>2022-04-24T06:15:05.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從iOS版的Signal導出信息。一段旅程]]></title>
+        <id>https://news.ycombinator.com/item?id=31141645</id>
+        <link href="https://news.ycombinator.com/item?id=31141645"/>
+        <updated>2022-04-24T06:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Exporting Messages from Signal for iOS: A Journey]]></summary>
+        <author>
+            <name>meribold</name>
+            <uri>https://news.ycombinator.com/user?id=meribold</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為Manjaro放棄了Ubuntu：一週後我的想法是這樣的]]></title>
+        <id>https://news.ycombinator.com/item?id=31141608</id>
+        <link href="https://news.ycombinator.com/item?id=31141608"/>
+        <updated>2022-04-24T05:51:50.000Z</updated>
+        <summary type="html"><![CDATA[I Ditched Ubuntu for Manjaro: Here’s What I Think After a Week]]></summary>
+        <author>
+            <name>JeremyMorgan</name>
+            <uri>https://news.ycombinator.com/user?id=JeremyMorgan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nix和NixOS如何獲得如此接近完美的效果]]></title>
+        <id>https://news.ycombinator.com/item?id=31141377</id>
+        <link href="https://news.ycombinator.com/item?id=31141377"/>
+        <updated>2022-04-24T04:49:11.000Z</updated>
+        <summary type="html"><![CDATA[How Nix and NixOS Get So Close to Perfect]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國（國防部）為愛達荷州的移動式核微型反應堆試點項目開綠燈]]></title>
+        <id>https://news.ycombinator.com/item?id=31141187</id>
+        <link href="https://news.ycombinator.com/item?id=31141187"/>
+        <updated>2022-04-24T04:01:14.000Z</updated>
+        <summary type="html"><![CDATA[US (DoD) Greenlights Mobile Nuclear Micro-Reactor Pilot in Idaho]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流媒體正在像網絡電視一樣行事，因為他們撤回了前衛的內容]]></title>
         <id>https://news.ycombinator.com/item?id=31141528</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[召喚出的特斯拉與噴氣機相撞]]></title>
-        <id>https://news.ycombinator.com/item?id=31123074</id>
-        <link href="https://news.ycombinator.com/item?id=31123074"/>
-        <updated>2022-04-22T15:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Summoned Tesla Collides with Jet]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅爾文資本管理公司因虧損加劇而進行重組]]></title>
-        <id>https://news.ycombinator.com/item?id=31122995</id>
-        <link href="https://news.ycombinator.com/item?id=31122995"/>
-        <updated>2022-04-22T15:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Melvin Capital Management to Restructure as Losses Mount]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevLog[0]: 在4周內為Rust構建一個無服務器平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=31122981</id>
-        <link href="https://news.ycombinator.com/item?id=31122981"/>
-        <updated>2022-04-22T15:39:55.000Z</updated>
-        <summary type="html"><![CDATA[DevLog[0]: Building a serverless platform for Rust in 4 weeks]]></summary>
-        <author>
-            <name>openquery</name>
-            <uri>https://news.ycombinator.com/user?id=openquery</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你永遠不應該做的事情，第一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=31122975</id>
-        <link href="https://news.ycombinator.com/item?id=31122975"/>
-        <updated>2022-04-22T15:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Things You Should Never Do, Part I]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
