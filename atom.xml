@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T08:54:24.729Z</updated>
+    <updated>2022-04-24T09:13:03.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.7。什么是新的？[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=31142296</id>
+        <link href="https://news.ycombinator.com/item?id=31142296"/>
+        <updated>2022-04-24T08:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Neovim 0.7: What's new? [video]]]></summary>
+        <author>
+            <name>davidkunz</name>
+            <uri>https://news.ycombinator.com/user?id=davidkunz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛津街的糖果店]]></title>
+        <id>https://news.ycombinator.com/item?id=31141991</id>
+        <link href="https://news.ycombinator.com/item?id=31141991"/>
+        <updated>2022-04-24T07:31:13.000Z</updated>
+        <summary type="html"><![CDATA[The candy stores of Oxford Street]]></summary>
+        <author>
+            <name>zeristor</name>
+            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify订阅应用程序现在支持谷歌支付]]></title>
+        <id>https://news.ycombinator.com/item?id=31141898</id>
+        <link href="https://news.ycombinator.com/item?id=31141898"/>
+        <updated>2022-04-24T07:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Shopify subscription apps now support Google Pay]]></summary>
+        <author>
+            <name>laangregor</name>
+            <uri>https://news.ycombinator.com/user?id=laangregor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天合光能首席执行官表示，到2050年，太阳能可能为世界提供一半的电力]]></title>
         <id>https://news.ycombinator.com/item?id=31142292</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hsnewman</name>
             <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用简单的英语查询数据库。Cogram和MongoDB]]></title>
-        <id>https://news.ycombinator.com/item?id=31124013</id>
-        <link href="https://news.ycombinator.com/item?id=31124013"/>
-        <updated>2022-04-22T16:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Querying databases in plain English: Cogram and MongoDB]]></summary>
-        <author>
-            <name>ricwo</name>
-            <uri>https://news.ycombinator.com/user?id=ricwo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[决策的算法 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31123683</id>
-        <link href="https://news.ycombinator.com/item?id=31123683"/>
-        <updated>2022-04-22T16:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Algorithms for Decision Making [pdf]]]></summary>
-        <author>
-            <name>mindcrime</name>
-            <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲核子研究中心重新启动了大型强子对撞机--它比以前更强大了]]></title>
-        <id>https://news.ycombinator.com/item?id=31123672</id>
-        <link href="https://news.ycombinator.com/item?id=31123672"/>
-        <updated>2022-04-22T16:21:18.000Z</updated>
-        <summary type="html"><![CDATA[CERN has restarted the Large Hadron Collider – and it's more powerful than ever]]></summary>
-        <author>
-            <name>weinzierl</name>
-            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
         </author>
     </entry>
 </feed>
