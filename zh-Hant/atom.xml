@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T19:11:02.804Z</updated>
+    <updated>2022-04-24T19:27:37.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們可以使Covid-19成為最後一種大流行病 - 比爾-蓋茨 - 泰德]]></title>
+        <id>https://news.ycombinator.com/item?id=31147241</id>
+        <link href="https://news.ycombinator.com/item?id=31147241"/>
+        <updated>2022-04-24T19:14:22.000Z</updated>
+        <summary type="html"><![CDATA[We Can Make Covid-19 the Last Pandemic – Bill Gates – Ted]]></summary>
+        <author>
+            <name>baal80spam</name>
+            <uri>https://news.ycombinator.com/user?id=baal80spam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年最受歡迎的Node.js框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31147163</id>
+        <link href="https://news.ycombinator.com/item?id=31147163"/>
+        <updated>2022-04-24T19:05:14.000Z</updated>
+        <summary type="html"><![CDATA[The Most Popular Node.js Frameworks in 2022]]></summary>
+        <author>
+            <name>xweb</name>
+            <uri>https://news.ycombinator.com/user?id=xweb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JuNest。基於Arch的發行版，在任何Linux發行版上運行都不需要root權限]]></title>
+        <id>https://news.ycombinator.com/item?id=31146931</id>
+        <link href="https://news.ycombinator.com/item?id=31146931"/>
+        <updated>2022-04-24T18:44:21.000Z</updated>
+        <summary type="html"><![CDATA[JuNest: Arch based distro that runs without root privileges on any Linux distro]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在眾目睽睽之下。把技術放在教學之前]]></title>
         <id>https://news.ycombinator.com/item?id=31147052</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環境計算的接口]]></title>
-        <id>https://news.ycombinator.com/item?id=31130272</id>
-        <link href="https://news.ycombinator.com/item?id=31130272"/>
-        <updated>2022-04-23T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Interfaces for Ambient Computing]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專利制度出了什麼問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=31130262</id>
-        <link href="https://news.ycombinator.com/item?id=31130262"/>
-        <updated>2022-04-23T00:58:36.000Z</updated>
-        <summary type="html"><![CDATA[What's Wrong with the Patent System?]]></summary>
-        <author>
-            <name>bhaprayan</name>
-            <uri>https://news.ycombinator.com/user?id=bhaprayan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL：GitHub沒有將有史以來第一個Git提交歸於Torvalds]]></title>
-        <id>https://news.ycombinator.com/item?id=31130259</id>
-        <link href="https://news.ycombinator.com/item?id=31130259"/>
-        <updated>2022-04-23T00:58:26.000Z</updated>
-        <summary type="html"><![CDATA[TIL: GitHub doesn't attribute the first-ever Git commit to Torvalds]]></summary>
-        <author>
-            <name>sarupbanskota</name>
-            <uri>https://news.ycombinator.com/user?id=sarupbanskota</uri>
         </author>
     </entry>
 </feed>
