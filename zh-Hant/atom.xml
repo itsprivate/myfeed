@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T15:48:14.169Z</updated>
+    <updated>2022-04-24T15:55:23.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[保羅-格雷厄姆最喜歡的文章、視頻和播客]]></title>
+        <id>https://news.ycombinator.com/item?id=31145150</id>
+        <link href="https://news.ycombinator.com/item?id=31145150"/>
+        <updated>2022-04-24T15:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Paul Graham's favorite articles, videos, and podcasts]]></summary>
+        <author>
+            <name>justinf21</name>
+            <uri>https://news.ycombinator.com/user?id=justinf21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一個 "復活節彩蛋 "是企業的反叛行為]]></title>
         <id>https://news.ycombinator.com/item?id=31145129</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cris3</name>
             <uri>https://news.ycombinator.com/user?id=cris3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance與俄羅斯秘密警察的關係]]></title>
-        <id>https://news.ycombinator.com/item?id=31127791</id>
-        <link href="https://news.ycombinator.com/item?id=31127791"/>
-        <updated>2022-04-22T20:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Binance Ties with Russian Secret Police]]></summary>
-        <author>
-            <name>Koshkin</name>
-            <uri>https://news.ycombinator.com/user?id=Koshkin</uri>
         </author>
     </entry>
 </feed>
