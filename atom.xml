@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T11:52:06.907Z</updated>
+    <updated>2022-04-24T12:17:55.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有人期望年轻男子做任何事情，他们的反应是无所作为]]></title>
+        <id>https://news.ycombinator.com/item?id=31143279</id>
+        <link href="https://news.ycombinator.com/item?id=31143279"/>
+        <updated>2022-04-24T12:07:16.000Z</updated>
+        <summary type="html"><![CDATA[No One Expects Young Men to Do Anything and They Are Responding by Doing Nothing]]></summary>
+        <author>
+            <name>Bostonian</name>
+            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随着世界海平面的上升，冰岛的水域正在下降]]></title>
         <id>https://news.ycombinator.com/item?id=31143022</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马里乌波尔计算机博物馆的创建者找到了新的战时召唤]]></title>
-        <id>https://news.ycombinator.com/item?id=31125356</id>
-        <link href="https://news.ycombinator.com/item?id=31125356"/>
-        <updated>2022-04-22T17:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Mariupol Computer Museum creator finds a new war-time calling]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
