@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T05:11:43.686Z</updated>
+    <updated>2022-04-24T05:30:37.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[缩放公司宣布推出缩放白板，手势识别等多项更新]]></title>
+        <id>https://news.ycombinator.com/item?id=31141478</id>
+        <link href="https://news.ycombinator.com/item?id=31141478"/>
+        <updated>2022-04-24T05:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Zoom announces Zoom Whiteboard, gesture recognition among several updates]]></summary>
+        <author>
+            <name>tekacs</name>
+            <uri>https://news.ycombinator.com/user?id=tekacs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆向工程Discord语音/视频通话]]></title>
+        <id>https://news.ycombinator.com/item?id=31141437</id>
+        <link href="https://news.ycombinator.com/item?id=31141437"/>
+        <updated>2022-04-24T05:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Reverse Engineering Discord Voice/Video Calls]]></summary>
+        <author>
+            <name>ethanwillis</name>
+            <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的谷歌 "会变成 "俄罗斯的腾讯 "吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31141421</id>
+        <link href="https://news.ycombinator.com/item?id=31141421"/>
+        <updated>2022-04-24T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Will ‘Russia’s Google’ Turn into ‘Russia’s Tencent’?]]></summary>
+        <author>
+            <name>venkatananth</name>
+            <uri>https://news.ycombinator.com/user?id=venkatananth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alphabet的机器人部门Intrinsic收购了Vicarious公司]]></title>
+        <id>https://news.ycombinator.com/item?id=31141159</id>
+        <link href="https://news.ycombinator.com/item?id=31141159"/>
+        <updated>2022-04-24T03:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet's robotics division, Intrinsic, acquires Vicarious]]></summary>
+        <author>
+            <name>reducesuffering</name>
+            <uri>https://news.ycombinator.com/user?id=reducesuffering</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果刚刚向Facebook发出了120亿美元的打击]]></title>
         <id>https://news.ycombinator.com/item?id=31141416</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零成本的例外情况并不是零成本]]></title>
-        <id>https://news.ycombinator.com/item?id=31122466</id>
-        <link href="https://news.ycombinator.com/item?id=31122466"/>
-        <updated>2022-04-22T15:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Zero-cost exceptions aren’t zero cost]]></summary>
-        <author>
-            <name>DeathArrow</name>
-            <uri>https://news.ycombinator.com/user?id=DeathArrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集成电路制造的材料和工艺的巨大变化]]></title>
-        <id>https://news.ycombinator.com/item?id=31122098</id>
-        <link href="https://news.ycombinator.com/item?id=31122098"/>
-        <updated>2022-04-22T14:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Big Changes in Materials and Processes for IC Manufacturing]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat的产品正在蓬勃发展]]></title>
-        <id>https://news.ycombinator.com/item?id=31121811</id>
-        <link href="https://news.ycombinator.com/item?id=31121811"/>
-        <updated>2022-04-22T14:15:55.000Z</updated>
-        <summary type="html"><![CDATA[Snapchat’s product is booming]]></summary>
-        <author>
-            <name>kantrowitz</name>
-            <uri>https://news.ycombinator.com/user?id=kantrowitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Illustrated QUIC Connection: 每个字节的解释]]></title>
-        <id>https://news.ycombinator.com/item?id=31121674</id>
-        <link href="https://news.ycombinator.com/item?id=31121674"/>
-        <updated>2022-04-22T14:05:27.000Z</updated>
-        <summary type="html"><![CDATA[The Illustrated QUIC Connection: Every Byte Explained]]></summary>
-        <author>
-            <name>syncsynchalt</name>
-            <uri>https://news.ycombinator.com/user?id=syncsynchalt</uri>
         </author>
     </entry>
 </feed>
