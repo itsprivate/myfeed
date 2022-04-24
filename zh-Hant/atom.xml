@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T05:38:36.266Z</updated>
+    <updated>2022-04-24T05:51:26.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流媒體正在像網絡電視一樣行事，因為他們撤回了前衛的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=31141528</id>
+        <link href="https://news.ycombinator.com/item?id=31141528"/>
+        <updated>2022-04-24T05:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Streamers are acting like network TV, as they pull back on edgy content]]></summary>
+        <author>
+            <name>donsupreme</name>
+            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嬰兒潮一代的消亡會導致住房的下降嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31141433</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龍星公司走出隱身狀態，計劃建立月球數據中心]]></title>
-        <id>https://news.ycombinator.com/item?id=31122954</id>
-        <link href="https://news.ycombinator.com/item?id=31122954"/>
-        <updated>2022-04-22T15:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Lonestar emerges from stealth with plans for lunar data centers]]></summary>
-        <author>
-            <name>layer8</name>
-            <uri>https://news.ycombinator.com/user?id=layer8</uri>
         </author>
     </entry>
 </feed>
