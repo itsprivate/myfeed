@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T14:31:13.698Z</updated>
+    <updated>2022-04-24T14:39:40.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作或薪酬。设定目标。签订合同。如果你失败了，就支付罚款]]></title>
+        <id>https://news.ycombinator.com/item?id=31144318</id>
+        <link href="https://news.ycombinator.com/item?id=31144318"/>
+        <updated>2022-04-24T14:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail]]></summary>
+        <author>
+            <name>khromem</name>
+            <uri>https://news.ycombinator.com/user?id=khromem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么给东西命名是困难的？]]></title>
         <id>https://news.ycombinator.com/item?id=31144191</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase首席执行官称苹果的加密货币规则凸显 "潜在的反垄断问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31126732</id>
-        <link href="https://news.ycombinator.com/item?id=31126732"/>
-        <updated>2022-04-22T19:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO says Apple’s crypto rules highlight ‘potential antitrust issues’]]></summary>
-        <author>
-            <name>jmsflknr</name>
-            <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
         </author>
     </entry>
 </feed>
