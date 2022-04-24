@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-24T09:51:45.915Z</updated>
+    <updated>2022-04-24T10:14:35.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[考慮使用微小的石墨烯納米帶支架進行人體頭部移植]]></title>
+        <id>https://news.ycombinator.com/item?id=31142514</id>
+        <link href="https://news.ycombinator.com/item?id=31142514"/>
+        <updated>2022-04-24T09:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Human head transplant is contemplated using tiny graphene nanoribbon scaffolds]]></summary>
+        <author>
+            <name>aj7</name>
+            <uri>https://news.ycombinator.com/user?id=aj7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[會議是否應該有一個反駁階段？]]></title>
+        <id>https://news.ycombinator.com/item?id=31142347</id>
+        <link href="https://news.ycombinator.com/item?id=31142347"/>
+        <updated>2022-04-24T09:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Should conferences have a rebuttal phase?]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DaVinci Resolve 18]]></title>
         <id>https://news.ycombinator.com/item?id=31142560</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pdenton</name>
             <uri>https://news.ycombinator.com/user?id=pdenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德夫-努爾]]></title>
-        <id>https://news.ycombinator.com/item?id=31124569</id>
-        <link href="https://news.ycombinator.com/item?id=31124569"/>
-        <updated>2022-04-22T17:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Dev Null]]></summary>
-        <author>
-            <name>harrylove</name>
-            <uri>https://news.ycombinator.com/user?id=harrylove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國家航空航天局的新材料可抵禦極端條件]]></title>
-        <id>https://news.ycombinator.com/item?id=31124519</id>
-        <link href="https://news.ycombinator.com/item?id=31124519"/>
-        <updated>2022-04-22T17:05:21.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s New Material Built to Withstand Extreme Conditions]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
         </author>
     </entry>
 </feed>
