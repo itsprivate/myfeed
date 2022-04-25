@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T21:14:01.036Z</updated>
+    <updated>2022-04-25T21:30:31.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带来了Twitter黑手党]]></title>
+        <id>https://news.ycombinator.com/item?id=31160770</id>
+        <link href="https://news.ycombinator.com/item?id=31160770"/>
+        <updated>2022-04-25T21:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Bring on the Twitter Mafia]]></summary>
+        <author>
+            <name>ttyp3</name>
+            <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用dprint运行prettier比prettier CLI快40倍]]></title>
+        <id>https://news.ycombinator.com/item?id=31160722</id>
+        <link href="https://news.ycombinator.com/item?id=31160722"/>
+        <updated>2022-04-25T21:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Running prettier 40x faster than prettier CLI using dprint]]></summary>
+        <author>
+            <name>lucacasonato</name>
+            <uri>https://news.ycombinator.com/user?id=lucacasonato</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知名科学家称气候活动家需要现实一点]]></title>
+        <id>https://news.ycombinator.com/item?id=31160695</id>
+        <link href="https://news.ycombinator.com/item?id=31160695"/>
+        <updated>2022-04-25T21:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Eminent Scientist Says Climate Activists Need to Get Real]]></summary>
+        <author>
+            <name>johnny313</name>
+            <uri>https://news.ycombinator.com/user?id=johnny313</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克的Boring公司将建造隧道式超高速铁路，今年开始测试]]></title>
+        <id>https://news.ycombinator.com/item?id=31160684</id>
+        <link href="https://news.ycombinator.com/item?id=31160684"/>
+        <updated>2022-04-25T21:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s Boring Company to build a tunnel Hyperloop, testing begins this year]]></summary>
+        <author>
+            <name>CarCooler</name>
+            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在450亿美元的Twitter交易之后，马斯克仍欠联合国60亿美元]]></title>
+        <id>https://news.ycombinator.com/item?id=31160676</id>
+        <link href="https://news.ycombinator.com/item?id=31160676"/>
+        <updated>2022-04-25T21:12:25.000Z</updated>
+        <summary type="html"><![CDATA[In wake of $45b Twitter deal, Musk still owes the UN $6b]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉已经在其生产的50%的新车中使用无钴LFP电池]]></title>
+        <id>https://news.ycombinator.com/item?id=31160585</id>
+        <link href="https://news.ycombinator.com/item?id=31160585"/>
+        <updated>2022-04-25T21:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Tesla is already using cobalt-free LFP batteries in 50% of its new cars produced]]></summary>
+        <author>
+            <name>CarCooler</name>
+            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么开源Twitter对人类和商业都有好处？]]></title>
+        <id>https://news.ycombinator.com/item?id=31160477</id>
+        <link href="https://news.ycombinator.com/item?id=31160477"/>
+        <updated>2022-04-25T20:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Why Open Sourcing Twitter Is Good for Humanity and Business]]></summary>
+        <author>
+            <name>ceohockey60</name>
+            <uri>https://news.ycombinator.com/user?id=ceohockey60</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在10分钟内用Rust构建和部署一个URL缩短器]]></title>
         <id>https://news.ycombinator.com/item?id=31160563</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>DougMellon</name>
             <uri>https://news.ycombinator.com/user?id=DougMellon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker容器中的MicroPython]]></title>
-        <id>https://news.ycombinator.com/item?id=31145031</id>
-        <link href="https://news.ycombinator.com/item?id=31145031"/>
-        <updated>2022-04-24T15:35:04.000Z</updated>
-        <summary type="html"><![CDATA[MicroPython in Docker Containers]]></summary>
-        <author>
-            <name>muunbo</name>
-            <uri>https://news.ycombinator.com/user?id=muunbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找控制台文字处理器 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=31144912</id>
-        <link href="https://news.ycombinator.com/item?id=31144912"/>
-        <updated>2022-04-24T15:24:10.000Z</updated>
-        <summary type="html"><![CDATA[Finding a console Word Processor (2020)]]></summary>
-        <author>
-            <name>hggh</name>
-            <uri>https://news.ycombinator.com/user?id=hggh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在英国，长的Covid和与住院后1年恢复的关系]]></title>
-        <id>https://news.ycombinator.com/item?id=31144877</id>
-        <link href="https://news.ycombinator.com/item?id=31144877"/>
-        <updated>2022-04-24T15:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Long Covid and association with 1-year recovery after hospitalisation in UK]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰哥帮助诈骗这个人]]></title>
-        <id>https://news.ycombinator.com/item?id=31144812</id>
-        <link href="https://news.ycombinator.com/item?id=31144812"/>
-        <updated>2022-04-24T15:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Bing helped scam this person]]></summary>
-        <author>
-            <name>primer42</name>
-            <uri>https://news.ycombinator.com/user?id=primer42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果现在从App Store删除过时的应用程序，开发者抱怨说]]></title>
-        <id>https://news.ycombinator.com/item?id=31144781</id>
-        <link href="https://news.ycombinator.com/item?id=31144781"/>
-        <updated>2022-04-24T15:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Apple now removing outdated apps from the App Store, developers complain]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[室内空气质量如何成为新的健康问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31144541</id>
-        <link href="https://news.ycombinator.com/item?id=31144541"/>
-        <updated>2022-04-24T14:51:17.000Z</updated>
-        <summary type="html"><![CDATA[How Indoor Air Quality Became the New Wellness Fixation]]></summary>
-        <author>
-            <name>renatovico</name>
-            <uri>https://news.ycombinator.com/user?id=renatovico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将Gnome Builder移植到GTK 4上]]></title>
-        <id>https://news.ycombinator.com/item?id=31144309</id>
-        <link href="https://news.ycombinator.com/item?id=31144309"/>
-        <updated>2022-04-24T14:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Porting Gnome Builder to GTK 4]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
         </author>
     </entry>
 </feed>
