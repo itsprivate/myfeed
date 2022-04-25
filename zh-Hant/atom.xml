@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T07:34:14.947Z</updated>
+    <updated>2022-04-25T07:51:27.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣佈Hare編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31151591</id>
+        <link href="https://news.ycombinator.com/item?id=31151591"/>
+        <updated>2022-04-25T07:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the Hare programming language]]></summary>
+        <author>
+            <name>ddevault</name>
+            <uri>https://news.ycombinator.com/user?id=ddevault</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Ultra的矩陣乘法性能提高了近一倍]]></title>
+        <id>https://news.ycombinator.com/item?id=31151561</id>
+        <link href="https://news.ycombinator.com/item?id=31151561"/>
+        <updated>2022-04-25T07:38:11.000Z</updated>
+        <summary type="html"><![CDATA[M1 Ultra nearly doubles matrix multiplication performance]]></summary>
+        <author>
+            <name>danieldk</name>
+            <uri>https://news.ycombinator.com/user?id=danieldk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kent Overstreet的.plan文件（bcachefs）。]]></title>
         <id>https://news.ycombinator.com/item?id=31151483</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的Ttrpg發佈。蓓蕾之約]]></title>
-        <id>https://news.ycombinator.com/item?id=31135268</id>
-        <link href="https://news.ycombinator.com/item?id=31135268"/>
-        <updated>2022-04-23T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[New Ttrpg Release: Bella Ciao]]></summary>
-        <author>
-            <name>FreeRadicals</name>
-            <uri>https://news.ycombinator.com/user?id=FreeRadicals</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[康卡斯特是美國第一家部署先進空心光纖的ISP]]></title>
-        <id>https://news.ycombinator.com/item?id=31135249</id>
-        <link href="https://news.ycombinator.com/item?id=31135249"/>
-        <updated>2022-04-23T15:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Comcast First ISP in the United States to Deploy Advanced Hollowcore Fiber]]></summary>
-        <author>
-            <name>trifit</name>
-            <uri>https://news.ycombinator.com/user?id=trifit</uri>
         </author>
     </entry>
 </feed>

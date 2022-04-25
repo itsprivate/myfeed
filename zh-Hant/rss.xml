@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宣佈Hare編程語言]]></title>
+            <link>https://news.ycombinator.com/item?id=31151591</link>
+            <guid>https://news.ycombinator.com/item?id=31151591</guid>
+            <pubDate>Mon, 25 Apr 2022 07:44:19 GMT</pubDate>
+            <description><![CDATA[Announcing the Hare programming language]]></description>
+        </item>
+        <item>
+            <title><![CDATA[M1 Ultra的矩陣乘法性能提高了近一倍]]></title>
+            <link>https://news.ycombinator.com/item?id=31151561</link>
+            <guid>https://news.ycombinator.com/item?id=31151561</guid>
+            <pubDate>Mon, 25 Apr 2022 07:38:11 GMT</pubDate>
+            <description><![CDATA[M1 Ultra nearly doubles matrix multiplication performance]]></description>
+        </item>
         <item>
             <title><![CDATA[Kent Overstreet的.plan文件（bcachefs）。]]></title>
             <link>https://news.ycombinator.com/item?id=31151483</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31135134</guid>
             <pubDate>Sat, 23 Apr 2022 15:34:14 GMT</pubDate>
             <description><![CDATA[The Behavioral Economics Guide 2021]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的Ttrpg發佈。蓓蕾之約]]></title>
-            <link>https://news.ycombinator.com/item?id=31135268</link>
-            <guid>https://news.ycombinator.com/item?id=31135268</guid>
-            <pubDate>Sat, 23 Apr 2022 15:46:00 GMT</pubDate>
-            <description><![CDATA[New Ttrpg Release: Bella Ciao]]></description>
-        </item>
-        <item>
-            <title><![CDATA[康卡斯特是美國第一家部署先進空心光纖的ISP]]></title>
-            <link>https://news.ycombinator.com/item?id=31135249</link>
-            <guid>https://news.ycombinator.com/item?id=31135249</guid>
-            <pubDate>Sat, 23 Apr 2022 15:44:11 GMT</pubDate>
-            <description><![CDATA[Comcast First ISP in the United States to Deploy Advanced Hollowcore Fiber]]></description>
         </item>
     </channel>
 </rss>
