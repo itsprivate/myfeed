@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T05:34:27.540Z</updated>
+    <updated>2022-04-25T05:44:12.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小規模漸進式改進的神話]]></title>
+        <id>https://news.ycombinator.com/item?id=31150844</id>
+        <link href="https://news.ycombinator.com/item?id=31150844"/>
+        <updated>2022-04-25T04:52:57.000Z</updated>
+        <summary type="html"><![CDATA[The Myth of Small Incremental Improvements]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當精英們拒絕數據時：聯合國的婚姻穩定]]></title>
+        <id>https://news.ycombinator.com/item?id=31150646</id>
+        <link href="https://news.ycombinator.com/item?id=31150646"/>
+        <updated>2022-04-25T04:06:53.000Z</updated>
+        <summary type="html"><![CDATA[When elites reject data: marriage stability at the UN]]></summary>
+        <author>
+            <name>pyuser583</name>
+            <uri>https://news.ycombinator.com/user?id=pyuser583</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特董事會考慮馬斯克出價]]></title>
         <id>https://news.ycombinator.com/item?id=31150886</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於Sqrt(2)的不便之處]]></title>
-        <id>https://news.ycombinator.com/item?id=31134130</id>
-        <link href="https://news.ycombinator.com/item?id=31134130"/>
-        <updated>2022-04-23T13:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Inconvenient Truths about Sqrt(2)]]></summary>
-        <author>
-            <name>agomez314</name>
-            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Bash和Python中生成SHA256哈希值]]></title>
-        <id>https://news.ycombinator.com/item?id=31134115</id>
-        <link href="https://news.ycombinator.com/item?id=31134115"/>
-        <updated>2022-04-23T13:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Generate SHA256 Hash in Bash and Python]]></summary>
-        <author>
-            <name>in-progress</name>
-            <uri>https://news.ycombinator.com/user?id=in-progress</uri>
         </author>
     </entry>
 </feed>
