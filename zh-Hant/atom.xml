@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T04:46:57.170Z</updated>
+    <updated>2022-04-25T05:02:46.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使得shell腳本出現性能問題的一些事情]]></title>
+        <id>https://news.ycombinator.com/item?id=31150788</id>
+        <link href="https://news.ycombinator.com/item?id=31150788"/>
+        <updated>2022-04-25T04:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Some things that make shell scripts have performance issues]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國的Covid-19沙皇從他投資的公司推動中醫治療。]]></title>
+        <id>https://news.ycombinator.com/item?id=31150504</id>
+        <link href="https://news.ycombinator.com/item?id=31150504"/>
+        <updated>2022-04-25T03:32:45.000Z</updated>
+        <summary type="html"><![CDATA[China’s Covid-19 Czar pushed TCM treatments from co’s he invested in]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control-NeRF：用於場景渲染和操縱的可編輯特徵卷軸]]></title>
+        <id>https://news.ycombinator.com/item?id=31150355</id>
+        <link href="https://news.ycombinator.com/item?id=31150355"/>
+        <updated>2022-04-25T02:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在C++20方面的第一次工作經驗]]></title>
+        <id>https://news.ycombinator.com/item?id=31150178</id>
+        <link href="https://news.ycombinator.com/item?id=31150178"/>
+        <updated>2022-04-25T02:15:39.000Z</updated>
+        <summary type="html"><![CDATA[My first work experience with C++20]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光子篩]]></title>
         <id>https://news.ycombinator.com/item?id=31150801</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>tutunak</name>
             <uri>https://news.ycombinator.com/user?id=tutunak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客比以往任何時候都更多地利用 "0日"。]]></title>
-        <id>https://news.ycombinator.com/item?id=31134146</id>
-        <link href="https://news.ycombinator.com/item?id=31134146"/>
-        <updated>2022-04-23T13:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Hackers are exploiting 0-days more than ever]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛假信息和被隨機性愚弄 - 納西姆-塔勒布]]></title>
-        <id>https://news.ycombinator.com/item?id=31134126</id>
-        <link href="https://news.ycombinator.com/item?id=31134126"/>
-        <updated>2022-04-23T13:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Disinformation and Fooled by Randomness – Nassim Taleb]]></summary>
-        <author>
-            <name>LichenStone</name>
-            <uri>https://news.ycombinator.com/user?id=LichenStone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聖克萊爾光譜的DevOps]]></title>
-        <id>https://news.ycombinator.com/item?id=31134121</id>
-        <link href="https://news.ycombinator.com/item?id=31134121"/>
-        <updated>2022-04-23T13:34:32.000Z</updated>
-        <summary type="html"><![CDATA[DevOps for the Sinclair Spectrum]]></summary>
-        <author>
-            <name>nickt</name>
-            <uri>https://news.ycombinator.com/user?id=nickt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[過度消費，解釋]]></title>
-        <id>https://news.ycombinator.com/item?id=31133945</id>
-        <link href="https://news.ycombinator.com/item?id=31133945"/>
-        <updated>2022-04-23T13:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Overconsumption, explained]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
         </author>
     </entry>
 </feed>
