@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T20:35:08.613Z</updated>
+    <updated>2022-04-25T20:46:38.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地質聚合物]]></title>
+        <id>https://news.ycombinator.com/item?id=31160004</id>
+        <link href="https://news.ycombinator.com/item?id=31160004"/>
+        <updated>2022-04-25T20:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Geopolymer]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個簡單的實時撲克規劃工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31159219</id>
+        <link href="https://news.ycombinator.com/item?id=31159219"/>
+        <updated>2022-04-25T19:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simple realtime poker planning tool]]></summary>
+        <author>
+            <name>jpcapdevila</name>
+            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火的時代即將結束]]></title>
         <id>https://news.ycombinator.com/item?id=31160143</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sun_bear</name>
             <uri>https://news.ycombinator.com/user?id=sun_bear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[艾伯哈德-法布爾鉛筆的名稱和型號]]></title>
-        <id>https://news.ycombinator.com/item?id=31143681</id>
-        <link href="https://news.ycombinator.com/item?id=31143681"/>
-        <updated>2022-04-24T13:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Eberhard Faber Pencil Names and Model Numbers]]></summary>
-        <author>
-            <name>thomas</name>
-            <uri>https://news.ycombinator.com/user?id=thomas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網站、API和服務器的負載測試和壓力測試]]></title>
-        <id>https://news.ycombinator.com/item?id=31143510</id>
-        <link href="https://news.ycombinator.com/item?id=31143510"/>
-        <updated>2022-04-24T12:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Load testing and stress tests for websites, APIs and servers]]></summary>
-        <author>
-            <name>omarfarooq</name>
-            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
         </author>
     </entry>
 </feed>
