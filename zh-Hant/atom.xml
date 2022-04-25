@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T09:46:01.131Z</updated>
+    <updated>2022-04-25T10:16:36.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub軟件包和頁面下降]]></title>
+        <id>https://news.ycombinator.com/item?id=31152403</id>
+        <link href="https://news.ycombinator.com/item?id=31152403"/>
+        <updated>2022-04-25T09:54:43.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Packages and Pages Down]]></summary>
+        <author>
+            <name>angrygoat</name>
+            <uri>https://news.ycombinator.com/user?id=angrygoat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼讓ZITADEL成為一個偉大的Keycloak替代品？]]></title>
         <id>https://news.ycombinator.com/item?id=31152280</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>photochemsyn</name>
             <uri>https://news.ycombinator.com/user?id=photochemsyn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禪宗程序員的十條規則]]></title>
-        <id>https://news.ycombinator.com/item?id=31135802</id>
-        <link href="https://news.ycombinator.com/item?id=31135802"/>
-        <updated>2022-04-23T16:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ten Rules of a Zen Programmer]]></summary>
-        <author>
-            <name>kettunen</name>
-            <uri>https://news.ycombinator.com/user?id=kettunen</uri>
         </author>
     </entry>
 </feed>
