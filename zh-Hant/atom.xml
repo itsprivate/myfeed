@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T06:43:16.688Z</updated>
+    <updated>2022-04-25T07:00:28.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFT工具--希望得到反饋]]></title>
+        <id>https://news.ycombinator.com/item?id=31150817</id>
+        <link href="https://news.ycombinator.com/item?id=31150817"/>
+        <updated>2022-04-25T04:45:16.000Z</updated>
+        <summary type="html"><![CDATA[NFT Tool – Feedback Wanted]]></summary>
+        <author>
+            <name>cavario</name>
+            <uri>https://news.ycombinator.com/user?id=cavario</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helm - 你可以使用的工具來管理你的Helm發佈聲明]]></title>
         <id>https://news.ycombinator.com/item?id=31151280</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JeremyTheo</name>
             <uri>https://news.ycombinator.com/user?id=JeremyTheo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23歲的C++開發人員有三個超過50萬美元的工作機會]]></title>
-        <id>https://news.ycombinator.com/item?id=31134872</id>
-        <link href="https://news.ycombinator.com/item?id=31134872"/>
-        <updated>2022-04-23T15:06:38.000Z</updated>
-        <summary type="html"><![CDATA[The 23 Year-old C++ developers with three job offers over $500k]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
         </author>
     </entry>
 </feed>
