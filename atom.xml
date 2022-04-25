@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T11:30:45.975Z</updated>
+    <updated>2022-04-25T11:38:55.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[据说Twitter接近与Elon Musk达成交易]]></title>
+        <id>https://news.ycombinator.com/item?id=31152924</id>
+        <link href="https://news.ycombinator.com/item?id=31152924"/>
+        <updated>2022-04-25T11:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Twitter said to be close to a deal with Elon Musk]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个病毒式的推特话题重新唤起了人类学的黑暗历史]]></title>
+        <id>https://news.ycombinator.com/item?id=31152726</id>
+        <link href="https://news.ycombinator.com/item?id=31152726"/>
+        <updated>2022-04-25T10:42:21.000Z</updated>
+        <summary type="html"><![CDATA[A Viral Twitter Thread Reawakens the Dark History of Anthropology]]></summary>
+        <author>
+            <name>dnetesn</name>
+            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纳兹拉勒。堕落的世界]]></title>
         <id>https://news.ycombinator.com/item?id=31152980</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测量与阿波罗飞船距离的数字测距系统]]></title>
-        <id>https://news.ycombinator.com/item?id=31136285</id>
-        <link href="https://news.ycombinator.com/item?id=31136285"/>
-        <updated>2022-04-23T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[The digital ranging system that measured the distance to the Apollo spacecraft]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌、西部数据、希捷悄悄地建立了一个开源的信任根基]]></title>
-        <id>https://news.ycombinator.com/item?id=31136262</id>
-        <link href="https://news.ycombinator.com/item?id=31136262"/>
-        <updated>2022-04-23T17:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Google, Western Digital, Seagate quietly an open source root of trust]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
         </author>
     </entry>
 </feed>
