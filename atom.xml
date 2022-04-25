@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T04:08:04.162Z</updated>
+    <updated>2022-04-25T04:46:57.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[光子筛]]></title>
+        <id>https://news.ycombinator.com/item?id=31150801</id>
+        <link href="https://news.ycombinator.com/item?id=31150801"/>
+        <updated>2022-04-25T04:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Photon Sieve]]></summary>
+        <author>
+            <name>addaon</name>
+            <uri>https://news.ycombinator.com/user?id=addaon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nix - 纯粹的功能性软件部署模式 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31150740</id>
+        <link href="https://news.ycombinator.com/item?id=31150740"/>
+        <updated>2022-04-25T04:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Nix – The Purely Functional Software Deployment Model [pdf]]]></summary>
+        <author>
+            <name>ananthakumaran</name>
+            <uri>https://news.ycombinator.com/user?id=ananthakumaran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报道，Twitter正在重新考虑Elon Musk的投标]]></title>
+        <id>https://news.ycombinator.com/item?id=31150702</id>
+        <link href="https://news.ycombinator.com/item?id=31150702"/>
+        <updated>2022-04-25T04:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is reportedly reconsidering Elon Musk's bid]]></summary>
+        <author>
+            <name>sidcool</name>
+            <uri>https://news.ycombinator.com/user?id=sidcool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有双边缘TPU的M.2加速器]]></title>
+        <id>https://news.ycombinator.com/item?id=31150640</id>
+        <link href="https://news.ycombinator.com/item?id=31150640"/>
+        <updated>2022-04-25T04:05:12.000Z</updated>
+        <summary type="html"><![CDATA[M.2 Accelerator with Dual Edge TPU]]></summary>
+        <author>
+            <name>lucia-wermer</name>
+            <uri>https://news.ycombinator.com/user?id=lucia-wermer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你有没有试过在上面擦一个数据库？]]></title>
+        <id>https://news.ycombinator.com/item?id=31150629</id>
+        <link href="https://news.ycombinator.com/item?id=31150629"/>
+        <updated>2022-04-25T04:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you tried rubbing a database on it?]]></summary>
+        <author>
+            <name>simonz05</name>
+            <uri>https://news.ycombinator.com/user?id=simonz05</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学可以帮助检测选区划分]]></title>
         <id>https://news.ycombinator.com/item?id=31150626</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>colinprince</name>
             <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布莱斯悖论]]></title>
-        <id>https://news.ycombinator.com/item?id=31133775</id>
-        <link href="https://news.ycombinator.com/item?id=31133775"/>
-        <updated>2022-04-23T12:42:17.000Z</updated>
-        <summary type="html"><![CDATA[Braess Paradox]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国试射新型YJ-21高超音速导弹]]></title>
-        <id>https://news.ycombinator.com/item?id=31133769</id>
-        <link href="https://news.ycombinator.com/item?id=31133769"/>
-        <updated>2022-04-23T12:40:52.000Z</updated>
-        <summary type="html"><![CDATA[China Test-Fires New YJ-21 Hypersonic Missile]]></summary>
-        <author>
-            <name>limoce</name>
-            <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放源代码的悖论]]></title>
-        <id>https://news.ycombinator.com/item?id=31133093</id>
-        <link href="https://news.ycombinator.com/item?id=31133093"/>
-        <updated>2022-04-23T10:50:53.000Z</updated>
-        <summary type="html"><![CDATA[The Open Source Paradox]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让开源硬件设计成为现实]]></title>
-        <id>https://news.ycombinator.com/item?id=31134201</id>
-        <link href="https://news.ycombinator.com/item?id=31134201"/>
-        <updated>2022-04-23T13:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Making open source hardware design a reality]]></summary>
-        <author>
-            <name>adapteva</name>
-            <uri>https://news.ycombinator.com/user?id=adapteva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于代码不良，3400万美元被永久锁定在AkuDreams合同中]]></title>
-        <id>https://news.ycombinator.com/item?id=31134154</id>
-        <link href="https://news.ycombinator.com/item?id=31134154"/>
-        <updated>2022-04-23T13:37:38.000Z</updated>
-        <summary type="html"><![CDATA[$34M permanently locked into AkuDreams contract forever due to bad code]]></summary>
-        <author>
-            <name>donohoe</name>
-            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
         </author>
     </entry>
 </feed>
