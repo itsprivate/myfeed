@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T05:44:12.655Z</updated>
+    <updated>2022-04-25T05:51:30.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瑞典慢电视：麋鹿大迁徙 [现场] 。]]></title>
+        <id>https://news.ycombinator.com/item?id=31150996</id>
+        <link href="https://news.ycombinator.com/item?id=31150996"/>
+        <updated>2022-04-25T05:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Swedish slow TV : The great moose migration [Live]]]></summary>
+        <author>
+            <name>MasterYoda</name>
+            <uri>https://news.ycombinator.com/user?id=MasterYoda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小规模渐进式改进的神话]]></title>
         <id>https://news.ycombinator.com/item?id=31150844</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doxxing意味着你想要什么就有什么]]></title>
-        <id>https://news.ycombinator.com/item?id=31134271</id>
-        <link href="https://news.ycombinator.com/item?id=31134271"/>
-        <updated>2022-04-23T13:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Doxxing Means Whatever You Want It To]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
