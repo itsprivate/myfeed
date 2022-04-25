@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T21:39:15.195Z</updated>
+    <updated>2022-04-25T21:52:25.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用BPF的每个应用的合理可靠的流量监控]]></title>
+        <id>https://news.ycombinator.com/item?id=31160863</id>
+        <link href="https://news.ycombinator.com/item?id=31160863"/>
+        <updated>2022-04-25T21:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A reasonably reliable traffic per application monitor using BPF]]></summary>
+        <author>
+            <name>elesiuta</name>
+            <uri>https://news.ycombinator.com/user?id=elesiuta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix的用户流失破坏了员工的士气]]></title>
+        <id>https://news.ycombinator.com/item?id=31160852</id>
+        <link href="https://news.ycombinator.com/item?id=31160852"/>
+        <updated>2022-04-25T21:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Netflix’s Subscriber Loss Has Destroyed Employee Morale]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莱斯利-兰波特的著作]]></title>
+        <id>https://news.ycombinator.com/item?id=31160824</id>
+        <link href="https://news.ycombinator.com/item?id=31160824"/>
+        <updated>2022-04-25T21:23:37.000Z</updated>
+        <summary type="html"><![CDATA[The Writings of Leslie Lamport]]></summary>
+        <author>
+            <name>alschwalm</name>
+            <uri>https://news.ycombinator.com/user?id=alschwalm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClusterFuzz是一个可扩展的模糊检验基础设施]]></title>
         <id>https://news.ycombinator.com/item?id=31160965</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jonjlee</name>
             <uri>https://news.ycombinator.com/user?id=jonjlee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法学教授解释区块链和NFT如何不保护虚拟财产]]></title>
-        <id>https://news.ycombinator.com/item?id=31145149</id>
-        <link href="https://news.ycombinator.com/item?id=31145149"/>
-        <updated>2022-04-24T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Law professor explains how blockchains and NFTs don’t protect virtual property]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺兰-布什内尔和查克-E-奶酪]]></title>
-        <id>https://news.ycombinator.com/item?id=31145111</id>
-        <link href="https://news.ycombinator.com/item?id=31145111"/>
-        <updated>2022-04-24T15:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Nolan Bushnell and Chuck E. Cheese]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰对中国无人机敲响警钟，向美国初创企业开放天空]]></title>
-        <id>https://news.ycombinator.com/item?id=31144880</id>
-        <link href="https://news.ycombinator.com/item?id=31144880"/>
-        <updated>2022-04-24T15:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Sounds Alarm on Chinese Drones, Opening Skies to U.S. Startups]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
