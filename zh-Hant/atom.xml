@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T08:41:02.032Z</updated>
+    <updated>2022-04-25T08:57:26.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兔子編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31151942</id>
+        <link href="https://news.ycombinator.com/item?id=31151942"/>
+        <updated>2022-04-25T08:44:08.000Z</updated>
+        <summary type="html"><![CDATA[The Hare Programming Language]]></summary>
+        <author>
+            <name>crassnt</name>
+            <uri>https://news.ycombinator.com/user?id=crassnt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大科技。按產品分類的收入]]></title>
+        <id>https://news.ycombinator.com/item?id=31151886</id>
+        <link href="https://news.ycombinator.com/item?id=31151886"/>
+        <updated>2022-04-25T08:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Big tech: Revenue breakdown by products]]></summary>
+        <author>
+            <name>farseer</name>
+            <uri>https://news.ycombinator.com/user?id=farseer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信希望人們使用其視頻平臺。所以他們這樣做了，為了數字抗議]]></title>
+        <id>https://news.ycombinator.com/item?id=31151816</id>
+        <link href="https://news.ycombinator.com/item?id=31151816"/>
+        <updated>2022-04-25T08:24:28.000Z</updated>
+        <summary type="html"><![CDATA[WeChat wants people to use its video platform. So they did, for digital protests]]></summary>
+        <author>
+            <name>hardmaru</name>
+            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旗魚社區新聞, 4月7日, Vanha Rauma]]></title>
+        <id>https://news.ycombinator.com/item?id=31151756</id>
+        <link href="https://news.ycombinator.com/item?id=31151756"/>
+        <updated>2022-04-25T08:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Sailfish Community News, 7th April, Vanha Rauma]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parsec - 從任何地方連接到工作或遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=31151695</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>jedwhite</name>
             <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XTDB]]></title>
-        <id>https://news.ycombinator.com/item?id=31135470</id>
-        <link href="https://news.ycombinator.com/item?id=31135470"/>
-        <updated>2022-04-23T16:03:09.000Z</updated>
-        <summary type="html"><![CDATA[XTDB]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looper: 用於產品決策的Meta端到端ML平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=31135368</id>
-        <link href="https://news.ycombinator.com/item?id=31135368"/>
-        <updated>2022-04-23T15:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Looper: Meta end-to-end ML platform for product decisions]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源軟件如何為更有競爭力的商業模式鋪平道路]]></title>
-        <id>https://news.ycombinator.com/item?id=31134856</id>
-        <link href="https://news.ycombinator.com/item?id=31134856"/>
-        <updated>2022-04-23T15:04:55.000Z</updated>
-        <summary type="html"><![CDATA[How Open Source Software Is Paving the Way for More Competitive Business Models]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能工具準確預測癌症患者的腫瘤再生長]]></title>
-        <id>https://news.ycombinator.com/item?id=31134845</id>
-        <link href="https://news.ycombinator.com/item?id=31134845"/>
-        <updated>2022-04-23T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[AI tool accurately predicts tumour regrowth in cancer patients]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
