@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T07:00:28.766Z</updated>
+    <updated>2022-04-25T07:13:38.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事件響應是不夠的]]></title>
+        <id>https://news.ycombinator.com/item?id=31151358</id>
+        <link href="https://news.ycombinator.com/item?id=31151358"/>
+        <updated>2022-04-25T06:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Incident Response Isn't Enough]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT工具--希望得到反饋]]></title>
         <id>https://news.ycombinator.com/item?id=31150817</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LichenStone</name>
             <uri>https://news.ycombinator.com/user?id=LichenStone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熔岩燈對互聯網加密有什麼幫助？]]></title>
-        <id>https://news.ycombinator.com/item?id=31133795</id>
-        <link href="https://news.ycombinator.com/item?id=31133795"/>
-        <updated>2022-04-23T12:45:20.000Z</updated>
-        <summary type="html"><![CDATA[How do lava lamps help with Internet encryption?]]></summary>
-        <author>
-            <name>JeremyTheo</name>
-            <uri>https://news.ycombinator.com/user?id=JeremyTheo</uri>
         </author>
     </entry>
 </feed>
