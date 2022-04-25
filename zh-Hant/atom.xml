@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T22:51:46.226Z</updated>
+    <updated>2022-04-25T23:13:43.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大學的護士們宣佈罷工]]></title>
+        <id>https://news.ycombinator.com/item?id=31161960</id>
+        <link href="https://news.ycombinator.com/item?id=31161960"/>
+        <updated>2022-04-25T23:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Stanford Nurses Announce Strike]]></summary>
+        <author>
+            <name>Elof</name>
+            <uri>https://news.ycombinator.com/user?id=Elof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奧姆-馬利克 惡霸講壇--埃隆-馬斯克為何要收購Twitter]]></title>
+        <id>https://news.ycombinator.com/item?id=31161861</id>
+        <link href="https://news.ycombinator.com/item?id=31161861"/>
+        <updated>2022-04-25T22:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Om Malik: Bully Pulpit – Why Elon Musk Is Buying Twitter]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自稱是約翰-迪羅裡安失散多年的兒子的男子稱塔利班想僱用他]]></title>
+        <id>https://news.ycombinator.com/item?id=31161785</id>
+        <link href="https://news.ycombinator.com/item?id=31161785"/>
+        <updated>2022-04-25T22:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Man Claiming to Be John DeLorean’s Long Lost Son Says Taliban Wants to Hire Him]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經營Twitter要讓埃隆-馬斯克失望了]]></title>
+        <id>https://news.ycombinator.com/item?id=31161500</id>
+        <link href="https://news.ycombinator.com/item?id=31161500"/>
+        <updated>2022-04-25T22:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Running Twitter Is Going to Disappoint Elon Musk]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["讓Twitter成為Covid精神病患者、比特幣瘋子的聖地"]]></title>
+        <id>https://news.ycombinator.com/item?id=31161471</id>
+        <link href="https://news.ycombinator.com/item?id=31161471"/>
+        <updated>2022-04-25T22:17:27.000Z</updated>
+        <summary type="html"><![CDATA[“Letting Twitter become the mecca for Covid psychopaths, Bitcoin loonies”]]></summary>
+        <author>
+            <name>DantesKite</name>
+            <uri>https://news.ycombinator.com/user?id=DantesKite</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博終端不能被終止]]></title>
+        <id>https://news.ycombinator.com/item?id=31161446</id>
+        <link href="https://news.ycombinator.com/item?id=31161446"/>
+        <updated>2022-04-25T22:14:57.000Z</updated>
+        <summary type="html"><![CDATA[The Bloomberg Terminal can’t be terminated]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使你的API向後兼容（Web、REST、HTTP等）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31161134</id>
+        <link href="https://news.ycombinator.com/item?id=31161134"/>
+        <updated>2022-04-25T21:48:28.000Z</updated>
+        <summary type="html"><![CDATA[How to make your API backward compatible (Web, REST, HTTP, etc.)]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣空投。用零知識證明保護隱私]]></title>
+        <id>https://news.ycombinator.com/item?id=31161093</id>
+        <link href="https://news.ycombinator.com/item?id=31161093"/>
+        <updated>2022-04-25T21:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Airdrop: Protecting Privacy with Zero Knowledge Proofs]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在666個最受歡迎的Python GitHub倉庫中，有10%存在這些f-string bug]]></title>
         <id>https://news.ycombinator.com/item?id=31161743</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卑微的頁碼]]></title>
-        <id>https://news.ycombinator.com/item?id=31145862</id>
-        <link href="https://news.ycombinator.com/item?id=31145862"/>
-        <updated>2022-04-24T16:59:27.000Z</updated>
-        <summary type="html"><![CDATA[The lowly page number]]></summary>
-        <author>
-            <name>hobble</name>
-            <uri>https://news.ycombinator.com/user?id=hobble</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每米5939美元 "發燒友認可的 "主線電纜]]></title>
-        <id>https://news.ycombinator.com/item?id=31145767</id>
-        <link href="https://news.ycombinator.com/item?id=31145767"/>
-        <updated>2022-04-24T16:47:21.000Z</updated>
-        <summary type="html"><![CDATA[$5939 per meter "Audiophile Approved" Mains Cable]]></summary>
-        <author>
-            <name>amelius</name>
-            <uri>https://news.ycombinator.com/user?id=amelius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在策略文件與策略數據庫中存儲訪問策略]]></title>
-        <id>https://news.ycombinator.com/item?id=31145747</id>
-        <link href="https://news.ycombinator.com/item?id=31145747"/>
-        <updated>2022-04-24T16:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Storing Access Policies in Policy Files vs. a Policy Database]]></summary>
-        <author>
-            <name>akajla</name>
-            <uri>https://news.ycombinator.com/user?id=akajla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大的氦氣開採]]></title>
-        <id>https://news.ycombinator.com/item?id=31145742</id>
-        <link href="https://news.ycombinator.com/item?id=31145742"/>
-        <updated>2022-04-24T16:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Helium Mining in Canada]]></summary>
-        <author>
-            <name>heliumroam</name>
-            <uri>https://news.ycombinator.com/user?id=heliumroam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌稱對谷歌硬盤的Linux支持要 "抓緊 "10年了]]></title>
-        <id>https://news.ycombinator.com/item?id=31145709</id>
-        <link href="https://news.ycombinator.com/item?id=31145709"/>
-        <updated>2022-04-24T16:40:13.000Z</updated>
-        <summary type="html"><![CDATA[10 years since Google said to “hang tight” about Linux support for Google Drive]]></summary>
-        <author>
-            <name>politelemon</name>
-            <uri>https://news.ycombinator.com/user?id=politelemon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國陸軍的一項新演習將測試有史以來最大的互動式無人機群]]></title>
-        <id>https://news.ycombinator.com/item?id=31145573</id>
-        <link href="https://news.ycombinator.com/item?id=31145573"/>
-        <updated>2022-04-24T16:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A new US Army exercise will test the biggest interactive drone swarm ever]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼袋鼠會出現在印度？]]></title>
-        <id>https://news.ycombinator.com/item?id=31145396</id>
-        <link href="https://news.ycombinator.com/item?id=31145396"/>
-        <updated>2022-04-24T16:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Why Are Kangaroos Turning Up in India?]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝塞默工藝。它是什麼以及它如何改變了歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=31145291</id>
-        <link href="https://news.ycombinator.com/item?id=31145291"/>
-        <updated>2022-04-24T15:58:23.000Z</updated>
-        <summary type="html"><![CDATA[The Bessemer Process: What It Is and How It Changed History]]></summary>
-        <author>
-            <name>spenrose</name>
-            <uri>https://news.ycombinator.com/user?id=spenrose</uri>
         </author>
     </entry>
 </feed>
