@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T22:46:21.001Z</updated>
+    <updated>2022-04-25T22:51:46.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在666個最受歡迎的Python GitHub倉庫中，有10%存在這些f-string bug]]></title>
+        <id>https://news.ycombinator.com/item?id=31161743</id>
+        <link href="https://news.ycombinator.com/item?id=31161743"/>
+        <updated>2022-04-25T22:41:10.000Z</updated>
+        <summary type="html"><![CDATA[10% of the 666 most popular Python GitHub repos have these f-string bugs]]></summary>
+        <author>
+            <name>rikatee</name>
+            <uri>https://news.ycombinator.com/user?id=rikatee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常見的REX陷阱]]></title>
+        <id>https://news.ycombinator.com/item?id=31161704</id>
+        <link href="https://news.ycombinator.com/item?id=31161704"/>
+        <updated>2022-04-25T22:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Common REXX Pitfalls]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta合作使用有條件的VAE來配製低碳水泥]]></title>
         <id>https://news.ycombinator.com/item?id=31161664</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>spenrose</name>
             <uri>https://news.ycombinator.com/user?id=spenrose</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從未想過乘坐戰鬥機的男子意外彈射出自己的身體]]></title>
-        <id>https://news.ycombinator.com/item?id=31145266</id>
-        <link href="https://news.ycombinator.com/item?id=31145266"/>
-        <updated>2022-04-24T15:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Man who never wanted to ride in fighter jet accidentally ejects himself]]></summary>
-        <author>
-            <name>curmudgeon22</name>
-            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg。添加JPEG XL作為image2格式]]></title>
-        <id>https://news.ycombinator.com/item?id=31144308</id>
-        <link href="https://news.ycombinator.com/item?id=31144308"/>
-        <updated>2022-04-24T14:26:42.000Z</updated>
-        <summary type="html"><![CDATA[FFmpeg: Add JPEG XL as image2 format]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>

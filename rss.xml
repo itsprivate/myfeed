@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 22:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在666个最受欢迎的Python GitHub仓库中，有10%存在这些f-string bug]]></title>
+            <link>https://news.ycombinator.com/item?id=31161743</link>
+            <guid>https://news.ycombinator.com/item?id=31161743</guid>
+            <pubDate>Mon, 25 Apr 2022 22:41:10 GMT</pubDate>
+            <description><![CDATA[10% of the 666 most popular Python GitHub repos have these f-string bugs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[常见的REX陷阱]]></title>
+            <link>https://news.ycombinator.com/item?id=31161704</link>
+            <guid>https://news.ycombinator.com/item?id=31161704</guid>
+            <pubDate>Mon, 25 Apr 2022 22:36:09 GMT</pubDate>
+            <description><![CDATA[Common REXX Pitfalls]]></description>
+        </item>
         <item>
             <title><![CDATA[Meta合作使用有条件的VAE来配制低碳水泥]]></title>
             <link>https://news.ycombinator.com/item?id=31161664</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31145291</guid>
             <pubDate>Sun, 24 Apr 2022 15:58:23 GMT</pubDate>
             <description><![CDATA[The Bessemer Process: What It Is and How It Changed History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从未想过乘坐战斗机的男子意外弹射出自己的身体]]></title>
-            <link>https://news.ycombinator.com/item?id=31145266</link>
-            <guid>https://news.ycombinator.com/item?id=31145266</guid>
-            <pubDate>Sun, 24 Apr 2022 15:56:46 GMT</pubDate>
-            <description><![CDATA[Man who never wanted to ride in fighter jet accidentally ejects himself]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FFmpeg。添加JPEG XL作为image2格式]]></title>
-            <link>https://news.ycombinator.com/item?id=31144308</link>
-            <guid>https://news.ycombinator.com/item?id=31144308</guid>
-            <pubDate>Sun, 24 Apr 2022 14:26:42 GMT</pubDate>
-            <description><![CDATA[FFmpeg: Add JPEG XL as image2 format]]></description>
         </item>
     </channel>
 </rss>
