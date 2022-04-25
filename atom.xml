@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T05:02:46.375Z</updated>
+    <updated>2022-04-25T05:19:01.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[彼得-泰尔想给自己注射年轻人的血液 (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=31150890</id>
+        <link href="https://news.ycombinator.com/item?id=31150890"/>
+        <updated>2022-04-25T05:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Peter Thiel Wants to Inject Himself with Young People’s Blood (2016)]]></summary>
+        <author>
+            <name>falconroar</name>
+            <uri>https://news.ycombinator.com/user?id=falconroar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迫于股东压力，Twitter开始与马斯克进行交易谈判]]></title>
+        <id>https://news.ycombinator.com/item?id=31150692</id>
+        <link href="https://news.ycombinator.com/item?id=31150692"/>
+        <updated>2022-04-25T04:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Twitter, under shareholder pressure, begins deal talks with Musk]]></summary>
+        <author>
+            <name>grawprog</name>
+            <uri>https://news.ycombinator.com/user?id=grawprog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使得shell脚本出现性能问题的一些事情]]></title>
         <id>https://news.ycombinator.com/item?id=31150788</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1918-1945年战场上的充气式假坦克]]></title>
-        <id>https://news.ycombinator.com/item?id=31134290</id>
-        <link href="https://news.ycombinator.com/item?id=31134290"/>
-        <updated>2022-04-23T13:54:24.000Z</updated>
-        <summary type="html"><![CDATA[The inflatable dummy tanks of battlefields, 1918-1945]]></summary>
-        <author>
-            <name>ZeljkoS</name>
-            <uri>https://news.ycombinator.com/user?id=ZeljkoS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K8s冰山]]></title>
-        <id>https://news.ycombinator.com/item?id=31134248</id>
-        <link href="https://news.ycombinator.com/item?id=31134248"/>
-        <updated>2022-04-23T13:48:56.000Z</updated>
-        <summary type="html"><![CDATA[K8s Iceberg]]></summary>
-        <author>
-            <name>tutunak</name>
-            <uri>https://news.ycombinator.com/user?id=tutunak</uri>
         </author>
     </entry>
 </feed>
