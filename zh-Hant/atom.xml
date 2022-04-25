@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-25T21:52:26.073Z</updated>
+    <updated>2022-04-25T22:12:58.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉超越目標，埃隆-馬斯克準備領取230億美元的獎金]]></title>
+        <id>https://news.ycombinator.com/item?id=31160911</id>
+        <link href="https://news.ycombinator.com/item?id=31160911"/>
+        <updated>2022-04-25T21:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk poised to collect $23bn bonus as Tesla beats targets]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完美自省的危險 (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=31160883</id>
+        <link href="https://news.ycombinator.com/item?id=31160883"/>
+        <updated>2022-04-25T21:28:18.000Z</updated>
+        <summary type="html"><![CDATA[The Perils Of Perfect Introspection (2013)]]></summary>
+        <author>
+            <name>optimalsolver</name>
+            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF和Matt Levine談如何在加密貨幣中賺錢]]></title>
+        <id>https://news.ycombinator.com/item?id=31160647</id>
+        <link href="https://news.ycombinator.com/item?id=31160647"/>
+        <updated>2022-04-25T21:10:06.000Z</updated>
+        <summary type="html"><![CDATA[SBF and Matt Levine on How to Make Money in Crypto]]></summary>
+        <author>
+            <name>pattusk</name>
+            <uri>https://news.ycombinator.com/user?id=pattusk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特全員出動]]></title>
+        <id>https://news.ycombinator.com/item?id=31160540</id>
+        <link href="https://news.ycombinator.com/item?id=31160540"/>
+        <updated>2022-04-25T21:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Twitter All-Hands Now]]></summary>
+        <author>
+            <name>mzs</name>
+            <uri>https://news.ycombinator.com/user?id=mzs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用BPF的每個應用的合理可靠的流量監控]]></title>
         <id>https://news.ycombinator.com/item?id=31160863</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樹莓派剛剛做了一個大的改變以提高安全性]]></title>
-        <id>https://news.ycombinator.com/item?id=31145402</id>
-        <link href="https://news.ycombinator.com/item?id=31145402"/>
-        <updated>2022-04-24T16:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi just made a big change to boost security]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡爾-哈特。哥倫比亞大學教授、慈愛的父親、負責任的海洛因使用者]]></title>
-        <id>https://news.ycombinator.com/item?id=31145393</id>
-        <link href="https://news.ycombinator.com/item?id=31145393"/>
-        <updated>2022-04-24T16:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Carl Hart: Columbia Professor, Loving Father, Responsible Heroin User]]></summary>
-        <author>
-            <name>ErikVandeWater</name>
-            <uri>https://news.ycombinator.com/user?id=ErikVandeWater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果已經在研發M3芯片了]]></title>
-        <id>https://news.ycombinator.com/item?id=31145287</id>
-        <link href="https://news.ycombinator.com/item?id=31145287"/>
-        <updated>2022-04-24T15:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Apple is already working on the M3 chip]]></summary>
-        <author>
-            <name>galogon</name>
-            <uri>https://news.ycombinator.com/user?id=galogon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單元測試Cloudflare Workers (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=31145181</id>
-        <link href="https://news.ycombinator.com/item?id=31145181"/>
-        <updated>2022-04-24T15:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Unit testing Cloudflare Workers (2019)]]></summary>
-        <author>
-            <name>jonjlee</name>
-            <uri>https://news.ycombinator.com/user?id=jonjlee</uri>
         </author>
     </entry>
 </feed>
