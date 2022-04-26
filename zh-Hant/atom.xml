@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T14:32:36.932Z</updated>
+    <updated>2022-04-26T14:41:22.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大學是我人生中最大的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=31167959</id>
+        <link href="https://news.ycombinator.com/item?id=31167959"/>
+        <updated>2022-04-26T14:34:12.000Z</updated>
+        <summary type="html"><![CDATA[College Was the Biggest Mistake of My Life]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite是如何被測試的。SQLite背後的可靠性和穩健性]]></title>
+        <id>https://news.ycombinator.com/item?id=31167927</id>
+        <link href="https://news.ycombinator.com/item?id=31167927"/>
+        <updated>2022-04-26T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[How SQLite Is Tested: The reliability and robustness behind SQLite]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼千禧一代幾乎不可能買房？]]></title>
+        <id>https://news.ycombinator.com/item?id=31167922</id>
+        <link href="https://news.ycombinator.com/item?id=31167922"/>
+        <updated>2022-04-26T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Why It’s Nearly Impossible for Millennials to Buy a Home]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCC（Master Chief Collection）服務器事件摘要]]></title>
+        <id>https://news.ycombinator.com/item?id=31167900</id>
+        <link href="https://news.ycombinator.com/item?id=31167900"/>
+        <updated>2022-04-26T14:29:25.000Z</updated>
+        <summary type="html"><![CDATA[MCC (Master Chief Collection) Server Incident Summary]]></summary>
+        <author>
+            <name>DivisionSol</name>
+            <uri>https://news.ycombinator.com/user?id=DivisionSol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[處於十字路口的《紐約時報》書評]]></title>
         <id>https://news.ycombinator.com/item?id=31167819</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ritama2</name>
             <uri>https://news.ycombinator.com/user?id=ritama2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何讓你的思想喋喋不休地安靜下來 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31151546</id>
-        <link href="https://news.ycombinator.com/item?id=31151546"/>
-        <updated>2022-04-25T07:35:57.000Z</updated>
-        <summary type="html"><![CDATA[How to Quiet Your Mind Chatter (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[售價80.5萬美元的房屋帶有陌生人住在地下室的功能]]></title>
-        <id>https://news.ycombinator.com/item?id=31151545</id>
-        <link href="https://news.ycombinator.com/item?id=31151545"/>
-        <updated>2022-04-25T07:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Home that sold for $805K comes with stranger living in basement]]></summary>
-        <author>
-            <name>gshakir</name>
-            <uri>https://news.ycombinator.com/user?id=gshakir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣佈Hare編程語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31151591</id>
-        <link href="https://news.ycombinator.com/item?id=31151591"/>
-        <updated>2022-04-25T07:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the Hare programming language]]></summary>
-        <author>
-            <name>ddevault</name>
-            <uri>https://news.ycombinator.com/user?id=ddevault</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Ultra的矩陣乘法性能提高了近一倍]]></title>
-        <id>https://news.ycombinator.com/item?id=31151561</id>
-        <link href="https://news.ycombinator.com/item?id=31151561"/>
-        <updated>2022-04-25T07:38:11.000Z</updated>
-        <summary type="html"><![CDATA[M1 Ultra nearly doubles matrix multiplication performance]]></summary>
-        <author>
-            <name>danieldk</name>
-            <uri>https://news.ycombinator.com/user?id=danieldk</uri>
         </author>
     </entry>
 </feed>
