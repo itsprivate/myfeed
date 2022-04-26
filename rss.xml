@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在无服务器环境中用keepalive重用连接]]></title>
+            <link>https://news.ycombinator.com/item?id=31164818</link>
+            <guid>https://news.ycombinator.com/item?id=31164818</guid>
+            <pubDate>Tue, 26 Apr 2022 07:04:51 GMT</pubDate>
+            <description><![CDATA[Reusing connections with keepalive in serverless environments]]></description>
+        </item>
         <item>
             <title><![CDATA[Siegfried Hecker: 普京已经破坏了世界核秩序]]></title>
             <link>https://news.ycombinator.com/item?id=31164814</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31148607</guid>
             <pubDate>Sun, 24 Apr 2022 21:42:09 GMT</pubDate>
             <description><![CDATA[Implementing a Transputer system using RasPi Pico and RAM expansion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[劈开巨石]]></title>
-            <link>https://news.ycombinator.com/item?id=31147974</link>
-            <guid>https://news.ycombinator.com/item?id=31147974</guid>
-            <pubDate>Sun, 24 Apr 2022 20:26:22 GMT</pubDate>
-            <description><![CDATA[Chopping the Monolith]]></description>
         </item>
     </channel>
 </rss>
