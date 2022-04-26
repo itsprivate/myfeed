@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:53:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一项新法案将限制雇主的间谍活动]]></title>
+            <link>https://news.ycombinator.com/item?id=31165184</link>
+            <guid>https://news.ycombinator.com/item?id=31165184</guid>
+            <pubDate>Tue, 26 Apr 2022 08:21:33 GMT</pubDate>
+            <description><![CDATA[A new bill would limit employer spying]]></description>
+        </item>
         <item>
             <title><![CDATA[用真实的数据为你的开发数据库播种的工具]]></title>
             <link>https://news.ycombinator.com/item?id=31165538</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31149227</guid>
             <pubDate>Sun, 24 Apr 2022 23:26:26 GMT</pubDate>
             <description><![CDATA[Is it worth being wise? (2007)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软删除是很乏味的。一个没有损失的理想删除是否存在？(2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=31148877</link>
-            <guid>https://news.ycombinator.com/item?id=31148877</guid>
-            <pubDate>Sun, 24 Apr 2022 22:24:03 GMT</pubDate>
-            <description><![CDATA[Soft deletes are tedious. Does an ideal deletion without loss even exist? (2021)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T09:46:12.803Z</updated>
+    <updated>2022-04-26T09:53:14.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一項新法案將限制僱主的間諜活動]]></title>
+        <id>https://news.ycombinator.com/item?id=31165184</id>
+        <link href="https://news.ycombinator.com/item?id=31165184"/>
+        <updated>2022-04-26T08:21:33.000Z</updated>
+        <summary type="html"><![CDATA[A new bill would limit employer spying]]></summary>
+        <author>
+            <name>stanislavb</name>
+            <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用真實的數據為你的開發數據庫播種的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31165538</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ZainRiz</name>
             <uri>https://news.ycombinator.com/user?id=ZainRiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟刪除是很乏味的。一個沒有損失的理想刪除是否存在？(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31148877</id>
-        <link href="https://news.ycombinator.com/item?id=31148877"/>
-        <updated>2022-04-24T22:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Soft deletes are tedious. Does an ideal deletion without loss even exist? (2021)]]></summary>
-        <author>
-            <name>mrtedbear</name>
-            <uri>https://news.ycombinator.com/user?id=mrtedbear</uri>
         </author>
     </entry>
 </feed>
