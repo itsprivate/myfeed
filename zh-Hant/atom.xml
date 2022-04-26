@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T05:35:48.843Z</updated>
+    <updated>2022-04-26T05:51:40.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[平臺在變，但很酷的URI卻不會變]]></title>
+        <id>https://news.ycombinator.com/item?id=31164240</id>
+        <link href="https://news.ycombinator.com/item?id=31164240"/>
+        <updated>2022-04-26T05:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Platforms change but cool URIs don't]]></summary>
+        <author>
+            <name>wavelander</name>
+            <uri>https://news.ycombinator.com/user?id=wavelander</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斷頭臺(Git.io後端)]]></title>
+        <id>https://news.ycombinator.com/item?id=31164211</id>
+        <link href="https://news.ycombinator.com/item?id=31164211"/>
+        <updated>2022-04-26T05:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Guillotine (Git.io Back End)]]></summary>
+        <author>
+            <name>zinekeller</name>
+            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彼得-蒂爾在2022年的一次審查中為零]]></title>
+        <id>https://news.ycombinator.com/item?id=31164209</id>
+        <link href="https://news.ycombinator.com/item?id=31164209"/>
+        <updated>2022-04-26T05:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Peter Thiel Zero to one review in 2022]]></summary>
+        <author>
+            <name>hgalleria</name>
+            <uri>https://news.ycombinator.com/user?id=hgalleria</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富達公司允許退休儲蓄者將比特幣存入401(k)賬戶]]></title>
+        <id>https://news.ycombinator.com/item?id=31164097</id>
+        <link href="https://news.ycombinator.com/item?id=31164097"/>
+        <updated>2022-04-26T05:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Fidelity to Allow Retirement Savers to Put Bitcoin in 401(k) Accounts]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於樹莓派的實時聲學鳥類分類系統]]></title>
+        <id>https://news.ycombinator.com/item?id=31163308</id>
+        <link href="https://news.ycombinator.com/item?id=31163308"/>
+        <updated>2022-04-26T02:24:25.000Z</updated>
+        <summary type="html"><![CDATA[A realtime acoustic bird classification system for the Raspberry Pi]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將蟾蜍與死藤水合用的相關風險]]></title>
         <id>https://news.ycombinator.com/item?id=31164208</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於WASM的Go模板語言的遊戲場]]></title>
-        <id>https://news.ycombinator.com/item?id=31148443</id>
-        <link href="https://news.ycombinator.com/item?id=31148443"/>
-        <updated>2022-04-24T21:19:33.000Z</updated>
-        <summary type="html"><![CDATA[WASM-based playground for the Go template language]]></summary>
-        <author>
-            <name>kujenga</name>
-            <uri>https://news.ycombinator.com/user?id=kujenga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysdig。用 "風險聚焦 "對風險進行優先排序]]></title>
-        <id>https://news.ycombinator.com/item?id=31148360</id>
-        <link href="https://news.ycombinator.com/item?id=31148360"/>
-        <updated>2022-04-24T21:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Sysdig: Prioritizing Risk with Risk Spotlight]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance向普京政權提供反對派領導人納瓦爾尼的捐助者信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31148614</id>
-        <link href="https://news.ycombinator.com/item?id=31148614"/>
-        <updated>2022-04-24T21:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance gave Putin regime information on donors to opposition leader Navalny]]></summary>
-        <author>
-            <name>mhoad</name>
-            <uri>https://news.ycombinator.com/user?id=mhoad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛羅里達州拒收的教科書內幕一覽]]></title>
-        <id>https://news.ycombinator.com/item?id=31148588</id>
-        <link href="https://news.ycombinator.com/item?id=31148588"/>
-        <updated>2022-04-24T21:39:46.000Z</updated>
-        <summary type="html"><![CDATA[A Look Inside the Textbooks That Florida Rejected]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們開發出快速的新方法，將玻璃3D打印成頭髮絲般薄的部件]]></title>
-        <id>https://news.ycombinator.com/item?id=31148583</id>
-        <link href="https://news.ycombinator.com/item?id=31148583"/>
-        <updated>2022-04-24T21:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Scientists develop rapid new method of 3D printing glass into hair-thin parts]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
         </author>
     </entry>
 </feed>
