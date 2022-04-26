@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国国家航空航天局（NASA）的Ingenuity直升机已在火星上停留1年]]></title>
+            <link>https://news.ycombinator.com/item?id=31164699</link>
+            <guid>https://news.ycombinator.com/item?id=31164699</guid>
+            <pubDate>Tue, 26 Apr 2022 06:45:51 GMT</pubDate>
+            <description><![CDATA[NASA’s Ingenuity helicopter has spent 1 year on Mars]]></description>
+        </item>
         <item>
             <title><![CDATA[在无服务器环境中用keepalive重用连接]]></title>
             <link>https://news.ycombinator.com/item?id=31164818</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31148654</guid>
             <pubDate>Sun, 24 Apr 2022 21:48:37 GMT</pubDate>
             <description><![CDATA[PID Controller-Based Stochastic Optimization Acceleration for Deep Neural Nets [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用RasPi Pico和RAM扩展实现一个透明人系统]]></title>
-            <link>https://news.ycombinator.com/item?id=31148607</link>
-            <guid>https://news.ycombinator.com/item?id=31148607</guid>
-            <pubDate>Sun, 24 Apr 2022 21:42:09 GMT</pubDate>
-            <description><![CDATA[Implementing a Transputer system using RasPi Pico and RAM expansion]]></description>
         </item>
     </channel>
 </rss>
