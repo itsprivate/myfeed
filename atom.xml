@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T10:14:12.847Z</updated>
+    <updated>2022-04-26T10:40:35.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[房间里的紫色大象。跨越式铁路的开通日期]]></title>
+        <id>https://news.ycombinator.com/item?id=31165633</id>
+        <link href="https://news.ycombinator.com/item?id=31165633"/>
+        <updated>2022-04-26T10:01:48.000Z</updated>
+        <summary type="html"><![CDATA[The Purple Elephant in the Room: Crossrail's Opening Date]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[像系统工程师一样交谈。一路走来的牦牛]]></title>
+        <id>https://news.ycombinator.com/item?id=31165617</id>
+        <link href="https://news.ycombinator.com/item?id=31165617"/>
+        <updated>2022-04-26T09:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Talk Like a Systems Engineer: Yaks All the Way Down]]></summary>
+        <author>
+            <name>Aissen</name>
+            <uri>https://news.ycombinator.com/user?id=Aissen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NitroWall。来自Nitrokey的防火墙]]></title>
+        <id>https://news.ycombinator.com/item?id=31165501</id>
+        <link href="https://news.ycombinator.com/item?id=31165501"/>
+        <updated>2022-04-26T09:30:56.000Z</updated>
+        <summary type="html"><![CDATA[NitroWall: Firewall from Nitrokey]]></summary>
+        <author>
+            <name>noja</name>
+            <uri>https://news.ycombinator.com/user?id=noja</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顺利的开发人员入职与代码可读性一样重要]]></title>
         <id>https://news.ycombinator.com/item?id=31165542</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>lsergei</name>
             <uri>https://news.ycombinator.com/user?id=lsergei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据物理学家和哲学家的说法，时间可能不存在--但这没关系]]></title>
-        <id>https://news.ycombinator.com/item?id=31149384</id>
-        <link href="https://news.ycombinator.com/item?id=31149384"/>
-        <updated>2022-04-24T23:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Time might not exist, according to physicists and philosophers – but that’s ok]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在罕见的采访中，《猴岛》设计师向《阿斯报》讲述了期待已久的《回归》。]]></title>
-        <id>https://news.ycombinator.com/item?id=31149355</id>
-        <link href="https://news.ycombinator.com/item?id=31149355"/>
-        <updated>2022-04-24T23:50:21.000Z</updated>
-        <summary type="html"><![CDATA[In rare interview, Monkey Island designers tell Ars about long-awaited Return]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前NSA人员艾特尔：打补丁是安全行业的 "想法和祈祷]]></title>
-        <id>https://news.ycombinator.com/item?id=31149247</id>
-        <link href="https://news.ycombinator.com/item?id=31149247"/>
-        <updated>2022-04-24T23:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Patching is security industry's 'thoughts and prayers': ex-NSA man Aitel]]></summary>
-        <author>
-            <name>hyperluz</name>
-            <uri>https://news.ycombinator.com/user?id=hyperluz</uri>
         </author>
     </entry>
 </feed>
