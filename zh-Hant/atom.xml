@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T19:37:05.680Z</updated>
+    <updated>2022-04-26T19:52:12.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過Cloudflare Zero Trust構建許多私人虛擬網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=31172216</id>
+        <link href="https://news.ycombinator.com/item?id=31172216"/>
+        <updated>2022-04-26T19:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Building many private virtual networks through Cloudflare Zero Trust]]></summary>
+        <author>
+            <name>eldridgea</name>
+            <uri>https://news.ycombinator.com/user?id=eldridgea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tsocket。無限制地啟動多個HTTP和TCP隧道]]></title>
+        <id>https://news.ycombinator.com/item?id=31172210</id>
+        <link href="https://news.ycombinator.com/item?id=31172210"/>
+        <updated>2022-04-26T19:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Tsocket: Launch multiple HTTP and TCP tunnels, without limitation]]></summary>
+        <author>
+            <name>makemyapp</name>
+            <uri>https://news.ycombinator.com/user?id=makemyapp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魯巴戈：實施你的個人制裁]]></title>
+        <id>https://news.ycombinator.com/item?id=31172159</id>
+        <link href="https://news.ycombinator.com/item?id=31172159"/>
+        <updated>2022-04-26T19:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Rubargo: Impose Your Personal Sanctions]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCAP: 一種用於任意序列化的pub/sub信息的容器文件格式]]></title>
+        <id>https://news.ycombinator.com/item?id=31172096</id>
+        <link href="https://news.ycombinator.com/item?id=31172096"/>
+        <updated>2022-04-26T19:32:59.000Z</updated>
+        <summary type="html"><![CDATA[MCAP: A container file format for pub/sub messages with arbitrary serialization]]></summary>
+        <author>
+            <name>jtbandes</name>
+            <uri>https://news.ycombinator.com/user?id=jtbandes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix的噩夢：當一個行業成為一個烏賊遊戲時會發生什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=31171360</id>
+        <link href="https://news.ycombinator.com/item?id=31171360"/>
+        <updated>2022-04-26T18:37:23.000Z</updated>
+        <summary type="html"><![CDATA[The Netflix Nightmare: What Happens When an Industry Becomes a Squid Game]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[動態，無噪音，屏幕空間漫反射全局照明]]></title>
         <id>https://news.ycombinator.com/item?id=31171944</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>janetacarr</name>
             <uri>https://news.ycombinator.com/user?id=janetacarr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樂趣與計算機科學 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=31156747</id>
-        <link href="https://news.ycombinator.com/item?id=31156747"/>
-        <updated>2022-04-25T16:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Fun vs. Computer Science (2016)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司想在其第一家實體店中向你出售元空間]]></title>
-        <id>https://news.ycombinator.com/item?id=31157403</id>
-        <link href="https://news.ycombinator.com/item?id=31157403"/>
-        <updated>2022-04-25T16:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Meta wants to sell you the metaverse in its first brick-and-mortar store]]></summary>
-        <author>
-            <name>ttyp3</name>
-            <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何發展B2B SaaS初創企業]]></title>
-        <id>https://news.ycombinator.com/item?id=31157360</id>
-        <link href="https://news.ycombinator.com/item?id=31157360"/>
-        <updated>2022-04-25T16:41:45.000Z</updated>
-        <summary type="html"><![CDATA[How to grow a B2B SaaS startup]]></summary>
-        <author>
-            <name>0xferruccio</name>
-            <uri>https://news.ycombinator.com/user?id=0xferruccio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漸進式交付推動快速反饋和洞察力]]></title>
-        <id>https://news.ycombinator.com/item?id=31157333</id>
-        <link href="https://news.ycombinator.com/item?id=31157333"/>
-        <updated>2022-04-25T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Progressive Delivery Drives Fast Feedback and Insights]]></summary>
-        <author>
-            <name>drodio</name>
-            <uri>https://news.ycombinator.com/user?id=drodio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登政府是否會讓一家公司扼殺美國太陽能？]]></title>
-        <id>https://news.ycombinator.com/item?id=31157241</id>
-        <link href="https://news.ycombinator.com/item?id=31157241"/>
-        <updated>2022-04-25T16:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Will the Biden administration let one company kill US solar?]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
         </author>
     </entry>
 </feed>
