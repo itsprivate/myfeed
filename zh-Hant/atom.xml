@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T09:53:14.872Z</updated>
+    <updated>2022-04-26T10:14:12.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[順利的開發人員入職與代碼可讀性一樣重要]]></title>
+        <id>https://news.ycombinator.com/item?id=31165542</id>
+        <link href="https://news.ycombinator.com/item?id=31165542"/>
+        <updated>2022-04-26T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Smooth Developer Onboarding Is as Important as Code Readability]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一項新法案將限制僱主的間諜活動]]></title>
         <id>https://news.ycombinator.com/item?id=31165184</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hyperluz</name>
             <uri>https://news.ycombinator.com/user?id=hyperluz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否值得明智？(2007)]]></title>
-        <id>https://news.ycombinator.com/item?id=31149227</id>
-        <link href="https://news.ycombinator.com/item?id=31149227"/>
-        <updated>2022-04-24T23:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Is it worth being wise? (2007)]]></summary>
-        <author>
-            <name>ZainRiz</name>
-            <uri>https://news.ycombinator.com/user?id=ZainRiz</uri>
         </author>
     </entry>
 </feed>
