@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,76 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[处于十字路口的《纽约时报》书评]]></title>
+            <link>https://news.ycombinator.com/item?id=31167819</link>
+            <guid>https://news.ycombinator.com/item?id=31167819</guid>
+            <pubDate>Tue, 26 Apr 2022 14:23:08 GMT</pubDate>
+            <description><![CDATA[The New York Times Book Review at a Crossroads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[风力发电的 "巨大的市场失败 "威胁着气候斗争]]></title>
+            <link>https://news.ycombinator.com/item?id=31167696</link>
+            <guid>https://news.ycombinator.com/item?id=31167696</guid>
+            <pubDate>Tue, 26 Apr 2022 14:13:13 GMT</pubDate>
+            <description><![CDATA[Wind Power’s ‘Colossal Market Failure’ Threatens Climate Fight]]></description>
+        </item>
+        <item>
+            <title><![CDATA[男子使用AirTags和PowerPoint演示文稿向航空公司索要其丢失的行李]]></title>
+            <link>https://news.ycombinator.com/item?id=31167600</link>
+            <guid>https://news.ycombinator.com/item?id=31167600</guid>
+            <pubDate>Tue, 26 Apr 2022 14:03:22 GMT</pubDate>
+            <description><![CDATA[Man uses AirTags and PowerPoint presentation to ask airline for his lost bags]]></description>
+        </item>
+        <item>
+            <title><![CDATA[颜色分类的挑战性任务]]></title>
+            <link>https://news.ycombinator.com/item?id=31167586</link>
+            <guid>https://news.ycombinator.com/item?id=31167586</guid>
+            <pubDate>Tue, 26 Apr 2022 14:02:42 GMT</pubDate>
+            <description><![CDATA[The challenging task of sorting colours]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉已经在一半的新车中使用无钴LFP电池]]></title>
+            <link>https://news.ycombinator.com/item?id=31167580</link>
+            <guid>https://news.ycombinator.com/item?id=31167580</guid>
+            <pubDate>Tue, 26 Apr 2022 14:02:12 GMT</pubDate>
+            <description><![CDATA[Tesla is already using cobalt-free LFP batteries in half of new cars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何阻止 "Covid错误信息 "的传播 - 46个问题]]></title>
+            <link>https://news.ycombinator.com/item?id=31167575</link>
+            <guid>https://news.ycombinator.com/item?id=31167575</guid>
+            <pubDate>Tue, 26 Apr 2022 14:01:31 GMT</pubDate>
+            <description><![CDATA[How to stop the spread of “Covid misinformation” – 46 questions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Xlibe：Haiku的无服务器Xlib（X11）兼容层]]></title>
+            <link>https://news.ycombinator.com/item?id=31167562</link>
+            <guid>https://news.ycombinator.com/item?id=31167562</guid>
+            <pubDate>Tue, 26 Apr 2022 14:00:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Xlibe: a serverless Xlib (X11) compatibility layer for Haiku]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CVE-2022-24706: Apache CouchDB远程权限升级]]></title>
+            <link>https://news.ycombinator.com/item?id=31167557</link>
+            <guid>https://news.ycombinator.com/item?id=31167557</guid>
+            <pubDate>Tue, 26 Apr 2022 14:00:20 GMT</pubDate>
+            <description><![CDATA[CVE-2022-24706: Apache CouchDB Remote Privilege Escalation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何制作双轮木制弩鱼]]></title>
+            <link>https://news.ycombinator.com/item?id=31167523</link>
+            <guid>https://news.ycombinator.com/item?id=31167523</guid>
+            <pubDate>Tue, 26 Apr 2022 13:57:11 GMT</pubDate>
+            <description><![CDATA[How to Make Double Wheels Wooden Crossbowfishing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[互联网档案馆25周年 [视频]]]></title>
+            <link>https://news.ycombinator.com/item?id=31167143</link>
+            <guid>https://news.ycombinator.com/item?id=31167143</guid>
+            <pubDate>Tue, 26 Apr 2022 13:21:54 GMT</pubDate>
+            <description><![CDATA[The Internet Archive at 25 [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[欧盟警告埃隆-马斯克关于推特的节制计划]]></title>
             <link>https://news.ycombinator.com/item?id=31167595</link>
@@ -4143,76 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31151561</guid>
             <pubDate>Mon, 25 Apr 2022 07:38:11 GMT</pubDate>
             <description><![CDATA[M1 Ultra nearly doubles matrix multiplication performance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kent Overstreet的.plan文件（bcachefs）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31151483</link>
-            <guid>https://news.ycombinator.com/item?id=31151483</guid>
-            <pubDate>Mon, 25 Apr 2022 07:22:16 GMT</pubDate>
-            <description><![CDATA[Kent Overstreet's .plan file (bcachefs)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reddit瘫痪了]]></title>
-            <link>https://news.ycombinator.com/item?id=31151439</link>
-            <guid>https://news.ycombinator.com/item?id=31151439</guid>
-            <pubDate>Mon, 25 Apr 2022 07:14:38 GMT</pubDate>
-            <description><![CDATA[Reddit Is Down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[macOS如何管理M1 CPU内核]]></title>
-            <link>https://news.ycombinator.com/item?id=31151393</link>
-            <guid>https://news.ycombinator.com/item?id=31151393</guid>
-            <pubDate>Mon, 25 Apr 2022 07:04:32 GMT</pubDate>
-            <description><![CDATA[How macOS manages M1 CPU cores]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Swift现在使用GitHub问题]]></title>
-            <link>https://news.ycombinator.com/item?id=31151383</link>
-            <guid>https://news.ycombinator.com/item?id=31151383</guid>
-            <pubDate>Mon, 25 Apr 2022 07:02:17 GMT</pubDate>
-            <description><![CDATA[Swift now uses GitHub Issues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fastify Edge: 使用Fastify成语来编写Cloudflare Workers]]></title>
-            <link>https://news.ycombinator.com/item?id=31151380</link>
-            <guid>https://news.ycombinator.com/item?id=31151380</guid>
-            <pubDate>Mon, 25 Apr 2022 07:01:36 GMT</pubDate>
-            <description><![CDATA[Fastify Edge: Use Fastify Idioms for Writing Cloudflare Workers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[侏罗纪公园》是一个糟糕的生物工程寓言，但却是一个伟大的人工智能调整寓言]]></title>
-            <link>https://news.ycombinator.com/item?id=31151261</link>
-            <guid>https://news.ycombinator.com/item?id=31151261</guid>
-            <pubDate>Mon, 25 Apr 2022 06:34:27 GMT</pubDate>
-            <description><![CDATA[Jurassic Park is a bad bioengineering parable but a great AI alignment allegory]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建设足够的住房需要一个不可能的联盟 (2020)]]></title>
-            <link>https://news.ycombinator.com/item?id=31151045</link>
-            <guid>https://news.ycombinator.com/item?id=31151045</guid>
-            <pubDate>Mon, 25 Apr 2022 05:43:38 GMT</pubDate>
-            <description><![CDATA[Building Enough Housing Requires an Unlikely Coalition (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个人嫁给了一个虚构的人物。他想让你听听他的意见]]></title>
-            <link>https://news.ycombinator.com/item?id=31150987</link>
-            <guid>https://news.ycombinator.com/item?id=31150987</guid>
-            <pubDate>Mon, 25 Apr 2022 05:28:40 GMT</pubDate>
-            <description><![CDATA[A Man Married a Fictional Character. He'd Like You to Hear Him Out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[出售我自己的GPL软件第3部分，现有技术（现有GPL软件出售）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31150662</link>
-            <guid>https://news.ycombinator.com/item?id=31150662</guid>
-            <pubDate>Mon, 25 Apr 2022 04:09:34 GMT</pubDate>
-            <description><![CDATA[Selling my own GPL software part 3, prior art (existing GPL software for sale)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[事件响应是不够的]]></title>
-            <link>https://news.ycombinator.com/item?id=31151358</link>
-            <guid>https://news.ycombinator.com/item?id=31151358</guid>
-            <pubDate>Mon, 25 Apr 2022 06:55:46 GMT</pubDate>
-            <description><![CDATA[Incident Response Isn't Enough]]></description>
         </item>
     </channel>
 </rss>
