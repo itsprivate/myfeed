@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-26T22:45:01.168Z</updated>
+    <updated>2022-04-26T22:51:19.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科技界員工比他們的僱主更自由(2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=31173985</id>
+        <link href="https://news.ycombinator.com/item?id=31173985"/>
+        <updated>2022-04-26T22:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Tech employees are much more liberal than their employers (2018)]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[資本主義的骯髒秘密--以及新的前進道路]]></title>
         <id>https://news.ycombinator.com/item?id=31174020</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gandhi00</name>
             <uri>https://news.ycombinator.com/user?id=gandhi00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年寫一個Linux內核的遙控器]]></title>
-        <id>https://news.ycombinator.com/item?id=31159036</id>
-        <link href="https://news.ycombinator.com/item?id=31159036"/>
-        <updated>2022-04-25T18:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Writing a Linux Kernel Remote in 2022]]></summary>
-        <author>
-            <name>ctoth</name>
-            <uri>https://news.ycombinator.com/user?id=ctoth</uri>
         </author>
     </entry>
 </feed>
