@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T07:53:01.951Z</updated>
+    <updated>2022-04-27T08:15:53.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我把新的Hare编译器移植到了OpenBSD上]]></title>
+        <id>https://news.ycombinator.com/item?id=31177468</id>
+        <link href="https://news.ycombinator.com/item?id=31177468"/>
+        <updated>2022-04-27T07:58:44.000Z</updated>
+        <summary type="html"><![CDATA[I ported the new Hare compiler to OpenBSD]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滥用RPi的GPIO引脚作为一个无线电控制器]]></title>
+        <id>https://news.ycombinator.com/item?id=31177456</id>
+        <link href="https://news.ycombinator.com/item?id=31177456"/>
+        <updated>2022-04-27T07:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Abusing RPi GPIO pins as a radio controller]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统计分析显示Echos处理语音以提供广告服务]]></title>
+        <id>https://news.ycombinator.com/item?id=31177454</id>
+        <link href="https://news.ycombinator.com/item?id=31177454"/>
+        <updated>2022-04-27T07:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Statistical Analysis shows Echos process voice to serve ads]]></summary>
+        <author>
+            <name>BeniBoy</name>
+            <uri>https://news.ycombinator.com/user?id=BeniBoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟主席就俄罗斯天然气公司中断天然气输送发表声明]]></title>
+        <id>https://news.ycombinator.com/item?id=31177434</id>
+        <link href="https://news.ycombinator.com/item?id=31177434"/>
+        <updated>2022-04-27T07:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Statement by EU president on Gazprom disruption of gas deliveries]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yacht - 用于管理Docker容器的网络接口]]></title>
+        <id>https://news.ycombinator.com/item?id=31177376</id>
+        <link href="https://news.ycombinator.com/item?id=31177376"/>
+        <updated>2022-04-27T07:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Yacht – A web interface for managing Docker containers]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究。亚马逊利用Echo智能音箱的对话来做目标广告]]></title>
         <id>https://news.ycombinator.com/item?id=31177367</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>yassini</name>
             <uri>https://news.ycombinator.com/user?id=yassini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSA：Git.io链接将在3天内停止工作（2022年4月29日）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31162829</id>
-        <link href="https://news.ycombinator.com/item?id=31162829"/>
-        <updated>2022-04-26T01:05:32.000Z</updated>
-        <summary type="html"><![CDATA[PSA: Git.io links will stop working in 3 days (29 of April 2022)]]></summary>
-        <author>
-            <name>dmarto</name>
-            <uri>https://news.ycombinator.com/user?id=dmarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要假装我们已经恢复正常 争取更清洁的空气以防止科维德的出现]]></title>
-        <id>https://news.ycombinator.com/item?id=31162775</id>
-        <link href="https://news.ycombinator.com/item?id=31162775"/>
-        <updated>2022-04-26T00:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Don’t pretend we’re back to normal fight for cleaner air to prevent Covid]]></summary>
-        <author>
-            <name>ogcricket</name>
-            <uri>https://news.ycombinator.com/user?id=ogcricket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对开源数据库的深刻洞察力]]></title>
-        <id>https://news.ycombinator.com/item?id=31162763</id>
-        <link href="https://news.ycombinator.com/item?id=31162763"/>
-        <updated>2022-04-26T00:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Deep Insight into Open Source Databases]]></summary>
-        <author>
-            <name>c4pt0r</name>
-            <uri>https://news.ycombinator.com/user?id=c4pt0r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在《最后的特普伊》中，生物学家和一名精英登山者联手寻找新物种]]></title>
-        <id>https://news.ycombinator.com/item?id=31162749</id>
-        <link href="https://news.ycombinator.com/item?id=31162749"/>
-        <updated>2022-04-26T00:53:50.000Z</updated>
-        <summary type="html"><![CDATA[Biologist and an elite climber team up to hunt for new species in The Last Tepui]]></summary>
-        <author>
-            <name>sjav</name>
-            <uri>https://news.ycombinator.com/user?id=sjav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元物理。脸书母公司将开设其第一家实体店]]></title>
-        <id>https://news.ycombinator.com/item?id=31162734</id>
-        <link href="https://news.ycombinator.com/item?id=31162734"/>
-        <updated>2022-04-26T00:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Meta physical: Facebook parent to open its first real-world store]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
