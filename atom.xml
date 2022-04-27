@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T15:58:42.965Z</updated>
+    <updated>2022-04-27T16:16:16.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[印度的热浪打破记录，仍在不断恶化]]></title>
+        <id>https://news.ycombinator.com/item?id=31181735</id>
+        <link href="https://news.ycombinator.com/item?id=31181735"/>
+        <updated>2022-04-27T16:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Heatwave in India breaks records, still worsening]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用Netflix Metaflow在Kubernetes上进行以人为本的数据科学研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31181678</id>
+        <link href="https://news.ycombinator.com/item?id=31181678"/>
+        <updated>2022-04-27T15:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Human-Centric Data Science on Kubernetes with Netflix Metaflow]]></summary>
+        <author>
+            <name>savin-goyal</name>
+            <uri>https://news.ycombinator.com/user?id=savin-goyal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荷兰赌博管理局对电子艺界，以及战利品箱的未来]]></title>
+        <id>https://news.ycombinator.com/item?id=31181488</id>
+        <link href="https://news.ycombinator.com/item?id=31181488"/>
+        <updated>2022-04-27T15:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Dutch Gambling Authority vs. Electronic Arts, and the future of loot boxes]]></summary>
+        <author>
+            <name>yosefjaved1</name>
+            <uri>https://news.ycombinator.com/user?id=yosefjaved1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[何时以及如何重新评估你的组织的安全态势]]></title>
+        <id>https://news.ycombinator.com/item?id=31181427</id>
+        <link href="https://news.ycombinator.com/item?id=31181427"/>
+        <updated>2022-04-27T15:44:05.000Z</updated>
+        <summary type="html"><![CDATA[When and How to Reevaluate Your Organization’s Security Posture]]></summary>
+        <author>
+            <name>CKMo</name>
+            <uri>https://news.ycombinator.com/user?id=CKMo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源项目现在就需要将他们的代码从GitHub迁移出去]]></title>
+        <id>https://news.ycombinator.com/item?id=31181089</id>
+        <link href="https://news.ycombinator.com/item?id=31181089"/>
+        <updated>2022-04-27T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Open source projects need to migrate their code away from GitHub NOW]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anker如何在他们自己的配件游戏中击败苹果和三星（2017年）]]></title>
         <id>https://news.ycombinator.com/item?id=31181448</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特员工对埃隆-马斯克的评价]]></title>
-        <id>https://news.ycombinator.com/item?id=31167083</id>
-        <link href="https://news.ycombinator.com/item?id=31167083"/>
-        <updated>2022-04-26T13:15:29.000Z</updated>
-        <summary type="html"><![CDATA[What Twitter employees are saying about Elon Musk]]></summary>
-        <author>
-            <name>CarCooler</name>
-            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成艺术。用递归深入研究]]></title>
-        <id>https://news.ycombinator.com/item?id=31167072</id>
-        <link href="https://news.ycombinator.com/item?id=31167072"/>
-        <updated>2022-04-26T13:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Generative Art: Dive Deeper with Recursion]]></summary>
-        <author>
-            <name>philk10</name>
-            <uri>https://news.ycombinator.com/user?id=philk10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用主题分类和情感可视化搜索HN故事]]></title>
-        <id>https://news.ycombinator.com/item?id=31167059</id>
-        <link href="https://news.ycombinator.com/item?id=31167059"/>
-        <updated>2022-04-26T13:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Search HN stories with topic classification and sentiment visualization]]></summary>
-        <author>
-            <name>mchmarny</name>
-            <uri>https://news.ycombinator.com/user?id=mchmarny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH现在默认为防止量子计算机的攻击。]]></title>
-        <id>https://news.ycombinator.com/item?id=31167038</id>
-        <link href="https://news.ycombinator.com/item?id=31167038"/>
-        <updated>2022-04-26T13:10:46.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSH now defaults to protecting against quantum computer attacks /]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zq：Jq的一个更容易（和更快）的替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=31166956</id>
-        <link href="https://news.ycombinator.com/item?id=31166956"/>
-        <updated>2022-04-26T13:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Zq: An Easier (and Faster) Alternative to Jq]]></summary>
-        <author>
-            <name>mccanne</name>
-            <uri>https://news.ycombinator.com/user?id=mccanne</uri>
         </author>
     </entry>
 </feed>
