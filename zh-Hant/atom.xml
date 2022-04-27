@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T05:04:03.125Z</updated>
+    <updated>2022-04-27T05:29:36.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用實際代碼進行IaC]]></title>
+        <id>https://news.ycombinator.com/item?id=31176619</id>
+        <link href="https://news.ycombinator.com/item?id=31176619"/>
+        <updated>2022-04-27T05:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Using Actual Code for IaC]]></summary>
+        <author>
+            <name>tholm</name>
+            <uri>https://news.ycombinator.com/user?id=tholm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞典機構在童婚手冊風波後出爾反爾]]></title>
+        <id>https://news.ycombinator.com/item?id=31175584</id>
+        <link href="https://news.ycombinator.com/item?id=31175584"/>
+        <updated>2022-04-27T02:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Swedish agency backtracks following child marriage brochure storm]]></summary>
+        <author>
+            <name>car_analogy</name>
+            <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌文檔的輔助文本功能在其包容性的語言建議中失敗了]]></title>
+        <id>https://news.ycombinator.com/item?id=31175397</id>
+        <link href="https://news.ycombinator.com/item?id=31175397"/>
+        <updated>2022-04-27T01:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs Assisted Text Feature Fails in Its Inclusive Language Suggestions]]></summary>
+        <author>
+            <name>blisterpeanuts</name>
+            <uri>https://news.ycombinator.com/user?id=blisterpeanuts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由600條DNA鏈組成的二維打印機，可以自己組合起來]]></title>
         <id>https://news.ycombinator.com/item?id=31176343</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Elof</name>
             <uri>https://news.ycombinator.com/user?id=Elof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧姆-馬利克 惡霸講壇--埃隆-馬斯克為何要收購Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=31161861</id>
-        <link href="https://news.ycombinator.com/item?id=31161861"/>
-        <updated>2022-04-25T22:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Om Malik: Bully Pulpit – Why Elon Musk Is Buying Twitter]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自稱是約翰-迪羅裡安失散多年的兒子的男子稱塔利班想僱用他]]></title>
-        <id>https://news.ycombinator.com/item?id=31161785</id>
-        <link href="https://news.ycombinator.com/item?id=31161785"/>
-        <updated>2022-04-25T22:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Man Claiming to Be John DeLorean’s Long Lost Son Says Taliban Wants to Hire Him]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[經營Twitter要讓埃隆-馬斯克失望了]]></title>
-        <id>https://news.ycombinator.com/item?id=31161500</id>
-        <link href="https://news.ycombinator.com/item?id=31161500"/>
-        <updated>2022-04-25T22:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Running Twitter Is Going to Disappoint Elon Musk]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
         </author>
     </entry>
 </feed>
