@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 27 Apr 2022 11:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 12:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速學習Common Lisp的系列教程]]></title>
+            <link>https://news.ycombinator.com/item?id=31178737</link>
+            <guid>https://news.ycombinator.com/item?id=31178737</guid>
+            <pubDate>Wed, 27 Apr 2022 11:48:32 GMT</pubDate>
+            <description><![CDATA[Tutorial Series to learn Common Lisp quickly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能的未來取決於模塊化設計]]></title>
+            <link>https://news.ycombinator.com/item?id=31178735</link>
+            <guid>https://news.ycombinator.com/item?id=31178735</guid>
+            <pubDate>Wed, 27 Apr 2022 11:47:54 GMT</pubDate>
+            <description><![CDATA[The future of AI depends on Modular design]]></description>
+        </item>
+        <item>
+            <title><![CDATA[組織如何像粘液黴菌]]></title>
+            <link>https://news.ycombinator.com/item?id=31178294</link>
+            <guid>https://news.ycombinator.com/item?id=31178294</guid>
+            <pubDate>Wed, 27 Apr 2022 10:32:27 GMT</pubDate>
+            <description><![CDATA[How organizations are like slime molds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[代幣經濟學。考慮代幣的速度 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=31178064</link>
+            <guid>https://news.ycombinator.com/item?id=31178064</guid>
+            <pubDate>Wed, 27 Apr 2022 09:43:40 GMT</pubDate>
+            <description><![CDATA[Token Economics: Considering Token Velocity [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[15年後，Facebook吸取了蘋果的教訓。這不會有好結果]]></title>
+            <link>https://news.ycombinator.com/item?id=31177766</link>
+            <guid>https://news.ycombinator.com/item?id=31177766</guid>
+            <pubDate>Wed, 27 Apr 2022 08:49:49 GMT</pubDate>
+            <description><![CDATA[After 15 Yrs, Facebook Takes a Page Out of Apple's Book. It's Not Gonna End Well]]></description>
+        </item>
+        <item>
+            <title><![CDATA[調查 "從影響者到流行明星 "的管道[視頻]]]></title>
+            <link>https://news.ycombinator.com/item?id=31177526</link>
+            <guid>https://news.ycombinator.com/item?id=31177526</guid>
+            <pubDate>Wed, 27 Apr 2022 08:06:12 GMT</pubDate>
+            <description><![CDATA[Investigating the “influencer to pop star” pipeline [video]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瓶裝水壟斷者承認回收是狗屁]]></title>
+            <link>https://news.ycombinator.com/item?id=31177460</link>
+            <guid>https://news.ycombinator.com/item?id=31177460</guid>
+            <pubDate>Wed, 27 Apr 2022 07:57:30 GMT</pubDate>
+            <description><![CDATA[Bottled water monopolist admits recycling is bullshit]]></description>
+        </item>
         <item>
             <title><![CDATA[追蹤埃隆-馬斯克飛機的青少年在交易後為推特賬戶制定了備份計劃]]></title>
             <link>https://news.ycombinator.com/item?id=31178714</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31164001</guid>
             <pubDate>Tue, 26 Apr 2022 04:44:48 GMT</pubDate>
             <description><![CDATA[Why Apple’s Steve Wozniak’s paradoxical plan to solve space junk just might work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工程化當前的事情]]></title>
-            <link>https://news.ycombinator.com/item?id=31163971</link>
-            <guid>https://news.ycombinator.com/item?id=31163971</guid>
-            <pubDate>Tue, 26 Apr 2022 04:36:36 GMT</pubDate>
-            <description><![CDATA[Engineering the Current Thing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alain Colmerauer（Prolog的創造者）的《Prolog探險》。]]></title>
-            <link>https://news.ycombinator.com/item?id=31163781</link>
-            <guid>https://news.ycombinator.com/item?id=31163781</guid>
-            <pubDate>Tue, 26 Apr 2022 03:55:46 GMT</pubDate>
-            <description><![CDATA[The Prolog Adventure by Alain Colmerauer (the Creator of Prolog)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[26歲的輟學者在對沖基金領域的發展（前Y-Combinator）)]]></title>
-            <link>https://news.ycombinator.com/item?id=31163979</link>
-            <guid>https://news.ycombinator.com/item?id=31163979</guid>
-            <pubDate>Tue, 26 Apr 2022 04:38:55 GMT</pubDate>
-            <description><![CDATA[The 26-Year-Old Dropout Lapping the Hedge-Fund Field (Ex Y-Combinator))]]></description>
-        </item>
-        <item>
-            <title><![CDATA[傑夫-貝佐斯談埃隆-馬斯克收購Twitter]]></title>
-            <link>https://news.ycombinator.com/item?id=31163956</link>
-            <guid>https://news.ycombinator.com/item?id=31163956</guid>
-            <pubDate>Tue, 26 Apr 2022 04:33:47 GMT</pubDate>
-            <description><![CDATA[Jeff Bezos on Elon Musk Buying Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寫作文化的工具 (2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=31163877</link>
-            <guid>https://news.ycombinator.com/item?id=31163877</guid>
-            <pubDate>Tue, 26 Apr 2022 04:14:54 GMT</pubDate>
-            <description><![CDATA[Tools for a Culture of Writing (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[電子學解釋。工程師、技術員和製造者的基礎知識]]></title>
-            <link>https://news.ycombinator.com/item?id=31163871</link>
-            <guid>https://news.ycombinator.com/item?id=31163871</guid>
-            <pubDate>Tue, 26 Apr 2022 04:13:04 GMT</pubDate>
-            <description><![CDATA[Electronics Explained: Fundamentals for Engineers, Technicians, and Makers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個關於GPU的驅動程序]]></title>
-            <link>https://news.ycombinator.com/item?id=31163672</link>
-            <guid>https://news.ycombinator.com/item?id=31163672</guid>
-            <pubDate>Tue, 26 Apr 2022 03:34:28 GMT</pubDate>
-            <description><![CDATA[A Driver on the GPU]]></description>
         </item>
     </channel>
 </rss>

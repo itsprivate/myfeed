@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T11:52:31.053Z</updated>
+    <updated>2022-04-27T12:20:20.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[快速學習Common Lisp的系列教程]]></title>
+        <id>https://news.ycombinator.com/item?id=31178737</id>
+        <link href="https://news.ycombinator.com/item?id=31178737"/>
+        <updated>2022-04-27T11:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Tutorial Series to learn Common Lisp quickly]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能的未來取決於模塊化設計]]></title>
+        <id>https://news.ycombinator.com/item?id=31178735</id>
+        <link href="https://news.ycombinator.com/item?id=31178735"/>
+        <updated>2022-04-27T11:47:54.000Z</updated>
+        <summary type="html"><![CDATA[The future of AI depends on Modular design]]></summary>
+        <author>
+            <name>tgymnich</name>
+            <uri>https://news.ycombinator.com/user?id=tgymnich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組織如何像粘液黴菌]]></title>
+        <id>https://news.ycombinator.com/item?id=31178294</id>
+        <link href="https://news.ycombinator.com/item?id=31178294"/>
+        <updated>2022-04-27T10:32:27.000Z</updated>
+        <summary type="html"><![CDATA[How organizations are like slime molds]]></summary>
+        <author>
+            <name>disgruntledphd2</name>
+            <uri>https://news.ycombinator.com/user?id=disgruntledphd2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代幣經濟學。考慮代幣的速度 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31178064</id>
+        <link href="https://news.ycombinator.com/item?id=31178064"/>
+        <updated>2022-04-27T09:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Token Economics: Considering Token Velocity [pdf]]]></summary>
+        <author>
+            <name>leonry</name>
+            <uri>https://news.ycombinator.com/user?id=leonry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15年後，Facebook吸取了蘋果的教訓。這不會有好結果]]></title>
+        <id>https://news.ycombinator.com/item?id=31177766</id>
+        <link href="https://news.ycombinator.com/item?id=31177766"/>
+        <updated>2022-04-27T08:49:49.000Z</updated>
+        <summary type="html"><![CDATA[After 15 Yrs, Facebook Takes a Page Out of Apple's Book. It's Not Gonna End Well]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調查 "從影響者到流行明星 "的管道[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=31177526</id>
+        <link href="https://news.ycombinator.com/item?id=31177526"/>
+        <updated>2022-04-27T08:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Investigating the “influencer to pop star” pipeline [video]]]></summary>
+        <author>
+            <name>exolymph</name>
+            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓶裝水壟斷者承認回收是狗屁]]></title>
+        <id>https://news.ycombinator.com/item?id=31177460</id>
+        <link href="https://news.ycombinator.com/item?id=31177460"/>
+        <updated>2022-04-27T07:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Bottled water monopolist admits recycling is bullshit]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追蹤埃隆-馬斯克飛機的青少年在交易後為推特賬戶制定了備份計劃]]></title>
         <id>https://news.ycombinator.com/item?id=31178714</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>sandebert</name>
             <uri>https://news.ycombinator.com/user?id=sandebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程化當前的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=31163971</id>
-        <link href="https://news.ycombinator.com/item?id=31163971"/>
-        <updated>2022-04-26T04:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Engineering the Current Thing]]></summary>
-        <author>
-            <name>paulorlando</name>
-            <uri>https://news.ycombinator.com/user?id=paulorlando</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alain Colmerauer（Prolog的創造者）的《Prolog探險》。]]></title>
-        <id>https://news.ycombinator.com/item?id=31163781</id>
-        <link href="https://news.ycombinator.com/item?id=31163781"/>
-        <updated>2022-04-26T03:55:46.000Z</updated>
-        <summary type="html"><![CDATA[The Prolog Adventure by Alain Colmerauer (the Creator of Prolog)]]></summary>
-        <author>
-            <name>matt_d</name>
-            <uri>https://news.ycombinator.com/user?id=matt_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26歲的輟學者在對沖基金領域的發展（前Y-Combinator）)]]></title>
-        <id>https://news.ycombinator.com/item?id=31163979</id>
-        <link href="https://news.ycombinator.com/item?id=31163979"/>
-        <updated>2022-04-26T04:38:55.000Z</updated>
-        <summary type="html"><![CDATA[The 26-Year-Old Dropout Lapping the Hedge-Fund Field (Ex Y-Combinator))]]></summary>
-        <author>
-            <name>jkuria</name>
-            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑夫-貝佐斯談埃隆-馬斯克收購Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=31163956</id>
-        <link href="https://news.ycombinator.com/item?id=31163956"/>
-        <updated>2022-04-26T04:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Jeff Bezos on Elon Musk Buying Twitter]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寫作文化的工具 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31163877</id>
-        <link href="https://news.ycombinator.com/item?id=31163877"/>
-        <updated>2022-04-26T04:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Tools for a Culture of Writing (2021)]]></summary>
-        <author>
-            <name>k_sze</name>
-            <uri>https://news.ycombinator.com/user?id=k_sze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子學解釋。工程師、技術員和製造者的基礎知識]]></title>
-        <id>https://news.ycombinator.com/item?id=31163871</id>
-        <link href="https://news.ycombinator.com/item?id=31163871"/>
-        <updated>2022-04-26T04:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Electronics Explained: Fundamentals for Engineers, Technicians, and Makers]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個關於GPU的驅動程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31163672</id>
-        <link href="https://news.ycombinator.com/item?id=31163672"/>
-        <updated>2022-04-26T03:34:28.000Z</updated>
-        <summary type="html"><![CDATA[A Driver on the GPU]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
         </author>
     </entry>
 </feed>
