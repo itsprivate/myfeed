@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T09:35:35.653Z</updated>
+    <updated>2022-04-27T09:46:18.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麻省理工學院的研究人員開發出一種紙質薄型揚聲器]]></title>
+        <id>https://news.ycombinator.com/item?id=31178022</id>
+        <link href="https://news.ycombinator.com/item?id=31178022"/>
+        <updated>2022-04-27T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers develop a paper thin loudspeaker]]></summary>
+        <author>
+            <name>go_prodev</name>
+            <uri>https://news.ycombinator.com/user?id=go_prodev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[託管的大型語言模型（DALL2、GPT-3和J-X）。]]></title>
         <id>https://news.ycombinator.com/item?id=31177969</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mathgenius</name>
             <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在成年後發現自己是自閉症患者，我很高興]]></title>
-        <id>https://news.ycombinator.com/item?id=31163064</id>
-        <link href="https://news.ycombinator.com/item?id=31163064"/>
-        <updated>2022-04-26T01:43:55.000Z</updated>
-        <summary type="html"><![CDATA[I Found Out I’m Autistic as an Adult and I’m Glad]]></summary>
-        <author>
-            <name>cebert</name>
-            <uri>https://news.ycombinator.com/user?id=cebert</uri>
         </author>
     </entry>
 </feed>
