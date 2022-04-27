@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T14:01:21.664Z</updated>
+    <updated>2022-04-27T14:13:43.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國人現在可以贊助烏克蘭人在美國的臨時避難所了]]></title>
+        <id>https://news.ycombinator.com/item?id=31179921</id>
+        <link href="https://news.ycombinator.com/item?id=31179921"/>
+        <updated>2022-04-27T13:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Americans Can Now Sponsor Ukrainians for Temporary Refuge in the U.S.]]></summary>
+        <author>
+            <name>niij</name>
+            <uri>https://news.ycombinator.com/user?id=niij</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個無言的人]]></title>
+        <id>https://news.ycombinator.com/item?id=31179912</id>
+        <link href="https://news.ycombinator.com/item?id=31179912"/>
+        <updated>2022-04-27T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[A Man Without Words]]></summary>
+        <author>
+            <name>monort</name>
+            <uri>https://news.ycombinator.com/user?id=monort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TPI - 用於ML和自我恢復現貨的Terraform供應商]]></title>
         <id>https://news.ycombinator.com/item?id=31179765</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>logifail</name>
             <uri>https://news.ycombinator.com/user?id=logifail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創業公司應做好準備應對困難時期]]></title>
-        <id>https://news.ycombinator.com/item?id=31165135</id>
-        <link href="https://news.ycombinator.com/item?id=31165135"/>
-        <updated>2022-04-26T08:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Startups Should Brace for Hard Times]]></summary>
-        <author>
-            <name>weatherlite</name>
-            <uri>https://news.ycombinator.com/user?id=weatherlite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯禁止國際象棋網站]]></title>
-        <id>https://news.ycombinator.com/item?id=31165325</id>
-        <link href="https://news.ycombinator.com/item?id=31165325"/>
-        <updated>2022-04-26T08:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Russia Bans Chess.com]]></summary>
-        <author>
-            <name>xz18r</name>
-            <uri>https://news.ycombinator.com/user?id=xz18r</uri>
         </author>
     </entry>
 </feed>
