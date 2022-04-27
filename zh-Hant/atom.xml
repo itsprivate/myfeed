@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T08:15:53.146Z</updated>
+    <updated>2022-04-27T08:38:56.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於Raspberry Pi的幾乎無硬件的射頻發射器]]></title>
+        <id>https://news.ycombinator.com/item?id=31177542</id>
+        <link href="https://news.ycombinator.com/item?id=31177542"/>
+        <updated>2022-04-27T08:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Almost hardwareless RF transmitter for Raspberry Pi]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[激活和使用Supabase GraphQL]]></title>
+        <id>https://news.ycombinator.com/item?id=31177538</id>
+        <link href="https://news.ycombinator.com/item?id=31177538"/>
+        <updated>2022-04-27T08:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Activate and Use Supabase GraphQL]]></summary>
+        <author>
+            <name>vhsdev</name>
+            <uri>https://news.ycombinator.com/user?id=vhsdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈斯喀爾類型的介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=31177474</id>
+        <link href="https://news.ycombinator.com/item?id=31177474"/>
+        <updated>2022-04-27T07:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Haskell Typeclasses]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆，你根本不知道你在說什麼鬼話]]></title>
+        <id>https://news.ycombinator.com/item?id=31177277</id>
+        <link href="https://news.ycombinator.com/item?id=31177277"/>
+        <updated>2022-04-27T07:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Elon, you have no idea what the hell you're talking about]]></summary>
+        <author>
+            <name>njacobs5074</name>
+            <uri>https://news.ycombinator.com/user?id=njacobs5074</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把新的Hare編譯器移植到了OpenBSD上]]></title>
         <id>https://news.ycombinator.com/item?id=31177468</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ritama2</name>
             <uri>https://news.ycombinator.com/user?id=ritama2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[騙子利用AI生成的面孔冒充波士頓的一家律師事務所]]></title>
-        <id>https://news.ycombinator.com/item?id=31162903</id>
-        <link href="https://news.ycombinator.com/item?id=31162903"/>
-        <updated>2022-04-26T01:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Scammers used AI-generated faces to pose as a Boston law firm]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼普瑞特投資於Textualize]]></title>
-        <id>https://news.ycombinator.com/item?id=31162874</id>
-        <link href="https://news.ycombinator.com/item?id=31162874"/>
-        <updated>2022-04-26T01:12:27.000Z</updated>
-        <summary type="html"><![CDATA[Why Prefect Invested in Textualize]]></summary>
-        <author>
-            <name>wey-gu</name>
-            <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的實驗表明，現實可能是真實的]]></title>
-        <id>https://news.ycombinator.com/item?id=31162859</id>
-        <link href="https://news.ycombinator.com/item?id=31162859"/>
-        <updated>2022-04-26T01:10:20.000Z</updated>
-        <summary type="html"><![CDATA[New experiment demonstrates that reality might be real]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Ruby on Rails中重新創建Notion]]></title>
-        <id>https://news.ycombinator.com/item?id=31162851</id>
-        <link href="https://news.ycombinator.com/item?id=31162851"/>
-        <updated>2022-04-26T01:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Recreating Notion in Ruby on Rails]]></summary>
-        <author>
-            <name>yassini</name>
-            <uri>https://news.ycombinator.com/user?id=yassini</uri>
         </author>
     </entry>
 </feed>
