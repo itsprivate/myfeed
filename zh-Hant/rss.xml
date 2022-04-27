@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FTC網絡安全合規、GLBA、FCRA和SEC]]></title>
+            <link>https://news.ycombinator.com/item?id=31178306</link>
+            <guid>https://news.ycombinator.com/item?id=31178306</guid>
+            <pubDate>Wed, 27 Apr 2022 10:35:38 GMT</pubDate>
+            <description><![CDATA[FTC Cybersecurity Compliance, GLBA, FCRA and SEC]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GraphQL訂閱。為什麼我們在WebSockets上使用SSE/Fetch？]]></title>
+            <link>https://news.ycombinator.com/item?id=31178240</link>
+            <guid>https://news.ycombinator.com/item?id=31178240</guid>
+            <pubDate>Wed, 27 Apr 2022 10:19:46 GMT</pubDate>
+            <description><![CDATA[GraphQL Subscriptions: Why We Use SSE/Fetch over WebSockets]]></description>
+        </item>
         <item>
             <title><![CDATA[AWS Lambda函數URL功能的精細細節]]></title>
             <link>https://news.ycombinator.com/item?id=31178290</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31163050</guid>
             <pubDate>Tue, 26 Apr 2022 01:41:52 GMT</pubDate>
             <description><![CDATA[LineageOS 19 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[牧場主對 "殺死小牛的暴風雪 "能夠打破乾旱持樂觀態度]]></title>
-            <link>https://news.ycombinator.com/item?id=31163618</link>
-            <guid>https://news.ycombinator.com/item?id=31163618</guid>
-            <pubDate>Tue, 26 Apr 2022 03:20:16 GMT</pubDate>
-            <description><![CDATA[Ranchers optimistic 'calf-killing Blizzard' could break the drought]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lyft執行官Craig Martell被任命為五角大樓的人工智能主管]]></title>
-            <link>https://news.ycombinator.com/item?id=31163500</link>
-            <guid>https://news.ycombinator.com/item?id=31163500</guid>
-            <pubDate>Tue, 26 Apr 2022 02:56:28 GMT</pubDate>
-            <description><![CDATA[Lyft exec Craig Martell tapped as Pentagon's AI chief]]></description>
         </item>
     </channel>
 </rss>

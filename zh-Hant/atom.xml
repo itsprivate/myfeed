@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T10:54:21.236Z</updated>
+    <updated>2022-04-27T11:12:10.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FTC網絡安全合規、GLBA、FCRA和SEC]]></title>
+        <id>https://news.ycombinator.com/item?id=31178306</id>
+        <link href="https://news.ycombinator.com/item?id=31178306"/>
+        <updated>2022-04-27T10:35:38.000Z</updated>
+        <summary type="html"><![CDATA[FTC Cybersecurity Compliance, GLBA, FCRA and SEC]]></summary>
+        <author>
+            <name>keydutch</name>
+            <uri>https://news.ycombinator.com/user?id=keydutch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL訂閱。為什麼我們在WebSockets上使用SSE/Fetch？]]></title>
+        <id>https://news.ycombinator.com/item?id=31178240</id>
+        <link href="https://news.ycombinator.com/item?id=31178240"/>
+        <updated>2022-04-27T10:19:46.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL Subscriptions: Why We Use SSE/Fetch over WebSockets]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda函數URL功能的精細細節]]></title>
         <id>https://news.ycombinator.com/item?id=31178290</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mappu</name>
             <uri>https://news.ycombinator.com/user?id=mappu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牧場主對 "殺死小牛的暴風雪 "能夠打破乾旱持樂觀態度]]></title>
-        <id>https://news.ycombinator.com/item?id=31163618</id>
-        <link href="https://news.ycombinator.com/item?id=31163618"/>
-        <updated>2022-04-26T03:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Ranchers optimistic 'calf-killing Blizzard' could break the drought]]></summary>
-        <author>
-            <name>protomyth</name>
-            <uri>https://news.ycombinator.com/user?id=protomyth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyft執行官Craig Martell被任命為五角大樓的人工智能主管]]></title>
-        <id>https://news.ycombinator.com/item?id=31163500</id>
-        <link href="https://news.ycombinator.com/item?id=31163500"/>
-        <updated>2022-04-26T02:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Lyft exec Craig Martell tapped as Pentagon's AI chief]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
         </author>
     </entry>
 </feed>
