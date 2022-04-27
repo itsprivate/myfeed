@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T11:31:20.010Z</updated>
+    <updated>2022-04-27T11:38:43.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用海藻進行千萬噸級的碳捕獲]]></title>
+        <id>https://news.ycombinator.com/item?id=31178435</id>
+        <link href="https://news.ycombinator.com/item?id=31178435"/>
+        <updated>2022-04-27T10:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Gigaton scale carbon capture using algae]]></summary>
+        <author>
+            <name>dr_dshiv</name>
+            <uri>https://news.ycombinator.com/user?id=dr_dshiv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對數刻度仍然沒有得到充分利用]]></title>
         <id>https://news.ycombinator.com/item?id=31178545</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Lantt</name>
             <uri>https://news.ycombinator.com/user?id=Lantt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成為一名通才（工業光魔公司內部）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31163692</id>
-        <link href="https://news.ycombinator.com/item?id=31163692"/>
-        <updated>2022-04-26T03:38:36.000Z</updated>
-        <summary type="html"><![CDATA[To be a generalist (Inside Industrial Light & Magic)]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
         </author>
     </entry>
 </feed>
