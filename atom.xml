@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T07:33:59.114Z</updated>
+    <updated>2022-04-27T07:45:40.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于微软产品和服务使用情况的有趣统计数据]]></title>
+        <id>https://news.ycombinator.com/item?id=31177175</id>
+        <link href="https://news.ycombinator.com/item?id=31177175"/>
+        <updated>2022-04-27T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Interesting stats about the usage of Microsoft products and services]]></summary>
+        <author>
+            <name>Zaplanincan</name>
+            <uri>https://news.ycombinator.com/user?id=Zaplanincan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对埃隆-马斯克的推特收购的担忧使特斯拉价值减少1260亿美元]]></title>
         <id>https://news.ycombinator.com/item?id=31177156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[领域驱动设计参考 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31162623</id>
-        <link href="https://news.ycombinator.com/item?id=31162623"/>
-        <updated>2022-04-26T00:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Domain Driven Design Reference [pdf]]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
         </author>
     </entry>
 </feed>
