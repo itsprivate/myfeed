@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T19:29:51.122Z</updated>
+    <updated>2022-04-27T19:37:43.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[外星技術的證據應該多於外星生物的證據]]></title>
+        <id>https://news.ycombinator.com/item?id=31184388</id>
+        <link href="https://news.ycombinator.com/item?id=31184388"/>
+        <updated>2022-04-27T19:07:46.000Z</updated>
+        <summary type="html"><![CDATA[There should be more evidence of alien technology than alien biology]]></summary>
+        <author>
+            <name>ilamont</name>
+            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[密歇根州正在將一段40英里的高速公路用於測試自動駕駛汽車]]></title>
         <id>https://news.ycombinator.com/item?id=31184563</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mark_l_watson</name>
             <uri>https://news.ycombinator.com/user?id=mark_l_watson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31169193</id>
-        <link href="https://news.ycombinator.com/item?id=31169193"/>
-        <updated>2022-04-26T16:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Baseten – Build ML-powered applications]]></summary>
-        <author>
-            <name>philipkiely</name>
-            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
         </author>
     </entry>
 </feed>
