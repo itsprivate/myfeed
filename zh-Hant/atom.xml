@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T19:00:23.451Z</updated>
+    <updated>2022-04-27T19:11:57.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux和開放源碼行業的骯髒秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=31184196</id>
+        <link href="https://news.ycombinator.com/item?id=31184196"/>
+        <updated>2022-04-27T18:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Dirty Secrets of the Linux and Open Source Industry]]></summary>
+        <author>
+            <name>josteink</name>
+            <uri>https://news.ycombinator.com/user?id=josteink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archegos公司創始人Bill Hwang因被指控在美國欺詐被捕]]></title>
+        <id>https://news.ycombinator.com/item?id=31184185</id>
+        <link href="https://news.ycombinator.com/item?id=31184185"/>
+        <updated>2022-04-27T18:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Archegos founder Bill Hwang arrested on US fraud charges]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國家庭不再增加更多的流媒體服務]]></title>
         <id>https://news.ycombinator.com/item?id=31184073</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>odyslam</name>
             <uri>https://news.ycombinator.com/user?id=odyslam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linen - 讓你的Slack社區可以被谷歌搜索到]]></title>
-        <id>https://news.ycombinator.com/item?id=31168882</id>
-        <link href="https://news.ycombinator.com/item?id=31168882"/>
-        <updated>2022-04-26T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></summary>
-        <author>
-            <name>cheeseblubber</name>
-            <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉股價下滑，推特收購前估值被打掉970億美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31168990</id>
-        <link href="https://news.ycombinator.com/item?id=31168990"/>
-        <updated>2022-04-26T15:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Tesla share slide knocks $97bn off valuation ahead of Twitter takeover]]></summary>
-        <author>
-            <name>Turukawa</name>
-            <uri>https://news.ycombinator.com/user?id=Turukawa</uri>
         </author>
     </entry>
 </feed>
