@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T07:45:40.246Z</updated>
+    <updated>2022-04-27T07:53:01.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究。亚马逊利用Echo智能音箱的对话来做目标广告]]></title>
+        <id>https://news.ycombinator.com/item?id=31177367</id>
+        <link href="https://news.ycombinator.com/item?id=31177367"/>
+        <updated>2022-04-27T07:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Study: Amazon uses Echo smart speaker conversations to target ads]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crew-4任务--发射]]></title>
+        <id>https://news.ycombinator.com/item?id=31177185</id>
+        <link href="https://news.ycombinator.com/item?id=31177185"/>
+        <updated>2022-04-27T07:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Crew-4 Mission – Launch]]></summary>
+        <author>
+            <name>frederikvs</name>
+            <uri>https://news.ycombinator.com/user?id=frederikvs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于微软产品和服务使用情况的有趣统计数据]]></title>
         <id>https://news.ycombinator.com/item?id=31177175</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在加州海岸发现 "不寻常的 "深海水母]]></title>
-        <id>https://news.ycombinator.com/item?id=31162644</id>
-        <link href="https://news.ycombinator.com/item?id=31162644"/>
-        <updated>2022-04-26T00:37:23.000Z</updated>
-        <summary type="html"><![CDATA[‘Unusual’ deep-sea jellyfish discovered off California coast]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网上的冲浪 (1992)]]></title>
-        <id>https://news.ycombinator.com/item?id=31162643</id>
-        <link href="https://news.ycombinator.com/item?id=31162643"/>
-        <updated>2022-04-26T00:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Surfing the Internet (1992)]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
