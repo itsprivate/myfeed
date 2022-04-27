@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T08:38:56.224Z</updated>
+    <updated>2022-04-27T08:55:55.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Node.js和浏览器中使用 "错误原因 "来建立因果关系的链接]]></title>
+        <id>https://news.ycombinator.com/item?id=31177721</id>
+        <link href="https://news.ycombinator.com/item?id=31177721"/>
+        <updated>2022-04-27T08:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Using “Error Cause” in Node.js and browsers to build causality links]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于树莓派的温度跟踪项目]]></title>
+        <id>https://news.ycombinator.com/item?id=31177681</id>
+        <link href="https://news.ycombinator.com/item?id=31177681"/>
+        <updated>2022-04-27T08:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi-based temperature tracking project]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Raspberry Pi的几乎无硬件的射频发射器]]></title>
         <id>https://news.ycombinator.com/item?id=31177542</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>maxutility</name>
             <uri>https://news.ycombinator.com/user?id=maxutility</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你因为埃隆-马斯克而想离开Twitter，这些是你的选择]]></title>
-        <id>https://news.ycombinator.com/item?id=31162940</id>
-        <link href="https://news.ycombinator.com/item?id=31162940"/>
-        <updated>2022-04-26T01:21:02.000Z</updated>
-        <summary type="html"><![CDATA[If You Want to Leave Twitter Because of Elon Musk, These Are Your Options]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本发现神秘的儿童肝炎可能病例]]></title>
-        <id>https://news.ycombinator.com/item?id=31162908</id>
-        <link href="https://news.ycombinator.com/item?id=31162908"/>
-        <updated>2022-04-26T01:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Possible Case of Mysterious Child Hepatitis Found in Japan]]></summary>
-        <author>
-            <name>ritama2</name>
-            <uri>https://news.ycombinator.com/user?id=ritama2</uri>
         </author>
     </entry>
 </feed>

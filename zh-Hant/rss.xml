@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Node.js和瀏覽器中使用 "錯誤原因 "來建立因果關係的鏈接]]></title>
+            <link>https://news.ycombinator.com/item?id=31177721</link>
+            <guid>https://news.ycombinator.com/item?id=31177721</guid>
+            <pubDate>Wed, 27 Apr 2022 08:44:56 GMT</pubDate>
+            <description><![CDATA[Using “Error Cause” in Node.js and browsers to build causality links]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基於樹莓派的溫度跟蹤項目]]></title>
+            <link>https://news.ycombinator.com/item?id=31177681</link>
+            <guid>https://news.ycombinator.com/item?id=31177681</guid>
+            <pubDate>Wed, 27 Apr 2022 08:36:42 GMT</pubDate>
+            <description><![CDATA[Raspberry Pi-based temperature tracking project]]></description>
+        </item>
         <item>
             <title><![CDATA[用於Raspberry Pi的幾乎無硬件的射頻發射器]]></title>
             <link>https://news.ycombinator.com/item?id=31177542</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31162978</guid>
             <pubDate>Tue, 26 Apr 2022 01:26:58 GMT</pubDate>
             <description><![CDATA[The worst-case scenario for Elon Musk’s Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你因為埃隆-馬斯克而想離開Twitter，這些是你的選擇]]></title>
-            <link>https://news.ycombinator.com/item?id=31162940</link>
-            <guid>https://news.ycombinator.com/item?id=31162940</guid>
-            <pubDate>Tue, 26 Apr 2022 01:21:02 GMT</pubDate>
-            <description><![CDATA[If You Want to Leave Twitter Because of Elon Musk, These Are Your Options]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本發現神秘的兒童肝炎可能病例]]></title>
-            <link>https://news.ycombinator.com/item?id=31162908</link>
-            <guid>https://news.ycombinator.com/item?id=31162908</guid>
-            <pubDate>Tue, 26 Apr 2022 01:17:03 GMT</pubDate>
-            <description><![CDATA[Possible Case of Mysterious Child Hepatitis Found in Japan]]></description>
         </item>
     </channel>
 </rss>
