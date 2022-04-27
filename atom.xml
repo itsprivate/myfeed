@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T08:55:55.721Z</updated>
+    <updated>2022-04-27T09:14:10.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国的孩子们都去哪儿了]]></title>
+        <id>https://news.ycombinator.com/item?id=31177817</id>
+        <link href="https://news.ycombinator.com/item?id=31177817"/>
+        <updated>2022-04-27T08:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Where are all the kids in America]]></summary>
+        <author>
+            <name>jjgreen</name>
+            <uri>https://news.ycombinator.com/user?id=jjgreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Brave和DuckDuckGo要打击谷歌的AMP？]]></title>
+        <id>https://news.ycombinator.com/item?id=31177807</id>
+        <link href="https://news.ycombinator.com/item?id=31177807"/>
+        <updated>2022-04-27T08:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Why Brave and DuckDuckGo are cracking down on Google’s AMP]]></summary>
+        <author>
+            <name>emmanuelgautier</name>
+            <uri>https://news.ycombinator.com/user?id=emmanuelgautier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要写干净的代码，要写CRISP代码]]></title>
+        <id>https://news.ycombinator.com/item?id=31177457</id>
+        <link href="https://news.ycombinator.com/item?id=31177457"/>
+        <updated>2022-04-27T07:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Don't write clean code, write CRISP code]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Node.js和浏览器中使用 "错误原因 "来建立因果关系的链接]]></title>
         <id>https://news.ycombinator.com/item?id=31177721</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们推出了一个新的网络浏览器]]></title>
-        <id>https://news.ycombinator.com/item?id=31163077</id>
-        <link href="https://news.ycombinator.com/item?id=31163077"/>
-        <updated>2022-04-26T01:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We launched a new web browser]]></summary>
-        <author>
-            <name>ca98am79</name>
-            <uri>https://news.ycombinator.com/user?id=ca98am79</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约州拥护社区宽带]]></title>
-        <id>https://news.ycombinator.com/item?id=31163071</id>
-        <link href="https://news.ycombinator.com/item?id=31163071"/>
-        <updated>2022-04-26T01:44:52.000Z</updated>
-        <summary type="html"><![CDATA[New York State Embraces Community Broadband]]></summary>
-        <author>
-            <name>asebold</name>
-            <uri>https://news.ycombinator.com/user?id=asebold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克的推特的最坏情况]]></title>
-        <id>https://news.ycombinator.com/item?id=31162978</id>
-        <link href="https://news.ycombinator.com/item?id=31162978"/>
-        <updated>2022-04-26T01:26:58.000Z</updated>
-        <summary type="html"><![CDATA[The worst-case scenario for Elon Musk’s Twitter]]></summary>
-        <author>
-            <name>maxutility</name>
-            <uri>https://news.ycombinator.com/user?id=maxutility</uri>
         </author>
     </entry>
 </feed>
