@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T23:13:06.357Z</updated>
+    <updated>2022-04-27T23:35:34.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Firefox SyncStorage AUR (同步後端服務器)]]></title>
+        <id>https://news.ycombinator.com/item?id=31187021</id>
+        <link href="https://news.ycombinator.com/item?id=31187021"/>
+        <updated>2022-04-27T23:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Firefox SyncStorage AUR (Sync Backend Server)]]></summary>
+        <author>
+            <name>JetSpiegel</name>
+            <uri>https://news.ycombinator.com/user?id=JetSpiegel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在2022年採訪高級JavaScript開發人員]]></title>
+        <id>https://news.ycombinator.com/item?id=31187005</id>
+        <link href="https://news.ycombinator.com/item?id=31187005"/>
+        <updated>2022-04-27T23:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Interview with Senior JavaScript Developer in 2022]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被稱為 "雙耳節拍 "的聲音黑客正在幫助人們獲得快樂、飢渴和高潮]]></title>
+        <id>https://news.ycombinator.com/item?id=31186750</id>
+        <link href="https://news.ycombinator.com/item?id=31186750"/>
+        <updated>2022-04-27T22:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Sound Hack Called ‘Binaural Beats’ Is Helping People Get Happy, Horny, and High]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11內部故事--我們是如何製作 "開始 "的]]></title>
+        <id>https://news.ycombinator.com/item?id=31186695</id>
+        <link href="https://news.ycombinator.com/item?id=31186695"/>
+        <updated>2022-04-27T22:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Inside story – How we made the Start]]></summary>
+        <author>
+            <name>beatthatflight</name>
+            <uri>https://news.ycombinator.com/user?id=beatthatflight</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Elixir的方式編寫Rust--18個月後]]></title>
+        <id>https://news.ycombinator.com/item?id=31186529</id>
+        <link href="https://news.ycombinator.com/item?id=31186529"/>
+        <updated>2022-04-27T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing Rust the Elixir way – 18 months later]]></summary>
+        <author>
+            <name>adamnemecek</name>
+            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最佳筆記本和記事本。從螺旋裝訂的到亞麻裝訂的到1950年代的（2019年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31186439</id>
+        <link href="https://news.ycombinator.com/item?id=31186439"/>
+        <updated>2022-04-27T22:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Best Notebooks and Notepads: From spiral-bound to linen-clad to 1950s-era (2019)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿斯伯格症患者駕車的挑戰]]></title>
         <id>https://news.ycombinator.com/item?id=31186671</id>
@@ -6547,72 +6613,6 @@
         <author>
             <name>andruby</name>
             <uri>https://news.ycombinator.com/user?id=andruby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benthos v4.0.0]]></title>
-        <id>https://news.ycombinator.com/item?id=31171653</id>
-        <link href="https://news.ycombinator.com/item?id=31171653"/>
-        <updated>2022-04-26T19:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Benthos v4.0.0]]></summary>
-        <author>
-            <name>mihaitodor</name>
-            <uri>https://news.ycombinator.com/user?id=mihaitodor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm推出Cortex-M85]]></title>
-        <id>https://news.ycombinator.com/item?id=31171466</id>
-        <link href="https://news.ycombinator.com/item?id=31171466"/>
-        <updated>2022-04-26T18:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Arm Introduces Cortex-M85]]></summary>
-        <author>
-            <name>thr0w__4w4y</name>
-            <uri>https://news.ycombinator.com/user?id=thr0w__4w4y</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非洲億萬富翁正在建設硅谷--Flutterwave的創始人]]></title>
-        <id>https://news.ycombinator.com/item?id=31171899</id>
-        <link href="https://news.ycombinator.com/item?id=31171899"/>
-        <updated>2022-04-26T19:17:46.000Z</updated>
-        <summary type="html"><![CDATA[African billionaire is building sillicon valley – founder of Flutterwave]]></summary>
-        <author>
-            <name>leonbailey</name>
-            <uri>https://news.ycombinator.com/user?id=leonbailey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史蒂夫-喬布斯談下一步、蘋果和管理]]></title>
-        <id>https://news.ycombinator.com/item?id=31171885</id>
-        <link href="https://news.ycombinator.com/item?id=31171885"/>
-        <updated>2022-04-26T19:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Steve Jobs on Next, Apple, and Management]]></summary>
-        <author>
-            <name>no_wizard</name>
-            <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌遊戲隱私的榮譽系統]]></title>
-        <id>https://news.ycombinator.com/item?id=31171781</id>
-        <link href="https://news.ycombinator.com/item?id=31171781"/>
-        <updated>2022-04-26T19:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Honor System for Google Play Privacy]]></summary>
-        <author>
-            <name>egberts1</name>
-            <uri>https://news.ycombinator.com/user?id=egberts1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣回撤加深，支撐位在37K美元]]></title>
-        <id>https://news.ycombinator.com/item?id=31171766</id>
-        <link href="https://news.ycombinator.com/item?id=31171766"/>
-        <updated>2022-04-26T19:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Pullback Deepens, Support at $37K]]></summary>
-        <author>
-            <name>victor871129</name>
-            <uri>https://news.ycombinator.com/user?id=victor871129</uri>
         </author>
     </entry>
 </feed>
