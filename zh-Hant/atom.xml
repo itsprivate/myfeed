@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T07:00:50.806Z</updated>
+    <updated>2022-04-27T07:12:55.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg現在支持JPEG XL]]></title>
+        <id>https://news.ycombinator.com/item?id=31177098</id>
+        <link href="https://news.ycombinator.com/item?id=31177098"/>
+        <updated>2022-04-27T06:59:35.000Z</updated>
+        <summary type="html"><![CDATA[FFmpeg now supports JPEG XL]]></summary>
+        <author>
+            <name>867-5309</name>
+            <uri>https://news.ycombinator.com/user?id=867-5309</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創業者的關鍵週轉資金]]></title>
         <id>https://news.ycombinator.com/item?id=31177041</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jeffthechimp</name>
             <uri>https://news.ycombinator.com/user?id=jeffthechimp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豬皮面具案中的eBay前高管對跟蹤、篡改行為認罪]]></title>
-        <id>https://news.ycombinator.com/item?id=31162492</id>
-        <link href="https://news.ycombinator.com/item?id=31162492"/>
-        <updated>2022-04-26T00:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Former eBay executive in pig mask case pleads guilty to stalking, tampering]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
