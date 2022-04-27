@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T09:14:10.131Z</updated>
+    <updated>2022-04-27T09:35:35.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[托管的大型语言模型（DALL2、GPT-3和J-X）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31177969</id>
+        <link href="https://news.ycombinator.com/item?id=31177969"/>
+        <updated>2022-04-27T09:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Hosted Large Language Models (DALL2, GPT-3 and J-X)]]></summary>
+        <author>
+            <name>funerr</name>
+            <uri>https://news.ycombinator.com/user?id=funerr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSFE要求欧盟对硬件生命周期、引导器和维修权进行立法。]]></title>
+        <id>https://news.ycombinator.com/item?id=31177946</id>
+        <link href="https://news.ycombinator.com/item?id=31177946"/>
+        <updated>2022-04-27T09:20:20.000Z</updated>
+        <summary type="html"><![CDATA[FSFE asks EU to legislate hardware life cycles, bootloaders, and right to repair]]></summary>
+        <author>
+            <name>softwarefreedom</name>
+            <uri>https://news.ycombinator.com/user?id=softwarefreedom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于SQLite中zsh shell历史的Atuin]]></title>
+        <id>https://news.ycombinator.com/item?id=31177943</id>
+        <link href="https://news.ycombinator.com/item?id=31177943"/>
+        <updated>2022-04-27T09:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Atuin for zsh shell history in SQLite]]></summary>
+        <author>
+            <name>ellieh</name>
+            <uri>https://news.ycombinator.com/user?id=ellieh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医生散布疫苗和封锁的假消息可能被除名]]></title>
+        <id>https://news.ycombinator.com/item?id=31177929</id>
+        <link href="https://news.ycombinator.com/item?id=31177929"/>
+        <updated>2022-04-27T09:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Doctors could be struck off for spreading fake news on vaccines and lockdowns]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戴尔为其有争议的新笔记本内存辩护]]></title>
+        <id>https://news.ycombinator.com/item?id=31177901</id>
+        <link href="https://news.ycombinator.com/item?id=31177901"/>
+        <updated>2022-04-27T09:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Dell defends its controversial new laptop memory]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟生态设计：38个组织要求获得和重新使用硬件的权利]]></title>
+        <id>https://news.ycombinator.com/item?id=31177861</id>
+        <link href="https://news.ycombinator.com/item?id=31177861"/>
+        <updated>2022-04-27T09:03:40.000Z</updated>
+        <summary type="html"><![CDATA[EU Ecodesign: 38 organisations demand the right to access and to reuse hardware]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何检测前端项目中的死代码]]></title>
+        <id>https://news.ycombinator.com/item?id=31177793</id>
+        <link href="https://news.ycombinator.com/item?id=31177793"/>
+        <updated>2022-04-27T08:54:23.000Z</updated>
+        <summary type="html"><![CDATA[How to detect dead code in a front end project]]></summary>
+        <author>
+            <name>emmanuelgautier</name>
+            <uri>https://news.ycombinator.com/user?id=emmanuelgautier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroku事件（使用数据产品的问题）]]></title>
+        <id>https://news.ycombinator.com/item?id=31177603</id>
+        <link href="https://news.ycombinator.com/item?id=31177603"/>
+        <updated>2022-04-27T08:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Heroku incident (Issues using data products)]]></summary>
+        <author>
+            <name>djelal</name>
+            <uri>https://news.ycombinator.com/user?id=djelal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国的孩子们都去哪儿了]]></title>
         <id>https://news.ycombinator.com/item?id=31177817</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>cebert</name>
             <uri>https://news.ycombinator.com/user?id=cebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克承诺 "验证所有人类"，他以440亿美元收购了Twitter。]]></title>
-        <id>https://news.ycombinator.com/item?id=31163321</id>
-        <link href="https://news.ycombinator.com/item?id=31163321"/>
-        <updated>2022-04-26T02:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk pledges to 'authenticate all humans' as he buys Twitter for $44B]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：亚马逊网站正在限制每周购买四张音频CD的数量]]></title>
-        <id>https://news.ycombinator.com/item?id=31163300</id>
-        <link href="https://news.ycombinator.com/item?id=31163300"/>
-        <updated>2022-04-26T02:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Amazon.com is limiting purchases of Audio CDs to four-per-week]]></summary>
-        <author>
-            <name>erichocean</name>
-            <uri>https://news.ycombinator.com/user?id=erichocean</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲尔布里克档案]]></title>
-        <id>https://news.ycombinator.com/item?id=31163267</id>
-        <link href="https://news.ycombinator.com/item?id=31163267"/>
-        <updated>2022-04-26T02:16:08.000Z</updated>
-        <summary type="html"><![CDATA[The Philbrick Archive]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家画像馆。让一个好的博物馆变得更好的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31163192</id>
-        <link href="https://news.ycombinator.com/item?id=31163192"/>
-        <updated>2022-04-26T02:04:07.000Z</updated>
-        <summary type="html"><![CDATA[The National Portrait Gallery: Ways to make a good museum better]]></summary>
-        <author>
-            <name>boovic</name>
-            <uri>https://news.ycombinator.com/user?id=boovic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在欧洲的前罗伊尔人中]]></title>
-        <id>https://news.ycombinator.com/item?id=31163177</id>
-        <link href="https://news.ycombinator.com/item?id=31163177"/>
-        <updated>2022-04-26T02:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Among Europe’s Ex-Royals]]></summary>
-        <author>
-            <name>lordylord</name>
-            <uri>https://news.ycombinator.com/user?id=lordylord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犀利的东西]]></title>
-        <id>https://news.ycombinator.com/item?id=31163172</id>
-        <link href="https://news.ycombinator.com/item?id=31163172"/>
-        <updated>2022-04-26T02:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Something Sharp]]></summary>
-        <author>
-            <name>boovic</name>
-            <uri>https://news.ycombinator.com/user?id=boovic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约翰-达尼埃尔想给你讲个故事]]></title>
-        <id>https://news.ycombinator.com/item?id=31163131</id>
-        <link href="https://news.ycombinator.com/item?id=31163131"/>
-        <updated>2022-04-26T01:54:10.000Z</updated>
-        <summary type="html"><![CDATA[John Darnielle Wants to Tell You a Story]]></summary>
-        <author>
-            <name>nkurz</name>
-            <uri>https://news.ycombinator.com/user?id=nkurz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hush，一种现代shell脚本语言]]></title>
-        <id>https://news.ycombinator.com/item?id=31163083</id>
-        <link href="https://news.ycombinator.com/item?id=31163083"/>
-        <updated>2022-04-26T01:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Hush, a modern shell scripting language]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
