@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T10:37:32.218Z</updated>
+    <updated>2022-04-27T10:54:21.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda函数URL功能的精细细节]]></title>
+        <id>https://news.ycombinator.com/item?id=31178290</id>
+        <link href="https://news.ycombinator.com/item?id=31178290"/>
+        <updated>2022-04-27T10:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Fine Details of AWS Lambda Function URL Feature]]></summary>
+        <author>
+            <name>elifapaydin</name>
+            <uri>https://news.ycombinator.com/user?id=elifapaydin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯在战争升级中切断波兰和保加利亚的天然气供应]]></title>
         <id>https://news.ycombinator.com/item?id=31178296</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝第一台Arm处理器37岁生日快乐]]></title>
-        <id>https://news.ycombinator.com/item?id=31163432</id>
-        <link href="https://news.ycombinator.com/item?id=31163432"/>
-        <updated>2022-04-26T02:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Happy 37th birthday to the first Arm processor]]></summary>
-        <author>
-            <name>pragnesh</name>
-            <uri>https://news.ycombinator.com/user?id=pragnesh</uri>
         </author>
     </entry>
 </feed>
