@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-27T11:12:10.157Z</updated>
+    <updated>2022-04-27T11:31:20.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對數刻度仍然沒有得到充分利用]]></title>
+        <id>https://news.ycombinator.com/item?id=31178545</id>
+        <link href="https://news.ycombinator.com/item?id=31178545"/>
+        <updated>2022-04-27T11:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Log scales remain under-used]]></summary>
+        <author>
+            <name>tlaundal</name>
+            <uri>https://news.ycombinator.com/user?id=tlaundal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歷史上的歐洲武術]]></title>
+        <id>https://news.ycombinator.com/item?id=31178510</id>
+        <link href="https://news.ycombinator.com/item?id=31178510"/>
+        <updated>2022-04-27T11:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Historical European Martial Arts]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯天然氣公司停止向波蘭和保加利亞供應天然氣]]></title>
+        <id>https://news.ycombinator.com/item?id=31178469</id>
+        <link href="https://news.ycombinator.com/item?id=31178469"/>
+        <updated>2022-04-27T11:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Russia's Gazprom halts gas supplies to Poland and Bulgaria]]></summary>
+        <author>
+            <name>vanburen</name>
+            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大風是你見過的最卑鄙的消防坦克]]></title>
+        <id>https://news.ycombinator.com/item?id=31177988</id>
+        <link href="https://news.ycombinator.com/item?id=31177988"/>
+        <updated>2022-04-27T09:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Big Wind Is the Meanest Firefighting Tank You Ever Saw]]></summary>
+        <author>
+            <name>ZeljkoS</name>
+            <uri>https://news.ycombinator.com/user?id=ZeljkoS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複雜系統如何失敗]]></title>
+        <id>https://news.ycombinator.com/item?id=31177633</id>
+        <link href="https://news.ycombinator.com/item?id=31177633"/>
+        <updated>2022-04-27T08:24:50.000Z</updated>
+        <summary type="html"><![CDATA[How Complex Systems Fail]]></summary>
+        <author>
+            <name>trymas</name>
+            <uri>https://news.ycombinator.com/user?id=trymas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTC網絡安全合規、GLBA、FCRA和SEC]]></title>
         <id>https://news.ycombinator.com/item?id=31178306</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的、去中心化的、替代當今私人擁有的公共論壇的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31163683</id>
-        <link href="https://news.ycombinator.com/item?id=31163683"/>
-        <updated>2022-04-26T03:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Open source, decentralized alternative to today’s privately owned public forums]]></summary>
-        <author>
-            <name>EGreg</name>
-            <uri>https://news.ycombinator.com/user?id=EGreg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E Ink Gallery 3技術使我們更接近完美的平板電腦]]></title>
-        <id>https://news.ycombinator.com/item?id=31163617</id>
-        <link href="https://news.ycombinator.com/item?id=31163617"/>
-        <updated>2022-04-26T03:20:15.000Z</updated>
-        <summary type="html"><![CDATA[E Ink Gallery 3 tech brings us closer to the perfect tablet]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在真實世界的靜態圖像中模擬流體]]></title>
-        <id>https://news.ycombinator.com/item?id=31163408</id>
-        <link href="https://news.ycombinator.com/item?id=31163408"/>
-        <updated>2022-04-26T02:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Simulating Fluids in Real-World Still Images]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[擴大Play的目標級別API要求以加強用戶安全]]></title>
-        <id>https://news.ycombinator.com/item?id=31163365</id>
-        <link href="https://news.ycombinator.com/item?id=31163365"/>
-        <updated>2022-04-26T02:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Expanding Play’s Target Level API Requirements to Strengthen User Security]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鳳凰衛視發佈了 "鳳凰衛視 "節目。]]></title>
-        <id>https://news.ycombinator.com/item?id=31163050</id>
-        <link href="https://news.ycombinator.com/item?id=31163050"/>
-        <updated>2022-04-26T01:41:52.000Z</updated>
-        <summary type="html"><![CDATA[LineageOS 19 Released]]></summary>
-        <author>
-            <name>mappu</name>
-            <uri>https://news.ycombinator.com/user?id=mappu</uri>
         </author>
     </entry>
 </feed>
