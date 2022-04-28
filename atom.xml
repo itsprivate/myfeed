@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-28T11:13:03.387Z</updated>
+    <updated>2022-04-28T11:28:51.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国和其他55个以上的国家承诺保持开放的互联网]]></title>
+        <id>https://news.ycombinator.com/item?id=31191129</id>
+        <link href="https://news.ycombinator.com/item?id=31191129"/>
+        <updated>2022-04-28T11:13:25.000Z</updated>
+        <summary type="html"><![CDATA[U.S. and more than 55 other countries pledge to keep an open internet]]></summary>
+        <author>
+            <name>crackerswalrus</name>
+            <uri>https://news.ycombinator.com/user?id=crackerswalrus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitpod x JetBrains联手解决 "在我的机器上工作 "问题]]></title>
         <id>https://news.ycombinator.com/item?id=31191061</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人老鼠爬行，爬行，转身，一触即发]]></title>
-        <id>https://news.ycombinator.com/item?id=31176677</id>
-        <link href="https://news.ycombinator.com/item?id=31176677"/>
-        <updated>2022-04-27T05:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Robotic Rat Climbs, Crawls, and Turns on a Dime]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>
