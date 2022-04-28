@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-28T08:46:05.811Z</updated>
+    <updated>2022-04-28T08:56:10.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[報道稱，Twitter正在保護其源代碼不受心懷不滿的員工影響]]></title>
+        <id>https://news.ycombinator.com/item?id=31190133</id>
+        <link href="https://news.ycombinator.com/item?id=31190133"/>
+        <updated>2022-04-28T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is protecting its source code from disgruntled employees, reports say]]></summary>
+        <author>
+            <name>chha</name>
+            <uri>https://news.ycombinator.com/user?id=chha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SketchyVim。為所有macOS文本字段添加原生Vim]]></title>
         <id>https://news.ycombinator.com/item?id=31190110</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ttyp3</name>
             <uri>https://news.ycombinator.com/user?id=ttyp3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共同創建CRISPR的科學家不排除有一天會出現工程嬰兒的可能性]]></title>
-        <id>https://news.ycombinator.com/item?id=31175133</id>
-        <link href="https://news.ycombinator.com/item?id=31175133"/>
-        <updated>2022-04-27T01:16:10.000Z</updated>
-        <summary type="html"><![CDATA[The scientist who co-created CRISPR isn’t ruling out engineered babies someday]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
