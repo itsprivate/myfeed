@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 28 Apr 2022 11:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 12:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶有Rust運行時間的Python網絡框架]]></title>
+            <link>https://news.ycombinator.com/item?id=31191551</link>
+            <guid>https://news.ycombinator.com/item?id=31191551</guid>
+            <pubDate>Thu, 28 Apr 2022 12:12:18 GMT</pubDate>
+            <description><![CDATA[Show HN: A Python Web Framework with Rust Runtime]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用pytest測試特徵邏輯、轉換和特徵管線]]></title>
+            <link>https://news.ycombinator.com/item?id=31191451</link>
+            <guid>https://news.ycombinator.com/item?id=31191451</guid>
+            <pubDate>Thu, 28 Apr 2022 11:58:20 GMT</pubDate>
+            <description><![CDATA[Testing feature logic, transformations, and feature pipelines with pytest]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃及發現供奉宙斯的古廟]]></title>
+            <link>https://news.ycombinator.com/item?id=31191416</link>
+            <guid>https://news.ycombinator.com/item?id=31191416</guid>
+            <pubDate>Thu, 28 Apr 2022 11:53:31 GMT</pubDate>
+            <description><![CDATA[Ancient Temple dedicated to Zeus discovered in Egypt]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每日加密貨幣新聞提示]]></title>
+            <link>https://news.ycombinator.com/item?id=31191398</link>
+            <guid>https://news.ycombinator.com/item?id=31191398</guid>
+            <pubDate>Thu, 28 Apr 2022 11:51:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Daily Crypto News Alerts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[提煉出生產垃圾收集器的真實成本]]></title>
+            <link>https://news.ycombinator.com/item?id=31191389</link>
+            <guid>https://news.ycombinator.com/item?id=31191389</guid>
+            <pubDate>Thu, 28 Apr 2022 11:50:08 GMT</pubDate>
+            <description><![CDATA[Distilling the Real Cost of Production Garbage Collectors]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ugrep。帶有交互式TUI和模糊搜索的快速grep]]></title>
+            <link>https://news.ycombinator.com/item?id=31191347</link>
+            <guid>https://news.ycombinator.com/item?id=31191347</guid>
+            <pubDate>Thu, 28 Apr 2022 11:43:30 GMT</pubDate>
+            <description><![CDATA[ugrep: Fast grep with interactive TUI and fuzzy search]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用蜘蛛絲線從海洋中捕撈鈾 (2019)]]></title>
+            <link>https://news.ycombinator.com/item?id=31191317</link>
+            <guid>https://news.ycombinator.com/item?id=31191317</guid>
+            <pubDate>Thu, 28 Apr 2022 11:40:33 GMT</pubDate>
+            <description><![CDATA[Fishing uranium from the ocean with a spider-silk line (2019)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[電子炸彈的工作原理--非核電磁波武器]]></title>
+            <link>https://news.ycombinator.com/item?id=31191210</link>
+            <guid>https://news.ycombinator.com/item?id=31191210</guid>
+            <pubDate>Thu, 28 Apr 2022 11:26:40 GMT</pubDate>
+            <description><![CDATA[How E-Bombs Work – Non-Nuclear EMP Weapons]]></description>
+        </item>
+        <item>
+            <title><![CDATA[馬拉馬提亞]]></title>
+            <link>https://news.ycombinator.com/item?id=31191125</link>
+            <guid>https://news.ycombinator.com/item?id=31191125</guid>
+            <pubDate>Thu, 28 Apr 2022 11:12:32 GMT</pubDate>
+            <description><![CDATA[Malamatiyya]]></description>
+        </item>
         <item>
             <title><![CDATA[避免衝突使人們不敢在群體中呼喚錯誤的信息]]></title>
             <link>https://news.ycombinator.com/item?id=31191291</link>
@@ -4150,69 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31176883</guid>
             <pubDate>Wed, 27 Apr 2022 06:15:09 GMT</pubDate>
             <description><![CDATA[Translate a message 10 times into different languages and back]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿里雲讓更多的安卓系統在RISC-V芯片上工作]]></title>
-            <link>https://news.ycombinator.com/item?id=31176875</link>
-            <guid>https://news.ycombinator.com/item?id=31176875</guid>
-            <pubDate>Wed, 27 Apr 2022 06:12:53 GMT</pubDate>
-            <description><![CDATA[Alibaba Cloud gets more of Android working on RISC-V silicon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[真相社交目前在蘋果商店擊敗了Twitter和TikTok]]></title>
-            <link>https://news.ycombinator.com/item?id=31176938</link>
-            <guid>https://news.ycombinator.com/item?id=31176938</guid>
-            <pubDate>Wed, 27 Apr 2022 06:25:36 GMT</pubDate>
-            <description><![CDATA[Truth Social Is Currently Beating Twitter and TikTok on the Apple Store]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript框架的四個時代]]></title>
-            <link>https://news.ycombinator.com/item?id=31176910</link>
-            <guid>https://news.ycombinator.com/item?id=31176910</guid>
-            <pubDate>Wed, 27 Apr 2022 06:21:47 GMT</pubDate>
-            <description><![CDATA[Four Eras of JavaScript Frameworks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯合憑證管理（Chrome 101的新內容）]]></title>
-            <link>https://news.ycombinator.com/item?id=31176887</link>
-            <guid>https://news.ycombinator.com/item?id=31176887</guid>
-            <pubDate>Wed, 27 Apr 2022 06:16:34 GMT</pubDate>
-            <description><![CDATA[Federated Credential Management (new in Chrome 101)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Git附件]]></title>
-            <link>https://news.ycombinator.com/item?id=31176789</link>
-            <guid>https://news.ycombinator.com/item?id=31176789</guid>
-            <pubDate>Wed, 27 Apr 2022 05:56:34 GMT</pubDate>
-            <description><![CDATA[Git Annex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在 Discord 上分享您的 Spotify 播放列表]]></title>
-            <link>https://news.ycombinator.com/item?id=31176687</link>
-            <guid>https://news.ycombinator.com/item?id=31176687</guid>
-            <pubDate>Wed, 27 Apr 2022 05:35:36 GMT</pubDate>
-            <description><![CDATA[Share Your Spotify Playlist on Discord]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆買下推特，TSLA股價在良好的收益後仍下跌15%。]]></title>
-            <link>https://news.ycombinator.com/item?id=31176648</link>
-            <guid>https://news.ycombinator.com/item?id=31176648</guid>
-            <pubDate>Wed, 27 Apr 2022 05:29:04 GMT</pubDate>
-            <description><![CDATA[TSLA shares fall 15% even after good earnings as Elon buys Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[威廉斯的啟動器：威廉斯的啟動器如何工作]]></title>
-            <link>https://news.ycombinator.com/item?id=31175939</link>
-            <guid>https://news.ycombinator.com/item?id=31175939</guid>
-            <pubDate>Wed, 27 Apr 2022 03:20:19 GMT</pubDate>
-            <description><![CDATA[A Minecraft Launcher: how a Minecraft launcher works]]></description>
-        </item>
-        <item>
-            <title><![CDATA[富達公司將很快提供比特幣作為401(k)的一個選項]]></title>
-            <link>https://news.ycombinator.com/item?id=31176840</link>
-            <guid>https://news.ycombinator.com/item?id=31176840</guid>
-            <pubDate>Wed, 27 Apr 2022 06:04:56 GMT</pubDate>
-            <description><![CDATA[Fidelity will soon offer Bitcoin as an option in 401(k)s]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-28T11:51:57.312Z</updated>
+    <updated>2022-04-28T12:21:48.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,105 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有Rust运行时间的Python网络框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31191551</id>
+        <link href="https://news.ycombinator.com/item?id=31191551"/>
+        <updated>2022-04-28T12:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Python Web Framework with Rust Runtime]]></summary>
+        <author>
+            <name>hjxgoliath</name>
+            <uri>https://news.ycombinator.com/user?id=hjxgoliath</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用pytest测试特征逻辑、转换和特征管线]]></title>
+        <id>https://news.ycombinator.com/item?id=31191451</id>
+        <link href="https://news.ycombinator.com/item?id=31191451"/>
+        <updated>2022-04-28T11:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Testing feature logic, transformations, and feature pipelines with pytest]]></summary>
+        <author>
+            <name>SirOibaf</name>
+            <uri>https://news.ycombinator.com/user?id=SirOibaf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃及发现供奉宙斯的古庙]]></title>
+        <id>https://news.ycombinator.com/item?id=31191416</id>
+        <link href="https://news.ycombinator.com/item?id=31191416"/>
+        <updated>2022-04-28T11:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Ancient Temple dedicated to Zeus discovered in Egypt]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日加密货币新闻提示]]></title>
+        <id>https://news.ycombinator.com/item?id=31191398</id>
+        <link href="https://news.ycombinator.com/item?id=31191398"/>
+        <updated>2022-04-28T11:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daily Crypto News Alerts]]></summary>
+        <author>
+            <name>spdydve</name>
+            <uri>https://news.ycombinator.com/user?id=spdydve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提炼出生产垃圾收集器的真实成本]]></title>
+        <id>https://news.ycombinator.com/item?id=31191389</id>
+        <link href="https://news.ycombinator.com/item?id=31191389"/>
+        <updated>2022-04-28T11:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Distilling the Real Cost of Production Garbage Collectors]]></summary>
+        <author>
+            <name>lycopodiopsida</name>
+            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ugrep。带有交互式TUI和模糊搜索的快速grep]]></title>
+        <id>https://news.ycombinator.com/item?id=31191347</id>
+        <link href="https://news.ycombinator.com/item?id=31191347"/>
+        <updated>2022-04-28T11:43:30.000Z</updated>
+        <summary type="html"><![CDATA[ugrep: Fast grep with interactive TUI and fuzzy search]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用蜘蛛丝线从海洋中捕捞铀 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=31191317</id>
+        <link href="https://news.ycombinator.com/item?id=31191317"/>
+        <updated>2022-04-28T11:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Fishing uranium from the ocean with a spider-silk line (2019)]]></summary>
+        <author>
+            <name>zeristor</name>
+            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电子炸弹的工作原理--非核电磁波武器]]></title>
+        <id>https://news.ycombinator.com/item?id=31191210</id>
+        <link href="https://news.ycombinator.com/item?id=31191210"/>
+        <updated>2022-04-28T11:26:40.000Z</updated>
+        <summary type="html"><![CDATA[How E-Bombs Work – Non-Nuclear EMP Weapons]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马拉马提亚]]></title>
+        <id>https://news.ycombinator.com/item?id=31191125</id>
+        <link href="https://news.ycombinator.com/item?id=31191125"/>
+        <updated>2022-04-28T11:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Malamatiyya]]></summary>
+        <author>
+            <name>itronitron</name>
+            <uri>https://news.ycombinator.com/user?id=itronitron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避免冲突使人们不敢在群体中呼唤错误的信息]]></title>
         <id>https://news.ycombinator.com/item?id=31191291</id>
@@ -6514,105 +6613,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云让更多的安卓系统在RISC-V芯片上工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31176875</id>
-        <link href="https://news.ycombinator.com/item?id=31176875"/>
-        <updated>2022-04-27T06:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba Cloud gets more of Android working on RISC-V silicon]]></summary>
-        <author>
-            <name>rguiscard</name>
-            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真相社交目前在苹果商店击败了Twitter和TikTok]]></title>
-        <id>https://news.ycombinator.com/item?id=31176938</id>
-        <link href="https://news.ycombinator.com/item?id=31176938"/>
-        <updated>2022-04-27T06:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Truth Social Is Currently Beating Twitter and TikTok on the Apple Store]]></summary>
-        <author>
-            <name>assttoasstmgr</name>
-            <uri>https://news.ycombinator.com/user?id=assttoasstmgr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript框架的四个时代]]></title>
-        <id>https://news.ycombinator.com/item?id=31176910</id>
-        <link href="https://news.ycombinator.com/item?id=31176910"/>
-        <updated>2022-04-27T06:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Four Eras of JavaScript Frameworks]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合凭证管理（Chrome 101的新内容）]]></title>
-        <id>https://news.ycombinator.com/item?id=31176887</id>
-        <link href="https://news.ycombinator.com/item?id=31176887"/>
-        <updated>2022-04-27T06:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Federated Credential Management (new in Chrome 101)]]></summary>
-        <author>
-            <name>stncls</name>
-            <uri>https://news.ycombinator.com/user?id=stncls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git附件]]></title>
-        <id>https://news.ycombinator.com/item?id=31176789</id>
-        <link href="https://news.ycombinator.com/item?id=31176789"/>
-        <updated>2022-04-27T05:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Git Annex]]></summary>
-        <author>
-            <name>matthberg</name>
-            <uri>https://news.ycombinator.com/user?id=matthberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Discord 上分享您的 Spotify 播放列表]]></title>
-        <id>https://news.ycombinator.com/item?id=31176687</id>
-        <link href="https://news.ycombinator.com/item?id=31176687"/>
-        <updated>2022-04-27T05:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Share Your Spotify Playlist on Discord]]></summary>
-        <author>
-            <name>peter0629</name>
-            <uri>https://news.ycombinator.com/user?id=peter0629</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆买下推特，TSLA股价在良好的收益后仍下跌15%。]]></title>
-        <id>https://news.ycombinator.com/item?id=31176648</id>
-        <link href="https://news.ycombinator.com/item?id=31176648"/>
-        <updated>2022-04-27T05:29:04.000Z</updated>
-        <summary type="html"><![CDATA[TSLA shares fall 15% even after good earnings as Elon buys Twitter]]></summary>
-        <author>
-            <name>gigatexal</name>
-            <uri>https://news.ycombinator.com/user?id=gigatexal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉斯的启动器：威廉斯的启动器如何工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31175939</id>
-        <link href="https://news.ycombinator.com/item?id=31175939"/>
-        <updated>2022-04-27T03:20:19.000Z</updated>
-        <summary type="html"><![CDATA[A Minecraft Launcher: how a Minecraft launcher works]]></summary>
-        <author>
-            <name>RyanCaoDev</name>
-            <uri>https://news.ycombinator.com/user?id=RyanCaoDev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富达公司将很快提供比特币作为401(k)的一个选项]]></title>
-        <id>https://news.ycombinator.com/item?id=31176840</id>
-        <link href="https://news.ycombinator.com/item?id=31176840"/>
-        <updated>2022-04-27T06:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Fidelity will soon offer Bitcoin as an option in 401(k)s]]></summary>
-        <author>
-            <name>kungfudoi</name>
-            <uri>https://news.ycombinator.com/user?id=kungfudoi</uri>
         </author>
     </entry>
 </feed>
