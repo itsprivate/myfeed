@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-04-28T07:32:53.838Z</updated>
+    <updated>2022-04-28T07:40:48.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何活得更久--一个程序员的指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31189689</id>
+        <link href="https://news.ycombinator.com/item?id=31189689"/>
+        <updated>2022-04-28T07:29:25.000Z</updated>
+        <summary type="html"><![CDATA[How to live longer – a programmer's guide]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五眼国家披露2021年15个最易被利用的缺陷]]></title>
         <id>https://news.ycombinator.com/item?id=31189509</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ali92hm</name>
             <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复杂系统的失败]]></title>
-        <id>https://news.ycombinator.com/item?id=31174584</id>
-        <link href="https://news.ycombinator.com/item?id=31174584"/>
-        <updated>2022-04-26T23:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Complex Systems Fail]]></summary>
-        <author>
-            <name>rossdavidh</name>
-            <uri>https://news.ycombinator.com/user?id=rossdavidh</uri>
         </author>
     </entry>
 </feed>
