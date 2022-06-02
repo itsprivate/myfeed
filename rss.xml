@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 21:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,102 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HAProxy 2.6.0发布，支持QUIC
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600563</link>
+            <guid>https://news.ycombinator.com/item?id=31600563</guid>
+            <pubDate>Thu, 02 Jun 2022 21:12:02 GMT</pubDate>
+            <description><![CDATA[HAProxy 2.6.0 released with QUIC support]]></description>
+        </item>
+        <item>
+            <title><![CDATA[招聘计划的最新情况
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600505</link>
+            <guid>https://news.ycombinator.com/item?id=31600505</guid>
+            <pubDate>Thu, 02 Jun 2022 21:06:06 GMT</pubDate>
+            <description><![CDATA[Update on Hiring Plans]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有人为了赢得网上的争论而泄露了中国坦克的机密示意图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600336</link>
+            <guid>https://news.ycombinator.com/item?id=31600336</guid>
+            <pubDate>Thu, 02 Jun 2022 20:49:25 GMT</pubDate>
+            <description><![CDATA[Someone leaked classified Chinese tank schematics to win an online argument]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微软隐私声明 - Windows
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600225</link>
+            <guid>https://news.ycombinator.com/item?id=31600225</guid>
+            <pubDate>Thu, 02 Jun 2022 20:40:08 GMT</pubDate>
+            <description><![CDATA[Microsoft Privacy Statement – Windows]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有一个旧的iPad躺在身边？你可能很快就能让它运行Linux了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600208</link>
+            <guid>https://news.ycombinator.com/item?id=31600208</guid>
+            <pubDate>Thu, 02 Jun 2022 20:38:31 GMT</pubDate>
+            <description><![CDATA[Have an old iPad lying around? You might be able to make it run Linux soon]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Arti（生锈的Tor）0.4.0发布。稳健性和API改进 (5月31日)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600207</link>
+            <guid>https://news.ycombinator.com/item?id=31600207</guid>
+            <pubDate>Thu, 02 Jun 2022 20:38:22 GMT</pubDate>
+            <description><![CDATA[Arti (rustified Tor) 0.4.0 is released: Robustness and API improvements (May 31)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[双子座公司裁减10%的员工
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600125</link>
+            <guid>https://news.ycombinator.com/item?id=31600125</guid>
+            <pubDate>Thu, 02 Jun 2022 20:29:50 GMT</pubDate>
+            <description><![CDATA[Gemini lays off 10% of workforce]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微软采用与劳工组织合作的员工组织原则
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600090</link>
+            <guid>https://news.ycombinator.com/item?id=31600090</guid>
+            <pubDate>Thu, 02 Jun 2022 20:27:14 GMT</pubDate>
+            <description><![CDATA[Microsoft adopts principles for employee organizing with labor orgs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[双子座加密货币交易所运营商因在比特币期货产品中的作用而被起诉
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31599992</link>
+            <guid>https://news.ycombinator.com/item?id=31599992</guid>
+            <pubDate>Thu, 02 Jun 2022 20:16:48 GMT</pubDate>
+            <description><![CDATA[Gemini Crypto Exchange Operator Sued over Role in Bitcoin Futures Product]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比较F#和Rust中的Voxel游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31599854</link>
+            <guid>https://news.ycombinator.com/item?id=31599854</guid>
+            <pubDate>Thu, 02 Jun 2022 20:04:25 GMT</pubDate>
+            <description><![CDATA[Comparing a Voxel Game in F# and Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Roe vs. Wade被推翻对红州的初创企业意味着什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31599767</link>
+            <guid>https://news.ycombinator.com/item?id=31599767</guid>
+            <pubDate>Thu, 02 Jun 2022 19:56:00 GMT</pubDate>
+            <description><![CDATA[What Roe vs. Wade being overturned could mean for startups in red states]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于文件大小问题，Bitnami破坏了helm chart manifest index.yaml。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31599488</link>
+            <guid>https://news.ycombinator.com/item?id=31599488</guid>
+            <pubDate>Thu, 02 Jun 2022 19:30:53 GMT</pubDate>
+            <description><![CDATA[Bitnami breaks helm chart manifest index.yaml due to filesize]]></description>
+        </item>
         <item>
             <title><![CDATA[在没有代理或VPN的情况下阅读特朗普的帖子，为支持者和憎恶者提供服务
 ]]></title>
@@ -4385,90 +4481,6 @@
             <guid>https://news.ycombinator.com/item?id=31184988</guid>
             <pubDate>Wed, 27 Apr 2022 19:59:45 GMT</pubDate>
             <description><![CDATA[Upgrading to Jest 28]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们用Tailwind CSS建立了50个即将推出的页面模板，因为我们找不到]]></title>
-            <link>https://news.ycombinator.com/item?id=31184968</link>
-            <guid>https://news.ycombinator.com/item?id=31184968</guid>
-            <pubDate>Wed, 27 Apr 2022 19:58:28 GMT</pubDate>
-            <description><![CDATA[We built 50 coming soon page templates with Tailwind CSS cause we couldn't find]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基亚仪器]]></title>
-            <link>https://news.ycombinator.com/item?id=31184957</link>
-            <guid>https://news.ycombinator.com/item?id=31184957</guid>
-            <pubDate>Wed, 27 Apr 2022 19:57:07 GMT</pubDate>
-            <description><![CDATA[The Kia Instrument]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软披露俄罗斯对乌克兰的网络攻击事件]]></title>
-            <link>https://news.ycombinator.com/item?id=31184951</link>
-            <guid>https://news.ycombinator.com/item?id=31184951</guid>
-            <pubDate>Wed, 27 Apr 2022 19:56:41 GMT</pubDate>
-            <description><![CDATA[Microsoft discloses onslaught of Russian cyberattacks on Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德州仪器公司加剧了对芯片过剩的担忧]]></title>
-            <link>https://news.ycombinator.com/item?id=31184949</link>
-            <guid>https://news.ycombinator.com/item?id=31184949</guid>
-            <pubDate>Wed, 27 Apr 2022 19:56:37 GMT</pubDate>
-            <description><![CDATA[TI adds to chip glut fears]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RFC 9116: 一种帮助安全漏洞披露的文件格式]]></title>
-            <link>https://news.ycombinator.com/item?id=31184926</link>
-            <guid>https://news.ycombinator.com/item?id=31184926</guid>
-            <pubDate>Wed, 27 Apr 2022 19:54:49 GMT</pubDate>
-            <description><![CDATA[RFC 9116: A File Format to Aid in Security Vulnerability Disclosure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-马斯克可能不会收购Twitter]]></title>
-            <link>https://news.ycombinator.com/item?id=31184899</link>
-            <guid>https://news.ycombinator.com/item?id=31184899</guid>
-            <pubDate>Wed, 27 Apr 2022 19:52:17 GMT</pubDate>
-            <description><![CDATA[Elon Musk probably won’t buy Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术投资回报率的讨论被打破了]]></title>
-            <link>https://news.ycombinator.com/item?id=31184851</link>
-            <guid>https://news.ycombinator.com/item?id=31184851</guid>
-            <pubDate>Wed, 27 Apr 2022 19:46:48 GMT</pubDate>
-            <description><![CDATA[Technology ROI Discussions Are Broken]]></description>
-        </item>
-        <item>
-            <title><![CDATA[rq: 结构化数据（JSON、MessagePack、CBOR等）之间的通用转换工具。]]></title>
-            <link>https://news.ycombinator.com/item?id=31184825</link>
-            <guid>https://news.ycombinator.com/item?id=31184825</guid>
-            <pubDate>Wed, 27 Apr 2022 19:44:44 GMT</pubDate>
-            <description><![CDATA[rq: Universal convertor between structured data (JSON, MessagePack, CBOR, etc.)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络犯罪分子骗取受害者转账，以逆转即时付款]]></title>
-            <link>https://news.ycombinator.com/item?id=31184736</link>
-            <guid>https://news.ycombinator.com/item?id=31184736</guid>
-            <pubDate>Wed, 27 Apr 2022 19:36:49 GMT</pubDate>
-            <description><![CDATA[Cybercriminals Trick Victims into Transferring Funds to Reverse Instant Payments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[精神控制的未来 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=31184702</link>
-            <guid>https://news.ycombinator.com/item?id=31184702</guid>
-            <pubDate>Wed, 27 Apr 2022 19:33:47 GMT</pubDate>
-            <description><![CDATA[The future of mind control (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Veza推出开放式授权API]]></title>
-            <link>https://news.ycombinator.com/item?id=31184528</link>
-            <guid>https://news.ycombinator.com/item?id=31184528</guid>
-            <pubDate>Wed, 27 Apr 2022 19:19:00 GMT</pubDate>
-            <description><![CDATA[Veza Launches Open Authorization API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[破解Docker CLI：如何掌握容器管理命令]]></title>
-            <link>https://news.ycombinator.com/item?id=31184392</link>
-            <guid>https://news.ycombinator.com/item?id=31184392</guid>
-            <pubDate>Wed, 27 Apr 2022 19:08:12 GMT</pubDate>
-            <description><![CDATA[Cracking the Docker CLI: How to Grasp Container Management Commands]]></description>
         </item>
     </channel>
 </rss>
