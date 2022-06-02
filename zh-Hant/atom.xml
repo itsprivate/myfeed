@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-02T15:59:16.337Z</updated>
+    <updated>2022-06-02T16:59:05.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,450 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust泛型的介紹[1/2]。特質
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597101</id>
+        <link href="https://news.ycombinator.com/item?id=31597101"/>
+        <updated>2022-06-02T16:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Rust generics [1/2]: Traits]]></summary>
+        <author>
+            <name>z0mbie42</name>
+            <uri>https://news.ycombinator.com/user?id=z0mbie42</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柬埔寨項目：用鏡頭翻譯你的數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597096</id>
+        <link href="https://news.ycombinator.com/item?id=31597096"/>
+        <updated>2022-06-02T16:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Project Cambria: Translate your data with lenses]]></summary>
+        <author>
+            <name>mxstbr</name>
+            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用科技固定晝夜節律的永恆的、徒勞的努力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597022</id>
+        <link href="https://news.ycombinator.com/item?id=31597022"/>
+        <updated>2022-06-02T16:32:10.000Z</updated>
+        <summary type="html"><![CDATA[The timeless, futile effort to fix circadian rhythms with tech]]></summary>
+        <author>
+            <name>nobet</name>
+            <uri>https://news.ycombinator.com/user?id=nobet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戈雅。真實的見證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597009</id>
+        <link href="https://news.ycombinator.com/item?id=31597009"/>
+        <updated>2022-06-02T16:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Goya: Bearing True Witness]]></summary>
+        <author>
+            <name>druther</name>
+            <uri>https://news.ycombinator.com/user?id=druther</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[記憶技巧維基
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31597001</id>
+        <link href="https://news.ycombinator.com/item?id=31597001"/>
+        <updated>2022-06-02T16:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The Memory Techniques Wiki]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於結局的思考方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596997</id>
+        <link href="https://news.ycombinator.com/item?id=31596997"/>
+        <updated>2022-06-02T16:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Ways of Thinking about Endings]]></summary>
+        <author>
+            <name>unquote</name>
+            <uri>https://news.ycombinator.com/user?id=unquote</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼稱智能手機將在三年內扼殺單反相機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596976</id>
+        <link href="https://news.ycombinator.com/item?id=31596976"/>
+        <updated>2022-06-02T16:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Smartphones will kill off the DSLR within three years says Sony]]></summary>
+        <author>
+            <name>ur-whale</name>
+            <uri>https://news.ycombinator.com/user?id=ur-whale</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla發佈本地機器翻譯工具作為Project Bergamot的一部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596888</id>
+        <link href="https://news.ycombinator.com/item?id=31596888"/>
+        <updated>2022-06-02T16:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla releases local machine translation tools as part of Project Bergamot]]></summary>
+        <author>
+            <name>Vinnl</name>
+            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布盧姆分類法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596881</id>
+        <link href="https://news.ycombinator.com/item?id=31596881"/>
+        <updated>2022-06-02T16:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Bloom’s Taxonomy]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度政府採購DNA試劑盒以研究人口的 "種族純潔性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596861</id>
+        <link href="https://news.ycombinator.com/item?id=31596861"/>
+        <updated>2022-06-02T16:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Indian government procures DNA kits to study ‘racial purity’ of population]]></summary>
+        <author>
+            <name>devnonymous</name>
+            <uri>https://news.ycombinator.com/user?id=devnonymous</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌直接聯繫我，幫助恢復Play Store上的FairEmail
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596853</id>
+        <link href="https://news.ycombinator.com/item?id=31596853"/>
+        <updated>2022-06-02T16:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Google contacted me directly to help restore FairEmail on the Play Store]]></summary>
+        <author>
+            <name>cf100clunk</name>
+            <uri>https://news.ycombinator.com/user?id=cf100clunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克告訴特斯拉員工。回到辦公室，否則
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596796</id>
+        <link href="https://news.ycombinator.com/item?id=31596796"/>
+        <updated>2022-06-02T16:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk tells Tesla employees: Return to the office, or else]]></summary>
+        <author>
+            <name>batmaniam</name>
+            <uri>https://news.ycombinator.com/user?id=batmaniam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno DLM今天推出
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596758</id>
+        <link href="https://news.ycombinator.com/item?id=31596758"/>
+        <updated>2022-06-02T16:15:25.000Z</updated>
+        <summary type="html"><![CDATA[Deno DLM Launches Today]]></summary>
+        <author>
+            <name>cdschexnide</name>
+            <uri>https://news.ycombinator.com/user?id=cdschexnide</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為公眾提供的關於SSL證書的信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596733</id>
+        <link href="https://news.ycombinator.com/item?id=31596733"/>
+        <updated>2022-06-02T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Information for the Public about SSL Certificates]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果將推出網絡搜索引擎的傳言再次出現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596589</id>
+        <link href="https://news.ycombinator.com/item?id=31596589"/>
+        <updated>2022-06-02T16:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Rumor that Apple will launch a web search engine pops up again]]></summary>
+        <author>
+            <name>kristianpaul</name>
+            <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這改變了網絡。英特爾IPU與大泉峽谷的實踐
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596490</id>
+        <link href="https://news.ycombinator.com/item?id=31596490"/>
+        <updated>2022-06-02T15:59:37.000Z</updated>
+        <summary type="html"><![CDATA[This Changes Networking: Intel IPU Hands-On with Big Spring Canyon]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工神經網絡中元記憶的進化與神經調控
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596465</id>
+        <link href="https://news.ycombinator.com/item?id=31596465"/>
+        <updated>2022-06-02T15:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Evolution of metamemory in artificial neural network with neuromodulation]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps專家DarkAndNerdy談第三方的可靠性衡量標準
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596459</id>
+        <link href="https://news.ycombinator.com/item?id=31596459"/>
+        <updated>2022-06-02T15:57:04.000Z</updated>
+        <summary type="html"><![CDATA[DevOps expert DarkAndNerdy on third-party reliability metrics]]></summary>
+        <author>
+            <name>jmartens</name>
+            <uri>https://news.ycombinator.com/user?id=jmartens</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript和TypeScript中的單體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596419</id>
+        <link href="https://news.ycombinator.com/item?id=31596419"/>
+        <updated>2022-06-02T15:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Monorepos in JavaScript and TypeScript]]></summary>
+        <author>
+            <name>rwieruch</name>
+            <uri>https://news.ycombinator.com/user?id=rwieruch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石材法律圖書館
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596413</id>
+        <link href="https://news.ycombinator.com/item?id=31596413"/>
+        <updated>2022-06-02T15:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Lithic Legal Library]]></summary>
+        <author>
+            <name>boling11</name>
+            <uri>https://news.ycombinator.com/user?id=boling11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掃描設備中的非法文件的原因是不會飛的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596392</id>
+        <link href="https://news.ycombinator.com/item?id=31596392"/>
+        <updated>2022-06-02T15:51:59.000Z</updated>
+        <summary type="html"><![CDATA[The reasons why scanning devices for unlawful files is not going to fly]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓦羅銀行可能在年底前耗盡資金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596377</id>
+        <link href="https://news.ycombinator.com/item?id=31596377"/>
+        <updated>2022-06-02T15:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Varo Bank could run out of funds by year-end]]></summary>
+        <author>
+            <name>aruanavekar</name>
+            <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[間諜每週三天打擊恐怖主義
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596368</id>
+        <link href="https://news.ycombinator.com/item?id=31596368"/>
+        <updated>2022-06-02T15:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Spies fighting terrorism three days a week]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凱特-布什因《陌生人》而在榜單上名列前茅
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596347</id>
+        <link href="https://news.ycombinator.com/item?id=31596347"/>
+        <updated>2022-06-02T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Kate Bush running up that chart thanks to Stranger Things]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拿破崙的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596346</id>
+        <link href="https://news.ycombinator.com/item?id=31596346"/>
+        <updated>2022-06-02T15:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Napoleon's]]></summary>
+        <author>
+            <name>na85</name>
+            <uri>https://news.ycombinator.com/user?id=na85</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在JavaScript中從字符串創建Slug
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596330</id>
+        <link href="https://news.ycombinator.com/item?id=31596330"/>
+        <updated>2022-06-02T15:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Create Slug from String in JavaScript]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在這個弗吉尼亞州的小鎮上，市民像評論Uber司機一樣評論警察
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596326</id>
+        <link href="https://news.ycombinator.com/item?id=31596326"/>
+        <updated>2022-06-02T15:46:47.000Z</updated>
+        <summary type="html"><![CDATA[In this small Virginia town, citizens review police like Uber drivers]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psycopg行工廠如何幫助你編寫更安全的應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596300</id>
+        <link href="https://news.ycombinator.com/item?id=31596300"/>
+        <updated>2022-06-02T15:44:59.000Z</updated>
+        <summary type="html"><![CDATA[How Psycopg row factories help you write safer applications]]></summary>
+        <author>
+            <name>daamien</name>
+            <uri>https://news.ycombinator.com/user?id=daamien</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡夫卡在普爾薩。世界新秩序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596290</id>
+        <link href="https://news.ycombinator.com/item?id=31596290"/>
+        <updated>2022-06-02T15:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Kafka on Pulsar. The new world order]]></summary>
+        <author>
+            <name>Carolyn22</name>
+            <uri>https://news.ycombinator.com/user?id=Carolyn22</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YC申請。這是否符合黑客攻擊系統的條件？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596278</id>
+        <link href="https://news.ycombinator.com/item?id=31596278"/>
+        <updated>2022-06-02T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[YC Application: Does this qualify as hacking a system?]]></summary>
+        <author>
+            <name>mrmrch</name>
+            <uri>https://news.ycombinator.com/user?id=mrmrch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haberdasher是一個類似於Git的VCS，適用於大型倉庫。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596233</id>
+        <link href="https://news.ycombinator.com/item?id=31596233"/>
+        <updated>2022-06-02T15:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Haberdasher is a Git-like VCS for huge repos]]></summary>
+        <author>
+            <name>yash-hd</name>
+            <uri>https://news.ycombinator.com/user?id=yash-hd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果把零售業折算進去，蘋果公司付給員工的工資比谷歌或微軟少
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596228</id>
+        <link href="https://news.ycombinator.com/item?id=31596228"/>
+        <updated>2022-06-02T15:40:12.000Z</updated>
+        <summary type="html"><![CDATA[When retail is folded in, Apple pays employees less than Google or Microsoft]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克萊恩工具TI250熱成像儀的隱藏世界
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596165</id>
+        <link href="https://news.ycombinator.com/item?id=31596165"/>
+        <updated>2022-06-02T15:36:09.000Z</updated>
+        <summary type="html"><![CDATA[The Hidden Worlds of the Klein Tools TI250 Thermal Imager]]></summary>
+        <author>
+            <name>smitelli</name>
+            <uri>https://news.ycombinator.com/user?id=smitelli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontier超級計算機作為世界上最快的計算機首次亮相，打破了exascale障礙
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596092</id>
+        <link href="https://news.ycombinator.com/item?id=31596092"/>
+        <updated>2022-06-02T15:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Frontier supercomputer debuts as world’s fastest, breaking exascale barrier]]></summary>
+        <author>
+            <name>c_prompt</name>
+            <uri>https://news.ycombinator.com/user?id=c_prompt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把測試放在一個單獨的Git Repo中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595927</id>
+        <link href="https://news.ycombinator.com/item?id=31595927"/>
+        <updated>2022-06-02T15:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Putting Tests in a Separate Git Repo]]></summary>
+        <author>
+            <name>da-x</name>
+            <uri>https://news.ycombinator.com/user?id=da-x</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鑄鐵調味品的化學。一個基於科學的方法 (2010)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595899</id>
+        <link href="https://news.ycombinator.com/item?id=31595899"/>
+        <updated>2022-06-02T15:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在名畫中尋找正確位置的謎語遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595873</id>
+        <link href="https://news.ycombinator.com/item?id=31595873"/>
+        <updated>2022-06-02T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A riddle game to find the right spots in famous paintings]]></summary>
+        <author>
+            <name>soneca</name>
+            <uri>https://news.ycombinator.com/user?id=soneca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建立一個分批通知系統
 ]]></title>
@@ -6265,413 +6709,6 @@
         <author>
             <name>uberdru</name>
             <uri>https://news.ycombinator.com/user?id=uberdru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克提升對推特員工的批評]]></title>
-        <id>https://news.ycombinator.com/item?id=31180290</id>
-        <link href="https://news.ycombinator.com/item?id=31180290"/>
-        <updated>2022-04-27T14:25:55.000Z</updated>
-        <summary type="html"><![CDATA[Musk boosts criticism of Twitter employee]]></summary>
-        <author>
-            <name>boplicity</name>
-            <uri>https://news.ycombinator.com/user?id=boplicity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洩露的推特高管音頻揭示了為應對馬斯克收購而進行的爭論]]></title>
-        <id>https://news.ycombinator.com/item?id=31180271</id>
-        <link href="https://news.ycombinator.com/item?id=31180271"/>
-        <updated>2022-04-27T14:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Leaked Audio from Twitter Execs Reveals Scramble to Cope with Musk Takeover]]></summary>
-        <author>
-            <name>camjohnson26</name>
-            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab手冊]]></title>
-        <id>https://news.ycombinator.com/item?id=31179699</id>
-        <link href="https://news.ycombinator.com/item?id=31179699"/>
-        <updated>2022-04-27T13:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Gitlab Handbook]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10個盒子的練習。橡皮擦碰到日曆路的地方]]></title>
-        <id>https://news.ycombinator.com/item?id=31179618</id>
-        <link href="https://news.ycombinator.com/item?id=31179618"/>
-        <updated>2022-04-27T13:31:45.000Z</updated>
-        <summary type="html"><![CDATA[The 10-Box Exercise: Where Estimate Rubber Hits the Calendar Road]]></summary>
-        <author>
-            <name>philk10</name>
-            <uri>https://news.ycombinator.com/user?id=philk10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在加拿大、美國和澳大利亞的隕石中發現了DNA和RNA的所有5個組成成分]]></title>
-        <id>https://news.ycombinator.com/item?id=31180538</id>
-        <link href="https://news.ycombinator.com/item?id=31180538"/>
-        <updated>2022-04-27T14:46:43.000Z</updated>
-        <summary type="html"><![CDATA[All 5 building blocks of DNA, RNA found in meteorites from Canada, U.S., Aus]]></summary>
-        <author>
-            <name>echo_hessel</name>
-            <uri>https://news.ycombinator.com/user?id=echo_hessel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECAppLog - 為程序員提供的網絡化日誌GUI]]></title>
-        <id>https://news.ycombinator.com/item?id=31180537</id>
-        <link href="https://news.ycombinator.com/item?id=31180537"/>
-        <updated>2022-04-27T14:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ECAppLog – a networked logging GUI for programmers]]></summary>
-        <author>
-            <name>rangelreale</name>
-            <uri>https://news.ycombinator.com/user?id=rangelreale</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書母公司Meta預計將公佈自IPO以來最慢的收入增長]]></title>
-        <id>https://news.ycombinator.com/item?id=31180517</id>
-        <link href="https://news.ycombinator.com/item?id=31180517"/>
-        <updated>2022-04-27T14:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Parent Meta Expected to Post Slowest Revenue Growth Since IPO]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buddy Pond - 雲端桌面和即時通訊（Alpha）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31180427</id>
-        <link href="https://news.ycombinator.com/item?id=31180427"/>
-        <updated>2022-04-27T14:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Buddy Pond – Cloud Desktop and Instant Messenger (Alpha)]]></summary>
-        <author>
-            <name>_Marak_</name>
-            <uri>https://news.ycombinator.com/user?id=_Marak_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麝香與節制]]></title>
-        <id>https://news.ycombinator.com/item?id=31180416</id>
-        <link href="https://news.ycombinator.com/item?id=31180416"/>
-        <updated>2022-04-27T14:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Musk and Moderation]]></summary>
-        <author>
-            <name>Jun8</name>
-            <uri>https://news.ycombinator.com/user?id=Jun8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一本教程序員 "活得更久 "的指南在GitHub上瘋傳]]></title>
-        <id>https://news.ycombinator.com/item?id=31179969</id>
-        <link href="https://news.ycombinator.com/item?id=31179969"/>
-        <updated>2022-04-27T14:00:03.000Z</updated>
-        <summary type="html"><![CDATA[A guide teaching programmers “to live longer” goes viral on GitHub]]></summary>
-        <author>
-            <name>qinchencq</name>
-            <uri>https://news.ycombinator.com/user?id=qinchencq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab的新標誌。Gitlab的中心是DevOps]]></title>
-        <id>https://news.ycombinator.com/item?id=31180242</id>
-        <link href="https://news.ycombinator.com/item?id=31180242"/>
-        <updated>2022-04-27T14:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Gitlab New Logo: DevOps Is at the Center of Gitlab]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司的蒂姆-庫克和金融家雷-達利歐應註冊為中國的代理人]]></title>
-        <id>https://news.ycombinator.com/item?id=31180154</id>
-        <link href="https://news.ycombinator.com/item?id=31180154"/>
-        <updated>2022-04-27T14:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Tim Cook of Apple and financier Ray Dalio should register as agents for China]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於解釋影響評價結果的貝葉斯框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31179446</id>
-        <link href="https://news.ycombinator.com/item?id=31179446"/>
-        <updated>2022-04-27T13:15:07.000Z</updated>
-        <summary type="html"><![CDATA[A Bayesian framework for interpreting findings from impact evaluations]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare阻止15M rps HTTPS DDoS攻擊]]></title>
-        <id>https://news.ycombinator.com/item?id=31180208</id>
-        <link href="https://news.ycombinator.com/item?id=31180208"/>
-        <updated>2022-04-27T14:19:53.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare blocks 15M rps HTTPS DDoS attack]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twister: 去中心化的點對點微博客]]></title>
-        <id>https://news.ycombinator.com/item?id=31180165</id>
-        <link href="https://news.ycombinator.com/item?id=31180165"/>
-        <updated>2022-04-27T14:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Twister: Decentralized Peer-to-Peer Microblogging]]></summary>
-        <author>
-            <name>nateb2022</name>
-            <uri>https://news.ycombinator.com/user?id=nateb2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用SQL進行AWS合規性審計]]></title>
-        <id>https://news.ycombinator.com/item?id=31180132</id>
-        <link href="https://news.ycombinator.com/item?id=31180132"/>
-        <updated>2022-04-27T14:13:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS Compliance Auditing with SQL]]></summary>
-        <author>
-            <name>bob-bot</name>
-            <uri>https://news.ycombinator.com/user?id=bob-bot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球評論--評論地球上的事物，以幫助改善模擬。]]></title>
-        <id>https://news.ycombinator.com/item?id=31180004</id>
-        <link href="https://news.ycombinator.com/item?id=31180004"/>
-        <updated>2022-04-27T14:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Earth Reviews – review things on Earth to help improve the simulation]]></summary>
-        <author>
-            <name>Kamogo</name>
-            <uri>https://news.ycombinator.com/user?id=Kamogo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub。頭部不再解析到主分支？]]></title>
-        <id>https://news.ycombinator.com/item?id=31179984</id>
-        <link href="https://news.ycombinator.com/item?id=31179984"/>
-        <updated>2022-04-27T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[GitHub: Head no longer resolves to the main branch?]]></summary>
-        <author>
-            <name>beny23</name>
-            <uri>https://news.ycombinator.com/user?id=beny23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建計算機視覺監控解決方案時必須監控的關鍵指標]]></title>
-        <id>https://news.ycombinator.com/item?id=31179842</id>
-        <link href="https://news.ycombinator.com/item?id=31179842"/>
-        <updated>2022-04-27T13:47:50.000Z</updated>
-        <summary type="html"><![CDATA[Key Metrics You Must Monitor When Building a Computer Vision Monitoring Solution]]></summary>
-        <author>
-            <name>vcastelli2</name>
-            <uri>https://news.ycombinator.com/user?id=vcastelli2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原有的猶他州茶壺（1.4L）有庫存]]></title>
-        <id>https://news.ycombinator.com/item?id=31178947</id>
-        <link href="https://news.ycombinator.com/item?id=31178947"/>
-        <updated>2022-04-27T12:14:59.000Z</updated>
-        <summary type="html"><![CDATA[The original Utah teapot(1.4L) is in stock]]></summary>
-        <author>
-            <name>numpad0</name>
-            <uri>https://news.ycombinator.com/user?id=numpad0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國人現在可以贊助烏克蘭人在美國的臨時避難所了]]></title>
-        <id>https://news.ycombinator.com/item?id=31179921</id>
-        <link href="https://news.ycombinator.com/item?id=31179921"/>
-        <updated>2022-04-27T13:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Americans Can Now Sponsor Ukrainians for Temporary Refuge in the U.S.]]></summary>
-        <author>
-            <name>niij</name>
-            <uri>https://news.ycombinator.com/user?id=niij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個無言的人]]></title>
-        <id>https://news.ycombinator.com/item?id=31179912</id>
-        <link href="https://news.ycombinator.com/item?id=31179912"/>
-        <updated>2022-04-27T13:55:17.000Z</updated>
-        <summary type="html"><![CDATA[A Man Without Words]]></summary>
-        <author>
-            <name>monort</name>
-            <uri>https://news.ycombinator.com/user?id=monort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPI - 用於ML和自我恢復現貨的Terraform供應商]]></title>
-        <id>https://news.ycombinator.com/item?id=31179765</id>
-        <link href="https://news.ycombinator.com/item?id=31179765"/>
-        <updated>2022-04-27T13:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TPI – Terraform provider for ML and self-recovering spot-instances]]></summary>
-        <author>
-            <name>dmpetrov</name>
-            <uri>https://news.ycombinator.com/user?id=dmpetrov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tropicana如何在包裝重新設計中損失3000萬美元？]]></title>
-        <id>https://news.ycombinator.com/item?id=31179720</id>
-        <link href="https://news.ycombinator.com/item?id=31179720"/>
-        <updated>2022-04-27T13:38:19.000Z</updated>
-        <summary type="html"><![CDATA[How did Tropicana lose $30M in a packaging redesign?]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[言論自由權並不意味著人工智能算法放大的權利]]></title>
-        <id>https://news.ycombinator.com/item?id=31179707</id>
-        <link href="https://news.ycombinator.com/item?id=31179707"/>
-        <updated>2022-04-27T13:37:20.000Z</updated>
-        <summary type="html"><![CDATA[The Right to Free Speech Does Not Mean a Right of AI Algorithm Amplification]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型科技巨頭是如何賺到錢的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31179703</id>
-        <link href="https://news.ycombinator.com/item?id=31179703"/>
-        <updated>2022-04-27T13:36:54.000Z</updated>
-        <summary type="html"><![CDATA[How Do Big Tech Giants Make Their Billions?]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo。適用於安卓的應用程序跟蹤保護]]></title>
-        <id>https://news.ycombinator.com/item?id=31179548</id>
-        <link href="https://news.ycombinator.com/item?id=31179548"/>
-        <updated>2022-04-27T13:25:13.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo: App Tracking Protection for Android]]></summary>
-        <author>
-            <name>gmargari</name>
-            <uri>https://news.ycombinator.com/user?id=gmargari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果自助服務維修店]]></title>
-        <id>https://news.ycombinator.com/item?id=31179376</id>
-        <link href="https://news.ycombinator.com/item?id=31179376"/>
-        <updated>2022-04-27T13:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Apple Self Service Repair Store]]></summary>
-        <author>
-            <name>ilikepi</name>
-            <uri>https://news.ycombinator.com/user?id=ilikepi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用圍棋戰勝格雷普]]></title>
-        <id>https://news.ycombinator.com/item?id=31179373</id>
-        <link href="https://news.ycombinator.com/item?id=31179373"/>
-        <updated>2022-04-27T13:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Beating Grep with Go]]></summary>
-        <author>
-            <name>mfrw</name>
-            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司將派人到你家裡，讓你修理你的iPhone。]]></title>
-        <id>https://news.ycombinator.com/item?id=31179335</id>
-        <link href="https://news.ycombinator.com/item?id=31179335"/>
-        <updated>2022-04-27T13:03:49.000Z</updated>
-        <summary type="html"><![CDATA[The Kit Apple Will Send to Your House So You Can Fix Your iPhone]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春天的土著。讓Spring Boot飛起來的翅膀]]></title>
-        <id>https://news.ycombinator.com/item?id=31178924</id>
-        <link href="https://news.ycombinator.com/item?id=31178924"/>
-        <updated>2022-04-27T12:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Spring Native: The Wings That Make Spring Boot Fly]]></summary>
-        <author>
-            <name>wenqiglantz</name>
-            <uri>https://news.ycombinator.com/user?id=wenqiglantz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，快步走的人壽命更長]]></title>
-        <id>https://news.ycombinator.com/item?id=31179594</id>
-        <link href="https://news.ycombinator.com/item?id=31179594"/>
-        <updated>2022-04-27T13:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Brisk walkers live longer, research suggests]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪斯尼告訴投資者州政府不能在不支付債務的情況下解散特別區]]></title>
-        <id>https://news.ycombinator.com/item?id=31179582</id>
-        <link href="https://news.ycombinator.com/item?id=31179582"/>
-        <updated>2022-04-27T13:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Disney tells investors state can’t dissolve special district without paying debt]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scfg - 一個簡單的配置文件格式]]></title>
-        <id>https://news.ycombinator.com/item?id=31179567</id>
-        <link href="https://news.ycombinator.com/item?id=31179567"/>
-        <updated>2022-04-27T13:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Scfg – A simple configuration file format]]></summary>
-        <author>
-            <name>smlavine</name>
-            <uri>https://news.ycombinator.com/user?id=smlavine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司推出iPhone自助服務維修計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=31179537</id>
-        <link href="https://news.ycombinator.com/item?id=31179537"/>
-        <updated>2022-04-27T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Launches Self Service Repair Program for iPhone]]></summary>
-        <author>
-            <name>mromanuk</name>
-            <uri>https://news.ycombinator.com/user?id=mromanuk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在 "每日應用 "的獨立應用中使用的唯一SDK]]></title>
-        <id>https://news.ycombinator.com/item?id=31179507</id>
-        <link href="https://news.ycombinator.com/item?id=31179507"/>
-        <updated>2022-04-27T13:20:29.000Z</updated>
-        <summary type="html"><![CDATA[The only SDK I use in my 'App of the Day' indie app]]></summary>
-        <author>
-            <name>daibhin</name>
-            <uri>https://news.ycombinator.com/user?id=daibhin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法國多個城市的互聯網因涉嫌破壞而癱瘓]]></title>
-        <id>https://news.ycombinator.com/item?id=31179478</id>
-        <link href="https://news.ycombinator.com/item?id=31179478"/>
-        <updated>2022-04-27T13:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Internet down in multiple cities across France after suspected sabotage]]></summary>
-        <author>
-            <name>timthorn</name>
-            <uri>https://news.ycombinator.com/user?id=timthorn</uri>
         </author>
     </entry>
 </feed>
