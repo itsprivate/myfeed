@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-03T22:46:41.094Z</updated>
+    <updated>2022-06-03T22:57:49.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，谷歌的替代品，与创作者分享收入。作者：Ahrefs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614518</id>
+        <link href="https://news.ycombinator.com/item?id=31614518"/>
+        <updated>2022-06-03T22:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Yep, the Google alternative that shares revenue with creators. By Ahrefs]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614097</id>
+        <link href="https://news.ycombinator.com/item?id=31614097"/>
+        <updated>2022-06-03T21:48:45.000Z</updated>
+        <summary type="html"><![CDATA[JSON Server]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书让这个29岁的年轻人变得富有，战争让他成为亿万富翁
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>noch</name>
             <uri>https://news.ycombinator.com/user?id=noch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在科技领域实现种姓平等的历程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31599153</id>
-        <link href="https://news.ycombinator.com/item?id=31599153"/>
-        <updated>2022-06-02T19:00:30.000Z</updated>
-        <summary type="html"><![CDATA[The journey towards caste equity in tech]]></summary>
-        <author>
-            <name>yablak</name>
-            <uri>https://news.ycombinator.com/user?id=yablak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过犬类嗅觉无创检测SARS-CoV-2感染的准确性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31599703</id>
-        <link href="https://news.ycombinator.com/item?id=31599703"/>
-        <updated>2022-06-02T19:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Accuracy of non-invasive detection of SARS-CoV-2 infection by canine olfaction]]></summary>
-        <author>
-            <name>tzs</name>
-            <uri>https://news.ycombinator.com/user?id=tzs</uri>
         </author>
     </entry>
 </feed>
