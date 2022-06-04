@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T07:43:50.572Z</updated>
+    <updated>2022-06-04T07:57:34.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约将出台首个电子产品维修权法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617654</id>
+        <link href="https://news.ycombinator.com/item?id=31617654"/>
+        <updated>2022-06-04T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[New York to get first right-to-repair law for electronics]]></summary>
+        <author>
+            <name>raybb</name>
+            <uri>https://news.ycombinator.com/user?id=raybb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维姆-科恩斯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617167</id>
+        <link href="https://news.ycombinator.com/item?id=31617167"/>
+        <updated>2022-06-04T05:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Vim Kōans]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平稳的、非侵入性的Haskell Stack和Nix shell集成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617037</id>
+        <link href="https://news.ycombinator.com/item?id=31617037"/>
+        <updated>2022-06-04T04:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Smooth, non-invasive Haskell Stack and Nix shell integration]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔治-霍兹逆向工程Nvidia CUDA调用
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[餐馆在你的支票上增加新的费用以应对通货膨胀
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602485</id>
-        <link href="https://news.ycombinator.com/item?id=31602485"/>
-        <updated>2022-06-03T00:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Restaurants Add New Fees to Your Check to Counter Inflation]]></summary>
-        <author>
-            <name>LopRabbit</name>
-            <uri>https://news.ycombinator.com/user?id=LopRabbit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克宣布结束在特斯拉的远程工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602480</id>
-        <link href="https://news.ycombinator.com/item?id=31602480"/>
-        <updated>2022-06-03T00:28:50.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk declares end to remote working at Tesla]]></summary>
-        <author>
-            <name>fortysixdegrees</name>
-            <uri>https://news.ycombinator.com/user?id=fortysixdegrees</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克告诉特斯拉员工。回到办公室，否则
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602455</id>
-        <link href="https://news.ycombinator.com/item?id=31602455"/>
-        <updated>2022-06-03T00:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk tells Tesla employees: Return to the office, or else]]></summary>
-        <author>
-            <name>gxs</name>
-            <uri>https://news.ycombinator.com/user?id=gxs</uri>
         </author>
     </entry>
 </feed>
