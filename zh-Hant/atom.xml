@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T09:01:54.573Z</updated>
+    <updated>2022-06-04T09:27:41.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[起泡的數據傳輸記錄時鐘超過每秒1 petabit
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617925</id>
+        <link href="https://news.ycombinator.com/item?id=31617925"/>
+        <updated>2022-06-04T07:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Blistering data transmission record clocks over 1 petabit per second]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完善對英特爾平臺的開源固件支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617593</id>
+        <link href="https://news.ycombinator.com/item?id=31617593"/>
+        <updated>2022-06-04T06:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Refining Open-Source Firmware Support for the Intel Platform]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我辭去了在Netflix的45萬美元的工程工作
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電腦。帶有云文件系統的桌面環境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602989</id>
-        <link href="https://news.ycombinator.com/item?id=31602989"/>
-        <updated>2022-06-03T01:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Puter: Desktop Environment with a Cloud Filesystem]]></summary>
-        <author>
-            <name>george0812</name>
-            <uri>https://news.ycombinator.com/user?id=george0812</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXIF標籤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602958</id>
-        <link href="https://news.ycombinator.com/item?id=31602958"/>
-        <updated>2022-06-03T01:10:36.000Z</updated>
-        <summary type="html"><![CDATA[EXIF Tags]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
