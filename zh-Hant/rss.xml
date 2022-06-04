@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 04 Jun 2022 11:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GNU yes(1)為什麼這麼快？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619076</link>
+            <guid>https://news.ycombinator.com/item?id=31619076</guid>
+            <pubDate>Sat, 04 Jun 2022 11:20:03 GMT</pubDate>
+            <description><![CDATA[How is GNU yes(1) so fast?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[影響多米尼克投票系統的漏洞ImageCast X (2022)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31618935</link>
+            <guid>https://news.ycombinator.com/item?id=31618935</guid>
+            <pubDate>Sat, 04 Jun 2022 10:55:16 GMT</pubDate>
+            <description><![CDATA[Vulnerabilities Affecting Dominion Voting Systems ImageCast X (2022)]]></description>
+        </item>
         <item>
             <title><![CDATA[我在3年內一直在構建一個Markdown記事本應用（2019年）
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31603633</guid>
             <pubDate>Fri, 03 Jun 2022 02:43:18 GMT</pubDate>
             <description><![CDATA[Finding and Funding a Good Life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於端到端自動駕駛的多模式融合變壓器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603587</link>
-            <guid>https://news.ycombinator.com/item?id=31603587</guid>
-            <pubDate>Fri, 03 Jun 2022 02:37:05 GMT</pubDate>
-            <description><![CDATA[Multi-Modal Fusion Transformer for End-to-End Autonomous Driving]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利用流形約束條件改進逆向問題的擴散模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603584</link>
-            <guid>https://news.ycombinator.com/item?id=31603584</guid>
-            <pubDate>Fri, 03 Jun 2022 02:36:42 GMT</pubDate>
-            <description><![CDATA[Improving Diffusion Models for Inverse Problems Using Manifold Constraints]]></description>
         </item>
     </channel>
 </rss>

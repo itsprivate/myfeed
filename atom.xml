@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T11:25:46.252Z</updated>
+    <updated>2022-06-04T11:42:40.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GNU yes(1)为什么这么快？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619076</id>
+        <link href="https://news.ycombinator.com/item?id=31619076"/>
+        <updated>2022-06-04T11:20:03.000Z</updated>
+        <summary type="html"><![CDATA[How is GNU yes(1) so fast?]]></summary>
+        <author>
+            <name>zbentley</name>
+            <uri>https://news.ycombinator.com/user?id=zbentley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影响多米尼克投票系统的漏洞ImageCast X (2022)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618935</id>
+        <link href="https://news.ycombinator.com/item?id=31618935"/>
+        <updated>2022-06-04T10:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerabilities Affecting Dominion Voting Systems ImageCast X (2022)]]></summary>
+        <author>
+            <name>imperio59</name>
+            <uri>https://news.ycombinator.com/user?id=imperio59</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在3年内一直在构建一个Markdown记事本应用（2019年）
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Grimburger</name>
             <uri>https://news.ycombinator.com/user?id=Grimburger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于端到端自动驾驶的多模式融合变压器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603587</id>
-        <link href="https://news.ycombinator.com/item?id=31603587"/>
-        <updated>2022-06-03T02:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Multi-Modal Fusion Transformer for End-to-End Autonomous Driving]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用流形约束条件改进逆向问题的扩散模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603584</id>
-        <link href="https://news.ycombinator.com/item?id=31603584"/>
-        <updated>2022-06-03T02:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Improving Diffusion Models for Inverse Problems Using Manifold Constraints]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>
