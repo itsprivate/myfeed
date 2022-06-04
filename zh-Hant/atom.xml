@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T05:58:47.426Z</updated>
+    <updated>2022-06-04T06:30:59.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌正在扼殺基於位置的提醒功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617485</id>
+        <link href="https://news.ycombinator.com/item?id=31617485"/>
+        <updated>2022-06-04T06:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Google is killing location-based reminders]]></summary>
+        <author>
+            <name>asplake</name>
+            <uri>https://news.ycombinator.com/user?id=asplake</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[測試顯示，汽車輪胎產生的顆粒物汙染遠遠超過尾氣。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617438</id>
+        <link href="https://news.ycombinator.com/item?id=31617438"/>
+        <updated>2022-06-04T05:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Car tyres produce vastly more particle pollution than exhausts, tests show]]></summary>
+        <author>
+            <name>ciconia</name>
+            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clojure的歷史 (2020) [pdf]
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drodio</name>
             <uri>https://news.ycombinator.com/user?id=drodio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家大型雲/DNS運營商的更多神秘DNS根查詢流量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601915</id>
-        <link href="https://news.ycombinator.com/item?id=31601915"/>
-        <updated>2022-06-02T23:26:45.000Z</updated>
-        <summary type="html"><![CDATA[More Mysterious DNS Root Query Traffic from a Large Cloud/DNS Operator]]></summary>
-        <author>
-            <name>zacwest</name>
-            <uri>https://news.ycombinator.com/user?id=zacwest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機器學習編譯課程 2022年夏季
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601796</id>
-        <link href="https://news.ycombinator.com/item?id=31601796"/>
-        <updated>2022-06-02T23:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Machine Learning Compilation Course Summer 2022]]></summary>
-        <author>
-            <name>natly</name>
-            <uri>https://news.ycombinator.com/user?id=natly</uri>
         </author>
     </entry>
 </feed>
