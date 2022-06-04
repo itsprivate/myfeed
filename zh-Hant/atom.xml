@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T17:03:33.223Z</updated>
+    <updated>2022-06-04T17:28:11.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我想知道RMS是否預計到，... 奔馳會運送這些迷你CD"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622795</id>
+        <link href="https://news.ycombinator.com/item?id=31622795"/>
+        <updated>2022-06-04T17:09:18.000Z</updated>
+        <summary type="html"><![CDATA[“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個關於async rust的主題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622717</id>
+        <link href="https://news.ycombinator.com/item?id=31622717"/>
+        <updated>2022-06-04T17:01:34.000Z</updated>
+        <summary type="html"><![CDATA[A thread about async rust]]></summary>
+        <author>
+            <name>mfrw</name>
+            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本測試利用深海洋流發電的巨型渦輪機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622646</id>
+        <link href="https://news.ycombinator.com/item?id=31622646"/>
+        <updated>2022-06-04T16:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Japan tested a giant turbine that generates electricity using deep ocean current]]></summary>
+        <author>
+            <name>jdmark</name>
+            <uri>https://news.ycombinator.com/user?id=jdmark</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[報告顯示詐騙者在加密貨幣熱潮中套現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621769</id>
+        <link href="https://news.ycombinator.com/item?id=31621769"/>
+        <updated>2022-06-04T15:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Reports show scammers cashing in on crypto craze]]></summary>
+        <author>
+            <name>croes</name>
+            <uri>https://news.ycombinator.com/user?id=croes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欺騙的藝術--新一代在線秘密行動的培訓
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31620720</id>
+        <link href="https://news.ycombinator.com/item?id=31620720"/>
+        <updated>2022-06-04T14:29:09.000Z</updated>
+        <summary type="html"><![CDATA[The Art of Deception – Training for a new generation of online covert operations]]></summary>
+        <author>
+            <name>midislack</name>
+            <uri>https://news.ycombinator.com/user?id=midislack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用SIMD顯著提高quicksort速度
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>nixass</name>
             <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify推出開源工具，解決現代音樂人的大問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605874</id>
-        <link href="https://news.ycombinator.com/item?id=31605874"/>
-        <updated>2022-06-03T08:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Spotify Introduces an Open-Source Tool to Fix a Big Problem for Modern Musicians]]></summary>
-        <author>
-            <name>techmagus</name>
-            <uri>https://news.ycombinator.com/user?id=techmagus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克的收購可能會終止推特的永久性在家工作政策
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605621</id>
-        <link href="https://news.ycombinator.com/item?id=31605621"/>
-        <updated>2022-06-03T08:16:33.000Z</updated>
-        <summary type="html"><![CDATA[An Elon Musk takeover could end Twitter’s permanent work-from-home policy]]></summary>
-        <author>
-            <name>Tozen</name>
-            <uri>https://news.ycombinator.com/user?id=Tozen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們可以逆轉小鼠的衰老。我們的目標是為人類做同樣的事情
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605510</id>
-        <link href="https://news.ycombinator.com/item?id=31605510"/>
-        <updated>2022-06-03T08:02:58.000Z</updated>
-        <summary type="html"><![CDATA[Scientists can reverse aging in mice. The goal is to do the same for humans]]></summary>
-        <author>
-            <name>ianai</name>
-            <uri>https://news.ycombinator.com/user?id=ianai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有正確四捨五入功能的多精度浮點運算C庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31606003</id>
-        <link href="https://news.ycombinator.com/item?id=31606003"/>
-        <updated>2022-06-03T09:19:03.000Z</updated>
-        <summary type="html"><![CDATA[C library for multiple-precision floating-point arithmetic with correct rounding]]></summary>
-        <author>
-            <name>Zaqball</name>
-            <uri>https://news.ycombinator.com/user?id=Zaqball</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C庫允許你與生產數據庫對接
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605964</id>
-        <link href="https://news.ycombinator.com/item?id=31605964"/>
-        <updated>2022-06-03T09:14:35.000Z</updated>
-        <summary type="html"><![CDATA[C library allows you to interface with a production database]]></summary>
-        <author>
-            <name>Zaqball</name>
-            <uri>https://news.ycombinator.com/user?id=Zaqball</uri>
         </author>
     </entry>
 </feed>
