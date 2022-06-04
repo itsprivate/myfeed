@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T22:46:42.123Z</updated>
+    <updated>2022-06-04T22:57:42.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[fzf.vim
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624894</id>
+        <link href="https://news.ycombinator.com/item?id=31624894"/>
+        <updated>2022-06-04T20:47:20.000Z</updated>
+        <summary type="html"><![CDATA[fzf.vim]]></summary>
+        <author>
+            <name>Curiositry</name>
+            <uri>https://news.ycombinator.com/user?id=Curiositry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[停止瘋狂 - 收回你的網絡瀏覽器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>okasaki</name>
             <uri>https://news.ycombinator.com/user?id=okasaki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腦信號蛋白比動物更早進化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31607948</id>
-        <link href="https://news.ycombinator.com/item?id=31607948"/>
-        <updated>2022-06-03T13:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Brain-Signal Proteins Evolved Before Animals Did]]></summary>
-        <author>
-            <name>theafh</name>
-            <uri>https://news.ycombinator.com/user?id=theafh</uri>
         </author>
     </entry>
 </feed>
