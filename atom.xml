@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T04:32:30.351Z</updated>
+    <updated>2022-06-04T04:53:08.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数字殖民主义
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617009</id>
+        <link href="https://news.ycombinator.com/item?id=31617009"/>
+        <updated>2022-06-04T04:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Digital Colonialism]]></summary>
+        <author>
+            <name>happy-go-lucky</name>
+            <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科维德控制会不会继续控制我们？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31616840</id>
+        <link href="https://news.ycombinator.com/item?id=31616840"/>
+        <updated>2022-06-04T03:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Will Covid controls keep controlling us?]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1989年天安门广场抗议和屠杀事件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>smashah</name>
             <uri>https://news.ycombinator.com/user?id=smashah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用zsh作为你的Mac上的默认shell (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601446</id>
-        <link href="https://news.ycombinator.com/item?id=31601446"/>
-        <updated>2022-06-02T22:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Use zsh as the default shell on your Mac (2019)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django的调试技巧和技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601395</id>
-        <link href="https://news.ycombinator.com/item?id=31601395"/>
-        <updated>2022-06-02T22:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Django Debugging Tips and Techniques]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
