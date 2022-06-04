@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T10:33:22.901Z</updated>
+    <updated>2022-06-04T10:46:50.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown博主，你的通訊工具是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618823</id>
+        <link href="https://news.ycombinator.com/item?id=31618823"/>
+        <updated>2022-06-04T10:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Markdown bloggers, what's your newsletter tool?]]></summary>
+        <author>
+            <name>notyeast</name>
+            <uri>https://news.ycombinator.com/user?id=notyeast</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼是否定式工程？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618341</id>
+        <link href="https://news.ycombinator.com/item?id=31618341"/>
+        <updated>2022-06-04T08:58:45.000Z</updated>
+        <summary type="html"><![CDATA[What Is Negative Engineering?]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我將辭去在Facebook的工作（2020）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用可編程光子處理器的量子計算優勢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603372</id>
-        <link href="https://news.ycombinator.com/item?id=31603372"/>
-        <updated>2022-06-03T02:05:29.000Z</updated>
-        <summary type="html"><![CDATA[Quantum computational advantage with a programmable photonic processor]]></summary>
-        <author>
-            <name>zekrioca</name>
-            <uri>https://news.ycombinator.com/user?id=zekrioca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[討論。網站聲稱 "需要 "Windows或Mac，但並不阻止Linux。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603318</id>
-        <link href="https://news.ycombinator.com/item?id=31603318"/>
-        <updated>2022-06-03T01:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Discussion: Website claims to “require” Windows or Mac but doesn't block Linux]]></summary>
-        <author>
-            <name>neelc</name>
-            <uri>https://news.ycombinator.com/user?id=neelc</uri>
         </author>
     </entry>
 </feed>
