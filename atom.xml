@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T23:29:54.310Z</updated>
+    <updated>2022-06-04T23:44:51.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grid.js - 在任何地方都能使用的高级表格库(2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31626268</id>
+        <link href="https://news.ycombinator.com/item?id=31626268"/>
+        <updated>2022-06-04T23:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Grid.js – Advanced table library that works everywhere (2020)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[架构说明。分布式系统的谬误
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31626132</id>
+        <link href="https://news.ycombinator.com/item?id=31626132"/>
+        <updated>2022-06-04T23:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Architecture Notes: Fallacies of Distributed Systems]]></summary>
+        <author>
+            <name>googletron</name>
+            <uri>https://news.ycombinator.com/user?id=googletron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密货币诈骗--FTC自2021年以来影响超过10亿美元
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aruanavekar</name>
             <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老实说？不要通过IPv6向Gmail发送邮件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31608684</id>
-        <link href="https://news.ycombinator.com/item?id=31608684"/>
-        <updated>2022-06-03T14:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Honestly? Don't Send to Gmail over IPv6]]></summary>
-        <author>
-            <name>croes</name>
-            <uri>https://news.ycombinator.com/user?id=croes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeWitt条款，或者说，你能为%的数据库制定基准而不被追究吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31608583</id>
-        <link href="https://news.ycombinator.com/item?id=31608583"/>
-        <updated>2022-06-03T14:14:51.000Z</updated>
-        <summary type="html"><![CDATA[DeWitt Clause, or Can You Benchmark %Database% and Get Away with It]]></summary>
-        <author>
-            <name>sprachspiel</name>
-            <uri>https://news.ycombinator.com/user?id=sprachspiel</uri>
         </author>
     </entry>
 </feed>
