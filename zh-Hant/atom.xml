@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T15:47:50.742Z</updated>
+    <updated>2022-06-04T16:00:41.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冰島發現維京時代的人造洞穴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621857</id>
+        <link href="https://news.ycombinator.com/item?id=31621857"/>
+        <updated>2022-06-04T15:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Man-made Viking-era cave discovered in Iceland]]></summary>
+        <author>
+            <name>jamesofthedrum</name>
+            <uri>https://news.ycombinator.com/user?id=jamesofthedrum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom端口作為BIOS有效載荷被髮布
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31621717</id>
+        <link href="https://news.ycombinator.com/item?id=31621717"/>
+        <updated>2022-06-04T15:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Doom Port Released as BIOS Payload]]></summary>
+        <author>
+            <name>hsnewman</name>
+            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARM64 *是*蘋果的ISA，它是為蘋果的微體系結構計劃設計的。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方的命名方式浪費了多少人的時間？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605275</id>
-        <link href="https://news.ycombinator.com/item?id=31605275"/>
-        <updated>2022-06-03T07:26:18.000Z</updated>
-        <summary type="html"><![CDATA[How many man years are wasted with western naming convensions?]]></summary>
-        <author>
-            <name>drudru</name>
-            <uri>https://news.ycombinator.com/user?id=drudru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克稱特斯拉需裁員10%，暫停所有招聘工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605249</id>
-        <link href="https://news.ycombinator.com/item?id=31605249"/>
-        <updated>2022-06-03T07:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk says Tesla needs to cut staff by 10%, pauses all hiring]]></summary>
-        <author>
-            <name>gadnuk</name>
-            <uri>https://news.ycombinator.com/user?id=gadnuk</uri>
         </author>
     </entry>
 </feed>
