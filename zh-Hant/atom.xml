@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T08:48:46.672Z</updated>
+    <updated>2022-06-04T09:01:54.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我辭去了在Netflix的45萬美元的工程工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618110</id>
+        <link href="https://news.ycombinator.com/item?id=31618110"/>
+        <updated>2022-06-04T08:15:09.000Z</updated>
+        <summary type="html"><![CDATA[I Quit a $450k Engineering Job at Netflix]]></summary>
+        <author>
+            <name>greenSunglass</name>
+            <uri>https://news.ycombinator.com/user?id=greenSunglass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國槍擊案。公司公佈了配備泰瑟槍的無人機的計劃
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pony.ai失去了在加州測試帶司機的自動駕駛車輛的許可
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602890</id>
-        <link href="https://news.ycombinator.com/item?id=31602890"/>
-        <updated>2022-06-03T01:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Pony.ai loses permit to test autonomous vehicles with driver in California]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
         </author>
     </entry>
 </feed>
