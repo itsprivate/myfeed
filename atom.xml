@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-04T10:46:50.378Z</updated>
+    <updated>2022-06-04T11:25:46.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在3年内一直在构建一个Markdown记事本应用（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619022</id>
+        <link href="https://news.ycombinator.com/item?id=31619022"/>
+        <updated>2022-06-04T11:10:09.000Z</updated>
+        <summary type="html"><![CDATA[I've been building a Markdown note-taking app for 3 years (2019)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram在多个案件中向德国联邦调查局公布了用户数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619010</id>
+        <link href="https://news.ycombinator.com/item?id=31619010"/>
+        <updated>2022-06-04T11:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Telegram has released user data to German Feds in multiple cases]]></summary>
+        <author>
+            <name>CHEF-KOCH</name>
+            <uri>https://news.ycombinator.com/user?id=CHEF-KOCH</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Hare中实现正则表达式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618988</id>
+        <link href="https://news.ycombinator.com/item?id=31618988"/>
+        <updated>2022-06-04T11:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Implementing Regular Expressions in Hare]]></summary>
+        <author>
+            <name>turminal</name>
+            <uri>https://news.ycombinator.com/user?id=turminal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于块的接口可以帮助我们在网络上创建更多的结构化数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618908</id>
+        <link href="https://news.ycombinator.com/item?id=31618908"/>
+        <updated>2022-06-04T10:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Block-based interfaces can help us create more structured data on the web]]></summary>
+        <author>
+            <name>tablet</name>
+            <uri>https://news.ycombinator.com/user?id=tablet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果音乐是我使用的最有问题和最烦人的软件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618746</id>
+        <link href="https://news.ycombinator.com/item?id=31618746"/>
+        <updated>2022-06-04T10:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Apple Music is the most buggy and annoying software I use]]></summary>
+        <author>
+            <name>nephics</name>
+            <uri>https://news.ycombinator.com/user?id=nephics</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内存使用情况。红宝石与Rust的比较
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618723</id>
+        <link href="https://news.ycombinator.com/item?id=31618723"/>
+        <updated>2022-06-04T10:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Memory Usage: Ruby vs Rust]]></summary>
+        <author>
+            <name>fabienpenso</name>
+            <uri>https://news.ycombinator.com/user?id=fabienpenso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown博主，你的通讯工具是什么？
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DPM-Solver: 扩散模型取样的快速ODE解算器，约需10个步骤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603582</id>
-        <link href="https://news.ycombinator.com/item?id=31603582"/>
-        <updated>2022-06-03T02:36:28.000Z</updated>
-        <summary type="html"><![CDATA[DPM-Solver: A Fast Ode Solver for Diffusion Model Sampling in Around 10 Steps]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BayesFormer: 具有不确定性估计的变形器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603575</id>
-        <link href="https://news.ycombinator.com/item?id=31603575"/>
-        <updated>2022-06-03T02:35:55.000Z</updated>
-        <summary type="html"><![CDATA[BayesFormer: Transformer with Uncertainty Estimation]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有问题的电池组在Rivian的伊利诺伊州组装厂内起火
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603544</id>
-        <link href="https://news.ycombinator.com/item?id=31603544"/>
-        <updated>2022-06-03T02:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Faulty battery pack caught fire inside Rivian's Illinois assembly plant]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子商务的Racket
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603536</id>
-        <link href="https://news.ycombinator.com/item?id=31603536"/>
-        <updated>2022-06-03T02:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Racket for E-Commerce]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学录取应仅取决于学术水平
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603523</id>
-        <link href="https://news.ycombinator.com/item?id=31603523"/>
-        <updated>2022-06-03T02:27:26.000Z</updated>
-        <summary type="html"><![CDATA[College admissions should depend on academics alone]]></summary>
-        <author>
-            <name>Bostonian</name>
-            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国正在认真对待行星防御问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603463</id>
-        <link href="https://news.ycombinator.com/item?id=31603463"/>
-        <updated>2022-06-03T02:18:18.000Z</updated>
-        <summary type="html"><![CDATA[China is getting serious about planetary defense]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>

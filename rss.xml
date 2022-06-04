@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,54 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在3年内一直在构建一个Markdown记事本应用（2019年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619022</link>
+            <guid>https://news.ycombinator.com/item?id=31619022</guid>
+            <pubDate>Sat, 04 Jun 2022 11:10:09 GMT</pubDate>
+            <description><![CDATA[I've been building a Markdown note-taking app for 3 years (2019)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Telegram在多个案件中向德国联邦调查局公布了用户数据
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619010</link>
+            <guid>https://news.ycombinator.com/item?id=31619010</guid>
+            <pubDate>Sat, 04 Jun 2022 11:08:11 GMT</pubDate>
+            <description><![CDATA[Telegram has released user data to German Feds in multiple cases]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Hare中实现正则表达式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31618988</link>
+            <guid>https://news.ycombinator.com/item?id=31618988</guid>
+            <pubDate>Sat, 04 Jun 2022 11:04:09 GMT</pubDate>
+            <description><![CDATA[Implementing Regular Expressions in Hare]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于块的接口可以帮助我们在网络上创建更多的结构化数据
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31618908</link>
+            <guid>https://news.ycombinator.com/item?id=31618908</guid>
+            <pubDate>Sat, 04 Jun 2022 10:50:22 GMT</pubDate>
+            <description><![CDATA[Block-based interfaces can help us create more structured data on the web]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果音乐是我使用的最有问题和最烦人的软件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31618746</link>
+            <guid>https://news.ycombinator.com/item?id=31618746</guid>
+            <pubDate>Sat, 04 Jun 2022 10:20:18 GMT</pubDate>
+            <description><![CDATA[Apple Music is the most buggy and annoying software I use]]></description>
+        </item>
+        <item>
+            <title><![CDATA[内存使用情况。红宝石与Rust的比较
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31618723</link>
+            <guid>https://news.ycombinator.com/item?id=31618723</guid>
+            <pubDate>Sat, 04 Jun 2022 10:15:31 GMT</pubDate>
+            <description><![CDATA[Memory Usage: Ruby vs Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Markdown博主，你的通讯工具是什么？
 ]]></title>
@@ -4765,54 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31603584</guid>
             <pubDate>Fri, 03 Jun 2022 02:36:42 GMT</pubDate>
             <description><![CDATA[Improving Diffusion Models for Inverse Problems Using Manifold Constraints]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DPM-Solver: 扩散模型取样的快速ODE解算器，约需10个步骤
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603582</link>
-            <guid>https://news.ycombinator.com/item?id=31603582</guid>
-            <pubDate>Fri, 03 Jun 2022 02:36:28 GMT</pubDate>
-            <description><![CDATA[DPM-Solver: A Fast Ode Solver for Diffusion Model Sampling in Around 10 Steps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BayesFormer: 具有不确定性估计的变形器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603575</link>
-            <guid>https://news.ycombinator.com/item?id=31603575</guid>
-            <pubDate>Fri, 03 Jun 2022 02:35:55 GMT</pubDate>
-            <description><![CDATA[BayesFormer: Transformer with Uncertainty Estimation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有问题的电池组在Rivian的伊利诺伊州组装厂内起火
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603544</link>
-            <guid>https://news.ycombinator.com/item?id=31603544</guid>
-            <pubDate>Fri, 03 Jun 2022 02:30:25 GMT</pubDate>
-            <description><![CDATA[Faulty battery pack caught fire inside Rivian's Illinois assembly plant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电子商务的Racket
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603536</link>
-            <guid>https://news.ycombinator.com/item?id=31603536</guid>
-            <pubDate>Fri, 03 Jun 2022 02:29:06 GMT</pubDate>
-            <description><![CDATA[Racket for E-Commerce]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大学录取应仅取决于学术水平
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603523</link>
-            <guid>https://news.ycombinator.com/item?id=31603523</guid>
-            <pubDate>Fri, 03 Jun 2022 02:27:26 GMT</pubDate>
-            <description><![CDATA[College admissions should depend on academics alone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国正在认真对待行星防御问题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31603463</link>
-            <guid>https://news.ycombinator.com/item?id=31603463</guid>
-            <pubDate>Fri, 03 Jun 2022 02:18:18 GMT</pubDate>
-            <description><![CDATA[China is getting serious about planetary defense]]></description>
         </item>
     </channel>
 </rss>
