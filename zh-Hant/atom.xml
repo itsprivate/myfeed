@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T03:23:55.099Z</updated>
+    <updated>2022-06-05T03:58:04.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克、特斯拉裁員和工程師短缺問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627640</id>
+        <link href="https://news.ycombinator.com/item?id=31627640"/>
+        <updated>2022-06-05T03:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk, Tesla Layoffs, and the Engineer Shortage]]></summary>
+        <author>
+            <name>NumberSix</name>
+            <uri>https://news.ycombinator.com/user?id=NumberSix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互聯網如何將我們變成內容機器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627512</id>
+        <link href="https://news.ycombinator.com/item?id=31627512"/>
+        <updated>2022-06-05T02:46:52.000Z</updated>
+        <summary type="html"><![CDATA[How the Internet Turned Us into Content Machines]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家工作和辦公室的房地產啟示錄
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drodio</name>
             <uri>https://news.ycombinator.com/user?id=drodio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模擬未來電網中的成網逆變器的作用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610123</id>
-        <link href="https://news.ycombinator.com/item?id=31610123"/>
-        <updated>2022-06-03T15:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Simulating the role of grid-forming inverters in the future electric grid]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法院裁定，YouTube和Uploaded可能對盜版用戶負有責任
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610019</id>
-        <link href="https://news.ycombinator.com/item?id=31610019"/>
-        <updated>2022-06-03T15:53:01.000Z</updated>
-        <summary type="html"><![CDATA[YouTube and Uploaded Could Be Liable for Pirating Users, Court Rules]]></summary>
-        <author>
-            <name>hsnewman</name>
-            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
         </author>
     </entry>
 </feed>
