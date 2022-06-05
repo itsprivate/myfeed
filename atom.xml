@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T19:26:50.853Z</updated>
+    <updated>2022-06-05T19:42:58.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简短、实用的数字营销书籍，将帮助你发展任何业务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634039</id>
+        <link href="https://news.ycombinator.com/item?id=31634039"/>
+        <updated>2022-06-05T19:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Short, practical digital marketing books that will help you grow any business]]></summary>
+        <author>
+            <name>ramoswriter</name>
+            <uri>https://news.ycombinator.com/user?id=ramoswriter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonawesome.com被黑了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31633537</id>
+        <link href="https://news.ycombinator.com/item?id=31633537"/>
+        <updated>2022-06-05T18:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Pythonawesome.com Got Hacked]]></summary>
+        <author>
+            <name>Cambera</name>
+            <uri>https://news.ycombinator.com/user?id=Cambera</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worble，一个文字游戏
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一个私人资助的杀手级小行星观测器来了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31616340</id>
-        <link href="https://news.ycombinator.com/item?id=31616340"/>
-        <updated>2022-06-04T02:27:41.000Z</updated>
-        <summary type="html"><![CDATA[The First Privately Funded Killer Asteroid Spotter Is Here]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字殖民主义
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617009</id>
-        <link href="https://news.ycombinator.com/item?id=31617009"/>
-        <updated>2022-06-04T04:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Digital Colonialism]]></summary>
-        <author>
-            <name>happy-go-lucky</name>
-            <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
         </author>
     </entry>
 </feed>
