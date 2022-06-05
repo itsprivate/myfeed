@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T05:57:26.169Z</updated>
+    <updated>2022-06-05T06:31:35.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我對CPU分析器工作的說明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628484</id>
+        <link href="https://news.ycombinator.com/item?id=31628484"/>
+        <updated>2022-06-05T06:15:40.000Z</updated>
+        <summary type="html"><![CDATA[My notes on working of CPU profiler]]></summary>
+        <author>
+            <name>sch00lb0y</name>
+            <uri>https://news.ycombinator.com/user?id=sch00lb0y</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創建一個在Minecraft中尋找鑽石的機器人（使用強化學習）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628436</id>
+        <link href="https://news.ycombinator.com/item?id=31628436"/>
+        <updated>2022-06-05T06:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)]]></summary>
+        <author>
+            <name>gosub</name>
+            <uri>https://news.ycombinator.com/user?id=gosub</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比較猴子語言的實現方式八。Ruby、Python和Lua
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628293</id>
+        <link href="https://news.ycombinator.com/item?id=31628293"/>
+        <updated>2022-06-05T05:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Comparing Implementations of the Monkey Language VIII: Ruby, Python and Lua]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼德國是谷歌街景的一個空白點
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628261</id>
+        <link href="https://news.ycombinator.com/item?id=31628261"/>
+        <updated>2022-06-05T05:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Why Germany is a blank spot on Google’s Street View]]></summary>
+        <author>
+            <name>assttoasstmgr</name>
+            <uri>https://news.ycombinator.com/user?id=assttoasstmgr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個人毀了2020年黑客啤酒節(2020)
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛有7千名美國原住民和被奴役者的遺骸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610922</id>
-        <link href="https://news.ycombinator.com/item?id=31610922"/>
-        <updated>2022-06-03T17:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Harvard has remains of 7k Native Americans and enslaved people]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能感覺到疼痛的電子皮膚可以創造出新一代觸覺敏感的機器人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610874</id>
-        <link href="https://news.ycombinator.com/item?id=31610874"/>
-        <updated>2022-06-03T17:01:55.000Z</updated>
-        <summary type="html"><![CDATA[E-skin that can feel pain could create new generation of touch-sensitive robots]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS-DOS遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610858</id>
-        <link href="https://news.ycombinator.com/item?id=31610858"/>
-        <updated>2022-06-03T17:01:17.000Z</updated>
-        <summary type="html"><![CDATA[MS-DOS Games]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程師入職很重要，但很多地方都沒有做到這一點
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610746</id>
-        <link href="https://news.ycombinator.com/item?id=31610746"/>
-        <updated>2022-06-03T16:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Engineering onboarding matters, and it’s not working in a lot of places]]></summary>
-        <author>
-            <name>cfreire</name>
-            <uri>https://news.ycombinator.com/user?id=cfreire</uri>
         </author>
     </entry>
 </feed>
