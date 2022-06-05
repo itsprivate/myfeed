@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 05 Jun 2022 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 05:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個人毀了2020年黑客啤酒節(2020)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31628342</link>
+            <guid>https://news.ycombinator.com/item?id=31628342</guid>
+            <pubDate>Sun, 05 Jun 2022 05:38:45 GMT</pubDate>
+            <description><![CDATA[One Guy Ruined Hacktoberfest 2020 (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[女性如何應對太空中的月經問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31610746</guid>
             <pubDate>Fri, 03 Jun 2022 16:51:06 GMT</pubDate>
             <description><![CDATA[Engineering onboarding matters, and it’s not working in a lot of places]]></description>
-        </item>
-        <item>
-            <title><![CDATA[監控Scrapy蜘蛛的免費工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31610709</link>
-            <guid>https://news.ycombinator.com/item?id=31610709</guid>
-            <pubDate>Fri, 03 Jun 2022 16:48:11 GMT</pubDate>
-            <description><![CDATA[Free tool to monitor Scrapy spiders]]></description>
         </item>
     </channel>
 </rss>

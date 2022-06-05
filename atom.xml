@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T05:43:51.594Z</updated>
+    <updated>2022-06-05T05:57:26.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个人毁了2020年黑客啤酒节(2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628342</id>
+        <link href="https://news.ycombinator.com/item?id=31628342"/>
+        <updated>2022-06-05T05:38:45.000Z</updated>
+        <summary type="html"><![CDATA[One Guy Ruined Hacktoberfest 2020 (2020)]]></summary>
+        <author>
+            <name>mkl95</name>
+            <uri>https://news.ycombinator.com/user?id=mkl95</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女性如何应对太空中的月经问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cfreire</name>
             <uri>https://news.ycombinator.com/user?id=cfreire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[监控Scrapy蜘蛛的免费工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610709</id>
-        <link href="https://news.ycombinator.com/item?id=31610709"/>
-        <updated>2022-06-03T16:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Free tool to monitor Scrapy spiders]]></summary>
-        <author>
-            <name>xoelop</name>
-            <uri>https://news.ycombinator.com/user?id=xoelop</uri>
         </author>
     </entry>
 </feed>
