@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T10:29:52.351Z</updated>
+    <updated>2022-06-05T10:58:54.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西蒙-佩頓-瓊斯獲得女王生日榮譽獎章中的OBE勳章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629679</id>
+        <link href="https://news.ycombinator.com/item?id=31629679"/>
+        <updated>2022-06-05T10:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Simon Peyton Jones Receives an OBE in the Queen's Birthday Honours]]></summary>
+        <author>
+            <name>arraypad</name>
+            <uri>https://news.ycombinator.com/user?id=arraypad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要運送它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629376</id>
+        <link href="https://news.ycombinator.com/item?id=31629376"/>
+        <updated>2022-06-05T09:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Do Not Ship It]]></summary>
+        <author>
+            <name>cunidev</name>
+            <uri>https://news.ycombinator.com/user?id=cunidev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國出了什麼問題？讓我們從君主制開始(2021)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dp-hackernews</name>
             <uri>https://news.ycombinator.com/user?id=dp-hackernews</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我分叉了 "Asyncpg"--它向NumPy解析數據庫記錄的速度快了20倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611969</id>
-        <link href="https://news.ycombinator.com/item?id=31611969"/>
-        <updated>2022-06-03T18:30:11.000Z</updated>
-        <summary type="html"><![CDATA[I Forked “Asyncpg” – and It Parses Database Records to NumPy 20x Faster]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碳抵消項目是一個騙局
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611238</id>
-        <link href="https://news.ycombinator.com/item?id=31611238"/>
-        <updated>2022-06-03T17:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Carbon offset programs are a scam]]></summary>
-        <author>
-            <name>agomez314</name>
-            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
         </author>
     </entry>
 </feed>
