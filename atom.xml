@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T07:25:50.437Z</updated>
+    <updated>2022-06-05T07:43:44.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Morrowind的形而上学
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628766</id>
+        <link href="https://news.ycombinator.com/item?id=31628766"/>
+        <updated>2022-06-05T07:18:30.000Z</updated>
+        <summary type="html"><![CDATA[The Metaphysics of Morrowind]]></summary>
+        <author>
+            <name>kqr</name>
+            <uri>https://news.ycombinator.com/user?id=kqr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果即将推出自己的搜索引擎吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628706</id>
+        <link href="https://news.ycombinator.com/item?id=31628706"/>
+        <updated>2022-06-05T07:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Is Apple about to launch its own search engine?]]></summary>
+        <author>
+            <name>quyleanh</name>
+            <uri>https://news.ycombinator.com/user?id=quyleanh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国空间站工作人员发射进入轨道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628473</id>
+        <link href="https://news.ycombinator.com/item?id=31628473"/>
+        <updated>2022-06-05T06:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Chinese space station crew launches into orbit]]></summary>
+        <author>
+            <name>hunglee2</name>
+            <uri>https://news.ycombinator.com/user?id=hunglee2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年5月初创企业融资报告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628100</id>
+        <link href="https://news.ycombinator.com/item?id=31628100"/>
+        <updated>2022-06-05T04:47:30.000Z</updated>
+        <summary type="html"><![CDATA[May 2022 Startup Funding Report]]></summary>
+        <author>
+            <name>connor11528</name>
+            <uri>https://news.ycombinator.com/user?id=connor11528</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conti RaaS群组聊天记录泄露（英译），关于CSME/SMM固件植入的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627761</id>
+        <link href="https://news.ycombinator.com/item?id=31627761"/>
+        <updated>2022-06-05T03:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Conti RaaS group chat leaked (Eng-translation) about CSME/SMM firmware implant]]></summary>
+        <author>
+            <name>hardenedvault</name>
+            <uri>https://news.ycombinator.com/user?id=hardenedvault</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我拍摄的每张北约建筑的照片都从我的相机卷中消失了
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>zikohh</name>
             <uri>https://news.ycombinator.com/user?id=zikohh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登刚刚取消了58亿美元的学生贷款。更多的借款人可能很快看到救济
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611154</id>
-        <link href="https://news.ycombinator.com/item?id=31611154"/>
-        <updated>2022-06-03T17:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Biden just canceled $5.8B in student loans. More borrowers could see relief soon]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptid零信任认证和授权，开源的Oberon
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611483</id>
-        <link href="https://news.ycombinator.com/item?id=31611483"/>
-        <updated>2022-06-03T17:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cryptid Zero Trust Authentication and Authorization, Open Source Oberon]]></summary>
-        <author>
-            <name>jratkevic</name>
-            <uri>https://news.ycombinator.com/user?id=jratkevic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(异步)Rust不一定很困难
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611456</id>
-        <link href="https://news.ycombinator.com/item?id=31611456"/>
-        <updated>2022-06-03T17:45:55.000Z</updated>
-        <summary type="html"><![CDATA[(async) Rust doesn't have to be hard]]></summary>
-        <author>
-            <name>drogus</name>
-            <uri>https://news.ycombinator.com/user?id=drogus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局证实，大麻含有来自太阳系以外的 "外星DNA"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611347</id>
-        <link href="https://news.ycombinator.com/item?id=31611347"/>
-        <updated>2022-06-03T17:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Marijuana Contains “Alien DNA” from Outside of Our Solar System, NASA Confirms]]></summary>
-        <author>
-            <name>uberdru</name>
-            <uri>https://news.ycombinator.com/user?id=uberdru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[左移：云原生计算安全的发展方向
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611302</id>
-        <link href="https://news.ycombinator.com/item?id=31611302"/>
-        <updated>2022-06-03T17:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Shift Left: Where Cloud Native Computing Security Is Going]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
         </author>
     </entry>
 </feed>
