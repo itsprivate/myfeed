@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T11:44:31.836Z</updated>
+    <updated>2022-06-05T11:58:07.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[氣候變化對受教育程度較低的人來說更困難
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630077</id>
+        <link href="https://news.ycombinator.com/item?id=31630077"/>
+        <updated>2022-06-05T11:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Climate change is harder on less educated people]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網絡刮削的倫理問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630053</id>
+        <link href="https://news.ycombinator.com/item?id=31630053"/>
+        <updated>2022-06-05T11:42:15.000Z</updated>
+        <summary type="html"><![CDATA[The Ethics of Web Scraping]]></summary>
+        <author>
+            <name>Ian_Kerins</name>
+            <uri>https://news.ycombinator.com/user?id=Ian_Kerins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HCAPTCHA：阻止更多的機器人。開始保護用戶隱私
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629840</id>
+        <link href="https://news.ycombinator.com/item?id=31629840"/>
+        <updated>2022-06-05T11:02:09.000Z</updated>
+        <summary type="html"><![CDATA[HCAPTCHA: Stop more bots. Start protecting user privacy]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[媒介為何如此糟糕 (2019)
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>samclemens</name>
             <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶大括號的Python。因為Python非常棒，但空白是可怕的。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31612486</id>
-        <link href="https://news.ycombinator.com/item?id=31612486"/>
-        <updated>2022-06-03T19:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Python with braces. Because Python is awesome, but whitespace is awful]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國無線電公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31612437</id>
-        <link href="https://news.ycombinator.com/item?id=31612437"/>
-        <updated>2022-06-03T19:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Radio Corporation of America]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓技術面試對每個人都更好
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31612343</id>
-        <link href="https://news.ycombinator.com/item?id=31612343"/>
-        <updated>2022-06-03T19:04:47.000Z</updated>
-        <summary type="html"><![CDATA[Making technical interviews better for everyone]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
