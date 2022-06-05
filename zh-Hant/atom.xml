@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T09:45:16.833Z</updated>
+    <updated>2022-06-05T09:57:52.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[萬花筒狂熱抓住了19世紀的英國（2019年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628923</id>
+        <link href="https://news.ycombinator.com/item?id=31628923"/>
+        <updated>2022-06-05T07:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Kaleidoscope Mania Seized 19th-Century England (2019)]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我對2022年WWDC大會感到興奮/希望的是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>runeks</name>
             <uri>https://news.ycombinator.com/user?id=runeks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因房租暴漲而陷入危機的紐約人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611992</id>
-        <link href="https://news.ycombinator.com/item?id=31611992"/>
-        <updated>2022-06-03T18:32:10.000Z</updated>
-        <summary type="html"><![CDATA[The New Yorkers in crisis over skyrocketing rents]]></summary>
-        <author>
-            <name>akeck</name>
-            <uri>https://news.ycombinator.com/user?id=akeck</uri>
         </author>
     </entry>
 </feed>
