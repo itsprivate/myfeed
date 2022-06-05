@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-05T06:31:35.868Z</updated>
+    <updated>2022-06-05T06:51:59.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科有严重的偏见 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628562</id>
+        <link href="https://news.ycombinator.com/item?id=31628562"/>
+        <updated>2022-06-05T06:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia Is Badly Biased (2020)]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly 101：开发者的第一步（2017年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628444</id>
+        <link href="https://news.ycombinator.com/item?id=31628444"/>
+        <updated>2022-06-05T06:05:09.000Z</updated>
+        <summary type="html"><![CDATA[WebAssembly 101: A developer’s first steps (2017)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub上排名前十的开源图形数据库的趋势
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627235</id>
+        <link href="https://news.ycombinator.com/item?id=31627235"/>
+        <updated>2022-06-05T02:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Top 10 open source graph database trending on GitHub]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我对CPU分析器工作的说明
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>cinquemb</name>
             <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见维京人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611093</id>
-        <link href="https://news.ycombinator.com/item?id=31611093"/>
-        <updated>2022-06-03T17:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Goodbye to the Vikings]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉的 "幻影刹车 "问题越来越严重
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610950</id>
-        <link href="https://news.ycombinator.com/item?id=31610950"/>
-        <updated>2022-06-03T17:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Tesla’s ‘phantom braking’ problem is getting worse]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的记录。汤加火山是21世纪最大的火山
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610948</id>
-        <link href="https://news.ycombinator.com/item?id=31610948"/>
-        <updated>2022-06-03T17:07:19.000Z</updated>
-        <summary type="html"><![CDATA[New record: Tonga volcano biggest of 21st century]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
