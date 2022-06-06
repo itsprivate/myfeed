@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-06T22:31:45.831Z</updated>
+    <updated>2022-06-06T22:47:52.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改善思维的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31647181</id>
+        <link href="https://news.ycombinator.com/item?id=31647181"/>
+        <updated>2022-06-06T22:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Tools for Better Thinking]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP的新定义
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31647149</id>
+        <link href="https://news.ycombinator.com/item?id=31647149"/>
+        <updated>2022-06-06T22:21:51.000Z</updated>
+        <summary type="html"><![CDATA[A New Definition of HTTP]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC 9114 - http/3
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31647033</id>
+        <link href="https://news.ycombinator.com/item?id=31647033"/>
+        <updated>2022-06-06T22:09:58.000Z</updated>
+        <summary type="html"><![CDATA[RFC 9114 – HTTP/3]]></summary>
+        <author>
+            <name>mfiguiere</name>
+            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为什么退出乔治敦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31646880</id>
+        <link href="https://news.ycombinator.com/item?id=31646880"/>
+        <updated>2022-06-06T21:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Why I Quit Georgetown]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克威胁说，如果不提供垃圾账户的信息，他将终止与Twitter的合作。
 ]]></title>
@@ -7162,54 +7210,6 @@
         <link href="http://cacm.acm.org/magazines/2022/6/261178-resolution-of-the-burrows-wheeler-transform-conjecture"/>
         <updated>2022-06-01T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[Resolution of the Burrows-Wheeler Transform Conjecture]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术视角。BWT的压缩能力
-]]></title>
-        <id>http://cacm.acm.org/magazines/2022/6/261177-technical-perspective-the-compression-power-of-the-bwt</id>
-        <link href="http://cacm.acm.org/magazines/2022/6/261177-technical-perspective-the-compression-power-of-the-bwt"/>
-        <updated>2022-06-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical Perspective: The Compression Power of the BWT]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[声音观察
-]]></title>
-        <id>http://cacm.acm.org/magazines/2022/6/261176-soundwatch</id>
-        <link href="http://cacm.acm.org/magazines/2022/6/261176-soundwatch"/>
-        <updated>2022-06-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SoundWatch]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术视角。计算的作用在哪里
-]]></title>
-        <id>http://cacm.acm.org/magazines/2022/6/261175-technical-perspective-computation-where-the-interaction-is</id>
-        <link href="http://cacm.acm.org/magazines/2022/6/261175-technical-perspective-computation-where-the-interaction-is"/>
-        <updated>2022-06-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical Perspective: Computation Where the (inter)Action Is]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://cacm.acm.org/magazine.rss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同行评审中的挑战、实验和计算解决方案
-]]></title>
-        <id>http://cacm.acm.org/magazines/2022/6/261174-challenges-experiments-and-computational-solutions-in-peer-review</id>
-        <link href="http://cacm.acm.org/magazines/2022/6/261174-challenges-experiments-and-computational-solutions-in-peer-review"/>
-        <updated>2022-06-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Challenges, Experiments, and Computational Solutions in Peer Review]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://cacm.acm.org/magazine.rss</uri>
