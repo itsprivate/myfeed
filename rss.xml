@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 06:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31637609</link>
+            <guid>https://news.ycombinator.com/item?id=31637609</guid>
+            <pubDate>Mon, 06 Jun 2022 05:55:26 GMT</pubDate>
+            <description><![CDATA[The last phone boxes: broken glass, cider cans and – – a dial tone]]></description>
+        </item>
         <item>
             <title><![CDATA[淘宝网上的 "淘宝网 "是一个强大的用户分销平台（现在有一个简单的安装程序）[视频]。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31620720</guid>
             <pubDate>Sat, 04 Jun 2022 14:29:09 GMT</pubDate>
             <description><![CDATA[The Art of Deception – Training for a new generation of online covert operations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用SIMD显著提高quicksort速度
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31622548</link>
-            <guid>https://news.ycombinator.com/item?id=31622548</guid>
-            <pubDate>Sat, 04 Jun 2022 16:48:11 GMT</pubDate>
-            <description><![CDATA[Significantly faster quicksort using SIMD]]></description>
         </item>
     </channel>
 </rss>
