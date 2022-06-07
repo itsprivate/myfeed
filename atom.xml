@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-07T06:35:40.942Z</updated>
+    <updated>2022-06-07T06:56:37.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技公司的隐私大劫案背后。故意混淆视听
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650520</id>
+        <link href="https://news.ycombinator.com/item?id=31650520"/>
+        <updated>2022-06-07T06:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Behind Big Tech's big privacy heist: Deliberate obfuscation]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在东德克萨斯州，因使用谷歌游戏商店而被起诉（2016年）[视频]。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650472</id>
+        <link href="https://news.ycombinator.com/item?id=31650472"/>
+        <updated>2022-06-07T06:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Being sued, in East Texas, for using the Google Play Store (2016) [video]]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lsp-bridge。最快的Emacs LSP客户端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650461</id>
+        <link href="https://news.ycombinator.com/item?id=31650461"/>
+        <updated>2022-06-07T06:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Lsp-bridge: Fastest LSP client for Emacs]]></summary>
+        <author>
+            <name>geekard</name>
+            <uri>https://news.ycombinator.com/user?id=geekard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大品牌是否从体育场冠名权中实现了积极的投资回报率？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650231</id>
+        <link href="https://news.ycombinator.com/item?id=31650231"/>
+        <updated>2022-06-07T05:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Do big brands realize a positive ROI from stadium naming rights?]]></summary>
+        <author>
+            <name>jkuria</name>
+            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[释放拖车。结束对成品住房的监管歧视
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650227</id>
+        <link href="https://news.ycombinator.com/item?id=31650227"/>
+        <updated>2022-06-07T05:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the trailers: End regulatory discrimination against manufactured housing]]></summary>
+        <author>
+            <name>vwoolf</name>
+            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新启动的暗网市场AlphaBay的简介，该市场于2017年被取缔。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649923</id>
+        <link href="https://news.ycombinator.com/item?id=31649923"/>
+        <updated>2022-06-07T04:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Profile of relaunched Dark web marketplace AlphaBay which was taken down in 2017]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从掩体中扩大创业公司的规模
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649594</id>
+        <link href="https://news.ycombinator.com/item?id=31649594"/>
+        <updated>2022-06-07T03:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Scaling a Startup from a Bunker]]></summary>
+        <author>
+            <name>lawgimenez</name>
+            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notik - 一种管理项目的新方法
 ]]></title>
@@ -7126,90 +7210,6 @@
         <link href="https://www.davidhaney.io/stats-vs-reference-string-equals/"/>
         <updated>2012-10-22T14:57:14.000Z</updated>
         <summary type="html"><![CDATA[Static vs Instance string.Equals]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静态 vs 实例 string.Equals Benchmark
-]]></title>
-        <id>https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/</id>
-        <link href="https://www.davidhaney.io/static-vs-instance-string-equals-benchmark/"/>
-        <updated>2012-10-24T16:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Static vs Instance string.Equals Benchmark]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio 2012 Intellisense不工作 - 已解决
-]]></title>
-        <id>https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/</id>
-        <link href="https://www.davidhaney.io/visual-studio-2012-intellisense-not-working-solved/"/>
-        <updated>2012-11-20T21:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio 2012 Intellisense Not Working - SOLVED]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[但它并没有发生在开发或QA中!
-]]></title>
-        <id>https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/</id>
-        <link href="https://www.davidhaney.io/but-it-didnt-happen-in-dev-or-qa/"/>
-        <updated>2012-12-02T17:22:20.000Z</updated>
-        <summary type="html"><![CDATA[But it Didn't Happen in DEV or QA!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由红门出版
-]]></title>
-        <id>https://www.davidhaney.io/published-by-red-gate/</id>
-        <link href="https://www.davidhaney.io/published-by-red-gate/"/>
-        <updated>2013-01-18T15:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Published by Red Gate]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据文件名确定MIME类型
-]]></title>
-        <id>https://www.davidhaney.io/determine-mime-type-from-file-name/</id>
-        <link href="https://www.davidhaney.io/determine-mime-type-from-file-name/"/>
-        <updated>2013-02-11T15:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Determine MIME Type from File Name]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个更好的MIME映射窃取器!
-]]></title>
-        <id>https://www.davidhaney.io/a-better-mime-mapping-stealer/</id>
-        <link href="https://www.davidhaney.io/a-better-mime-mapping-stealer/"/>
-        <updated>2013-02-12T12:07:12.000Z</updated>
-        <summary type="html"><![CDATA[A Better MIME Mapping Stealer!]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让多读、少写的清单更有效率
-]]></title>
-        <id>https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/</id>
-        <link href="https://www.davidhaney.io/make-mostly-read-seldom-written-lists-much-more-efficient/"/>
-        <updated>2013-03-15T17:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Make Mostly Read, Seldom-Written Lists Much More Efficient]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
