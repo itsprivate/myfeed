@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-07T19:44:51.110Z</updated>
+    <updated>2022-06-07T19:59:17.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[eBPF、副车和服务网的未来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659271</id>
+        <link href="https://news.ycombinator.com/item?id=31659271"/>
+        <updated>2022-06-07T19:52:20.000Z</updated>
+        <summary type="html"><![CDATA[eBPF, sidecars, and the future of the service mesh]]></summary>
+        <author>
+            <name>PagCat</name>
+            <uri>https://news.ycombinator.com/user?id=PagCat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大的四天工作周试点开始
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659245</id>
+        <link href="https://news.ycombinator.com/item?id=31659245"/>
+        <updated>2022-06-07T19:50:24.000Z</updated>
+        <summary type="html"><![CDATA[The biggest four-day work week pilot begins]]></summary>
+        <author>
+            <name>Vaslo</name>
+            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随着大盐湖的干涸，犹他州面临着一个 "环境核弹"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659150</id>
+        <link href="https://news.ycombinator.com/item?id=31659150"/>
+        <updated>2022-06-07T19:41:15.000Z</updated>
+        <summary type="html"><![CDATA[As the Great Salt Lake Dries Up, Utah Faces an ‘Environmental Nuclear Bomb’]]></summary>
+        <author>
+            <name>rafaelc</name>
+            <uri>https://news.ycombinator.com/user?id=rafaelc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们利用内部黑客马拉松来创造新的产品功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658652</id>
+        <link href="https://news.ycombinator.com/item?id=31658652"/>
+        <updated>2022-06-07T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[We Use Internal Hackathons to Create New Product Features]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS将很快默认阻止未知的USB-C配件
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将允许你在iMessage中取消发送和编辑信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31643372</id>
-        <link href="https://news.ycombinator.com/item?id=31643372"/>
-        <updated>2022-06-06T17:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Apple will let you unsend and edit messages in iMessage]]></summary>
-        <author>
-            <name>dreadlordbone</name>
-            <uri>https://news.ycombinator.com/user?id=dreadlordbone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音频应用会所因战略转变而裁员
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31643369</id>
-        <link href="https://news.ycombinator.com/item?id=31643369"/>
-        <updated>2022-06-06T17:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Audio App Clubhouse Lays Off Staff as Strategy Shifts]]></summary>
-        <author>
-            <name>ryanmccullagh</name>
-            <uri>https://news.ycombinator.com/user?id=ryanmccullagh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果推出自己的 "先买后付 "服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31643357</id>
-        <link href="https://news.ycombinator.com/item?id=31643357"/>
-        <updated>2022-06-06T17:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Apple launches its own 'Buy Now, Pay Later' service]]></summary>
-        <author>
-            <name>perceptronas</name>
-            <uri>https://news.ycombinator.com/user?id=perceptronas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融时报》为何试图隐藏财富色情？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31643336</id>
-        <link href="https://news.ycombinator.com/item?id=31643336"/>
-        <updated>2022-06-06T17:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Why Is the Financial Times Trying to Hide the Wealth Porn?]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
         </author>
     </entry>
 </feed>
