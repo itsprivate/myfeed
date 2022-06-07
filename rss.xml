@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,70 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们利用有条件获取请求改善了Rails应用程序的性能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649746</link>
+            <guid>https://news.ycombinator.com/item?id=31649746</guid>
+            <pubDate>Tue, 07 Jun 2022 03:59:52 GMT</pubDate>
+            <description><![CDATA[We improved our Rails app’s performance with Conditional Get Requests]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ix: 命令行粘贴法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649729</link>
+            <guid>https://news.ycombinator.com/item?id=31649729</guid>
+            <pubDate>Tue, 07 Jun 2022 03:56:42 GMT</pubDate>
+            <description><![CDATA[Ix: Command Line Pastebin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国科技离开中国，但什么会留下来？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649679</link>
+            <guid>https://news.ycombinator.com/item?id=31649679</guid>
+            <pubDate>Tue, 07 Jun 2022 03:47:25 GMT</pubDate>
+            <description><![CDATA[American Tech Leaves China, but What Will Stay?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[围棋中冠词式词典的性能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649617</link>
+            <guid>https://news.ycombinator.com/item?id=31649617</guid>
+            <pubDate>Tue, 07 Jun 2022 03:38:37 GMT</pubDate>
+            <description><![CDATA[Performance of coroutine-style lexers in Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[发布版本2.0.0 - Simdjson
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649610</link>
+            <guid>https://news.ycombinator.com/item?id=31649610</guid>
+            <pubDate>Tue, 07 Jun 2022 03:37:48 GMT</pubDate>
+            <description><![CDATA[Release Version 2.0.0 · Simdjson]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用DIY CNI在UE5中制作网络框架物理对象，只需67秒
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649605</link>
+            <guid>https://news.ycombinator.com/item?id=31649605</guid>
+            <pubDate>Tue, 07 Jun 2022 03:37:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Making network frames physical objects in UE5 with a DIY CNI in 67s]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对俄罗斯感到愤怒的匿名举报者帮助侦查破坏制裁的人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649436</link>
+            <guid>https://news.ycombinator.com/item?id=31649436</guid>
+            <pubDate>Tue, 07 Jun 2022 03:08:37 GMT</pubDate>
+            <description><![CDATA[Anonymous tipsters, angry at Russia, help detect sanctions-busters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印第安纳州有一个怀孕跟踪应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649397</link>
+            <guid>https://news.ycombinator.com/item?id=31649397</guid>
+            <pubDate>Tue, 07 Jun 2022 03:02:28 GMT</pubDate>
+            <description><![CDATA[The State of Indiana Has a Pregnancy Tracking App]]></description>
+        </item>
         <item>
             <title><![CDATA[Meta并不意味着你认为的那样
 ]]></title>
@@ -4749,70 +4813,6 @@
             <guid>https://www.davidhaney.io/developer-turned-manager/</guid>
             <pubDate>Mon, 03 Aug 2015 14:18:02 GMT</pubDate>
             <description><![CDATA[Developer Turned Manager]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多样性真的很难得
-]]></title>
-            <link>https://www.davidhaney.io/diversity-is-really-freaking-hard/</link>
-            <guid>https://www.davidhaney.io/diversity-is-really-freaking-hard/</guid>
-            <pubDate>Thu, 24 Sep 2015 11:23:38 GMT</pubDate>
-            <description><![CDATA[Diversity Is Really Freaking Hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发者报酬。堆栈溢出并没有堆栈排名
-]]></title>
-            <link>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</link>
-            <guid>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</guid>
-            <pubDate>Fri, 26 Feb 2016 14:05:41 GMT</pubDate>
-            <description><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NPM & left-pad: 我们是否忘记了如何编程？
-]]></title>
-            <link>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</link>
-            <guid>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</guid>
-            <pubDate>Wed, 23 Mar 2016 18:01:52 GMT</pubDate>
-            <description><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让我们来谈谈摇滚明星和自负的问题
-]]></title>
-            <link>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</link>
-            <guid>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</guid>
-            <pubDate>Fri, 17 Jun 2016 17:02:13 GMT</pubDate>
-            <description><![CDATA[Let's Talk About Rock Stars & Egos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们的行业需要同情心
-]]></title>
-            <link>https://www.davidhaney.io/our-industry-needs-compassion/</link>
-            <guid>https://www.davidhaney.io/our-industry-needs-compassion/</guid>
-            <pubDate>Tue, 03 Jan 2017 12:37:39 GMT</pubDate>
-            <description><![CDATA[Our Industry Needs Compassion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自定义ASP.NET MVC动作结果缓存属性
-]]></title>
-            <link>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</link>
-            <guid>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</guid>
-            <pubDate>Tue, 10 Jan 2017 09:07:15 GMT</pubDate>
-            <description><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。责任与指责
-]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</guid>
-            <pubDate>Fri, 20 Jan 2017 13:20:59 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Accountability & Blame]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开发团队的互动。进行良好的代码审查
-]]></title>
-            <link>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</link>
-            <guid>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</guid>
-            <pubDate>Fri, 27 Jan 2017 10:03:20 GMT</pubDate>
-            <description><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-07T03:43:07.785Z</updated>
+    <updated>2022-06-07T04:24:06.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,102 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们利用有条件获取请求改善了Rails应用程序的性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649746</id>
+        <link href="https://news.ycombinator.com/item?id=31649746"/>
+        <updated>2022-06-07T03:59:52.000Z</updated>
+        <summary type="html"><![CDATA[We improved our Rails app’s performance with Conditional Get Requests]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ix: 命令行粘贴法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649729</id>
+        <link href="https://news.ycombinator.com/item?id=31649729"/>
+        <updated>2022-06-07T03:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Ix: Command Line Pastebin]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国科技离开中国，但什么会留下来？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649679</id>
+        <link href="https://news.ycombinator.com/item?id=31649679"/>
+        <updated>2022-06-07T03:47:25.000Z</updated>
+        <summary type="html"><![CDATA[American Tech Leaves China, but What Will Stay?]]></summary>
+        <author>
+            <name>ceohockey60</name>
+            <uri>https://news.ycombinator.com/user?id=ceohockey60</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[围棋中冠词式词典的性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649617</id>
+        <link href="https://news.ycombinator.com/item?id=31649617"/>
+        <updated>2022-06-07T03:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Performance of coroutine-style lexers in Go]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发布版本2.0.0 - Simdjson
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649610</id>
+        <link href="https://news.ycombinator.com/item?id=31649610"/>
+        <updated>2022-06-07T03:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Release Version 2.0.0 · Simdjson]]></summary>
+        <author>
+            <name>kristianp</name>
+            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用DIY CNI在UE5中制作网络框架物理对象，只需67秒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649605</id>
+        <link href="https://news.ycombinator.com/item?id=31649605"/>
+        <updated>2022-06-07T03:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Making network frames physical objects in UE5 with a DIY CNI in 67s]]></summary>
+        <author>
+            <name>TokuTaken</name>
+            <uri>https://news.ycombinator.com/user?id=TokuTaken</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对俄罗斯感到愤怒的匿名举报者帮助侦查破坏制裁的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649436</id>
+        <link href="https://news.ycombinator.com/item?id=31649436"/>
+        <updated>2022-06-07T03:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Anonymous tipsters, angry at Russia, help detect sanctions-busters]]></summary>
+        <author>
+            <name>strogonoff</name>
+            <uri>https://news.ycombinator.com/user?id=strogonoff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印第安纳州有一个怀孕跟踪应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649397</id>
+        <link href="https://news.ycombinator.com/item?id=31649397"/>
+        <updated>2022-06-07T03:02:28.000Z</updated>
+        <summary type="html"><![CDATA[The State of Indiana Has a Pregnancy Tracking App]]></summary>
+        <author>
+            <name>young_breezy</name>
+            <uri>https://news.ycombinator.com/user?id=young_breezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta并不意味着你认为的那样
 ]]></title>
@@ -7114,102 +7210,6 @@
         <link href="https://www.davidhaney.io/developer-turned-manager/"/>
         <updated>2015-08-03T14:18:02.000Z</updated>
         <summary type="html"><![CDATA[Developer Turned Manager]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多样性真的很难得
-]]></title>
-        <id>https://www.davidhaney.io/diversity-is-really-freaking-hard/</id>
-        <link href="https://www.davidhaney.io/diversity-is-really-freaking-hard/"/>
-        <updated>2015-09-24T11:23:38.000Z</updated>
-        <summary type="html"><![CDATA[Diversity Is Really Freaking Hard]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者报酬。堆栈溢出并没有堆栈排名
-]]></title>
-        <id>https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/</id>
-        <link href="https://www.davidhaney.io/developer-compensation-stack-overflow-doesnt-stack-rank/"/>
-        <updated>2016-02-26T14:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Developer Compensation: Stack Overflow Doesn't Stack Rank]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM & left-pad: 我们是否忘记了如何编程？
-]]></title>
-        <id>https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/</id>
-        <link href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/"/>
-        <updated>2016-03-23T18:01:52.000Z</updated>
-        <summary type="html"><![CDATA[NPM & left-pad: Have We Forgotten How To Program?]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让我们来谈谈摇滚明星和自负的问题
-]]></title>
-        <id>https://www.davidhaney.io/lets-talk-about-rock-stars-egos/</id>
-        <link href="https://www.davidhaney.io/lets-talk-about-rock-stars-egos/"/>
-        <updated>2016-06-17T17:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Let's Talk About Rock Stars & Egos]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们的行业需要同情心
-]]></title>
-        <id>https://www.davidhaney.io/our-industry-needs-compassion/</id>
-        <link href="https://www.davidhaney.io/our-industry-needs-compassion/"/>
-        <updated>2017-01-03T12:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Our Industry Needs Compassion]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定义ASP.NET MVC动作结果缓存属性
-]]></title>
-        <id>https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/</id>
-        <link href="https://www.davidhaney.io/custom-asp-net-mvc-action-result-cache-attribute/"/>
-        <updated>2017-01-10T09:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Custom ASP.NET MVC Action Result Cache Attribute]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发团队的互动。责任与指责
-]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-accountability-blame/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-accountability-blame/"/>
-        <updated>2017-01-20T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Accountability & Blame]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.davidhaney.io/index.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发团队的互动。进行良好的代码审查
-]]></title>
-        <id>https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/</id>
-        <link href="https://www.davidhaney.io/dev-team-interactions-conducting-good-code-reviews/"/>
-        <updated>2017-01-27T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Dev Team Interactions: Conducting Good Code Reviews]]></summary>
         <author>
             <name>unknown</name>
             <uri>https://www.davidhaney.io/index.xml</uri>
