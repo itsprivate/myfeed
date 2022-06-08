@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-08T06:36:05.798Z</updated>
+    <updated>2022-06-08T06:53:39.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Terraform協作的挑戰以及如何解決這些問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664048</id>
+        <link href="https://news.ycombinator.com/item?id=31664048"/>
+        <updated>2022-06-08T06:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Terraform collaboration challenges and how to tackle them]]></summary>
+        <author>
+            <name>8organicbits</name>
+            <uri>https://news.ycombinator.com/user?id=8organicbits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陌生事物》不會拯救Netflix
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663958</id>
+        <link href="https://news.ycombinator.com/item?id=31663958"/>
+        <updated>2022-06-08T06:21:20.000Z</updated>
+        <summary type="html"><![CDATA['Stranger Things' Won’t Save Netflix]]></summary>
+        <author>
+            <name>bmking</name>
+            <uri>https://news.ycombinator.com/user?id=bmking</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Mac上對Electron應用程序進行代碼簽名和公證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663955</id>
+        <link href="https://news.ycombinator.com/item?id=31663955"/>
+        <updated>2022-06-08T06:20:46.000Z</updated>
+        <summary type="html"><![CDATA[How to code sign and notarize an Electron app on Mac]]></summary>
+        <author>
+            <name>iamandras</name>
+            <uri>https://news.ycombinator.com/user?id=iamandras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烘烤我們的Twitter客戶關係管理和DM管理應用程序
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>furcyd</name>
             <uri>https://news.ycombinator.com/user?id=furcyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬歇爾-福格爾通過棒球卡投資將12.1萬美元變成2500萬美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648495</id>
-        <link href="https://news.ycombinator.com/item?id=31648495"/>
-        <updated>2022-06-07T00:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Marshall Fogel turned $121K into $25M with a baseball card investment]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名15歲的烏克蘭無人機飛行員幫助摧毀一支俄軍縱隊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648416</id>
-        <link href="https://news.ycombinator.com/item?id=31648416"/>
-        <updated>2022-06-07T00:36:16.000Z</updated>
-        <summary type="html"><![CDATA[A 15-year-old Ukrainian drone pilot helped destroy a Russian army column]]></summary>
-        <author>
-            <name>cpncrunch</name>
-            <uri>https://news.ycombinator.com/user?id=cpncrunch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頂呱呱》放映時屋頂墜落。特立獨行》被誤認為是特效
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648368</id>
-        <link href="https://news.ycombinator.com/item?id=31648368"/>
-        <updated>2022-06-07T00:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Falling roof during screening of 'Top Gun: Maverick' mistaken as special effects]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>
