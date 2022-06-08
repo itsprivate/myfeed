@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-08T15:52:56.584Z</updated>
+    <updated>2022-06-08T16:03:05.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用FastAPI為機器學習模型提供服務。這不全是速度問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31669141</id>
+        <link href="https://news.ycombinator.com/item?id=31669141"/>
+        <updated>2022-06-08T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Serving machine learning models with FastAPI: It’s not all about speed]]></summary>
+        <author>
+            <name>duarteoc</name>
+            <uri>https://news.ycombinator.com/user?id=duarteoc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為Shopify建立了世界上最快的產品評論應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31669082</id>
+        <link href="https://news.ycombinator.com/item?id=31669082"/>
+        <updated>2022-06-08T15:44:49.000Z</updated>
+        <summary type="html"><![CDATA[I built the world’s fastest product reviews app for Shopify]]></summary>
+        <author>
+            <name>wbelk</name>
+            <uri>https://news.ycombinator.com/user?id=wbelk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean無服務器功能挑戰賽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31669024</id>
+        <link href="https://news.ycombinator.com/item?id=31669024"/>
+        <updated>2022-06-08T15:41:30.000Z</updated>
+        <summary type="html"><![CDATA[DigitalOcean Serverless Functions Challenge]]></summary>
+        <author>
+            <name>adoxyz</name>
+            <uri>https://news.ycombinator.com/user?id=adoxyz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可疑的用戶關注點
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668901</id>
+        <link href="https://news.ycombinator.com/item?id=31668901"/>
+        <updated>2022-06-08T15:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Suspicious User Concerns]]></summary>
+        <author>
+            <name>Deceptive</name>
+            <uri>https://news.ycombinator.com/user?id=Deceptive</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[類型化與非類型化的虛擬機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668670</id>
+        <link href="https://news.ycombinator.com/item?id=31668670"/>
+        <updated>2022-06-08T15:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Typed vs. Untyped Virtual Machines]]></summary>
+        <author>
+            <name>cpach</name>
+            <uri>https://news.ycombinator.com/user?id=cpach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被指控的Capital One黑客因詐騙和身份盜竊而受審
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>madmax108</name>
             <uri>https://news.ycombinator.com/user?id=madmax108</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你為什麼不編碼。一個關於程序員的網絡漫畫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654275</id>
-        <link href="https://news.ycombinator.com/item?id=31654275"/>
-        <updated>2022-06-07T13:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Why Aren't You Coding: A webcomic about programmers]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喜悅：為Lisp愛好者提供的極簡主義網絡框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654257</id>
-        <link href="https://news.ycombinator.com/item?id=31654257"/>
-        <updated>2022-06-07T13:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Joy: A maximalist web framework for Lisp aficionados]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光子芯片在570微秒內完成圖像識別
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654222</id>
-        <link href="https://news.ycombinator.com/item?id=31654222"/>
-        <updated>2022-06-07T13:45:51.000Z</updated>
-        <summary type="html"><![CDATA[Photonic Chip Performs Image Recognition in 570 Picoseconds]]></summary>
-        <author>
-            <name>em3rgent0rdr</name>
-            <uri>https://news.ycombinator.com/user?id=em3rgent0rdr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系統架構設計簡介（2019年）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654143</id>
-        <link href="https://news.ycombinator.com/item?id=31654143"/>
-        <updated>2022-06-07T13:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to System Architecture Design (2019)]]></summary>
-        <author>
-            <name>furtiman</name>
-            <uri>https://news.ycombinator.com/user?id=furtiman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於普通充電器的協議：減少消費者的麻煩，遏制電子垃圾的產生
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654084</id>
-        <link href="https://news.ycombinator.com/item?id=31654084"/>
-        <updated>2022-06-07T13:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Deal on common charger: reducing hassle for consumers and curbing e-waste]]></summary>
-        <author>
-            <name>jacquesm</name>
-            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
         </author>
     </entry>
 </feed>
