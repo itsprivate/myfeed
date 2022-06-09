@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T05:28:22.470Z</updated>
+    <updated>2022-06-09T05:44:24.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大的互联网过滤。罗杰斯的NHL封锁令
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31677867</id>
+        <link href="https://news.ycombinator.com/item?id=31677867"/>
+        <updated>2022-06-09T05:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Internet Filtering in Canada: Rogers' NHL Blocking Order]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+            <uri>https://news.ycombinator.com/user?id=ChrisArchitect</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大大媒体法院命令主要的互联网服务供应商用IP屏蔽来执行版权
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31677827</id>
+        <link href="https://news.ycombinator.com/item?id=31677827"/>
+        <updated>2022-06-09T05:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Canadian big media court order on major ISPs to enforce copyright with IP blocks]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+            <uri>https://news.ycombinator.com/user?id=ChrisArchitect</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐私獾是一个浏览器扩展，可以学习阻止看不见的跟踪器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>matthewsinclair</name>
             <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[噪声学
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662826</id>
-        <link href="https://news.ycombinator.com/item?id=31662826"/>
-        <updated>2022-06-08T03:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Ambisonics]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术词源。电视点击器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662547</id>
-        <link href="https://news.ycombinator.com/item?id=31662547"/>
-        <updated>2022-06-08T02:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Tech Etymology: TV Clicker]]></summary>
-        <author>
-            <name>kjhughes</name>
-            <uri>https://news.ycombinator.com/user?id=kjhughes</uri>
         </author>
     </entry>
 </feed>
