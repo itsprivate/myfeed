@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T09:49:38.252Z</updated>
+    <updated>2022-06-09T09:59:52.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們在iPhone、iPad和其他iDevices上實現了Linux。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679293</id>
+        <link href="https://news.ycombinator.com/item?id=31679293"/>
+        <updated>2022-06-09T09:42:59.000Z</updated>
+        <summary type="html"><![CDATA[We Got Linux on the iPhone, iPad and Other iDevices]]></summary>
+        <author>
+            <name>zetaposter</name>
+            <uri>https://news.ycombinator.com/user?id=zetaposter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保持網絡瀏覽數據安全不受黑客攻擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678766</id>
+        <link href="https://news.ycombinator.com/item?id=31678766"/>
+        <updated>2022-06-09T08:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Keeping web-browsing data safe from hackers]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國債務會導致全球崩潰嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gearnode</name>
             <uri>https://news.ycombinator.com/user?id=gearnode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sandstorm是一個用於自我託管網絡應用的開源平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31664675</id>
-        <link href="https://news.ycombinator.com/item?id=31664675"/>
-        <updated>2022-06-08T08:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Sandstorm is an open source platform for self-hosting web apps]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在抗議聲中，"Cineworld "取消了《天國的女人》電影的放映活動
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31664600</id>
-        <link href="https://news.ycombinator.com/item?id=31664600"/>
-        <updated>2022-06-08T08:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Cineworld cancels The Lady of Heaven film screenings after protests]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
         </author>
     </entry>
 </feed>
