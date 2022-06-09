@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 09 Jun 2022 11:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:44:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[处理没有锁的并发性
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679890</link>
+            <guid>https://news.ycombinator.com/item?id=31679890</guid>
+            <pubDate>Thu, 09 Jun 2022 11:29:11 GMT</pubDate>
+            <description><![CDATA[Handling Concurrency Without Locks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公共CDN是无用和危险的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679872</link>
+            <guid>https://news.ycombinator.com/item?id=31679872</guid>
+            <pubDate>Thu, 09 Jun 2022 11:26:46 GMT</pubDate>
+            <description><![CDATA[Public CDNs Are Useless and Dangerous]]></description>
+        </item>
         <item>
             <title><![CDATA[丹-穆西格作为一个自由人的最后日子
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31665387</guid>
             <pubDate>Wed, 08 Jun 2022 10:30:38 GMT</pubDate>
             <description><![CDATA[Luna 2.0 falls by 77% in 14 days as Do Kwon takes Twitter account private]]></description>
-        </item>
-        <item>
-            <title><![CDATA["Pinterest需要从Google IMO中删除"
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31665355</link>
-            <guid>https://news.ycombinator.com/item?id=31665355</guid>
-            <pubDate>Wed, 08 Jun 2022 10:25:03 GMT</pubDate>
-            <description><![CDATA[“Pinterest needs to be removed from Google IMO”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚历克斯-基普曼被指控性行为不端后离开微软
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31665340</link>
-            <guid>https://news.ycombinator.com/item?id=31665340</guid>
-            <pubDate>Wed, 08 Jun 2022 10:22:41 GMT</pubDate>
-            <description><![CDATA[Alex Kipman has left Microsoft following sexual misconduct allegations]]></description>
         </item>
     </channel>
 </rss>

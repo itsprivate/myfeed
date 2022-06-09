@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T11:31:03.249Z</updated>
+    <updated>2022-06-09T11:44:18.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[处理没有锁的并发性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679890</id>
+        <link href="https://news.ycombinator.com/item?id=31679890"/>
+        <updated>2022-06-09T11:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Handling Concurrency Without Locks]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共CDN是无用和危险的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679872</id>
+        <link href="https://news.ycombinator.com/item?id=31679872"/>
+        <updated>2022-06-09T11:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Public CDNs Are Useless and Dangerous]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丹-穆西格作为一个自由人的最后日子
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Pinterest需要从Google IMO中删除"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31665355</id>
-        <link href="https://news.ycombinator.com/item?id=31665355"/>
-        <updated>2022-06-08T10:25:03.000Z</updated>
-        <summary type="html"><![CDATA[“Pinterest needs to be removed from Google IMO”]]></summary>
-        <author>
-            <name>schleck8</name>
-            <uri>https://news.ycombinator.com/user?id=schleck8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚历克斯-基普曼被指控性行为不端后离开微软
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31665340</id>
-        <link href="https://news.ycombinator.com/item?id=31665340"/>
-        <updated>2022-06-08T10:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Alex Kipman has left Microsoft following sexual misconduct allegations]]></summary>
-        <author>
-            <name>monkey_monkey</name>
-            <uri>https://news.ycombinator.com/user?id=monkey_monkey</uri>
         </author>
     </entry>
 </feed>
