@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T18:35:56.209Z</updated>
+    <updated>2022-06-09T18:53:07.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆将阅读推文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31685210</id>
+        <link href="https://news.ycombinator.com/item?id=31685210"/>
+        <updated>2022-06-09T18:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Elon Will Read the Tweets]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精益产品流程。#3 创建你的原型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31684754</id>
+        <link href="https://news.ycombinator.com/item?id=31684754"/>
+        <updated>2022-06-09T18:11:52.000Z</updated>
+        <summary type="html"><![CDATA[The Lean Product Process: #3 Creating Your Prototype]]></summary>
+        <author>
+            <name>teamfurther</name>
+            <uri>https://news.ycombinator.com/user?id=teamfurther</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java中的矢量排序--从兔子洞到修改的JVM
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31684647</id>
+        <link href="https://news.ycombinator.com/item?id=31684647"/>
+        <updated>2022-06-09T18:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Vectorized sorting in Java – down a rabbit hole to a modified JVM]]></summary>
+        <author>
+            <name>CHY872</name>
+            <uri>https://news.ycombinator.com/user?id=CHY872</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[必须阻止DALL-E
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plotnine: Python的图形语法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31671820</id>
-        <link href="https://news.ycombinator.com/item?id=31671820"/>
-        <updated>2022-06-08T18:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Plotnine: A Grammar of Graphics for Python]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alyssa Rosenzweig：Conformant对Mali-G57的开源支持
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31671751</id>
-        <link href="https://news.ycombinator.com/item?id=31671751"/>
-        <updated>2022-06-08T18:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Alyssa Rosenzweig: Conformant open source support for Mali-G57]]></summary>
-        <author>
-            <name>mfilion</name>
-            <uri>https://news.ycombinator.com/user?id=mfilion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp：用程序构建抽象 (SICP)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31671602</id>
-        <link href="https://news.ycombinator.com/item?id=31671602"/>
-        <updated>2022-06-08T18:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Lisp: Building Abstractions with Procedures (SICP)]]></summary>
-        <author>
-            <name>wrycoder</name>
-            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
         </author>
     </entry>
 </feed>
