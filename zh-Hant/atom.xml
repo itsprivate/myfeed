@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T05:44:24.438Z</updated>
+    <updated>2022-06-09T05:58:06.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[QBitTorrent
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31677839</id>
+        <link href="https://news.ycombinator.com/item?id=31677839"/>
+        <updated>2022-06-09T05:26:15.000Z</updated>
+        <summary type="html"><![CDATA[QBitTorrent]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大的互聯網過濾。羅傑斯的NHL封鎖令
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roombo [DeepFake]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31663219</id>
-        <link href="https://news.ycombinator.com/item?id=31663219"/>
-        <updated>2022-06-08T04:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Roombo [DeepFake]]]></summary>
-        <author>
-            <name>matthewsinclair</name>
-            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
         </author>
     </entry>
 </feed>
