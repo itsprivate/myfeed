@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-09T13:54:46.444Z</updated>
+    <updated>2022-06-09T14:02:42.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們試過為我們的devtools網站配圖。人們喜歡它:-)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681126</id>
+        <link href="https://news.ycombinator.com/item?id=31681126"/>
+        <updated>2022-06-09T13:51:43.000Z</updated>
+        <summary type="html"><![CDATA[We tried illustrating our devtools site. People loved it:-)]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub放棄了Atom。開源文本編輯器在今年年底前停用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681083</id>
+        <link href="https://news.ycombinator.com/item?id=31681083"/>
+        <updated>2022-06-09T13:48:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub drops Atom: Open-source text editor mothballed by end of year]]></summary>
+        <author>
+            <name>davesailer</name>
+            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[發明家說谷歌正在為他放在公共領域的工作申請專利(2018)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681054</id>
+        <link href="https://news.ycombinator.com/item?id=31681054"/>
+        <updated>2022-06-09T13:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Inventor says Google is patenting work he put in the public domain (2018)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProjectIt - 一個用於網絡的投影編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681018</id>
+        <link href="https://news.ycombinator.com/item?id=31681018"/>
+        <updated>2022-06-09T13:42:14.000Z</updated>
+        <summary type="html"><![CDATA[ProjectIt – A Projectional Editor for the Web]]></summary>
+        <author>
+            <name>luisobo</name>
+            <uri>https://news.ycombinator.com/user?id=luisobo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為窮人提供法律諮詢的自由言論
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>abhasha</name>
             <uri>https://news.ycombinator.com/user?id=abhasha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在10分鐘或更短時間內建立一個URL縮短器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666703</id>
-        <link href="https://news.ycombinator.com/item?id=31666703"/>
-        <updated>2022-06-08T13:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Building a URL shortener in 10 minutes or less]]></summary>
-        <author>
-            <name>openquery</name>
-            <uri>https://news.ycombinator.com/user?id=openquery</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對沖基金D1為熱門賭局借款數十億，現在看來已經融化了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666685</id>
-        <link href="https://news.ycombinator.com/item?id=31666685"/>
-        <updated>2022-06-08T13:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Hedge Fund D1 Borrowed Billions for Hot Bet Now Seen Melting Down]]></summary>
-        <author>
-            <name>JumpCrisscross</name>
-            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nebulgym，一個新的開源，可以加速AI訓練（~1.5-2倍）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666602</id>
-        <link href="https://news.ycombinator.com/item?id=31666602"/>
-        <updated>2022-06-08T12:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Nebulgym, a new open-source that accelerates AI training (~1.5-2x)]]></summary>
-        <author>
-            <name>emilec___</name>
-            <uri>https://news.ycombinator.com/user?id=emilec___</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉正在讓我們搬家或辭職。我會得到遣散費嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666593</id>
-        <link href="https://news.ycombinator.com/item?id=31666593"/>
-        <updated>2022-06-08T12:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Tesla is making us move or quit. Would I get severance?]]></summary>
-        <author>
-            <name>nikolaedison</name>
-            <uri>https://news.ycombinator.com/user?id=nikolaedison</uri>
         </author>
     </entry>
 </feed>
