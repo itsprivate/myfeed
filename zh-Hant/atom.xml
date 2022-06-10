@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-10T05:44:38.339Z</updated>
+    <updated>2022-06-10T05:57:51.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只需5美元/月，你就可以從你的敵人那裡竊取38,000美元/月。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31690480</id>
+        <link href="https://news.ycombinator.com/item?id=31690480"/>
+        <updated>2022-06-10T05:42:35.000Z</updated>
+        <summary type="html"><![CDATA[For $5/mo, you can steal $38,000/month from your enemies]]></summary>
+        <author>
+            <name>nikolqy</name>
+            <uri>https://news.ycombinator.com/user?id=nikolqy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普和他的政黨的恥辱，是1月6日的真正收穫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[等離子體點火系統使內燃機效率提高了20%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31677744</id>
-        <link href="https://news.ycombinator.com/item?id=31677744"/>
-        <updated>2022-06-09T05:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Plasma Ignition System Increases Internal Combustion Engine Efficiency 20%]]></summary>
-        <author>
-            <name>giardini</name>
-            <uri>https://news.ycombinator.com/user?id=giardini</uri>
         </author>
     </entry>
 </feed>
