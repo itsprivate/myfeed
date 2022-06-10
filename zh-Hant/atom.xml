@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-10T23:46:57.100Z</updated>
+    <updated>2022-06-10T23:58:51.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安裝屋頂太陽能可以是一件輕而易舉的事。看看澳大利亞就知道了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31700622</id>
+        <link href="https://news.ycombinator.com/item?id=31700622"/>
+        <updated>2022-06-10T23:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Installing Rooftop Solar Can Be a Breeze. Just Look at Australia]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在我的麻省理工學院課程中只使用免費/libre軟件進行教學（2020）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wakahiu</name>
             <uri>https://news.ycombinator.com/user?id=wakahiu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝葉斯推理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687357</id>
-        <link href="https://news.ycombinator.com/item?id=31687357"/>
-        <updated>2022-06-09T21:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Bayesian Inference]]></summary>
-        <author>
-            <name>niklasbuschmann</name>
-            <uri>https://news.ycombinator.com/user?id=niklasbuschmann</uri>
         </author>
     </entry>
 </feed>
