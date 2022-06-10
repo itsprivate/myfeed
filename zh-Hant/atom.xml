@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-10T20:46:40.692Z</updated>
+    <updated>2022-06-10T20:59:23.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非固定的A/B測試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699032</id>
+        <link href="https://news.ycombinator.com/item?id=31699032"/>
+        <updated>2022-06-10T20:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Non-Stationary A/B Tests]]></summary>
+        <author>
+            <name>reckel</name>
+            <uri>https://news.ycombinator.com/user?id=reckel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[操作系統。三個簡單的部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31697978</id>
+        <link href="https://news.ycombinator.com/item?id=31697978"/>
+        <updated>2022-06-10T18:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Operating Systems: Three Easy Pieces]]></summary>
+        <author>
+            <name>stanulilic</name>
+            <uri>https://news.ycombinator.com/user?id=stanulilic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡-梅爾和埃文-奧斯諾談1月6日的新啟示錄
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jackcook</name>
             <uri>https://news.ycombinator.com/user?id=jackcook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電視《廣闊的荒原》（1961年）[視頻］
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686203</id>
-        <link href="https://news.ycombinator.com/item?id=31686203"/>
-        <updated>2022-06-09T20:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Television “A Vast Wasteland” (1961) [video]]]></summary>
-        <author>
-            <name>dredmorbius</name>
-            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9種土地類型的全球10米分辨率近乎實時的土地覆蓋數據集
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686164</id>
-        <link href="https://news.ycombinator.com/item?id=31686164"/>
-        <updated>2022-06-09T20:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Global 10m resolution near realtime land cover dataset for 9 land types]]></summary>
-        <author>
-            <name>acmegeek</name>
-            <uri>https://news.ycombinator.com/user?id=acmegeek</uri>
         </author>
     </entry>
 </feed>

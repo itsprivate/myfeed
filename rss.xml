@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 10 Jun 2022 20:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 20:59:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[非固定的A/B测试
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31699032</link>
+            <guid>https://news.ycombinator.com/item?id=31699032</guid>
+            <pubDate>Fri, 10 Jun 2022 20:29:38 GMT</pubDate>
+            <description><![CDATA[Non-Stationary A/B Tests]]></description>
+        </item>
+        <item>
+            <title><![CDATA[操作系统。三个简单的部分
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31697978</link>
+            <guid>https://news.ycombinator.com/item?id=31697978</guid>
+            <pubDate>Fri, 10 Jun 2022 18:49:51 GMT</pubDate>
+            <description><![CDATA[Operating Systems: Three Easy Pieces]]></description>
+        </item>
         <item>
             <title><![CDATA[简-梅尔和埃文-奥斯诺谈1月6日的新启示录
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31686237</guid>
             <pubDate>Thu, 09 Jun 2022 20:18:07 GMT</pubDate>
             <description><![CDATA[Attacking web browsers with machine learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电视《广阔的荒原》（1961年）[视频］
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686203</link>
-            <guid>https://news.ycombinator.com/item?id=31686203</guid>
-            <pubDate>Thu, 09 Jun 2022 20:15:04 GMT</pubDate>
-            <description><![CDATA[Television “A Vast Wasteland” (1961) [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9种土地类型的全球10米分辨率近乎实时的土地覆盖数据集
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686164</link>
-            <guid>https://news.ycombinator.com/item?id=31686164</guid>
-            <pubDate>Thu, 09 Jun 2022 20:12:07 GMT</pubDate>
-            <description><![CDATA[Global 10m resolution near realtime land cover dataset for 9 land types]]></description>
         </item>
     </channel>
 </rss>
