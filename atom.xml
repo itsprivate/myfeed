@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-10T22:45:59.640Z</updated>
+    <updated>2022-06-10T22:58:58.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[悲剧发生后的司法成本
+]]></title>
+        <id>https://www.newyorker.com/culture/screening-room/the-cost-of-justice-in-the-aftermath-of-tragedy</id>
+        <link href="https://www.newyorker.com/culture/screening-room/the-cost-of-justice-in-the-aftermath-of-tragedy"/>
+        <updated>2022-06-10T22:43:02.000Z</updated>
+        <summary type="html"><![CDATA[The Cost of Justice in the Aftermath of Tragedy]]></summary>
+        <author>
+            <name>Mengfei Chen</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boa发布v0.15：一个用Rust编写的JavaScript引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31700139</id>
+        <link href="https://news.ycombinator.com/item?id=31700139"/>
+        <updated>2022-06-10T22:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Boa release v0.15: A JavaScript engine written in Rust]]></summary>
+        <author>
+            <name>jayflux</name>
+            <uri>https://news.ycombinator.com/user?id=jayflux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝灵猫的所有工具的储存库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699904</id>
+        <link href="https://news.ycombinator.com/item?id=31699904"/>
+        <updated>2022-06-10T22:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Bellingcat's Repository of All Tools]]></summary>
+        <author>
+            <name>Trouble_007</name>
+            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行动中的反转。SolarWinds攻击中使用的Golang恶意软件。第一部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699738</id>
+        <link href="https://news.ycombinator.com/item?id=31699738"/>
+        <updated>2022-06-10T21:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Reversing in action: Golang malware used in the SolarWinds attack. Part 1]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更多的科学会带来更多的创新吗？是的
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>bcaulfield</name>
             <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闪电侠2》终于有了一个发布窗口
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687181</id>
-        <link href="https://news.ycombinator.com/item?id=31687181"/>
-        <updated>2022-06-09T21:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Flashback 2 finally has a release window]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber为乌克兰的紧急食品运送提供动力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687157</id>
-        <link href="https://news.ycombinator.com/item?id=31687157"/>
-        <updated>2022-06-09T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Uber powers emergency food deliveries in Ukraine]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Bros.时钟
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687142</id>
-        <link href="https://news.ycombinator.com/item?id=31687142"/>
-        <updated>2022-06-09T21:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mario Bros. Clock]]></summary>
-        <author>
-            <name>jnthas</name>
-            <uri>https://news.ycombinator.com/user?id=jnthas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的民主是否仍然注定要失败？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687141</id>
-        <link href="https://news.ycombinator.com/item?id=31687141"/>
-        <updated>2022-06-09T21:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Is American democracy still doomed?]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
