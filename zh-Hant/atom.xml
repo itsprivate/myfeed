@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T23:28:40.772Z</updated>
+    <updated>2022-06-11T23:44:47.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[何時以及如何使緩存失效
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709501</id>
+        <link href="https://news.ycombinator.com/item?id=31709501"/>
+        <updated>2022-06-11T23:29:56.000Z</updated>
+        <summary type="html"><![CDATA[When and How to Invalidate Cache]]></summary>
+        <author>
+            <name>uvdn7</name>
+            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最重要的PM技能。SQL、Excel、清晰的溝通、故事、優先權
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709461</id>
+        <link href="https://news.ycombinator.com/item?id=31709461"/>
+        <updated>2022-06-11T23:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Top PM Skills: SQL, Excel, Clear Communication, Story, Prioritization]]></summary>
+        <author>
+            <name>craigkerstiens</name>
+            <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司擴展macOS的虛擬化功能併為Linux Bin引入Rosetta
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709442</id>
+        <link href="https://news.ycombinator.com/item?id=31709442"/>
+        <updated>2022-06-11T23:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Apple Extends macOS Virtualization Capabilities and Intro Rosetta for Linux Bin]]></summary>
+        <author>
+            <name>chhhuang</name>
+            <uri>https://news.ycombinator.com/user?id=chhhuang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高級搜索操作者--Dan Russell(谷歌搜索高級研究科學家)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709089</id>
+        <link href="https://news.ycombinator.com/item?id=31709089"/>
+        <updated>2022-06-11T22:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Search Operators – Dan Russell(Google Search Senior Research Scientist)]]></summary>
+        <author>
+            <name>de_nied</name>
+            <uri>https://news.ycombinator.com/user?id=de_nied</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["嗨，LaMDA，我是Blake Lemoine..."
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archetype正在招聘創始工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697210</id>
-        <link href="https://news.ycombinator.com/item?id=31697210"/>
-        <updated>2022-06-10T17:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Archetype Is Hiring Founding Engineers]]></summary>
-        <author>
-            <name>behailu</name>
-            <uri>https://news.ycombinator.com/user?id=behailu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listmonk - 免費和開源的自我託管的通訊和郵件列表管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697131</id>
-        <link href="https://news.ycombinator.com/item?id=31697131"/>
-        <updated>2022-06-10T17:35:57.000Z</updated>
-        <summary type="html"><![CDATA[Listmonk – Free and open source self-hosted newsletter and mailing list manager]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑克-多爾西的TBD提出基於比特幣的去中心化WEB5
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697042</id>
-        <link href="https://news.ycombinator.com/item?id=31697042"/>
-        <updated>2022-06-10T17:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Jack Dorsey’s TBD Presents Bitcoin-Based Decentralized WEB5]]></summary>
-        <author>
-            <name>mikekij</name>
-            <uri>https://news.ycombinator.com/user?id=mikekij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引人注目的癌症藥物試驗結果讓研究人員問。下一步是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697027</id>
-        <link href="https://news.ycombinator.com/item?id=31697027"/>
-        <updated>2022-06-10T17:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Eye-catching cancer drug trial results have researchers asking: What’s next?]]></summary>
-        <author>
-            <name>grogu88</name>
-            <uri>https://news.ycombinator.com/user?id=grogu88</uri>
         </author>
     </entry>
 </feed>
