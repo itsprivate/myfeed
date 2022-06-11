@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T19:46:22.701Z</updated>
+    <updated>2022-06-11T19:57:44.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普的社交網絡正在迅速禁止用戶，而不告訴他們原因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31707602</id>
+        <link href="https://news.ycombinator.com/item?id=31707602"/>
+        <updated>2022-06-11T19:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Trump's Social Network Is Rapidly Banning Users Without Telling Them Why]]></summary>
+        <author>
+            <name>belltaco</name>
+            <uri>https://news.ycombinator.com/user?id=belltaco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國土地項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31707203</id>
+        <link href="https://news.ycombinator.com/item?id=31707203"/>
+        <updated>2022-06-11T19:03:34.000Z</updated>
+        <summary type="html"><![CDATA[American Lands Project]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人員演示40通道的光通信鏈路，能夠傳輸400GB/SEC的數據
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kronop</name>
             <uri>https://news.ycombinator.com/user?id=kronop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被拒絕的GitHub簡介成就
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31695772</id>
-        <link href="https://news.ycombinator.com/item?id=31695772"/>
-        <updated>2022-06-10T15:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Rejected GitHub Profile Achievements]]></summary>
-        <author>
-            <name>flet</name>
-            <uri>https://news.ycombinator.com/user?id=flet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新的.NET 7功能將改變你的編碼方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31695764</id>
-        <link href="https://news.ycombinator.com/item?id=31695764"/>
-        <updated>2022-06-10T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[The Latest .NET 7 Features Will Change the Way You Code]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
         </author>
     </entry>
 </feed>
