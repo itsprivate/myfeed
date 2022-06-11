@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T05:00:13.820Z</updated>
+    <updated>2022-06-11T05:24:55.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要使用自制的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702069</id>
+        <link href="https://news.ycombinator.com/item?id=31702069"/>
+        <updated>2022-06-11T05:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Don't Use Homebrew]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mask - 一个由简单的Markdown文件定义的CLI任务运行器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702030</id>
+        <link href="https://news.ycombinator.com/item?id=31702030"/>
+        <updated>2022-06-11T04:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Mask – A CLI task runner defined by a simple Markdown file]]></summary>
+        <author>
+            <name>animal_spirits</name>
+            <uri>https://news.ycombinator.com/user?id=animal_spirits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现新分子可杀死难以治疗的癌症
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31701993</id>
+        <link href="https://news.ycombinator.com/item?id=31701993"/>
+        <updated>2022-06-11T04:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Scientists Discover New Molecule That Kills Hard-to-Treat Cancers]]></summary>
+        <author>
+            <name>kungfudoi</name>
+            <uri>https://news.ycombinator.com/user?id=kungfudoi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[价值10亿美元的加密游戏初创公司承诺致富，却带来了灾难
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31701062</id>
+        <link href="https://news.ycombinator.com/item?id=31701062"/>
+        <updated>2022-06-11T01:11:44.000Z</updated>
+        <summary type="html"><![CDATA[A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster]]></summary>
+        <author>
+            <name>crhulls</name>
+            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAMBleed攻击--读取内存中的比特而不访问它们 (2019)
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国家航空航天局要想办法获得天空中无法解释的物体的数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688678</id>
-        <link href="https://news.ycombinator.com/item?id=31688678"/>
-        <updated>2022-06-10T00:37:34.000Z</updated>
-        <summary type="html"><![CDATA[NASA to figure out how to get data on unexplained objects in the sky]]></summary>
-        <author>
-            <name>_JamesA_</name>
-            <uri>https://news.ycombinator.com/user?id=_JamesA_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学术性 "Torrent客户端希望撼动娱乐业 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688669</id>
-        <link href="https://news.ycombinator.com/item?id=31688669"/>
-        <updated>2022-06-10T00:35:38.000Z</updated>
-        <summary type="html"><![CDATA[‘Academic’ Torrent Client Hopes to Shake Up the Entertainment Industry (2020)]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Python到NumPy (2017)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688667</id>
-        <link href="https://news.ycombinator.com/item?id=31688667"/>
-        <updated>2022-06-10T00:35:35.000Z</updated>
-        <summary type="html"><![CDATA[From Python to NumPy (2017)]]></summary>
-        <author>
-            <name>rahimnathwani</name>
-            <uri>https://news.ycombinator.com/user?id=rahimnathwani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我与阿帕奇软件基金会的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688665</id>
-        <link href="https://news.ycombinator.com/item?id=31688665"/>
-        <updated>2022-06-10T00:35:17.000Z</updated>
-        <summary type="html"><![CDATA[My Story with the Apache Software Foundation]]></summary>
-        <author>
-            <name>jjzhiyuan</name>
-            <uri>https://news.ycombinator.com/user?id=jjzhiyuan</uri>
         </author>
     </entry>
 </feed>
