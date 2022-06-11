@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T16:37:09.699Z</updated>
+    <updated>2022-06-11T17:04:18.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国新的加密货币监管
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705715</id>
+        <link href="https://news.ycombinator.com/item?id=31705715"/>
+        <updated>2022-06-11T16:27:35.000Z</updated>
+        <summary type="html"><![CDATA[New Crypto Regulation in the US]]></summary>
+        <author>
+            <name>SuDa2103</name>
+            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杠铃策略的例子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705667</id>
+        <link href="https://news.ycombinator.com/item?id=31705667"/>
+        <updated>2022-06-11T16:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Examples of Barbell Strategies]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AC-Chan - 自动作曲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705642</id>
+        <link href="https://news.ycombinator.com/item?id=31705642"/>
+        <updated>2022-06-11T16:19:16.000Z</updated>
+        <summary type="html"><![CDATA[AC-Chan – Automatic Composition]]></summary>
+        <author>
+            <name>sidedishes</name>
+            <uri>https://news.ycombinator.com/user?id=sidedishes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD季度状态报告 2022年第一季度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705460</id>
+        <link href="https://news.ycombinator.com/item?id=31705460"/>
+        <updated>2022-06-11T15:58:08.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD Quarterly Status Report First Quarter 2022]]></summary>
+        <author>
+            <name>ptx</name>
+            <uri>https://news.ycombinator.com/user?id=ptx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[负担得起的神话
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Rust标准库CVE上使用Kani Rust验证器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692682</id>
-        <link href="https://news.ycombinator.com/item?id=31692682"/>
-        <updated>2022-06-10T11:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Using the Kani Rust Verifier on a Rust Standard Library CVE]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌OR-工具实例：用代码解决优化问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692678</id>
-        <link href="https://news.ycombinator.com/item?id=31692678"/>
-        <updated>2022-06-10T11:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Google OR-Tools Examples: solving optimization problems with code]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniZinc - 一个免费和开源的约束建模语言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692623</id>
-        <link href="https://news.ycombinator.com/item?id=31692623"/>
-        <updated>2022-06-10T11:32:30.000Z</updated>
-        <summary type="html"><![CDATA[MiniZinc – a free and open-source constraint modeling language]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过Stadia在浏览器中尝试《生化危机村》。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692454</id>
-        <link href="https://news.ycombinator.com/item?id=31692454"/>
-        <updated>2022-06-10T11:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Try Resident Evil Village in the browser through Stadia]]></summary>
-        <author>
-            <name>sph</name>
-            <uri>https://news.ycombinator.com/user?id=sph</uri>
         </author>
     </entry>
 </feed>
