@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T13:40:58.167Z</updated>
+    <updated>2022-06-11T13:57:39.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡黃金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31704306</id>
+        <link href="https://news.ycombinator.com/item?id=31704306"/>
+        <updated>2022-06-11T13:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Web Golden]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經濟學家說，供應鏈的前景仍然 "相當嚴峻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31704023</id>
+        <link href="https://news.ycombinator.com/item?id=31704023"/>
+        <updated>2022-06-11T12:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Supply chain outlook still ‘pretty severe,’ economist says]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陰性的Covid測試從未如此毫無意義
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3M安特衛普的PFAS災難
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691113</id>
-        <link href="https://news.ycombinator.com/item?id=31691113"/>
-        <updated>2022-06-10T07:20:39.000Z</updated>
-        <summary type="html"><![CDATA[3M Antwerp PFAS Calamity]]></summary>
-        <author>
-            <name>potiuper</name>
-            <uri>https://news.ycombinator.com/user?id=potiuper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，化學汙染物的組合與精子質量下降有關
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691092</id>
-        <link href="https://news.ycombinator.com/item?id=31691092"/>
-        <updated>2022-06-10T07:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Cocktail of chemical pollutants linked to falling sperm quality in research]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
