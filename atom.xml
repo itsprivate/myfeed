@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-11T21:46:26.974Z</updated>
+    <updated>2022-06-11T21:57:57.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马苏比拉米的历史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708633</id>
+        <link href="https://news.ycombinator.com/item?id=31708633"/>
+        <updated>2022-06-11T21:33:05.000Z</updated>
+        <summary type="html"><![CDATA[The History of Marsupilami]]></summary>
+        <author>
+            <name>Marsupilami</name>
+            <uri>https://news.ycombinator.com/user?id=Marsupilami</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对Instagram的账户安全和恢复流程感到非常失望
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708277</id>
+        <link href="https://news.ycombinator.com/item?id=31708277"/>
+        <updated>2022-06-11T20:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Terribly disappointed in Instagram's account security and recovery processes]]></summary>
+        <author>
+            <name>itsmeritesh</name>
+            <uri>https://news.ycombinator.com/user?id=itsmeritesh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do Kwon如何在Terra稳定币中套现27亿美元
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>haskell_melody</name>
             <uri>https://news.ycombinator.com/user?id=haskell_melody</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recode - 定义为代码的远程开发环境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31696251</id>
-        <link href="https://news.ycombinator.com/item?id=31696251"/>
-        <updated>2022-06-10T16:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Recode – Remote development environments defined as code]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sup - 一个带有标签的诅咒线程式电子邮件客户端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31696235</id>
-        <link href="https://news.ycombinator.com/item?id=31696235"/>
-        <updated>2022-06-10T16:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Sup – A curses threads-with-tags style email client]]></summary>
-        <author>
-            <name>isp</name>
-            <uri>https://news.ycombinator.com/user?id=isp</uri>
         </author>
     </entry>
 </feed>
