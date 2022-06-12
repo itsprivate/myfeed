@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T08:49:27.609Z</updated>
+    <updated>2022-06-12T09:01:50.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web5：去中心化的网络平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712846</id>
+        <link href="https://news.ycombinator.com/item?id=31712846"/>
+        <updated>2022-06-12T08:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Web5: The Decentralized Web Platform]]></summary>
+        <author>
+            <name>fauigerzigerk</name>
+            <uri>https://news.ycombinator.com/user?id=fauigerzigerk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家们分析了一位酸中毒艺术家的画作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712474</id>
+        <link href="https://news.ycombinator.com/item?id=31712474"/>
+        <updated>2022-06-12T07:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Scientists Analyze Drawings by an Acid-Tripping Artist]]></summary>
+        <author>
+            <name>monort</name>
+            <uri>https://news.ycombinator.com/user?id=monort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何玩转GPT-3语言模型
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["基础模型 "正在为人工智能的进展提供涡轮增压动力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699949</id>
-        <link href="https://news.ycombinator.com/item?id=31699949"/>
-        <updated>2022-06-10T22:12:26.000Z</updated>
-        <summary type="html"><![CDATA[“foundation models” are turbo-charging AI progress]]></summary>
-        <author>
-            <name>loufe</name>
-            <uri>https://news.ycombinator.com/user?id=loufe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新发现编程的乐趣
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699914</id>
-        <link href="https://news.ycombinator.com/item?id=31699914"/>
-        <updated>2022-06-10T22:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Rediscover the Joy of Programming]]></summary>
-        <author>
-            <name>darkhorsematt</name>
-            <uri>https://news.ycombinator.com/user?id=darkhorsematt</uri>
         </author>
     </entry>
 </feed>
