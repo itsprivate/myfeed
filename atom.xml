@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T18:31:54.560Z</updated>
+    <updated>2022-06-12T18:50:50.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好吧，那么这里是我的评论
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717090</id>
+        <link href="https://news.ycombinator.com/item?id=31717090"/>
+        <updated>2022-06-12T18:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Alright, so here are my comments]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年6月16日，"我们正在逐步关闭Google Talk"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717023</id>
+        <link href="https://news.ycombinator.com/item?id=31717023"/>
+        <updated>2022-06-12T18:37:20.000Z</updated>
+        <summary type="html"><![CDATA[“We’re winding down Google Talk” on June 16, 2022]]></summary>
+        <author>
+            <name>tech234a</name>
+            <uri>https://news.ycombinator.com/user?id=tech234a</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorien - 无限画布绘画/白板应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717007</id>
+        <link href="https://news.ycombinator.com/item?id=31717007"/>
+        <updated>2022-06-12T18:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Lorien – Infinite canvas drawing/whiteboarding app]]></summary>
+        <author>
+            <name>sanqui</name>
+            <uri>https://news.ycombinator.com/user?id=sanqui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用子域名隔离电子邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716979</id>
+        <link href="https://news.ycombinator.com/item?id=31716979"/>
+        <updated>2022-06-12T18:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Segregating Email with Sub-Domains]]></summary>
+        <author>
+            <name>twapi</name>
+            <uri>https://news.ycombinator.com/user?id=twapi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经营现代货币经济 (2017)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716778</id>
+        <link href="https://news.ycombinator.com/item?id=31716778"/>
+        <updated>2022-06-12T18:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Running a Modern Money Economy (2017)]]></summary>
+        <author>
+            <name>coxmichael</name>
+            <uri>https://news.ycombinator.com/user?id=coxmichael</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compatlib或：在Python中不应该做什么
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716757</id>
+        <link href="https://news.ycombinator.com/item?id=31716757"/>
+        <updated>2022-06-12T18:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Compatlib or: what not to do in Python]]></summary>
+        <author>
+            <name>ttymck</name>
+            <uri>https://news.ycombinator.com/user?id=ttymck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员在打击 "关键 "CVE任务中为Formidable辩护
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716274</id>
+        <link href="https://news.ycombinator.com/item?id=31716274"/>
+        <updated>2022-06-12T17:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Researcher defends Formidable in fight against ‘critical’ CVE assignment]]></summary>
+        <author>
+            <name>execveat</name>
+            <uri>https://news.ycombinator.com/user?id=execveat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲盖亚任务的新数据库将带来最好的银河系地图
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>WalterSobchak</name>
             <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winamp皮肤博物馆是由一个拥有1.2GB元数据的sqlite3数据库驱动的。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703874</id>
-        <link href="https://news.ycombinator.com/item?id=31703874"/>
-        <updated>2022-06-11T12:06:19.000Z</updated>
-        <summary type="html"><![CDATA[The Winamp Skin Museum is powered by a sqlite3 database with 1.2gb of metadata]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官方的GitHub行动工具包被放弃了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703847</id>
-        <link href="https://news.ycombinator.com/item?id=31703847"/>
-        <updated>2022-06-11T12:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Official GitHub Actions Toolkit is abandoned]]></summary>
-        <author>
-            <name>whatever3</name>
-            <uri>https://news.ycombinator.com/user?id=whatever3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见语义版本管理，向GitDate问好
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703803</id>
-        <link href="https://news.ycombinator.com/item?id=31703803"/>
-        <updated>2022-06-11T11:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Bye Bye Semantic Versioning, Say Hello to GitDate]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉申请使用新的雷达，大家都很疑惑
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703798</id>
-        <link href="https://news.ycombinator.com/item?id=31703798"/>
-        <updated>2022-06-11T11:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Tesla files to use a new radar and everyone is confused]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在实验室中生长的微小人脑具有类似眼睛的结构，可以 "看到 "光线
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703794</id>
-        <link href="https://news.ycombinator.com/item?id=31703794"/>
-        <updated>2022-06-11T11:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Tiny human brain grown in lab has eye-like structures that 'see' light]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初学者的逆向工程指南。方法和工具 (2017)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703680</id>
-        <link href="https://news.ycombinator.com/item?id=31703680"/>
-        <updated>2022-06-11T11:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Reverse engineering guide for beginners: Methodology and tools (2017)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国范围内汽油价格首次达到每加仑5美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703721</id>
-        <link href="https://news.ycombinator.com/item?id=31703721"/>
-        <updated>2022-06-11T11:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Gasoline Prices Reach $5 a Gallon Nationwide for the First Time]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
         </author>
     </entry>
 </feed>
