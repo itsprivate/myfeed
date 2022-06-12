@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T09:46:30.967Z</updated>
+    <updated>2022-06-12T09:59:25.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[書評。"懶洋洋地走向烏托邦"
+]]></title>
+        <id>https://noahpinion.substack.com/p/book-review-slouching-toward-utopia</id>
+        <link href="https://noahpinion.substack.com/p/book-review-slouching-toward-utopia"/>
+        <updated>2022-06-12T09:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Book review: "Slouching Toward Utopia"]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國際計算機歷史研究會議 (1976)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更多的科學會帶來更多的創新嗎？是的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700115</id>
-        <link href="https://news.ycombinator.com/item?id=31700115"/>
-        <updated>2022-06-10T22:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Does More Science Lead to More Innovation? Yes]]></summary>
-        <author>
-            <name>magicalsloth</name>
-            <uri>https://news.ycombinator.com/user?id=magicalsloth</uri>
         </author>
     </entry>
 </feed>

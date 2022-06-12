@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 09:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[書評。"懶洋洋地走向烏托邦"
+]]></title>
+            <link>https://noahpinion.substack.com/p/book-review-slouching-toward-utopia</link>
+            <guid>https://noahpinion.substack.com/p/book-review-slouching-toward-utopia</guid>
+            <pubDate>Sun, 12 Jun 2022 09:57:05 GMT</pubDate>
+            <description><![CDATA[Book review: "Slouching Toward Utopia"]]></description>
+        </item>
         <item>
             <title><![CDATA[國際計算機歷史研究會議 (1976)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31699738</guid>
             <pubDate>Fri, 10 Jun 2022 21:49:36 GMT</pubDate>
             <description><![CDATA[Reversing in action: Golang malware used in the SolarWinds attack. Part 1]]></description>
-        </item>
-        <item>
-            <title><![CDATA[更多的科學會帶來更多的創新嗎？是的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31700115</link>
-            <guid>https://news.ycombinator.com/item?id=31700115</guid>
-            <pubDate>Fri, 10 Jun 2022 22:34:45 GMT</pubDate>
-            <description><![CDATA[Does More Science Lead to More Innovation? Yes]]></description>
         </item>
     </channel>
 </rss>
