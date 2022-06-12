@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 12 Jun 2022 04:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 05:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编码器。在你的基础设施上的远程开发环境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31711419</link>
+            <guid>https://news.ycombinator.com/item?id=31711419</guid>
+            <pubDate>Sun, 12 Jun 2022 04:24:40 GMT</pubDate>
+            <description><![CDATA[Coder: Remote development environments on your infrastructure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在ESP32微控制器上使用Rust的标准库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31710771</link>
+            <guid>https://news.ycombinator.com/item?id=31710771</guid>
+            <pubDate>Sun, 12 Jun 2022 02:39:19 GMT</pubDate>
+            <description><![CDATA[Using Rust's standard library on ESP32 microncontrollers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[冰川融化暴露出鱼龙化石
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31710361</link>
+            <guid>https://news.ycombinator.com/item?id=31710361</guid>
+            <pubDate>Sun, 12 Jun 2022 01:26:45 GMT</pubDate>
+            <description><![CDATA[Melting Glacier Exposes Ichthyosaur Fossils]]></description>
+        </item>
         <item>
             <title><![CDATA[在lambda上构建服务应该是简单而有趣的
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://astralcodexten.substack.com/p/hidden-open-thread-2275</guid>
             <pubDate>Fri, 10 Jun 2022 20:08:15 GMT</pubDate>
             <description><![CDATA[Hidden Open Thread 227.5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Regina Spektor谈她的新专辑 "家，之前和之后"
-]]></title>
-            <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/regina-spektor-on-her-new-album-home-before-and-after</link>
-            <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/regina-spektor-on-her-new-album-home-before-and-after</guid>
-            <pubDate>Fri, 10 Jun 2022 20:00:00 GMT</pubDate>
-            <description><![CDATA[Regina Spektor on Her New Album, “Home, Before and After”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[银河系刚刚探测到超罕见的宇宙物体
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31698870</link>
-            <guid>https://news.ycombinator.com/item?id=31698870</guid>
-            <pubDate>Fri, 10 Jun 2022 20:11:13 GMT</pubDate>
-            <description><![CDATA[Ultra-Rare Cosmic object was just detected in the Milky Way]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个工具来描述~4.3B的颜色
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31698733</link>
-            <guid>https://news.ycombinator.com/item?id=31698733</guid>
-            <pubDate>Fri, 10 Jun 2022 19:57:50 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a tool to describe ~4.3B colors]]></description>
         </item>
     </channel>
 </rss>
