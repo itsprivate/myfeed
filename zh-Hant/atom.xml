@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T11:44:04.561Z</updated>
+    <updated>2022-06-12T11:58:32.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix聯合創始人Mark Randolph做了一個Reddit AMA
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713793</id>
+        <link href="https://news.ycombinator.com/item?id=31713793"/>
+        <updated>2022-06-12T11:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Netflix Cofounder Mark Randolph Has Done a Reddit AMA]]></summary>
+        <author>
+            <name>CM30</name>
+            <uri>https://news.ycombinator.com/user?id=CM30</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用NSTagger可視化Reddit的負面情緒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713709</id>
+        <link href="https://news.ycombinator.com/item?id=31713709"/>
+        <updated>2022-06-12T11:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing Reddit's Negativity with NSTagger]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tetragon - 基於Kubernetes eBPF的安全性
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adconion公司執行官在聯邦反垃圾郵件案中認罪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700726</id>
-        <link href="https://news.ycombinator.com/item?id=31700726"/>
-        <updated>2022-06-11T00:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Adconion Execs Plead Guilty in Federal Anti-Spam Case]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛杉磯的海岸曾經是DDT的傾銷地 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700704</id>
-        <link href="https://news.ycombinator.com/item?id=31700704"/>
-        <updated>2022-06-11T00:07:53.000Z</updated>
-        <summary type="html"><![CDATA[L.A.'s coast was once a DDT dumping ground (2020)]]></summary>
-        <author>
-            <name>SpectralTheory</name>
-            <uri>https://news.ycombinator.com/user?id=SpectralTheory</uri>
         </author>
     </entry>
 </feed>
