@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T09:27:35.738Z</updated>
+    <updated>2022-06-12T09:46:30.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[国际计算机历史研究会议 (1976)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711550</id>
+        <link href="https://news.ycombinator.com/item?id=31711550"/>
+        <updated>2022-06-12T04:54:23.000Z</updated>
+        <summary type="html"><![CDATA[International Research Conference on the History of Computing (1976)]]></summary>
+        <author>
+            <name>asimpleusecase</name>
+            <uri>https://news.ycombinator.com/user?id=asimpleusecase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公告。Regolith 2.0全面发布
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>magicalsloth</name>
             <uri>https://news.ycombinator.com/user?id=magicalsloth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector.js：一个用于创建互动图形的开源JavaScript库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700084</id>
-        <link href="https://news.ycombinator.com/item?id=31700084"/>
-        <updated>2022-06-10T22:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Vector.js: an open source JavaScript library for creating interactive graphics]]></summary>
-        <author>
-            <name>lazyjeff</name>
-            <uri>https://news.ycombinator.com/user?id=lazyjeff</uri>
         </author>
     </entry>
 </feed>
