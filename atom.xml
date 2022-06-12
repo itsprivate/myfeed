@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-12T06:54:00.205Z</updated>
+    <updated>2022-06-12T07:26:02.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,102 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust中的开源联合链接聚合器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712332</id>
+        <link href="https://news.ycombinator.com/item?id=31712332"/>
+        <updated>2022-06-12T07:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Open Source federated link aggregator in rust]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芝华士编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712290</id>
+        <link href="https://news.ycombinator.com/item?id=31712290"/>
+        <updated>2022-06-12T07:11:48.000Z</updated>
+        <summary type="html"><![CDATA[The Chive Programming Language]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么InterlockedIncrement/Decrement只返回结果的符号？(2004)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712241</id>
+        <link href="https://news.ycombinator.com/item?id=31712241"/>
+        <updated>2022-06-12T07:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)]]></summary>
+        <author>
+            <name>userbinator</name>
+            <uri>https://news.ycombinator.com/user?id=userbinator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧金山的毒品和无家可归危机使民主党人产生分歧
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712190</id>
+        <link href="https://news.ycombinator.com/item?id=31712190"/>
+        <updated>2022-06-12T06:55:41.000Z</updated>
+        <summary type="html"><![CDATA[San Francisco's drugs and homelessness crisis divides Democrats]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活很容易。为什么我们让它变得如此艰难？[视频]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712023</id>
+        <link href="https://news.ycombinator.com/item?id=31712023"/>
+        <updated>2022-06-12T06:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Life is easy. Why do we make it so hard? [video]]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失踪的输入之谜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711839</id>
+        <link href="https://news.ycombinator.com/item?id=31711839"/>
+        <updated>2022-06-12T05:53:09.000Z</updated>
+        <summary type="html"><![CDATA[The Mystery of the Missing Input]]></summary>
+        <author>
+            <name>elvis70</name>
+            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resvg--一个快速、小型、可移植的rust中的SVG渲染库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711398</id>
+        <link href="https://news.ycombinator.com/item?id=31711398"/>
+        <updated>2022-06-12T04:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Resvg- a fast, small, portable SVG rendering library in rust]]></summary>
+        <author>
+            <name>CyMonk</name>
+            <uri>https://news.ycombinator.com/user?id=CyMonk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牧师反对圣职
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711227</id>
+        <link href="https://news.ycombinator.com/item?id=31711227"/>
+        <updated>2022-06-12T03:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Priest Against Priesthood]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国优生学的漫长阴影
 ]]></title>
@@ -7117,102 +7213,6 @@
         <author>
             <name>car_analogy</name>
             <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国消费者情绪达到1952年开始记录以来的最低水平
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699574</id>
-        <link href="https://news.ycombinator.com/item?id=31699574"/>
-        <updated>2022-06-10T21:31:12.000Z</updated>
-        <summary type="html"><![CDATA[US consumer sentiment hits lowest level since recording began in 1952]]></summary>
-        <author>
-            <name>ren_engineer</name>
-            <uri>https://news.ycombinator.com/user?id=ren_engineer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个基于网络的音序器，你可以制作、聆听和分享模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699570</id>
-        <link href="https://news.ycombinator.com/item?id=31699570"/>
-        <updated>2022-06-10T21:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A web-based sequencer where you can make, listen to, and share patterns]]></summary>
-        <author>
-            <name>shriracha</name>
-            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰克-多尔西的比特币企业公布了去中心化网络平台的建议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699566</id>
-        <link href="https://news.ycombinator.com/item?id=31699566"/>
-        <updated>2022-06-10T21:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Jack Dorsey's Bitcoin venture unveils proposal for decentralized Web platform]]></summary>
-        <author>
-            <name>sogen</name>
-            <uri>https://news.ycombinator.com/user?id=sogen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Godot制作高级GUI应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699460</id>
-        <link href="https://news.ycombinator.com/item?id=31699460"/>
-        <updated>2022-06-10T21:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Making Advanced GUI Applications with Godot]]></summary>
-        <author>
-            <name>jp_sc</name>
-            <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jay-Z和Jack Dorsey在一个公共住宅区成立了一个比特币学院
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699417</id>
-        <link href="https://news.ycombinator.com/item?id=31699417"/>
-        <updated>2022-06-10T21:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Jay-Z and Jack Dorsey launch a Bitcoin academy in a public housing complex]]></summary>
-        <author>
-            <name>belltaco</name>
-            <uri>https://news.ycombinator.com/user?id=belltaco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正规的未经授权的服装克隆研究所
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699290</id>
-        <link href="https://news.ycombinator.com/item?id=31699290"/>
-        <updated>2022-06-10T20:58:10.000Z</updated>
-        <summary type="html"><![CDATA[Genuine Unauthorized Clothing Clone Institute]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用类似于Automerge的API对JSON进行快速的差异、修补和合并
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699230</id>
-        <link href="https://news.ycombinator.com/item?id=31699230"/>
-        <updated>2022-06-10T20:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pigeon–Fast diff, patch, merge for JSON with an Automerge-like API]]></summary>
-        <author>
-            <name>dxchester</name>
-            <uri>https://news.ycombinator.com/user?id=dxchester</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创始人挑选合适的初创公司的指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699151</id>
-        <link href="https://news.ycombinator.com/item?id=31699151"/>
-        <updated>2022-06-10T20:43:11.000Z</updated>
-        <summary type="html"><![CDATA[A founder’s guide for picking the right startup law firm]]></summary>
-        <author>
-            <name>echen</name>
-            <uri>https://news.ycombinator.com/user?id=echen</uri>
         </author>
     </entry>
 </feed>
