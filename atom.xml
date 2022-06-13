@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-13T07:46:02.255Z</updated>
+    <updated>2022-06-13T07:58:56.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索汇总 - 来自许多不同网站的搜索结果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722417</id>
+        <link href="https://news.ycombinator.com/item?id=31722417"/>
+        <updated>2022-06-13T07:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Aggregate – Search results from lots of different sites]]></summary>
+        <author>
+            <name>javinladish</name>
+            <uri>https://news.ycombinator.com/user?id=javinladish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[方案的LSP（语言服务器协议）服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722291</id>
+        <link href="https://news.ycombinator.com/item?id=31722291"/>
+        <updated>2022-06-13T07:19:56.000Z</updated>
+        <summary type="html"><![CDATA[An LSP (Language Server Protocol) Server for Scheme]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryan Dahl在2022年RemixConf上的 "我的梦想栈"（YouTube）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722130</id>
+        <link href="https://news.ycombinator.com/item?id=31722130"/>
+        <updated>2022-06-13T06:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Ryan Dahl's “My Dream Stack” at RemixConf 2022 (YouTube)]]></summary>
+        <author>
+            <name>mmazzarolo</name>
+            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[进步人士应该更担心通货膨胀而不是经济衰退
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>woodwireandfood</name>
             <uri>https://news.ycombinator.com/user?id=woodwireandfood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于冠状病毒的预登记结果的最新情况
-]]></title>
-        <id>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</id>
-        <link href="https://www.kalzumeus.com/2020/04/21/japan-coronavirus/"/>
-        <updated>2020-04-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An update on a pre-registered result about the coronavirus]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Stripe工作是怎样的体验
-]]></title>
-        <id>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</id>
-        <link href="https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/"/>
-        <updated>2020-10-08T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[What Working At Stripe Has Been Like]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决疫苗数据问题
-]]></title>
-        <id>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</id>
-        <link href="https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/"/>
-        <updated>2021-04-24T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Solving The Vaccine Data Problem]]></summary>
-        <author>
-            <name>Patrick McKenzie (patio11)</name>
-            <uri>https://www.kalzumeus.com/feed/articles/</uri>
         </author>
     </entry>
 </feed>

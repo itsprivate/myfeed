@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[搜索汇总 - 来自许多不同网站的搜索结果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31722417</link>
+            <guid>https://news.ycombinator.com/item?id=31722417</guid>
+            <pubDate>Mon, 13 Jun 2022 07:39:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Search Aggregate – Search results from lots of different sites]]></description>
+        </item>
+        <item>
+            <title><![CDATA[方案的LSP（语言服务器协议）服务器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31722291</link>
+            <guid>https://news.ycombinator.com/item?id=31722291</guid>
+            <pubDate>Mon, 13 Jun 2022 07:19:56 GMT</pubDate>
+            <description><![CDATA[An LSP (Language Server Protocol) Server for Scheme]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Dahl在2022年RemixConf上的 "我的梦想栈"（YouTube）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31722130</link>
+            <guid>https://news.ycombinator.com/item?id=31722130</guid>
+            <pubDate>Mon, 13 Jun 2022 06:56:30 GMT</pubDate>
+            <description><![CDATA[Ryan Dahl's “My Dream Stack” at RemixConf 2022 (YouTube)]]></description>
+        </item>
         <item>
             <title><![CDATA[进步人士应该更担心通货膨胀而不是经济衰退
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31705506</guid>
             <pubDate>Sat, 11 Jun 2022 16:02:36 GMT</pubDate>
             <description><![CDATA[Canadian study offers important clue to why some back pain becomes chronic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于冠状病毒的预登记结果的最新情况
-]]></title>
-            <link>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</link>
-            <guid>https://www.kalzumeus.com/2020/04/21/japan-coronavirus/</guid>
-            <pubDate>Tue, 21 Apr 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[An update on a pre-registered result about the coronavirus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Stripe工作是怎样的体验
-]]></title>
-            <link>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</link>
-            <guid>https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/</guid>
-            <pubDate>Thu, 08 Oct 2020 16:35:00 GMT</pubDate>
-            <description><![CDATA[What Working At Stripe Has Been Like]]></description>
-        </item>
-        <item>
-            <title><![CDATA[解决疫苗数据问题
-]]></title>
-            <link>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</link>
-            <guid>https://www.kalzumeus.com/2021/04/23/vaccinate-the-states/</guid>
-            <pubDate>Sat, 24 Apr 2021 00:01:00 GMT</pubDate>
-            <description><![CDATA[Solving The Vaccine Data Problem]]></description>
         </item>
     </channel>
 </rss>
