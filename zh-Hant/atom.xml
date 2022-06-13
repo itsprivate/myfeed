@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-13T07:01:41.081Z</updated>
+    <updated>2022-06-13T07:27:47.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兩名球員的單詞表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722249</id>
+        <link href="https://news.ycombinator.com/item?id=31722249"/>
+        <updated>2022-06-13T07:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Two Player Wordle]]></summary>
+        <author>
+            <name>percolatorly</name>
+            <uri>https://news.ycombinator.com/user?id=percolatorly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顯示P3專屬的Pantone顏色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31721737</id>
+        <link href="https://news.ycombinator.com/item?id=31721737"/>
+        <updated>2022-06-13T06:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Display P3 exclusive Pantone colors]]></summary>
+        <author>
+            <name>vvin</name>
+            <uri>https://news.ycombinator.com/user?id=vvin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技術壟斷。上星期與約翰-奧利弗的談話
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱秘的開放性主題227.5
-]]></title>
-        <id>https://astralcodexten.substack.com/p/hidden-open-thread-2275</id>
-        <link href="https://astralcodexten.substack.com/p/hidden-open-thread-2275"/>
-        <updated>2022-06-10T20:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Open Thread 227.5]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。布穀鳥的蛋
-]]></title>
-        <id>https://www.mooreds.com/wordpress/archives/3405</id>
-        <link href="https://www.mooreds.com/wordpress/archives/3405"/>
-        <updated>2020-12-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: The Cuckoo’s Egg]]></summary>
-        <author>
-            <name>moore</name>
-            <uri>http://edit.mooreds.com/wordpress/feed</uri>
         </author>
     </entry>
 </feed>
