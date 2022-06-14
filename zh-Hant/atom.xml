@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-14T20:50:27.342Z</updated>
+    <updated>2022-06-14T21:01:17.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果阻止反壟斷立法的後備計劃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745943</id>
+        <link href="https://news.ycombinator.com/item?id=31745943"/>
+        <updated>2022-06-14T20:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Apple's backup plan to stop antitrust legislation]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
+            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STxP70/Sthorm/P2012 - ST的微控制器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>grogu88</name>
             <uri>https://news.ycombinator.com/user?id=grogu88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司正在調查前Facebook首席運營官Sheryl Sandberg
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31731381</id>
-        <link href="https://news.ycombinator.com/item?id=31731381"/>
-        <updated>2022-06-13T20:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Meta Is Investigating Ex-Facebook COO Sheryl Sandberg]]></summary>
-        <author>
-            <name>cagey</name>
-            <uri>https://news.ycombinator.com/user?id=cagey</uri>
         </author>
     </entry>
 </feed>
