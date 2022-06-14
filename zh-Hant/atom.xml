@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-14T06:36:56.059Z</updated>
+    <updated>2022-06-14T06:57:36.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[另一個世界
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735544</id>
+        <link href="https://news.ycombinator.com/item?id=31735544"/>
+        <updated>2022-06-14T06:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Another World]]></summary>
+        <author>
+            <name>Ali_Zaferani</name>
+            <uri>https://news.ycombinator.com/user?id=Ali_Zaferani</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜稱將開始用無人機向購物者運送包裹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735447</id>
+        <link href="https://news.ycombinator.com/item?id=31735447"/>
+        <updated>2022-06-14T06:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon says it will begin delivering parcels to shoppers by drone]]></summary>
+        <author>
+            <name>amesdemarbre</name>
+            <uri>https://news.ycombinator.com/user?id=amesdemarbre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們從GOV.UK一年來的真實用戶監測數據中瞭解到的情況
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735316</id>
+        <link href="https://news.ycombinator.com/item?id=31735316"/>
+        <updated>2022-06-14T06:13:33.000Z</updated>
+        <summary type="html"><![CDATA[What we’ve learned from one year of Real User Monitoring data on GOV.UK]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事實核查者的事實核查
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>transpute</name>
             <uri>https://news.ycombinator.com/user?id=transpute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我花了很多年才看到泰瑞-吉列姆對我的恐怖有多大責任
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720294</id>
-        <link href="https://news.ycombinator.com/item?id=31720294"/>
-        <updated>2022-06-13T02:20:54.000Z</updated>
-        <summary type="html"><![CDATA[‘It took me years to see how responsible Terry Gilliam was for my terror’]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾4個工藝規模的邏輯與設計、材料和EUV
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720282</id>
-        <link href="https://news.ycombinator.com/item?id=31720282"/>
-        <updated>2022-06-13T02:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Intel 4 Process Scales Logic with Design, Materials, and EUV]]></summary>
-        <author>
-            <name>matt_d</name>
-            <uri>https://news.ycombinator.com/user?id=matt_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密貨幣平臺Celsius暫停提現
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720277</id>
-        <link href="https://news.ycombinator.com/item?id=31720277"/>
-        <updated>2022-06-13T02:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Platform Celsius Pauses Withdrawals]]></summary>
-        <author>
-            <name>xur17</name>
-            <uri>https://news.ycombinator.com/user?id=xur17</uri>
         </author>
     </entry>
 </feed>
