@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-15T07:27:55.601Z</updated>
+    <updated>2022-06-15T07:47:22.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件試用期與軟件使用量統計表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31750095</id>
+        <link href="https://news.ycombinator.com/item?id=31750095"/>
+        <updated>2022-06-15T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Software Trial Periods vs. Software Usage Counters]]></summary>
+        <author>
+            <name>ddkwool</name>
+            <uri>https://news.ycombinator.com/user?id=ddkwool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批評者說，微軟的錯誤和無聲的補丁使客戶處於危險之中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31750013</id>
+        <link href="https://news.ycombinator.com/item?id=31750013"/>
+        <updated>2022-06-15T07:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Botched and silent patches from Microsoft put customers at risk, critics say]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyguide發生技術故障--瑞士空域關閉，等待進一步通知
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749881</id>
+        <link href="https://news.ycombinator.com/item?id=31749881"/>
+        <updated>2022-06-15T06:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Technical malfunction at Skyguide – Swiss airspace closed until further notice]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NixOS: Confederation
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749770</id>
+        <link href="https://news.ycombinator.com/item?id=31749770"/>
+        <updated>2022-06-15T06:29:49.000Z</updated>
+        <summary type="html"><![CDATA[NixOS: Confederation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會購買第一臺採用電子紙屏幕的筆記本電腦嗎？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>open-source-ux</name>
             <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事實核查者的事實核查
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735294</id>
-        <link href="https://news.ycombinator.com/item?id=31735294"/>
-        <updated>2022-06-14T06:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Fact-Checking the Fact-Checkers]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱性貨幣正在崩潰。它理應如此
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735281</id>
-        <link href="https://news.ycombinator.com/item?id=31735281"/>
-        <updated>2022-06-14T06:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Is Crashing. It Deserves To]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symbiote Linux惡意軟件也利用Berkely Packet Filter的鉤子隱藏在網絡中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735222</id>
-        <link href="https://news.ycombinator.com/item?id=31735222"/>
-        <updated>2022-06-14T05:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Symbiote Linux malware also hides in network using Berkely Packet Filter hooking]]></summary>
-        <author>
-            <name>chaimanmeow</name>
-            <uri>https://news.ycombinator.com/user?id=chaimanmeow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣價格暴跌，加密貨幣貸款人Celsius停止提款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735218</id>
-        <link href="https://news.ycombinator.com/item?id=31735218"/>
-        <updated>2022-06-14T05:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Price Plunges as Crypto Lender Celsius Halts Withdrawals]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
         </author>
     </entry>
 </feed>
