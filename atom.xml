@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-15T04:47:13.973Z</updated>
+    <updated>2022-06-15T05:09:31.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用GPT-3生成mermaidjs流程图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749264</id>
+        <link href="https://news.ycombinator.com/item?id=31749264"/>
+        <updated>2022-06-15T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Generating mermaidjs flow diagrams with GPT-3]]></summary>
+        <author>
+            <name>bribri</name>
+            <uri>https://news.ycombinator.com/user?id=bribri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏联的Angstrem内存IC的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749138</id>
+        <link href="https://news.ycombinator.com/item?id=31749138"/>
+        <updated>2022-06-15T04:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Angstrem Memory IC’s in the USSR]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗德斯钢琴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749014</id>
+        <link href="https://news.ycombinator.com/item?id=31749014"/>
+        <updated>2022-06-15T04:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Rhodes Piano]]></summary>
+        <author>
+            <name>jkuria</name>
+            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辉瑞公司报告Paxlovid的Epic-SR研究的额外数据
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯的石油收入猛增
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31734328</id>
-        <link href="https://news.ycombinator.com/item?id=31734328"/>
-        <updated>2022-06-14T03:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Russia’s Oil Revenue Soars]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过维基百科进行语义搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31734309</id>
-        <link href="https://news.ycombinator.com/item?id=31734309"/>
-        <updated>2022-06-14T03:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Semantic Search Through Wikipedia]]></summary>
-        <author>
-            <name>thirdtrigger</name>
-            <uri>https://news.ycombinator.com/user?id=thirdtrigger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿帕奇-多丽丝介绍(孵化)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31734308</id>
-        <link href="https://news.ycombinator.com/item?id=31734308"/>
-        <updated>2022-06-14T03:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Apache Doris(incubating)]]></summary>
-        <author>
-            <name>ApacheDoris</name>
-            <uri>https://news.ycombinator.com/user?id=ApacheDoris</uri>
         </author>
     </entry>
 </feed>

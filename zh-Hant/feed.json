@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31749264",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31749264",
+            "title": "用GPT-3生成mermaidjs流程圖\n",
+            "summary": "Generating mermaidjs flow diagrams with GPT-3",
+            "date_modified": "2022-06-15T04:55:18.000Z",
+            "author": {
+                "name": "bribri",
+                "url": "https://news.ycombinator.com/user?id=bribri"
+            },
+            "_original_headline": "Generating mermaidjs flow diagrams with GPT-3",
+            "_original_url": "https://twitter.com/Bsunter/status/1535062559069376512",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31749138",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31749138",
+            "title": "蘇聯的Angstrem內存IC的\n",
+            "summary": "Angstrem Memory IC’s in the USSR",
+            "date_modified": "2022-06-15T04:32:10.000Z",
+            "author": {
+                "name": "zdw",
+                "url": "https://news.ycombinator.com/user?id=zdw"
+            },
+            "_original_headline": "Angstrem Memory IC’s in the USSR",
+            "_original_url": "https://www.cpushack.com/2022/06/13/the-history-of-angstrem-memory-ics-in-the-ussr/",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31749014",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31749014",
+            "title": "羅德斯鋼琴\n",
+            "summary": "Rhodes Piano",
+            "date_modified": "2022-06-15T04:08:33.000Z",
+            "author": {
+                "name": "jkuria",
+                "url": "https://news.ycombinator.com/user?id=jkuria"
+            },
+            "_original_headline": "Rhodes Piano",
+            "_original_url": "https://en.wikipedia.org/wiki/Rhodes_piano",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31749102",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31749102",
@@ -9559,54 +9607,6 @@
             },
             "_original_headline": "Meta Optimal Transport",
             "_original_url": "https://arxiv.org/abs/2206.05262",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31734328",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31734328",
-            "title": "俄羅斯的石油收入猛增\n",
-            "summary": "Russia’s Oil Revenue Soars",
-            "date_modified": "2022-06-14T03:08:59.000Z",
-            "author": {
-                "name": "prostoalex",
-                "url": "https://news.ycombinator.com/user?id=prostoalex"
-            },
-            "_original_headline": "Russia’s Oil Revenue Soars",
-            "_original_url": "https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html",
-            "_sensitive": false,
-            "_score": 4
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31734309",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31734309",
-            "title": "通過維基百科進行語義搜索\n",
-            "summary": "Semantic Search Through Wikipedia",
-            "date_modified": "2022-06-14T03:05:56.000Z",
-            "author": {
-                "name": "thirdtrigger",
-                "url": "https://news.ycombinator.com/user?id=thirdtrigger"
-            },
-            "_original_headline": "Semantic Search Through Wikipedia",
-            "_original_url": "http://console.semi.technology/console/query#weaviate_uri=http://semantic-search-wikipedia-with-weaviate.api.vectors.network:8080&graphql_query=%23%23%0A%23%20This%20dataset%20contains%20the%20complete%20Wikipedia%20for%20semantic%20search%0A%23%0A%23%20info:%20https://weaviate.io/developers/weaviate/current/tutorials/semantic-search-through-wikipedia.html%0A%23%20vector%20search%20engine:%20https://weaviate.io%0A%23%20Github%20repo:%20https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate%0A%23%0A%23%20Docs:%20https://weaviate.io/developers/weaviate/current/%0A%23%20Semantic%20filters:%20https://weaviate.io/developers/weaviate/current/retriever-vectorizer-modules/text2vec-transformers.html%23neartext%0A%23%0A%23%23%0A{%0A%20%20Get%20{%0A%20%20%20%20Paragraph(%0A%20%20%20%20%20%20ask:%20{%0A%20%20%20%20%20%20%20%20question:%20%22Who%20was%20Stanley%20Kubrick?%22%0A%20%20%20%20%20%20%20%20properties:%20[%22content%22]%0A%20%20%20%20%20%20}%0A%20%20%20%20%20%20limit:%201%0A%20%20%20%20)%20{%0A%20%20%20%20%20%20content%0A%20%20%20%20%20%20order%0A%20%20%20%20%20%20title%0A%20%20%20%20%20%20inArticle%20{%0A%20%20%20%20%20%20%20%20...%20on%20Article%20{%0A%20%20%20%20%20%20%20%20%20%20title%0A%20%20%20%20%20%20%20%20}%0A%20%20%20%20%20%20}%0A%20%20%20%20%20%20_additional%20{%0A%20%20%20%20%20%20%20%20answer%20{%0A%20%20%20%20%20%20%20%20%20%20result%0A%20%20%20%20%20%20%20%20}%0A%20%20%20%20%20%20}%0A%20%20%20%20}%0A%20%20}%0A}",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31734308",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31734308",
-            "title": "阿帕奇-多麗絲介紹(孵化)\n",
-            "summary": "Introduction to Apache Doris(incubating)",
-            "date_modified": "2022-06-14T03:05:49.000Z",
-            "author": {
-                "name": "ApacheDoris",
-                "url": "https://news.ycombinator.com/user?id=ApacheDoris"
-            },
-            "_original_headline": "Introduction to Apache Doris(incubating)",
-            "_original_url": "https://medium.com/@ApacheDoris/introduction-to-apache-doris-incubating-48aaa1df34ae",
             "_sensitive": false,
             "_score": 2
         }
