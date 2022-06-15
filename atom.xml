@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-15T23:28:50.975Z</updated>
+    <updated>2022-06-15T23:47:12.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰罗姆-鲍威尔竞相追赶通货膨胀的步伐
+]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/jerome-powell-races-to-catch-up-with-inflation</id>
+        <link href="https://www.newyorker.com/news/our-columnists/jerome-powell-races-to-catch-up-with-inflation"/>
+        <updated>2022-06-15T23:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Jerome Powell Races to Catch Up with Inflation]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果乌克兰赢了怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760782</id>
+        <link href="https://news.ycombinator.com/item?id=31760782"/>
+        <updated>2022-06-15T23:33:27.000Z</updated>
+        <summary type="html"><![CDATA[What If Ukraine Wins?]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发快照。Godot 4.0 alpha 10
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760712</id>
+        <link href="https://news.ycombinator.com/item?id=31760712"/>
+        <updated>2022-06-15T23:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Dev snapshot: Godot 4.0 alpha 10]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软披露计划将VS Code C#扩展的部分内容转为封闭源代码
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>dunefox</name>
             <uri>https://news.ycombinator.com/user?id=dunefox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观察Python对象的属性的微小观察器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31746230</id>
-        <link href="https://news.ycombinator.com/item?id=31746230"/>
-        <updated>2022-06-14T21:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Tiny observer for the attributes of Python objects]]></summary>
-        <author>
-            <name>fsyscall</name>
-            <uri>https://news.ycombinator.com/user?id=fsyscall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase在NBA总决赛广告中嘲笑加密货币悲观主义者，第二天就裁员1100人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31747149</id>
-        <link href="https://news.ycombinator.com/item?id=31747149"/>
-        <updated>2022-06-14T23:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase mocks crypto pessimists in NBA Finals ad, lays off 1,100 next day]]></summary>
-        <author>
-            <name>jeffthechimp</name>
-            <uri>https://news.ycombinator.com/user?id=jeffthechimp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么返回办公室的做法不起作用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31747112</id>
-        <link href="https://news.ycombinator.com/item?id=31747112"/>
-        <updated>2022-06-14T23:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Why the return to the office isn’t working]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
