@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-15T21:02:41.968Z</updated>
+    <updated>2022-06-15T21:27:26.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[<em>Barry</em>不再是一部喜剧了。但它已成为一个更好的节目。
+]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2022/06/barry-season-3-hbo-finale-review/661284/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2022/06/barry-season-3-hbo-finale-review/661284/?utm_source=feed"/>
+        <updated>2022-06-15T21:14:28.000Z</updated>
+        <summary type="html"><![CDATA[<em>Barry</em> Isn’t a Comedy Anymore. But It’s Become an Even Better Show.]]></summary>
+        <author>
+            <name>Hannah Giorgis</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地名的映射可能也需要一个时间维度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759517</id>
+        <link href="https://news.ycombinator.com/item?id=31759517"/>
+        <updated>2022-06-15T21:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Place name mappings probably need a time dimension too]]></summary>
+        <author>
+            <name>MBCook</name>
+            <uri>https://news.ycombinator.com/user?id=MBCook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crlfsuite - 快速的crlf注入扫描工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759415</id>
+        <link href="https://news.ycombinator.com/item?id=31759415"/>
+        <updated>2022-06-15T21:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Crlfsuite – Fast crlf injection scanning tool]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2022 17.3 Preview 2是第一个本地Arm64版本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759341</id>
+        <link href="https://news.ycombinator.com/item?id=31759341"/>
+        <updated>2022-06-15T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio 2022 17.3 Preview 2 Is First Native Arm64 Release]]></summary>
+        <author>
+            <name>mohaneds</name>
+            <uri>https://news.ycombinator.com/user?id=mohaneds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commons: 阿拉米是如何窃取你的图片的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759229</id>
+        <link href="https://news.ycombinator.com/item?id=31759229"/>
+        <updated>2022-06-15T20:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Commons: How Alamy is stealing your images]]></summary>
+        <author>
+            <name>lmc</name>
+            <uri>https://news.ycombinator.com/user?id=lmc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拍手。新的音频插件标准
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31759128</id>
+        <link href="https://news.ycombinator.com/item?id=31759128"/>
+        <updated>2022-06-15T20:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Clap: The New Audio Plug-In Standard]]></summary>
+        <author>
+            <name>omnibrain</name>
+            <uri>https://news.ycombinator.com/user?id=omnibrain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haskell中的单体分析器组合器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757777</id>
+        <link href="https://news.ycombinator.com/item?id=31757777"/>
+        <updated>2022-06-15T19:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Monadic Parser Combinators in Haskell]]></summary>
+        <author>
+            <name>sanketsaurav</name>
+            <uri>https://news.ycombinator.com/user?id=sanketsaurav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐蔽的公开主题228.5
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>fpstefan</name>
             <uri>https://news.ycombinator.com/user?id=fpstefan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++Now 2022年会议记录已提供
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745139</id>
-        <link href="https://news.ycombinator.com/item?id=31745139"/>
-        <updated>2022-06-14T19:53:48.000Z</updated>
-        <summary type="html"><![CDATA[C++Now 2022 conference recordings made available]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果阻止反垄断立法的后备计划
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745943</id>
-        <link href="https://news.ycombinator.com/item?id=31745943"/>
-        <updated>2022-06-14T20:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Apple's backup plan to stop antitrust legislation]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STxP70/Sthorm/P2012 - ST的微控制器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745765</id>
-        <link href="https://news.ycombinator.com/item?id=31745765"/>
-        <updated>2022-06-14T20:41:19.000Z</updated>
-        <summary type="html"><![CDATA[STxP70/Sthorm/P2012 – ST's Microcontroller]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由港LNG停运数月，搁浅20亿立方米/天，令全球市场震惊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745706</id>
-        <link href="https://news.ycombinator.com/item?id=31745706"/>
-        <updated>2022-06-14T20:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Freeport LNG Out for Months, Stranding 2 Bcf/D and Rattling Global Markets]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低级果酱：仿真器/VM/工具的编码会议，时间跨度为一周。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745697</id>
-        <link href="https://news.ycombinator.com/item?id=31745697"/>
-        <updated>2022-06-14T20:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Low-Level Jam: emulator/VM/tooling coding session over the span of a week]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国防承包商正在谈判接管NSO集团的黑客技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745652</id>
-        <link href="https://news.ycombinator.com/item?id=31745652"/>
-        <updated>2022-06-14T20:32:40.000Z</updated>
-        <summary type="html"><![CDATA[US defence contractor in talks to take over NSO Group’s hacking technology]]></summary>
-        <author>
-            <name>Cabeza2000</name>
-            <uri>https://news.ycombinator.com/user?id=Cabeza2000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当动漫不再是独家在日本制造时，它还是动漫吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745626</id>
-        <link href="https://news.ycombinator.com/item?id=31745626"/>
-        <updated>2022-06-14T20:30:30.000Z</updated>
-        <summary type="html"><![CDATA[When Anime Is No Longer Exclusively Made in Japan, Is It Still Anime?]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
