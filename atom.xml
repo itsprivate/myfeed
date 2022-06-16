@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-16T22:46:24.066Z</updated>
+    <updated>2022-06-16T22:59:51.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个人都知道
+]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2022/06/january-6-hearing-eastman-trump-pardon/661311/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2022/06/january-6-hearing-eastman-trump-pardon/661311/?utm_source=feed"/>
+        <updated>2022-06-16T22:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Everyone Knew]]></summary>
+        <author>
+            <name>Russell Berman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3能在多大程度上理解心理学背景？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771964</id>
+        <link href="https://news.ycombinator.com/item?id=31771964"/>
+        <updated>2022-06-16T22:47:46.000Z</updated>
+        <summary type="html"><![CDATA[How well can GPT-3 make sense of psychological contexts?]]></summary>
+        <author>
+            <name>binnacle</name>
+            <uri>https://news.ycombinator.com/user?id=binnacle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国广播公司的未来报道进展研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771952</id>
+        <link href="https://news.ycombinator.com/item?id=31771952"/>
+        <updated>2022-06-16T22:46:48.000Z</updated>
+        <summary type="html"><![CDATA[BBC Future covers progress studies]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狗币投资者起诉埃隆-马斯克、特斯拉和SpaceX，要求赔偿2580亿美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771936</id>
+        <link href="https://news.ycombinator.com/item?id=31771936"/>
+        <updated>2022-06-16T22:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Dogecoin investor sues Elon Musk, Tesla and SpaceX for $258B]]></summary>
+        <author>
+            <name>churchill</name>
+            <uri>https://news.ycombinator.com/user?id=churchill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[注释的变压器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771900</id>
+        <link href="https://news.ycombinator.com/item?id=31771900"/>
+        <updated>2022-06-16T22:41:29.000Z</updated>
+        <summary type="html"><![CDATA[The Annotated Transformer]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要无缘无故捕捉错误
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771803</id>
+        <link href="https://news.ycombinator.com/item?id=31771803"/>
+        <updated>2022-06-16T22:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Don't catch errors without a reason]]></summary>
+        <author>
+            <name>nottrobin</name>
+            <uri>https://news.ycombinator.com/user?id=nottrobin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装扮成美国人的波兰LARPERS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771763</id>
+        <link href="https://news.ycombinator.com/item?id=31771763"/>
+        <updated>2022-06-16T22:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The Polish LARPers Who Pretend to Be American]]></summary>
+        <author>
+            <name>agluszak</name>
+            <uri>https://news.ycombinator.com/user?id=agluszak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机器学习代码和系统中的设计模式
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>David Owen</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个加密货币首席执行官挑起的企业文化战争的内幕
-]]></title>
-        <id>https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html</id>
-        <link href="https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html"/>
-        <updated>2022-06-15T18:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Inside a Corporate Culture War Stoked by a Crypto C.E.O.]]></summary>
-        <author>
-            <name>Ryan Mac and David Yaffe-Bellany</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一只小得不能再小的青蛙
-]]></title>
-        <id>https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2022/06/pumpkin-toadlet-frogs-uncontrolled-landing-jumps/661262/?utm_source=feed"/>
-        <updated>2022-06-15T18:04:54.000Z</updated>
-        <summary type="html"><![CDATA[A Frog So Small, It Could Not Frog]]></summary>
-        <author>
-            <name>Katherine J. Wu</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[草莓色超级月亮的观点
-]]></title>
-        <id>https://www.theatlantic.com/photo/2022/06/photos-strawberry-supermoon/661290/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2022/06/photos-strawberry-supermoon/661290/?utm_source=feed"/>
-        <updated>2022-06-15T18:11:47.000Z</updated>
-        <summary type="html"><![CDATA[Views of the Strawberry Supermoon]]></summary>
-        <author>
-            <name>Alan Taylor</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登将再向乌克兰提供10亿美元的军事援助
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31757221</id>
-        <link href="https://news.ycombinator.com/item?id=31757221"/>
-        <updated>2022-06-15T18:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Biden to send another $1B in military aid to Ukraine]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储加息75个基点
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31757216</id>
-        <link href="https://news.ycombinator.com/item?id=31757216"/>
-        <updated>2022-06-15T18:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Federal Reserve hikes rate by 75 basis points]]></summary>
-        <author>
-            <name>avrionov</name>
-            <uri>https://news.ycombinator.com/user?id=avrionov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位加密货币CEO挑起的企业文化战争 (Kraken)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31757118</id>
-        <link href="https://news.ycombinator.com/item?id=31757118"/>
-        <updated>2022-06-15T18:25:09.000Z</updated>
-        <summary type="html"><![CDATA[A Corporate Culture War Stoked by a Crypto CEO (Kraken)]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国交通安全机构表示，自动驾驶汽车占驾驶辅助车祸的70%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31757104</id>
-        <link href="https://news.ycombinator.com/item?id=31757104"/>
-        <updated>2022-06-15T18:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Autopilot accounts for 70% of driver assist crashes, says US traffic safety body]]></summary>
-        <author>
-            <name>imachine1980_</name>
-            <uri>https://news.ycombinator.com/user?id=imachine1980_</uri>
         </author>
     </entry>
 </feed>
