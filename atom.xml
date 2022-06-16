@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-16T07:50:03.350Z</updated>
+    <updated>2022-06-16T07:58:17.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为PanVk添加二级命令缓冲区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763465</id>
+        <link href="https://news.ycombinator.com/item?id=31763465"/>
+        <updated>2022-06-16T07:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Adding secondary command buffers to PanVk]]></summary>
+        <author>
+            <name>pantalaimon</name>
+            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松阅读 - 阅读困难症、多动症和SSS帮助工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robin_reala</name>
             <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软银计划为手臂IPO在伦敦额外上市
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31749846</id>
-        <link href="https://news.ycombinator.com/item?id=31749846"/>
-        <updated>2022-06-15T06:42:37.000Z</updated>
-        <summary type="html"><![CDATA[SoftBank Plans Additional London Listing for Arm IPO]]></summary>
-        <author>
-            <name>mfiguiere</name>
-            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
         </author>
     </entry>
 </feed>
