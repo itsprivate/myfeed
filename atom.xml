@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-16T08:40:17.307Z</updated>
+    <updated>2022-06-16T09:03:01.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国与一本名为 "尤利西斯 "的书的关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763690</id>
+        <link href="https://news.ycombinator.com/item?id=31763690"/>
+        <updated>2022-06-16T08:29:06.000Z</updated>
+        <summary type="html"><![CDATA[United States vs. One Book Called “Ulysses”]]></summary>
+        <author>
+            <name>andyjohnson0</name>
+            <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panchan，一个新的点对点僵尸网络和Linux的SSH蠕虫被发现了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763638</id>
+        <link href="https://news.ycombinator.com/item?id=31763638"/>
+        <updated>2022-06-16T08:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Panchan, a new peer-to-peer botnet and SSH worm for Linux is discovered]]></summary>
+        <author>
+            <name>nixcraft</name>
+            <uri>https://news.ycombinator.com/user?id=nixcraft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCaml 5.0 (prerelease) 手册。效果处理程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763095</id>
+        <link href="https://news.ycombinator.com/item?id=31763095"/>
+        <updated>2022-06-16T06:40:14.000Z</updated>
+        <summary type="html"><![CDATA[OCaml 5.0 (prerelease) Manual: Effect handlers]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowdwise: Chrome扩展显示来自HN和Reddit的页面讨论情况
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763081</id>
+        <link href="https://news.ycombinator.com/item?id=31763081"/>
+        <updated>2022-06-16T06:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Crowdwise: Chrome extension to show discussions of page from HN and Reddit]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泰格豪雅手表显示NFT。最终的身份象征？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>KKKKkkkk1</name>
             <uri>https://news.ycombinator.com/user?id=KKKKkkkk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锂硫电池阴极化学的突破性进展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750258</id>
-        <link href="https://news.ycombinator.com/item?id=31750258"/>
-        <updated>2022-06-15T07:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Breakthrough in Cathode Chemistry for Lithium-Sulfur Baterries]]></summary>
-        <author>
-            <name>antouank</name>
-            <uri>https://news.ycombinator.com/user?id=antouank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音乐已经停止了"。加密货币公司因价格下跌而震怒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750431</id>
-        <link href="https://news.ycombinator.com/item?id=31750431"/>
-        <updated>2022-06-15T08:23:54.000Z</updated>
-        <summary type="html"><![CDATA[‘The Music Has Stopped’: Crypto Firms Quake as Prices Fall]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邪恶的Ngrok，或舒适地暴露你的端口
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750418</id>
-        <link href="https://news.ycombinator.com/item?id=31750418"/>
-        <updated>2022-06-15T08:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Ngrok for the wicked, or expose your ports comfortably]]></summary>
-        <author>
-            <name>piranha</name>
-            <uri>https://news.ycombinator.com/user?id=piranha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram的CEO怀疑苹果公司故意削弱网络应用的功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750392</id>
-        <link href="https://news.ycombinator.com/item?id=31750392"/>
-        <updated>2022-06-15T08:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Telegram's CEO suspects Apple is intentionally crippling web apps]]></summary>
-        <author>
-            <name>agust</name>
-            <uri>https://news.ycombinator.com/user?id=agust</uri>
         </author>
     </entry>
 </feed>
