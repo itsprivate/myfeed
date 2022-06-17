@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-17T10:36:10.767Z</updated>
+    <updated>2022-06-17T10:53:41.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SpaceX解僱了寫公開信抱怨伊隆-馬斯克的員工
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776230</id>
+        <link href="https://news.ycombinator.com/item?id=31776230"/>
+        <updated>2022-06-17T10:26:40.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX fires employees who wrote open letter complaining about Elon Musk]]></summary>
+        <author>
+            <name>thecopy</name>
+            <uri>https://news.ycombinator.com/user?id=thecopy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德里爾的裂變智慧
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同行評議。惡夢
-]]></title>
-        <id>https://astralcodexten.substack.com/p/peer-review-nightmares</id>
-        <link href="https://astralcodexten.substack.com/p/peer-review-nightmares"/>
-        <updated>2022-06-16T02:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Peer Review: Nightmares]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-            <uri>https://astralcodexten.substack.com/feed</uri>
         </author>
     </entry>
 </feed>
