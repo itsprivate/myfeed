@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-17T23:27:10.827Z</updated>
+    <updated>2022-06-17T23:45:16.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[採訪嘉木
+]]></title>
+        <id>https://dkb.io/post/kagi-interview</id>
+        <link href="https://dkb.io/post/kagi-interview"/>
+        <updated>2022-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interview with Kagi]]></summary>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+            <uri>https://dkb.io/rss.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sim中央銀行，解釋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31785817</id>
+        <link href="https://news.ycombinator.com/item?id=31785817"/>
+        <updated>2022-06-17T23:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Sim Central Bank, the Explanation]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件工程估算是垃圾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31785789</id>
+        <link href="https://news.ycombinator.com/item?id=31785789"/>
+        <updated>2022-06-17T23:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Software engineering estimates are garbage]]></summary>
+        <author>
+            <name>tartoran</name>
+            <uri>https://news.ycombinator.com/user?id=tartoran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣貸款人Babel跟隨Celsius凍結提款權
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31785689</id>
+        <link href="https://news.ycombinator.com/item?id=31785689"/>
+        <updated>2022-06-17T23:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency Lender Babel Follows Celsius in Withdrawal Freeze]]></summary>
+        <author>
+            <name>kripy</name>
+            <uri>https://news.ycombinator.com/user?id=kripy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["克利泰門斯特拉》評論。暴虐的導演籠罩著後臺的暖房
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>trifit</name>
             <uri>https://news.ycombinator.com/user?id=trifit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝氏度正在崩潰，加密貨幣投資者受到驚嚇
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770195</id>
-        <link href="https://news.ycombinator.com/item?id=31770195"/>
-        <updated>2022-06-16T19:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Celsius Is Crashing, and Crypto Investors Are Spooked]]></summary>
-        <author>
-            <name>sam345</name>
-            <uri>https://news.ycombinator.com/user?id=sam345</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟衛士在Windows、macOS、iOS和Android上推出
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770190</id>
-        <link href="https://news.ycombinator.com/item?id=31770190"/>
-        <updated>2022-06-16T19:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Defender Launches on Windows, macOS, iOS, and Android]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉Model 3現在配備了韓泰Kinergy輪胎，而不是米其林MXM4輪胎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770022</id>
-        <link href="https://news.ycombinator.com/item?id=31770022"/>
-        <updated>2022-06-16T19:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Tesla Model 3 now comes with Hankook Kinergy tires instead of the Michelin MXM4]]></summary>
-        <author>
-            <name>CarCooler</name>
-            <uri>https://news.ycombinator.com/user?id=CarCooler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們生活在有趣的時代--2022年內存管理國際研討會
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770000</id>
-        <link href="https://news.ycombinator.com/item?id=31770000"/>
-        <updated>2022-06-16T19:35:07.000Z</updated>
-        <summary type="html"><![CDATA[We Live in Interesting Times – International Symposium on Memory Management 2022]]></summary>
-        <author>
-            <name>matt_d</name>
-            <uri>https://news.ycombinator.com/user?id=matt_d</uri>
         </author>
     </entry>
 </feed>
