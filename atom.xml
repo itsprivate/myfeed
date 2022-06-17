@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-17T09:49:24.967Z</updated>
+    <updated>2022-06-17T10:00:52.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国内政大臣签署命令，将朱利安-阿桑奇引渡到美国。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776046</id>
+        <link href="https://news.ycombinator.com/item?id=31776046"/>
+        <updated>2022-06-17T09:51:11.000Z</updated>
+        <summary type="html"><![CDATA[UK Home Secretary signs order to extradite Julian Assange to the U.S.]]></summary>
+        <author>
+            <name>amrrs</name>
+            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盒子里的量子加密
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775957</id>
+        <link href="https://news.ycombinator.com/item?id=31775957"/>
+        <updated>2022-06-17T09:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Encryption in a Box]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台积电发布N3 FinFlex、N3E和N2节点，以及3DFabric
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775799</id>
+        <link href="https://news.ycombinator.com/item?id=31775799"/>
+        <updated>2022-06-17T09:11:32.000Z</updated>
+        <summary type="html"><![CDATA[TSMC Announces the N3 FinFlex, N3E, and N2 Nodes, and 3DFabric]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consent-o-matic：自动处理GDPR同意书（浏览器扩展）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775792</id>
+        <link href="https://news.ycombinator.com/item?id=31775792"/>
+        <updated>2022-06-17T09:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Consent-o-matic: automatic handling of GDPR consent forms (browser extension)]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男子起诉马斯克，要求赔偿2580亿美元的Dogecoin传销案
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于快速优化动态视图合成的神经可变形体素网格
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761952</id>
-        <link href="https://news.ycombinator.com/item?id=31761952"/>
-        <updated>2022-06-16T02:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monkeypatching是为懦夫准备的。使用set_trace_func
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761948</id>
-        <link href="https://news.ycombinator.com/item?id=31761948"/>
-        <updated>2022-06-16T02:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Monkeypatching is for wimps. Use set_trace_func]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Premium将于本月晚些时候推出
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761911</id>
-        <link href="https://news.ycombinator.com/item?id=31761911"/>
-        <updated>2022-06-16T02:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Telegram Premium is coming later this month]]></summary>
-        <author>
-            <name>cheinyeanlim</name>
-            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe发布开放源码工具包，打击视觉误导性信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761907</id>
-        <link href="https://news.ycombinator.com/item?id=31761907"/>
-        <updated>2022-06-16T02:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Adobe releases open source toolkit to counter visual misinformation]]></summary>
-        <author>
-            <name>cheinyeanlim</name>
-            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
         </author>
     </entry>
 </feed>
