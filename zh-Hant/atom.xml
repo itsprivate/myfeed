@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-17T08:36:33.355Z</updated>
+    <updated>2022-06-17T09:00:16.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初學者的量子算法實現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775580</id>
+        <link href="https://news.ycombinator.com/item?id=31775580"/>
+        <updated>2022-06-17T08:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Algorithm Implementations for Beginners]]></summary>
+        <author>
+            <name>rg111</name>
+            <uri>https://news.ycombinator.com/user?id=rg111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[臺積電披露2納米節點。到2025年性能提高30%
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775564</id>
+        <link href="https://news.ycombinator.com/item?id=31775564"/>
+        <updated>2022-06-17T08:34:57.000Z</updated>
+        <summary type="html"><![CDATA[TSMC Reveals 2nm Node: 30% More Performance by 2025]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenleaf - Golang用於MongoDB的簡單查詢構建
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775542</id>
+        <link href="https://news.ycombinator.com/item?id=31775542"/>
+        <updated>2022-06-17T08:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Greenleaf – Golang simple query build for MongoDB]]></summary>
+        <author>
+            <name>slavabobik</name>
+            <uri>https://news.ycombinator.com/user?id=slavabobik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機器學習理論 CS6783
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775539</id>
+        <link href="https://news.ycombinator.com/item?id=31775539"/>
+        <updated>2022-06-17T08:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Machine Learning Theory CS6783]]></summary>
+        <author>
+            <name>rg111</name>
+            <uri>https://news.ycombinator.com/user?id=rg111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvards CS50的《Python編程》。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775192</id>
+        <link href="https://news.ycombinator.com/item?id=31775192"/>
+        <updated>2022-06-17T07:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Harvards CS50’s Programming with Python]]></summary>
+        <author>
+            <name>11001100</name>
+            <uri>https://news.ycombinator.com/user?id=11001100</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿茲特克萬神殿的視覺指南
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>azhenley</name>
             <uri>https://news.ycombinator.com/user?id=azhenley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git合併2022年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761196</id>
-        <link href="https://news.ycombinator.com/item?id=31761196"/>
-        <updated>2022-06-16T00:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Git Merge 2022]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["微軟會顛覆一個活躍的開源項目，真是令人失望"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761130</id>
-        <link href="https://news.ycombinator.com/item?id=31761130"/>
-        <updated>2022-06-16T00:21:03.000Z</updated>
-        <summary type="html"><![CDATA[“Truly disappointing that Microsoft would subvert an active open-source project”]]></summary>
-        <author>
-            <name>ghuntley</name>
-            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完備性（邏輯）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761108</id>
-        <link href="https://news.ycombinator.com/item?id=31761108"/>
-        <updated>2022-06-16T00:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Completeness (Logic)]]></summary>
-        <author>
-            <name>furcyd</name>
-            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣到底有多 "無信"？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761104</id>
-        <link href="https://news.ycombinator.com/item?id=31761104"/>
-        <updated>2022-06-16T00:16:17.000Z</updated>
-        <summary type="html"><![CDATA[How ‘Trustless’ Is Bitcoin, Really?]]></summary>
-        <author>
-            <name>anigbrowl</name>
-            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飲用含糖飲料，即使只是1/天，也與肝癌的高風險有關
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761095</id>
-        <link href="https://news.ycombinator.com/item?id=31761095"/>
-        <updated>2022-06-16T00:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Drinking sugary drinks, even just 1/day, is linked to high risk of liver cancer]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
