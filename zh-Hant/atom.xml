@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-17T20:48:15.684Z</updated>
+    <updated>2022-06-17T20:58:37.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您的書評。聚變能源的未來
+]]></title>
+        <id>https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion</id>
+        <link href="https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion"/>
+        <updated>2022-06-17T20:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Your Book Review: The Future Of Fusion Energy]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+            <uri>https://astralcodexten.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私有化的互聯網讓我們失望了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31784097</id>
+        <link href="https://news.ycombinator.com/item?id=31784097"/>
+        <updated>2022-06-17T20:44:11.000Z</updated>
+        <summary type="html"><![CDATA[The Privatized Internet Has Failed Us]]></summary>
+        <author>
+            <name>hyperluz</name>
+            <uri>https://news.ycombinator.com/user?id=hyperluz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墮胎權利。美國參議員尋求禁止出售健康定位數據
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私營市場將抽取石油
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768880</id>
-        <link href="https://news.ycombinator.com/item?id=31768880"/>
-        <updated>2022-06-16T17:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Private Markets Will Pump the Oil]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在《克諾比》系列中使用深層造假技術對阿納金進行了減齡處理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768830</id>
-        <link href="https://news.ycombinator.com/item?id=31768830"/>
-        <updated>2022-06-16T17:42:25.000Z</updated>
-        <summary type="html"><![CDATA[I De-Aged Anakin in the Kenobi Series Using DeepFake Tech]]></summary>
-        <author>
-            <name>electic</name>
-            <uri>https://news.ycombinator.com/user?id=electic</uri>
         </author>
     </entry>
 </feed>
