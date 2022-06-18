@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 18 Jun 2022 09:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 09:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[博客是如何打破網絡的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31788367</link>
+            <guid>https://news.ycombinator.com/item?id=31788367</guid>
+            <pubDate>Sat, 18 Jun 2022 09:12:10 GMT</pubDate>
+            <description><![CDATA[How the Blog Broke the Web]]></description>
+        </item>
         <item>
             <title><![CDATA[瓷磚
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31773068</guid>
             <pubDate>Fri, 17 Jun 2022 01:28:44 GMT</pubDate>
             <description><![CDATA[36% of high earners are living paycheck to paycheck]]></description>
-        </item>
-        <item>
-            <title><![CDATA[pass - 標準的Unix密碼管理器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31773056</link>
-            <guid>https://news.ycombinator.com/item?id=31773056</guid>
-            <pubDate>Fri, 17 Jun 2022 01:27:42 GMT</pubDate>
-            <description><![CDATA[pass – the standard Unix password manager]]></description>
         </item>
     </channel>
 </rss>
