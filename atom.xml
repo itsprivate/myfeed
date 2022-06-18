@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T07:24:47.634Z</updated>
+    <updated>2022-06-18T07:42:54.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2万以下的比特币
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787954</id>
+        <link href="https://news.ycombinator.com/item?id=31787954"/>
+        <updated>2022-06-18T07:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Under 20k]]></summary>
+        <author>
+            <name>pa_hashgoeshere</name>
+            <uri>https://news.ycombinator.com/user?id=pa_hashgoeshere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布里渊区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787772</id>
+        <link href="https://news.ycombinator.com/item?id=31787772"/>
+        <updated>2022-06-18T06:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Brillouin Zone]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻路者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787603</id>
+        <link href="https://news.ycombinator.com/item?id=31787603"/>
+        <updated>2022-06-18T06:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pathfind]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷你版DALL-E的折纸技术有多好？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>turtlegrids</name>
             <uri>https://news.ycombinator.com/user?id=turtlegrids</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉将非特斯拉电动车的超级充电站接入扩展到欧洲大部分地区
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772295</id>
-        <link href="https://news.ycombinator.com/item?id=31772295"/>
-        <updated>2022-06-16T23:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Tesla expands Supercharger access for non-Tesla EVs to a large part of Europe]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解为什么Ruby中的attr_accessor比普通方法更快？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772265</id>
-        <link href="https://news.ycombinator.com/item?id=31772265"/>
-        <updated>2022-06-16T23:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Understading why attr_accessor in Ruby is faster than a regular method]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：无家可归者的营地现已被清除
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772240</id>
-        <link href="https://news.ycombinator.com/item?id=31772240"/>
-        <updated>2022-06-16T23:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Homeless encampment has now been cleared]]></summary>
-        <author>
-            <name>foxfired</name>
-            <uri>https://news.ycombinator.com/user?id=foxfired</uri>
         </author>
     </entry>
 </feed>
