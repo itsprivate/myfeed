@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T09:44:31.436Z</updated>
+    <updated>2022-06-18T09:57:56.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Val，一种受Swift和Rust启发的新编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788527</id>
+        <link href="https://news.ycombinator.com/item?id=31788527"/>
+        <updated>2022-06-18T09:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Val, a new programing language inspired by Swift and Rust]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧元纸币的设计
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788451</id>
+        <link href="https://news.ycombinator.com/item?id=31788451"/>
+        <updated>2022-06-18T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Deisgn of Euro Banknotes]]></summary>
+        <author>
+            <name>nixass</name>
+            <uri>https://news.ycombinator.com/user?id=nixass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrussh - 便携式SSH客户端和服务器库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788265</id>
+        <link href="https://news.ycombinator.com/item?id=31788265"/>
+        <updated>2022-06-18T08:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Thrussh – Portable SSH client and server library]]></summary>
+        <author>
+            <name>diggan</name>
+            <uri>https://news.ycombinator.com/user?id=diggan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈利波特25岁时的口述历史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788021</id>
+        <link href="https://news.ycombinator.com/item?id=31788021"/>
+        <updated>2022-06-18T07:53:27.000Z</updated>
+        <summary type="html"><![CDATA[An oral history of Harry Potter at 25]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客是如何打破网络的
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["受害者代言人 "对苹果新的iMessage编辑功能不满意
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773147</id>
-        <link href="https://news.ycombinator.com/item?id=31773147"/>
-        <updated>2022-06-17T01:40:50.000Z</updated>
-        <summary type="html"><![CDATA[“Victim's Advocates” are unhappy with Apple's new iMessage edit features]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实际上，也许不要学习代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773143</id>
-        <link href="https://news.ycombinator.com/item?id=31773143"/>
-        <updated>2022-06-17T01:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Actually, Maybe Don’t Learn to Code]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次在南极新雪中发现微塑料
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773126</id>
-        <link href="https://news.ycombinator.com/item?id=31773126"/>
-        <updated>2022-06-17T01:38:41.000Z</updated>
-        <summary type="html"><![CDATA[In a First, Microplastics Are Found in Fresh Antarctic Snow]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[36%的高收入者靠工资收入生活
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773068</id>
-        <link href="https://news.ycombinator.com/item?id=31773068"/>
-        <updated>2022-06-17T01:28:44.000Z</updated>
-        <summary type="html"><![CDATA[36% of high earners are living paycheck to paycheck]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
