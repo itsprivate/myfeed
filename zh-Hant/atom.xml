@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T06:33:37.380Z</updated>
+    <updated>2022-06-18T06:51:56.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過視覺圖示解釋一些複雜的編碼概念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787626</id>
+        <link href="https://news.ycombinator.com/item?id=31787626"/>
+        <updated>2022-06-18T06:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Some complex coding concepts explained through visual diagrams]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦調查局稱LinkedIn上的欺詐是對平臺和消費者的 "重大威脅
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787570</id>
+        <link href="https://news.ycombinator.com/item?id=31787570"/>
+        <updated>2022-06-18T06:03:58.000Z</updated>
+        <summary type="html"><![CDATA[FBI says fraud on LinkedIn a ‘significant threat’ to platform and consumers]]></summary>
+        <author>
+            <name>mgh2</name>
+            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於DALL-E Mini的一切都要知道，怪異的AI藝術創造者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31786970</id>
+        <link href="https://news.ycombinator.com/item?id=31786970"/>
+        <updated>2022-06-18T03:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Everything to Know About DALL-E Mini, the Bizarre AI Art Creator]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX員工寫信批評埃隆-馬斯克後被解僱
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>tvjames</name>
             <uri>https://news.ycombinator.com/user?id=tvjames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[處理沒有鎖的併發性 - Haki Benita
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771861</id>
-        <link href="https://news.ycombinator.com/item?id=31771861"/>
-        <updated>2022-06-16T22:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Handling Concurrency Without Locks – Haki Benita]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊挖礦即將消失，礦工們並不高興
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772418</id>
-        <link href="https://news.ycombinator.com/item?id=31772418"/>
-        <updated>2022-06-16T23:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum mining is going away, and miners are not happy]]></summary>
-        <author>
-            <name>anonymousab</name>
-            <uri>https://news.ycombinator.com/user?id=anonymousab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董事會宣佈解散 "聖安東尼奧交響樂團"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772379</id>
-        <link href="https://news.ycombinator.com/item?id=31772379"/>
-        <updated>2022-06-16T23:49:21.000Z</updated>
-        <summary type="html"><![CDATA[The Board of Directors Announces the Dissolution of the San Antonio Symphony]]></summary>
-        <author>
-            <name>texaslonghorn5</name>
-            <uri>https://news.ycombinator.com/user?id=texaslonghorn5</uri>
         </author>
     </entry>
 </feed>
