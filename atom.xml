@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T07:42:54.600Z</updated>
+    <updated>2022-06-18T07:57:25.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币暴跌至20,000美元以下，为2020年11月以来首次。
+]]></title>
+        <id>https://www.nytimes.com/2022/06/18/technology/bitcoin-20000.html</id>
+        <link href="https://www.nytimes.com/2022/06/18/technology/bitcoin-20000.html"/>
+        <updated>2022-06-18T07:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Plummets Below $20,000 for First Time Since November 2020]]></summary>
+        <author>
+            <name>Erin Griffith and David Yaffe-Bellany</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币跌破2万美元，以太坊测试1千美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787998</id>
+        <link href="https://news.ycombinator.com/item?id=31787998"/>
+        <updated>2022-06-18T07:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Falls Below $20k, Ethereum Tests $1k]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国内政大臣称朱利安-阿桑奇可被引渡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787984</id>
+        <link href="https://news.ycombinator.com/item?id=31787984"/>
+        <updated>2022-06-18T07:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Julian Assange can be extradited, says UK home secretary]]></summary>
+        <author>
+            <name>quaker5567</name>
+            <uri>https://news.ycombinator.com/user?id=quaker5567</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2万以下的比特币
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js - v18.4.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772464</id>
-        <link href="https://news.ycombinator.com/item?id=31772464"/>
-        <updated>2022-06-17T00:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Node.js – v18.4.0]]></summary>
-        <author>
-            <name>bricss</name>
-            <uri>https://news.ycombinator.com/user?id=bricss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的DeFi都注定要失败吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772456</id>
-        <link href="https://news.ycombinator.com/item?id=31772456"/>
-        <updated>2022-06-16T23:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Is All DeFi Doomed?]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么化学家不能放弃钯金？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31772385</id>
-        <link href="https://news.ycombinator.com/item?id=31772385"/>
-        <updated>2022-06-16T23:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Why chemists can’t quit palladium]]></summary>
-        <author>
-            <name>turtlegrids</name>
-            <uri>https://news.ycombinator.com/user?id=turtlegrids</uri>
         </author>
     </entry>
 </feed>
