@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T03:40:02.213Z</updated>
+    <updated>2022-06-18T04:12:17.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube关闭了在旧版Chromecasts上登录的功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787067</id>
+        <link href="https://news.ycombinator.com/item?id=31787067"/>
+        <updated>2022-06-18T03:37:39.000Z</updated>
+        <summary type="html"><![CDATA[YouTube disables the ability to sign in on older Chromecasts]]></summary>
+        <author>
+            <name>sciv</name>
+            <uri>https://news.ycombinator.com/user?id=sciv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott Aaronson将在OpenAI工作1年的休假时间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787038</id>
+        <link href="https://news.ycombinator.com/item?id=31787038"/>
+        <updated>2022-06-18T03:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Scott Aaronson will work at OpenAI for a 1 year sabbatical]]></summary>
+        <author>
+            <name>2mol</name>
+            <uri>https://news.ycombinator.com/user?id=2mol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛大学的科学家们开发了一种革命性的糖尿病新疗法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31786608</id>
+        <link href="https://news.ycombinator.com/item?id=31786608"/>
+        <updated>2022-06-18T01:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Harvard Scientists Have Developed a Revolutionary New Treatment for Diabetes]]></summary>
+        <author>
+            <name>23seaborn</name>
+            <uri>https://news.ycombinator.com/user?id=23seaborn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前亚马逊员工在Capital One黑客攻击案中被定罪
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>lakis</name>
             <uri>https://news.ycombinator.com/user?id=lakis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币：萨尔瓦多的大型加密货币赌博会得到回报吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771621</id>
-        <link href="https://news.ycombinator.com/item?id=31771621"/>
-        <updated>2022-06-16T22:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin: Will El Salvador's big crypto gamble pay off?]]></summary>
-        <author>
-            <name>lakis</name>
-            <uri>https://news.ycombinator.com/user?id=lakis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么艰苦的锻炼能让你不那么饿？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771603</id>
-        <link href="https://news.ycombinator.com/item?id=31771603"/>
-        <updated>2022-06-16T22:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Does a Hard Workout Make You Less Hungry?]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克、特斯拉和SpaceX遭遇2580亿美元的Dogecoin诉讼案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771507</id>
-        <link href="https://news.ycombinator.com/item?id=31771507"/>
-        <updated>2022-06-16T21:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk, Tesla and SpaceX Hit with $258B Dogecoin Lawsuit]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
         </author>
     </entry>
 </feed>
