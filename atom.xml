@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T05:02:19.871Z</updated>
+    <updated>2022-06-18T05:25:28.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国在数据改革法案中取消了GDPR的部分内容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787051</id>
+        <link href="https://news.ycombinator.com/item?id=31787051"/>
+        <updated>2022-06-18T03:31:10.000Z</updated>
+        <summary type="html"><![CDATA[UK Scraps Parts of GDPR in Data Reform Bill]]></summary>
+        <author>
+            <name>cheinyeanlim</name>
+            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建筑商为在快速降温的美国市场销售房屋而降价
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Russell Berman</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3能在多大程度上理解心理学背景？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771964</id>
-        <link href="https://news.ycombinator.com/item?id=31771964"/>
-        <updated>2022-06-16T22:47:46.000Z</updated>
-        <summary type="html"><![CDATA[How well can GPT-3 make sense of psychological contexts?]]></summary>
-        <author>
-            <name>binnacle</name>
-            <uri>https://news.ycombinator.com/user?id=binnacle</uri>
         </author>
     </entry>
 </feed>
