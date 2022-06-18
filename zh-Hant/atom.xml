@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T05:43:23.969Z</updated>
+    <updated>2022-06-18T05:58:45.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[米爾頓-弗裡德曼的想法是如何保持的？
+]]></title>
+        <id>https://noahpinion.substack.com/p/how-are-milton-friedmans-ideas-holding</id>
+        <link href="https://noahpinion.substack.com/p/how-are-milton-friedmans-ideas-holding"/>
+        <updated>2022-06-18T05:47:40.000Z</updated>
+        <summary type="html"><![CDATA[How are Milton Friedman's ideas holding up?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[擴音機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787483</id>
+        <link href="https://news.ycombinator.com/item?id=31787483"/>
+        <updated>2022-06-18T05:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Soundshader]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是時候解除特朗普對中國徵收的關稅以對抗通脹了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pinewurst</name>
             <uri>https://news.ycombinator.com/user?id=pinewurst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma Postmortem - 2022年6月6日和7日的服務中斷情況
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771904</id>
-        <link href="https://news.ycombinator.com/item?id=31771904"/>
-        <updated>2022-06-16T22:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Figma Postmortem – Service disruptions on June 6 and 7 2022]]></summary>
-        <author>
-            <name>milohill123</name>
-            <uri>https://news.ycombinator.com/user?id=milohill123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美聯儲可能在設計上收得太緊了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771764</id>
-        <link href="https://news.ycombinator.com/item?id=31771764"/>
-        <updated>2022-06-16T22:26:25.000Z</updated>
-        <summary type="html"><![CDATA[The Fed may be tightening too much by design]]></summary>
-        <author>
-            <name>RyanShook</name>
-            <uri>https://news.ycombinator.com/user?id=RyanShook</uri>
         </author>
     </entry>
 </feed>
