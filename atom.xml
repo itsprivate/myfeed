@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T22:44:51.005Z</updated>
+    <updated>2022-06-18T22:57:53.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clair - 容器的漏洞静态分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31793991</id>
+        <link href="https://news.ycombinator.com/item?id=31793991"/>
+        <updated>2022-06-18T21:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Clair – Vulnerability Static Analysis for Containers]]></summary>
+        <author>
+            <name>tutunak</name>
+            <uri>https://news.ycombinator.com/user?id=tutunak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10.000次浏览
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>formerkrogemp</name>
             <uri>https://news.ycombinator.com/user?id=formerkrogemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创作者的NFT会员资格实用指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778595</id>
-        <link href="https://news.ycombinator.com/item?id=31778595"/>
-        <updated>2022-06-17T14:19:40.000Z</updated>
-        <summary type="html"><![CDATA[A Practical Guide to NFT Memberships for Creators]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
