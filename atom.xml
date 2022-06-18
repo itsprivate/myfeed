@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-18T10:46:38.622Z</updated>
+    <updated>2022-06-18T10:59:12.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么股票、加密货币和房屋价值同时暴跌？
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/06/asset-economy-high-interest-rates-inflation/661323/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/06/asset-economy-high-interest-rates-inflation/661323/?utm_source=feed"/>
+        <updated>2022-06-18T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Why Stocks, Crypto, and Home Values Are All Plunging at Once]]></summary>
+        <author>
+            <name>Annie Lowrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2 MacBook Pro比基础版Mac Pro更强大，价格便宜5千美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788594</id>
+        <link href="https://news.ycombinator.com/item?id=31788594"/>
+        <updated>2022-06-18T10:04:25.000Z</updated>
+        <summary type="html"><![CDATA[M2 MacBook Pro Is More Powerful Than Base Mac Pro, for $5k Less]]></summary>
+        <author>
+            <name>retskrad</name>
+            <uri>https://news.ycombinator.com/user?id=retskrad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币跌破2万美元
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>GOATS-</name>
             <uri>https://news.ycombinator.com/user?id=GOATS-</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用深度神经网络对12导联心电图进行自动诊断
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773355</id>
-        <link href="https://news.ycombinator.com/item?id=31773355"/>
-        <updated>2022-06-17T02:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Automatic diagnosis of the 12-lead ECG using a deep neural network]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据库即代码的格局以及为什么你不需要一支DBA军队
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773333</id>
-        <link href="https://news.ycombinator.com/item?id=31773333"/>
-        <updated>2022-06-17T02:05:07.000Z</updated>
-        <summary type="html"><![CDATA[The Database as Code Landscape and why you don't need an army of DBA]]></summary>
-        <author>
-            <name>cloudsql</name>
-            <uri>https://news.ycombinator.com/user?id=cloudsql</uri>
         </author>
     </entry>
 </feed>
