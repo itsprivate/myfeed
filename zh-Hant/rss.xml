@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 18 Jun 2022 14:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 15:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,86 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[異步Rust。什麼是運行時？以下是tokio在引擎蓋下的工作方式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790583</link>
+            <guid>https://news.ycombinator.com/item?id=31790583</guid>
+            <pubDate>Sat, 18 Jun 2022 15:17:57 GMT</pubDate>
+            <description><![CDATA[Async Rust: What is a runtime? Here is how tokio works under the hood]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Hitch-Hiker's Guide to Digital Equipment, Roger Caffin (1991)[pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790533</link>
+            <guid>https://news.ycombinator.com/item?id=31790533</guid>
+            <pubDate>Sat, 18 Jun 2022 15:13:07 GMT</pubDate>
+            <description><![CDATA[The Hitch-Hiker'S Guide to Digital Equipment, Roger Caffin (1991)[pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[移民。一些應被驅逐出英國的人可能被貼上電子標籤
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790518</link>
+            <guid>https://news.ycombinator.com/item?id=31790518</guid>
+            <pubDate>Sat, 18 Jun 2022 15:11:01 GMT</pubDate>
+            <description><![CDATA[Migrants: Some due for removal from the UK could be electronically tagged]]></description>
+        </item>
+        <item>
+            <title><![CDATA[類人程序濫用我們的同理心--即使是谷歌工程師也不能倖免
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790482</link>
+            <guid>https://news.ycombinator.com/item?id=31790482</guid>
+            <pubDate>Sat, 18 Jun 2022 15:07:34 GMT</pubDate>
+            <description><![CDATA[Human-like programs abuse our empathy – even Google engineers aren’t immune]]></description>
+        </item>
+        <item>
+            <title><![CDATA[銀河系中可能有四個敵對的文明
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790284</link>
+            <guid>https://news.ycombinator.com/item?id=31790284</guid>
+            <pubDate>Sat, 18 Jun 2022 14:49:14 GMT</pubDate>
+            <description><![CDATA[There Could Be Four Hostile Civilizations in the Milky Way]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯托爾帕斯坦
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790246</link>
+            <guid>https://news.ycombinator.com/item?id=31790246</guid>
+            <pubDate>Sat, 18 Jun 2022 14:45:06 GMT</pubDate>
+            <description><![CDATA[Stolperstein]]></description>
+        </item>
+        <item>
+            <title><![CDATA[簡單的解決方案。為什麼它的效果這麼好
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790162</link>
+            <guid>https://news.ycombinator.com/item?id=31790162</guid>
+            <pubDate>Sat, 18 Jun 2022 14:38:55 GMT</pubDate>
+            <description><![CDATA[The Simplex Solution: Why it works so well]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個程序員最糟糕的噩夢：一箇中毒的編譯器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790158</link>
+            <guid>https://news.ycombinator.com/item?id=31790158</guid>
+            <pubDate>Sat, 18 Jun 2022 14:38:30 GMT</pubDate>
+            <description><![CDATA[A coder's worst nightmare: A poisoned compiler]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比特幣跌破2萬美元至2020年12月以來的最低點
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790150</link>
+            <guid>https://news.ycombinator.com/item?id=31790150</guid>
+            <pubDate>Sat, 18 Jun 2022 14:37:54 GMT</pubDate>
+            <description><![CDATA[Bitcoin drops below $20k to lowest since December 2020]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C++Now 2022：我在C++中想要的Rust功能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790097</link>
+            <guid>https://news.ycombinator.com/item?id=31790097</guid>
+            <pubDate>Sat, 18 Jun 2022 14:31:18 GMT</pubDate>
+            <description><![CDATA[C++Now 2022: Rust features that I want in C++]]></description>
+        </item>
         <item>
             <title><![CDATA[通過HTTPS的紅線
 ]]></title>
@@ -4733,86 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31775207</guid>
             <pubDate>Fri, 17 Jun 2022 07:37:35 GMT</pubDate>
             <description><![CDATA[Scrappy experimentation: Learning quickly in a fast-paced world]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人工智能可以告訴我們關於智能的什麼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31774987</link>
-            <guid>https://news.ycombinator.com/item?id=31774987</guid>
-            <pubDate>Fri, 17 Jun 2022 07:06:19 GMT</pubDate>
-            <description><![CDATA[What AI can tell us about intelligence]]></description>
-        </item>
-        <item>
-            <title><![CDATA[初學者的量子算法實現
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775580</link>
-            <guid>https://news.ycombinator.com/item?id=31775580</guid>
-            <pubDate>Fri, 17 Jun 2022 08:37:45 GMT</pubDate>
-            <description><![CDATA[Quantum Algorithm Implementations for Beginners]]></description>
-        </item>
-        <item>
-            <title><![CDATA[臺積電披露2納米節點。到2025年性能提高30%
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775564</link>
-            <guid>https://news.ycombinator.com/item?id=31775564</guid>
-            <pubDate>Fri, 17 Jun 2022 08:34:57 GMT</pubDate>
-            <description><![CDATA[TSMC Reveals 2nm Node: 30% More Performance by 2025]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Greenleaf - Golang用於MongoDB的簡單查詢構建
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775542</link>
-            <guid>https://news.ycombinator.com/item?id=31775542</guid>
-            <pubDate>Fri, 17 Jun 2022 08:30:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Greenleaf – Golang simple query build for MongoDB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機器學習理論 CS6783
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775539</link>
-            <guid>https://news.ycombinator.com/item?id=31775539</guid>
-            <pubDate>Fri, 17 Jun 2022 08:29:43 GMT</pubDate>
-            <description><![CDATA[Machine Learning Theory CS6783]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Harvards CS50的《Python編程》。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775192</link>
-            <guid>https://news.ycombinator.com/item?id=31775192</guid>
-            <pubDate>Fri, 17 Jun 2022 07:35:38 GMT</pubDate>
-            <description><![CDATA[Harvards CS50’s Programming with Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿茲特克萬神殿的視覺指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775486</link>
-            <guid>https://news.ycombinator.com/item?id=31775486</guid>
-            <pubDate>Fri, 17 Jun 2022 08:21:18 GMT</pubDate>
-            <description><![CDATA[A Visual Guide to the Aztec Pantheon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[意大利進行了首次協助性自殺
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775441</link>
-            <guid>https://news.ycombinator.com/item?id=31775441</guid>
-            <pubDate>Fri, 17 Jun 2022 08:13:49 GMT</pubDate>
-            <description><![CDATA[Italy carries out its first assisted suicide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[傻瓜式量子計算機編程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775384</link>
-            <guid>https://news.ycombinator.com/item?id=31775384</guid>
-            <pubDate>Fri, 17 Jun 2022 08:05:23 GMT</pubDate>
-            <description><![CDATA[Quantum Computer Programming for Dummies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福特因電池問題召回馬赫E型野馬汽車
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775259</link>
-            <guid>https://news.ycombinator.com/item?id=31775259</guid>
-            <pubDate>Fri, 17 Jun 2022 07:45:48 GMT</pubDate>
-            <description><![CDATA[Ford recalling Mach E Mustang over battery issues]]></description>
         </item>
     </channel>
 </rss>
