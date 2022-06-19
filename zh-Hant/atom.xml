@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T09:29:25.631Z</updated>
+    <updated>2022-06-19T09:46:46.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[騎自行車旅遊的原因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797686</id>
+        <link href="https://news.ycombinator.com/item?id=31797686"/>
+        <updated>2022-06-19T09:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Reasons to tour by bicycle]]></summary>
+        <author>
+            <name>galfarragem</name>
+            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地圖數據。程序員的錯誤假設
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797121</id>
+        <link href="https://news.ycombinator.com/item?id=31797121"/>
+        <updated>2022-06-19T07:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Map Data: False Assumptions Programmers Make]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機器人坦克在成功的實彈測試中證明了自己的實力
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破壞谷歌Nest Hub（第二代）上的安全啟動以運行Ubuntu系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781893</id>
-        <link href="https://news.ycombinator.com/item?id=31781893"/>
-        <updated>2022-06-17T17:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Breaking Secure Boot on Google Nest Hub (2nd Gen) to Run Ubuntu]]></summary>
-        <author>
-            <name>farmerbb</name>
-            <uri>https://news.ycombinator.com/user?id=farmerbb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FetchApply - Bash Ansible替代品，透明的服務器配置
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781854</id>
-        <link href="https://news.ycombinator.com/item?id=31781854"/>
-        <updated>2022-06-17T17:54:58.000Z</updated>
-        <summary type="html"><![CDATA[FetchApply – Bash Ansible Alternative, Transparent Server Configuration]]></summary>
-        <author>
-            <name>theowenyoung</name>
-            <uri>https://news.ycombinator.com/user?id=theowenyoung</uri>
         </author>
     </entry>
 </feed>

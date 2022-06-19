@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 19 Jun 2022 09:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 09:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[骑自行车旅游的原因
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31797686</link>
+            <guid>https://news.ycombinator.com/item?id=31797686</guid>
+            <pubDate>Sun, 19 Jun 2022 09:22:36 GMT</pubDate>
+            <description><![CDATA[Reasons to tour by bicycle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[地图数据。程序员的错误假设
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31797121</link>
+            <guid>https://news.ycombinator.com/item?id=31797121</guid>
+            <pubDate>Sun, 19 Jun 2022 07:38:59 GMT</pubDate>
+            <description><![CDATA[Map Data: False Assumptions Programmers Make]]></description>
+        </item>
         <item>
             <title><![CDATA[机器人坦克在成功的实弹测试中证明了自己的实力
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31781946</guid>
             <pubDate>Fri, 17 Jun 2022 18:01:05 GMT</pubDate>
             <description><![CDATA[In Defense of Polonius]]></description>
-        </item>
-        <item>
-            <title><![CDATA[破坏谷歌Nest Hub（第二代）上的安全启动以运行Ubuntu系统
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31781893</link>
-            <guid>https://news.ycombinator.com/item?id=31781893</guid>
-            <pubDate>Fri, 17 Jun 2022 17:57:43 GMT</pubDate>
-            <description><![CDATA[Breaking Secure Boot on Google Nest Hub (2nd Gen) to Run Ubuntu]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FetchApply - Bash Ansible替代品，透明的服务器配置
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31781854</link>
-            <guid>https://news.ycombinator.com/item?id=31781854</guid>
-            <pubDate>Fri, 17 Jun 2022 17:54:58 GMT</pubDate>
-            <description><![CDATA[FetchApply – Bash Ansible Alternative, Transparent Server Configuration]]></description>
         </item>
     </channel>
 </rss>
