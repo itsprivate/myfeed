@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T10:29:53.442Z</updated>
+    <updated>2022-06-19T10:46:37.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bolt有一個很酷的網絡界面，他們真的不希望你使用它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797992</id>
+        <link href="https://news.ycombinator.com/item?id=31797992"/>
+        <updated>2022-06-19T10:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Bolt has a cool web interface and they really don't want you to use it]]></summary>
+        <author>
+            <name>kuba-orlik</name>
+            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超級行星撞擊 - 一個重力遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797352</id>
+        <link href="https://news.ycombinator.com/item?id=31797352"/>
+        <updated>2022-06-19T08:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Super Planet Crash – A game of gravity]]></summary>
+        <author>
+            <name>pndy</name>
+            <uri>https://news.ycombinator.com/user?id=pndy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust借款檢查器剛剛變得（有點）聰明瞭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797258</id>
+        <link href="https://news.ycombinator.com/item?id=31797258"/>
+        <updated>2022-06-19T08:04:06.000Z</updated>
+        <summary type="html"><![CDATA[The Rust borrow checker just got (a little bit) smarter]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們生活在一個允許imgur存在並有工作機會的社會中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796506</id>
+        <link href="https://news.ycombinator.com/item?id=31796506"/>
+        <updated>2022-06-19T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[We live in a society where imgur is allowed to exist and have a job opening]]></summary>
+        <author>
+            <name>wusspuss</name>
+            <uri>https://news.ycombinator.com/user?id=wusspuss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[舞蹈一個關於愛和悲傷的故事
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魯珀特王子的下降
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781678</id>
-        <link href="https://news.ycombinator.com/item?id=31781678"/>
-        <updated>2022-06-17T17:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Prince Rupert’s Drop]]></summary>
-        <author>
-            <name>Razengan</name>
-            <uri>https://news.ycombinator.com/user?id=Razengan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vale.sh: 開放源碼的散文翻譯器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782688</id>
-        <link href="https://news.ycombinator.com/item?id=31782688"/>
-        <updated>2022-06-17T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Vale.sh: open-source linter for prose]]></summary>
-        <author>
-            <name>jasonrdsouza</name>
-            <uri>https://news.ycombinator.com/user?id=jasonrdsouza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用太陽作為引力透鏡可以讓我們看到系外行星
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782684</id>
-        <link href="https://news.ycombinator.com/item?id=31782684"/>
-        <updated>2022-06-17T18:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Using the Sun as a Gravitational Lens Would Let Us See Exoplanets]]></summary>
-        <author>
-            <name>OrderOfChaos</name>
-            <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[位置編碼系統的評估
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782586</id>
-        <link href="https://news.ycombinator.com/item?id=31782586"/>
-        <updated>2022-06-17T18:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Evaluation of Location Encoding Systems]]></summary>
-        <author>
-            <name>sandebert</name>
-            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
         </author>
     </entry>
 </feed>
