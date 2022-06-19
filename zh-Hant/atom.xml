@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T22:25:47.275Z</updated>
+    <updated>2022-06-19T22:45:04.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[陀思妥耶夫斯基和冒犯的快感
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804160</id>
+        <link href="https://news.ycombinator.com/item?id=31804160"/>
+        <updated>2022-06-19T22:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Dostoevsky and the Pleasure of Taking Offense]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[極簡主義設計的危險
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804073</id>
+        <link href="https://news.ycombinator.com/item?id=31804073"/>
+        <updated>2022-06-19T22:16:50.000Z</updated>
+        <summary type="html"><![CDATA[The Danger of Minimalist Design]]></summary>
+        <author>
+            <name>lando2319</name>
+            <uri>https://news.ycombinator.com/user?id=lando2319</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游泳聯合會限制變性人參加女子比賽
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pa_hashgoeshere</name>
             <uri>https://news.ycombinator.com/user?id=pa_hashgoeshere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布里淵區
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31787772</id>
-        <link href="https://news.ycombinator.com/item?id=31787772"/>
-        <updated>2022-06-18T06:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Brillouin Zone]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋路者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31787603</id>
-        <link href="https://news.ycombinator.com/item?id=31787603"/>
-        <updated>2022-06-18T06:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pathfind]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
         </author>
     </entry>
 </feed>
