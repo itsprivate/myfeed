@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T07:57:40.653Z</updated>
+    <updated>2022-06-19T08:32:07.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国宇航局月球任务将在导航信号测试中打破记录
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797301</id>
+        <link href="https://news.ycombinator.com/item?id=31797301"/>
+        <updated>2022-06-19T08:10:49.000Z</updated>
+        <summary type="html"><![CDATA[NASA Moon Mission Set to Break Record in Navigation Signal Test]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉哨兵查看器--一个观看哨兵模式片段的网络应用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797297</id>
+        <link href="https://news.ycombinator.com/item?id=31797297"/>
+        <updated>2022-06-19T08:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tesla Sentry Viewer – a web application to watch your Sentry mode clips]]></summary>
+        <author>
+            <name>denysvitali</name>
+            <uri>https://news.ycombinator.com/user?id=denysvitali</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-ish - 一个bash函数的运行时类型检查器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797251</id>
+        <link href="https://news.ycombinator.com/item?id=31797251"/>
+        <updated>2022-06-19T08:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Type-ish – a runtime type checker for bash functions]]></summary>
+        <author>
+            <name>mgliwka</name>
+            <uri>https://news.ycombinator.com/user?id=mgliwka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[房屋地址 "双胞胎 "相邻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797222</id>
+        <link href="https://news.ycombinator.com/item?id=31797222"/>
+        <updated>2022-06-19T07:54:13.000Z</updated>
+        <summary type="html"><![CDATA[House Address “Twins” Proximity]]></summary>
+        <author>
+            <name>itsjloh</name>
+            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[异步取消：mini-Redis中pub-sub的案例研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797209</id>
+        <link href="https://news.ycombinator.com/item?id=31797209"/>
+        <updated>2022-06-19T07:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Async cancellation: a case study of pub-sub in mini-Redis]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[42家在生产中使用铁锈的公司
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果。它只是工作--可怕的工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781549</id>
-        <link href="https://news.ycombinator.com/item?id=31781549"/>
-        <updated>2022-06-17T17:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Mac: It Just Works–Terribly]]></summary>
-        <author>
-            <name>itwillnotbeasy</name>
-            <uri>https://news.ycombinator.com/user?id=itwillnotbeasy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主页 半导体 台积电准备推出五种3纳米工艺技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781504</id>
-        <link href="https://news.ycombinator.com/item?id=31781504"/>
-        <updated>2022-06-17T17:32:12.000Z</updated>
-        <summary type="html"><![CDATA[Home Semiconductors TSMC Readies Five 3nm Process Technologies]]></summary>
-        <author>
-            <name>ericvanular</name>
-            <uri>https://news.ycombinator.com/user?id=ericvanular</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从空气中拉出牛排
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781491</id>
-        <link href="https://news.ycombinator.com/item?id=31781491"/>
-        <updated>2022-06-17T17:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Pulling Steaks from Thin Air]]></summary>
-        <author>
-            <name>T-A</name>
-            <uri>https://news.ycombinator.com/user?id=T-A</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这个开源的3D模型和AirTag追踪你的Yubikeys。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781476</id>
-        <link href="https://news.ycombinator.com/item?id=31781476"/>
-        <updated>2022-06-17T17:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Keep track of your Yubikeys with this open source 3D model and AirTag]]></summary>
-        <author>
-            <name>gepeto42</name>
-            <uri>https://news.ycombinator.com/user?id=gepeto42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国可以在2030年前将其排放量减半
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781453</id>
-        <link href="https://news.ycombinator.com/item?id=31781453"/>
-        <updated>2022-06-17T17:28:59.000Z</updated>
-        <summary type="html"><![CDATA[The US Can Halve Its Emissions by 2030]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
