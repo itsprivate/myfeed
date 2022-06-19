@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T05:58:05.925Z</updated>
+    <updated>2022-06-19T06:31:19.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司员工投票加入工会，这是科技巨头在美国的第一次。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796319</id>
+        <link href="https://news.ycombinator.com/item?id=31796319"/>
+        <updated>2022-06-19T05:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Apple workers vote to join union, a first for the tech giant in US]]></summary>
+        <author>
+            <name>sandebert</name>
+            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA/APL星际探测器任务架构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796193</id>
+        <link href="https://news.ycombinator.com/item?id=31796193"/>
+        <updated>2022-06-19T04:34:08.000Z</updated>
+        <summary type="html"><![CDATA[NASA/APL Interstellar Probe Mission Architecture]]></summary>
+        <author>
+            <name>divbzero</name>
+            <uri>https://news.ycombinator.com/user?id=divbzero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华盛顿州罗伯茨角
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最令人满意的复选框
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781110</id>
-        <link href="https://news.ycombinator.com/item?id=31781110"/>
-        <updated>2022-06-17T17:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The Most Satisfying Checkbox]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能毁掉加密货币的硬币
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781022</id>
-        <link href="https://news.ycombinator.com/item?id=31781022"/>
-        <updated>2022-06-17T16:55:45.000Z</updated>
-        <summary type="html"><![CDATA[The Coin That Could Wreck Crypto]]></summary>
-        <author>
-            <name>jashkenas</name>
-            <uri>https://news.ycombinator.com/user?id=jashkenas</uri>
         </author>
     </entry>
 </feed>
