@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-19T23:44:21.066Z</updated>
+    <updated>2022-06-19T23:57:25.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特幣從一開始就註定要失敗，現在2,100萬的最大供應量中，有1,900多萬被開採出來了。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804519</id>
+        <link href="https://news.ycombinator.com/item?id=31804519"/>
+        <updated>2022-06-19T23:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin was doomed from the start, now 19M+ of its 21M max supply are mined]]></summary>
+        <author>
+            <name>projectsforlife</name>
+            <uri>https://news.ycombinator.com/user?id=projectsforlife</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX在36小時內發射並降落第三枚火箭
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Turukawa</name>
             <uri>https://news.ycombinator.com/user?id=Turukawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撇開俄羅斯人是個錯誤。尼爾-麥克法蘭從長遠角度看問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31788196</id>
-        <link href="https://news.ycombinator.com/item?id=31788196"/>
-        <updated>2022-06-18T08:33:50.000Z</updated>
-        <summary type="html"><![CDATA[It was a mistake to write off the Russians: Neil MacFarlane takes a long view]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
