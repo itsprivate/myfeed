@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T10:36:13.144Z</updated>
+    <updated>2022-06-20T10:50:43.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[runit：一个用于类Unix操作系统的初始和服务管理方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808517</id>
+        <link href="https://news.ycombinator.com/item?id=31808517"/>
+        <updated>2022-06-20T10:22:14.000Z</updated>
+        <summary type="html"><![CDATA[runit: an init and service management scheme for Unix-like operating systems]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰战争。俄罗斯成为中国最大的石油供应国
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808351</id>
+        <link href="https://news.ycombinator.com/item?id=31808351"/>
+        <updated>2022-06-20T09:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine war: Russia becomes China's biggest oil supplier]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量化对冲基金交易策略
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807554</id>
+        <link href="https://news.ycombinator.com/item?id=31807554"/>
+        <updated>2022-06-20T08:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Quant hedge fund trading strategy]]></summary>
+        <author>
+            <name>jonasverhalagen</name>
+            <uri>https://news.ycombinator.com/user?id=jonasverhalagen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维多利亚-坦特勒-克雷洛夫的 "人行道上的鉴赏家"
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>emptybits</name>
             <uri>https://news.ycombinator.com/user?id=emptybits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们都为人工智能生成的语言所倾倒？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790698</id>
-        <link href="https://news.ycombinator.com/item?id=31790698"/>
-        <updated>2022-06-18T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Why do we all fall for AI-generated language?]]></summary>
-        <author>
-            <name>azhenley</name>
-            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前，启动PHP来执行一个regex比使用std:regex更快。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31791790</id>
-        <link href="https://news.ycombinator.com/item?id=31791790"/>
-        <updated>2022-06-18T17:13:48.000Z</updated>
-        <summary type="html"><![CDATA[It is currently faster to launch PHP to execute a regex than using std:regex]]></summary>
-        <author>
-            <name>xiaoniu</name>
-            <uri>https://news.ycombinator.com/user?id=xiaoniu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国TikTok数据被中国重复访问
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31791710</id>
-        <link href="https://news.ycombinator.com/item?id=31791710"/>
-        <updated>2022-06-18T17:06:18.000Z</updated>
-        <summary type="html"><![CDATA[US TikTok Data Repeated Accessed by China]]></summary>
-        <author>
-            <name>ineedasername</name>
-            <uri>https://news.ycombinator.com/user?id=ineedasername</uri>
         </author>
     </entry>
 </feed>
