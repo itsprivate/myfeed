@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T23:27:31.196Z</updated>
+    <updated>2022-06-20T23:45:38.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随着科罗拉多河水危机的恶化，紧急呼吁各州 "采取行动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817549</id>
+        <link href="https://news.ycombinator.com/item?id=31817549"/>
+        <updated>2022-06-20T23:22:11.000Z</updated>
+        <summary type="html"><![CDATA[As water crisis worsens on Colorado River, an urgent call for states to ‘act’]]></summary>
+        <author>
+            <name>jdkee</name>
+            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币跌破20K，以太坊跌破1K
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817469</id>
+        <link href="https://news.ycombinator.com/item?id=31817469"/>
+        <updated>2022-06-20T23:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin falls below 20k and Ethereum sinks past 1k]]></summary>
+        <author>
+            <name>mattewong</name>
+            <uri>https://news.ycombinator.com/user?id=mattewong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究表明，单腿平衡可能是晚年的有用健康测试
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Ben Werdmüller</name>
             <uri>https://werd.io/feed/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[象牙塔的裂缝：高等教育的道德混乱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31801002</id>
-        <link href="https://news.ycombinator.com/item?id=31801002"/>
-        <updated>2022-06-19T16:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Cracks in the Ivory Tower: The Moral Mess of Higher Education]]></summary>
-        <author>
-            <name>hn-0001</name>
-            <uri>https://news.ycombinator.com/user?id=hn-0001</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯正在接管乌克兰的互联网
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31800873</id>
-        <link href="https://news.ycombinator.com/item?id=31800873"/>
-        <updated>2022-06-19T16:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Russia is taking over Ukraine’s Internet]]></summary>
-        <author>
-            <name>ohjeez</name>
-            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
         </author>
     </entry>
 </feed>
