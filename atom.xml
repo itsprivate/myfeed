@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T07:30:33.741Z</updated>
+    <updated>2022-06-20T07:46:46.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Codeball人工智能代码审查的深入研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807243</id>
+        <link href="https://news.ycombinator.com/item?id=31807243"/>
+        <updated>2022-06-20T07:19:46.000Z</updated>
+        <summary type="html"><![CDATA[Codeball AI Code Review Deep Dive]]></summary>
+        <author>
+            <name>zegl</name>
+            <uri>https://news.ycombinator.com/user?id=zegl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人知道他们在做什么
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807104</id>
+        <link href="https://news.ycombinator.com/item?id=31807104"/>
+        <updated>2022-06-20T06:54:16.000Z</updated>
+        <summary type="html"><![CDATA[No-one knows what they are doing]]></summary>
+        <author>
+            <name>charly357</name>
+            <uri>https://news.ycombinator.com/user?id=charly357</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silero V3：20种语言的快速高质量文本到语音，有173种声音
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark 3.3.0已经出来了!
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789965</id>
-        <link href="https://news.ycombinator.com/item?id=31789965"/>
-        <updated>2022-06-18T14:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Spark 3.3.0 is out!]]></summary>
-        <author>
-            <name>log4shell</name>
-            <uri>https://news.ycombinator.com/user?id=log4shell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正义吞噬世界
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789886</id>
-        <link href="https://news.ycombinator.com/item?id=31789886"/>
-        <updated>2022-06-18T13:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Justice Eats the World]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>
