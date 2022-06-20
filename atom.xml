@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T21:29:34.785Z</updated>
+    <updated>2022-06-20T21:46:01.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Datasette Lite在浏览器中连接CSV文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816265</id>
+        <link href="https://news.ycombinator.com/item?id=31816265"/>
+        <updated>2022-06-20T21:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Joining CSV files in the browser using Datasette Lite]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊Lambda上的WebAssembly。经验之谈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816255</id>
+        <link href="https://news.ycombinator.com/item?id=31816255"/>
+        <updated>2022-06-20T21:29:53.000Z</updated>
+        <summary type="html"><![CDATA[WebAssembly on Amazon Lambda: Lessons Learned]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们注定要成为消费者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816243</id>
+        <link href="https://news.ycombinator.com/item?id=31816243"/>
+        <updated>2022-06-20T21:29:13.000Z</updated>
+        <summary type="html"><![CDATA[We are destined to be consumers]]></summary>
+        <author>
+            <name>Michelangelo11</name>
+            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rash--YAML配置为bash，由rust编写
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31815653</id>
+        <link href="https://news.ycombinator.com/item?id=31815653"/>
+        <updated>2022-06-20T20:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Rash – YAML configuration as bash written by rust]]></summary>
+        <author>
+            <name>theowenyoung</name>
+            <uri>https://news.ycombinator.com/user?id=theowenyoung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术性辐射场--从2D图像/视频中获得3D效果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31815521</id>
+        <link href="https://news.ycombinator.com/item?id=31815521"/>
+        <updated>2022-06-20T20:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Artistic Radiance Fields – 3D from 2d image/video]]></summary>
+        <author>
+            <name>anigbrowl</name>
+            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京正在赢得对乌克兰的战争--无论是在战场上还是在战场外
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城镇规划师如何工作。四个游戏中的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799818</id>
-        <link href="https://news.ycombinator.com/item?id=31799818"/>
-        <updated>2022-06-19T14:39:19.000Z</updated>
-        <summary type="html"><![CDATA[How Townscaper Works: A Story Four Games in the Making]]></summary>
-        <author>
-            <name>omega3</name>
-            <uri>https://news.ycombinator.com/user?id=omega3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爸爸们再也不用担心了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799754</id>
-        <link href="https://news.ycombinator.com/item?id=31799754"/>
-        <updated>2022-06-19T14:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daddies won't have to worry anymore]]></summary>
-        <author>
-            <name>fullmamel</name>
-            <uri>https://news.ycombinator.com/user?id=fullmamel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霍博肯四年来没有发生过交通事故死亡。它做得对吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799733</id>
-        <link href="https://news.ycombinator.com/item?id=31799733"/>
-        <updated>2022-06-19T14:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Hoboken Hasn’t Had a Traffic Death in Four Years. What’s It Doing Right?]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperfine。一个命令行基准测试工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799704</id>
-        <link href="https://news.ycombinator.com/item?id=31799704"/>
-        <updated>2022-06-19T14:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Hyperfine: A command-line benchmarking tool]]></summary>
-        <author>
-            <name>freediver</name>
-            <uri>https://news.ycombinator.com/user?id=freediver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEL统计显示近期洛基Linux超越AlmaLinux、CentOS流的情况激增
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799642</id>
-        <link href="https://news.ycombinator.com/item?id=31799642"/>
-        <updated>2022-06-19T14:22:31.000Z</updated>
-        <summary type="html"><![CDATA[EPEL Statistics Show Recent Surge in Rocky Linux Past AlmaLinux, CentOS Stream]]></summary>
-        <author>
-            <name>bluedino</name>
-            <uri>https://news.ycombinator.com/user?id=bluedino</uri>
         </author>
     </entry>
 </feed>

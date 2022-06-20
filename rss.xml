@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 20 Jun 2022 21:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 21:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,46 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Datasette Lite在浏览器中连接CSV文件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31816265</link>
+            <guid>https://news.ycombinator.com/item?id=31816265</guid>
+            <pubDate>Mon, 20 Jun 2022 21:30:32 GMT</pubDate>
+            <description><![CDATA[Joining CSV files in the browser using Datasette Lite]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊Lambda上的WebAssembly。经验之谈
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31816255</link>
+            <guid>https://news.ycombinator.com/item?id=31816255</guid>
+            <pubDate>Mon, 20 Jun 2022 21:29:53 GMT</pubDate>
+            <description><![CDATA[WebAssembly on Amazon Lambda: Lessons Learned]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们注定要成为消费者
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31816243</link>
+            <guid>https://news.ycombinator.com/item?id=31816243</guid>
+            <pubDate>Mon, 20 Jun 2022 21:29:13 GMT</pubDate>
+            <description><![CDATA[We are destined to be consumers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rash--YAML配置为bash，由rust编写
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31815653</link>
+            <guid>https://news.ycombinator.com/item?id=31815653</guid>
+            <pubDate>Mon, 20 Jun 2022 20:41:45 GMT</pubDate>
+            <description><![CDATA[Rash – YAML configuration as bash written by rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[艺术性辐射场--从2D图像/视频中获得3D效果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31815521</link>
+            <guid>https://news.ycombinator.com/item?id=31815521</guid>
+            <pubDate>Mon, 20 Jun 2022 20:32:23 GMT</pubDate>
+            <description><![CDATA[Artistic Radiance Fields – 3D from 2d image/video]]></description>
+        </item>
         <item>
             <title><![CDATA[普京正在赢得对乌克兰的战争--无论是在战场上还是在战场外
 ]]></title>
@@ -4773,46 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31799895</guid>
             <pubDate>Sun, 19 Jun 2022 14:48:13 GMT</pubDate>
             <description><![CDATA[Jetson hoverbike flies CEO to work, in world’s first eVTOL commute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[城镇规划师如何工作。四个游戏中的故事
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799818</link>
-            <guid>https://news.ycombinator.com/item?id=31799818</guid>
-            <pubDate>Sun, 19 Jun 2022 14:39:19 GMT</pubDate>
-            <description><![CDATA[How Townscaper Works: A Story Four Games in the Making]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爸爸们再也不用担心了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799754</link>
-            <guid>https://news.ycombinator.com/item?id=31799754</guid>
-            <pubDate>Sun, 19 Jun 2022 14:33:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Daddies won't have to worry anymore]]></description>
-        </item>
-        <item>
-            <title><![CDATA[霍博肯四年来没有发生过交通事故死亡。它做得对吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799733</link>
-            <guid>https://news.ycombinator.com/item?id=31799733</guid>
-            <pubDate>Sun, 19 Jun 2022 14:31:13 GMT</pubDate>
-            <description><![CDATA[Hoboken Hasn’t Had a Traffic Death in Four Years. What’s It Doing Right?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hyperfine。一个命令行基准测试工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799704</link>
-            <guid>https://news.ycombinator.com/item?id=31799704</guid>
-            <pubDate>Sun, 19 Jun 2022 14:28:38 GMT</pubDate>
-            <description><![CDATA[Hyperfine: A command-line benchmarking tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EPEL统计显示近期洛基Linux超越AlmaLinux、CentOS流的情况激增
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799642</link>
-            <guid>https://news.ycombinator.com/item?id=31799642</guid>
-            <pubDate>Sun, 19 Jun 2022 14:22:31 GMT</pubDate>
-            <description><![CDATA[EPEL Statistics Show Recent Surge in Rocky Linux Past AlmaLinux, CentOS Stream]]></description>
         </item>
     </channel>
 </rss>
