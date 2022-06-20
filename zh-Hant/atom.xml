@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T05:26:26.775Z</updated>
+    <updated>2022-06-20T05:44:55.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奧庫特
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806661</id>
+        <link href="https://news.ycombinator.com/item?id=31806661"/>
+        <updated>2022-06-20T05:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Orkut]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[終止控制器是你的朋友
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806649</id>
+        <link href="https://news.ycombinator.com/item?id=31806649"/>
+        <updated>2022-06-20T05:34:35.000Z</updated>
+        <summary type="html"><![CDATA[AbortController Is Your Friend]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與PinePhone一起生活的兩年時間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806639</id>
+        <link href="https://news.ycombinator.com/item?id=31806639"/>
+        <updated>2022-06-20T05:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Two Years of Life with PinePhone]]></summary>
+        <author>
+            <name>ollieparanoid</name>
+            <uri>https://news.ycombinator.com/user?id=ollieparanoid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux內核中增加對Rust語言的支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806623</id>
+        <link href="https://news.ycombinator.com/item?id=31806623"/>
+        <updated>2022-06-20T05:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Adding support for the Rust language to the Linux kernel]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[舉重。從古希臘到現代形式的槓鈴和啞鈴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806428</id>
+        <link href="https://news.ycombinator.com/item?id=31806428"/>
+        <updated>2022-06-20T04:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Weightlifting: The Barbell and Dumbbell from Ancient Greece to Modern Forms]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移動博客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806071</id>
+        <link href="https://news.ycombinator.com/item?id=31806071"/>
+        <updated>2022-06-20T03:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Mobile Blogging]]></summary>
+        <author>
+            <name>themodelplumber</name>
+            <uri>https://news.ycombinator.com/user?id=themodelplumber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過使信號更嘈雜來改善小區的接收效果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31805922</id>
+        <link href="https://news.ycombinator.com/item?id=31805922"/>
+        <updated>2022-06-20T03:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Improving Cell Reception by Making Signals Noisier]]></summary>
+        <author>
+            <name>Stratoscope</name>
+            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國脫歐的承諾，以及鮑里斯-約翰遜未能兌現的承諾
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>sbuttgereit</name>
             <uri>https://news.ycombinator.com/user?id=sbuttgereit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rsync，第1條：場景
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789553</id>
-        <link href="https://news.ycombinator.com/item?id=31789553"/>
-        <updated>2022-06-18T13:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Rsync, Article 1: Scenarios]]></summary>
-        <author>
-            <name>secure</name>
-            <uri>https://news.ycombinator.com/user?id=secure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimwave - 為終端、網絡和桌面建立TUIs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789489</id>
-        <link href="https://news.ycombinator.com/item?id=31789489"/>
-        <updated>2022-06-18T13:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nimwave – build TUIs for the terminal, web, and desktop]]></summary>
-        <author>
-            <name>sekao</name>
-            <uri>https://news.ycombinator.com/user?id=sekao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創始人決定他們應該得到什麼報酬
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789432</id>
-        <link href="https://news.ycombinator.com/item?id=31789432"/>
-        <updated>2022-06-18T12:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Founders Decide What They Should Get Paid]]></summary>
-        <author>
-            <name>mgav</name>
-            <uri>https://news.ycombinator.com/user?id=mgav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼前亞馬遜工程師對該公司恨之入骨？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789381</id>
-        <link href="https://news.ycombinator.com/item?id=31789381"/>
-        <updated>2022-06-18T12:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Why former Amazon engineers hate the company with a passion?]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美聯儲是新凱恩斯主義嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789370</id>
-        <link href="https://news.ycombinator.com/item?id=31789370"/>
-        <updated>2022-06-18T12:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Is the Fed New-Keynesian?]]></summary>
-        <author>
-            <name>Bostonian</name>
-            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ext4：神秘的 "設備無剩餘空間 "錯誤，由於哈希碰撞（2013）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789364</id>
-        <link href="https://news.ycombinator.com/item?id=31789364"/>
-        <updated>2022-06-18T12:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Ext4: Mysterious “No space left on device”-errors due to hash collisions (2013)]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏感閱讀者腐蝕了文學
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789351</id>
-        <link href="https://news.ycombinator.com/item?id=31789351"/>
-        <updated>2022-06-18T12:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Sensitivity Readers Corrupt Literature]]></summary>
-        <author>
-            <name>YeGoblynQueenne</name>
-            <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
         </author>
     </entry>
 </feed>
