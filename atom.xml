@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-20T07:46:46.754Z</updated>
+    <updated>2022-06-20T07:58:53.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[React 渲染的概念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807420</id>
+        <link href="https://news.ycombinator.com/item?id=31807420"/>
+        <updated>2022-06-20T07:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Concepts of React Rendering]]></summary>
+        <author>
+            <name>Liriel</name>
+            <uri>https://news.ycombinator.com/user?id=Liriel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Apache Wayang和Apache Spark中使用Groovy
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807355</id>
+        <link href="https://news.ycombinator.com/item?id=31807355"/>
+        <updated>2022-06-20T07:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Using Groovy with Apache Wayang and Apache Spark]]></summary>
+        <author>
+            <name>2pk03</name>
+            <uri>https://news.ycombinator.com/user?id=2pk03</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codeball人工智能代码审查的深入研究
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ErikVandeWater</name>
             <uri>https://news.ycombinator.com/user?id=ErikVandeWater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看哪，Magnetar，大自然的终极超级武器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789999</id>
-        <link href="https://news.ycombinator.com/item?id=31789999"/>
-        <updated>2022-06-18T14:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Behold the Magnetar, nature’s ultimate superweapon]]></summary>
-        <author>
-            <name>hexo</name>
-            <uri>https://news.ycombinator.com/user?id=hexo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperFoods。机器智能绘制食物中的抗癌分子图谱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789972</id>
-        <link href="https://news.ycombinator.com/item?id=31789972"/>
-        <updated>2022-06-18T14:08:25.000Z</updated>
-        <summary type="html"><![CDATA[HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>

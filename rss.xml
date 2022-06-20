@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:58:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[React 渲染的概念
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31807420</link>
+            <guid>https://news.ycombinator.com/item?id=31807420</guid>
+            <pubDate>Mon, 20 Jun 2022 07:49:08 GMT</pubDate>
+            <description><![CDATA[Concepts of React Rendering]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Apache Wayang和Apache Spark中使用Groovy
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31807355</link>
+            <guid>https://news.ycombinator.com/item?id=31807355</guid>
+            <pubDate>Mon, 20 Jun 2022 07:39:43 GMT</pubDate>
+            <description><![CDATA[Using Groovy with Apache Wayang and Apache Spark]]></description>
+        </item>
         <item>
             <title><![CDATA[Codeball人工智能代码审查的深入研究
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31790008</guid>
             <pubDate>Sat, 18 Jun 2022 14:16:42 GMT</pubDate>
             <description><![CDATA[Vulnerable Voting Machine Raises Questions About Election Security (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[看哪，Magnetar，大自然的终极超级武器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31789999</link>
-            <guid>https://news.ycombinator.com/item?id=31789999</guid>
-            <pubDate>Sat, 18 Jun 2022 14:14:53 GMT</pubDate>
-            <description><![CDATA[Behold the Magnetar, nature’s ultimate superweapon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HyperFoods。机器智能绘制食物中的抗癌分子图谱
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31789972</link>
-            <guid>https://news.ycombinator.com/item?id=31789972</guid>
-            <pubDate>Sat, 18 Jun 2022 14:08:25 GMT</pubDate>
-            <description><![CDATA[HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods]]></description>
         </item>
     </channel>
 </rss>
