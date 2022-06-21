@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-21T22:29:52.519Z</updated>
+    <updated>2022-06-21T22:45:13.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乔-弗里曼的《无结构的暴政》(Mark Andreesen推荐)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31829486</id>
+        <link href="https://news.ycombinator.com/item?id=31829486"/>
+        <updated>2022-06-21T21:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Jo Freeman's the Tyranny of Structurelessness (Recommended by Mark Andreesen)]]></summary>
+        <author>
+            <name>arunsivadasan</name>
+            <uri>https://news.ycombinator.com/user?id=arunsivadasan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普的支持者们如此害怕什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>diggan</name>
             <uri>https://news.ycombinator.com/user?id=diggan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我离开了我共同创立的拥有150名员工的SaaS公司，进入了核电领域
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31815807</id>
-        <link href="https://news.ycombinator.com/item?id=31815807"/>
-        <updated>2022-06-20T20:53:02.000Z</updated>
-        <summary type="html"><![CDATA[I Left the 150 Employee SaaS Company I Cofounded to Get into Nuclear Power]]></summary>
-        <author>
-            <name>mattloszak</name>
-            <uri>https://news.ycombinator.com/user?id=mattloszak</uri>
         </author>
     </entry>
 </feed>
