@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-21T04:27:42.586Z</updated>
+    <updated>2022-06-21T05:07:30.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3文化與安利文化相似嗎？
+]]></title>
+        <id>https://noahpinion.substack.com/p/is-web3-culture-similar-to-amway</id>
+        <link href="https://noahpinion.substack.com/p/is-web3-culture-similar-to-amway"/>
+        <updated>2022-06-21T05:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Is Web3 culture similar to Amway culture?]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的規則是大腦中學習的基礎嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819980</id>
+        <link href="https://news.ycombinator.com/item?id=31819980"/>
+        <updated>2022-06-21T04:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Does one simple rule underlie learning in the brain?]]></summary>
+        <author>
+            <name>ofou</name>
+            <uri>https://news.ycombinator.com/user?id=ofou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼代碼不是自我記錄的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819926</id>
+        <link href="https://news.ycombinator.com/item?id=31819926"/>
+        <updated>2022-06-21T04:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Why code isn't self documenting]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無詞法的遞歸體面解析(2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31819877</id>
+        <link href="https://news.ycombinator.com/item?id=31819877"/>
+        <updated>2022-06-21T04:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Recursive decent parsing without lexing (2016)]]></summary>
+        <author>
+            <name>tomcam</name>
+            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UBC教授稱Airbnb房東威脅她
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>dandrew5</name>
             <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克已經走火入魔，他是否會帶著特斯拉和SpaceX一起走？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803419</id>
-        <link href="https://news.ycombinator.com/item?id=31803419"/>
-        <updated>2022-06-19T20:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Has Gone Off the Rails, Will He Take Tesla and SpaceX with Him?]]></summary>
-        <author>
-            <name>heavyset_go</name>
-            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克、特斯拉和SpaceX遭遇2580億美元的Dogecoin訴訟案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803379</id>
-        <link href="https://news.ycombinator.com/item?id=31803379"/>
-        <updated>2022-06-19T20:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk, Tesla and SpaceX Hit with $258B Dogecoin Lawsuit]]></summary>
-        <author>
-            <name>hippich</name>
-            <uri>https://news.ycombinator.com/user?id=hippich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果放棄對iOS的Bitcode要求，Rust和其他語言歡欣鼓舞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803368</id>
-        <link href="https://news.ycombinator.com/item?id=31803368"/>
-        <updated>2022-06-19T20:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Rust and other langs rejoice as Apple drops Bitcode requirements for iOS]]></summary>
-        <author>
-            <name>efnx</name>
-            <uri>https://news.ycombinator.com/user?id=efnx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的書架組織講述了它自己的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803264</id>
-        <link href="https://news.ycombinator.com/item?id=31803264"/>
-        <updated>2022-06-19T20:39:47.000Z</updated>
-        <summary type="html"><![CDATA[The Organization of Your Bookshelves Tells Its Own Story]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
