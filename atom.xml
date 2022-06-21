@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-21T05:39:26.655Z</updated>
+    <updated>2022-06-21T05:58:31.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Criptext。开源的私人电子邮件服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820300</id>
+        <link href="https://news.ycombinator.com/item?id=31820300"/>
+        <updated>2022-06-21T05:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Criptext: Open-source, private email service]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维护内部React组件库的注意事项
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820298</id>
+        <link href="https://news.ycombinator.com/item?id=31820298"/>
+        <updated>2022-06-21T05:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Notes on maintaining an internal React component library]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何从主线程中删除99%的JavaScript
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820292</id>
+        <link href="https://news.ycombinator.com/item?id=31820292"/>
+        <updated>2022-06-21T05:40:03.000Z</updated>
+        <summary type="html"><![CDATA[How to remove 99% of JavaScript from main thread]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做了所有正确的事却没有得到感谢的总统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820188</id>
+        <link href="https://news.ycombinator.com/item?id=31820188"/>
+        <updated>2022-06-21T05:20:59.000Z</updated>
+        <summary type="html"><![CDATA[The President Who Did Everything Right and Got No Thanks]]></summary>
+        <author>
+            <name>harpiaharpyja</name>
+            <uri>https://news.ycombinator.com/user?id=harpiaharpyja</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯记者的诺贝尔奖章以1.035亿美元售出
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820077</id>
+        <link href="https://news.ycombinator.com/item?id=31820077"/>
+        <updated>2022-06-21T05:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Russian Journalist’s Nobel Medal Sells for $103.5M]]></summary>
+        <author>
+            <name>Uncle_Sam</name>
+            <uri>https://news.ycombinator.com/user?id=Uncle_Sam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[持续购买停产产品的 "预言家"。
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>lando2319</name>
             <uri>https://news.ycombinator.com/user?id=lando2319</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游泳联合会限制变性人参加女子比赛
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803976</id>
-        <link href="https://news.ycombinator.com/item?id=31803976"/>
-        <updated>2022-06-19T22:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Swim federation restricts transgender participation in women's competition]]></summary>
-        <author>
-            <name>tlogan</name>
-            <uri>https://news.ycombinator.com/user?id=tlogan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有原生LaTeX的矢量绘图应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803893</id>
-        <link href="https://news.ycombinator.com/item?id=31803893"/>
-        <updated>2022-06-19T21:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Vector drawing app with native LaTeX]]></summary>
-        <author>
-            <name>radomir_cernoch</name>
-            <uri>https://news.ycombinator.com/user?id=radomir_cernoch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄氏度为何分崩离析(YouTube)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803768</id>
-        <link href="https://news.ycombinator.com/item?id=31803768"/>
-        <updated>2022-06-19T21:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Why Celsius Fell Apart(YouTube)]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C64操作系统，即将发布
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803697</id>
-        <link href="https://news.ycombinator.com/item?id=31803697"/>
-        <updated>2022-06-19T21:29:31.000Z</updated>
-        <summary type="html"><![CDATA[C64 OS, Nearing Release]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地理分布式存储中近乎最优的延迟与成本权衡 (2020) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803504</id>
-        <link href="https://news.ycombinator.com/item?id=31803504"/>
-        <updated>2022-06-19T21:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Near-Optimal Latency versus Cost Tradeoffs in Geo-Distributed Storage (2020) [pdf]]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
-            <uri>https://news.ycombinator.com/user?id=yagizdegirmenci</uri>
         </author>
     </entry>
 </feed>
