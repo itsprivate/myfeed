@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-21T10:42:19.178Z</updated>
+    <updated>2022-06-21T11:01:25.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[据报道，微软阻止俄罗斯的Windows 10和Windows 11下载
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822334</id>
+        <link href="https://news.ycombinator.com/item?id=31822334"/>
+        <updated>2022-06-21T10:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft reportedly blocks Russian Windows 10 and Windows 11 downloads]]></summary>
+        <author>
+            <name>cheinyeanlim</name>
+            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DARPA分析发现，加密货币技术很容易被篡改
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822201</id>
+        <link href="https://news.ycombinator.com/item?id=31822201"/>
+        <updated>2022-06-21T10:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency tech is vulnerable to tampering, a DARPA analysis finds]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漏洞悬赏的介绍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822158</id>
+        <link href="https://news.ycombinator.com/item?id=31822158"/>
+        <updated>2022-06-21T09:53:38.000Z</updated>
+        <summary type="html"><![CDATA[An Introduction to Bug Bounty Hunting]]></summary>
+        <author>
+            <name>lauriswtf</name>
+            <uri>https://news.ycombinator.com/user?id=lauriswtf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Golang写一个简单的Tcl解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822103</id>
+        <link href="https://news.ycombinator.com/item?id=31822103"/>
+        <updated>2022-06-21T09:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Writing a simple Tcl interpreter in Golang]]></summary>
+        <author>
+            <name>stevekemp</name>
+            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一部令人不安的新电影揭示了莫迪的印度的情况
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>addcninblue</name>
             <uri>https://news.ycombinator.com/user?id=addcninblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日收获]小扁豆+韭菜碎的极端胃痛/恶心。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806815</id>
-        <link href="https://news.ycombinator.com/item?id=31806815"/>
-        <updated>2022-06-20T06:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Extreme stomach pain/sickness from [Daily Harvest] lentil+leek crumbles.]]></summary>
-        <author>
-            <name>greenflame</name>
-            <uri>https://news.ycombinator.com/user?id=greenflame</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux威胁猎杀："Syslogk "是在野外发现的一个内核rootkit
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806778</id>
-        <link href="https://news.ycombinator.com/item?id=31806778"/>
-        <updated>2022-06-20T05:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Linux Threat Hunting: ‘Syslogk’ a kernel rootkit found in the wild]]></summary>
-        <author>
-            <name>rmdoss</name>
-            <uri>https://news.ycombinator.com/user?id=rmdoss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高斯扩散的有损压缩
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806696</id>
-        <link href="https://news.ycombinator.com/item?id=31806696"/>
-        <updated>2022-06-20T05:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Lossy Compression with Gaussian Diffusion]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yup: 商业新闻搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806733</id>
-        <link href="https://news.ycombinator.com/item?id=31806733"/>
-        <updated>2022-06-20T05:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Yup: Business News Search]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
