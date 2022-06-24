@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-24T20:47:54.340Z</updated>
+    <updated>2022-06-24T20:59:59.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我喝了幾杯，醒來後發現有1千名書呆子（2014年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31868903</id>
+        <link href="https://news.ycombinator.com/item?id=31868903"/>
+        <updated>2022-06-24T20:30:19.000Z</updated>
+        <summary type="html"><![CDATA[I had a couple drinks and woke up with 1k nerds (2014)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在無聊的猿猴餐廳，你的猿幣現在沒有用了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31868872</id>
+        <link href="https://news.ycombinator.com/item?id=31868872"/>
+        <updated>2022-06-24T20:27:01.000Z</updated>
+        <summary type="html"><![CDATA[At the Bored Ape restaurant, your ApeCoin is no good now]]></summary>
+        <author>
+            <name>quantified</name>
+            <uri>https://news.ycombinator.com/user?id=quantified</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國人每小時都死於過量用藥。我們知道如何防止這種情況
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31868838</id>
+        <link href="https://news.ycombinator.com/item?id=31868838"/>
+        <updated>2022-06-24T20:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Americans Die of an Overdose Every Hour. We Know How to Prevent That]]></summary>
+        <author>
+            <name>gumby</name>
+            <uri>https://news.ycombinator.com/user?id=gumby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最高法院的選擇性記憶
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sigma.js v2發佈--一個旨在實現大型圖表可視化的JavaScript庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853446</id>
-        <link href="https://news.ycombinator.com/item?id=31853446"/>
-        <updated>2022-06-23T18:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Sigma.js v2 released – A JavaScript library aimed at visualizing large graphs]]></summary>
-        <author>
-            <name>me_bx</name>
-            <uri>https://news.ycombinator.com/user?id=me_bx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[區塊鏈公司Solana Labs正在打造一款Web3手機
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853438</id>
-        <link href="https://news.ycombinator.com/item?id=31853438"/>
-        <updated>2022-06-23T18:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain company Solana Labs is building a Web3 mobile phone]]></summary>
-        <author>
-            <name>blawson</name>
-            <uri>https://news.ycombinator.com/user?id=blawson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBay收購領先的NFT市場，KnownOrigin
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31853331</id>
-        <link href="https://news.ycombinator.com/item?id=31853331"/>
-        <updated>2022-06-23T18:33:04.000Z</updated>
-        <summary type="html"><![CDATA[eBay Acquires Leading NFT Marketplace, KnownOrigin]]></summary>
-        <author>
-            <name>coupdegrace</name>
-            <uri>https://news.ycombinator.com/user?id=coupdegrace</uri>
         </author>
     </entry>
 </feed>
