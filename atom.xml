@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-25T13:16:53.468Z</updated>
+    <updated>2022-06-25T13:39:51.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马克-杰森-多米努斯的十二种观点 (2003)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874986</id>
+        <link href="https://news.ycombinator.com/item?id=31874986"/>
+        <updated>2022-06-25T13:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Twelve Views of Mark Jason Dominus (2003)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在引导区中引导Lisp
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874695</id>
+        <link href="https://news.ycombinator.com/item?id=31874695"/>
+        <updated>2022-06-25T12:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrapping Lisp in a Boot Sector]]></summary>
+        <author>
+            <name>AlexeyBrin</name>
+            <uri>https://news.ycombinator.com/user?id=AlexeyBrin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国被指责利用其Covid追踪器来压制异见。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>chewz</name>
             <uri>https://news.ycombinator.com/user?id=chewz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟正在购买比以往更多的南非煤炭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859522</id>
-        <link href="https://news.ycombinator.com/item?id=31859522"/>
-        <updated>2022-06-24T09:35:23.000Z</updated>
-        <summary type="html"><![CDATA[The EU Is Buying More South African Coal Than Ever]]></summary>
-        <author>
-            <name>chewz</name>
-            <uri>https://news.ycombinator.com/user?id=chewz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊推出CodeWhisperer，一个类似GitHub Copilot的AI配对编程工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859493</id>
-        <link href="https://news.ycombinator.com/item?id=31859493"/>
-        <updated>2022-06-24T09:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon launches CodeWhisperer, a GitHub Copilot-like AI pair programming tool]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
         </author>
     </entry>
 </feed>
