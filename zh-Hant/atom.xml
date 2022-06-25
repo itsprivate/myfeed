@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-25T04:20:09.048Z</updated>
+    <updated>2022-06-25T04:52:37.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Loving vs. Virginia
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31872665</id>
+        <link href="https://news.ycombinator.com/item?id=31872665"/>
+        <updated>2022-06-25T04:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Loving vs. Virginia]]></summary>
+        <author>
+            <name>planarhobbit</name>
+            <uri>https://news.ycombinator.com/user?id=planarhobbit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Ventura設計的改變是我們所知道的 "理智 "UI的終結者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31872638</id>
+        <link href="https://news.ycombinator.com/item?id=31872638"/>
+        <updated>2022-06-25T04:31:27.000Z</updated>
+        <summary type="html"><![CDATA[macOS Ventura Design Change Is the End of the “Sane” UI as We Know It]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chameleon。一個讓解決Haskell中的類型錯誤變得簡單而有趣的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31872533</id>
+        <link href="https://news.ycombinator.com/item?id=31872533"/>
+        <updated>2022-06-25T04:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Chameleon: A tool to make solving type errors in Haskell simple and fun]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber將Go Monorepo CI構建時間減半
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31872341</id>
+        <link href="https://news.ycombinator.com/item?id=31872341"/>
+        <updated>2022-06-25T03:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Uber Halved Go Monorepo CI Build Time]]></summary>
+        <author>
+            <name>lox</name>
+            <uri>https://news.ycombinator.com/user?id=lox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法律意見書的排版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31872070</id>
+        <link href="https://news.ycombinator.com/item?id=31872070"/>
+        <updated>2022-06-25T02:55:08.000Z</updated>
+        <summary type="html"><![CDATA[The Typography of Legal Opinions]]></summary>
+        <author>
+            <name>gaws</name>
+            <uri>https://news.ycombinator.com/user?id=gaws</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正義還是越權？隨著關鍵測試的臨近，大綠黨受到了抨擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31871492</id>
+        <link href="https://news.ycombinator.com/item?id=31871492"/>
+        <updated>2022-06-25T01:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Justice or overreach?: As crucial test looms, Big Greens are under fire]]></summary>
+        <author>
+            <name>car_analogy</name>
+            <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古代藝術和遺傳學揭示了世界上最昂貴香料的起源
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>Pakdef</name>
             <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邊境安全。歐盟國家考慮與美國達成史無前例的生物識別協議。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856175</id>
-        <link href="https://news.ycombinator.com/item?id=31856175"/>
-        <updated>2022-06-23T23:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Border Security: EU states consider unprecedented biometrics agreement with U.S.]]></summary>
-        <author>
-            <name>afrcnc</name>
-            <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨著加密貨幣冬天的到來，名人悄悄地刪除他們的NFT檔案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856090</id>
-        <link href="https://news.ycombinator.com/item?id=31856090"/>
-        <updated>2022-06-23T22:52:35.000Z</updated>
-        <summary type="html"><![CDATA[As a Crypto Winter Descends, Celebrities Quietly Delete Their NFT Profiles]]></summary>
-        <author>
-            <name>harambae</name>
-            <uri>https://news.ycombinator.com/user?id=harambae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍繞Dual_EC_DRGB的決鬥：破壞標準化進程的後果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856029</id>
-        <link href="https://news.ycombinator.com/item?id=31856029"/>
-        <updated>2022-06-23T22:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Dueling over Dual_EC_DRGB: Consequences of Corrupting a Standardization Process]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保衛烏克蘭。網絡戰爭的早期教訓
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856016</id>
-        <link href="https://news.ycombinator.com/item?id=31856016"/>
-        <updated>2022-06-23T22:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Defending Ukraine: Early Lessons from the Cyber War]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於eBPF的端點安全傳感器在GPLv2許可下發布
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856002</id>
-        <link href="https://news.ycombinator.com/item?id=31856002"/>
-        <updated>2022-06-23T22:42:32.000Z</updated>
-        <summary type="html"><![CDATA[eBPF-based sensor for endpoint security released under the GPLv2 license]]></summary>
-        <author>
-            <name>jimcell</name>
-            <uri>https://news.ycombinator.com/user?id=jimcell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過解析Python代碼來欣賞Python的match-case - Python Morsels
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31856073</id>
-        <link href="https://news.ycombinator.com/item?id=31856073"/>
-        <updated>2022-06-23T22:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Appreciating Python's match-case by parsing Python code – Python Morsels]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
