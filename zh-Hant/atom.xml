@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-25T09:30:27.505Z</updated>
+    <updated>2022-06-25T09:58:24.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在網上看了所有的小字，這讓我想死。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873732</id>
+        <link href="https://news.ycombinator.com/item?id=31873732"/>
+        <updated>2022-06-25T09:21:19.000Z</updated>
+        <summary type="html"><![CDATA[I read all the small print on the internet and it made me want to die]]></summary>
+        <author>
+            <name>hdivider</name>
+            <uri>https://news.ycombinator.com/user?id=hdivider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從阿利托法官的意見草案到對羅伊的最終裁決，有什麼變化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873696</id>
+        <link href="https://news.ycombinator.com/item?id=31873696"/>
+        <updated>2022-06-25T09:12:23.000Z</updated>
+        <summary type="html"><![CDATA[What changed from Justice Alito’s draft opinion to final ruling on Roe]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究。流感疫苗接種與阿爾茨海默病風險降低40%有關
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>8as746fd4a5df</name>
             <uri>https://news.ycombinator.com/user?id=8as746fd4a5df</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度央行嚴厲打擊金融科技初創企業
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858528</id>
-        <link href="https://news.ycombinator.com/item?id=31858528"/>
-        <updated>2022-06-24T06:51:57.000Z</updated>
-        <summary type="html"><![CDATA[India’s central bank cracks down on fintech startups]]></summary>
-        <author>
-            <name>jmsflknr</name>
-            <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過解析Python代碼來欣賞Python的匹配案例
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858525</id>
-        <link href="https://news.ycombinator.com/item?id=31858525"/>
-        <updated>2022-06-24T06:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Appreciating Python's match-case by parsing Python code]]></summary>
-        <author>
-            <name>mkesper</name>
-            <uri>https://news.ycombinator.com/user?id=mkesper</uri>
         </author>
     </entry>
 </feed>
