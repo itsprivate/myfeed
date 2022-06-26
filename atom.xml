@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-26T05:06:13.112Z</updated>
+    <updated>2022-06-26T05:34:13.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit的衰落。为什么它迅速衰落到混乱之中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881238</id>
+        <link href="https://news.ycombinator.com/item?id=31881238"/>
+        <updated>2022-06-26T05:03:04.000Z</updated>
+        <summary type="html"><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></summary>
+        <author>
+            <name>ko3us</name>
+            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞士巨大的水电池将于下周开始运行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31880187</id>
+        <link href="https://news.ycombinator.com/item?id=31880187"/>
+        <updated>2022-06-26T01:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Enormous Swiss water battery to start operating next week]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超物理学。乐器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31880123</id>
+        <link href="https://news.ycombinator.com/item?id=31880123"/>
+        <updated>2022-06-26T01:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Hyperphysics: Musical Instruments]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$ curl -I https://web3usecase.com
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用新鲜可可豆荚制作巧克力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31868386</id>
-        <link href="https://news.ycombinator.com/item?id=31868386"/>
-        <updated>2022-06-24T19:48:21.000Z</updated>
-        <summary type="html"><![CDATA[Making Chocolate from Fresh Cacao Pods]]></summary>
-        <author>
-            <name>dubswithus</name>
-            <uri>https://news.ycombinator.com/user?id=dubswithus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们确认了纳瓦尔尼的联邦安全局跟踪者（2020）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31868374</id>
-        <link href="https://news.ycombinator.com/item?id=31868374"/>
-        <updated>2022-06-24T19:46:56.000Z</updated>
-        <summary type="html"><![CDATA[We Identified Navalny's FSB Stalkers (2020)]]></summary>
-        <author>
-            <name>lubesGordi</name>
-            <uri>https://news.ycombinator.com/user?id=lubesGordi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[multihash。自我描述的哈希值，用于未来验证
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31868371</id>
-        <link href="https://news.ycombinator.com/item?id=31868371"/>
-        <updated>2022-06-24T19:46:35.000Z</updated>
-        <summary type="html"><![CDATA[multihash: Self describing hashes, for future proofing]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>
