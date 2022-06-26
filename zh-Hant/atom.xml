@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-26T08:31:30.631Z</updated>
+    <updated>2022-06-26T08:49:58.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在K3s/Kubernetes集群上運行Ghost
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31882124</id>
+        <link href="https://news.ycombinator.com/item?id=31882124"/>
+        <updated>2022-06-26T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Run Ghost on a K3s/Kubernetes Cluster]]></summary>
+        <author>
+            <name>manibatra</name>
+            <uri>https://news.ycombinator.com/user?id=manibatra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跑道上的啟示。重新審視特內里費機場的災難
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881963</id>
+        <link href="https://news.ycombinator.com/item?id=31881963"/>
+        <updated>2022-06-26T07:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Apocalypse on the Runway: Revisiting the Tenerife Airport Disaster]]></summary>
+        <author>
+            <name>jules-jules</name>
+            <uri>https://news.ycombinator.com/user?id=jules-jules</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaPost: 在可擴展的PostScript中創建圖形
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vermaden</name>
             <uri>https://news.ycombinator.com/user?id=vermaden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大的太陽黑子在24小時內增大了一倍，而且它正對著地球
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869417</id>
-        <link href="https://news.ycombinator.com/item?id=31869417"/>
-        <updated>2022-06-24T21:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Giant sunspot doubled in size in 24 hours, and it's pointing right at Earth]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網上隱私：如何保護正常人的隱私
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869352</id>
-        <link href="https://news.ycombinator.com/item?id=31869352"/>
-        <updated>2022-06-24T21:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Online privacy: how to protect it for normal people]]></summary>
-        <author>
-            <name>nunorbatista</name>
-            <uri>https://news.ycombinator.com/user?id=nunorbatista</uri>
         </author>
     </entry>
 </feed>
