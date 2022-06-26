@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-26T07:43:11.086Z</updated>
+    <updated>2022-06-26T07:57:37.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[预制面包曾在美国被禁止使用（2010年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881875</id>
+        <link href="https://news.ycombinator.com/item?id=31881875"/>
+        <updated>2022-06-26T07:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Pre-Sliced Bread was once banned in the United States (2010)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一部电影改变了一个人的视野 (2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881555</id>
+        <link href="https://news.ycombinator.com/item?id=31881555"/>
+        <updated>2022-06-26T06:13:40.000Z</updated>
+        <summary type="html"><![CDATA[A movie changed one man's vision (2012)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于锈蚀的不幸经历
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881470</id>
+        <link href="https://news.ycombinator.com/item?id=31881470"/>
+        <updated>2022-06-26T05:51:56.000Z</updated>
+        <summary type="html"><![CDATA[An Unfortunate Experience with Rust]]></summary>
+        <author>
+            <name>alainchabat</name>
+            <uri>https://news.ycombinator.com/user?id=alainchabat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[射箭对早期人类的生存至关重要
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mfiguiere</name>
             <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRISC：基于网络的ARMv7汇编语言解释器和计算机架构。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869240</id>
-        <link href="https://news.ycombinator.com/item?id=31869240"/>
-        <updated>2022-06-24T21:00:19.000Z</updated>
-        <summary type="html"><![CDATA[IRISC: A web-based ARMv7 assembly language interpreter and computer architectur]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubectl与Cloudflare零信任的关系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869175</id>
-        <link href="https://news.ycombinator.com/item?id=31869175"/>
-        <updated>2022-06-24T20:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Kubectl with Cloudflare Zero Trust]]></summary>
-        <author>
-            <name>jasoncabot</name>
-            <uri>https://news.ycombinator.com/user?id=jasoncabot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一个鲁能庞氏骗局
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869138</id>
-        <link href="https://news.ycombinator.com/item?id=31869138"/>
-        <updated>2022-06-24T20:51:17.000Z</updated>
-        <summary type="html"><![CDATA[The Next Luna Ponzi Scheme]]></summary>
-        <author>
-            <name>latchkey</name>
-            <uri>https://news.ycombinator.com/user?id=latchkey</uri>
         </author>
     </entry>
 </feed>
