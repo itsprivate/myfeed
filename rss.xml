@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 26 Jun 2022 08:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 09:02:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase人才中心
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31882175</link>
+            <guid>https://news.ycombinator.com/item?id=31882175</guid>
+            <pubDate>Sun, 26 Jun 2022 08:46:14 GMT</pubDate>
+            <description><![CDATA[Coinbase Talent Hub]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用代码样本探索M1芯片架构
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31881810</link>
+            <guid>https://news.ycombinator.com/item?id=31881810</guid>
+            <pubDate>Sun, 26 Jun 2022 07:09:14 GMT</pubDate>
+            <description><![CDATA[Exploration of the M1 chip architecture with Code Samples]]></description>
+        </item>
         <item>
             <title><![CDATA[在K3s/Kubernetes集群上运行Ghost
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31869560</guid>
             <pubDate>Fri, 24 Jun 2022 21:27:27 GMT</pubDate>
             <description><![CDATA[Ken Knowlton, a Father of Computer Art and Animation, Dies at 91]]></description>
-        </item>
-        <item>
-            <title><![CDATA["When is a product （"done"） and what do you do next？"
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31869527</link>
-            <guid>https://news.ycombinator.com/item?id=31869527</guid>
-            <pubDate>Fri, 24 Jun 2022 21:24:56 GMT</pubDate>
-            <description><![CDATA[“When is a product \”done\“ and what do you do next?”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FreeBSD杂志 - 20022/05-06 - 灾难恢复
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31869446</link>
-            <guid>https://news.ycombinator.com/item?id=31869446</guid>
-            <pubDate>Fri, 24 Jun 2022 21:18:21 GMT</pubDate>
-            <description><![CDATA[FreeBSD Journal – 20022/05-06 – Disaster Recovery]]></description>
         </item>
     </channel>
 </rss>

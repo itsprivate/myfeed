@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-26T08:49:58.488Z</updated>
+    <updated>2022-06-26T09:02:30.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coinbase人才中心
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31882175</id>
+        <link href="https://news.ycombinator.com/item?id=31882175"/>
+        <updated>2022-06-26T08:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Talent Hub]]></summary>
+        <author>
+            <name>ofou</name>
+            <uri>https://news.ycombinator.com/user?id=ofou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用代碼樣本探索M1芯片架構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881810</id>
+        <link href="https://news.ycombinator.com/item?id=31881810"/>
+        <updated>2022-06-26T07:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Exploration of the M1 chip architecture with Code Samples]]></summary>
+        <author>
+            <name>Cadwhisker</name>
+            <uri>https://news.ycombinator.com/user?id=Cadwhisker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在K3s/Kubernetes集群上運行Ghost
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tysone</name>
             <uri>https://news.ycombinator.com/user?id=tysone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["When is a product （"done"） and what do you do next？"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869527</id>
-        <link href="https://news.ycombinator.com/item?id=31869527"/>
-        <updated>2022-06-24T21:24:56.000Z</updated>
-        <summary type="html"><![CDATA[“When is a product \”done\“ and what do you do next?”]]></summary>
-        <author>
-            <name>kashishhora</name>
-            <uri>https://news.ycombinator.com/user?id=kashishhora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD雜誌 - 20022/05-06 - 災難恢復
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31869446</id>
-        <link href="https://news.ycombinator.com/item?id=31869446"/>
-        <updated>2022-06-24T21:18:21.000Z</updated>
-        <summary type="html"><![CDATA[FreeBSD Journal – 20022/05-06 – Disaster Recovery]]></summary>
-        <author>
-            <name>vermaden</name>
-            <uri>https://news.ycombinator.com/user?id=vermaden</uri>
         </author>
     </entry>
 </feed>
