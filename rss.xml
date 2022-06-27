@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国是如何对未来进行监管的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31902030</link>
+            <guid>https://news.ycombinator.com/item?id=31902030</guid>
+            <pubDate>Mon, 27 Jun 2022 22:59:39 GMT</pubDate>
+            <description><![CDATA[How China Is Policing the Future]]></description>
+        </item>
         <item>
             <title><![CDATA[一个零意味着什么，但尾部的零却不是 - Oracle与PostgreSQL的比较
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31882256</guid>
             <pubDate>Sun, 26 Jun 2022 09:00:26 GMT</pubDate>
             <description><![CDATA[Pgo: The Postgres operator from crunchy data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[编程的部落 (2017)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882056</link>
-            <guid>https://news.ycombinator.com/item?id=31882056</guid>
-            <pubDate>Sun, 26 Jun 2022 08:15:37 GMT</pubDate>
-            <description><![CDATA[Tribes of Programming (2017)]]></description>
         </item>
     </channel>
 </rss>
