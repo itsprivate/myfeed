@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:00:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,62 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：如何作為一個孩子開始創業
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901646</link>
+            <guid>https://news.ycombinator.com/item?id=31901646</guid>
+            <pubDate>Mon, 27 Jun 2022 22:22:20 GMT</pubDate>
+            <description><![CDATA[Tell HN: How to Start a Business as a Kid]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AirScript - 像Lua一樣，但在Rust中，又有所不同
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901596</link>
+            <guid>https://news.ycombinator.com/item?id=31901596</guid>
+            <pubDate>Mon, 27 Jun 2022 22:18:00 GMT</pubDate>
+            <description><![CDATA[Show HN: AirScript – Like Lua, but in Rust, and Different]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果公司在大量的新產品中為iPhone 14和HomePod升級做準備
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901526</link>
+            <guid>https://news.ycombinator.com/item?id=31901526</guid>
+            <pubDate>Mon, 27 Jun 2022 22:11:12 GMT</pubDate>
+            <description><![CDATA[Apple Readies iPhone 14 and HomePod Upgrade in Flood of New Products]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在iPhone或iPad上暫時禁用Face ID和Touch ID？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901496</link>
+            <guid>https://news.ycombinator.com/item?id=31901496</guid>
+            <pubDate>Mon, 27 Jun 2022 22:08:18 GMT</pubDate>
+            <description><![CDATA[How to Temporarily Disable Face ID & Touch ID on an iPhone or iPad]]></description>
+        </item>
+        <item>
+            <title><![CDATA[免費的開源照片管理器DigiKam得到了一次重大更新
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901437</link>
+            <guid>https://news.ycombinator.com/item?id=31901437</guid>
+            <pubDate>Mon, 27 Jun 2022 22:03:10 GMT</pubDate>
+            <description><![CDATA[Free, Open-Source Photo Manager DigiKam Gets a Big Update]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Commodore Vicmodem (1600型)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901214</link>
+            <guid>https://news.ycombinator.com/item?id=31901214</guid>
+            <pubDate>Mon, 27 Jun 2022 21:40:31 GMT</pubDate>
+            <description><![CDATA[The Commodore Vicmodem (Model 1600)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[徵求GCC-Rust的反饋意見--可能以GCC的上游為目標 13
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31901094</link>
+            <guid>https://news.ycombinator.com/item?id=31901094</guid>
+            <pubDate>Mon, 27 Jun 2022 21:30:40 GMT</pubDate>
+            <description><![CDATA[GCC-Rust Feedback Sought – Possibly Aiming for Upstream in GCC 13]]></description>
+        </item>
         <item>
             <title><![CDATA[Linus Torvalds對將Rust引入Linux 5.20持謹慎的樂觀態度
 ]]></title>
@@ -4757,62 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31882076</guid>
             <pubDate>Sun, 26 Jun 2022 08:19:17 GMT</pubDate>
             <description><![CDATA[FFmpeg.wasm, a pure WebAssembly port of FFmpeg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的亞馬遜搜索返回的結果更令人困惑，這就是令人驚訝的原因
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882030</link>
-            <guid>https://news.ycombinator.com/item?id=31882030</guid>
-            <pubDate>Sun, 26 Jun 2022 08:08:43 GMT</pubDate>
-            <description><![CDATA[The Surprising Reason Your Amazon Searches Are Returning More Confusing Results]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase人才中心
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882175</link>
-            <guid>https://news.ycombinator.com/item?id=31882175</guid>
-            <pubDate>Sun, 26 Jun 2022 08:46:14 GMT</pubDate>
-            <description><![CDATA[Coinbase Talent Hub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用代碼樣本探索M1芯片架構
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31881810</link>
-            <guid>https://news.ycombinator.com/item?id=31881810</guid>
-            <pubDate>Sun, 26 Jun 2022 07:09:14 GMT</pubDate>
-            <description><![CDATA[Exploration of the M1 chip architecture with Code Samples]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在K3s/Kubernetes集群上運行Ghost
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882124</link>
-            <guid>https://news.ycombinator.com/item?id=31882124</guid>
-            <pubDate>Sun, 26 Jun 2022 08:30:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Run Ghost on a K3s/Kubernetes Cluster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跑道上的啟示。重新審視特內里費機場的災難
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31881963</link>
-            <guid>https://news.ycombinator.com/item?id=31881963</guid>
-            <pubDate>Sun, 26 Jun 2022 07:52:16 GMT</pubDate>
-            <description><![CDATA[Apocalypse on the Runway: Revisiting the Tenerife Airport Disaster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MetaPost: 在可擴展的PostScript中創建圖形
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882092</link>
-            <guid>https://news.ycombinator.com/item?id=31882092</guid>
-            <pubDate>Sun, 26 Jun 2022 08:23:09 GMT</pubDate>
-            <description><![CDATA[MetaPost: Creating Graphics in Scalable PostScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Internet Explorer的幽靈將困擾網絡多年
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31881978</link>
-            <guid>https://news.ycombinator.com/item?id=31881978</guid>
-            <pubDate>Sun, 26 Jun 2022 07:55:09 GMT</pubDate>
-            <description><![CDATA[The Ghost of Internet Explorer Will Haunt the Web for Years]]></description>
         </item>
     </channel>
 </rss>

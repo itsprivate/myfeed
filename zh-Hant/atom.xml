@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-27T22:00:54.333Z</updated>
+    <updated>2022-06-27T22:29:03.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：如何作為一個孩子開始創業
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901646</id>
+        <link href="https://news.ycombinator.com/item?id=31901646"/>
+        <updated>2022-06-27T22:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: How to Start a Business as a Kid]]></summary>
+        <author>
+            <name>novateg</name>
+            <uri>https://news.ycombinator.com/user?id=novateg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirScript - 像Lua一樣，但在Rust中，又有所不同
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901596</id>
+        <link href="https://news.ycombinator.com/item?id=31901596"/>
+        <updated>2022-06-27T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AirScript – Like Lua, but in Rust, and Different]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司在大量的新產品中為iPhone 14和HomePod升級做準備
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901526</id>
+        <link href="https://news.ycombinator.com/item?id=31901526"/>
+        <updated>2022-06-27T22:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Apple Readies iPhone 14 and HomePod Upgrade in Flood of New Products]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在iPhone或iPad上暫時禁用Face ID和Touch ID？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901496</id>
+        <link href="https://news.ycombinator.com/item?id=31901496"/>
+        <updated>2022-06-27T22:08:18.000Z</updated>
+        <summary type="html"><![CDATA[How to Temporarily Disable Face ID & Touch ID on an iPhone or iPad]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費的開源照片管理器DigiKam得到了一次重大更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901437</id>
+        <link href="https://news.ycombinator.com/item?id=31901437"/>
+        <updated>2022-06-27T22:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Free, Open-Source Photo Manager DigiKam Gets a Big Update]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commodore Vicmodem (1600型)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901214</id>
+        <link href="https://news.ycombinator.com/item?id=31901214"/>
+        <updated>2022-06-27T21:40:31.000Z</updated>
+        <summary type="html"><![CDATA[The Commodore Vicmodem (Model 1600)]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徵求GCC-Rust的反饋意見--可能以GCC的上游為目標 13
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901094</id>
+        <link href="https://news.ycombinator.com/item?id=31901094"/>
+        <updated>2022-06-27T21:30:40.000Z</updated>
+        <summary type="html"><![CDATA[GCC-Rust Feedback Sought – Possibly Aiming for Upstream in GCC 13]]></summary>
+        <author>
+            <name>evasb</name>
+            <uri>https://news.ycombinator.com/user?id=evasb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linus Torvalds對將Rust引入Linux 5.20持謹慎的樂觀態度
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的亞馬遜搜索返回的結果更令人困惑，這就是令人驚訝的原因
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882030</id>
-        <link href="https://news.ycombinator.com/item?id=31882030"/>
-        <updated>2022-06-26T08:08:43.000Z</updated>
-        <summary type="html"><![CDATA[The Surprising Reason Your Amazon Searches Are Returning More Confusing Results]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase人才中心
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882175</id>
-        <link href="https://news.ycombinator.com/item?id=31882175"/>
-        <updated>2022-06-26T08:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Talent Hub]]></summary>
-        <author>
-            <name>ofou</name>
-            <uri>https://news.ycombinator.com/user?id=ofou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用代碼樣本探索M1芯片架構
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31881810</id>
-        <link href="https://news.ycombinator.com/item?id=31881810"/>
-        <updated>2022-06-26T07:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Exploration of the M1 chip architecture with Code Samples]]></summary>
-        <author>
-            <name>Cadwhisker</name>
-            <uri>https://news.ycombinator.com/user?id=Cadwhisker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在K3s/Kubernetes集群上運行Ghost
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882124</id>
-        <link href="https://news.ycombinator.com/item?id=31882124"/>
-        <updated>2022-06-26T08:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Run Ghost on a K3s/Kubernetes Cluster]]></summary>
-        <author>
-            <name>manibatra</name>
-            <uri>https://news.ycombinator.com/user?id=manibatra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跑道上的啟示。重新審視特內里費機場的災難
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31881963</id>
-        <link href="https://news.ycombinator.com/item?id=31881963"/>
-        <updated>2022-06-26T07:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Apocalypse on the Runway: Revisiting the Tenerife Airport Disaster]]></summary>
-        <author>
-            <name>jules-jules</name>
-            <uri>https://news.ycombinator.com/user?id=jules-jules</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaPost: 在可擴展的PostScript中創建圖形
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882092</id>
-        <link href="https://news.ycombinator.com/item?id=31882092"/>
-        <updated>2022-06-26T08:23:09.000Z</updated>
-        <summary type="html"><![CDATA[MetaPost: Creating Graphics in Scalable PostScript]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Explorer的幽靈將困擾網絡多年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31881978</id>
-        <link href="https://news.ycombinator.com/item?id=31881978"/>
-        <updated>2022-06-26T07:55:09.000Z</updated>
-        <summary type="html"><![CDATA[The Ghost of Internet Explorer Will Haunt the Web for Years]]></summary>
-        <author>
-            <name>khaled_ismaeel</name>
-            <uri>https://news.ycombinator.com/user?id=khaled_ismaeel</uri>
         </author>
     </entry>
 </feed>
