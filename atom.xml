@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-28T04:03:37.604Z</updated>
+    <updated>2022-06-28T04:54:05.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[50/60年代编程传说的资源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31903623</id>
+        <link href="https://news.ycombinator.com/item?id=31903623"/>
+        <updated>2022-06-28T03:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Resources for 50s/60's programming lore?]]></summary>
+        <author>
+            <name>sargstuff</name>
+            <uri>https://news.ycombinator.com/user?id=sargstuff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仍在隔离中
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ZeljkoS</name>
             <uri>https://news.ycombinator.com/user?id=ZeljkoS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指挥与征服：泰伯利亚之日》对当天的电脑进行了惩罚（2019年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883658</id>
-        <link href="https://news.ycombinator.com/item?id=31883658"/>
-        <updated>2022-06-26T13:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Command and Conquer: Tiberian Sun punished the computers of the day (2019)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
