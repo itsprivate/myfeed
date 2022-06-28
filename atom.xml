@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-28T21:45:44.234Z</updated>
+    <updated>2022-06-28T21:58:30.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐浏览器新的隐私功能可剥离URL中的跟踪参数
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913467</id>
+        <link href="https://news.ycombinator.com/item?id=31913467"/>
+        <updated>2022-06-28T21:48:30.000Z</updated>
+        <summary type="html"><![CDATA[New Firefox privacy feature strips URLs of tracking parameters]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硅谷的大震荡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913445</id>
+        <link href="https://news.ycombinator.com/item?id=31913445"/>
+        <updated>2022-06-28T21:46:41.000Z</updated>
+        <summary type="html"><![CDATA[The great Silicon Valley shake-out]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraform Industries
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31913029</id>
+        <link href="https://news.ycombinator.com/item?id=31913029"/>
+        <updated>2022-06-28T21:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Terraform Industries]]></summary>
+        <author>
+            <name>kaveet</name>
+            <uri>https://news.ycombinator.com/user?id=kaveet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[粉丝如何创造互联网的声音
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>nvr82</name>
             <uri>https://news.ycombinator.com/user?id=nvr82</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着油价的飙升，现在加油站在你刷卡时最多可扣留175美元的钱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31900133</id>
-        <link href="https://news.ycombinator.com/item?id=31900133"/>
-        <updated>2022-06-27T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[As Gas Prices Surge, Stations Now Hold Up to $175 of Your Money When You Swipe]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NSFW] 色情生成的扩散模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31900095</id>
-        <link href="https://news.ycombinator.com/item?id=31900095"/>
-        <updated>2022-06-27T20:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: [NSFW] Diffusion models for porn generation]]></summary>
-        <author>
-            <name>GistNoesis</name>
-            <uri>https://news.ycombinator.com/user?id=GistNoesis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锈蚀需要的最后一件事 (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31900027</id>
-        <link href="https://news.ycombinator.com/item?id=31900027"/>
-        <updated>2022-06-27T20:03:52.000Z</updated>
-        <summary type="html"><![CDATA[The Last Thing Rust Needs (2019)]]></summary>
-        <author>
-            <name>nazgulsenpai</name>
-            <uri>https://news.ycombinator.com/user?id=nazgulsenpai</uri>
         </author>
     </entry>
 </feed>
