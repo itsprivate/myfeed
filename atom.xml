@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-28T23:31:24.365Z</updated>
+    <updated>2022-06-28T23:46:06.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于用气泡膜运行容器的说明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31914447</id>
+        <link href="https://news.ycombinator.com/item?id=31914447"/>
+        <updated>2022-06-28T23:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Notes on Running Containers with Bubblewrap]]></summary>
+        <author>
+            <name>mfrw</name>
+            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把你的会议演讲变成一篇博文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31914395</id>
+        <link href="https://news.ycombinator.com/item?id=31914395"/>
+        <updated>2022-06-28T23:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Turn your conference talk into a blog post]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[驯鹿有一种特殊的眼睛颜色，只为冬季而设
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>evasb</name>
             <uri>https://news.ycombinator.com/user?id=evasb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds对将Rust引入Linux 5.20持谨慎的乐观态度
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901295</id>
-        <link href="https://news.ycombinator.com/item?id=31901295"/>
-        <updated>2022-06-27T21:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds is cautiously optimistic about bringing Rust into Linux 5.20]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[激发农业革命的摩洛哥食物森林
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901289</id>
-        <link href="https://news.ycombinator.com/item?id=31901289"/>
-        <updated>2022-06-27T21:47:07.000Z</updated>
-        <summary type="html"><![CDATA[The Moroccan Food Forest That Inspired an Agricultural Revolution]]></summary>
-        <author>
-            <name>ciconia</name>
-            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
         </author>
     </entry>
 </feed>
