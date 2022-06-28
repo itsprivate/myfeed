@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-28T11:45:45.959Z</updated>
+    <updated>2022-06-28T11:57:45.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生产中的Haskell。坎纳布尔
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906510</id>
+        <link href="https://news.ycombinator.com/item?id=31906510"/>
+        <updated>2022-06-28T11:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Haskell in Production: Channable]]></summary>
+        <author>
+            <name>aroccoli</name>
+            <uri>https://news.ycombinator.com/user?id=aroccoli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莎士比亚戏剧（完整版和免费版）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906490</id>
+        <link href="https://news.ycombinator.com/item?id=31906490"/>
+        <updated>2022-06-28T11:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Shakespeare's Plays (Complete and Free)]]></summary>
+        <author>
+            <name>martialg</name>
+            <uri>https://news.ycombinator.com/user?id=martialg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在AWS上近乎线性地扩展巨大的模型训练
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906457</id>
+        <link href="https://news.ycombinator.com/item?id=31906457"/>
+        <updated>2022-06-28T11:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Near-linear scaling of gigantic-model training on AWS]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家们发现了至少80万年前的火灾痕迹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906329</id>
+        <link href="https://news.ycombinator.com/item?id=31906329"/>
+        <updated>2022-06-28T11:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Scientists Uncover Traces of Fire Dating Back at Least 800k Years]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更好的Django内页
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905812</id>
+        <link href="https://news.ycombinator.com/item?id=31905812"/>
+        <updated>2022-06-28T09:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Better Django Inlines]]></summary>
+        <author>
+            <name>spapas82</name>
+            <uri>https://news.ycombinator.com/user?id=spapas82</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[45%的人在两年多的时间里没有感受到真正的幸福感
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905774</id>
+        <link href="https://news.ycombinator.com/item?id=31905774"/>
+        <updated>2022-06-28T09:23:31.000Z</updated>
+        <summary type="html"><![CDATA[45% of People Have Not Felt True Happiness for More Than Two Years]]></summary>
+        <author>
+            <name>thejteam</name>
+            <uri>https://news.ycombinator.com/user?id=thejteam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chris Hedges: 我们中间的法西斯分子
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半导体立法的失败表明美国为何在竞争中举步维艰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889421</id>
-        <link href="https://news.ycombinator.com/item?id=31889421"/>
-        <updated>2022-06-27T00:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Semiconductor legislation failures show why the U.S. struggles to compete]]></summary>
-        <author>
-            <name>rr808</name>
-            <uri>https://news.ycombinator.com/user?id=rr808</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于远程工作的 Discord
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889338</id>
-        <link href="https://news.ycombinator.com/item?id=31889338"/>
-        <updated>2022-06-27T00:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Discord for Remote Work]]></summary>
-        <author>
-            <name>paps</name>
-            <uri>https://news.ycombinator.com/user?id=paps</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人教人工智能玩DnD，它喜欢魔幻导弹
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889240</id>
-        <link href="https://news.ycombinator.com/item?id=31889240"/>
-        <updated>2022-06-27T00:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Someone taught an AI to play DnD, and it loves Magic Missile]]></summary>
-        <author>
-            <name>FeaturelessBug</name>
-            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实时分析。What, So What, and Now What?
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889235</id>
-        <link href="https://news.ycombinator.com/item?id=31889235"/>
-        <updated>2022-06-27T00:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Real Time Analytics: What, So What, and Now What?]]></summary>
-        <author>
-            <name>Merick</name>
-            <uri>https://news.ycombinator.com/user?id=Merick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与Steve Brusatte教授就哺乳动物的进化问题进行AMA讨论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889163</id>
-        <link href="https://news.ycombinator.com/item?id=31889163"/>
-        <updated>2022-06-26T23:43:41.000Z</updated>
-        <summary type="html"><![CDATA[AMA with Professor Steve Brusatte on mammalian evolution]]></summary>
-        <author>
-            <name>magicturnip</name>
-            <uri>https://news.ycombinator.com/user?id=magicturnip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500万块乐高积木在海中丢失能告诉我们海洋中的塑料是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889160</id>
-        <link href="https://news.ycombinator.com/item?id=31889160"/>
-        <updated>2022-06-26T23:43:05.000Z</updated>
-        <summary type="html"><![CDATA[What 5M Lego pieces lost at sea can tell us about plastic in the ocean]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
         </author>
     </entry>
 </feed>
