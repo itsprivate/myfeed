@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-29T07:28:58.383Z</updated>
+    <updated>2022-06-29T07:45:51.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Budgie桌面的状况。2022年5月
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31916625</id>
+        <link href="https://news.ycombinator.com/item?id=31916625"/>
+        <updated>2022-06-29T04:53:32.000Z</updated>
+        <summary type="html"><![CDATA[State of the Budgie Desktop: May 2022]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捣毁苹果、香蕉和樱桃
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2 MacBook Pro的256GB SSD的速度只有M1版的一半左右
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904877</id>
-        <link href="https://news.ycombinator.com/item?id=31904877"/>
-        <updated>2022-06-28T06:49:20.000Z</updated>
-        <summary type="html"><![CDATA[M2 MacBook Pro’s 256GB SSD is only about half as fast as the M1 version’s]]></summary>
-        <author>
-            <name>kristianp</name>
-            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
         </author>
     </entry>
 </feed>
