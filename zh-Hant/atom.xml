@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-29T07:45:51.749Z</updated>
+    <updated>2022-06-29T07:59:17.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在週末建立了一個小型SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917403</id>
+        <link href="https://news.ycombinator.com/item?id=31917403"/>
+        <updated>2022-06-29T07:25:01.000Z</updated>
+        <summary type="html"><![CDATA[I built a small SaaS over the weekend]]></summary>
+        <author>
+            <name>bndr</name>
+            <uri>https://news.ycombinator.com/user?id=bndr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本在1875年以來最嚴重的熱浪中搖搖欲墜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917401</id>
+        <link href="https://news.ycombinator.com/item?id=31917401"/>
+        <updated>2022-06-29T07:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Japan swelters in worst heatwave since 1875]]></summary>
+        <author>
+            <name>zeristor</name>
+            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好吧，誰的火箭剛剛擊中了月球？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917252</id>
+        <link href="https://news.ycombinator.com/item?id=31917252"/>
+        <updated>2022-06-29T06:53:46.000Z</updated>
+        <summary type="html"><![CDATA[OK, whose rocket just hit the moon?]]></summary>
+        <author>
+            <name>breck</name>
+            <uri>https://news.ycombinator.com/user?id=breck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3的計算機科學案例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31916940</id>
+        <link href="https://news.ycombinator.com/item?id=31916940"/>
+        <updated>2022-06-29T05:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The computer science case for Web3]]></summary>
+        <author>
+            <name>Sargos</name>
+            <uri>https://news.ycombinator.com/user?id=Sargos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Budgie桌面的狀況。2022年5月
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>car</name>
             <uri>https://news.ycombinator.com/user?id=car</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火烈鳥只用一條腿站立，物理學是其令人驚訝的原因
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904868</id>
-        <link href="https://news.ycombinator.com/item?id=31904868"/>
-        <updated>2022-06-28T06:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Flamingos stand on just one leg, and physics is the surprising reason why]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們需要一個新的進化論嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904788</id>
-        <link href="https://news.ycombinator.com/item?id=31904788"/>
-        <updated>2022-06-28T06:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Do we need a new theory of evolution?]]></summary>
-        <author>
-            <name>bluerobotcat</name>
-            <uri>https://news.ycombinator.com/user?id=bluerobotcat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondegreen - 誤聽或誤解某句話以賦予新的含義
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904590</id>
-        <link href="https://news.ycombinator.com/item?id=31904590"/>
-        <updated>2022-06-28T06:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Mondegreen – Mis-Hearing or Mis-Interpretation of a Phrase to Give a New Meaning]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinydb：用於研究目的的簡單數據庫實現
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904178</id>
-        <link href="https://news.ycombinator.com/item?id=31904178"/>
-        <updated>2022-06-28T04:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Tinydb: a simple database implementation for study purpose]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
