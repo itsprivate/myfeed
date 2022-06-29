@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 06:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于燃烧的世界的互联网的建议
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31917098</link>
+            <guid>https://news.ycombinator.com/item?id=31917098</guid>
+            <pubDate>Wed, 29 Jun 2022 06:28:24 GMT</pubDate>
+            <description><![CDATA[Propositions on an Internet for a Burning World]]></description>
+        </item>
         <item>
             <title><![CDATA[戏剧性的证词对唐纳德-特朗普在1月6日的行动进行了破坏性的说明
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31903123</guid>
             <pubDate>Tue, 28 Jun 2022 01:35:02 GMT</pubDate>
             <description><![CDATA[Cyborg Lisps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linus Torvalds对将Rust引入下一个版本持谨慎乐观态度
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31904654</link>
-            <guid>https://news.ycombinator.com/item?id=31904654</guid>
-            <pubDate>Tue, 28 Jun 2022 06:13:10 GMT</pubDate>
-            <description><![CDATA[Linus Torvalds is cautiously optimistic about bringing Rust into next release]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-29T06:34:56.985Z</updated>
+    <updated>2022-06-29T06:56:53.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于燃烧的世界的互联网的建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917098</id>
+        <link href="https://news.ycombinator.com/item?id=31917098"/>
+        <updated>2022-06-29T06:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Propositions on an Internet for a Burning World]]></summary>
+        <author>
+            <name>m4lvin</name>
+            <uri>https://news.ycombinator.com/user?id=m4lvin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戏剧性的证词对唐纳德-特朗普在1月6日的行动进行了破坏性的说明
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dr-neptune</name>
             <uri>https://news.ycombinator.com/user?id=dr-neptune</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds对将Rust引入下一个版本持谨慎乐观态度
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904654</id>
-        <link href="https://news.ycombinator.com/item?id=31904654"/>
-        <updated>2022-06-28T06:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds is cautiously optimistic about bringing Rust into next release]]></summary>
-        <author>
-            <name>adwn</name>
-            <uri>https://news.ycombinator.com/user?id=adwn</uri>
         </author>
     </entry>
 </feed>
