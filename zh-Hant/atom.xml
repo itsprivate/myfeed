@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-29T23:45:02.112Z</updated>
+    <updated>2022-06-29T23:57:55.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[給安卓的一封情書
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31926996</id>
+        <link href="https://news.ycombinator.com/item?id=31926996"/>
+        <updated>2022-06-29T23:26:45.000Z</updated>
+        <summary type="html"><![CDATA[A Love Letter to Android]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[口袋妖怪Go》創造者Niantic取消四個項目，裁減8%的員工
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aruanavekar</name>
             <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意識是如何演化的？一本圖解指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31913496</id>
-        <link href="https://news.ycombinator.com/item?id=31913496"/>
-        <updated>2022-06-28T21:50:58.000Z</updated>
-        <summary type="html"><![CDATA[How Did Consciousness Evolve? An Illustrated Guide]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
