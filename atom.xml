@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-30T10:37:43.555Z</updated>
+    <updated>2022-06-30T10:59:10.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在制定基准时使用什么指标？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930774</id>
+        <link href="https://news.ycombinator.com/item?id=31930774"/>
+        <updated>2022-06-30T10:46:22.000Z</updated>
+        <summary type="html"><![CDATA[What Metric to Use When Benchmarking?]]></summary>
+        <author>
+            <name>fniephaus</name>
+            <uri>https://news.ycombinator.com/user?id=fniephaus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果允许韩国的应用程序使用第三方支付系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930688</id>
+        <link href="https://news.ycombinator.com/item?id=31930688"/>
+        <updated>2022-06-30T10:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Apple lets apps in South Korea use third-party payment systems]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个利用WebAssembly的力量的客户端DSP库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930446</id>
+        <link href="https://news.ycombinator.com/item?id=31930446"/>
+        <updated>2022-06-30T09:51:16.000Z</updated>
+        <summary type="html"><![CDATA[A client-side DSP library utilizing the power of WebAssembly]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国家航空航天局的科学家说来自韦伯望远镜的图像几乎让他们流泪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930158</id>
+        <link href="https://news.ycombinator.com/item?id=31930158"/>
+        <updated>2022-06-30T09:01:18.000Z</updated>
+        <summary type="html"><![CDATA[NASA scientists say images from the Webb telescope nearly brought them to tears]]></summary>
+        <author>
+            <name>vishnugupta</name>
+            <uri>https://news.ycombinator.com/user?id=vishnugupta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个基督教大学教授的隐秘生活
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>jack_newmann</name>
             <uri>https://news.ycombinator.com/user?id=jack_newmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLOv6: 重新定义物体检测的最先进技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917626</id>
-        <link href="https://news.ycombinator.com/item?id=31917626"/>
-        <updated>2022-06-29T08:14:05.000Z</updated>
-        <summary type="html"><![CDATA[YOLOv6: Redefine state-of-the-art for object detection]]></summary>
-        <author>
-            <name>npRandom</name>
-            <uri>https://news.ycombinator.com/user?id=npRandom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么OO糟透了（Joe Armstrong，2000）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917624</id>
-        <link href="https://news.ycombinator.com/item?id=31917624"/>
-        <updated>2022-06-29T08:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Why OO sucks (Joe Armstrong, 2000)]]></summary>
-        <author>
-            <name>Akronymus</name>
-            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧金山粪便地图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917587</id>
-        <link href="https://news.ycombinator.com/item?id=31917587"/>
-        <updated>2022-06-29T08:03:59.000Z</updated>
-        <summary type="html"><![CDATA[San Francisco Poop Map]]></summary>
-        <author>
-            <name>thinkingemote</name>
-            <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新西兰航空公司将在长途航班上安装世界一流的经济舱双层床
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31917567</id>
-        <link href="https://news.ycombinator.com/item?id=31917567"/>
-        <updated>2022-06-29T07:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Air New Zealand to install world-first economy bunk beds on long-haul flights]]></summary>
-        <author>
-            <name>SenHeng</name>
-            <uri>https://news.ycombinator.com/user?id=SenHeng</uri>
         </author>
     </entry>
 </feed>
