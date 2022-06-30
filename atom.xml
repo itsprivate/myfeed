@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-06-30T05:33:41.324Z</updated>
+    <updated>2022-06-30T05:49:40.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邮件标签
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31929015</id>
+        <link href="https://news.ycombinator.com/item?id=31929015"/>
+        <updated>2022-06-30T05:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Mailtags]]></summary>
+        <author>
+            <name>hasitseth</name>
+            <uri>https://news.ycombinator.com/user?id=hasitseth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摄影师使用《达利2》人工智能让模糊的照片变得清晰起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31928794</id>
+        <link href="https://news.ycombinator.com/item?id=31928794"/>
+        <updated>2022-06-30T04:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Photographer Uses DALL-E 2 AI to Make a Blurry Photo Sharp]]></summary>
+        <author>
+            <name>SerCe</name>
+            <uri>https://news.ycombinator.com/user?id=SerCe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们发现苹果新的M2 MacBook Pro有严重的热节流现象
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是什么导致了2020年的凶杀案激增？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915513</id>
-        <link href="https://news.ycombinator.com/item?id=31915513"/>
-        <updated>2022-06-29T01:47:02.000Z</updated>
-        <summary type="html"><![CDATA[What Caused the 2020 Homicide Spike?]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰晤士报》对中国不断扩大的监控进行调查的四点启示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915505</id>
-        <link href="https://news.ycombinator.com/item?id=31915505"/>
-        <updated>2022-06-29T01:45:41.000Z</updated>
-        <summary type="html"><![CDATA[Four Takeaways from a Times Investigation into China’s Expanding Surveillance]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
         </author>
     </entry>
 </feed>
