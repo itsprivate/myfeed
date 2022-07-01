@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-01T14:33:00.387Z</updated>
+    <updated>2022-07-01T14:45:45.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源AI文档串生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946963</id>
+        <link href="https://news.ycombinator.com/item?id=31946963"/>
+        <updated>2022-07-01T14:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Open source AI docstring generator]]></summary>
+        <author>
+            <name>hanyiwang</name>
+            <uri>https://news.ycombinator.com/user?id=hanyiwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[占领市场
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946935</id>
+        <link href="https://news.ycombinator.com/item?id=31946935"/>
+        <updated>2022-07-01T14:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Cornering the Market]]></summary>
+        <author>
+            <name>IdealeZahlen</name>
+            <uri>https://news.ycombinator.com/user?id=IdealeZahlen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你控制的社交网络
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946480</id>
+        <link href="https://news.ycombinator.com/item?id=31946480"/>
+        <updated>2022-07-01T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[The social network you control]]></summary>
+        <author>
+            <name>janandonly</name>
+            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[评论显示，Chrome扩展程序 "隐私测试 "正在自行安装
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机能成为数学家吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31931564</id>
-        <link href="https://news.ycombinator.com/item?id=31931564"/>
-        <updated>2022-06-30T12:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Can Computers Be Mathematicians?]]></summary>
-        <author>
-            <name>OrderOfChaos</name>
-            <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对Knuth-Morris-Pratt算法的深入解释
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31931560</id>
-        <link href="https://news.ycombinator.com/item?id=31931560"/>
-        <updated>2022-06-30T12:31:28.000Z</updated>
-        <summary type="html"><![CDATA[An indepth explanation of the Knuth-Morris-Pratt algorithm]]></summary>
-        <author>
-            <name>pitayanblog1</name>
-            <uri>https://news.ycombinator.com/user?id=pitayanblog1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱纳斯-托瓦尔兹预测，2023年Linux内核将出现锈蚀
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31931544</id>
-        <link href="https://news.ycombinator.com/item?id=31931544"/>
-        <updated>2022-06-30T12:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Rust in the Linux Kernel by 2023, Linus Torvalds Predicts]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
