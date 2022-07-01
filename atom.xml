@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-01T09:49:20.105Z</updated>
+    <updated>2022-07-01T10:01:18.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Elixir/LiveView/Phoenix的生产力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944285</id>
+        <link href="https://news.ycombinator.com/item?id=31944285"/>
+        <updated>2022-07-01T09:50:49.000Z</updated>
+        <summary type="html"><![CDATA[The Productivity of Elixir/LiveView/Phoenix]]></summary>
+        <author>
+            <name>rapnie</name>
+            <uri>https://news.ycombinator.com/user?id=rapnie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆向工程常见问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944079</id>
+        <link href="https://news.ycombinator.com/item?id=31944079"/>
+        <updated>2022-07-01T09:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Reverse Engineering FAQ]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MaxCDN和SecureCDN即将退役
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>notpushkin</name>
             <uri>https://news.ycombinator.com/user?id=notpushkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我分析了Reddit上最受欢迎的办公椅
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929014</id>
-        <link href="https://news.ycombinator.com/item?id=31929014"/>
-        <updated>2022-06-30T05:40:27.000Z</updated>
-        <summary type="html"><![CDATA[I analyzed the most popular office chairs on Reddit]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用乐高揭开变形金刚的面纱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31928936</id>
-        <link href="https://news.ycombinator.com/item?id=31928936"/>
-        <updated>2022-06-30T05:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling Transformers with Lego]]></summary>
-        <author>
-            <name>thomasahle</name>
-            <uri>https://news.ycombinator.com/user?id=thomasahle</uri>
         </author>
     </entry>
 </feed>
