@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-02T05:10:20.654Z</updated>
+    <updated>2022-07-02T05:35:23.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉FSD測試版差點撞上火車
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956162</id>
+        <link href="https://news.ycombinator.com/item?id=31956162"/>
+        <updated>2022-07-02T04:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Tesla FSD beta almost runs into a train]]></summary>
+        <author>
+            <name>camjohnson26</name>
+            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsecodes.xyz
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三號
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31940942</id>
-        <link href="https://news.ycombinator.com/item?id=31940942"/>
-        <updated>2022-07-01T01:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Number Three]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>
