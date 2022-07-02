@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-02T11:25:19.991Z</updated>
+    <updated>2022-07-02T11:42:58.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德州計劃在大多數州際公路上每隔50英里設一個電動充電站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957856</id>
+        <link href="https://news.ycombinator.com/item?id=31957856"/>
+        <updated>2022-07-02T10:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Texas plans electric charging stations every 50 miles on most interstates]]></summary>
+        <author>
+            <name>oogali</name>
+            <uri>https://news.ycombinator.com/user?id=oogali</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個在Golang中的簡單Tcl解釋器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957580</id>
+        <link href="https://news.ycombinator.com/item?id=31957580"/>
+        <updated>2022-07-02T09:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple Tcl interpreter in Golang]]></summary>
+        <author>
+            <name>stevekemp</name>
+            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1月6日的委員會將有最終決定權
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過實例學習Kubernetes
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31943591</id>
-        <link href="https://news.ycombinator.com/item?id=31943591"/>
-        <updated>2022-07-01T07:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Learn Kubernetes by Example]]></summary>
-        <author>
-            <name>saikatsg</name>
-            <uri>https://news.ycombinator.com/user?id=saikatsg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiscoArt: 在一條線上創建引人注目的Disco Diffusion藝術作品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31943420</id>
-        <link href="https://news.ycombinator.com/item?id=31943420"/>
-        <updated>2022-07-01T07:21:42.000Z</updated>
-        <summary type="html"><![CDATA[DiscoArt: Create compelling Disco Diffusion artworks in one line]]></summary>
-        <author>
-            <name>artex_xh</name>
-            <uri>https://news.ycombinator.com/user?id=artex_xh</uri>
         </author>
     </entry>
 </feed>
