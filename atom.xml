@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-02T07:43:47.676Z</updated>
+    <updated>2022-07-02T07:57:11.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技公司对后罗伊时代的美国数据隐私问题保持沉默
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957006</id>
+        <link href="https://news.ycombinator.com/item?id=31957006"/>
+        <updated>2022-07-02T07:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech remains silent on questions about data privacy in a post-Roe US]]></summary>
+        <author>
+            <name>cheinyeanlim</name>
+            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福尔坦博士在 "It Takes All KINDs"（2017）中的作用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>HaloZero</name>
             <uri>https://news.ycombinator.com/user?id=HaloZero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS vs. K8s "是新的 "Windows vs. Linux"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31942466</id>
-        <link href="https://news.ycombinator.com/item?id=31942466"/>
-        <updated>2022-07-01T04:42:45.000Z</updated>
-        <summary type="html"><![CDATA['AWS vs. K8s' is the new 'Windows vs. Linux']]></summary>
-        <author>
-            <name>gotbeans</name>
-            <uri>https://news.ycombinator.com/user?id=gotbeans</uri>
         </author>
     </entry>
 </feed>
