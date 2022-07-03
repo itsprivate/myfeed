@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-03T04:20:17.511Z</updated>
+    <updated>2022-07-03T04:51:27.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉出货量下降
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965113</id>
+        <link href="https://news.ycombinator.com/item?id=31965113"/>
+        <updated>2022-07-03T04:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Shipments Drop]]></summary>
+        <author>
+            <name>11thEarlOfMar</name>
+            <uri>https://news.ycombinator.com/user?id=11thEarlOfMar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他们是用肉做的 (1991)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965062</id>
+        <link href="https://news.ycombinator.com/item?id=31965062"/>
+        <updated>2022-07-03T04:26:40.000Z</updated>
+        <summary type="html"><![CDATA[They're made out of meat (1991)]]></summary>
+        <author>
+            <name>6502nerdface</name>
+            <uri>https://news.ycombinator.com/user?id=6502nerdface</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波音737 Max空中突发事件曝光
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mdp2021</name>
             <uri>https://news.ycombinator.com/user?id=mdp2021</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[希格斯的发现是欧洲核子中心高能物理学的巅峰吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950999</id>
-        <link href="https://news.ycombinator.com/item?id=31950999"/>
-        <updated>2022-07-01T18:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Was the discovery of the Higgs the pinnacle for high-energy physics at CERN?]]></summary>
-        <author>
-            <name>MindGods</name>
-            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无 JavaScript 指纹实验
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950985</id>
-        <link href="https://news.ycombinator.com/item?id=31950985"/>
-        <updated>2022-07-01T18:51:02.000Z</updated>
-        <summary type="html"><![CDATA[No JavaScript Fingerprinting Experiment]]></summary>
-        <author>
-            <name>favourable</name>
-            <uri>https://news.ycombinator.com/user?id=favourable</uri>
         </author>
     </entry>
 </feed>
