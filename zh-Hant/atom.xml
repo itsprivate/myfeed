@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-03T19:43:51.830Z</updated>
+    <updated>2022-07-03T19:57:49.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HNNotify.xyz: 訂閱你的黑客新聞提要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970303</id>
+        <link href="https://news.ycombinator.com/item?id=31970303"/>
+        <updated>2022-07-03T19:32:09.000Z</updated>
+        <summary type="html"><![CDATA[HNNotify.xyz: Subscribe to Your Hacker News Feed]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misha Katsurin: "父親，我不是在編造這個"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970239</id>
+        <link href="https://news.ycombinator.com/item?id=31970239"/>
+        <updated>2022-07-03T19:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Misha Katsurin: “Father, I am not making this up”]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那麼什麼是美國夢？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jonbaer</name>
             <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是Pozidriv？它與菲利普斯驅動器有何不同？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31956655</id>
-        <link href="https://news.ycombinator.com/item?id=31956655"/>
-        <updated>2022-07-02T06:02:14.000Z</updated>
-        <summary type="html"><![CDATA[What Is Pozidriv? How Does It Differ from a Phillips Drive?]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個類似的推特搜索器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31956633</id>
-        <link href="https://news.ycombinator.com/item?id=31956633"/>
-        <updated>2022-07-02T05:56:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a similar tweet finder]]></summary>
-        <author>
-            <name>leedj</name>
-            <uri>https://news.ycombinator.com/user?id=leedj</uri>
         </author>
     </entry>
 </feed>
