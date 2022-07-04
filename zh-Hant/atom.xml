@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-04T14:32:39.501Z</updated>
+    <updated>2022-07-04T14:46:40.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[藍皮書對Smalltalk-80的實施
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977371</id>
+        <link href="https://news.ycombinator.com/item?id=31977371"/>
+        <updated>2022-07-04T14:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Bluebook Implementation of Smalltalk-80]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客聲稱從警方竊取了10億份中國公民的記錄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977354</id>
+        <link href="https://news.ycombinator.com/item?id=31977354"/>
+        <updated>2022-07-04T14:23:14.000Z</updated>
+        <summary type="html"><![CDATA[Hacker claims to have stolen 1 bln records of Chinese citizens from police]]></summary>
+        <author>
+            <name>dredmorbius</name>
+            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絕望之坑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977213</id>
+        <link href="https://news.ycombinator.com/item?id=31977213"/>
+        <updated>2022-07-04T14:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Pit of Despair]]></summary>
+        <author>
+            <name>bm3719</name>
+            <uri>https://news.ycombinator.com/user?id=bm3719</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fhe.org Meetup：Zama的全同態加密庫的最新更新
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>dantondwa</name>
             <uri>https://news.ycombinator.com/user?id=dantondwa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失蹤的Cryptoqueen：Ruja Ignatova博士是最大的比特幣持有人嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963224</id>
-        <link href="https://news.ycombinator.com/item?id=31963224"/>
-        <updated>2022-07-02T22:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Missing Cryptoqueen: Is Dr Ruja Ignatova the Biggest Bitcoin Holder?]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[函數式編程是一種通用的編程範式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963222</id>
-        <link href="https://news.ycombinator.com/item?id=31963222"/>
-        <updated>2022-07-02T22:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Functional programming is a universal programming paradigm]]></summary>
-        <author>
-            <name>PestoDiRucola</name>
-            <uri>https://news.ycombinator.com/user?id=PestoDiRucola</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重現快速示波器是一個緩慢的過程 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963140</id>
-        <link href="https://news.ycombinator.com/item?id=31963140"/>
-        <updated>2022-07-02T22:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Recreating Fast Oscilloscopes Is a Slow Process (2020)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
