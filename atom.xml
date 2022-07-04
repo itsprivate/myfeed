@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-04T15:32:26.652Z</updated>
+    <updated>2022-07-04T15:52:07.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迁移到monorepo，在这个过程中不破坏一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978111</id>
+        <link href="https://news.ycombinator.com/item?id=31978111"/>
+        <updated>2022-07-04T15:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Migrate to monorepo without breaking everything in the process]]></summary>
+        <author>
+            <name>Dm_Linov</name>
+            <uri>https://news.ycombinator.com/user?id=Dm_Linov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理Kubernetes而不失去冷静
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977913</id>
+        <link href="https://news.ycombinator.com/item?id=31977913"/>
+        <updated>2022-07-04T15:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Managing Kubernetes without loosing your cool]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴尔的摩旗帜》正式启动，计划将记者人数扩大到70人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977892</id>
+        <link href="https://news.ycombinator.com/item?id=31977892"/>
+        <updated>2022-07-04T15:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Baltimore Banner officially launches, plans to expand to 70 journalists]]></summary>
+        <author>
+            <name>dredmorbius</name>
+            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗默法则
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977885</id>
+        <link href="https://news.ycombinator.com/item?id=31977885"/>
+        <updated>2022-07-04T15:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Roemer's Law]]></summary>
+        <author>
+            <name>IdealeZahlen</name>
+            <uri>https://news.ycombinator.com/user?id=IdealeZahlen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单元和集成测试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977543</id>
+        <link href="https://news.ycombinator.com/item?id=31977543"/>
+        <updated>2022-07-04T14:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Unit and Integration Tests]]></summary>
+        <author>
+            <name>mmazzarolo</name>
+            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五月花号自主船完成了历史性的大西洋航行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976670</id>
+        <link href="https://news.ycombinator.com/item?id=31976670"/>
+        <updated>2022-07-04T13:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Mayflower Autonomous Ship Completes Historic Atlantic Crossing]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事情真的那么糟糕吗？事实上，没有
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>Ruq</name>
             <uri>https://news.ycombinator.com/user?id=Ruq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不讲道理的人是偏执狂 (2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963474</id>
-        <link href="https://news.ycombinator.com/item?id=31963474"/>
-        <updated>2022-07-02T23:28:49.000Z</updated>
-        <summary type="html"><![CDATA[He, Who Will Not Reason, Is a Bigot (2018)]]></summary>
-        <author>
-            <name>idleproc</name>
-            <uri>https://news.ycombinator.com/user?id=idleproc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子超导电路的经典模拟
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963471</id>
-        <link href="https://news.ycombinator.com/item?id=31963471"/>
-        <updated>2022-07-02T23:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Classical Simulation of Quantum Supremacy Circuits]]></summary>
-        <author>
-            <name>zackmorris</name>
-            <uri>https://news.ycombinator.com/user?id=zackmorris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randoop: 自动生成Java的单元测试
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963295</id>
-        <link href="https://news.ycombinator.com/item?id=31963295"/>
-        <updated>2022-07-02T23:02:37.000Z</updated>
-        <summary type="html"><![CDATA[Randoop: Automatic unit test generation for Java]]></summary>
-        <author>
-            <name>codegladiator</name>
-            <uri>https://news.ycombinator.com/user?id=codegladiator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学与公民自由。卡尔-萨根丢失的ACLU讲座
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963184</id>
-        <link href="https://news.ycombinator.com/item?id=31963184"/>
-        <updated>2022-07-02T22:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Science and Civil Liberties: The Lost ACLU Lecture of Carl Sagan]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你最喜欢的、不得不关闭的创业公司是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963163</id>
-        <link href="https://news.ycombinator.com/item?id=31963163"/>
-        <updated>2022-07-02T22:45:05.000Z</updated>
-        <summary type="html"><![CDATA[What's the startup that you liked the most that had to shut down?]]></summary>
-        <author>
-            <name>alexvomwald</name>
-            <uri>https://news.ycombinator.com/user?id=alexvomwald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[执行6个月任务的宇航员的骨质流失相当于地球上的20年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963597</id>
-        <link href="https://news.ycombinator.com/item?id=31963597"/>
-        <updated>2022-07-02T23:47:44.000Z</updated>
-        <summary type="html"><![CDATA[Astronauts on 6 month mission experience bone loss equal to two decades on Earth]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
