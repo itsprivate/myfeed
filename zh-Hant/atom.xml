@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-04T21:46:55.186Z</updated>
+    <updated>2022-07-04T21:58:28.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一名黑客正在出售涉嫌從警方竊取的1B名中國公民的信息。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982072</id>
+        <link href="https://news.ycombinator.com/item?id=31982072"/>
+        <updated>2022-07-04T21:45:45.000Z</updated>
+        <summary type="html"><![CDATA[A hacker is selling an alleged 1B Chinese citizens' infor stolen from police]]></summary>
+        <author>
+            <name>luispa</name>
+            <uri>https://news.ycombinator.com/user?id=luispa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Kernel vs. DPDK：HTTP性能對決
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982026</id>
+        <link href="https://news.ycombinator.com/item?id=31982026"/>
+        <updated>2022-07-04T21:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Linux Kernel vs. DPDK: HTTP Performance Showdown]]></summary>
+        <author>
+            <name>talawahtech</name>
+            <uri>https://news.ycombinator.com/user?id=talawahtech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搖滾樂隊的音樂在離開幾個月後回到Spotify，以抗議喬-羅根的做法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982005</id>
+        <link href="https://news.ycombinator.com/item?id=31982005"/>
+        <updated>2022-07-04T21:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Rock group's music returns to Spotify months after leaving to protest Joe Rogan]]></summary>
+        <author>
+            <name>RickJWagner</name>
+            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tersho，AI驅動的公式生成器和谷歌表的解釋器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>adwn</name>
             <uri>https://news.ycombinator.com/user?id=adwn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪裡有屍體，哪裡就有寶藏"。米德湖萎縮時的狩獵
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966897</id>
-        <link href="https://news.ycombinator.com/item?id=31966897"/>
-        <updated>2022-07-03T11:30:20.000Z</updated>
-        <summary type="html"><![CDATA[‘Where there’s bodies, there’s treasure’: A hunt as Lake Mead shrinks]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動物做什麼夢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966884</id>
-        <link href="https://news.ycombinator.com/item?id=31966884"/>
-        <updated>2022-07-03T11:27:57.000Z</updated>
-        <summary type="html"><![CDATA[What Do Animals Dream?]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3-D打印的發展超越了其新奇的根源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966802</id>
-        <link href="https://news.ycombinator.com/item?id=31966802"/>
-        <updated>2022-07-03T11:11:05.000Z</updated>
-        <summary type="html"><![CDATA[3-D Printing Grows Beyond Its Novelty Roots]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
