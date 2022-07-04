@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-04T11:51:46.259Z</updated>
+    <updated>2022-07-04T11:57:19.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[警方的网络警报使用了惊人的加密技术
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31975914</id>
+        <link href="https://news.ycombinator.com/item?id=31975914"/>
+        <updated>2022-07-04T11:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Police CyberAlarm Uses Alarming Cryptography]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X窗口系统刚满38岁：倒下了但还没有走到尽头
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gumby</name>
             <uri>https://news.ycombinator.com/user?id=gumby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯封锁国际象棋网站的访问
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31962345</id>
-        <link href="https://news.ycombinator.com/item?id=31962345"/>
-        <updated>2022-07-02T20:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Russia Blocks Access to Chess.com]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
         </author>
     </entry>
 </feed>
