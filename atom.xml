@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-04T08:36:31.053Z</updated>
+    <updated>2022-07-04T08:59:27.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个简单的网络托管平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974819</id>
+        <link href="https://news.ycombinator.com/item?id=31974819"/>
+        <updated>2022-07-04T08:30:42.000Z</updated>
+        <summary type="html"><![CDATA[I built a simple webhosting platform]]></summary>
+        <author>
+            <name>canvayio</name>
+            <uri>https://news.ycombinator.com/user?id=canvayio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com对充值卡增加了费用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974680</id>
+        <link href="https://news.ycombinator.com/item?id=31974680"/>
+        <updated>2022-07-04T08:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Crypto.com added fee to top up cards]]></summary>
+        <author>
+            <name>dom9301k</name>
+            <uri>https://news.ycombinator.com/user?id=dom9301k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Raspberry Pi、Rust和13Mb Linux系统监控车库门
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>seibelj</name>
             <uri>https://news.ycombinator.com/user?id=seibelj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2017年以来建造的31个反应堆中，有27个是俄罗斯或中国的设计
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960688</id>
-        <link href="https://news.ycombinator.com/item?id=31960688"/>
-        <updated>2022-07-02T17:08:11.000Z</updated>
-        <summary type="html"><![CDATA[27 out of 31 reactors being built since 2017 are Russian or Chinese designs]]></summary>
-        <author>
-            <name>aleyan</name>
-            <uri>https://news.ycombinator.com/user?id=aleyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花卉是如何在漫长的海上航行中 "进入睡眠状态 "的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960758</id>
-        <link href="https://news.ycombinator.com/item?id=31960758"/>
-        <updated>2022-07-02T17:18:24.000Z</updated>
-        <summary type="html"><![CDATA[How flowers are 'put to sleep' for long sea voyages]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
