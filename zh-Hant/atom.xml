@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T07:44:31.621Z</updated>
+    <updated>2022-07-05T07:57:57.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比爾-蓋茨在網上分享他的舊履歷
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985442</id>
+        <link href="https://news.ycombinator.com/item?id=31985442"/>
+        <updated>2022-07-05T07:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Bill Gates Shares His Old Resume Online]]></summary>
+        <author>
+            <name>exz</name>
+            <uri>https://news.ycombinator.com/user?id=exz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他退學後成為一名詩人。現在他獲得了菲爾茲獎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985400</id>
+        <link href="https://news.ycombinator.com/item?id=31985400"/>
+        <updated>2022-07-05T07:31:34.000Z</updated>
+        <summary type="html"><![CDATA[He Dropped Out to Become a Poet. Now He’s Won a Fields Medal]]></summary>
+        <author>
+            <name>digital55</name>
+            <uri>https://news.ycombinator.com/user?id=digital55</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌強大的人工智能點亮了人類的認知缺陷
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>carlcarrie</name>
             <uri>https://news.ycombinator.com/user?id=carlcarrie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自主團隊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969796</id>
-        <link href="https://news.ycombinator.com/item?id=31969796"/>
-        <updated>2022-07-03T18:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous Teams]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工具並不能解決網絡的問題，它們就是問題所在 - QuirksBlog
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969655</id>
-        <link href="https://news.ycombinator.com/item?id=31969655"/>
-        <updated>2022-07-03T18:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Tools don’t solve the web’s problems, they ARE the problem – QuirksBlog]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
         </author>
     </entry>
 </feed>
