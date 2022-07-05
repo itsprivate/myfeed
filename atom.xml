@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T22:47:35.562Z</updated>
+    <updated>2022-07-05T22:59:16.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具体的ML：将机器学习模型转化为同态的等价物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994695</id>
+        <link href="https://news.ycombinator.com/item?id=31994695"/>
+        <updated>2022-07-05T22:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Concrete ML: transform machine learning models into a homomorphic equivalent]]></summary>
+        <author>
+            <name>jameshskelton</name>
+            <uri>https://news.ycombinator.com/user?id=jameshskelton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过互动演练、视频和练习题学习CS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994676</id>
+        <link href="https://news.ycombinator.com/item?id=31994676"/>
+        <updated>2022-07-05T22:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Learn CS with interactive walkthroughs, videos, and practice problems]]></summary>
+        <author>
+            <name>jdcampolargo</name>
+            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桌面环境的比较（简短版）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994668</id>
+        <link href="https://news.ycombinator.com/item?id=31994668"/>
+        <updated>2022-07-05T22:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Comparison of Desktop Environments (short version)]]></summary>
+        <author>
+            <name>rc00</name>
+            <uri>https://news.ycombinator.com/user?id=rc00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广告公司正与美国运营商合作，接管你的锁屏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994662</id>
+        <link href="https://news.ycombinator.com/item?id=31994662"/>
+        <updated>2022-07-05T22:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Ad company is teaming up with US carriers to take over your lock screen]]></summary>
+        <author>
+            <name>CharlesW</name>
+            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田在混合动力车上用完了所有的电动车税收优惠
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994506</id>
+        <link href="https://news.ycombinator.com/item?id=31994506"/>
+        <updated>2022-07-05T22:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Toyota used up all its EV tax credits on hybrids]]></summary>
+        <author>
+            <name>thesecretceo</name>
+            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创》改变了电影
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994468</id>
+        <link href="https://news.ycombinator.com/item?id=31994468"/>
+        <updated>2022-07-05T22:19:41.000Z</updated>
+        <summary type="html"><![CDATA['Tron' Changed Cinema]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lurk - 受普通Lisp和Scheme启发的递归ZK-SNARKs语言
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>amrrs</name>
             <uri>https://news.ycombinator.com/user?id=amrrs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币危机造成广告真空
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979536</id>
-        <link href="https://news.ycombinator.com/item?id=31979536"/>
-        <updated>2022-07-04T17:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Crypto crisis has created an advertising vacuum]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撤稿观察数据库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979504</id>
-        <link href="https://news.ycombinator.com/item?id=31979504"/>
-        <updated>2022-07-04T17:19:02.000Z</updated>
-        <summary type="html"><![CDATA[The Retraction Watch Database]]></summary>
-        <author>
-            <name>rq1</name>
-            <uri>https://news.ycombinator.com/user?id=rq1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对撤稿论文的跨平台关注动态
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979489</id>
-        <link href="https://news.ycombinator.com/item?id=31979489"/>
-        <updated>2022-07-04T17:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics of cross-platform attention to retracted papers]]></summary>
-        <author>
-            <name>rq1</name>
-            <uri>https://news.ycombinator.com/user?id=rq1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UIs不是模型的纯粹功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979347</id>
-        <link href="https://news.ycombinator.com/item?id=31979347"/>
-        <updated>2022-07-04T17:07:45.000Z</updated>
-        <summary type="html"><![CDATA[UIs are not pure functions of the model]]></summary>
-        <author>
-            <name>b3morales</name>
-            <uri>https://news.ycombinator.com/user?id=b3morales</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jami - 又一个 "做得好 "的开源信使评论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979315</id>
-        <link href="https://news.ycombinator.com/item?id=31979315"/>
-        <updated>2022-07-04T17:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Jami – Yet Another Open Source Messenger “Done Right” Review]]></summary>
-        <author>
-            <name>nxss</name>
-            <uri>https://news.ycombinator.com/user?id=nxss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[钥匙
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979273</id>
-        <link href="https://news.ycombinator.com/item?id=31979273"/>
-        <updated>2022-07-04T17:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Passkeys]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
