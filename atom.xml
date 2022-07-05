@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T09:48:03.097Z</updated>
+    <updated>2022-07-05T10:00:21.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约州为孤独的长者购买机器人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985782</id>
+        <link href="https://news.ycombinator.com/item?id=31985782"/>
+        <updated>2022-07-05T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[New York state buys robots for lonely elders]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防止另一个 "哈德逊河上的奇迹 "的紧急情况（2019年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984863</id>
+        <link href="https://news.ycombinator.com/item?id=31984863"/>
+        <updated>2022-07-05T06:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Preventing another 'Miracle on the Hudson' emergency (2019)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联邦快递将关闭数据中心，到2024年退休所有主机，节省4亿美元
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于改进的LSB算法的SVG图像的新隐写方法(2019) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970614</id>
-        <link href="https://news.ycombinator.com/item?id=31970614"/>
-        <updated>2022-07-03T20:11:38.000Z</updated>
-        <summary type="html"><![CDATA[New Steganography Method for SVG Images Based on Improved LSB Algorithm (2019) [pdf]]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标签式浏览：为糟糕的浏览器状态管理提供糟糕的创可贴（2014）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970630</id>
-        <link href="https://news.ycombinator.com/item?id=31970630"/>
-        <updated>2022-07-03T20:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Tabbed browsing: a lousy band-aid over poor browser state management (2014)]]></summary>
-        <author>
-            <name>dredmorbius</name>
-            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
         </author>
     </entry>
 </feed>
