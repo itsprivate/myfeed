@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T23:47:45.234Z</updated>
+    <updated>2022-07-05T23:59:34.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FDA将批准重新设计的Covid助推器而不要求提供数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31995171</id>
+        <link href="https://news.ycombinator.com/item?id=31995171"/>
+        <updated>2022-07-05T23:51:32.000Z</updated>
+        <summary type="html"><![CDATA[FDA to approve redesigned Covid boosters without requiring data]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最强大的潮汐涡轮机刚刚获得重大资金支持
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nassimsoftware</name>
             <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客声称已获得1B名中国公民的数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31980101</id>
-        <link href="https://news.ycombinator.com/item?id=31980101"/>
-        <updated>2022-07-04T18:07:48.000Z</updated>
-        <summary type="html"><![CDATA[Hacker claims to have obtained data on 1B Chinese citizens]]></summary>
-        <author>
-            <name>pauldelany</name>
-            <uri>https://news.ycombinator.com/user?id=pauldelany</uri>
         </author>
     </entry>
 </feed>
