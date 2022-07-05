@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T11:46:53.316Z</updated>
+    <updated>2022-07-05T11:57:41.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[死钥匙
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986709</id>
+        <link href="https://news.ycombinator.com/item?id=31986709"/>
+        <updated>2022-07-05T11:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Dead Keys]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回家"：洪都拉斯社区与隐性殖民者抗争
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986192</id>
+        <link href="https://news.ycombinator.com/item?id=31986192"/>
+        <updated>2022-07-05T09:36:36.000Z</updated>
+        <summary type="html"><![CDATA[‘Go home’: Honduran community fights against crypto colonialists]]></summary>
+        <author>
+            <name>nickcotter</name>
+            <uri>https://news.ycombinator.com/user?id=nickcotter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用小组测试来节省CI资源
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>forestgnme</name>
             <uri>https://news.ycombinator.com/user?id=forestgnme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度禁止获得普利策奖的克什米尔摄影记者飞往法国
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971079</id>
-        <link href="https://news.ycombinator.com/item?id=31971079"/>
-        <updated>2022-07-03T21:13:37.000Z</updated>
-        <summary type="html"><![CDATA[India bars Pulitzer-winning Kashmiri photojournalist from flying to France]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小心绑在你手腕上的催眠剂
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971315</id>
-        <link href="https://news.ycombinator.com/item?id=31971315"/>
-        <updated>2022-07-03T21:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Beware That Nocebo Strapped to Your Wrist]]></summary>
-        <author>
-            <name>mdeck_</name>
-            <uri>https://news.ycombinator.com/user?id=mdeck_</uri>
         </author>
     </entry>
 </feed>
