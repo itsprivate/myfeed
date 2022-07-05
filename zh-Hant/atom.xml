@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-05T05:39:11.192Z</updated>
+    <updated>2022-07-05T05:57:37.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你喜歡你的經理是技術性的還是非技術性的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984523</id>
+        <link href="https://news.ycombinator.com/item?id=31984523"/>
+        <updated>2022-07-05T05:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Do you prefer your manager to be technical or non technical?]]></summary>
+        <author>
+            <name>youngmind</name>
+            <uri>https://news.ycombinator.com/user?id=youngmind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battleflows.com - 基於XBattle的多人策略
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984456</id>
+        <link href="https://news.ycombinator.com/item?id=31984456"/>
+        <updated>2022-07-05T04:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Battleflows.com – Multiplayer strategy based on XBattle]]></summary>
+        <author>
+            <name>spacetraveler11</name>
+            <uri>https://news.ycombinator.com/user?id=spacetraveler11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人民的進步》(Populorum Progressio) (1967)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>young_mete</name>
             <uri>https://news.ycombinator.com/user?id=young_mete</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何對意外的醫療賬單提出異議
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969545</id>
-        <link href="https://news.ycombinator.com/item?id=31969545"/>
-        <updated>2022-07-03T17:50:13.000Z</updated>
-        <summary type="html"><![CDATA[How to dispute surprise medical bills]]></summary>
-        <author>
-            <name>vwoolf</name>
-            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衛星現在可以找到甲烷洩漏的來源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969505</id>
-        <link href="https://news.ycombinator.com/item?id=31969505"/>
-        <updated>2022-07-03T17:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Satellites can now find the sources of methane leaks]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
         </author>
     </entry>
 </feed>
