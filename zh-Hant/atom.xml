@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-06T23:29:04.941Z</updated>
+    <updated>2022-07-06T23:46:01.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Windows Phone是一個70億美元的失敗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32008194</id>
+        <link href="https://news.ycombinator.com/item?id=32008194"/>
+        <updated>2022-07-06T23:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Why Windows Phone Was a $7B Failure]]></summary>
+        <author>
+            <name>randop</name>
+            <uri>https://news.ycombinator.com/user?id=randop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDoS分析 - 7k IPs每秒產生30k個請求
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32007956</id>
+        <link href="https://news.ycombinator.com/item?id=32007956"/>
+        <updated>2022-07-06T23:01:02.000Z</updated>
+        <summary type="html"><![CDATA[DDoS analysis – 7k IPs generating 30k requests per second]]></summary>
+        <author>
+            <name>rmdoss</name>
+            <uri>https://news.ycombinator.com/user?id=rmdoss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鮑里斯-約翰遜的政府正在自我瓦解
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>firloop</name>
             <uri>https://news.ycombinator.com/user?id=firloop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五個開源社區是如何使用GitHub討論的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993380</id>
-        <link href="https://news.ycombinator.com/item?id=31993380"/>
-        <updated>2022-07-05T20:37:15.000Z</updated>
-        <summary type="html"><![CDATA[How Five open source communities are using GitHub Discussions]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否可以在互聯網上建立新的國家？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993250</id>
-        <link href="https://news.ycombinator.com/item?id=31993250"/>
-        <updated>2022-07-05T20:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Could new countries be founded – on the internet?]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
