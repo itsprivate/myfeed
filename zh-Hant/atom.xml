@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-07T07:46:43.825Z</updated>
+    <updated>2022-07-07T07:58:29.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[擴展Causal的電子表格引擎。從地圖到數組
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010750</id>
+        <link href="https://news.ycombinator.com/item?id=32010750"/>
+        <updated>2022-07-07T07:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Scaling Causal's Spreadsheet Engine: From Maps to Arrays]]></summary>
+        <author>
+            <name>r4um</name>
+            <uri>https://news.ycombinator.com/user?id=r4um</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LeCun的2022年關於自主機器智能的論文沒有引用先前的工作
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Jangssi</name>
             <uri>https://news.ycombinator.com/user?id=Jangssi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要治癒焦慮症，就不要把它當成一種疾病
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31995981</id>
-        <link href="https://news.ycombinator.com/item?id=31995981"/>
-        <updated>2022-07-06T02:07:10.000Z</updated>
-        <summary type="html"><![CDATA[To Heal Anxiety, Stop Thinking of It as a Disease]]></summary>
-        <author>
-            <name>fairytalemtg</name>
-            <uri>https://news.ycombinator.com/user?id=fairytalemtg</uri>
         </author>
     </entry>
 </feed>
