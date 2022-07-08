@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-08T18:55:50.188Z</updated>
+    <updated>2022-07-08T20:33:05.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["简氏》和支持堕胎的想象力的力量
+]]></title>
+        <id>https://www.newyorker.com/culture/on-television/the-janes-and-the-power-of-pro-abortion-imagery</id>
+        <link href="https://www.newyorker.com/culture/on-television/the-janes-and-the-power-of-pro-abortion-imagery"/>
+        <updated>2022-07-08T20:09:14.000Z</updated>
+        <summary type="html"><![CDATA[“The Janes” and the Power of Pro-Abortion Imagery]]></summary>
+        <author>
+            <name>Doreen St. Félix</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试提交
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Yamy</name>
             <uri>https://news.ycombinator.com/user?id=Yamy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件开发中的远程工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011730</id>
-        <link href="https://news.ycombinator.com/item?id=32011730"/>
-        <updated>2022-07-07T09:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Remote Working in Software Development]]></summary>
-        <author>
-            <name>annilc</name>
-            <uri>https://news.ycombinator.com/user?id=annilc</uri>
         </author>
     </entry>
 </feed>
