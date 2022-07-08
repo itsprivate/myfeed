@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-08T15:31:20.833Z</updated>
+    <updated>2022-07-08T16:44:01.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么松鼠可爱而老鼠恶心？
+]]></title>
+        <id>https://www.theatlantic.com/science/archive/2022/07/squirrel-vs-rat-rodent-differences/661526/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2022/07/squirrel-vs-rat-rodent-differences/661526/?utm_source=feed"/>
+        <updated>2022-07-08T15:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Why Are Squirrels Cute and Rats Gross?]]></summary>
+        <author>
+            <name>Jacob Stern</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迈克尔-弗林的情况如何？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预计鲍里斯-约翰逊今天将辞去总理职务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011370</id>
-        <link href="https://news.ycombinator.com/item?id=32011370"/>
-        <updated>2022-07-07T08:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Boris Johnson is expected to resign as prime minister today]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
