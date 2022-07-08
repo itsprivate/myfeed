@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-08T14:47:22.485Z</updated>
+    <updated>2022-07-08T15:31:20.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邁克爾-弗林的情況如何？
+]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2022/07/michael-flynn-conspiracy-theories-january-6-trump/661439/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2022/07/michael-flynn-conspiracy-theories-january-6-trump/661439/?utm_source=feed"/>
+        <updated>2022-07-08T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[What Happened to Michael Flynn?]]></summary>
+        <author>
+            <name>Barton Gellman</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特已準備好與埃隆-馬斯克進行潛在的法律鬥爭
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid疫苗。疫苗可以針對新的變種進行更新 - 免疫學解釋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010962</id>
-        <link href="https://news.ycombinator.com/item?id=32010962"/>
-        <updated>2022-07-07T07:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Covid Vaccines: Shots could be updated target new Variants – Immunology Explains]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
         </author>
     </entry>
 </feed>
