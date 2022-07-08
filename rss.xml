@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客新闻瘫痪了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32023848</link>
+            <guid>https://news.ycombinator.com/item?id=32023848</guid>
+            <pubDate>Fri, 08 Jul 2022 07:21:50 GMT</pubDate>
+            <description><![CDATA[Hacker News Was Down]]></description>
+        </item>
         <item>
             <title><![CDATA[微软对Linux的控制日益加强
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32009009</guid>
             <pubDate>Thu, 07 Jul 2022 01:37:34 GMT</pubDate>
             <description><![CDATA[Life Stats]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术会议和聚会的女性发言人
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32009002</link>
-            <guid>https://news.ycombinator.com/item?id=32009002</guid>
-            <pubDate>Thu, 07 Jul 2022 01:36:51 GMT</pubDate>
-            <description><![CDATA[Women speakers for tech conferences and meetups]]></description>
         </item>
     </channel>
 </rss>
