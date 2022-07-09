@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-09T17:33:57.074Z</updated>
+    <updated>2022-07-09T17:47:30.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火星殖民将永远不会发生
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037413</id>
+        <link href="https://news.ycombinator.com/item?id=32037413"/>
+        <updated>2022-07-09T17:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Mars Colonization Will Never Happen]]></summary>
+        <author>
+            <name>shubhamjain</name>
+            <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监测微小的网络服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037356</id>
+        <link href="https://news.ycombinator.com/item?id=32037356"/>
+        <updated>2022-07-09T17:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Monitoring Tiny Web Services]]></summary>
+        <author>
+            <name>mfrw</name>
+            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特收购的通讯服务Revue倒下了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037126</id>
+        <link href="https://news.ycombinator.com/item?id=32037126"/>
+        <updated>2022-07-09T17:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Revue, Twitter’s acquired newsletter service, down]]></summary>
+        <author>
+            <name>nickcotter</name>
+            <uri>https://news.ycombinator.com/user?id=nickcotter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么在Rust中需要显式生命期？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国人仍然认为炒房可以赚钱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32022015</id>
-        <link href="https://news.ycombinator.com/item?id=32022015"/>
-        <updated>2022-07-08T01:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Americans still think they can make money flipping houses]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党提议对收入超过50万美元的夫妇加税
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32022009</id>
-        <link href="https://news.ycombinator.com/item?id=32022009"/>
-        <updated>2022-07-08T01:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Dems propose raising taxes on couples making more than $500k]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不正常和有罪不罚。旧金山的解体
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021967</id>
-        <link href="https://news.ycombinator.com/item?id=32021967"/>
-        <updated>2022-07-08T01:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Anomie and Impunity: The Unraveling of San Francisco]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
