@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-09T19:44:55.667Z</updated>
+    <updated>2022-07-09T19:58:06.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克-推特的传奇故事现在转到了法院
+]]></title>
+        <id>https://www.nytimes.com/2022/07/09/technology/twitter-elon-musk-lawsuit.html</id>
+        <link href="https://www.nytimes.com/2022/07/09/technology/twitter-elon-musk-lawsuit.html"/>
+        <updated>2022-07-09T19:51:44.000Z</updated>
+        <summary type="html"><![CDATA[The Elon Musk-Twitter Saga Now Moves to the Courts]]></summary>
+        <author>
+            <name>Lauren Hirsch and Kate Conger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什么导致所有这些标识看起来都一样？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038615</id>
+        <link href="https://news.ycombinator.com/item?id=32038615"/>
+        <updated>2022-07-09T19:47:44.000Z</updated>
+        <summary type="html"><![CDATA[What’s causing all of these logos to look the same?]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源的CaiT实施
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038570</id>
+        <link href="https://news.ycombinator.com/item?id=32038570"/>
+        <updated>2022-07-09T19:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Open-Source CaiT Implementation]]></summary>
+        <author>
+            <name>EnricoShippole</name>
+            <uri>https://news.ycombinator.com/user?id=EnricoShippole</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络钓鱼：它也可能发生在你身上
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>Alan Taylor</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国火箭在发射后几秒钟就爆炸了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023557</id>
-        <link href="https://news.ycombinator.com/item?id=32023557"/>
-        <updated>2022-07-08T05:18:17.000Z</updated>
-        <summary type="html"><![CDATA[American rocket explodes seconds after launch]]></summary>
-        <author>
-            <name>Ice_cream_suit</name>
-            <uri>https://news.ycombinator.com/user?id=Ice_cream_suit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[领先的数据科学认证将在2022年成为王牌
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023466</id>
-        <link href="https://news.ycombinator.com/item?id=32023466"/>
-        <updated>2022-07-08T05:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Leading Data Science Certifications to Ace in 2022]]></summary>
-        <author>
-            <name>luciaadams</name>
-            <uri>https://news.ycombinator.com/user?id=luciaadams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软收回默认阻止Office宏的决定
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023447</id>
-        <link href="https://news.ycombinator.com/item?id=32023447"/>
-        <updated>2022-07-08T05:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft rolls back decision to block Office macros by default]]></summary>
-        <author>
-            <name>LordAtlas</name>
-            <uri>https://news.ycombinator.com/user?id=LordAtlas</uri>
         </author>
     </entry>
 </feed>
