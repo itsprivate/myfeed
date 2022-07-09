@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 09 Jul 2022 10:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 10:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Emacs Lisp函數便於BibTeX記錄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32033482</link>
+            <guid>https://news.ycombinator.com/item?id=32033482</guid>
+            <pubDate>Sat, 09 Jul 2022 09:55:03 GMT</pubDate>
+            <description><![CDATA[Emacs Lisp Functions for Easy BibTeX Recording]]></description>
+        </item>
         <item>
             <title><![CDATA[克拉倫斯-托馬斯的自我實現的預言
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32017868</guid>
             <pubDate>Thu, 07 Jul 2022 18:59:39 GMT</pubDate>
             <description><![CDATA[DHS workers indicted for trying to silence China critics in the US]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AI4Science為科學發現的第五範式賦能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32017835</link>
-            <guid>https://news.ycombinator.com/item?id=32017835</guid>
-            <pubDate>Thu, 07 Jul 2022 18:55:50 GMT</pubDate>
-            <description><![CDATA[AI4Science to empower the fifth paradigm of scientific discovery]]></description>
         </item>
     </channel>
 </rss>
