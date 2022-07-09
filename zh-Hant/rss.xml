@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 09 Jul 2022 05:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自動Regex
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032134</link>
+            <guid>https://news.ycombinator.com/item?id=32032134</guid>
+            <pubDate>Sat, 09 Jul 2022 05:41:04 GMT</pubDate>
+            <description><![CDATA[AutoRegex]]></description>
+        </item>
+        <item>
+            <title><![CDATA[納粹帕格 - 最後的更新
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032130</link>
+            <guid>https://news.ycombinator.com/item?id=32032130</guid>
+            <pubDate>Sat, 09 Jul 2022 05:40:45 GMT</pubDate>
+            <description><![CDATA[Nazi Pug – The Final Update]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fo: 一種實驗性的語言，為Go增加了函數式編程的特性
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32031779</link>
+            <guid>https://news.ycombinator.com/item?id=32031779</guid>
+            <pubDate>Sat, 09 Jul 2022 04:43:36 GMT</pubDate>
+            <description><![CDATA[Fo: An experimental language which adds functional programming features to Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開發模板--用一個命令建立你的整個項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32030504</link>
+            <guid>https://news.ycombinator.com/item?id=32030504</guid>
+            <pubDate>Sat, 09 Jul 2022 01:46:43 GMT</pubDate>
+            <description><![CDATA[Dev Template – Build your entire project with one command]]></description>
+        </item>
         <item>
             <title><![CDATA[我是一名天體物理學家。我也是一個基督徒
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32016548</guid>
             <pubDate>Thu, 07 Jul 2022 17:05:46 GMT</pubDate>
             <description><![CDATA[And 2 and 3 and 4 and 5 and ∞ = -1/12]]></description>
-        </item>
-        <item>
-            <title><![CDATA[存款的鍊金術
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32016449</link>
-            <guid>https://news.ycombinator.com/item?id=32016449</guid>
-            <pubDate>Thu, 07 Jul 2022 16:57:58 GMT</pubDate>
-            <description><![CDATA[The Alchemy of Deposits]]></description>
-        </item>
-        <item>
-            <title><![CDATA[毫無意義的Chrome擴展程序，如果它與regex匹配，會使Twitter圖片旋轉
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32016367</link>
-            <guid>https://news.ycombinator.com/item?id=32016367</guid>
-            <pubDate>Thu, 07 Jul 2022 16:51:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我對桌面應用的迴歸
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32016322</link>
-            <guid>https://news.ycombinator.com/item?id=32016322</guid>
-            <pubDate>Thu, 07 Jul 2022 16:47:36 GMT</pubDate>
-            <description><![CDATA[My Return to Desktop Applications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼空的（可執行的）文件在Unix中通常是真實的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32016219</link>
-            <guid>https://news.ycombinator.com/item?id=32016219</guid>
-            <pubDate>Thu, 07 Jul 2022 16:39:55 GMT</pubDate>
-            <description><![CDATA[Why an empty (executable) file is generally true in Unix]]></description>
         </item>
     </channel>
 </rss>

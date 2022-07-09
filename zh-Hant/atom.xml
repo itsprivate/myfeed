@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-09T05:45:15.439Z</updated>
+    <updated>2022-07-09T05:57:34.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自動Regex
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032134</id>
+        <link href="https://news.ycombinator.com/item?id=32032134"/>
+        <updated>2022-07-09T05:41:04.000Z</updated>
+        <summary type="html"><![CDATA[AutoRegex]]></summary>
+        <author>
+            <name>fbuilesv</name>
+            <uri>https://news.ycombinator.com/user?id=fbuilesv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[納粹帕格 - 最後的更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032130</id>
+        <link href="https://news.ycombinator.com/item?id=32032130"/>
+        <updated>2022-07-09T05:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Nazi Pug – The Final Update]]></summary>
+        <author>
+            <name>timonoko</name>
+            <uri>https://news.ycombinator.com/user?id=timonoko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fo: 一種實驗性的語言，為Go增加了函數式編程的特性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031779</id>
+        <link href="https://news.ycombinator.com/item?id=32031779"/>
+        <updated>2022-07-09T04:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Fo: An experimental language which adds functional programming features to Go]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發模板--用一個命令建立你的整個項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32030504</id>
+        <link href="https://news.ycombinator.com/item?id=32030504"/>
+        <updated>2022-07-09T01:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Dev Template – Build your entire project with one command]]></summary>
+        <author>
+            <name>Theryston</name>
+            <uri>https://news.ycombinator.com/user?id=Theryston</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是一名天體物理學家。我也是一個基督徒
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>superasn</name>
             <uri>https://news.ycombinator.com/user?id=superasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[存款的鍊金術
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016449</id>
-        <link href="https://news.ycombinator.com/item?id=32016449"/>
-        <updated>2022-07-07T16:57:58.000Z</updated>
-        <summary type="html"><![CDATA[The Alchemy of Deposits]]></summary>
-        <author>
-            <name>smitop</name>
-            <uri>https://news.ycombinator.com/user?id=smitop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毫無意義的Chrome擴展程序，如果它與regex匹配，會使Twitter圖片旋轉
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016367</id>
-        <link href="https://news.ycombinator.com/item?id=32016367"/>
-        <updated>2022-07-07T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex]]></summary>
-        <author>
-            <name>kinoro</name>
-            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我對桌面應用的迴歸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016322</id>
-        <link href="https://news.ycombinator.com/item?id=32016322"/>
-        <updated>2022-07-07T16:47:36.000Z</updated>
-        <summary type="html"><![CDATA[My Return to Desktop Applications]]></summary>
-        <author>
-            <name>samemail88</name>
-            <uri>https://news.ycombinator.com/user?id=samemail88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼空的（可執行的）文件在Unix中通常是真實的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016219</id>
-        <link href="https://news.ycombinator.com/item?id=32016219"/>
-        <updated>2022-07-07T16:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Why an empty (executable) file is generally true in Unix]]></summary>
-        <author>
-            <name>cratermoon</name>
-            <uri>https://news.ycombinator.com/user?id=cratermoon</uri>
         </author>
     </entry>
 </feed>

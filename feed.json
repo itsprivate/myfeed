@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32032134",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32032134",
+            "title": "自动Regex\n",
+            "summary": "AutoRegex",
+            "date_modified": "2022-07-09T05:41:04.000Z",
+            "author": {
+                "name": "fbuilesv",
+                "url": "https://news.ycombinator.com/user?id=fbuilesv"
+            },
+            "_original_headline": "AutoRegex",
+            "_original_url": "https://www.autoregex.xyz",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32032130",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32032130",
+            "title": "纳粹帕格 - 最后的更新\n",
+            "summary": "Nazi Pug – The Final Update",
+            "date_modified": "2022-07-09T05:40:45.000Z",
+            "author": {
+                "name": "timonoko",
+                "url": "https://news.ycombinator.com/user?id=timonoko"
+            },
+            "_original_headline": "Nazi Pug – The Final Update",
+            "_original_url": "https://www.youtube.com/watch?v=89nzxZpNb4E",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32031779",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32031779",
+            "title": "Fo: 一种实验性的语言，为Go增加了函数式编程的特性\n",
+            "summary": "Fo: An experimental language which adds functional programming features to Go",
+            "date_modified": "2022-07-09T04:43:36.000Z",
+            "author": {
+                "name": "philonoist",
+                "url": "https://news.ycombinator.com/user?id=philonoist"
+            },
+            "_original_headline": "Fo: An experimental language which adds functional programming features to Go",
+            "_original_url": "https://github.com/albrow/fo",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32030504",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32030504",
+            "title": "开发模板--用一个命令建立你的整个项目\n",
+            "summary": "Dev Template – Build your entire project with one command",
+            "date_modified": "2022-07-09T01:46:43.000Z",
+            "author": {
+                "name": "Theryston",
+                "url": "https://news.ycombinator.com/user?id=Theryston"
+            },
+            "_original_headline": "Dev Template – Build your entire project with one command",
+            "_original_url": "https://dtemplate.org",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32032005",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32032005",
@@ -9543,70 +9607,6 @@
             },
             "_original_headline": "And 2 and 3 and 4 and 5 and ∞ = -1/12",
             "_original_url": "https://www.youtube.com/watch?v=w-I6XTVZXww",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016449",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016449",
-            "title": "存款的炼金术\n",
-            "summary": "The Alchemy of Deposits",
-            "date_modified": "2022-07-07T16:57:58.000Z",
-            "author": {
-                "name": "smitop",
-                "url": "https://news.ycombinator.com/user?id=smitop"
-            },
-            "_original_headline": "The Alchemy of Deposits",
-            "_original_url": "https://bam.kalzumeus.com/archive/the-alchemy-of-deposits/",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016367",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016367",
-            "title": "毫无意义的Chrome扩展程序，如果它与regex匹配，会使Twitter图片旋转\n",
-            "summary": "Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex",
-            "date_modified": "2022-07-07T16:51:30.000Z",
-            "author": {
-                "name": "kinoro",
-                "url": "https://news.ycombinator.com/user?id=kinoro"
-            },
-            "_original_headline": "Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex",
-            "_original_url": "https://old.reddit.com/r/SideProject/comments/vsyjdy/i_made_this_pointless_chrome_extension_that_makes/",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016322",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016322",
-            "title": "我对桌面应用的回归\n",
-            "summary": "My Return to Desktop Applications",
-            "date_modified": "2022-07-07T16:47:36.000Z",
-            "author": {
-                "name": "samemail88",
-                "url": "https://news.ycombinator.com/user?id=samemail88"
-            },
-            "_original_headline": "My Return to Desktop Applications",
-            "_original_url": "https://ashlan.com/blog/my-return-to-desktop-applications/",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016219",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016219",
-            "title": "为什么空的（可执行的）文件在Unix中通常是真实的\n",
-            "summary": "Why an empty (executable) file is generally true in Unix",
-            "date_modified": "2022-07-07T16:39:55.000Z",
-            "author": {
-                "name": "cratermoon",
-                "url": "https://news.ycombinator.com/user?id=cratermoon"
-            },
-            "_original_headline": "Why an empty (executable) file is generally true in Unix",
-            "_original_url": "https://utcc.utoronto.ca/~cks/space/blog/unix/EmptyFileWhyTrue",
             "_sensitive": false,
             "_score": 2
         }
