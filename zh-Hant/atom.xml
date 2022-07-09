@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-09T04:49:36.471Z</updated>
+    <updated>2022-07-09T05:03:14.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與Alex Honnold一起自由單人攀登
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031808</id>
+        <link href="https://news.ycombinator.com/item?id=32031808"/>
+        <updated>2022-07-09T04:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Free solo climbing with Alex Honnold]]></summary>
+        <author>
+            <name>wskish</name>
+            <uri>https://news.ycombinator.com/user?id=wskish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視覺化 - GFDL CM2.6海洋模型。海面溫度 (2011)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031676</id>
+        <link href="https://news.ycombinator.com/item?id=32031676"/>
+        <updated>2022-07-09T04:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Visualization – GFDL CM2.6 Ocean Model: Sea Surface Temperature (2011)]]></summary>
+        <author>
+            <name>stevenjgarner</name>
+            <uri>https://news.ycombinator.com/user?id=stevenjgarner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chumsky，一個具有錯誤恢復功能的Rust解析器-組合器庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031591</id>
+        <link href="https://news.ycombinator.com/item?id=32031591"/>
+        <updated>2022-07-09T04:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Chumsky, a Rust parser-combinator library with error recovery]]></summary>
+        <author>
+            <name>brundolf</name>
+            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[難道沒有人捍衛美國共和國嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031489</id>
+        <link href="https://news.ycombinator.com/item?id=32031489"/>
+        <updated>2022-07-09T04:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Will no one defend the American Republic?]]></summary>
+        <author>
+            <name>hackyhacky</name>
+            <uri>https://news.ycombinator.com/user?id=hackyhacky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼做好筆記對開發者來說是至關重要的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031437</id>
+        <link href="https://news.ycombinator.com/item?id=32031437"/>
+        <updated>2022-07-09T03:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Why Taking Good Notes Is Critical for Developers]]></summary>
+        <author>
+            <name>kamalkishor1991</name>
+            <uri>https://news.ycombinator.com/user?id=kamalkishor1991</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CompileIt。一個用Hypercard編寫的Hypercard編譯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031310</id>
+        <link href="https://news.ycombinator.com/item?id=32031310"/>
+        <updated>2022-07-09T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[CompileIt: A Hypercard compiler written in Hypercard]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logto, OSS在幾分鐘內建立簽到體驗和用戶身份
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>monksy</name>
             <uri>https://news.ycombinator.com/user?id=monksy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊基金會研究團隊AMA，7月7日
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016539</id>
-        <link href="https://news.ycombinator.com/item?id=32016539"/>
-        <updated>2022-07-07T17:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Foundation Research Team AMA, July 7th]]></summary>
-        <author>
-            <name>jpereira</name>
-            <uri>https://news.ycombinator.com/user?id=jpereira</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel不允許對arg AUTHOR進行發佈訪問
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016507</id>
-        <link href="https://news.ycombinator.com/item?id=32016507"/>
-        <updated>2022-07-07T17:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Vercel not granting publish access to arg AUTHOR]]></summary>
-        <author>
-            <name>vixalien</name>
-            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓你習慣於閱讀和編寫Rust代碼的小練習
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016501</id>
-        <link href="https://news.ycombinator.com/item?id=32016501"/>
-        <updated>2022-07-07T17:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Small exercises to get you used to reading and writing Rust code]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商店現已開放
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016491</id>
-        <link href="https://news.ycombinator.com/item?id=32016491"/>
-        <updated>2022-07-07T17:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Shop Is Now Open]]></summary>
-        <author>
-            <name>ctoth</name>
-            <uri>https://news.ycombinator.com/user?id=ctoth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Meta VR設備不再需要Facebook賬戶了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016484</id>
-        <link href="https://news.ycombinator.com/item?id=32016484"/>
-        <updated>2022-07-07T17:00:47.000Z</updated>
-        <summary type="html"><![CDATA[A Facebook account is no longer required to use Meta VR devices]]></summary>
-        <author>
-            <name>pesenti</name>
-            <uri>https://news.ycombinator.com/user?id=pesenti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最後的理性的共和黨人在否認嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016417</id>
-        <link href="https://news.ycombinator.com/item?id=32016417"/>
-        <updated>2022-07-07T16:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Are the Last Rational Republicans in Denial?]]></summary>
-        <author>
-            <name>cmurf</name>
-            <uri>https://news.ycombinator.com/user?id=cmurf</uri>
         </author>
     </entry>
 </feed>
