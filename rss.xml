@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 09 Jul 2022 13:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 13:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[猎杀伊丽莎。人工智能与符号计算的起源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32034219</link>
+            <guid>https://news.ycombinator.com/item?id=32034219</guid>
+            <pubDate>Sat, 09 Jul 2022 12:00:22 GMT</pubDate>
+            <description><![CDATA[The Hunt for Eliza: AI and the Origins of Symbolic Computing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[家酿电脑网环
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32033833</link>
+            <guid>https://news.ycombinator.com/item?id=32033833</guid>
+            <pubDate>Sat, 09 Jul 2022 11:00:35 GMT</pubDate>
+            <description><![CDATA[Home Brew Computers Web Ring]]></description>
+        </item>
         <item>
             <title><![CDATA[取代TextMate 2的Rust编辑器 - 绝望的痛苦
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32019010</guid>
             <pubDate>Thu, 07 Jul 2022 20:37:03 GMT</pubDate>
             <description><![CDATA[Crystal 1.5.0 Is Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦通信委员会收到9万多条星链用户抗议Dish移动服务的意见
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32018943</link>
-            <guid>https://news.ycombinator.com/item?id=32018943</guid>
-            <pubDate>Thu, 07 Jul 2022 20:31:35 GMT</pubDate>
-            <description><![CDATA[FCC gets 90k+ comments from Starlink users protesting Dish mobile service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[支持流媒体的TypeScript和Go的Protobuf RPC
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32018925</link>
-            <guid>https://news.ycombinator.com/item?id=32018925</guid>
-            <pubDate>Thu, 07 Jul 2022 20:30:20 GMT</pubDate>
-            <description><![CDATA[Protobuf RPC for TypeScript and Go with streaming support]]></description>
         </item>
     </channel>
 </rss>

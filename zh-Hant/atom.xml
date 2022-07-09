@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-09T13:46:06.921Z</updated>
+    <updated>2022-07-09T13:58:22.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[獵殺伊麗莎。人工智能與符號計算的起源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32034219</id>
+        <link href="https://news.ycombinator.com/item?id=32034219"/>
+        <updated>2022-07-09T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[The Hunt for Eliza: AI and the Origins of Symbolic Computing]]></summary>
+        <author>
+            <name>adamgordonbell</name>
+            <uri>https://news.ycombinator.com/user?id=adamgordonbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家釀電腦網環
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033833</id>
+        <link href="https://news.ycombinator.com/item?id=32033833"/>
+        <updated>2022-07-09T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Home Brew Computers Web Ring]]></summary>
+        <author>
+            <name>chadcmulligan</name>
+            <uri>https://news.ycombinator.com/user?id=chadcmulligan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取代TextMate 2的Rust編輯器 - 絕望的痛苦
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mfkp</name>
             <uri>https://news.ycombinator.com/user?id=mfkp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國聯邦通信委員會收到9萬多條星鏈用戶抗議Dish移動服務的意見
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018943</id>
-        <link href="https://news.ycombinator.com/item?id=32018943"/>
-        <updated>2022-07-07T20:31:35.000Z</updated>
-        <summary type="html"><![CDATA[FCC gets 90k+ comments from Starlink users protesting Dish mobile service]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持流媒體的TypeScript和Go的Protobuf RPC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018925</id>
-        <link href="https://news.ycombinator.com/item?id=32018925"/>
-        <updated>2022-07-07T20:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Protobuf RPC for TypeScript and Go with streaming support]]></summary>
-        <author>
-            <name>epberry</name>
-            <uri>https://news.ycombinator.com/user?id=epberry</uri>
         </author>
     </entry>
 </feed>
