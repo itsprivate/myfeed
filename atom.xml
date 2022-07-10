@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T20:29:23.288Z</updated>
+    <updated>2022-07-10T20:48:41.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Perl在2022年仍有意义
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048734</id>
+        <link href="https://news.ycombinator.com/item?id=32048734"/>
+        <updated>2022-07-10T20:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Why Perl is still relevant in 2022]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack的远程开发
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048670</id>
+        <link href="https://news.ycombinator.com/item?id=32048670"/>
+        <updated>2022-07-10T20:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Remote Development at Slack]]></summary>
+        <author>
+            <name>qubit23</name>
+            <uri>https://news.ycombinator.com/user?id=qubit23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cargo-quickinstall是如何工作的 - 为 "cargo install "预先编译的二进制软件包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048514</id>
+        <link href="https://news.ycombinator.com/item?id=32048514"/>
+        <updated>2022-07-10T20:13:14.000Z</updated>
+        <summary type="html"><![CDATA[How cargo-quickinstall works – pre-compiled binary packages for `cargo install`]]></summary>
+        <author>
+            <name>mattruzzi</name>
+            <uri>https://news.ycombinator.com/user?id=mattruzzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU挖矿会在合并（以前称为ETH 2.0）后结束吗？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个单体只是内向量范畴中的一个单体，有什么问题呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034020</id>
-        <link href="https://news.ycombinator.com/item?id=32034020"/>
-        <updated>2022-07-09T11:32:23.000Z</updated>
-        <summary type="html"><![CDATA[A monad is just a monoid in the category of endofunctors, what's the problem?]]></summary>
-        <author>
-            <name>O__________O</name>
-            <uri>https://news.ycombinator.com/user?id=O__________O</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让生育自由
-]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2022/07/post-roe-pro-life-parental-support/661473/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2022/07/post-roe-pro-life-parental-support/661473/?utm_source=feed"/>
-        <updated>2022-07-09T11:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Make Birth Free]]></summary>
-        <author>
-            <name>Elizabeth Bruenig</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BA.5的故事。这个欧米茄次变体的接管并不漂亮
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034000</id>
-        <link href="https://news.ycombinator.com/item?id=32034000"/>
-        <updated>2022-07-09T11:28:52.000Z</updated>
-        <summary type="html"><![CDATA[The BA.5 story: The takeover by this Omicron sub-variant is not pretty]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>

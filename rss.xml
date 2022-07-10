@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Jul 2022 20:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 20:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Perl在2022年仍有意义
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048734</link>
+            <guid>https://news.ycombinator.com/item?id=32048734</guid>
+            <pubDate>Sun, 10 Jul 2022 20:36:23 GMT</pubDate>
+            <description><![CDATA[Why Perl is still relevant in 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Slack的远程开发
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048670</link>
+            <guid>https://news.ycombinator.com/item?id=32048670</guid>
+            <pubDate>Sun, 10 Jul 2022 20:28:49 GMT</pubDate>
+            <description><![CDATA[Remote Development at Slack]]></description>
+        </item>
+        <item>
+            <title><![CDATA[cargo-quickinstall是如何工作的 - 为 "cargo install "预先编译的二进制软件包
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048514</link>
+            <guid>https://news.ycombinator.com/item?id=32048514</guid>
+            <pubDate>Sun, 10 Jul 2022 20:13:14 GMT</pubDate>
+            <description><![CDATA[How cargo-quickinstall works – pre-compiled binary packages for `cargo install`]]></description>
+        </item>
         <item>
             <title><![CDATA[GPU挖矿会在合并（以前称为ETH 2.0）后结束吗？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034049</guid>
             <pubDate>Sat, 09 Jul 2022 11:36:29 GMT</pubDate>
             <description><![CDATA[Does Physical Activity Increase Life Expectancy? A Review of the Literature]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个单体只是内向量范畴中的一个单体，有什么问题呢？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034020</link>
-            <guid>https://news.ycombinator.com/item?id=32034020</guid>
-            <pubDate>Sat, 09 Jul 2022 11:32:23 GMT</pubDate>
-            <description><![CDATA[A monad is just a monoid in the category of endofunctors, what's the problem?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让生育自由
-]]></title>
-            <link>https://www.theatlantic.com/ideas/archive/2022/07/post-roe-pro-life-parental-support/661473/?utm_source=feed</link>
-            <guid>https://www.theatlantic.com/ideas/archive/2022/07/post-roe-pro-life-parental-support/661473/?utm_source=feed</guid>
-            <pubDate>Sat, 09 Jul 2022 11:15:43 GMT</pubDate>
-            <description><![CDATA[Make Birth Free]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BA.5的故事。这个欧米茄次变体的接管并不漂亮
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034000</link>
-            <guid>https://news.ycombinator.com/item?id=32034000</guid>
-            <pubDate>Sat, 09 Jul 2022 11:28:52 GMT</pubDate>
-            <description><![CDATA[The BA.5 story: The takeover by this Omicron sub-variant is not pretty]]></description>
         </item>
     </channel>
 </rss>
