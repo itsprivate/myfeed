@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T09:49:56.175Z</updated>
+    <updated>2022-07-10T09:59:34.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Text2LIVE: 文本驱动的分层图像和视频编辑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043235</id>
+        <link href="https://news.ycombinator.com/item?id=32043235"/>
+        <updated>2022-07-10T09:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Text2LIVE: Text-Driven Layered Image and Video Editing]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有平滑闰秒的UTC（UTC-SLS） (2011)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042955</id>
+        <link href="https://news.ycombinator.com/item?id=32042955"/>
+        <updated>2022-07-10T08:57:39.000Z</updated>
+        <summary type="html"><![CDATA[UTC with Smoothed Leap Seconds (UTC-SLS) (2011)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优雅地退化的家庭自动化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042942</id>
+        <link href="https://news.ycombinator.com/item?id=32042942"/>
+        <updated>2022-07-10T08:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Gracefully Degrading Home Automation]]></summary>
+        <author>
+            <name>oxplot</name>
+            <uri>https://news.ycombinator.com/user?id=oxplot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我制作了一个键盘PCB，并用Rust语言编写了固件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042558</id>
+        <link href="https://news.ycombinator.com/item?id=32042558"/>
+        <updated>2022-07-10T07:19:55.000Z</updated>
+        <summary type="html"><![CDATA[I built a keyboard PCB and wrote firmware for it in Rust]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专家警告说，TikTok的 "青蛙军队 "特技可能产生严重后果
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克终止收购Twitter的交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027666</id>
-        <link href="https://news.ycombinator.com/item?id=32027666"/>
-        <updated>2022-07-08T21:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk terminates deal to buy Twitter]]></summary>
-        <author>
-            <name>xwowsersx</name>
-            <uri>https://news.ycombinator.com/user?id=xwowsersx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克说他正在终止Twitter的交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027642</id>
-        <link href="https://news.ycombinator.com/item?id=32027642"/>
-        <updated>2022-07-08T21:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Says He Is Terminating Twitter Deal]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆退出Twitter交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027604</id>
-        <link href="https://news.ycombinator.com/item?id=32027604"/>
-        <updated>2022-07-08T21:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Elon backs out of Twitter deal]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克结束440亿美元收购Twitter的竞标
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027589</id>
-        <link href="https://news.ycombinator.com/item?id=32027589"/>
-        <updated>2022-07-08T21:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk ends $44bn bid to buy Twitter]]></summary>
-        <author>
-            <name>phab</name>
-            <uri>https://news.ycombinator.com/user?id=phab</uri>
         </author>
     </entry>
 </feed>
