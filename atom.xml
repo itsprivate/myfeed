@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T21:47:39.656Z</updated>
+    <updated>2022-07-10T21:59:44.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我从61位最有影响力的JavaScript开发者那里学到的教训
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32049309</id>
+        <link href="https://news.ycombinator.com/item?id=32049309"/>
+        <updated>2022-07-10T21:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Lessons I learned from 61 of the most influential JavaScript developers]]></summary>
+        <author>
+            <name>sashevuchkov</name>
+            <uri>https://news.ycombinator.com/user?id=sashevuchkov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死亡、虚无和主体性（1994年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32049237</id>
+        <link href="https://news.ycombinator.com/item?id=32049237"/>
+        <updated>2022-07-10T21:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Death, Nothingness, and Subjectivity (1994)]]></summary>
+        <author>
+            <name>demomi</name>
+            <uri>https://news.ycombinator.com/user?id=demomi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何寻找、阅读和组织论文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32049192</id>
+        <link href="https://news.ycombinator.com/item?id=32049192"/>
+        <updated>2022-07-10T21:23:38.000Z</updated>
+        <summary type="html"><![CDATA[How to find, read and organize papers]]></summary>
+        <author>
+            <name>m-watson</name>
+            <uri>https://news.ycombinator.com/user?id=m-watson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯的巨型潜艇，携带核动力核鱼雷
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>michidk</name>
             <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中的负类型。不是某种类型的类型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034403</id>
-        <link href="https://news.ycombinator.com/item?id=32034403"/>
-        <updated>2022-07-09T12:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Negatypes in Python: A type that is not some type]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把它放在那里 (1983)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034269</id>
-        <link href="https://news.ycombinator.com/item?id=32034269"/>
-        <updated>2022-07-09T12:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Put That There (1983)]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当Python不能进行线程时：深入了解GIL的影响
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033335</id>
-        <link href="https://news.ycombinator.com/item?id=32033335"/>
-        <updated>2022-07-09T09:22:49.000Z</updated>
-        <summary type="html"><![CDATA[When Python can’t thread: a deep-dive into the GIL’s impact]]></summary>
-        <author>
-            <name>manjana</name>
-            <uri>https://news.ycombinator.com/user?id=manjana</uri>
         </author>
     </entry>
 </feed>

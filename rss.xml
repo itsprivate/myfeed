@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sun, 10 Jul 2022 21:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 21:59:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我从61位最有影响力的JavaScript开发者那里学到的教训
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32049309</link>
+            <guid>https://news.ycombinator.com/item?id=32049309</guid>
+            <pubDate>Sun, 10 Jul 2022 21:34:59 GMT</pubDate>
+            <description><![CDATA[Lessons I learned from 61 of the most influential JavaScript developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[死亡、虚无和主体性（1994年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32049237</link>
+            <guid>https://news.ycombinator.com/item?id=32049237</guid>
+            <pubDate>Sun, 10 Jul 2022 21:28:45 GMT</pubDate>
+            <description><![CDATA[Death, Nothingness, and Subjectivity (1994)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何寻找、阅读和组织论文
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32049192</link>
+            <guid>https://news.ycombinator.com/item?id=32049192</guid>
+            <pubDate>Sun, 10 Jul 2022 21:23:38 GMT</pubDate>
+            <description><![CDATA[How to find, read and organize papers]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯的巨型潜艇，携带核动力核鱼雷
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034471</guid>
             <pubDate>Sat, 09 Jul 2022 12:36:35 GMT</pubDate>
             <description><![CDATA[A fast accurate code counter with complexity calculations and COCOMO estimates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的负类型。不是某种类型的类型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034403</link>
-            <guid>https://news.ycombinator.com/item?id=32034403</guid>
-            <pubDate>Sat, 09 Jul 2022 12:26:45 GMT</pubDate>
-            <description><![CDATA[Negatypes in Python: A type that is not some type]]></description>
-        </item>
-        <item>
-            <title><![CDATA[把它放在那里 (1983)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034269</link>
-            <guid>https://news.ycombinator.com/item?id=32034269</guid>
-            <pubDate>Sat, 09 Jul 2022 12:07:20 GMT</pubDate>
-            <description><![CDATA[Put That There (1983)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当Python不能进行线程时：深入了解GIL的影响
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033335</link>
-            <guid>https://news.ycombinator.com/item?id=32033335</guid>
-            <pubDate>Sat, 09 Jul 2022 09:22:49 GMT</pubDate>
-            <description><![CDATA[When Python can’t thread: a deep-dive into the GIL’s impact]]></description>
         </item>
     </channel>
 </rss>
