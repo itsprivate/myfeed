@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T23:46:40.878Z</updated>
+    <updated>2022-07-10T23:59:27.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[lld中的RISC-V链接器放松
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32050353</id>
+        <link href="https://news.ycombinator.com/item?id=32050353"/>
+        <updated>2022-07-10T23:34:16.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V linker relaxation in lld]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对美国机构的信心下降；平均水平达到新低
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在几秒钟内学会摄氏温度[视频]。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034976</id>
-        <link href="https://news.ycombinator.com/item?id=32034976"/>
-        <updated>2022-07-09T13:38:36.000Z</updated>
-        <summary type="html"><![CDATA[How to Learn Celsius Temperatures in Seconds [video]]]></summary>
-        <author>
-            <name>dsego</name>
-            <uri>https://news.ycombinator.com/user?id=dsego</uri>
         </author>
     </entry>
 </feed>
