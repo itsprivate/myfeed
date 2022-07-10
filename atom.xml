@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T05:45:50.686Z</updated>
+    <updated>2022-07-10T05:57:13.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杀害安倍晋三的罪行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042054</id>
+        <link href="https://news.ycombinator.com/item?id=32042054"/>
+        <updated>2022-07-10T05:15:24.000Z</updated>
+        <summary type="html"><![CDATA[The Crime That Killed Shinzo Abe]]></summary>
+        <author>
+            <name>hunglee2</name>
+            <uri>https://news.ycombinator.com/user?id=hunglee2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一起玩的 "天际"：在线玩的MOD
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗杰斯（加拿大）停电
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026676</id>
-        <link href="https://news.ycombinator.com/item?id=32026676"/>
-        <updated>2022-07-08T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Rogers (Canada) Outage]]></summary>
-        <author>
-            <name>lambersley</name>
-            <uri>https://news.ycombinator.com/user?id=lambersley</uri>
         </author>
     </entry>
 </feed>
