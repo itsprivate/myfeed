@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T05:05:01.481Z</updated>
+    <updated>2022-07-10T05:28:25.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[韋伯、系外行星和尋找外星生命
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042020</id>
+        <link href="https://news.ycombinator.com/item?id=32042020"/>
+        <updated>2022-07-10T05:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Webb, exoplanets, and the search for alien life]]></summary>
+        <author>
+            <name>crhulls</name>
+            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟收回默認阻止Office宏的決定
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042014</id>
+        <link href="https://news.ycombinator.com/item?id=32042014"/>
+        <updated>2022-07-10T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft rolls back decision to block Office macros by default]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗物質：是時候拋棄它以支持新的引力理論了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32041911</id>
+        <link href="https://news.ycombinator.com/item?id=32041911"/>
+        <updated>2022-07-10T04:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Dark matter: time to ditch it in favour of a new theory of gravity?]]></summary>
+        <author>
+            <name>MontagFTB</name>
+            <uri>https://news.ycombinator.com/user?id=MontagFTB</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自然 "是什麼意思？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32041675</id>
+        <link href="https://news.ycombinator.com/item?id=32041675"/>
+        <updated>2022-07-10T03:49:53.000Z</updated>
+        <summary type="html"><![CDATA[What Does ‘Nature’ Mean?]]></summary>
+        <author>
+            <name>guerrilla</name>
+            <uri>https://news.ycombinator.com/user?id=guerrilla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大聯邦警察一直在使用惡意軟件來窺探通訊情況
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大發生重大網絡故障，ATM機和911服務中斷
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026598</id>
-        <link href="https://news.ycombinator.com/item?id=32026598"/>
-        <updated>2022-07-08T20:34:02.000Z</updated>
-        <summary type="html"><![CDATA[A major internet outage in Canada disrupts ATMs and 911 services]]></summary>
-        <author>
-            <name>sophacles</name>
-            <uri>https://news.ycombinator.com/user?id=sophacles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoSnoos™。官方Reddit NFTs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026597</id>
-        <link href="https://news.ycombinator.com/item?id=32026597"/>
-        <updated>2022-07-08T20:33:59.000Z</updated>
-        <summary type="html"><![CDATA[CryptoSnoos™: Official Reddit NFTs]]></summary>
-        <author>
-            <name>warning26</name>
-            <uri>https://news.ycombinator.com/user?id=warning26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狀態頁 狀態頁 狀態頁
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026589</id>
-        <link href="https://news.ycombinator.com/item?id=32026589"/>
-        <updated>2022-07-08T20:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Status Page Status Page Status Page]]></summary>
-        <author>
-            <name>magicconch</name>
-            <uri>https://news.ycombinator.com/user?id=magicconch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟做出重大改變，允許Office運行不受信任的宏程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026573</id>
-        <link href="https://news.ycombinator.com/item?id=32026573"/>
-        <updated>2022-07-08T20:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft makes major course reversal, allows Office to run untrusted macros]]></summary>
-        <author>
-            <name>stalfosknight</name>
-            <uri>https://news.ycombinator.com/user?id=stalfosknight</uri>
         </author>
     </entry>
 </feed>
