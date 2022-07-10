@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-10T10:30:21.160Z</updated>
+    <updated>2022-07-10T11:00:43.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3在硅谷有多受欢迎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043502</id>
+        <link href="https://news.ycombinator.com/item?id=32043502"/>
+        <updated>2022-07-10T10:44:52.000Z</updated>
+        <summary type="html"><![CDATA[How popular is Web3 in Silicon Valley?]]></summary>
+        <author>
+            <name>sammyjiang</name>
+            <uri>https://news.ycombinator.com/user?id=sammyjiang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CS101: 计算机原理介绍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043433</id>
+        <link href="https://news.ycombinator.com/item?id=32043433"/>
+        <updated>2022-07-10T10:29:57.000Z</updated>
+        <summary type="html"><![CDATA[CS101: Introduction to Computing Principles]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周日阅读。翻译中的失落（和发现）》一书
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>unknown</name>
             <uri>https://www.newyorker.com/feed/news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克提出结束440亿美元收购Twitter的交易
-]]></title>
-        <id>https://www.nytimes.com/2022/07/08/technology/elon-musk-twitter.html</id>
-        <link href="https://www.nytimes.com/2022/07/08/technology/elon-musk-twitter.html"/>
-        <updated>2022-07-08T22:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Moves to End $44 Billion Deal to Buy Twitter]]></summary>
-        <author>
-            <name>Kate Conger and Lauren Hirsch</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求职情书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028005</id>
-        <link href="https://news.ycombinator.com/item?id=32028005"/>
-        <updated>2022-07-08T22:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Job Search Love Letters]]></summary>
-        <author>
-            <name>throwawayspecia</name>
-            <uri>https://news.ycombinator.com/user?id=throwawayspecia</uri>
         </author>
     </entry>
 </feed>
