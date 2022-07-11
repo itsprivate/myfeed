@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-11T07:45:30.985Z</updated>
+    <updated>2022-07-11T07:59:00.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开发人员薪资报告 德国
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053310</id>
+        <link href="https://news.ycombinator.com/item?id=32053310"/>
+        <updated>2022-07-11T07:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Developer Salaries Report Germany]]></summary>
+        <author>
+            <name>Liriel</name>
+            <uri>https://news.ycombinator.com/user?id=Liriel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS在开源方面正悄悄地变得更好
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053050</id>
+        <link href="https://news.ycombinator.com/item?id=32053050"/>
+        <updated>2022-07-11T06:49:19.000Z</updated>
+        <summary type="html"><![CDATA[AWS is quietly getting better at open source]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果II文件项目
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>wwilson</name>
             <uri>https://news.ycombinator.com/user?id=wwilson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让我们来谈谈负责任的社会：一个更好的社会框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036747</id>
-        <link href="https://news.ycombinator.com/item?id=32036747"/>
-        <updated>2022-07-09T16:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Let's talk about responsible social: a framework for a better social]]></summary>
-        <author>
-            <name>elzubeir</name>
-            <uri>https://news.ycombinator.com/user?id=elzubeir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当学生们开着限速的车，使交通堵塞数英里时（2007）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036691</id>
-        <link href="https://news.ycombinator.com/item?id=32036691"/>
-        <updated>2022-07-09T16:31:03.000Z</updated>
-        <summary type="html"><![CDATA[When students drove the speed limit and backed up traffic for miles (2007)]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
