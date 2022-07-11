@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-11T05:43:29.900Z</updated>
+    <updated>2022-07-11T05:57:39.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Calibre 6.0中的新内容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32052669</id>
+        <link href="https://news.ycombinator.com/item?id=32052669"/>
+        <updated>2022-07-11T05:49:22.000Z</updated>
+        <summary type="html"><![CDATA[New in Calibre 6.0]]></summary>
+        <author>
+            <name>anotherevan</name>
+            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网有一个1星评论的问题吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32052666</id>
+        <link href="https://news.ycombinator.com/item?id=32052666"/>
+        <updated>2022-07-11T05:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Does the internet have a 1 star review problem?]]></summary>
+        <author>
+            <name>iflypropplanes</name>
+            <uri>https://news.ycombinator.com/user?id=iflypropplanes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[害怕在这个领域失败，让我有严重的老年炎。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生态文化杂志。种子 [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036496</id>
-        <link href="https://news.ycombinator.com/item?id=32036496"/>
-        <updated>2022-07-09T16:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Permaculture Magazine: Seeds [pdf]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经验。我在一夜之间失去了视力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036479</id>
-        <link href="https://news.ycombinator.com/item?id=32036479"/>
-        <updated>2022-07-09T16:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Experience: I lost my sight overnight]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
         </author>
     </entry>
 </feed>
