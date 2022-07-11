@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-11T08:38:33.657Z</updated>
+    <updated>2022-07-11T09:01:52.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[启动YC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053702</id>
+        <link href="https://news.ycombinator.com/item?id=32053702"/>
+        <updated>2022-07-11T08:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Launch YC]]></summary>
+        <author>
+            <name>cercatrova</name>
+            <uri>https://news.ycombinator.com/user?id=cercatrova</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我想拯救网络的未来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053627</id>
+        <link href="https://news.ycombinator.com/item?id=32053627"/>
+        <updated>2022-07-11T08:31:17.000Z</updated>
+        <summary type="html"><![CDATA[I want to save the future of Web]]></summary>
+        <author>
+            <name>youssmak</name>
+            <uri>https://news.ycombinator.com/user?id=youssmak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国的Covid健康应用程序管理着生活，但也为滥用提供了条件。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053622</id>
+        <link href="https://news.ycombinator.com/item?id=32053622"/>
+        <updated>2022-07-11T08:30:29.000Z</updated>
+        <summary type="html"><![CDATA[China’s Covid health apps govern life but are ripe for abuse]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+            <uri>https://news.ycombinator.com/user?id=JumpCrisscross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V V型掩码的问题
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在加利福尼亚海岸观察到 "壮观的 "开尔文-亥姆霍兹波云
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037233</id>
-        <link href="https://news.ycombinator.com/item?id=32037233"/>
-        <updated>2022-07-09T17:18:33.000Z</updated>
-        <summary type="html"><![CDATA['Spectacular' Kelvin-Helmholtz wave clouds observed on California coast]]></summary>
-        <author>
-            <name>Stratoscope</name>
-            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习软件设计中的直觉。概念性的复杂性框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037227</id>
-        <link href="https://news.ycombinator.com/item?id=32037227"/>
-        <updated>2022-07-09T17:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Learning gut feeling in software design: The Conceptual Complexity Framework]]></summary>
-        <author>
-            <name>manuelmorales</name>
-            <uri>https://news.ycombinator.com/user?id=manuelmorales</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥克斯建立服务器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037207</id>
-        <link href="https://news.ycombinator.com/item?id=32037207"/>
-        <updated>2022-07-09T17:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Oxide Builds Servers]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
