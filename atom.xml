@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-11T07:30:24.327Z</updated>
+    <updated>2022-07-11T07:45:30.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果II文件项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053304</id>
+        <link href="https://news.ycombinator.com/item?id=32053304"/>
+        <updated>2022-07-11T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Apple II Documentation Project]]></summary>
+        <author>
+            <name>gscott</name>
+            <uri>https://news.ycombinator.com/user?id=gscott</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在呼吸谁的气息？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053287</id>
+        <link href="https://news.ycombinator.com/item?id=32053287"/>
+        <updated>2022-07-11T07:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Whose breath are you breathing?]]></summary>
+        <author>
+            <name>tigerlily</name>
+            <uri>https://news.ycombinator.com/user?id=tigerlily</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在没有人的情况下独自一人做任何事 (2014)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tomohawk</name>
             <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音CEO准备取消737 Max 10，除非国会采取行动
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036664</id>
-        <link href="https://news.ycombinator.com/item?id=32036664"/>
-        <updated>2022-07-09T16:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Boeing CEO ready to cancel 737 Max 10 unless Congress acts]]></summary>
-        <author>
-            <name>thesecretceo</name>
-            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛特菲-扎德和模糊逻辑的诞生
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036605</id>
-        <link href="https://news.ycombinator.com/item?id=32036605"/>
-        <updated>2022-07-09T16:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Lotfi Zadeh and the Birth of Fuzzy Logic]]></summary>
-        <author>
-            <name>furcyd</name>
-            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
         </author>
     </entry>
 </feed>
