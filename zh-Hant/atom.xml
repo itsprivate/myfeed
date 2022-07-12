@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-12T08:39:42.600Z</updated>
+    <updated>2022-07-12T09:02:44.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發出理解溝通的新方法的科學家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067193</id>
+        <link href="https://news.ycombinator.com/item?id=32067193"/>
+        <updated>2022-07-12T08:48:59.000Z</updated>
+        <summary type="html"><![CDATA[The Scientist Who Developed a New Way to Understand Communication]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust編程一個類似流氓的東西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067019</id>
+        <link href="https://news.ycombinator.com/item?id=32067019"/>
+        <updated>2022-07-12T08:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Programming a Rogue-Like with Rust]]></summary>
+        <author>
+            <name>wsc981</name>
+            <uri>https://news.ycombinator.com/user?id=wsc981</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國運營商欲為智能手機帶來 "零屏幕 "鎖屏廣告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066904</id>
+        <link href="https://news.ycombinator.com/item?id=32066904"/>
+        <updated>2022-07-12T08:10:08.000Z</updated>
+        <summary type="html"><![CDATA[US carriers want to bring “screen zero” lock screen ads to smartphones]]></summary>
+        <author>
+            <name>Cyclical</name>
+            <uri>https://news.ycombinator.com/user?id=Cyclical</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["讓它失敗 "會導致更簡單的代碼
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>strikingloo</name>
             <uri>https://news.ycombinator.com/user?id=strikingloo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IETF草案。集中化、分散化和互聯網標準
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052684</id>
-        <link href="https://news.ycombinator.com/item?id=32052684"/>
-        <updated>2022-07-11T05:52:08.000Z</updated>
-        <summary type="html"><![CDATA[IETF Draft: Centralization, Decentralization, and Internet Standards]]></summary>
-        <author>
-            <name>rapnie</name>
-            <uri>https://news.ycombinator.com/user?id=rapnie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calibre 6.0中的新內容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052669</id>
-        <link href="https://news.ycombinator.com/item?id=32052669"/>
-        <updated>2022-07-11T05:49:22.000Z</updated>
-        <summary type="html"><![CDATA[New in Calibre 6.0]]></summary>
-        <author>
-            <name>anotherevan</name>
-            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網有一個1星評論的問題嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052666</id>
-        <link href="https://news.ycombinator.com/item?id=32052666"/>
-        <updated>2022-07-11T05:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Does the internet have a 1 star review problem?]]></summary>
-        <author>
-            <name>iflypropplanes</name>
-            <uri>https://news.ycombinator.com/user?id=iflypropplanes</uri>
         </author>
     </entry>
 </feed>
