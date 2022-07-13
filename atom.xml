@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-13T11:27:58.239Z</updated>
+    <updated>2022-07-13T11:44:35.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无服务器的SFTP和无限可扩展的数据存储
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081152</id>
+        <link href="https://news.ycombinator.com/item?id=32081152"/>
+        <updated>2022-07-13T11:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Serverless SFTP and infinitely-scalable data storage]]></summary>
+        <author>
+            <name>zkanter</name>
+            <uri>https://news.ycombinator.com/user?id=zkanter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让GPT-3相形见绌的新开源模式旨在将人工智能从大科技实验室中解放出来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081127</id>
+        <link href="https://news.ycombinator.com/item?id=32081127"/>
+        <updated>2022-07-13T11:15:23.000Z</updated>
+        <summary type="html"><![CDATA[New open-source model that dwarfs GPT-3 aims to free AI from Big Tech labs]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当雅达利运送Unix时：1992年的雅达利系统V
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081111</id>
+        <link href="https://news.ycombinator.com/item?id=32081111"/>
+        <updated>2022-07-13T11:13:14.000Z</updated>
+        <summary type="html"><![CDATA[When Atari shipped Unix: 1992's Atari System V]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌要求对选举邮件进行试点，以绕过Gmail垃圾邮件过滤器[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080858</id>
+        <link href="https://news.ycombinator.com/item?id=32080858"/>
+        <updated>2022-07-13T10:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Google request on a pilot for election mail to bypass Gmail spam filter [pdf]]]></summary>
+        <author>
+            <name>zinekeller</name>
+            <uri>https://news.ycombinator.com/user?id=zinekeller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯对乌克兰的战争已经变成了恐怖主义
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在PostgreSQL中列的顺序确实很重要
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067473</id>
-        <link href="https://news.ycombinator.com/item?id=32067473"/>
-        <updated>2022-07-12T09:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Column order in PostgreSQL does matter]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙射线--高能质子和原子核
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067458</id>
-        <link href="https://news.ycombinator.com/item?id=32067458"/>
-        <updated>2022-07-12T09:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Cosmic Rays – high-energy Protons and atomic Nuclei]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聪明的ZF EasyTurn悬架概念允许令人难以置信的紧密转弯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067394</id>
-        <link href="https://news.ycombinator.com/item?id=32067394"/>
-        <updated>2022-07-12T09:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Clever ZF EasyTurn Suspension Concept Allows Incredibly Tight U-Turns]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高《达利》2代图像的质量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067371</id>
-        <link href="https://news.ycombinator.com/item?id=32067371"/>
-        <updated>2022-07-12T09:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Increase the Quality of DALL-E 2 image generations]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
         </author>
     </entry>
 </feed>
