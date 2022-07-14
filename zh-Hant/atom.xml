@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-13T23:46:48.637Z</updated>
+    <updated>2022-07-14T00:01:04.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[修辭學的森林
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32089215</id>
+        <link href="https://news.ycombinator.com/item?id=32089215"/>
+        <updated>2022-07-13T21:52:20.000Z</updated>
+        <summary type="html"><![CDATA[The Forest of Rhetoric]]></summary>
+        <author>
+            <name>0xbadcafebee</name>
+            <uri>https://news.ycombinator.com/user?id=0xbadcafebee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韋伯太空望遠鏡的下一步是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088884</id>
+        <link href="https://news.ycombinator.com/item?id=32088884"/>
+        <updated>2022-07-13T21:19:45.000Z</updated>
+        <summary type="html"><![CDATA[What's Next for the James Webb Space Telescope?]]></summary>
+        <author>
+            <name>crhulls</name>
+            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[睡眠不足的影響
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>orzi</name>
             <uri>https://news.ycombinator.com/user?id=orzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特將埃隆-馬斯克告上法庭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32075915</id>
-        <link href="https://news.ycombinator.com/item?id=32075915"/>
-        <updated>2022-07-12T21:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Twitter takes Elon Musk to court]]></summary>
-        <author>
-            <name>glitcher</name>
-            <uri>https://news.ycombinator.com/user?id=glitcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候停止生活在美國的騙局中了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32075855</id>
-        <link href="https://news.ycombinator.com/item?id=32075855"/>
-        <updated>2022-07-12T21:22:22.000Z</updated>
-        <summary type="html"><![CDATA[It’s Time to Stop Living the American Scam]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
