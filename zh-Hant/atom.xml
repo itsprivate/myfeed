@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-14T11:45:26.006Z</updated>
+    <updated>2022-07-14T11:58:24.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[虛數是真實的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094416</id>
+        <link href="https://news.ycombinator.com/item?id=32094416"/>
+        <updated>2022-07-14T11:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Imaginary Numbers Are Real]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix正與微軟合作推出新的廣告支持層級
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094337</id>
+        <link href="https://news.ycombinator.com/item?id=32094337"/>
+        <updated>2022-07-14T10:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Netflix is partnering with Microsoft for its new ad-supported tier]]></summary>
+        <author>
+            <name>matthewsinclair</name>
+            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主黨人需要一場真正的初選比賽
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>disgruntledphd2</name>
             <uri>https://news.ycombinator.com/user?id=disgruntledphd2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘇珊娜-凱澤談DDD、沃德利映射和團隊拓撲結構
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079987</id>
-        <link href="https://news.ycombinator.com/item?id=32079987"/>
-        <updated>2022-07-13T07:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Susanne Kaiser on DDD, Wardley Mapping, & Team Topologies]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seshat: 手寫的數學表達式解析器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079986</id>
-        <link href="https://news.ycombinator.com/item?id=32079986"/>
-        <updated>2022-07-13T07:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Seshat: Handwritten Math Expression Parser]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
