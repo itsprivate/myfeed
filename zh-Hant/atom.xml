@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-14T08:35:37.527Z</updated>
+    <updated>2022-07-14T08:53:44.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[厄運黑客讓厄運在厄運中運行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093469</id>
+        <link href="https://news.ycombinator.com/item?id=32093469"/>
+        <updated>2022-07-14T08:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Doom hacker gets Doom running in Doom]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數學家如何知道他們的證明是正確的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093445</id>
+        <link href="https://news.ycombinator.com/item?id=32093445"/>
+        <updated>2022-07-14T08:22:22.000Z</updated>
+        <summary type="html"><![CDATA[How Do Mathematicians Know Their Proofs Are Correct?]]></summary>
+        <author>
+            <name>QuarkForMrMark</name>
+            <uri>https://news.ycombinator.com/user?id=QuarkForMrMark</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭秘macOS應用沙盒逃逸漏洞
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神經網絡、類型和FP
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079188</id>
-        <link href="https://news.ycombinator.com/item?id=32079188"/>
-        <updated>2022-07-13T05:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Neural Networks, Types, and FP]]></summary>
-        <author>
-            <name>sexangel</name>
-            <uri>https://news.ycombinator.com/user?id=sexangel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pomera DM250 - 緊湊型數字備忘錄
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079178</id>
-        <link href="https://news.ycombinator.com/item?id=32079178"/>
-        <updated>2022-07-13T04:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Pomera DM250 - Compact Digital Memo]]></summary>
-        <author>
-            <name>frxx</name>
-            <uri>https://news.ycombinator.com/user?id=frxx</uri>
         </author>
     </entry>
 </feed>
