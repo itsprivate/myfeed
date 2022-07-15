@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-15T07:27:32.489Z</updated>
+    <updated>2022-07-15T07:45:30.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編譯器是否使用所有的x86指令？(2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32105661</id>
+        <link href="https://news.ycombinator.com/item?id=32105661"/>
+        <updated>2022-07-15T07:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Does a compiler use all x86 instructions? (2016)]]></summary>
+        <author>
+            <name>davidgerard</name>
+            <uri>https://news.ycombinator.com/user?id=davidgerard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[應該消失(Debería Desaparecer)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32105403</id>
+        <link href="https://news.ycombinator.com/item?id=32105403"/>
+        <updated>2022-07-15T06:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Should Disappear (Debería Desaparecer)]]></summary>
+        <author>
+            <name>Schiphol</name>
+            <uri>https://news.ycombinator.com/user?id=Schiphol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瘦身。僱員為了遠程工作而接受較低的薪酬
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32105337</id>
+        <link href="https://news.ycombinator.com/item?id=32105337"/>
+        <updated>2022-07-15T06:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Lean Out: Employees Are Accepting Lower Pay in Order to Work Remotely]]></summary>
+        <author>
+            <name>Stratoscope</name>
+            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[影響市場。惱人的細節
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用戶界面的歷史
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092804</id>
-        <link href="https://news.ycombinator.com/item?id=32092804"/>
-        <updated>2022-07-14T06:48:41.000Z</updated>
-        <summary type="html"><![CDATA[The History of User Interfaces]]></summary>
-        <author>
-            <name>mjshashank</name>
-            <uri>https://news.ycombinator.com/user?id=mjshashank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監控和調整Linux網絡棧。接收數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092786</id>
-        <link href="https://news.ycombinator.com/item?id=32092786"/>
-        <updated>2022-07-14T06:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring and Tuning the Linux Networking Stack: Receiving Data]]></summary>
-        <author>
-            <name>mfrw</name>
-            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux應用程序的性能。簡介
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092754</id>
-        <link href="https://news.ycombinator.com/item?id=32092754"/>
-        <updated>2022-07-14T06:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Linux Applications Performance: Introduction]]></summary>
-        <author>
-            <name>olalonde</name>
-            <uri>https://news.ycombinator.com/user?id=olalonde</uri>
         </author>
     </entry>
 </feed>
