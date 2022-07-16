@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Jul 2022 10:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 10:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中國粉碎了香港
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32116732</link>
+            <guid>https://news.ycombinator.com/item?id=32116732</guid>
+            <pubDate>Sat, 16 Jul 2022 10:33:18 GMT</pubDate>
+            <description><![CDATA[China Crushed Hong Kong]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gazette - 構建靈活地混合SQL、批處理和流處理的平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32116711</link>
+            <guid>https://news.ycombinator.com/item?id=32116711</guid>
+            <pubDate>Sat, 16 Jul 2022 10:28:54 GMT</pubDate>
+            <description><![CDATA[Gazette – Build platforms that flexibly mix SQL, batch, and stream processing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Percona社區上的數據庫即代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32116665</link>
+            <guid>https://news.ycombinator.com/item?id=32116665</guid>
+            <pubDate>Sat, 16 Jul 2022 10:19:05 GMT</pubDate>
+            <description><![CDATA[Database as Code on Percona Community]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亞馬遜在銷售疲軟的情況下一直在削減自有品牌的選擇
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32116234</link>
+            <guid>https://news.ycombinator.com/item?id=32116234</guid>
+            <pubDate>Sat, 16 Jul 2022 08:37:52 GMT</pubDate>
+            <description><![CDATA[Amazon Has Been Slashing Private-Label Selection Amid Weak Sales]]></description>
+        </item>
         <item>
             <title><![CDATA[墮胎是神聖的嗎？
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32104352</guid>
             <pubDate>Fri, 15 Jul 2022 03:37:53 GMT</pubDate>
             <description><![CDATA[MBS’s $500B Desert Dream Just Keeps Getting Weirder]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用"-O3 -march=native "對Linux 5.19內核進行基準測試
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104337</link>
-            <guid>https://news.ycombinator.com/item?id=32104337</guid>
-            <pubDate>Fri, 15 Jul 2022 03:35:17 GMT</pubDate>
-            <description><![CDATA[Benchmarking The Linux 5.19 Kernel Built With “-O3 -march=native”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科技界CEO的 "薩滿 "化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104328</link>
-            <guid>https://news.ycombinator.com/item?id=32104328</guid>
-            <pubDate>Fri, 15 Jul 2022 03:32:52 GMT</pubDate>
-            <description><![CDATA[The ‘Shamanification’ of the Tech CEO]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每張輸出圖像1秒時的去噪漫射
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104302</link>
-            <guid>https://news.ycombinator.com/item?id=32104302</guid>
-            <pubDate>Fri, 15 Jul 2022 03:29:11 GMT</pubDate>
-            <description><![CDATA[Denoising Diffusion at 1 second per output image]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約市老鼠地圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104269</link>
-            <guid>https://news.ycombinator.com/item?id=32104269</guid>
-            <pubDate>Fri, 15 Jul 2022 03:22:45 GMT</pubDate>
-            <description><![CDATA[NYC Rat Map]]></description>
         </item>
     </channel>
 </rss>

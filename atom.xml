@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-16T10:29:46.241Z</updated>
+    <updated>2022-07-16T10:47:34.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国粉碎了香港
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116732</id>
+        <link href="https://news.ycombinator.com/item?id=32116732"/>
+        <updated>2022-07-16T10:33:18.000Z</updated>
+        <summary type="html"><![CDATA[China Crushed Hong Kong]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gazette - 构建灵活地混合SQL、批处理和流处理的平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116711</id>
+        <link href="https://news.ycombinator.com/item?id=32116711"/>
+        <updated>2022-07-16T10:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Gazette – Build platforms that flexibly mix SQL, batch, and stream processing]]></summary>
+        <author>
+            <name>twooster</name>
+            <uri>https://news.ycombinator.com/user?id=twooster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Percona社区上的数据库即代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116665</id>
+        <link href="https://news.ycombinator.com/item?id=32116665"/>
+        <updated>2022-07-16T10:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Database as Code on Percona Community]]></summary>
+        <author>
+            <name>mgramin</name>
+            <uri>https://news.ycombinator.com/user?id=mgramin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊在销售疲软的情况下一直在削减自有品牌的选择
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116234</id>
+        <link href="https://news.ycombinator.com/item?id=32116234"/>
+        <updated>2022-07-16T08:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Has Been Slashing Private-Label Selection Amid Weak Sales]]></summary>
+        <author>
+            <name>simon_acca</name>
+            <uri>https://news.ycombinator.com/user?id=simon_acca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堕胎是神圣的吗？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>thebigship</name>
             <uri>https://news.ycombinator.com/user?id=thebigship</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用"-O3 -march=native "对Linux 5.19内核进行基准测试
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104337</id>
-        <link href="https://news.ycombinator.com/item?id=32104337"/>
-        <updated>2022-07-15T03:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Benchmarking The Linux 5.19 Kernel Built With “-O3 -march=native”]]></summary>
-        <author>
-            <name>ta988</name>
-            <uri>https://news.ycombinator.com/user?id=ta988</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技界CEO的 "萨满 "化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104328</id>
-        <link href="https://news.ycombinator.com/item?id=32104328"/>
-        <updated>2022-07-15T03:32:52.000Z</updated>
-        <summary type="html"><![CDATA[The ‘Shamanification’ of the Tech CEO]]></summary>
-        <author>
-            <name>eggspurt</name>
-            <uri>https://news.ycombinator.com/user?id=eggspurt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每张输出图像1秒时的去噪漫射
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104302</id>
-        <link href="https://news.ycombinator.com/item?id=32104302"/>
-        <updated>2022-07-15T03:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Denoising Diffusion at 1 second per output image]]></summary>
-        <author>
-            <name>hwers</name>
-            <uri>https://news.ycombinator.com/user?id=hwers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约市老鼠地图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104269</id>
-        <link href="https://news.ycombinator.com/item?id=32104269"/>
-        <updated>2022-07-15T03:22:45.000Z</updated>
-        <summary type="html"><![CDATA[NYC Rat Map]]></summary>
-        <author>
-            <name>chazeon</name>
-            <uri>https://news.ycombinator.com/user?id=chazeon</uri>
         </author>
     </entry>
 </feed>
