@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-16T03:53:47.664Z</updated>
+    <updated>2022-07-16T04:18:36.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[儿童通过创造力来弥补注意力不集中的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32114950</id>
+        <link href="https://news.ycombinator.com/item?id=32114950"/>
+        <updated>2022-07-16T03:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Children compensate for lack of concentration through creativity]]></summary>
+        <author>
+            <name>orionion</name>
+            <uri>https://news.ycombinator.com/user?id=orionion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国在摇摆不定
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纪念理查德-塔鲁斯金
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32102178</id>
-        <link href="https://news.ycombinator.com/item?id=32102178"/>
-        <updated>2022-07-14T22:29:55.000Z</updated>
-        <summary type="html"><![CDATA[Remembering Richard Taruskin]]></summary>
-        <author>
-            <name>dredmorbius</name>
-            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
         </author>
     </entry>
 </feed>
