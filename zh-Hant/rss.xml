@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 23:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在Vue 3中使用Watch，使用組合API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32122932</link>
+            <guid>https://news.ycombinator.com/item?id=32122932</guid>
+            <pubDate>Sat, 16 Jul 2022 23:34:51 GMT</pubDate>
+            <description><![CDATA[How to use Watch in Vue 3 using the composition API]]></description>
+        </item>
         <item>
             <title><![CDATA[職能畢竟是有點害處的（FP的失敗暴露了原因）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://www.newyorker.com/culture/culture-desk/my-last-visit-with-john-bennet</guid>
             <pubDate>Fri, 15 Jul 2022 16:56:04 GMT</pubDate>
             <description><![CDATA[My Last Visit with John Bennet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何不對抗通貨膨脹
-]]></title>
-            <link>https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation</link>
-            <guid>https://www.newyorker.com/news/q-and-a/how-not-to-fight-inflation</guid>
-            <pubDate>Fri, 15 Jul 2022 16:51:41 GMT</pubDate>
-            <description><![CDATA[How Not to Fight Inflation]]></description>
         </item>
     </channel>
 </rss>
