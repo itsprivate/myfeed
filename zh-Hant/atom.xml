@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-16T19:45:30.926Z</updated>
+    <updated>2022-07-16T19:58:10.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洛達什已經死了。拉達什萬歲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120971</id>
+        <link href="https://news.ycombinator.com/item?id=32120971"/>
+        <updated>2022-07-16T19:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Lodash is dead. Long live Radash]]></summary>
+        <author>
+            <name>repsofsunshine</name>
+            <uri>https://news.ycombinator.com/user?id=repsofsunshine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幫助保障業餘無線電的數字未來
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120583</id>
+        <link href="https://news.ycombinator.com/item?id=32120583"/>
+        <updated>2022-07-16T18:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Helping Secure Amateur Radio’s Digital Future]]></summary>
+        <author>
+            <name>Stratoscope</name>
+            <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用EmailEngine進行郵件合併
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120571</id>
+        <link href="https://news.ycombinator.com/item?id=32120571"/>
+        <updated>2022-07-16T18:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Mail Merge with EmailEngine]]></summary>
+        <author>
+            <name>andris9</name>
+            <uri>https://news.ycombinator.com/user?id=andris9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代理與反向代理之間的區別是什麼？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>antiverse</name>
             <uri>https://news.ycombinator.com/user?id=antiverse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年MacBook Air回顧。蘋果公司的淨土
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108845</id>
-        <link href="https://news.ycombinator.com/item?id=32108845"/>
-        <updated>2022-07-15T14:58:46.000Z</updated>
-        <summary type="html"><![CDATA[2022 MacBook Air review: Apple’s clean slate]]></summary>
-        <author>
-            <name>test1235</name>
-            <uri>https://news.ycombinator.com/user?id=test1235</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetbrains Fleet將是付費產品，有免費計劃
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108780</id>
-        <link href="https://news.ycombinator.com/item?id=32108780"/>
-        <updated>2022-07-15T14:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Jetbrains Fleet will be paid product with free plans]]></summary>
-        <author>
-            <name>elashri</name>
-            <uri>https://news.ycombinator.com/user?id=elashri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解釋DevOps反饋迴路。延遲反饋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108776</id>
-        <link href="https://news.ycombinator.com/item?id=32108776"/>
-        <updated>2022-07-15T14:52:21.000Z</updated>
-        <summary type="html"><![CDATA[DevOps feedback loop explained: Delayed feedback]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
