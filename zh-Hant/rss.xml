@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 16 Jul 2022 06:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 06:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[匿名簽到
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32115783</link>
+            <guid>https://news.ycombinator.com/item?id=32115783</guid>
+            <pubDate>Sat, 16 Jul 2022 06:44:03 GMT</pubDate>
+            <description><![CDATA[Anonymous Sign-In]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React 18被過度炒作了嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32115454</link>
+            <guid>https://news.ycombinator.com/item?id=32115454</guid>
+            <pubDate>Sat, 16 Jul 2022 05:27:15 GMT</pubDate>
+            <description><![CDATA[Is React 18 Overhyped?]]></description>
+        </item>
         <item>
             <title><![CDATA[以太坊開發者將合併日期定在9月
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32102430</guid>
             <pubDate>Thu, 14 Jul 2022 23:04:58 GMT</pubDate>
             <description><![CDATA[We discovered a 7-year old performance issue in Elixir]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球研究發現，酒精對40歲以下的人永遠沒有好處
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32102582</link>
-            <guid>https://news.ycombinator.com/item?id=32102582</guid>
-            <pubDate>Thu, 14 Jul 2022 23:27:04 GMT</pubDate>
-            <description><![CDATA[Alcohol is never good for people under 40, global study finds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[10分鐘的正念黑客行動相當於多睡44分鐘
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32102519</link>
-            <guid>https://news.ycombinator.com/item?id=32102519</guid>
-            <pubDate>Thu, 14 Jul 2022 23:19:17 GMT</pubDate>
-            <description><![CDATA[A 10-minute mindfulness hack is equivalent of 44 minutes extra sleep]]></description>
         </item>
     </channel>
 </rss>
