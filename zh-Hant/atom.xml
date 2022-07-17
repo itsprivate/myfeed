@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-17T11:47:50.779Z</updated>
+    <updated>2022-07-17T11:58:14.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[殺死但使它看起來像一場事故。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125951</id>
+        <link href="https://news.ycombinator.com/item?id=32125951"/>
+        <updated>2022-07-17T11:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Killbutmakeitlooklikeanaccident.sh]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好的經理人寫得好
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125910</id>
+        <link href="https://news.ycombinator.com/item?id=32125910"/>
+        <updated>2022-07-17T11:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Good Managers Write Well]]></summary>
+        <author>
+            <name>staccatomeasure</name>
+            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紀念水災而不紀念旱災的問題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>devilcius</name>
             <uri>https://news.ycombinator.com/user?id=devilcius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天體物理學家分析了美國國家航空航天局新發布的圖像的影響
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112683</id>
-        <link href="https://news.ycombinator.com/item?id=32112683"/>
-        <updated>2022-07-15T20:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Astrophysicists break down the impact of newly released NASA images]]></summary>
-        <author>
-            <name>crescit_eundo</name>
-            <uri>https://news.ycombinator.com/user?id=crescit_eundo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冠狀病毒在空氣中存活的時間取決於相對溼度
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112678</id>
-        <link href="https://news.ycombinator.com/item?id=32112678"/>
-        <updated>2022-07-15T20:51:28.000Z</updated>
-        <summary type="html"><![CDATA[How long the coronavirus survives in air depends on relative humidity]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
