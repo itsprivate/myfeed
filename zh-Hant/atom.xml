@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-17T06:53:59.235Z</updated>
+    <updated>2022-07-17T07:25:50.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼《媒介》失敗了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125005</id>
+        <link href="https://news.ycombinator.com/item?id=32125005"/>
+        <updated>2022-07-17T06:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Why Medium Failed]]></summary>
+        <author>
+            <name>baskethead</name>
+            <uri>https://news.ycombinator.com/user?id=baskethead</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2050年的假想天氣預報將在下週實現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124998</id>
+        <link href="https://news.ycombinator.com/item?id=32124998"/>
+        <updated>2022-07-17T06:55:02.000Z</updated>
+        <summary type="html"><![CDATA[A hypothetical weather forecast for 2050 is coming true next week]]></summary>
+        <author>
+            <name>TowerTall</name>
+            <uri>https://news.ycombinator.com/user?id=TowerTall</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技界CEO的 "薩滿 "化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124988</id>
+        <link href="https://news.ycombinator.com/item?id=32124988"/>
+        <updated>2022-07-17T06:51:28.000Z</updated>
+        <summary type="html"><![CDATA[The ‘Shamanification’ of the Tech CEO]]></summary>
+        <author>
+            <name>mrintellectual</name>
+            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比爾-沃特森、畢加索和HN的自我推銷
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["關鍵 "項目和志願維護者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111738</id>
-        <link href="https://news.ycombinator.com/item?id=32111738"/>
-        <updated>2022-07-15T19:11:52.000Z</updated>
-        <summary type="html"><![CDATA[“Critical” projects and volunteer maintainers]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌取消了應用權限顯示--用開發者描述代替
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111715</id>
-        <link href="https://news.ycombinator.com/item?id=32111715"/>
-        <updated>2022-07-15T19:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Google removes app permission display – uses developer description instead]]></summary>
-        <author>
-            <name>bleair</name>
-            <uri>https://news.ycombinator.com/user?id=bleair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於ML的科學中的洩漏和可重複性危機
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111697</id>
-        <link href="https://news.ycombinator.com/item?id=32111697"/>
-        <updated>2022-07-15T19:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Leakage and the Reproducibility Crisis in ML-Based Science]]></summary>
-        <author>
-            <name>randomwalker</name>
-            <uri>https://news.ycombinator.com/user?id=randomwalker</uri>
         </author>
     </entry>
 </feed>
