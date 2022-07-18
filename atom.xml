@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-18T07:45:47.732Z</updated>
+    <updated>2022-07-18T07:58:33.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[算法设计手册》--注释
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135691</id>
+        <link href="https://news.ycombinator.com/item?id=32135691"/>
+        <updated>2022-07-18T07:45:03.000Z</updated>
+        <summary type="html"><![CDATA[The Algorithm Design Manual – Notes]]></summary>
+        <author>
+            <name>charlieirish</name>
+            <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Locofy.ai - 将Figma设计变成代码。React, React Native, HTML-CSS
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marrouchi</name>
             <uri>https://news.ycombinator.com/user?id=marrouchi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热泵
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119880</id>
-        <link href="https://news.ycombinator.com/item?id=32119880"/>
-        <updated>2022-07-16T17:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Heat Pumping]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
         </author>
     </entry>
 </feed>
