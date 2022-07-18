@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-18T09:49:18.443Z</updated>
+    <updated>2022-07-18T10:01:56.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習電子和Arduino編程的教育性沙盒遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136325</id>
+        <link href="https://news.ycombinator.com/item?id=32136325"/>
+        <updated>2022-07-18T09:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Educational Sandbox Game to Learn Electronics and Arduino Programming]]></summary>
+        <author>
+            <name>cindyho</name>
+            <uri>https://news.ycombinator.com/user?id=cindyho</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分類法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136148</id>
+        <link href="https://news.ycombinator.com/item?id=32136148"/>
+        <updated>2022-07-18T09:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Sortition]]></summary>
+        <author>
+            <name>sturza</name>
+            <uri>https://news.ycombinator.com/user?id=sturza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維吉利斯項目
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京簽署禁令禁止在俄羅斯進行加密貨幣支付
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32121002</id>
-        <link href="https://news.ycombinator.com/item?id=32121002"/>
-        <updated>2022-07-16T19:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Putin Signs Ban on Crypto Payments in Russia]]></summary>
-        <author>
-            <name>MikeAshley178</name>
-            <uri>https://news.ycombinator.com/user?id=MikeAshley178</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣開採對氣候不友好。它能做到嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32120961</id>
-        <link href="https://news.ycombinator.com/item?id=32120961"/>
-        <updated>2022-07-16T19:07:53.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin mining is not climate-friendly. Can it be?]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
         </author>
     </entry>
 </feed>
