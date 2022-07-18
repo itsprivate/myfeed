@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-18T06:39:31.239Z</updated>
+    <updated>2022-07-18T07:02:25.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[cat(1)的效率能有多高？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135432</id>
+        <link href="https://news.ycombinator.com/item?id=32135432"/>
+        <updated>2022-07-18T06:42:21.000Z</updated>
+        <summary type="html"><![CDATA[How efficient can cat(1) be?]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains的主要竞争对手名单 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135329</id>
+        <link href="https://news.ycombinator.com/item?id=32135329"/>
+        <updated>2022-07-18T06:21:33.000Z</updated>
+        <summary type="html"><![CDATA[List of main JetBrains competitors [pdf]]]></summary>
+        <author>
+            <name>letientai299</name>
+            <uri>https://news.ycombinator.com/user?id=letientai299</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国超市取消水果和蔬菜的 "最佳食用日期 "以减少食物浪费
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135318</id>
+        <link href="https://news.ycombinator.com/item?id=32135318"/>
+        <updated>2022-07-18T06:19:47.000Z</updated>
+        <summary type="html"><![CDATA[UK supermarket scraps 'best before' dates on fruit and veg to cut food waste]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[镜头协议--一个可组合的、去中心化的社交图谱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135216</id>
+        <link href="https://news.ycombinator.com/item?id=32135216"/>
+        <updated>2022-07-18T06:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol – a composable and decentralized social graph]]></summary>
+        <author>
+            <name>dabit3</name>
+            <uri>https://news.ycombinator.com/user?id=dabit3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我最喜欢的文件管理器 - 完整的午夜指挥官教程
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>samclemens</name>
             <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国房贷危机抵制数据被审查员删除，GitHub仍是数据来源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119636</id>
-        <link href="https://news.ycombinator.com/item?id=32119636"/>
-        <updated>2022-07-16T16:37:05.000Z</updated>
-        <summary type="html"><![CDATA[China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source]]></summary>
-        <author>
-            <name>throwaway_1928</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway_1928</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你说软件开发是一种艺术还是一种科学？都不是
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119198</id>
-        <link href="https://news.ycombinator.com/item?id=32119198"/>
-        <updated>2022-07-16T15:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Would you say that software development is more an art or a science? Neither]]></summary>
-        <author>
-            <name>olvy0</name>
-            <uri>https://news.ycombinator.com/user?id=olvy0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长和短的音阶
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119170</id>
-        <link href="https://news.ycombinator.com/item?id=32119170"/>
-        <updated>2022-07-16T15:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Long and Short Scales]]></summary>
-        <author>
-            <name>avgcorrection</name>
-            <uri>https://news.ycombinator.com/user?id=avgcorrection</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们需要更好的技术来实现3D优先的世界
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119060</id>
-        <link href="https://news.ycombinator.com/item?id=32119060"/>
-        <updated>2022-07-16T15:28:24.000Z</updated>
-        <summary type="html"><![CDATA[We need better technology for a 3D-first world]]></summary>
-        <author>
-            <name>mnobu</name>
-            <uri>https://news.ycombinator.com/user?id=mnobu</uri>
         </author>
     </entry>
 </feed>
