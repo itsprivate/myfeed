@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-21T21:31:22.654Z</updated>
+    <updated>2022-07-21T21:49:22.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[二维码的历史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32185335</id>
+        <link href="https://news.ycombinator.com/item?id=32185335"/>
+        <updated>2022-07-21T21:27:16.000Z</updated>
+        <summary type="html"><![CDATA[History of the QR Code]]></summary>
+        <author>
+            <name>lawrenceyan</name>
+            <uri>https://news.ycombinator.com/user?id=lawrenceyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被编程致死。软件与埃里伯斯号灾难
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32185053</id>
+        <link href="https://news.ycombinator.com/item?id=32185053"/>
+        <updated>2022-07-21T21:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Programmed to Death: Software and the Erebus Disaster]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBB终端，一个基于Python的投资研究环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32184935</id>
+        <link href="https://news.ycombinator.com/item?id=32184935"/>
+        <updated>2022-07-21T20:57:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenBB terminal, a Python-based environment for investment research]]></summary>
+        <author>
+            <name>Hbruz0</name>
+            <uri>https://news.ycombinator.com/user?id=Hbruz0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erofs与SquashFS：一个温和的基准测试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32184422</id>
+        <link href="https://news.ycombinator.com/item?id=32184422"/>
+        <updated>2022-07-21T20:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Erofs vs. SquashFS: A Gentle Benchmark]]></summary>
+        <author>
+            <name>st_goliath</name>
+            <uri>https://news.ycombinator.com/user?id=st_goliath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[庆祝西好莱坞（可以说是）世界上第一座现代住宅的百年纪念。
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>lucasfcosta</name>
             <uri>https://news.ycombinator.com/user?id=lucasfcosta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是最安全、最清洁的能源？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32135404</id>
-        <link href="https://news.ycombinator.com/item?id=32135404"/>
-        <updated>2022-07-18T06:36:54.000Z</updated>
-        <summary type="html"><![CDATA[What are the safest and cleanest sources of energy?]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预装了石墨烯的交钥匙手机
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32135177</id>
-        <link href="https://news.ycombinator.com/item?id=32135177"/>
-        <updated>2022-07-18T05:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Turn key phone with graphene is preinstalled]]></summary>
-        <author>
-            <name>learning2Grow</name>
-            <uri>https://news.ycombinator.com/user?id=learning2Grow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客正在用恶意软件攻击工业系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134962</id>
-        <link href="https://news.ycombinator.com/item?id=32134962"/>
-        <updated>2022-07-18T05:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Hackers are targeting industrial systems with malware]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦顶级创业公司Airlift在资金紧缩后关闭了。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134896</id>
-        <link href="https://news.ycombinator.com/item?id=32134896"/>
-        <updated>2022-07-18T05:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Airlift, Pakistan’s top startup, shutting down following funding crunch]]></summary>
-        <author>
-            <name>yuvalhazaz</name>
-            <uri>https://news.ycombinator.com/user?id=yuvalhazaz</uri>
         </author>
     </entry>
 </feed>
