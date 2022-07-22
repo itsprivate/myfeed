@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T22:32:22.369Z</updated>
+    <updated>2022-07-22T22:48:12.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SharkWire: 任天堂64的游戏鲨运营的在线服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197367</id>
+        <link href="https://news.ycombinator.com/item?id=32197367"/>
+        <updated>2022-07-22T21:32:55.000Z</updated>
+        <summary type="html"><![CDATA[SharkWire: The Nintendo 64’s GameShark-Operated Online Service]]></summary>
+        <author>
+            <name>shortformblog</name>
+            <uri>https://news.ycombinator.com/user?id=shortformblog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普在1月6日的一百八十七分钟的不作为
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gjvc</name>
             <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几乎所有的二元搜索和合并排序都被破坏了 (2006)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182660</id>
-        <link href="https://news.ycombinator.com/item?id=32182660"/>
-        <updated>2022-07-21T18:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Nearly all Binary Searches and Mergesorts are Broken (2006)]]></summary>
-        <author>
-            <name>epberry</name>
-            <uri>https://news.ycombinator.com/user?id=epberry</uri>
         </author>
     </entry>
 </feed>
