@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T11:46:11.907Z</updated>
+    <updated>2022-07-22T11:58:48.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PHP注释 - 2022年7月
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190942</id>
+        <link href="https://news.ycombinator.com/item?id=32190942"/>
+        <updated>2022-07-22T11:49:05.000Z</updated>
+        <summary type="html"><![CDATA[PHP Annotated – July 2022]]></summary>
+        <author>
+            <name>simik</name>
+            <uri>https://news.ycombinator.com/user?id=simik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么客户服务如此糟糕？因为它是有利可图的 (2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190885</id>
+        <link href="https://news.ycombinator.com/item?id=32190885"/>
+        <updated>2022-07-22T11:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Why Is Customer Service So Bad? Because It’s Profitable (2019)]]></summary>
+        <author>
+            <name>jiggywiggy</name>
+            <uri>https://news.ycombinator.com/user?id=jiggywiggy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跳槽的理由
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190849</id>
+        <link href="https://news.ycombinator.com/item?id=32190849"/>
+        <updated>2022-07-22T11:34:26.000Z</updated>
+        <summary type="html"><![CDATA[The Case for Job Hopping]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEP 8: 为什么字符限制是79而不是80？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190795</id>
+        <link href="https://news.ycombinator.com/item?id=32190795"/>
+        <updated>2022-07-22T11:26:14.000Z</updated>
+        <summary type="html"><![CDATA[PEP 8: Why is the character limit 79 and not 80?]]></summary>
+        <author>
+            <name>wlkr</name>
+            <uri>https://news.ycombinator.com/user?id=wlkr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clj-commons/etaoin: 纯粹的Clojure Webdriver协议实现
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190574</id>
+        <link href="https://news.ycombinator.com/item?id=32190574"/>
+        <updated>2022-07-22T10:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Clj-commons/etaoin: Pure Clojure Webdriver protocol implementation]]></summary>
+        <author>
+            <name>viebel</name>
+            <uri>https://news.ycombinator.com/user?id=viebel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国科学家推出可在空中 "写字 "的高功率激光器
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>slashdotdash</name>
             <uri>https://news.ycombinator.com/user?id=slashdotdash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学预科软件正在向你的孩子出售广告权限
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177062</id>
-        <link href="https://news.ycombinator.com/item?id=32177062"/>
-        <updated>2022-07-21T08:41:01.000Z</updated>
-        <summary type="html"><![CDATA[College Prep Software Is Selling Advertising Access to Your Kids]]></summary>
-        <author>
-            <name>unripe_syntax</name>
-            <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows密码挖掘
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177058</id>
-        <link href="https://news.ycombinator.com/item?id=32177058"/>
-        <updated>2022-07-21T08:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Windows Password Mining]]></summary>
-        <author>
-            <name>solarist</name>
-            <uri>https://news.ycombinator.com/user?id=solarist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胡说八道的工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177230</id>
-        <link href="https://news.ycombinator.com/item?id=32177230"/>
-        <updated>2022-07-21T09:16:05.000Z</updated>
-        <summary type="html"><![CDATA[Bullshit Job]]></summary>
-        <author>
-            <name>neverminder</name>
-            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBB终端是一个基于Python的投资研究环境。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177220</id>
-        <link href="https://news.ycombinator.com/item?id=32177220"/>
-        <updated>2022-07-21T09:14:47.000Z</updated>
-        <summary type="html"><![CDATA[The OpenBB Terminal is a Python-based environment for investment research]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴尔的XPS 13 Plus开发者版获得Ubuntu 22.04 LTS认证
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177204</id>
-        <link href="https://news.ycombinator.com/item?id=32177204"/>
-        <updated>2022-07-21T09:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Dell’s XPS 13 Plus Developer Edition gets Ubuntu 22.04 LTS certified]]></summary>
-        <author>
-            <name>jay_kyburz</name>
-            <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
         </author>
     </entry>
 </feed>
