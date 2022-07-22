@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T23:30:57.682Z</updated>
+    <updated>2022-07-22T23:48:05.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么MS Word从2版跳到了6版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197464</id>
+        <link href="https://news.ycombinator.com/item?id=32197464"/>
+        <updated>2022-07-22T21:44:14.000Z</updated>
+        <summary type="html"><![CDATA[Why MS Word jumped from version 2 to version 6]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌解雇了称其人工智能为有知觉的工程师Blake Lemoine
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Scott Alexander</name>
             <uri>https://astralcodexten.substack.com/feed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对抑郁症的羟色胺假说的决定性打击
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183661</id>
-        <link href="https://news.ycombinator.com/item?id=32183661"/>
-        <updated>2022-07-21T19:20:11.000Z</updated>
-        <summary type="html"><![CDATA[A Decisive Blow to the Serotonin Hypothesis of Depression]]></summary>
-        <author>
-            <name>salmonet</name>
-            <uri>https://news.ycombinator.com/user?id=salmonet</uri>
         </author>
     </entry>
 </feed>
