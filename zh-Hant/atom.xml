@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T09:32:19.730Z</updated>
+    <updated>2022-07-22T09:49:20.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[心率變異性（HRV）的終極指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32188615</id>
+        <link href="https://news.ycombinator.com/item?id=32188615"/>
+        <updated>2022-07-22T04:45:05.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Guide to Heart Rate Variability (HRV)]]></summary>
+        <author>
+            <name>cpncrunch</name>
+            <uri>https://news.ycombinator.com/user?id=cpncrunch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罐頭歷史--食品罐頭的歷史
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwaway4good</name>
             <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-ZPass引入後降低了周邊地區的嬰兒死亡率 [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32176461</id>
-        <link href="https://news.ycombinator.com/item?id=32176461"/>
-        <updated>2022-07-21T06:39:44.000Z</updated>
-        <summary type="html"><![CDATA[E-ZPass reduced infant mortality in surrounding areas when introduced [pdf]]]></summary>
-        <author>
-            <name>kvee</name>
-            <uri>https://news.ycombinator.com/user?id=kvee</uri>
         </author>
     </entry>
 </feed>
