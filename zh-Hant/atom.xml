@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T08:02:08.431Z</updated>
+    <updated>2022-07-22T08:38:08.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自DeepMind的最新語言模型結果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189689</id>
+        <link href="https://news.ycombinator.com/item?id=32189689"/>
+        <updated>2022-07-22T08:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Recent language model results from DeepMind]]></summary>
+        <author>
+            <name>ofou</name>
+            <uri>https://news.ycombinator.com/user?id=ofou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sprites mods - 一個小小的彈球幻想表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189514</id>
+        <link href="https://news.ycombinator.com/item?id=32189514"/>
+        <updated>2022-07-22T07:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Sprites mods – A tiny Pinball Fantasies table]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[樹立鐵鏽心態
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189238</id>
+        <link href="https://news.ycombinator.com/item?id=32189238"/>
+        <updated>2022-07-22T06:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Building a Rust Mentality]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五位記者在報道互聯網時尋找意義，而不是病毒性的趨勢
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189095</id>
+        <link href="https://news.ycombinator.com/item?id=32189095"/>
+        <updated>2022-07-22T06:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Five journalists on covering the internet in search of meaning, not viral trends]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國情報部門回收 "為兒童著想 "的論據以禁止加密
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>ngaut</name>
             <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tproxy，一個用於代理和分析TCP連接的CLI工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32175921</id>
-        <link href="https://news.ycombinator.com/item?id=32175921"/>
-        <updated>2022-07-21T04:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Tproxy, a CLI tool to proxy and analyze TCP connections]]></summary>
-        <author>
-            <name>alexzeitler</name>
-            <uri>https://news.ycombinator.com/user?id=alexzeitler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Liquid Haskell構建可靠的分佈式系統的冒險之旅
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32175903</id>
-        <link href="https://news.ycombinator.com/item?id=32175903"/>
-        <updated>2022-07-21T04:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Adventures in Building Reliable Distributed Systems with Liquid Haskell]]></summary>
-        <author>
-            <name>alexzeitler</name>
-            <uri>https://news.ycombinator.com/user?id=alexzeitler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臺積電：生活是一片海灘，然後你就會死亡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32175265</id>
-        <link href="https://news.ycombinator.com/item?id=32175265"/>
-        <updated>2022-07-21T02:56:57.000Z</updated>
-        <summary type="html"><![CDATA[TSMC: Life Is a Beach, and Then You Make Dies]]></summary>
-        <author>
-            <name>Katydid</name>
-            <uri>https://news.ycombinator.com/user?id=Katydid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HolyC的語言設計分析(2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32176166</id>
-        <link href="https://news.ycombinator.com/item?id=32176166"/>
-        <updated>2022-07-21T05:45:20.000Z</updated>
-        <summary type="html"><![CDATA[A Language Design Analysis of HolyC (2019)]]></summary>
-        <author>
-            <name>cglong</name>
-            <uri>https://news.ycombinator.com/user?id=cglong</uri>
         </author>
     </entry>
 </feed>
