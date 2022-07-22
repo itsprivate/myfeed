@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T17:51:23.369Z</updated>
+    <updated>2022-07-22T18:00:59.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ValidateMyPlugin - 驗證你的Windows、macOS或Linux VST3和音頻單元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194998</id>
+        <link href="https://news.ycombinator.com/item?id=32194998"/>
+        <updated>2022-07-22T17:53:18.000Z</updated>
+        <summary type="html"><![CDATA[ValidateMyPlugin – Validate Your Windows, macOS or Linux VST3 and Audio Unit]]></summary>
+        <author>
+            <name>sudara</name>
+            <uri>https://news.ycombinator.com/user?id=sudara</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用選擇性的DNS天坑解除對iCloud私有中繼的隱藏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194566</id>
+        <link href="https://news.ycombinator.com/item?id=32194566"/>
+        <updated>2022-07-22T17:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Unhiding iCloud Private Relay with a selective DNS sinkhole]]></summary>
+        <author>
+            <name>Aaronn</name>
+            <uri>https://news.ycombinator.com/user?id=Aaronn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邊界錢包--快速可靠地記憶比特幣種子短語的新方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194428</id>
+        <link href="https://news.ycombinator.com/item?id=32194428"/>
+        <updated>2022-07-22T17:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Border Wallets – a new way to quickly and reliably memorize Bitcoin seed phrases]]></summary>
+        <author>
+            <name>clay-dreidels</name>
+            <uri>https://news.ycombinator.com/user?id=clay-dreidels</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦通信委員會正在打擊 "自動保修 "搶購電話
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194227</id>
+        <link href="https://news.ycombinator.com/item?id=32194227"/>
+        <updated>2022-07-22T16:54:22.000Z</updated>
+        <summary type="html"><![CDATA[The FCC is cracking down on 'auto warranty' robocalls]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德國遊客被告知使用彩色行李箱以避免機場延誤
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>pavlov</name>
             <uri>https://news.ycombinator.com/user?id=pavlov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛立信完成對Vonage的收購
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180823</id>
-        <link href="https://news.ycombinator.com/item?id=32180823"/>
-        <updated>2022-07-21T15:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Ericsson Completes Acquisition of Vonage]]></summary>
-        <author>
-            <name>sorenjan</name>
-            <uri>https://news.ycombinator.com/user?id=sorenjan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無限多的素數怎麼會有無限遠的距離？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180793</id>
-        <link href="https://news.ycombinator.com/item?id=32180793"/>
-        <updated>2022-07-21T15:47:57.000Z</updated>
-        <summary type="html"><![CDATA[How Can Infinitely Many Primes Be Infinitely Far Apart?]]></summary>
-        <author>
-            <name>digital55</name>
-            <uri>https://news.ycombinator.com/user?id=digital55</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有複合型、維度型和ixset型的單位感知數據框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180747</id>
-        <link href="https://news.ycombinator.com/item?id=32180747"/>
-        <updated>2022-07-21T15:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Unit-aware data frames with composite, dimensional and ixset-typed]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解決Kubernetes/EKS規模化的存儲共享問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180628</id>
-        <link href="https://news.ycombinator.com/item?id=32180628"/>
-        <updated>2022-07-21T15:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Solving Storage Sharing in Kubernetes/EKS at Scale]]></summary>
-        <author>
-            <name>annadchandler</name>
-            <uri>https://news.ycombinator.com/user?id=annadchandler</uri>
         </author>
     </entry>
 </feed>
