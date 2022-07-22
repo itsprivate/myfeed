@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-22T21:47:19.142Z</updated>
+    <updated>2022-07-22T22:00:26.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未完成的博士生比没有读过博士更糟糕吗？关于简历
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197516</id>
+        <link href="https://news.ycombinator.com/item?id=32197516"/>
+        <updated>2022-07-22T21:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Is unfinished PhD worse than no PhD studies at all? On CV]]></summary>
+        <author>
+            <name>happyexplorer</name>
+            <uri>https://news.ycombinator.com/user?id=happyexplorer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当处理方法是连续变量时的因果推断
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197139</id>
+        <link href="https://news.ycombinator.com/item?id=32197139"/>
+        <updated>2022-07-22T21:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference when treatments are continuous variables]]></summary>
+        <author>
+            <name>reckel</name>
+            <uri>https://news.ycombinator.com/user?id=reckel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致摄氏网络破产案的法官的信
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Katherine J. Wu</name>
             <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廉价自行车与超级自行车
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182919</id>
-        <link href="https://news.ycombinator.com/item?id=32182919"/>
-        <updated>2022-07-21T18:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Cheap Bike vs. Super Bike]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盐度梯度动力。利用蒸汽压力差（1978年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182877</id>
-        <link href="https://news.ycombinator.com/item?id=32182877"/>
-        <updated>2022-07-21T18:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Salinity Gradient Power: Utilizing Vapor Pressure Differences (1978)]]></summary>
-        <author>
-            <name>blacksqr</name>
-            <uri>https://news.ycombinator.com/user?id=blacksqr</uri>
         </author>
     </entry>
 </feed>
