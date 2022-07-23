@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T05:46:57.623Z</updated>
+    <updated>2022-07-23T06:00:26.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泽特卡斯特法简介（2020年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200696</id>
+        <link href="https://news.ycombinator.com/item?id=32200696"/>
+        <updated>2022-07-23T05:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to the Zettelkasten Method (2020)]]></summary>
+        <author>
+            <name>martinlaz</name>
+            <uri>https://news.ycombinator.com/user?id=martinlaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barnard 68
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱因斯坦的博士论文（1905年） [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185434</id>
-        <link href="https://news.ycombinator.com/item?id=32185434"/>
-        <updated>2022-07-21T21:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Einstein’s Doctoral Thesis (1905) [pdf]]]></summary>
-        <author>
-            <name>Jun8</name>
-            <uri>https://news.ycombinator.com/user?id=Jun8</uri>
         </author>
     </entry>
 </feed>
