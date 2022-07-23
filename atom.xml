@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T06:34:48.996Z</updated>
+    <updated>2022-07-23T06:55:53.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在任何地方与任何人一起对网络进行注释
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200783</id>
+        <link href="https://news.ycombinator.com/item?id=32200783"/>
+        <updated>2022-07-23T05:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Annotate the Web, with Anyone, Anywhere]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么法国如此惧怕上帝？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yamrzou</name>
             <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉在吹嘘长期潜力一年后抛售了75%的比特币
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185748</id>
-        <link href="https://news.ycombinator.com/item?id=32185748"/>
-        <updated>2022-07-21T22:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Tesla has dumped 75% of its Bitcoin a year after touting long-term potential]]></summary>
-        <author>
-            <name>jacquesm</name>
-            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
         </author>
     </entry>
 </feed>
