@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T07:44:40.936Z</updated>
+    <updated>2022-07-23T07:58:16.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紅線
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201214</id>
+        <link href="https://news.ycombinator.com/item?id=32201214"/>
+        <updated>2022-07-23T07:31:06.000Z</updated>
+        <summary type="html"><![CDATA[The Red Line]]></summary>
+        <author>
+            <name>alexzeitler</name>
+            <uri>https://news.ycombinator.com/user?id=alexzeitler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界基金加入1.28億美元的賭注，認為量子可以帶來氣候方面的突破
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201085</id>
+        <link href="https://news.ycombinator.com/item?id=32201085"/>
+        <updated>2022-07-23T07:04:11.000Z</updated>
+        <summary type="html"><![CDATA[World Fund joins $128M bet that quantum can deliver climate breakthroughs]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從 "概念 "開始創建博客的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201018</id>
+        <link href="https://news.ycombinator.com/item?id=32201018"/>
+        <updated>2022-07-23T06:50:57.000Z</updated>
+        <summary type="html"><![CDATA[Tool to Create a Blog from Notion]]></summary>
+        <author>
+            <name>BruceHN</name>
+            <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我的Flutter屏幕看起來很模糊？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200888</id>
+        <link href="https://news.ycombinator.com/item?id=32200888"/>
+        <updated>2022-07-23T06:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Why do my Flutter screens look washed out?]]></summary>
+        <author>
+            <name>alexandr1us</name>
+            <uri>https://news.ycombinator.com/user?id=alexandr1us</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回覆 "Symlinks的麻煩 "的代碼。
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>jasonhansel</name>
             <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千里之外的氣候模式影響著美國的鳥類遷徙
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186007</id>
-        <link href="https://news.ycombinator.com/item?id=32186007"/>
-        <updated>2022-07-21T22:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Climate Patterns Thousands of Miles Away Affect US Bird Migration]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主黨人在墮胎問題上的開口
-]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2022/07/the-opening-for-democrats-on-abortion/670612/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2022/07/the-opening-for-democrats-on-abortion/670612/?utm_source=feed"/>
-        <updated>2022-07-21T22:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The Opening for Democrats on Abortion]]></summary>
-        <author>
-            <name>Jerusalem Demsas</name>
-            <uri>https://www.theatlantic.com/feed/all/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福特稱2023年將擁有可生產60萬輛電動車的電池
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185996</id>
-        <link href="https://news.ycombinator.com/item?id=32185996"/>
-        <updated>2022-07-21T22:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Ford Says It’ll Have the Batteries to Build 600K EVs in 2023]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帝王斑蝶現在被列為瀕危物種
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185985</id>
-        <link href="https://news.ycombinator.com/item?id=32185985"/>
-        <updated>2022-07-21T22:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Monarch butterflies now listed as endangered]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
         </author>
     </entry>
 </feed>
