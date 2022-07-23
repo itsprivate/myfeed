@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32201928",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32201928",
+            "title": "微軟關閉了兩條攻擊途徑。辦公室宏，RDP暴力攻擊\n",
+            "summary": "Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing",
+            "date_modified": "2022-07-23T10:06:18.000Z",
+            "author": {
+                "name": "rntn",
+                "url": "https://news.ycombinator.com/user?id=rntn"
+            },
+            "_original_headline": "Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing",
+            "_original_url": "https://www.theregister.com/2022/07/22/microsoft-windows-vba-macros/",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32201333",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32201333",
+            "title": "經過驗證的Twitter漏洞暴露了540萬個賬戶的數據\n",
+            "summary": "Verified Twitter Vulnerability Exposes Data from 5.4M Accounts",
+            "date_modified": "2022-07-23T07:59:03.000Z",
+            "author": {
+                "name": "Hbruz0",
+                "url": "https://news.ycombinator.com/user?id=Hbruz0"
+            },
+            "_original_headline": "Verified Twitter Vulnerability Exposes Data from 5.4M Accounts",
+            "_original_url": "https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://www.newyorker.com/culture/persons-of-interest/in-the-mafias-shadow-a-son-honors-his-father",
             "content_html": "",
             "url": "https://www.newyorker.com/culture/persons-of-interest/in-the-mafias-shadow-a-son-honors-his-father",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas",
             "_sensitive": false,
             "_score": 31
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32186866",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32186866",
-            "title": "詹姆斯-韋伯發現人類所見過的最遠的銀河系\n",
-            "summary": "James Webb Spots the Farthest Galaxy Humans Have Ever Seen",
-            "date_modified": "2022-07-22T00:06:32.000Z",
-            "author": {
-                "name": "jonbaer",
-                "url": "https://news.ycombinator.com/user?id=jonbaer"
-            },
-            "_original_headline": "James Webb Spots the Farthest Galaxy Humans Have Ever Seen",
-            "_original_url": "https://www.vice.com/en/article/xgydaj/james-webb-spots-the-farthest-galaxy-humans-have-ever-seen-near-the-dawn-of-time",
-            "_sensitive": false,
-            "_score": 6
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32186841",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32186841",
-            "title": "用選擇性的DNS天坑來隱藏iCloud私人中繼用戶\n",
-            "summary": "Unhiding iCloud Private Relay users with a selective DNS sinkhole",
-            "date_modified": "2022-07-22T00:02:42.000Z",
-            "author": {
-                "name": "kellermatth",
-                "url": "https://news.ycombinator.com/user?id=kellermatth"
-            },
-            "_original_headline": "Unhiding iCloud Private Relay users with a selective DNS sinkhole",
-            "_original_url": "https://m-keller.com/2022-07-21-icloud-private-relay-dns-leak.html",
-            "_sensitive": false,
-            "_score": 3
         }
     ]
 }

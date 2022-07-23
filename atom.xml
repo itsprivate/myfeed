@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T10:32:27.478Z</updated>
+    <updated>2022-07-23T10:49:21.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软关闭了两条攻击途径。办公室宏，RDP暴力攻击
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201928</id>
+        <link href="https://news.ycombinator.com/item?id=32201928"/>
+        <updated>2022-07-23T10:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经过验证的Twitter漏洞暴露了540万个账户的数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201333</id>
+        <link href="https://news.ycombinator.com/item?id=32201333"/>
+        <updated>2022-07-23T07:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Verified Twitter Vulnerability Exposes Data from 5.4M Accounts]]></summary>
+        <author>
+            <name>Hbruz0</name>
+            <uri>https://news.ycombinator.com/user?id=Hbruz0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在黑手党的阴影下，一个儿子向他的父亲致敬
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韦伯发现人类所见过的最远的银河系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186866</id>
-        <link href="https://news.ycombinator.com/item?id=32186866"/>
-        <updated>2022-07-22T00:06:32.000Z</updated>
-        <summary type="html"><![CDATA[James Webb Spots the Farthest Galaxy Humans Have Ever Seen]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用选择性的DNS天坑来隐藏iCloud私人中继用户
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186841</id>
-        <link href="https://news.ycombinator.com/item?id=32186841"/>
-        <updated>2022-07-22T00:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Unhiding iCloud Private Relay users with a selective DNS sinkhole]]></summary>
-        <author>
-            <name>kellermatth</name>
-            <uri>https://news.ycombinator.com/user?id=kellermatth</uri>
         </author>
     </entry>
 </feed>

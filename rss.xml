@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Sat, 23 Jul 2022 10:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 10:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微软关闭了两条攻击途径。办公室宏，RDP暴力攻击
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32201928</link>
+            <guid>https://news.ycombinator.com/item?id=32201928</guid>
+            <pubDate>Sat, 23 Jul 2022 10:06:18 GMT</pubDate>
+            <description><![CDATA[Microsoft closes off two avenues of attack: Office macros, RDP brute-forcing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[经过验证的Twitter漏洞暴露了540万个账户的数据
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32201333</link>
+            <guid>https://news.ycombinator.com/item?id=32201333</guid>
+            <pubDate>Sat, 23 Jul 2022 07:59:03 GMT</pubDate>
+            <description><![CDATA[Verified Twitter Vulnerability Exposes Data from 5.4M Accounts]]></description>
+        </item>
         <item>
             <title><![CDATA[在黑手党的阴影下，一个儿子向他的父亲致敬
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32186911</guid>
             <pubDate>Fri, 22 Jul 2022 00:12:08 GMT</pubDate>
             <description><![CDATA[The True Costs of Inflation in Small-Town Texas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[詹姆斯-韦伯发现人类所见过的最远的银河系
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32186866</link>
-            <guid>https://news.ycombinator.com/item?id=32186866</guid>
-            <pubDate>Fri, 22 Jul 2022 00:06:32 GMT</pubDate>
-            <description><![CDATA[James Webb Spots the Farthest Galaxy Humans Have Ever Seen]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用选择性的DNS天坑来隐藏iCloud私人中继用户
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32186841</link>
-            <guid>https://news.ycombinator.com/item?id=32186841</guid>
-            <pubDate>Fri, 22 Jul 2022 00:02:42 GMT</pubDate>
-            <description><![CDATA[Unhiding iCloud Private Relay users with a selective DNS sinkhole]]></description>
         </item>
     </channel>
 </rss>
