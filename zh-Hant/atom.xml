@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T22:29:05.308Z</updated>
+    <updated>2022-07-23T22:47:16.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MecanoChemistry: H2氣體在固體中的儲存
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32208146</id>
+        <link href="https://news.ycombinator.com/item?id=32208146"/>
+        <updated>2022-07-23T22:24:32.000Z</updated>
+        <summary type="html"><![CDATA[MecanoChemistry: H2 Gas Storage in Solids]]></summary>
+        <author>
+            <name>jgamman</name>
+            <uri>https://news.ycombinator.com/user?id=jgamman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌高管暗示Instagram和TikTok正在蠶食谷歌的搜索業務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32208025</id>
+        <link href="https://news.ycombinator.com/item?id=32208025"/>
+        <updated>2022-07-23T22:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Google exec suggests Instagram and TikTok are eating into Google’s Search]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特數據洩露暴露540萬個賬戶的聯繫信息；以3萬美元出售
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yash。一個符合Posix標準且互動性強的精簡外殼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191656</id>
-        <link href="https://news.ycombinator.com/item?id=32191656"/>
-        <updated>2022-07-22T13:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Yash: A lean shell that's Posix-compliant and interactivity-friendly]]></summary>
-        <author>
-            <name>euclaise</name>
-            <uri>https://news.ycombinator.com/user?id=euclaise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snap報告稱第二季度用戶增長但虧損幅度更大
-]]></title>
-        <id>https://www.nytimes.com/2022/07/21/business/snap-earnings.html</id>
-        <link href="https://www.nytimes.com/2022/07/21/business/snap-earnings.html"/>
-        <updated>2022-07-22T02:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Snap Reports User Growth But a Wider Loss in the Second Quarter]]></summary>
-        <author>
-            <name>Kalley Huang</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
