@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T19:26:02.869Z</updated>
+    <updated>2022-07-23T19:43:25.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[焦油档案格式，以及为什么GNU焦油提取的时间是四次方的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206579</id>
+        <link href="https://news.ycombinator.com/item?id=32206579"/>
+        <updated>2022-07-23T19:11:49.000Z</updated>
+        <summary type="html"><![CDATA[The tar archive format, and why GNU tar extracts in quadratic time]]></summary>
+        <author>
+            <name>mort96</name>
+            <uri>https://news.ycombinator.com/user?id=mort96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警方发布的视频在YouTube上不再受到欢迎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206529</id>
+        <link href="https://news.ycombinator.com/item?id=32206529"/>
+        <updated>2022-07-23T19:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Videos released by the Police are no longer welcome on YouTube]]></summary>
+        <author>
+            <name>reactspa</name>
+            <uri>https://news.ycombinator.com/user?id=reactspa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌解雇声称其人工智能有意识的工程师
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tintml。为你的机器学习项目带来色彩
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191492</id>
-        <link href="https://news.ycombinator.com/item?id=32191492"/>
-        <updated>2022-07-22T13:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Tintml: Bring color to your machine learning projects]]></summary>
-        <author>
-            <name>giorgiop</name>
-            <uri>https://news.ycombinator.com/user?id=giorgiop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国对DiDi公司的64亿次非法数据收集行为罚款12亿美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191466</id>
-        <link href="https://news.ycombinator.com/item?id=32191466"/>
-        <updated>2022-07-22T13:03:29.000Z</updated>
-        <summary type="html"><![CDATA[China fines DiDi $1.2B USD for 64B acts of illegal data collection]]></summary>
-        <author>
-            <name>MobileVet</name>
-            <uri>https://news.ycombinator.com/user?id=MobileVet</uri>
         </author>
     </entry>
 </feed>
