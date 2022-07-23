@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-23T09:28:49.994Z</updated>
+    <updated>2022-07-23T09:47:03.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對俄羅斯的制裁正在發揮作用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201712</id>
+        <link href="https://news.ycombinator.com/item?id=32201712"/>
+        <updated>2022-07-23T09:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Sanctions against Russia are working]]></summary>
+        <author>
+            <name>bambax</name>
+            <uri>https://news.ycombinator.com/user?id=bambax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沃達豐將引入持久性用戶追蹤功能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轉移到zsh（2019年）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186638</id>
-        <link href="https://news.ycombinator.com/item?id=32186638"/>
-        <updated>2022-07-21T23:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Moving to zsh (2019)]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
         </author>
     </entry>
 </feed>
