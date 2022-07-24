@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T14:51:10.668Z</updated>
+    <updated>2022-07-24T14:59:50.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中土的战死者发生了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213961</id>
+        <link href="https://news.ycombinator.com/item?id=32213961"/>
+        <updated>2022-07-24T14:45:20.000Z</updated>
+        <summary type="html"><![CDATA[What Happened to the War Dead of Middle Earth?]]></summary>
+        <author>
+            <name>socialdemocrat</name>
+            <uri>https://news.ycombinator.com/user?id=socialdemocrat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术债务和重构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213929</id>
+        <link href="https://news.ycombinator.com/item?id=32213929"/>
+        <updated>2022-07-24T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Technical Debt and Refactoring]]></summary>
+        <author>
+            <name>CharlesW</name>
+            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无代码是不可扩展的。我们在FINN的学习，从1000人走向10万人。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213871</id>
+        <link href="https://news.ycombinator.com/item?id=32213871"/>
+        <updated>2022-07-24T14:34:32.000Z</updated>
+        <summary type="html"><![CDATA[No-code isn’t scalable. Our learnings at FINN going from 1000 toward 100k ca]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么昂贵的房价对大多数房地产经纪人来说不是好事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213864</id>
+        <link href="https://news.ycombinator.com/item?id=32213864"/>
+        <updated>2022-07-24T14:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Why expensive housing prices aren’t good for most real estate agents]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维-哈特：六面体
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>memish</name>
             <uri>https://news.ycombinator.com/user?id=memish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缓慢的方式。在城市间行走
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32197192</id>
-        <link href="https://news.ycombinator.com/item?id=32197192"/>
-        <updated>2022-07-22T21:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Slow Ways: Walking between cities]]></summary>
-        <author>
-            <name>xk3</name>
-            <uri>https://news.ycombinator.com/user?id=xk3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个C++开发者的50个可怕的编码技巧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196895</id>
-        <link href="https://news.ycombinator.com/item?id=32196895"/>
-        <updated>2022-07-22T20:44:10.000Z</updated>
-        <summary type="html"><![CDATA[50 terrible coding tips for a C++ developer]]></summary>
-        <author>
-            <name>AndreyKarpov</name>
-            <uri>https://news.ycombinator.com/user?id=AndreyKarpov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kafka并行消费者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196229</id>
-        <link href="https://news.ycombinator.com/item?id=32196229"/>
-        <updated>2022-07-22T19:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Kafka Parallel Consumer]]></summary>
-        <author>
-            <name>antonmry</name>
-            <uri>https://news.ycombinator.com/user?id=antonmry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰森-伊斯贝尔现场演奏，加上新墨西哥州的米歇尔-卢扬-格里森
-]]></title>
-        <id>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/jason-isbell-plays-live-plus-new-mexicos-michelle-lujan-grisham</id>
-        <link href="https://www.newyorker.com/podcast/the-new-yorker-radio-hour/jason-isbell-plays-live-plus-new-mexicos-michelle-lujan-grisham"/>
-        <updated>2022-07-22T21:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Jason Isbell Plays Live, Plus New Mexico’s Michelle Lujan Grisham]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/news</uri>
         </author>
     </entry>
 </feed>
