@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T06:55:44.771Z</updated>
+    <updated>2022-07-24T07:26:46.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[採訪Arm公司創始人赫爾曼-豪瑟
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211152</id>
+        <link href="https://news.ycombinator.com/item?id=32211152"/>
+        <updated>2022-07-24T07:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Interview with Hermann Hauser, Founder of Arm]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - six-ddc/plow: 一個高性能的HTTP基準測試工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211057</id>
+        <link href="https://news.ycombinator.com/item?id=32211057"/>
+        <updated>2022-07-24T06:56:49.000Z</updated>
+        <summary type="html"><![CDATA[GitHub – six-ddc/plow: A high-performance HTTP benchmarking tool]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分佈式交易鏈接的完整跟蹤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32209961</id>
+        <link href="https://news.ycombinator.com/item?id=32209961"/>
+        <updated>2022-07-24T03:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Complete trace of the link of a distributed transaction]]></summary>
+        <author>
+            <name>dksl</name>
+            <uri>https://news.ycombinator.com/user?id=dksl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法國加密控制條例
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>paguerrie</name>
             <uri>https://news.ycombinator.com/user?id=paguerrie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波姆公司和諾斯羅普-格魯曼公司聯手打造超高速軍用飛機
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194055</id>
-        <link href="https://news.ycombinator.com/item?id=32194055"/>
-        <updated>2022-07-22T16:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Boom and Northrop Grumman team up to build superfast military aircraft]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國的關鍵礦產戰略
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194041</id>
-        <link href="https://news.ycombinator.com/item?id=32194041"/>
-        <updated>2022-07-22T16:41:44.000Z</updated>
-        <summary type="html"><![CDATA[The UK's critical minerals strategy]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌將Carbon語言命名為 "C++的實驗性繼承者"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194035</id>
-        <link href="https://news.ycombinator.com/item?id=32194035"/>
-        <updated>2022-07-22T16:41:24.000Z</updated>
-        <summary type="html"><![CDATA[Google brands Carbon language as “experimental successor to C++”]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
         </author>
     </entry>
 </feed>
