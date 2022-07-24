@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T07:26:46.389Z</updated>
+    <updated>2022-07-24T07:44:38.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰夫-贝佐斯的API任务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211087</id>
+        <link href="https://news.ycombinator.com/item?id=32211087"/>
+        <updated>2022-07-24T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeff Bezos' API Mandate]]></summary>
+        <author>
+            <name>ko3us</name>
+            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷漠的电子邮件和Twitter
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211063</id>
+        <link href="https://news.ycombinator.com/item?id=32211063"/>
+        <updated>2022-07-24T06:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Cold Emails and Twitter]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访Arm公司创始人赫尔曼-豪瑟
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克说远程工作者是在假装工作。他是（某种程度上）正确的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194106</id>
-        <link href="https://news.ycombinator.com/item?id=32194106"/>
-        <updated>2022-07-22T16:46:21.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk says remote workers are pretending to work. He’s (sort of) right]]></summary>
-        <author>
-            <name>ijidak</name>
-            <uri>https://news.ycombinator.com/user?id=ijidak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在自定义数据集上训练SegFormer
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194077</id>
-        <link href="https://news.ycombinator.com/item?id=32194077"/>
-        <updated>2022-07-22T16:43:53.000Z</updated>
-        <summary type="html"><![CDATA[How to Train SegFormer on a Custom Dataset]]></summary>
-        <author>
-            <name>paguerrie</name>
-            <uri>https://news.ycombinator.com/user?id=paguerrie</uri>
         </author>
     </entry>
 </feed>
