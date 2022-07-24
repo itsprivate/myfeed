@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T11:27:29.767Z</updated>
+    <updated>2022-07-24T11:43:48.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix癱瘓了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212331</id>
+        <link href="https://news.ycombinator.com/item?id=32212331"/>
+        <updated>2022-07-24T11:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Netflix Is Down]]></summary>
+        <author>
+            <name>mrlagmer</name>
+            <uri>https://news.ycombinator.com/user?id=mrlagmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個沒有先例的法院
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>duxup</name>
             <uri>https://news.ycombinator.com/user?id=duxup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何擁有自己作為軟件工程師的成長
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195641</id>
-        <link href="https://news.ycombinator.com/item?id=32195641"/>
-        <updated>2022-07-22T18:43:09.000Z</updated>
-        <summary type="html"><![CDATA[How to Own Your Growth as a Software Engineer]]></summary>
-        <author>
-            <name>jesalg</name>
-            <uri>https://news.ycombinator.com/user?id=jesalg</uri>
         </author>
     </entry>
 </feed>
