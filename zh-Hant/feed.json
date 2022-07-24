@@ -11,6 +11,118 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32216700",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216700",
+            "title": "為知道如何開發的開發人員提供的Kubernetes\n",
+            "summary": "Kubernetes for Developers Who Know How to Develop",
+            "date_modified": "2022-07-24T19:21:39.000Z",
+            "author": {
+                "name": "EntICOnc",
+                "url": "https://news.ycombinator.com/user?id=EntICOnc"
+            },
+            "_original_headline": "Kubernetes for Developers Who Know How to Develop",
+            "_original_url": "https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216696",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216696",
+            "title": "譴責氣候懷疑論者是不夠的。破壞性的抗議活動是唯一的出路\n",
+            "summary": "Berating climate sceptics isn’t enough. Disruptive protest the only way forward",
+            "date_modified": "2022-07-24T19:21:14.000Z",
+            "author": {
+                "name": "nigerian1981",
+                "url": "https://news.ycombinator.com/user?id=nigerian1981"
+            },
+            "_original_headline": "Berating climate sceptics isn’t enough. Disruptive protest the only way forward",
+            "_original_url": "https://www.theguardian.com/commentisfree/2022/jul/24/climate-sceptics-protest-emergency-activists",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216692",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216692",
+            "title": "野外的可轉移故障\n",
+            "summary": "Metastable Failures in the Wild",
+            "date_modified": "2022-07-24T19:21:03.000Z",
+            "author": {
+                "name": "hasheddan",
+                "url": "https://news.ycombinator.com/user?id=hasheddan"
+            },
+            "_original_headline": "Metastable Failures in the Wild",
+            "_original_url": "https://www.micahlerner.com/2022/07/11/metastable-failures-in-the-wild.html",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216549",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216549",
+            "title": "Cilium服務網為雲部署擴展了eBPF\n",
+            "summary": "Cilium Service Mesh Extends eBPF for Cloud Deployments",
+            "date_modified": "2022-07-24T19:04:28.000Z",
+            "author": {
+                "name": "CrankyBear",
+                "url": "https://news.ycombinator.com/user?id=CrankyBear"
+            },
+            "_original_headline": "Cilium Service Mesh Extends eBPF for Cloud Deployments",
+            "_original_url": "https://www.itprotoday.com/cloud-computing-and-edge-computing/cilium-service-mesh-extends-ebpf-cloud-deployments",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216430",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216430",
+            "title": "以OmniTable的方式進行調試\n",
+            "summary": "Debugging the OmniTable Way",
+            "date_modified": "2022-07-24T18:50:01.000Z",
+            "author": {
+                "name": "mlerner",
+                "url": "https://news.ycombinator.com/user?id=mlerner"
+            },
+            "_original_headline": "Debugging the OmniTable Way",
+            "_original_url": "https://www.usenix.org/conference/osdi22/presentation/quinn",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216313",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216313",
+            "title": "征服 - 類似於《風險》的開源戰略遊戲，用Godot編寫。\n",
+            "summary": "Conquest – An open source strategy game similar to Risk and written in Godot",
+            "date_modified": "2022-07-24T18:37:16.000Z",
+            "author": {
+                "name": "pjfin123",
+                "url": "https://news.ycombinator.com/user?id=pjfin123"
+            },
+            "_original_headline": "Conquest – An open source strategy game similar to Risk and written in Godot",
+            "_original_url": "https://github.com/argosopentech/Conquest",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216280",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216280",
+            "title": "6G和超越。太赫茲研究綜述\n",
+            "summary": "6G and Beyond: A Terahertz Research Roundup",
+            "date_modified": "2022-07-24T18:33:52.000Z",
+            "author": {
+                "name": "WaitWaitWha",
+                "url": "https://news.ycombinator.com/user?id=WaitWaitWha"
+            },
+            "_original_headline": "6G and Beyond: A Terahertz Research Roundup",
+            "_original_url": "https://www.allaboutcircuits.com/news/terahertz-wireless-communication-technology/",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32216676",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32216676",
@@ -9495,118 +9607,6 @@
             },
             "_original_headline": "Gnome Turns 25",
             "_original_url": "https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200411",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200411",
-            "title": "我現在用Linux的nftables做防火牆規則，進展順利。\n",
-            "summary": "I've now used Linux nftables for firewall rules and it went okay",
-            "date_modified": "2022-07-23T04:35:27.000Z",
-            "author": {
-                "name": "zdw",
-                "url": "https://news.ycombinator.com/user?id=zdw"
-            },
-            "_original_headline": "I've now used Linux nftables for firewall rules and it went okay",
-            "_original_url": "https://utcc.utoronto.ca/~cks/space/blog/linux/NFTablesInoffensive",
-            "_sensitive": false,
-            "_score": 3
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200371",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200371",
-            "title": "聯邦調查局調查確定華為設備可能破壞美國核通訊\n",
-            "summary": "FBI investigation determined Huawei equipment could disrupt US nuclear comms",
-            "date_modified": "2022-07-23T04:29:07.000Z",
-            "author": {
-                "name": "tusslewake",
-                "url": "https://news.ycombinator.com/user?id=tusslewake"
-            },
-            "_original_headline": "FBI investigation determined Huawei equipment could disrupt US nuclear comms",
-            "_original_url": "https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html",
-            "_sensitive": false,
-            "_score": 8
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200333",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200333",
-            "title": "尼克斯-貝殼如何拯救我們團隊的理智 (2021)\n",
-            "summary": "How Nix-Shell Saved Our Team’s Sanity (2021)",
-            "date_modified": "2022-07-23T04:22:50.000Z",
-            "author": {
-                "name": "peter_d_sherman",
-                "url": "https://news.ycombinator.com/user?id=peter_d_sherman"
-            },
-            "_original_headline": "How Nix-Shell Saved Our Team’s Sanity (2021)",
-            "_original_url": "https://medium.com/att-israel/how-nix-shell-saved-our-teams-sanity-a22fe6668d0e",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200317",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200317",
-            "title": "大膽的公關陰謀使人們對氣候變化產生了懷疑\n",
-            "summary": "The audacious PR plot that seeded doubt about climate change",
-            "date_modified": "2022-07-23T04:18:59.000Z",
-            "author": {
-                "name": "ljf",
-                "url": "https://news.ycombinator.com/user?id=ljf"
-            },
-            "_original_headline": "The audacious PR plot that seeded doubt about climate change",
-            "_original_url": "https://www.bbc.co.uk/news/science-environment-62225696",
-            "_sensitive": false,
-            "_score": 3
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200284",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200284",
-            "title": "為什麼我們需要加密貨幣，為什麼我們不應該把它與其他資產進行比較？\n",
-            "summary": "Why do we need crypto and why we shouldn't compare it other assets?",
-            "date_modified": "2022-07-23T04:13:46.000Z",
-            "author": {
-                "name": "0xgana",
-                "url": "https://news.ycombinator.com/user?id=0xgana"
-            },
-            "_original_headline": "Why do we need crypto and why we shouldn't compare it other assets?",
-            "_original_url": "https://mirror.xyz/0xf33e2b87620A133e189b6D919E72794e58560163/lZLgmIi1wu4UgbnjufKtc7VIW4KFcL7FdxWDVKm8hNc",
-            "_sensitive": false,
-            "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200184",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200184",
-            "title": "埃隆-馬斯克和硅谷對人工智能的過度依賴\n",
-            "summary": "Elon Musk and Silicon Valley's Overreliance on AI",
-            "date_modified": "2022-07-23T03:54:44.000Z",
-            "author": {
-                "name": "tekdude",
-                "url": "https://news.ycombinator.com/user?id=tekdude"
-            },
-            "_original_headline": "Elon Musk and Silicon Valley's Overreliance on AI",
-            "_original_url": "https://slate.com/technology/2022/07/elon-musk-twitter-artificial-intelligence-machine-learning.html",
-            "_sensitive": false,
-            "_score": 3
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32200111",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32200111",
-            "title": "不使用單一酮號的肖爾算法(2007)\n",
-            "summary": "Shor’s algorithm without using a single ket sign (2007)",
-            "date_modified": "2022-07-23T03:40:55.000Z",
-            "author": {
-                "name": "nick__m",
-                "url": "https://news.ycombinator.com/user?id=nick__m"
-            },
-            "_original_headline": "Shor’s algorithm without using a single ket sign (2007)",
-            "_original_url": "https://scottaaronson.blog/?p=208",
             "_sensitive": false,
             "_score": 2
         }

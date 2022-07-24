@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T19:27:03.990Z</updated>
+    <updated>2022-07-24T19:45:49.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為知道如何開發的開發人員提供的Kubernetes
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216700</id>
+        <link href="https://news.ycombinator.com/item?id=32216700"/>
+        <updated>2022-07-24T19:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes for Developers Who Know How to Develop]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[譴責氣候懷疑論者是不夠的。破壞性的抗議活動是唯一的出路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216696</id>
+        <link href="https://news.ycombinator.com/item?id=32216696"/>
+        <updated>2022-07-24T19:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Berating climate sceptics isn’t enough. Disruptive protest the only way forward]]></summary>
+        <author>
+            <name>nigerian1981</name>
+            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野外的可轉移故障
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216692</id>
+        <link href="https://news.ycombinator.com/item?id=32216692"/>
+        <updated>2022-07-24T19:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Metastable Failures in the Wild]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cilium服務網為雲部署擴展了eBPF
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216549</id>
+        <link href="https://news.ycombinator.com/item?id=32216549"/>
+        <updated>2022-07-24T19:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Cilium Service Mesh Extends eBPF for Cloud Deployments]]></summary>
+        <author>
+            <name>CrankyBear</name>
+            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以OmniTable的方式進行調試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216430</id>
+        <link href="https://news.ycombinator.com/item?id=32216430"/>
+        <updated>2022-07-24T18:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Debugging the OmniTable Way]]></summary>
+        <author>
+            <name>mlerner</name>
+            <uri>https://news.ycombinator.com/user?id=mlerner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[征服 - 類似於《風險》的開源戰略遊戲，用Godot編寫。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216313</id>
+        <link href="https://news.ycombinator.com/item?id=32216313"/>
+        <updated>2022-07-24T18:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Conquest – An open source strategy game similar to Risk and written in Godot]]></summary>
+        <author>
+            <name>pjfin123</name>
+            <uri>https://news.ycombinator.com/user?id=pjfin123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6G和超越。太赫茲研究綜述
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216280</id>
+        <link href="https://news.ycombinator.com/item?id=32216280"/>
+        <updated>2022-07-24T18:33:52.000Z</updated>
+        <summary type="html"><![CDATA[6G and Beyond: A Terahertz Research Roundup]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷幻藥正在幫助許多人開啟新的生命認知
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>miohtama</name>
             <uri>https://news.ycombinator.com/user?id=miohtama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我現在用Linux的nftables做防火牆規則，進展順利。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200411</id>
-        <link href="https://news.ycombinator.com/item?id=32200411"/>
-        <updated>2022-07-23T04:35:27.000Z</updated>
-        <summary type="html"><![CDATA[I've now used Linux nftables for firewall rules and it went okay]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦調查局調查確定華為設備可能破壞美國核通訊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200371</id>
-        <link href="https://news.ycombinator.com/item?id=32200371"/>
-        <updated>2022-07-23T04:29:07.000Z</updated>
-        <summary type="html"><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></summary>
-        <author>
-            <name>tusslewake</name>
-            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼克斯-貝殼如何拯救我們團隊的理智 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200333</id>
-        <link href="https://news.ycombinator.com/item?id=32200333"/>
-        <updated>2022-07-23T04:22:50.000Z</updated>
-        <summary type="html"><![CDATA[How Nix-Shell Saved Our Team’s Sanity (2021)]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大膽的公關陰謀使人們對氣候變化產生了懷疑
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200317</id>
-        <link href="https://news.ycombinator.com/item?id=32200317"/>
-        <updated>2022-07-23T04:18:59.000Z</updated>
-        <summary type="html"><![CDATA[The audacious PR plot that seeded doubt about climate change]]></summary>
-        <author>
-            <name>ljf</name>
-            <uri>https://news.ycombinator.com/user?id=ljf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們需要加密貨幣，為什麼我們不應該把它與其他資產進行比較？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200284</id>
-        <link href="https://news.ycombinator.com/item?id=32200284"/>
-        <updated>2022-07-23T04:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need crypto and why we shouldn't compare it other assets?]]></summary>
-        <author>
-            <name>0xgana</name>
-            <uri>https://news.ycombinator.com/user?id=0xgana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克和硅谷對人工智能的過度依賴
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200184</id>
-        <link href="https://news.ycombinator.com/item?id=32200184"/>
-        <updated>2022-07-23T03:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk and Silicon Valley's Overreliance on AI]]></summary>
-        <author>
-            <name>tekdude</name>
-            <uri>https://news.ycombinator.com/user?id=tekdude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不使用單一酮號的肖爾算法(2007)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200111</id>
-        <link href="https://news.ycombinator.com/item?id=32200111"/>
-        <updated>2022-07-23T03:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Shor’s algorithm without using a single ket sign (2007)]]></summary>
-        <author>
-            <name>nick__m</name>
-            <uri>https://news.ycombinator.com/user?id=nick__m</uri>
         </author>
     </entry>
 </feed>
