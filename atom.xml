@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T07:44:38.905Z</updated>
+    <updated>2022-07-24T07:57:53.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科上关于情报的文章的文化之争
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32210649</id>
+        <link href="https://news.ycombinator.com/item?id=32210649"/>
+        <updated>2022-07-24T05:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Culture wars on Wiki articles on Intelligence]]></summary>
+        <author>
+            <name>kodisha</name>
+            <uri>https://news.ycombinator.com/user?id=kodisha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杰夫-贝佐斯的API任务
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代汽车子公司在阿拉巴马州工厂使用童工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194185</id>
-        <link href="https://news.ycombinator.com/item?id=32194185"/>
-        <updated>2022-07-22T16:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Hyundai subsidiary used child labor at Alabama factory]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
