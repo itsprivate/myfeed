@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T20:49:28.521Z</updated>
+    <updated>2022-07-24T21:01:17.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[图书馆写作感悟（2015）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217511</id>
+        <link href="https://news.ycombinator.com/item?id=32217511"/>
+        <updated>2022-07-24T20:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Library Writing Realizations (2015)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从这里开始。OS-Climate社区中心
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216581</id>
+        <link href="https://news.ycombinator.com/item?id=32216581"/>
+        <updated>2022-07-24T19:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Start Here: OS-Climate Community Hub]]></summary>
+        <author>
+            <name>protontypes</name>
+            <uri>https://news.ycombinator.com/user?id=protontypes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊斯特兰灾难
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>BruceHN</name>
             <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我的Flutter屏幕看起来很模糊？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200888</id>
-        <link href="https://news.ycombinator.com/item?id=32200888"/>
-        <updated>2022-07-23T06:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Why do my Flutter screens look washed out?]]></summary>
-        <author>
-            <name>alexandr1us</name>
-            <uri>https://news.ycombinator.com/user?id=alexandr1us</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回复 "Symlinks的麻烦 "的代码。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32201150</id>
-        <link href="https://news.ycombinator.com/item?id=32201150"/>
-        <updated>2022-07-23T07:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Code in Response to “The Trouble with Symlinks.”]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>
