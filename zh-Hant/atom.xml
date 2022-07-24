@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T10:32:54.829Z</updated>
+    <updated>2022-07-24T10:48:31.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[設計師們正在競相將香港正在消失的街道字體數字化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212007</id>
+        <link href="https://news.ycombinator.com/item?id=32212007"/>
+        <updated>2022-07-24T10:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Designers are racing to digitize Hong Kong’s disappearing street typography]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聯邦主義者協會如何獲勝
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩名洛杉磯Covid詐騙犯如何躲避FBI並加入歐洲噴氣機組
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195113</id>
-        <link href="https://news.ycombinator.com/item?id=32195113"/>
-        <updated>2022-07-22T18:01:09.000Z</updated>
-        <summary type="html"><![CDATA[How Two L.A. Covid swindlers dodged the FBI and joined the European jet set]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
