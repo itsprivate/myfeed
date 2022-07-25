@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-25T06:36:47.426Z</updated>
+    <updated>2022-07-25T07:04:23.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为我们的工资申请税收优惠的投资
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32221339</id>
+        <link href="https://news.ycombinator.com/item?id=32221339"/>
+        <updated>2022-07-25T06:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Investments for claiming tax benefits on our salary]]></summary>
+        <author>
+            <name>annamrita04</name>
+            <uri>https://news.ycombinator.com/user?id=annamrita04</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust编写的用于3D打印机的STM32仿真器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32221078</id>
+        <link href="https://news.ycombinator.com/item?id=32221078"/>
+        <updated>2022-07-25T06:14:23.000Z</updated>
+        <summary type="html"><![CDATA[An STM32 emulator written in Rust for 3D printers]]></summary>
+        <author>
+            <name>nviennot</name>
+            <uri>https://news.ycombinator.com/user?id=nviennot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品适合市场的感觉是什么
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32220966</id>
+        <link href="https://news.ycombinator.com/item?id=32220966"/>
+        <updated>2022-07-25T05:56:08.000Z</updated>
+        <summary type="html"><![CDATA[What Product Market Fit Feels Like]]></summary>
+        <author>
+            <name>liuxiaopai</name>
+            <uri>https://news.ycombinator.com/user?id=liuxiaopai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在事件开始时犯的错误（以及如何不犯这些错误）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32220964</id>
+        <link href="https://news.ycombinator.com/item?id=32220964"/>
+        <updated>2022-07-25T05:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Mistakes I’ve made at the beginning of an incident (and how not to make them)]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何从Elasticsearch迁移到OpenSearch
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32220515</id>
+        <link href="https://news.ycombinator.com/item?id=32220515"/>
+        <updated>2022-07-25T04:35:25.000Z</updated>
+        <summary type="html"><![CDATA[How to Migrate from Elasticsearch to OpenSearch]]></summary>
+        <author>
+            <name>chynkm</name>
+            <uri>https://news.ycombinator.com/user?id=chynkm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技公司用糟糕的数据建立了人工智能。因此，科学家们寻求更好的数据
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skłable - 一个用Scala和Scala.js创建的类似于拼字的游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204400</id>
-        <link href="https://news.ycombinator.com/item?id=32204400"/>
-        <updated>2022-07-23T15:47:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Skłable – a scrabble-like game created with Scala and Scala.js]]></summary>
-        <author>
-            <name>masterito16</name>
-            <uri>https://news.ycombinator.com/user?id=masterito16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉杜-克里希那穆提--如何生活在这个世界上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204370</id>
-        <link href="https://news.ycombinator.com/item?id=32204370"/>
-        <updated>2022-07-23T15:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Jiddu Krishnamurti – How to Live in This World]]></summary>
-        <author>
-            <name>truth_seeker</name>
-            <uri>https://news.ycombinator.com/user?id=truth_seeker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息应用JusTalk泄漏了数百万条未加密的信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204368</id>
-        <link href="https://news.ycombinator.com/item?id=32204368"/>
-        <updated>2022-07-23T15:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Messaging app JusTalk is spilling millions of unencrypted messages]]></summary>
-        <author>
-            <name>3bproblem</name>
-            <uri>https://news.ycombinator.com/user?id=3bproblem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在OpenBSD上使用Sshfs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204280</id>
-        <link href="https://news.ycombinator.com/item?id=32204280"/>
-        <updated>2022-07-23T15:35:45.000Z</updated>
-        <summary type="html"><![CDATA[How to Use Sshfs on OpenBSD]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工创意？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204267</id>
-        <link href="https://news.ycombinator.com/item?id=32204267"/>
-        <updated>2022-07-23T15:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Creativity?]]></summary>
-        <author>
-            <name>2517AD</name>
-            <uri>https://news.ycombinator.com/user?id=2517AD</uri>
         </author>
     </entry>
 </feed>
