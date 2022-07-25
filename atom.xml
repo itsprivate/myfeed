@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-24T23:48:26.902Z</updated>
+    <updated>2022-07-25T00:00:09.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司礼貌地解释了为什么iPhone外壳是一种浪费
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32218986</id>
+        <link href="https://news.ycombinator.com/item?id=32218986"/>
+        <updated>2022-07-24T23:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple politely explains why iPhone cases are a waste of money]]></summary>
+        <author>
+            <name>nabaraz</name>
+            <uri>https://news.ycombinator.com/user?id=nabaraz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T-Mobile将向客户支付3.5亿美元的数据泄露赔偿金
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>neverminder</name>
             <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想学习应用开发，但我很困惑，是React Native还是Flutter？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202512</id>
-        <link href="https://news.ycombinator.com/item?id=32202512"/>
-        <updated>2022-07-23T11:56:04.000Z</updated>
-        <summary type="html"><![CDATA[I wants to learn app dev. but I am confused about, React Native or flutter?]]></summary>
-        <author>
-            <name>Kshitijsantosh</name>
-            <uri>https://news.ycombinator.com/user?id=Kshitijsantosh</uri>
         </author>
     </entry>
 </feed>
