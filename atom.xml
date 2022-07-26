@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-26T11:45:27.842Z</updated>
+    <updated>2022-07-26T11:58:21.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丹麦因担心隐私问题禁止Gmail和Co在学校使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32236965</id>
+        <link href="https://news.ycombinator.com/item?id=32236965"/>
+        <updated>2022-07-26T11:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Denmark bans Gmail and Co from schools due to privacy concerns]]></summary>
+        <author>
+            <name>starsep</name>
+            <uri>https://news.ycombinator.com/user?id=starsep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动交付系统如何帮助你的初创企业更快发展
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QAnon候选人并不兴旺，但他们的一些想法却在兴旺。
-]]></title>
-        <id>https://www.nytimes.com/2022/07/25/technology/qanon-midterms.html</id>
-        <link href="https://www.nytimes.com/2022/07/25/technology/qanon-midterms.html"/>
-        <updated>2022-07-25T09:00:17.000Z</updated>
-        <summary type="html"><![CDATA[QAnon Candidates Aren’t Thriving, but Some of Their Ideas Are]]></summary>
-        <author>
-            <name>Stuart A. Thompson</name>
-            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
         </author>
     </entry>
 </feed>
