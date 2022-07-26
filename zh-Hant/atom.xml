@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-26T22:47:51.704Z</updated>
+    <updated>2022-07-26T23:01:17.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編輯技術指導
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32245065</id>
+        <link href="https://news.ycombinator.com/item?id=32245065"/>
+        <updated>2022-07-26T22:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Editing Technical Direction]]></summary>
+        <author>
+            <name>instante_42</name>
+            <uri>https://news.ycombinator.com/user?id=instante_42</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的心理學研究揭示了好奇心的黑暗面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244866</id>
+        <link href="https://news.ycombinator.com/item?id=32244866"/>
+        <updated>2022-07-26T22:24:53.000Z</updated>
+        <summary type="html"><![CDATA[New psychology research reveals a dark side of curiosity]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扎克伯格稱蘋果是他們建立元氣圈的主要競爭者
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dsvr</name>
             <uri>https://news.ycombinator.com/user?id=dsvr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽塔 "系統用二氧化碳、水和陽光生產噴氣燃料
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231353</id>
-        <link href="https://news.ycombinator.com/item?id=32231353"/>
-        <updated>2022-07-25T21:46:44.000Z</updated>
-        <summary type="html"><![CDATA[‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight]]></summary>
-        <author>
-            <name>cheinyeanlim</name>
-            <uri>https://news.ycombinator.com/user?id=cheinyeanlim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調查Linode上的一個被黑的WordPress網站被用作DDoS中繼站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231243</id>
-        <link href="https://news.ycombinator.com/item?id=32231243"/>
-        <updated>2022-07-25T21:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Investigating a hacked WordPress site on Linode being used as a DDoS relay]]></summary>
-        <author>
-            <name>danielcid</name>
-            <uri>https://news.ycombinator.com/user?id=danielcid</uri>
         </author>
     </entry>
 </feed>
