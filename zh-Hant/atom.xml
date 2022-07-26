@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-26T19:45:34.071Z</updated>
+    <updated>2022-07-26T19:58:08.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輸入
+]]></title>
+        <id>https://werd.io/2022/inputs</id>
+        <link href="https://werd.io/2022/inputs"/>
+        <updated>2022-07-26T19:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Inputs]]></summary>
+        <author>
+            <name>Ben Werdmüller</name>
+            <uri>https://werd.io/feed/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetzner似乎將未列名的 "合理使用 "強加在交通上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242987</id>
+        <link href="https://news.ycombinator.com/item?id=32242987"/>
+        <updated>2022-07-26T19:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Hetzner appears to impose unlisted “fair use” on traffic]]></summary>
+        <author>
+            <name>worldofmatthew</name>
+            <uri>https://news.ycombinator.com/user?id=worldofmatthew</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在烏克蘭以130公里/小時（80英里/小時）的速度行駛的 "星鏈"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242904</id>
+        <link href="https://news.ycombinator.com/item?id=32242904"/>
+        <updated>2022-07-26T19:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Starlink at 130km/h (80mph) in Ukraine]]></summary>
+        <author>
+            <name>iam-TJ</name>
+            <uri>https://news.ycombinator.com/user?id=iam-TJ</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗黑破壞神1網絡版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242769</id>
+        <link href="https://news.ycombinator.com/item?id=32242769"/>
+        <updated>2022-07-26T19:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Diablo 1 Web Version]]></summary>
+        <author>
+            <name>evo_9</name>
+            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Prometheus監控Golang應用程序是一個好的做法嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32241937</id>
+        <link href="https://news.ycombinator.com/item?id=32241937"/>
+        <updated>2022-07-26T18:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Is this a good practice to monitor Golang apps with prometheus?]]></summary>
+        <author>
+            <name>lark_infinite</name>
+            <uri>https://news.ycombinator.com/user?id=lark_infinite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[司法部稱CEO出售無價值的加密代幣並將收益用於夏威夷的公寓
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>driaug</name>
             <uri>https://news.ycombinator.com/user?id=driaug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過 "知道它知道 "創造出行為更人性化的人工智能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228912</id>
-        <link href="https://news.ycombinator.com/item?id=32228912"/>
-        <updated>2022-07-25T18:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Creating artificial intelligence that acts more human by 'knowing that it knows']]></summary>
-        <author>
-            <name>2517AD</name>
-            <uri>https://news.ycombinator.com/user?id=2517AD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[經理一對一
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228831</id>
-        <link href="https://news.ycombinator.com/item?id=32228831"/>
-        <updated>2022-07-25T18:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Manager One-on-Ones]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以可視化的形式流傳經濟學
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229185</id>
-        <link href="https://news.ycombinator.com/item?id=32229185"/>
-        <updated>2022-07-25T18:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Streaming Economics in a Visual Format]]></summary>
-        <author>
-            <name>noplsbecivil</name>
-            <uri>https://news.ycombinator.com/user?id=noplsbecivil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[論維基百科作為網絡門戶的價值
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229114</id>
-        <link href="https://news.ycombinator.com/item?id=32229114"/>
-        <updated>2022-07-25T18:47:15.000Z</updated>
-        <summary type="html"><![CDATA[On the Value of Wikipedia as a Gateway to the Web]]></summary>
-        <author>
-            <name>RicoElectrico</name>
-            <uri>https://news.ycombinator.com/user?id=RicoElectrico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GBA Jam 2022 - 為Game Boy Advance製作新遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228978</id>
-        <link href="https://news.ycombinator.com/item?id=32228978"/>
-        <updated>2022-07-25T18:39:10.000Z</updated>
-        <summary type="html"><![CDATA[GBA Jam 2022 – make new games for Game Boy Advance]]></summary>
-        <author>
-            <name>retro_guy</name>
-            <uri>https://news.ycombinator.com/user?id=retro_guy</uri>
         </author>
     </entry>
 </feed>
