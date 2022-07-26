@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-26T06:03:29.783Z</updated>
+    <updated>2022-07-26T06:38:16.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用評價的規範化檢查依賴類型。教程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234950</id>
+        <link href="https://news.ycombinator.com/item?id=32234950"/>
+        <updated>2022-07-26T06:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Checking Dependent Types with Normalization by Evaluation: A Tutorial]]></summary>
+        <author>
+            <name>Hirrolot</name>
+            <uri>https://news.ycombinator.com/user?id=Hirrolot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌正在努力彌補谷歌眼鏡的錯誤，Glassholes又來了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234868</id>
+        <link href="https://news.ycombinator.com/item?id=32234868"/>
+        <updated>2022-07-26T06:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Google is trying to fix mistakes of Google Glasses, Glassholes are coming back]]></summary>
+        <author>
+            <name>jerryjerryjerry</name>
+            <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新利用一隻死蜘蛛來建造一個執行器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234499</id>
+        <link href="https://news.ycombinator.com/item?id=32234499"/>
+        <updated>2022-07-26T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Repurposing a dead spider to build an actuator]]></summary>
+        <author>
+            <name>sinab</name>
+            <uri>https://news.ycombinator.com/user?id=sinab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase（YC S12）面臨美國證券交易委員會的證券調查
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jerryjerryjerry</name>
             <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要登陸月球？ (1963)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219687</id>
-        <link href="https://news.ycombinator.com/item?id=32219687"/>
-        <updated>2022-07-25T01:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Why Land on the Moon? (1963)]]></summary>
-        <author>
-            <name>ramzyo</name>
-            <uri>https://news.ycombinator.com/user?id=ramzyo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSONlite。一個簡單的、獨立的、無服務器的、零配置的JSON文檔存儲。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219633</id>
-        <link href="https://news.ycombinator.com/item?id=32219633"/>
-        <updated>2022-07-25T01:32:01.000Z</updated>
-        <summary type="html"><![CDATA[JSONlite: A simple, self-contained, serverless, zero-config, JSON document store]]></summary>
-        <author>
-            <name>nodesocket</name>
-            <uri>https://news.ycombinator.com/user?id=nodesocket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際象棋機器人打斷7歲對手的手指
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219614</id>
-        <link href="https://news.ycombinator.com/item?id=32219614"/>
-        <updated>2022-07-25T01:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Chess robot breaks finger of 7-year-old opponent]]></summary>
-        <author>
-            <name>dwighttk</name>
-            <uri>https://news.ycombinator.com/user?id=dwighttk</uri>
         </author>
     </entry>
 </feed>
