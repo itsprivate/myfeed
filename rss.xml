@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Tue, 26 Jul 2022 09:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 10:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dicom文件格式基础知识
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236056</link>
+            <guid>https://news.ycombinator.com/item?id=32236056</guid>
+            <pubDate>Tue, 26 Jul 2022 09:22:18 GMT</pubDate>
+            <description><![CDATA[Dicom File Format Basics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么我作为一个开发者学会了Linux命令行，你也应该这样做
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236050</link>
+            <guid>https://news.ycombinator.com/item?id=32236050</guid>
+            <pubDate>Tue, 26 Jul 2022 09:21:07 GMT</pubDate>
+            <description><![CDATA[Why I learned the Linux command line as a developer, and you should too]]></description>
+        </item>
         <item>
             <title><![CDATA[Olric: Go中的分布式、可嵌入的数据结构
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32221109</guid>
             <pubDate>Mon, 25 Jul 2022 06:18:43 GMT</pubDate>
             <description><![CDATA[Book Notes: “On Writing” by Steven King]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为我们的工资申请税收优惠的投资
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32221339</link>
-            <guid>https://news.ycombinator.com/item?id=32221339</guid>
-            <pubDate>Mon, 25 Jul 2022 06:58:35 GMT</pubDate>
-            <description><![CDATA[Investments for claiming tax benefits on our salary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust编写的用于3D打印机的STM32仿真器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32221078</link>
-            <guid>https://news.ycombinator.com/item?id=32221078</guid>
-            <pubDate>Mon, 25 Jul 2022 06:14:23 GMT</pubDate>
-            <description><![CDATA[An STM32 emulator written in Rust for 3D printers]]></description>
         </item>
     </channel>
 </rss>
