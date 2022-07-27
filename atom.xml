@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-27T20:49:33.847Z</updated>
+    <updated>2022-07-27T21:00:58.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有Vim绑定的开源CLI音乐播放器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256730</id>
+        <link href="https://news.ycombinator.com/item?id=32256730"/>
+        <updated>2022-07-27T20:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Open Source CLI music player with Vim bindings]]></summary>
+        <author>
+            <name>freeqaz</name>
+            <uri>https://news.ycombinator.com/user?id=freeqaz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲私营部门使用0日漏洞的攻击性行为者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256663</id>
+        <link href="https://news.ycombinator.com/item?id=32256663"/>
+        <updated>2022-07-27T20:43:44.000Z</updated>
+        <summary type="html"><![CDATA[European private-sector offensive actor using 0-day exploits]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泡沫公司联合创始人谈破产的好处
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256651</id>
+        <link href="https://news.ycombinator.com/item?id=32256651"/>
+        <updated>2022-07-27T20:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Co-founder of Bubble on the benefits of being broke]]></summary>
+        <author>
+            <name>jamesofthedrum</name>
+            <uri>https://news.ycombinator.com/user?id=jamesofthedrum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflint - 扫描和验证文件名惯例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256649</id>
+        <link href="https://news.ycombinator.com/item?id=32256649"/>
+        <updated>2022-07-27T20:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inflint – Scan and verify file name conventions]]></summary>
+        <author>
+            <name>talrofe</name>
+            <uri>https://news.ycombinator.com/user?id=talrofe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌将切割饼干的时间推迟到2024年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256506</id>
+        <link href="https://news.ycombinator.com/item?id=32256506"/>
+        <updated>2022-07-27T20:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Google delays cookie-cutting to 2024]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSON-安全Lisp语言
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何选择你的下一本书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243577</id>
-        <link href="https://news.ycombinator.com/item?id=32243577"/>
-        <updated>2022-07-26T20:30:53.000Z</updated>
-        <summary type="html"><![CDATA[How to Choose Your Next Book]]></summary>
-        <author>
-            <name>2517AD</name>
-            <uri>https://news.ycombinator.com/user?id=2517AD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型语言模型无法计划，即使它们写出了花哨的文章 - TechTalks
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243547</id>
-        <link href="https://news.ycombinator.com/item?id=32243547"/>
-        <updated>2022-07-26T20:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Large language models can’t plan, even if they write fancy essays – TechTalks]]></summary>
-        <author>
-            <name>bilsbie</name>
-            <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun: 彻底整顿JavaScript的生态系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243534</id>
-        <link href="https://news.ycombinator.com/item?id=32243534"/>
-        <updated>2022-07-26T20:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Bun: A Complete Overhaul of the JavaScript Ecosystem]]></summary>
-        <author>
-            <name>freeqaz</name>
-            <uri>https://news.ycombinator.com/user?id=freeqaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯将在2024年后退出国际空间站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243497</id>
-        <link href="https://news.ycombinator.com/item?id=32243497"/>
-        <updated>2022-07-26T20:25:13.000Z</updated>
-        <summary type="html"><![CDATA[Russia to drop out of International Space Station after 2024]]></summary>
-        <author>
-            <name>rascul</name>
-            <uri>https://news.ycombinator.com/user?id=rascul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veloren - 用Rust编写的多人体素RPG游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243444</id>
-        <link href="https://news.ycombinator.com/item?id=32243444"/>
-        <updated>2022-07-26T20:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Veloren – multiplayer voxel RPG written in Rust]]></summary>
-        <author>
-            <name>tete</name>
-            <uri>https://news.ycombinator.com/user?id=tete</uri>
         </author>
     </entry>
 </feed>
