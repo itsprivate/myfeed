@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-27T08:38:40.611Z</updated>
+    <updated>2022-07-27T08:59:41.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波蘭宣稱貓是外來入侵物種
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248198</id>
+        <link href="https://news.ycombinator.com/item?id=32248198"/>
+        <updated>2022-07-27T08:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Cats Are an Alien Invasive Species, Poland Declares]]></summary>
+        <author>
+            <name>isaacfrond</name>
+            <uri>https://news.ycombinator.com/user?id=isaacfrond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topgrade：升級用Rust編寫的一切的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248108</id>
+        <link href="https://news.ycombinator.com/item?id=32248108"/>
+        <updated>2022-07-27T08:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Topgrade: Tool to upgrade everything written in Rust]]></summary>
+        <author>
+            <name>lapser</name>
+            <uri>https://news.ycombinator.com/user?id=lapser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU價格稍稍接近正常水平
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用評價的規範化檢查依賴類型。教程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234950</id>
-        <link href="https://news.ycombinator.com/item?id=32234950"/>
-        <updated>2022-07-26T06:17:50.000Z</updated>
-        <summary type="html"><![CDATA[Checking Dependent Types with Normalization by Evaluation: A Tutorial]]></summary>
-        <author>
-            <name>Hirrolot</name>
-            <uri>https://news.ycombinator.com/user?id=Hirrolot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌正在努力彌補谷歌眼鏡的錯誤，Glassholes又來了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234868</id>
-        <link href="https://news.ycombinator.com/item?id=32234868"/>
-        <updated>2022-07-26T06:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Google is trying to fix mistakes of Google Glasses, Glassholes are coming back]]></summary>
-        <author>
-            <name>jerryjerryjerry</name>
-            <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
         </author>
     </entry>
 </feed>
