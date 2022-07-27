@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-27T05:49:56.451Z</updated>
+    <updated>2022-07-27T06:01:15.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[樹木被高估了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32247272</id>
+        <link href="https://news.ycombinator.com/item?id=32247272"/>
+        <updated>2022-07-27T05:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Trees Are Overrated]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沉默的後果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32247096</id>
+        <link href="https://news.ycombinator.com/item?id=32247096"/>
+        <updated>2022-07-27T05:18:44.000Z</updated>
+        <summary type="html"><![CDATA[The Consequences of Silence]]></summary>
+        <author>
+            <name>trauco</name>
+            <uri>https://news.ycombinator.com/user?id=trauco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佛羅里達州電力公司控制了當地的新聞網站
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>abhiminator</name>
             <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在目前的旅行混亂中，多倫多機場是世界上延誤情況最嚴重的機場
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233612</id>
-        <link href="https://news.ycombinator.com/item?id=32233612"/>
-        <updated>2022-07-26T02:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Toronto Airport Is World’s Worst for Delays Amid Current Travel Chaos]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僅靠金錢無法買到美國的技術優勢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233597</id>
-        <link href="https://news.ycombinator.com/item?id=32233597"/>
-        <updated>2022-07-26T02:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Money Alone Won’t Buy U.S. Tech Superiority]]></summary>
-        <author>
-            <name>batguano</name>
-            <uri>https://news.ycombinator.com/user?id=batguano</uri>
         </author>
     </entry>
 </feed>
