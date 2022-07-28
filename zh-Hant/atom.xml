@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T21:01:37.030Z</updated>
+    <updated>2022-07-28T21:26:33.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Instagram在用戶反感後回滾了一些產品變化。
+]]></title>
+        <id>https://www.nytimes.com/2022/07/28/technology/instagram-reverses-changes.html</id>
+        <link href="https://www.nytimes.com/2022/07/28/technology/instagram-reverses-changes.html"/>
+        <updated>2022-07-28T21:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Instagram rolls back some product changes after user backlash.]]></summary>
+        <author>
+            <name>Kalley Huang and Mike Isaac</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[F.T.C.主席Lina Khan起訴Meta公司，顛覆了反壟斷標準
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>b5</name>
             <uri>https://news.ycombinator.com/user?id=b5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洩露的TikTok備忘錄告訴員工要 "淡化與中國的聯繫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252905</id>
-        <link href="https://news.ycombinator.com/item?id=32252905"/>
-        <updated>2022-07-27T16:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Leaked TikTok memo told employees to ‘downplay the China association’]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
