@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T21:26:33.433Z</updated>
+    <updated>2022-07-28T21:45:19.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民主党人在......阵列？
+]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2022/07/democrats-in-array/670990/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2022/07/democrats-in-array/670990/?utm_source=feed"/>
+        <updated>2022-07-28T21:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Democrats in … Array?]]></summary>
+        <author>
+            <name>Elaine Godfrey</name>
+            <uri>https://www.theatlantic.com/feed/all/</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagram在用户反感后回滚了一些产品变化。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marcinreal</name>
             <uri>https://news.ycombinator.com/user?id=marcinreal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位著名的作曲家丢失了他的维基百科页面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252998</id>
-        <link href="https://news.ycombinator.com/item?id=32252998"/>
-        <updated>2022-07-27T16:58:13.000Z</updated>
-        <summary type="html"><![CDATA[A Prominent Composer Lost His Wikipedia Page]]></summary>
-        <author>
-            <name>b5</name>
-            <uri>https://news.ycombinator.com/user?id=b5</uri>
         </author>
     </entry>
 </feed>
