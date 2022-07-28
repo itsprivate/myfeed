@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T16:54:58.671Z</updated>
+    <updated>2022-07-28T17:20:23.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[縫隙式計數器模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266910</id>
+        <link href="https://news.ycombinator.com/item?id=32266910"/>
+        <updated>2022-07-28T16:50:07.000Z</updated>
+        <summary type="html"><![CDATA[The Slotted Counter Pattern]]></summary>
+        <author>
+            <name>samlambert</name>
+            <uri>https://news.ycombinator.com/user?id=samlambert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buf Studio: 直接從瀏覽器與gRPC和Protobuf APIs互動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266834</id>
+        <link href="https://news.ycombinator.com/item?id=32266834"/>
+        <updated>2022-07-28T16:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Buf Studio: Interact with gRPC and Protobuf APIs Directly from the Browser]]></summary>
+        <author>
+            <name>svbn</name>
+            <uri>https://news.ycombinator.com/user?id=svbn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索拉納穩定幣猛然脫鉤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266760</id>
+        <link href="https://news.ycombinator.com/item?id=32266760"/>
+        <updated>2022-07-28T16:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Solana stablecoin violently de-pegs]]></summary>
+        <author>
+            <name>TylerE</name>
+            <uri>https://news.ycombinator.com/user?id=TylerE</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼爾森希望今年能重新獲得電視收視率認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266587</id>
+        <link href="https://news.ycombinator.com/item?id=32266587"/>
+        <updated>2022-07-28T16:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Nielsen hopes to regain TV ratings accreditation this year]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年7月網絡服務器調查
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266393</id>
+        <link href="https://news.ycombinator.com/item?id=32266393"/>
+        <updated>2022-07-28T16:16:24.000Z</updated>
+        <summary type="html"><![CDATA[July 2022 Web Server Survey]]></summary>
+        <author>
+            <name>vnkr</name>
+            <uri>https://news.ycombinator.com/user?id=vnkr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調試Postgres的自動真空問題：13個提示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266381</id>
+        <link href="https://news.ycombinator.com/item?id=32266381"/>
+        <updated>2022-07-28T16:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Debugging Postgres autovacuum problems: 13 tips]]></summary>
+        <author>
+            <name>samaysharma</name>
+            <uri>https://news.ycombinator.com/user?id=samaysharma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌CA現在可與Cloudflare證書管理器一起使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266162</id>
+        <link href="https://news.ycombinator.com/item?id=32266162"/>
+        <updated>2022-07-28T16:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Google CA can now be used with Cloudflare Certificate Manager]]></summary>
+        <author>
+            <name>epberry</name>
+            <uri>https://news.ycombinator.com/user?id=epberry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度詞彙是 "不確定"。
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>AlexandrB</name>
             <uri>https://news.ycombinator.com/user?id=AlexandrB</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSS Insight - 面向開發者的GitHub儀表板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251486</id>
-        <link href="https://news.ycombinator.com/item?id=32251486"/>
-        <updated>2022-07-27T15:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OSS Insight – GitHub dashboard for developers]]></summary>
-        <author>
-            <name>Hooopo</name>
-            <uri>https://news.ycombinator.com/user?id=Hooopo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何時關閉你的公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251407</id>
-        <link href="https://news.ycombinator.com/item?id=32251407"/>
-        <updated>2022-07-27T15:09:51.000Z</updated>
-        <summary type="html"><![CDATA[When to Shut Down Your Company]]></summary>
-        <author>
-            <name>andygcook</name>
-            <uri>https://news.ycombinator.com/user?id=andygcook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月起免費用戶的Slack信息超過90天將被隱藏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251177</id>
-        <link href="https://news.ycombinator.com/item?id=32251177"/>
-        <updated>2022-07-27T14:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Slack messages older than 90 days will be hidden for free users from September]]></summary>
-        <author>
-            <name>rerx</name>
-            <uri>https://news.ycombinator.com/user?id=rerx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勞動力短缺和移民不足
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251063</id>
-        <link href="https://news.ycombinator.com/item?id=32251063"/>
-        <updated>2022-07-27T14:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Labor Shortages and the Immigration Shortfall]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國科學顧問稱空氣汙染可能導致痴呆症
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251028</id>
-        <link href="https://news.ycombinator.com/item?id=32251028"/>
-        <updated>2022-07-27T14:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Air pollution likely to be causing dementia, say UK science advisers]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12小時內，蘋果公司的部分網絡被俄羅斯的Rostelecom劫持了嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251501</id>
-        <link href="https://news.ycombinator.com/item?id=32251501"/>
-        <updated>2022-07-27T15:17:31.000Z</updated>
-        <summary type="html"><![CDATA[For 12 Hours, Was Part of Apple’s Network Hijacked by Russia’s Rostelecom?]]></summary>
-        <author>
-            <name>danyork</name>
-            <uri>https://news.ycombinator.com/user?id=danyork</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視覺信息理論
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251490</id>
-        <link href="https://news.ycombinator.com/item?id=32251490"/>
-        <updated>2022-07-27T15:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Visual Information Theory]]></summary>
-        <author>
-            <name>ivanvas</name>
-            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
         </author>
     </entry>
 </feed>
