@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T11:25:22.730Z</updated>
+    <updated>2022-07-28T11:44:12.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AlphaFold揭示了蛋白質宇宙的結構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262856</id>
+        <link href="https://news.ycombinator.com/item?id=32262856"/>
+        <updated>2022-07-28T11:18:14.000Z</updated>
+        <summary type="html"><![CDATA[AlphaFold reveals the structure of the protein universe]]></summary>
+        <author>
+            <name>MindGods</name>
+            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界需要開始為火災時代進行規劃
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對焦慮時代的習俗的質疑
-]]></title>
-        <id>https://www.newyorker.com/culture/the-new-yorker-documentary/questioning-a-custom-in-the-age-of-anxiety</id>
-        <link href="https://www.newyorker.com/culture/the-new-yorker-documentary/questioning-a-custom-in-the-age-of-anxiety"/>
-        <updated>2022-07-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Questioning a Custom in the Age of Anxiety]]></summary>
-        <author>
-            <name>unknown</name>
-            <uri>https://www.newyorker.com/feed/culture</uri>
         </author>
     </entry>
 </feed>
