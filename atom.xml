@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T20:48:24.521Z</updated>
+    <updated>2022-07-28T21:01:36.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[F.T.C.主席Lina Khan起诉Meta公司，颠覆了反垄断标准
+]]></title>
+        <id>https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html</id>
+        <link href="https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html"/>
+        <updated>2022-07-28T20:45:57.000Z</updated>
+        <summary type="html"><![CDATA[F.T.C. Chair Lina Khan Upends Antitrust Standards by Suing Meta]]></summary>
+        <author>
+            <name>Cecilia Kang</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是的，我们可能处于经济衰退期，这很好。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandas比SQL要灵活得多
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252853</id>
-        <link href="https://news.ycombinator.com/item?id=32252853"/>
-        <updated>2022-07-27T16:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Pandas is MUCH more flexible than SQL]]></summary>
-        <author>
-            <name>peterbolson</name>
-            <uri>https://news.ycombinator.com/user?id=peterbolson</uri>
         </author>
     </entry>
 </feed>
