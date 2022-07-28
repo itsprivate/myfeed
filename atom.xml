@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T17:20:23.722Z</updated>
+    <updated>2022-07-28T17:46:41.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok和社交媒体巨头的衰落
+]]></title>
+        <id>https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants</id>
+        <link href="https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants"/>
+        <updated>2022-07-28T17:35:47.000Z</updated>
+        <summary type="html"><![CDATA[TikTok and the Fall of the Social-Media Giants]]></summary>
+        <author>
+            <name>Cal Newport</name>
+            <uri>https://www.newyorker.com/feed/culture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[缝隙式计数器模式
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>evo_9</name>
             <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉司机使用自动驾驶仪杀死摩托车手，引发另一项调查
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251587</id>
-        <link href="https://news.ycombinator.com/item?id=32251587"/>
-        <updated>2022-07-27T15:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Tesla driver using Autopilot kills motorcyclist, prompting another investigation]]></summary>
-        <author>
-            <name>AlexandrB</name>
-            <uri>https://news.ycombinator.com/user?id=AlexandrB</uri>
         </author>
     </entry>
 </feed>
