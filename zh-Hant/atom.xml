@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T19:43:05.390Z</updated>
+    <updated>2022-07-28T20:48:24.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，我們可能處於經濟衰退期，這很好。
+]]></title>
+        <id>https://noahpinion.substack.com/p/yes-were-probably-in-a-recession</id>
+        <link href="https://noahpinion.substack.com/p/yes-were-probably-in-a-recession"/>
+        <updated>2022-07-28T20:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Yes, we're probably in a recession, and that's fine]]></summary>
+        <author>
+            <name>Noah Smith</name>
+            <uri>https://noahpinion.substack.com/feed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[參議院通過2800億美元的工業政策法案以對抗中國
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>peterbolson</name>
             <uri>https://news.ycombinator.com/user?id=peterbolson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司認可的服務器端使用的編程語言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252831</id>
-        <link href="https://news.ycombinator.com/item?id=32252831"/>
-        <updated>2022-07-27T16:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Programming languages endorsed for server-side use at Meta]]></summary>
-        <author>
-            <name>iamnotarobotman</name>
-            <uri>https://news.ycombinator.com/user?id=iamnotarobotman</uri>
         </author>
     </entry>
 </feed>

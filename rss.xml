@@ -4,7 +4,7 @@
         <title>👋 Feed for Owen</title>
         <link>https://myfeed.owenyoung.com</link>
         <description>Owen的英文译文feed</description>
-        <lastBuildDate>Thu, 28 Jul 2022 19:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 20:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://myfeed.owenyoung.com</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是的，我们可能处于经济衰退期，这很好。
+]]></title>
+            <link>https://noahpinion.substack.com/p/yes-were-probably-in-a-recession</link>
+            <guid>https://noahpinion.substack.com/p/yes-were-probably-in-a-recession</guid>
+            <pubDate>Thu, 28 Jul 2022 20:26:39 GMT</pubDate>
+            <description><![CDATA[Yes, we're probably in a recession, and that's fine]]></description>
+        </item>
         <item>
             <title><![CDATA[参议院通过2800亿美元的工业政策法案以对抗中国
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252853</guid>
             <pubDate>Wed, 27 Jul 2022 16:48:38 GMT</pubDate>
             <description><![CDATA[Pandas is MUCH more flexible than SQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美达公司认可的服务器端使用的编程语言
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252831</link>
-            <guid>https://news.ycombinator.com/item?id=32252831</guid>
-            <pubDate>Wed, 27 Jul 2022 16:47:20 GMT</pubDate>
-            <description><![CDATA[Programming languages endorsed for server-side use at Meta]]></description>
         </item>
     </channel>
 </rss>
