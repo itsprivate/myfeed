@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T18:50:57.925Z</updated>
+    <updated>2022-07-28T19:01:33.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[喬-曼欽的最新反轉可能會改變遊戲規則
+]]></title>
+        <id>https://www.newyorker.com/news/our-columnists/joe-manchins-latest-reversal-could-be-a-game-changer</id>
+        <link href="https://www.newyorker.com/news/our-columnists/joe-manchins-latest-reversal-could-be-a-game-changer"/>
+        <updated>2022-07-28T18:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Joe Manchin’s Latest Reversal Could Be a Game Changer]]></summary>
+        <author>
+            <name>John Cassidy</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Htmx--用於HTML的高能工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Soupy</name>
             <uri>https://news.ycombinator.com/user?id=Soupy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國領土上的憲法公民身份
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252234</id>
-        <link href="https://news.ycombinator.com/item?id=32252234"/>
-        <updated>2022-07-27T16:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Constitutional Citizenship in the U.S. Territories]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
         </author>
     </entry>
 </feed>
