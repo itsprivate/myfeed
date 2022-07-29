@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-28T23:29:26.045Z</updated>
+    <updated>2022-07-29T02:39:04.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特朗普對拜登，以及拜登對特朗普。讓我們叫停整件事情
+]]></title>
+        <id>https://www.newyorker.com/news/letter-from-bidens-washington/trump-vs-biden-and-biden-vs-trump-lets-call-the-whole-thing-off</id>
+        <link href="https://www.newyorker.com/news/letter-from-bidens-washington/trump-vs-biden-and-biden-vs-trump-lets-call-the-whole-thing-off"/>
+        <updated>2022-07-28T23:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Trump vs. Biden, and Biden vs. Trump: Let’s Call the Whole Thing Off]]></summary>
+        <author>
+            <name>Susan B. Glasser</name>
+            <uri>https://www.newyorker.com/feed/news</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國國會就具有里程碑意義的中國法案進行辯論時，北京在這方面取得了進展。
+]]></title>
+        <id>https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html</id>
+        <link href="https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html"/>
+        <updated>2022-07-29T01:01:24.000Z</updated>
+        <summary type="html"><![CDATA[As Congress Debated Landmark China Bill, Beijing Surged Ahead]]></summary>
+        <author>
+            <name>David E. Sanger</name>
+            <uri>https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[經濟降溫時，大型科技公司證明了自己的復原力
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>keiferski</name>
             <uri>https://news.ycombinator.com/user?id=keiferski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用rust編寫的內存安全、快速、可配置、最小的hello world
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252792</id>
-        <link href="https://news.ycombinator.com/item?id=32252792"/>
-        <updated>2022-07-27T16:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Memory safe, fast, configurable, minimal hello world written in rust]]></summary>
-        <author>
-            <name>NabiDev</name>
-            <uri>https://news.ycombinator.com/user?id=NabiDev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基百科如何影響司法行為
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253053</id>
-        <link href="https://news.ycombinator.com/item?id=32253053"/>
-        <updated>2022-07-27T17:01:52.000Z</updated>
-        <summary type="html"><![CDATA[How Wikipedia Influences Judicial Behavior]]></summary>
-        <author>
-            <name>czl_my</name>
-            <uri>https://news.ycombinator.com/user?id=czl_my</uri>
         </author>
     </entry>
 </feed>
