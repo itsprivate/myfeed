@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myfeed.owenyoung.com</id>
     <title>👋 Feed for Owen</title>
-    <updated>2022-07-29T10:36:25.785Z</updated>
+    <updated>2022-07-29T10:58:26.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://myfeed.owenyoung.com/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科学家发现新的 "生命起源 "化学反应
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275325</id>
+        <link href="https://news.ycombinator.com/item?id=32275325"/>
+        <updated>2022-07-29T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Scientists discover new 'origins of life' chemical reactions]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manticore与Elasticsearch的比较
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275249</id>
+        <link href="https://news.ycombinator.com/item?id=32275249"/>
+        <updated>2022-07-29T10:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Manticore Compared to Elasticsearch]]></summary>
+        <author>
+            <name>taf2</name>
+            <uri>https://news.ycombinator.com/user?id=taf2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个玩具远程登录服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275201</id>
+        <link href="https://news.ycombinator.com/item?id=32275201"/>
+        <updated>2022-07-29T10:24:37.000Z</updated>
+        <summary type="html"><![CDATA[A toy remote login server]]></summary>
+        <author>
+            <name>asicsp</name>
+            <uri>https://news.ycombinator.com/user?id=asicsp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候变化将增加纽约市、迈阿密和华盛顿特区的风暴潮洪水
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32274911</id>
+        <link href="https://news.ycombinator.com/item?id=32274911"/>
+        <updated>2022-07-29T09:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Climate change will increase storm surge flooding in NYC, Miami and D.C]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对第一部小说的反思
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>sam_lowry_</name>
             <uri>https://news.ycombinator.com/user?id=sam_lowry_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用本地Postgres和Pg_partman进行分区
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255230</id>
-        <link href="https://news.ycombinator.com/item?id=32255230"/>
-        <updated>2022-07-27T19:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Partitioning with Native Postgres and Pg_partman]]></summary>
-        <author>
-            <name>plaur782</name>
-            <uri>https://news.ycombinator.com/user?id=plaur782</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[muon。紧凑而简单的二进制编码，与CBOR、MsgPack和UBJSON相当。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255215</id>
-        <link href="https://news.ycombinator.com/item?id=32255215"/>
-        <updated>2022-07-27T19:09:10.000Z</updated>
-        <summary type="html"><![CDATA[muon: Compact and simple binary encoding, on par to CBOR, MsgPack and UBJSON]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优胜美地野火计划要求砍伐树木以保护公园
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255103</id>
-        <link href="https://news.ycombinator.com/item?id=32255103"/>
-        <updated>2022-07-27T19:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Yosemite Wildfire Plans Calls for Cutting Trees to Protect Park]]></summary>
-        <author>
-            <name>grogu88</name>
-            <uri>https://news.ycombinator.com/user?id=grogu88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读气味和记忆之间的联系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255072</id>
-        <link href="https://news.ycombinator.com/item?id=32255072"/>
-        <updated>2022-07-27T19:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Unpicking the link between smell and memories]]></summary>
-        <author>
-            <name>anarbadalov</name>
-            <uri>https://news.ycombinator.com/user?id=anarbadalov</uri>
         </author>
     </entry>
 </feed>
