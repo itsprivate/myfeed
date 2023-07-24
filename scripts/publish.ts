@@ -47,18 +47,22 @@ export default async function publishToPages() {
   let index = 1;
 
   for (const siteIdentifier of siteIdentifiers) {
+    if (siteIdentifier === indexSubDomain) {
+      index++;
+      continue;
+    }
     log.info(
       `${index}/${siteIdentifiers.length}`,
       "publishing",
       "site",
-      siteIdentifier,
+      siteIdentifier
     );
 
-    const p = Deno.run({
-      cmd: ["make", "prod-publish", "site=" + siteIdentifier],
-    });
-    const status = await p.status();
-    log.info("publish status: ", status);
+    // const p = Deno.run({
+    //   cmd: ["make", "prod-publish", "site=" + siteIdentifier],
+    // });
+    // const status = await p.status();
+    // log.info("publish status: ", status);
     index++;
   }
 }
