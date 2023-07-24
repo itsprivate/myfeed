@@ -84,25 +84,10 @@ sites:
       - www
     translations:
       "zh-Hans":
-        title: "Hacker News 首页"
-        short_title: "HN首页"
-        description: "用中文浏览Hacker News 首页最新文章"
-        keywords: "HackerNews 头条, Hacker News 中文, Hacker News Story"
-      "en":
-        title: "Hacker News Front Page"
-        short_title: "HN Front Page"
-        description: "Hacker News Front Page Feed"
-        keywords: "HackerNews 头条, Hacker News 中文, Hacker News Story"
-      "ja":
-        title: "Hacker News トップ"
-        short_title: "HN トップ"
-        description: "Hacker News トップのニュース"
-        keywords: "HackerNews 头条, Hacker News 中文, Hacker News Story"
-      "zh-Hant":
-        title: "Hacker News 首頁"
-        short_title: "HN 首頁"
-        description: "用中文浏览Hacker News 首頁最新文章"
-        keywords: "HackerNews 头条, Hacker News 中文, Hacker News Story"
+        title: "Owen's Feed"
+        short_title: "Feed"
+        description: "用中文浏览Owen's Feed"
+        keywords: "Feed"
 
 versions:
   - prefix: ""
