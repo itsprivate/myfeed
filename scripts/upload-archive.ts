@@ -12,7 +12,7 @@ import { DEV_MODE_HANDLED_ITEMS } from "../constant.ts";
 export default async function uploadArchive() {
   const AWS_BUCKET = getArchivedBucketName();
   const s3Bucket = await getArchiveS3Bucket(AWS_BUCKET);
-  const client = getDufsClient();
+  // const client = getDufsClient();
   // walk current folder
   await fs.ensureDir(getArchivePath());
   let total = 0;
@@ -23,10 +23,6 @@ export default async function uploadArchive() {
         if (total > DEV_MODE_HANDLED_ITEMS) {
           break;
         }
-      }
-      if (Deno.env.get("ONLY_S3") !== "1") {
-        await uploadFileToDufs(client, entry.path);
-        log.info(`Uploaded ${entry.path} to dufs successfully`);
       }
       total++;
       if (total % 100 === 0 && total > 0) {
@@ -46,9 +42,7 @@ export default async function uploadArchive() {
       // await Deno.remove(entry.path);
     }
   }
-  log.info(
-    `finish upload archive data ${total} files to ${AWS_BUCKET}`,
-  );
+  log.info(`finish upload archive data ${total} files to ${AWS_BUCKET}`);
 }
 
 if (import.meta.main) {

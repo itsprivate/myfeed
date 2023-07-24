@@ -46,20 +46,17 @@ enum Day {
   Fri,
   Sat,
 }
-export async function request(
-  url: string,
-  init: RequestInit = {},
-) {
+export async function request(url: string, init: RequestInit = {}) {
   const c = new AbortController();
   const id = setTimeout(() => c.abort(), 30000);
   const headers = new Headers(init.headers);
   headers.set(
     "User-Agent",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48"
   );
   headers.set(
     "accept",
-    "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
   );
   headers.set("accept-language", "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7");
   headers.set("cache-control", "no-cache");
@@ -86,7 +83,7 @@ export const get = (obj: unknown, path: string, defaultValue = undefined) => {
           res !== null && res !== undefined
             ? (res as Record<string, string>)[key]
             : res,
-        obj,
+        obj
       );
   const result = travel(/[,[\]]+?/) || travel(/[,[\].]+?/);
   return result === undefined || result === obj ? defaultValue : result;
@@ -96,7 +93,7 @@ export const isDev = () => {
 };
 export const isMock = () => {
   if (isDev()) {
-    return (Deno.env.get("MOCK") !== "0");
+    return Deno.env.get("MOCK") !== "0";
   } else {
     return false;
   }
@@ -110,17 +107,11 @@ export const getDataPath = () => {
   return dataPath;
 };
 export const getRecentlySiteStatPath = () => {
-  const recentlySitesPath = path.join(
-    getDataPath(),
-    "recently-sites.json",
-  );
+  const recentlySitesPath = path.join(getDataPath(), "recently-sites.json");
   return recentlySitesPath;
 };
 export const getRecentlySourcesStatPath = () => {
-  const recentlySitesPath = path.join(
-    getDataPath(),
-    "recently-sources.json",
-  );
+  const recentlySitesPath = path.join(getDataPath(), "recently-sources.json");
   return recentlySitesPath;
 };
 export const getFeedSiteIdentifiers = (config: Config) => {
@@ -129,7 +120,7 @@ export const getFeedSiteIdentifiers = (config: Config) => {
   const siteIdentifiers = keys.filter((key) => {
     const site = sitesMap[key];
 
-    return !(site.dev) && !(site.standalone);
+    return !site.dev && !site.standalone;
   });
   return siteIdentifiers;
 };
@@ -207,20 +198,20 @@ export const getMigratedIssueMapPath = () => {
   }
 };
 export const getCurrentItemsFilePath = (siteIdentifier: string) => {
-  return `${getDataCurrentItemsPath()}/${
-    siteIdentifierToPath(siteIdentifier)
-  }/items.json`;
+  return `${getDataCurrentItemsPath()}/${siteIdentifierToPath(
+    siteIdentifier
+  )}/items.json`;
 };
 
 export const getCurrentKeysFilePath = (siteIdentifier: string) => {
-  return `${getDataCurrentItemsPath()}/${
-    siteIdentifierToPath(siteIdentifier)
-  }/keys.json`;
+  return `${getDataCurrentItemsPath()}/${siteIdentifierToPath(
+    siteIdentifier
+  )}/keys.json`;
 };
 export const getCurrentToBeArchivedItemsFilePath = (siteIdentifier: string) => {
-  return `${getDataCurrentItemsPath()}/${
-    siteIdentifierToPath(siteIdentifier)
-  }/to-be-archived-items.json`;
+  return `${getDataCurrentItemsPath()}/${siteIdentifierToPath(
+    siteIdentifier
+  )}/to-be-archived-items.json`;
 };
 
 export const readJSONFile = async (path: string) => {
@@ -256,13 +247,11 @@ export const getFullDay = (date: Date): string => {
 };
 
 export const getConfig = async function (): Promise<Config> {
-  const config = YAML.parse(
-    await Deno.readTextFile("config.yml"),
-  ) as Config;
+  const config = YAML.parse(await Deno.readTextFile("config.yml")) as Config;
   return config;
 };
 export const getGenConfig = async function (): Promise<Config> {
-  const config = await readJSONFile("./config.gen.json") as Config;
+  const config = (await readJSONFile("./config.gen.json")) as Config;
   return config;
 };
 export const formatIsoDate = (date: Date): string => {
@@ -305,10 +294,9 @@ export const formatHumanTime = (date: Date) => {
 
 export const getArchivedFilePath = function (
   siteIdentifier: string,
-  relativePath: string,
+  relativePath: string
 ): string {
-  let filePath = getArchivePath() + "/" +
-    siteIdentifierToPath(siteIdentifier);
+  let filePath = getArchivePath() + "/" + siteIdentifierToPath(siteIdentifier);
   // remove relative path slashes
   if (relativePath.startsWith("/")) {
     relativePath = relativePath.substring(1);
@@ -324,7 +312,7 @@ export const siteIdentifierToPath = (siteIdentifier: string) => {
 };
 export const siteIdentifierToDomain = (
   siteIdentifier: string,
-  site?: SiteConfig,
+  site?: SiteConfig
 ) => {
   if (site && site.domain) {
     return site.domain;
@@ -356,7 +344,7 @@ export const urlToSiteIdentifier = (url: string, config: Config) => {
 export const siteIdentifierToUrl = (
   siteIdentifier: string,
   pathname: string,
-  config: Config,
+  config: Config
 ): string => {
   let port: number;
 
@@ -369,15 +357,17 @@ export const siteIdentifierToUrl = (
   }
   const isWorkersDev = Deno.env.get("WORKERS_DEV") === "1";
   if (isWorkersDev) {
-    return `https://dev-${
-      siteIdentifierToDomain(siteIdentifier, config.sites[siteIdentifier])
-    }${pathname}`;
+    return `https://dev-${siteIdentifierToDomain(
+      siteIdentifier,
+      config.sites[siteIdentifier]
+    )}${pathname}`;
   } else if (isDev()) {
     return `http://localhost:${port}${pathname}`;
   } else {
-    return `https://${
-      siteIdentifierToDomain(siteIdentifier, config.sites[siteIdentifier])
-    }${pathname}`;
+    return `https://${siteIdentifierToDomain(
+      siteIdentifier,
+      config.sites[siteIdentifier]
+    )}${pathname}`;
   }
 };
 export const feedjsonUrlToRssUrl = (url: string) => {
@@ -387,14 +377,14 @@ export const urlToLanguageUrl = (
   url: string,
   languagePrefix: string,
   versions: Version[],
-  languages: Language[],
+  languages: Language[]
 ) => {
   const urlInfo = parsePageUrl(url, versions, languages);
   const urlObj = new URL(url);
   // check if url has a prefix
-  urlObj.pathname = `/${languagePrefix}${urlInfo.version.prefix}${
-    urlInfo.pathname.slice(1)
-  }`;
+  urlObj.pathname = `/${languagePrefix}${
+    urlInfo.version.prefix
+  }${urlInfo.pathname.slice(1)}`;
   return urlObj.toString();
 };
 
@@ -402,20 +392,20 @@ export const urlToVersionUrl = (
   url: string,
   versionPrefix: string,
   versions: Version[],
-  languages: Language[],
+  languages: Language[]
 ) => {
   const urlInfo = parsePageUrl(url, versions, languages);
   const urlObj = new URL(url);
   // check if url has a prefix
-  urlObj.pathname = `/${urlInfo.language.prefix}${versionPrefix}${
-    urlInfo.pathname.slice(1)
-  }`;
+  urlObj.pathname = `/${
+    urlInfo.language.prefix
+  }${versionPrefix}${urlInfo.pathname.slice(1)}`;
   return urlObj.toString();
 };
 export const parsePageUrl = (
   url: string,
   versions: Version[],
-  lanuguages: Language[],
+  lanuguages: Language[]
 ): UrlInfo => {
   const urlObj = new URL(url);
   // get language code
@@ -465,10 +455,7 @@ export const parsePageUrl = (
 export const pathToSiteIdentifier = (path: string) => {
   return path;
 };
-export const arrayToObj = <T>(
-  arr: T[],
-  key = "id",
-): Record<string, T> => {
+export const arrayToObj = <T>(arr: T[], key = "id"): Record<string, T> => {
   const obj: Record<string, T> = {};
   for (const item of arr) {
     obj[(item as unknown as Record<string, string>)[key]] = item;
@@ -478,7 +465,7 @@ export const arrayToObj = <T>(
 export const getItemTranslations = function (
   translations: Record<string, Record<string, string>>,
   languageCode: string,
-  originalLanguageCode: string,
+  originalLanguageCode: string
 ): Record<string, string> {
   return translations[languageCode] || translations[originalLanguageCode] || {};
 };
@@ -569,23 +556,17 @@ export const getArchiveS3Bucket = (bucket: string): S3Bucket => {
     region: Deno.env.get("AWS_DEFAULT_REGION")!,
     endpointURL: Deno.env.get("AWS_ENDPOINT")!,
   };
-  const s3Bucket = new S3Bucket(
-    params,
-  );
+  const s3Bucket = new S3Bucket(params);
   return s3Bucket;
 };
-export const getCurrentDataS3Bucket = (
-  bucket: string,
-): S3Bucket => {
-  const s3Bucket = new S3Bucket(
-    {
-      accessKeyID: Deno.env.get("AWS_ACCESS_KEY_ID")!,
-      secretKey: Deno.env.get("AWS_SECRET_ACCESS_KEY")!,
-      bucket: bucket,
-      region: Deno.env.get("AWS_DEFAULT_REGION")!,
-      endpointURL: Deno.env.get("AWS_ENDPOINT")!,
-    },
-  );
+export const getCurrentDataS3Bucket = (bucket: string): S3Bucket => {
+  const s3Bucket = new S3Bucket({
+    accessKeyID: Deno.env.get("AWS_ACCESS_KEY_ID")!,
+    secretKey: Deno.env.get("AWS_SECRET_ACCESS_KEY")!,
+    bucket: bucket,
+    region: Deno.env.get("AWS_DEFAULT_REGION")!,
+    endpointURL: Deno.env.get("AWS_ENDPOINT")!,
+  });
   return s3Bucket;
 };
 
@@ -621,7 +602,7 @@ export function getArchiveSitePrefix(config: Config) {
 export const getCurrentTranslations = function (
   siteIdentifier: string,
   languageCode: string,
-  config: Config,
+  config: Config
 ): Record<string, string> {
   let currentTranslations: Record<string, string> = {};
   const sitesMap = config.sites;
@@ -631,8 +612,10 @@ export const getCurrentTranslations = function (
   const generalTranslations = getGeneralTranslations(languageCode, config);
   let siteTranslations = {};
   if (siteConfig.translations) {
-    siteTranslations = siteConfig.translations[languageCode] ??
-      siteConfig.translations["zh-Hans"] ?? {};
+    siteTranslations =
+      siteConfig.translations[languageCode] ??
+      siteConfig.translations["zh-Hans"] ??
+      {};
   }
 
   currentTranslations = {
@@ -644,7 +627,7 @@ export const getCurrentTranslations = function (
 };
 export const getGeneralTranslations = function (
   languageCode: string,
-  config: Config,
+  config: Config
 ) {
   let currentTranslations: Record<string, string> = {};
   const translations = config.translations;
@@ -664,7 +647,7 @@ export const getGeneralTranslations = function (
 export function resortSites(
   siteIdentifier: string,
   siteIdentifiers: string[],
-  config: Config,
+  config: Config
 ) {
   const relatedSites = config.sites[siteIdentifier].related ?? [];
 
@@ -716,12 +699,13 @@ export const addZero = function (num: number): string {
 
 export function weekOfYear(date: Date): WeekOfYear {
   const workingDate = new Date(
-    Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()),
+    Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate())
   );
 
   const day = workingDate.getUTCDay();
 
-  const nearestThursday = workingDate.getUTCDate() +
+  const nearestThursday =
+    workingDate.getUTCDate() +
     Day.Thu -
     (day === Day.Sun ? DAYS_PER_WEEK : day);
 
@@ -732,7 +716,7 @@ export function weekOfYear(date: Date): WeekOfYear {
   const weekYear = workingDate.getUTCFullYear();
   // return the calculated full weeks to nearest Thursday
   const week = Math.ceil(
-    (workingDate.getTime() - yearStart.getTime() + DAY) / WEEK,
+    (workingDate.getTime() - yearStart.getTime() + DAY) / WEEK
   );
   return {
     year: weekYear,
@@ -779,21 +763,23 @@ export async function sha1(message: string) {
   const data = encoder.encode(message);
   const hash = await crypto.subtle.digest("SHA-1", data);
   const hashArray = Array.from(new Uint8Array(hash)); // convert buffer to byte array
-  const hashHex = hashArray.map((b) => b.toString(16).padStart(2, "0")).join(
-    "",
-  ); // convert bytes to hex string
+  const hashHex = hashArray
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join(""); // convert bytes to hex string
   return hashHex;
 }
 export function callWithTimeout<T>(func: unknown, timeout: number): Promise<T> {
   return new Promise((resolve, reject) => {
     const timer = setTimeout(() => reject(new Error("timeout")), timeout);
     // @ts-ignore: hard to type
-    func().then(
-      // @ts-ignore: hard to type
-      (response) => resolve(response),
-      // @ts-ignore: hard to type
-      (err) => reject(new Error(err)),
-    ).finally(() => clearTimeout(timer));
+    func()
+      .then(
+        // @ts-ignore: hard to type
+        (response) => resolve(response),
+        // @ts-ignore: hard to type
+        (err) => reject(new Error(err))
+      )
+      .finally(() => clearTimeout(timer));
   });
 }
 export function tagToUrl(
@@ -801,24 +787,25 @@ export function tagToUrl(
   siteIdentifier: string,
   language: Language,
   version: Version,
-  config: Config,
+  config: Config
 ): string {
-  return `${
-    getArchiveSitePrefix(config)
-  }/${language.prefix}${version.prefix}${siteIdentifier}/tags/${
+  return `${getArchiveSitePrefix(config)}/${language.prefix}${
+    version.prefix
+  }${siteIdentifier}/tags/${
     // @ts-ignore: npm module
-    slug(tag)}/`;
+    slug(tag)
+  }/`;
 }
 export function archiveToUrl(
   archiveKey: string,
   siteIdentifier: string,
   language: Language,
   version: Version,
-  config: Config,
+  config: Config
 ): string {
-  return `${
-    getArchiveSitePrefix(config)
-  }/${language.prefix}${version.prefix}${siteIdentifier}/archive/${archiveKey}/`;
+  return `${getArchiveSitePrefix(config)}/${language.prefix}${
+    version.prefix
+  }${siteIdentifier}/archive/${archiveKey}/`;
 }
 
 export function issueToUrl(
@@ -826,27 +813,27 @@ export function issueToUrl(
   siteIdentifier: string,
   language: Language,
   version: Version,
-  config: Config,
+  config: Config
 ): string {
-  return `${
-    getArchiveSitePrefix(config)
-  }/${language.prefix}${version.prefix}${siteIdentifier}/issues/${issue}/`;
+  return `${getArchiveSitePrefix(config)}/${language.prefix}${
+    version.prefix
+  }${siteIdentifier}/issues/${issue}/`;
 }
 export function postToUrl(
   id: string,
   siteIdentifier: string,
   language: Language,
   version: Version,
-  config: Config,
+  config: Config
 ): string {
   const parsed = parseItemIdentifier(id);
   const utcDate = new Date(
-    Date.UTC(Number(parsed.year), Number(parsed.month) - 1, Number(parsed.day)),
+    Date.UTC(Number(parsed.year), Number(parsed.month) - 1, Number(parsed.day))
   );
   const week = weekOfYear(utcDate);
-  return `${
-    getArchiveSitePrefix(config)
-  }/${language.prefix}${version.prefix}${siteIdentifier}/posts/${week.path}/${id}/`;
+  return `${getArchiveSitePrefix(config)}/${language.prefix}${
+    version.prefix
+  }${siteIdentifier}/posts/${week.path}/${id}/`;
 }
 
 export const formatNumber = (num: number): string => {
@@ -856,7 +843,7 @@ export const formatNumber = (num: number): string => {
 
 export const uploadFileToDufs = async (
   client: DigestClient,
-  filepath: string,
+  filepath: string
 ) => {
   // use fetch to put file
   // const formData = new FormData();
@@ -866,13 +853,10 @@ export const uploadFileToDufs = async (
     throw new Error("DUFS_URL is not set");
   }
 
-  const response = await client.fetch(
-    url + "/" + filepath,
-    {
-      method: "PUT",
-      body: await Deno.readTextFile(filepath),
-    },
-  );
+  const response = await client.fetch(url + "/" + filepath, {
+    method: "PUT",
+    body: await Deno.readTextFile(filepath),
+  });
   if (response.status === 201) {
     return response;
   } else {
@@ -893,15 +877,15 @@ export const getDufsClient = (): DigestClient => {
 };
 
 export function getTargetSiteIdentifiersByFilePath(filePath: string): string[] {
-  const targetSiteIdentifiers = path.basename(path.dirname(filePath)).split(
-    "_",
-  );
+  const targetSiteIdentifiers = path
+    .basename(path.dirname(filePath))
+    .split("_");
   return targetSiteIdentifiers;
 }
 
 export async function getFilesByTargetSiteIdentifiers(
   dirPath: string,
-  targetSiteIdentifiers: string[],
+  targetSiteIdentifiers: string[]
 ): Promise<FilteredFile> {
   const sites = targetSiteIdentifiers || [];
   const groups: Record<string, string[]> = {};
@@ -947,9 +931,7 @@ export async function getFilesByTargetSiteIdentifiers(
   };
 }
 
-export function parseItemIdentifier(
-  fileBasename: string,
-): ParsedFilename {
+export function parseItemIdentifier(fileBasename: string): ParsedFilename {
   // remove extension
   let filename = fileBasename;
   if (filename.endsWith(".json")) {
@@ -977,7 +959,7 @@ export function parseItemIdentifier(
 }
 
 export function parseItemIdentifierWithTime(
-  fileBasename: string,
+  fileBasename: string
 ): ParsedFilenameWithTime {
   // remove extension
   let filename = fileBasename;
@@ -1025,7 +1007,7 @@ export async function getRedirectedUrlDirectly(url: string): Promise<string> {
   const headers = new Headers();
   headers.set(
     "User-Agent",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
   );
   const params: RequestInit = {
     signal: c.signal,
@@ -1049,14 +1031,12 @@ export async function getRedirectedUrl(url: string): Promise<string> {
     `redirected url fetch result: `,
     url,
     fetchResult.status,
-    fetchResult.url,
+    fetchResult.url
   );
   return fetchResult.url;
 }
 
-export function tryToRemoveUnnecessaryParams(
-  url: string,
-): string {
+export function tryToRemoveUnnecessaryParams(url: string): string {
   const urlObj = new URL(url);
   urlObj.searchParams.delete("ref");
   // utm_source
@@ -1126,9 +1106,10 @@ export function startDateOfWeek(date: Date, start_day = 1): Date {
   date = new Date(date.getTime());
   const day_of_month = date.getUTCDate();
   const day_of_week = date.getUTCDay();
-  const difference_in_days = day_of_week >= start_day
-    ? day_of_week - start_day
-    : day_of_week - start_day + 7;
+  const difference_in_days =
+    day_of_week >= start_day
+      ? day_of_week - start_day
+      : day_of_week - start_day + 7;
   date.setUTCDate(day_of_month - difference_in_days);
   date.setUTCHours(0);
   date.setUTCMinutes(0);
@@ -1165,13 +1146,9 @@ export function weekToRange(weekID: string): string {
 export function parseArchiveUrl(
   url: string,
   versions: Version[],
-  languages: Language[],
+  languages: Language[]
 ): ParsedArchiveUrl {
-  const routeInfo = parsePageUrl(
-    url,
-    versions,
-    languages,
-  );
+  const routeInfo = parsePageUrl(url, versions, languages);
   const pattern = new URLPattern({
     pathname: "/:siteIdentifier/:scope/*",
   });
@@ -1190,7 +1167,9 @@ export function parseArchiveUrl(
   let pageType = "index.html";
   let id = "";
   if (
-    scope === "tags" || scope === "issues" || scope === "archive" ||
+    scope === "tags" ||
+    scope === "issues" ||
+    scope === "archive" ||
     scope === "posts"
   ) {
     let rootFolder = scope;
@@ -1215,7 +1194,7 @@ export function parseArchiveUrl(
       id = posixPath.basename(parentPath);
       itemsFilePath = posixPath.join(
         posixPath.dirname(parentPath),
-        "items.json",
+        "items.json"
       );
     }
   }
@@ -1282,7 +1261,7 @@ export function getSourceLinks(siteIdentifier: string, config: Config): Link[] {
 export function liteUrlToUrl(
   url: string,
   versions: Version[],
-  languages: Language[],
+  languages: Language[]
 ): string {
   const parsed = parsePageUrl(url, versions, languages);
 
@@ -1295,9 +1274,7 @@ export function liteUrlToUrl(
   return urlObj.href;
 }
 
-export function getDuplicatedRule(
-  rules: Rule[],
-): string | undefined {
+export function getDuplicatedRule(rules: Rule[]): string | undefined {
   let deduplicateRule: Rule | undefined;
   for (const rule of rules) {
     if (rule.type === "deduplicate") {
@@ -1314,7 +1291,7 @@ export function getDuplicatedRule(
 export function hasSameKeys<T>(
   currentKeysMap: Map<string, T>,
   newKeys: string[],
-  deduplicate = "or",
+  deduplicate = "or"
 ): T[] {
   const currentKeys = Array.from(currentKeysMap.keys());
   const sameKeys = currentKeys.filter((key) => newKeys.includes(key));
@@ -1345,8 +1322,8 @@ export function formatId(id: string): string {
 
   if (isUrl) {
     const url = new URL(id);
-    id = url.hostname.replace(/\./g, "-") + "-" +
-      url.pathname.replace(/\//g, "-");
+    id =
+      url.hostname.replace(/\./g, "-") + "-" + url.pathname.replace(/\//g, "-");
     // params
     const params = url.searchParams;
     if (params.get("p")) {

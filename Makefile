@@ -194,9 +194,9 @@ loadcurrent:
 	aws s3 cp s3://feed/cache.zip ./cache.zip --endpoint-url $(AWS_ENDPOINT) && make decompresscache && aws s3 cp s3://feed/current ./current --endpoint-url $(AWS_ENDPOINT) --recursive --exclude ".*"
 .Phony: prod-loadcurrent
 prod-loadcurrent:
-	aws s3 cp s3://feed/prod-cache.zip ./prod-cache.zip --endpoint-url $(AWS_ENDPOINT) && make prod-decompresscache 
+	aws s3 cp s3://feed/prod-cache.zip ./prod-cache.zip --endpoint-url $(AWS_ENDPOINT) && make prod-decompresscache
 
-.Phony: prod-loadcache 
+.Phony: prod-loadcache
 prod-loadcache:
 	aws s3 cp s3://feed/prod-cache.zip ./prod-cache.zip --endpoint-url $(AWS_ENDPOINT)
 .Phony: loadarchivehttp
@@ -217,11 +217,11 @@ prod-awsuploadarchive:
 
 .Phony: uploadcurrent
 uploadcurrent:
-	make compresscache && curl --digest --max-time 100 -u $(DUFS_SECRETS) -T ./cache.zip $(DUFS_URL)/cache.zip && aws s3 cp ./cache.zip  s3://feed/cache.zip --endpoint-url $(AWS_ENDPOINT) 
+	make compresscache && curl --digest --max-time 100 -u $(DUFS_SECRETS) -T ./cache.zip $(DUFS_URL)/cache.zip && aws s3 cp ./cache.zip  s3://feed/cache.zip --endpoint-url $(AWS_ENDPOINT)
 
 .Phony: prod-uploadcurrent
 prod-uploadcurrent:
-	make prod-uploadcache 
+	make prod-uploadcache
 .Phony: prod-uploadcache
 prod-uploadcache:
 	make prod-compresscache && aws s3 cp ./prod-cache.zip  s3://feed/prod-cache.zip --endpoint-url $(AWS_ENDPOINT)
@@ -329,9 +329,13 @@ config:
 clean:
 	rm -rf current/ archive/ public/ dev/public/ prod-current/ prod-archive/ cache.zip prod-cache.zip cache/ prod-cache/
 
-.Phony: prod-initcachezip
+.PHONY: prod-initcachezip
 prod-initcachezip:
-	make prod-uploadcurrent
+	make prod-initfiles && make prod-uploadcurrent
+
+.PHONY: prod-initfiles
+prod-initfiles:
+	mkdir -p prod-current && touch prod-current/init.txt && mkdir -p prod-cache && touch prod-cache/init.txt
 
 
 .Phony: prod-movereddit
