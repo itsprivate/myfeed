@@ -17,19 +17,14 @@ import SourceItemAdapter from "../adapters/source.ts";
 // import D from "../d.ts";
 import DPro from "../dp.ts";
 
-export default async function translateItems(
-  options: RunOptions,
-) {
+export default async function translateItems(options: RunOptions) {
   const config = options.config;
   // get all 2-formated files
   // is exists formated files folder
   await fs.ensureDir(getDataFormatedPath());
   const sites = options.siteIdentifiers || [];
   const { files, targetSiteIdentifiers } =
-    await getFilesByTargetSiteIdentifiers(
-      getDataFormatedPath(),
-      sites,
-    );
+    await getFilesByTargetSiteIdentifiers(getDataFormatedPath(), sites);
 
   if (files.length > 0) {
     const currentTranslationsMap = new Map<
@@ -41,7 +36,9 @@ export default async function translateItems(
 
     for await (const entry of fs.walk(getDataTranslatedPath())) {
       if (entry.isFile && entry.name.endsWith(".json")) {
-        const translationJson = await readJSONFile(entry.path) as FormatedItem;
+        const translationJson = (await readJSONFile(
+          entry.path
+        )) as FormatedItem;
 
         if (translationJson._translations && translationJson.id) {
           const parsed = parseItemIdentifier(translationJson.id);
@@ -51,7 +48,7 @@ export default async function translateItems(
           for (const cachedKey of cachedKeys) {
             currentTranslationsMap.set(
               cachedKey,
-              translationJson._translations,
+              translationJson._translations
             );
           }
         }
@@ -80,17 +77,14 @@ export default async function translateItems(
           const cachedKeys = itemInstance.getCachedKeys();
 
           for (const cachedKey of cachedKeys) {
-            currentTranslationsMap.set(
-              cachedKey,
-              currentItem._translations,
-            );
+            currentTranslationsMap.set(cachedKey, currentItem._translations);
           }
         }
       }
     }
 
     log.info(
-      `found ${currentTranslationsMap.size} current  items translated Cache`,
+      `found ${currentTranslationsMap.size} current  items translated Cache`
     );
 
     // yes
@@ -123,26 +117,25 @@ export default async function translateItems(
         const elapsedTime = (Date.now() - startTime) / 1000 / 60;
         if (elapsedTime > translateTimeout) {
           log.info(
-            `translate timeout, elapsed time: ${elapsedTime} minutes, expect time: ${translateTimeout} minutes`,
+            `translate timeout, elapsed time: ${elapsedTime} minutes, expect time: ${translateTimeout} minutes`
           );
           break;
         }
       }
 
-      const item = await readJSONFile(file) as FormatedItem;
+      const item = (await readJSONFile(file)) as FormatedItem;
 
       const itemInstance = new SourceItemAdapter(item);
-      const originalTranslations = (item._translations
-        ? item
-          ._translations[item._original_language]
-        : {}) as Record<string, string>;
+      const originalTranslations = (
+        item._translations ? item._translations[item._original_language] : {}
+      ) as Record<string, string>;
       const originalTranslationKeys = Object.keys(originalTranslations);
       // try to find 3-translations to get cached items
 
       // write translated item to file
       const targetSiteIdentifiers = getTargetSiteIdentifiersByFilePath(file);
       const translatedPath = itemInstance.getTranslatedPath(
-        targetSiteIdentifiers,
+        targetSiteIdentifiers
       );
       const translations = {
         ...item._translations,
@@ -151,7 +144,7 @@ export default async function translateItems(
       const sameKeys = hasSameKeys(
         currentTranslationsMap,
         itemInstance.getCachedKeys(),
-        "and",
+        "and"
       );
       if (sameKeys.length > 0) {
         const cachedTranslations = sameKeys[0];
@@ -161,7 +154,7 @@ export default async function translateItems(
             if (!translations[key]) {
               log.debug(
                 `use cached translation for ${key}`,
-                cachedTranslations[key],
+                cachedTranslations[key]
               );
               translations[key] = {
                 ...cachedTranslations[key],
@@ -206,7 +199,7 @@ export default async function translateItems(
           // if todoLanguages is empty, skip
           if (todoLanguages.length === 0) {
             log.info(
-              `${total}/${files.length} ${file} use cached translation, skip`,
+              `${total}/${files.length} ${file} use cached translation, skip`
             );
             translateWithCacheTotal++;
             isTranslateSuccess = true;
@@ -214,9 +207,7 @@ export default async function translateItems(
           }
 
           const value = originalTranslations[field];
-          log.info(
-            `translating ${file} ${field}: ${value} `,
-          );
+          log.info(`translating ${file} ${field}: ${value} `);
           // set timeout, max 100s
           try {
             const translated = await callWithTimeout<Record<string, string>>(
@@ -224,9 +215,9 @@ export default async function translateItems(
                 translation,
                 value,
                 item._original_language,
-                todoLanguages.map((item) => item.code),
+                todoLanguages.map((item) => item.code)
               ),
-              100000,
+              100000
             );
 
             for (const languageCode of Object.keys(translated)) {
@@ -239,10 +230,7 @@ export default async function translateItems(
             translateWithAPITotal += 1;
             isTranslateSuccess = true;
 
-            log.info(
-              `${total}/${files.length} translated result:`,
-              translated,
-            );
+            log.info(`${total}/${files.length} translated result:`, translated);
             if (translateWithAPITotal % 10 === 0) {
               log.info(`translated ${translateWithAPITotal} items `);
             }
@@ -250,7 +238,7 @@ export default async function translateItems(
             isTranslateSuccess = false;
             failedTotal++;
             log.warn(
-              `${total}/${files.length} translate ${file} ${value} failed`,
+              `${total}/${files.length} translate ${file} ${value} failed`
             );
             log.warn(e);
             throw e;
@@ -261,15 +249,12 @@ export default async function translateItems(
       if (isTranslateSuccess) {
         translatedJson._translations = translations;
 
-        await writeJSONFile(
-          translatedPath,
-          translatedJson,
-        );
+        await writeJSONFile(translatedPath, translatedJson);
         // remove formated file
         await Deno.remove(file);
         if (translateCountLimit > 0 && total >= translateCountLimit) {
           log.info(
-            `translated ${total} items, limit ${translateCountLimit}, break`,
+            `translated ${total} items, limit ${translateCountLimit}, break`
           );
           break;
         }
@@ -278,7 +263,7 @@ export default async function translateItems(
 
     // close instance
     log.info(
-      `translated ${total} items, failed ${failedTotal} items, use api: ${translateWithAPITotal}, use cache: ${translateWithCacheTotal}`,
+      `translated ${total} items, failed ${failedTotal} items, use api: ${translateWithAPITotal}, use cache: ${translateWithCacheTotal}`
     );
 
     // await translation.close();

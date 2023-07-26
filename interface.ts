@@ -7,6 +7,7 @@ export interface SourceAPIConfig {
   url: string;
   home_page_url: string;
   name: string;
+  language?: string;
 }
 export interface Source {
   api: SourceAPIConfig | SourceAPIConfig[];

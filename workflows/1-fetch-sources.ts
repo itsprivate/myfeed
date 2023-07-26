@@ -300,7 +300,7 @@ export default async function fetchSources(
     for (const sourceApiConfig of sourceUrls) {
       const sourceUrl = sourceApiConfig.url;
       const sourceName = sourceApiConfig.name;
-      log.info("sourceName", sourceName);
+      const originalLanguage = sourceApiConfig.language;
       const deduplicate = getDuplicatedRule(rules);
       const sourceStat: SourceStat = {
         raw_count: 0,
@@ -487,7 +487,13 @@ export default async function fetchSources(
       );
       // @ts-ignore: ignore
       originalItems = originalItems.map(
-        (originalItem) => new adapters[sourceType](originalItem)
+        // @ts-ignore: ignore
+        (originalItem) => {
+          if (originalLanguage) {
+            originalItem.__originalLanguage = originalLanguage;
+          }
+          return new adapters[sourceType](originalItem);
+        }
       );
       sourceStat.raw_count = originalItems.length;
       // if google news limit time

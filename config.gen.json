@@ -190,19 +190,10 @@
       "id": "source-myfeed",
       "api": [
         {
-          "url": "https://everythingisbullshit.substack.com/feed",
-          "name": "Everything Is Bullshit",
-          "home_page_url": "https://everythingisbullshit.substack.com/"
-        },
-        {
-          "url": "https://kill-the-newsletter.com/feeds/v7vzuucxw2y0lonw.xml",
-          "name": "Get More That",
-          "home_page_url": "https://kill-the-newsletter.com/"
-        },
-        {
-          "url": "https://www.disconnect.blog/feed",
-          "name": "Disconnect",
-          "home_page_url": "https://www.disconnect.blog/"
+          "url": "http://dikaioslin.blogspot.com/feeds/posts/default",
+          "name": "Dikaios Lin",
+          "home_page_url": "http://dikaioslin.blogspot.com/",
+          "language": "zh-Hans"
         }
       ],
       "type": "rss"

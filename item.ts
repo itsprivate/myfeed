@@ -88,6 +88,11 @@ export default class Item<T> {
     return keys;
   }
   getOriginalLanguage(): string {
+    // @ts-ignore: it's ok
+    if (this.originalItem && this.originalItem.__originalLanguage) {
+      // @ts-ignore: it's ok
+      return this.originalItem.__originalLanguage;
+    }
     return "en";
   }
 

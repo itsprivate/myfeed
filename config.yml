@@ -108,6 +108,10 @@ social_links:
 sources:
   - id: source-myfeed
     api:
+      - url: http://dikaioslin.blogspot.com/feeds/posts/default
+        name: Dikaios Lin
+        home_page_url: http://dikaioslin.blogspot.com/
+        language: zh-Hans
       - url: https://everythingisbullshit.substack.com/feed
         name: Everything Is Bullshit
         home_page_url: https://everythingisbullshit.substack.com/
